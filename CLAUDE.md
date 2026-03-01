@@ -55,6 +55,11 @@ mysql -u <user> -p kollektion < rsrc/kollektion.sql
 
 The `rsrc/kollektion.sql` dump contains ~1,700 items in a flat `items` + `metadata` (key-value) structure. This is seed data for future migration into the new schema — do not modify it.
 
+## Official Data Sources
+
+- **Up-Front Works** (record label): https://www.up-front-works.jp/ — catalog codes, release dates, editions
+- **Hello! Project official**: https://www.helloproject.com — artists, groups, members
+
 ## Conventions
 
 - **Working language:** French (conversations, specs, proposals), but all code, SQL, variable names, and technical identifiers are in English
