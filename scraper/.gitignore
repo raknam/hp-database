@@ -1,0 +1,9 @@
+cache/
+images/
+releases/
+members/
+.claude/
+*.pyc
+*.json
+*.webp
+__pycache__/
