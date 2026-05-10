@@ -1,0 +1,116 @@
+{% extends "base.html" %}
+{% block title %}{{ release.title }} – HP Database{% endblock %}
+{% block content %}
+
+<h1>{{ release.title }}</h1>
+
+<div class="release-detail">
+  <div class="cover">
+    {% if release.images %}
+    <img src="/images/{{ release.images[0].path.split('/')[-1] }}" alt="{{ release.title }}">
+    {% else %}
+    <div class="no-img" style="height:260px;border-radius:8px">🎵</div>
+    {% endif %}
+    {% if release.images|length > 1 %}
+    <div class="gallery" style="margin-top:12px">
+      {% for img in release.images[1:] %}
+      <img src="/images/{{ img.path.split('/')[-1] }}" alt="" loading="lazy">
+      {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+
+  <div class="info">
+    <table class="meta-table">
+      {% if release.artist %}
+      <tr><td>Artist</td><td><a href="/artists/{{ release.artist.slug or '' }}">{{ release.artist.name_ja or release.artist.name_en }}</a></td></tr>
+      {% elif release.artist_label_raw %}
+      <tr><td>Artist</td><td>{{ release.artist_label_raw }}</td></tr>
+      {% endif %}
+      {% if release.category %}
+      <tr><td>Category</td><td>{{ release.category }}</td></tr>
+      {% endif %}
+      {% if release.release_date %}
+      <tr><td>Release date</td><td>{{ release.release_date }}</td></tr>
+      {% endif %}
+      {% if release.label %}
+      <tr><td>Label</td><td>{{ release.label }}</td></tr>
+      {% endif %}
+      <tr><td>ID</td><td>{{ release.id }}
+        {% if release.external_id %}
+        &nbsp;<a href="https://helloproject.com/release/{{ release.external_id }}/" target="_blank" style="font-size:0.8rem">↗ site</a>
+        {% endif %}
+      </td></tr>
+    </table>
+
+    {% if release.editions %}
+    <h2>Editions &amp; Tracklists</h2>
+    {% for ed in release.editions %}
+    <div class="edition-block">
+      <div class="edition-header">
+        <div>
+          <div>{{ ed.name or 'Edition' }}</div>
+          {% if ed.note %}<div class="edition-note">{{ ed.note }}</div>{% endif %}
+        </div>
+        <div style="display:flex;align-items:center;gap:12px;flex-wrap:wrap">
+          {% if ed.price_raw %}<span class="edition-price">{{ ed.price_raw }}</span>{% endif %}
+          {% set ci = ed.collection_item %}
+          {% if ci and ci.owned %}
+          <button class="owned-btn is-owned"
+            hx-post="/collection/toggle/{{ ed.id }}"
+            hx-swap="outerHTML">✓ Owned</button>
+          {% else %}
+          <button class="owned-btn"
+            hx-post="/collection/toggle/{{ ed.id }}"
+            hx-swap="outerHTML">Add to collection</button>
+          {% endif %}
+        </div>
+      </div>
+
+      {% if ed.image_path and (not release.images or ed.image_path != release.images[0].path) %}
+      <div style="padding:10px">
+        <img src="/images/{{ ed.image_path.split('/')[-1] }}" alt="{{ ed.name }}" style="height:120px;border-radius:6px">
+      </div>
+      {% endif %}
+
+      {% for disc in ed.discs %}
+      <div class="disc-label">
+        <span>{{ disc.disc_type or 'DISC' }}{% if disc.catalog_no %} · {{ disc.catalog_no }}{% endif %}</span>
+        {% if disc.iso_files %}
+        <span>
+          {% for iso in disc.iso_files %}
+          <a href="/iso/{{ iso.id }}/open" class="iso-link">📀 {{ iso.format|upper }} ↗</a>
+          {% endfor %}
+        </span>
+        {% endif %}
+      </div>
+      <ul class="track-list">
+        {% for tr in disc.tracks %}
+        <li>
+          <span class="track-idx">{{ tr.index_no }}</span>
+          <span class="track-title">
+            {{ tr.title }}
+            {% if tr.suffix %}<span class="track-suffix">{{ tr.suffix }}</span>{% endif %}
+            {% if tr.credits %}
+            <span class="track-credits">
+              {% for c in tr.credits %}{{ c.role }}：{{ c.credit_text }}{% if not loop.last %} · {% endif %}{% endfor %}
+            </span>
+            {% endif %}
+          </span>
+          <span class="track-dur">
+            {% if tr.duration_seconds %}
+            {{ '%d:%02d'|format(tr.duration_seconds // 60, tr.duration_seconds % 60) }}
+            {% endif %}
+          </span>
+        </li>
+        {% endfor %}
+      </ul>
+      {% endfor %}
+    </div>
+    {% endfor %}
+    {% else %}
+    <p style="color:#555">No edition data scraped yet.</p>
+    {% endif %}
+  </div>
+</div>
+{% endblock %}

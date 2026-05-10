@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+{% block title %}{% if q %}Search: {{ q }}{% else %}Search{% endif %} – HP Database{% endblock %}
+{% block content %}
+<h1>{% if q %}Search: "{{ q }}"{% else %}Search{% endif %}</h1>
+
+{% if q and not releases and not artists %}
+<p class="no-data">No results found.</p>
+{% endif %}
+
+{% if artists %}
+<h2>Artists ({{ artists|length }})</h2>
+<div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:24px">
+  {% for a in artists %}
+  <a href="/artists/{{ a.slug or a.id }}" style="background:#1a1a2e;padding:6px 14px;border-radius:20px;font-size:0.85rem;color:#c8a0ff;border:1px solid #2a2a4a">
+    {{ a.name_ja or a.name_en or a.slug }}
+  </a>
+  {% endfor %}
+</div>
+{% endif %}
+
+{% if releases %}
+<h2>Releases ({{ releases|length }}{% if releases|length == 100 %}+{% endif %})</h2>
+<div>
+  {% for r in releases %}
+  {% set img = r.images[0].path if r.images else none %}
+  <div class="result-item">
+    <a href="/release/{{ r.id }}">
+      {% if img %}
+      <img src="/images/{{ img.split('/')[-1] }}" alt="{{ r.title }}" loading="lazy">
+      {% else %}
+      <div class="no-img">🎵</div>
+      {% endif %}
+    </a>
+    <div>
+      <div><a href="/release/{{ r.id }}">{{ r.title }}</a>
+        {% if r.category %}<span class="tag">{{ r.category }}</span>{% endif %}
+      </div>
+      <div style="color:#888;font-size:0.82rem">
+        {{ r.artist_label_raw or (r.artist.name_ja if r.artist else '') }}
+        {% if r.release_date %} · {{ r.release_date }}{% endif %}
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
+
+{% if not q %}
+<p style="color:#555">Enter a search term above.</p>
+{% endif %}
+{% endblock %}

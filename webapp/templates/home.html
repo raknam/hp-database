@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% block title %}HP Database{% endblock %}
+{% block content %}
+<h1>Hello! Project Database</h1>
+
+<div class="stat-grid">
+  <div class="stat-card">
+    <div class="stat-num">{{ stats.releases }}</div>
+    <div class="stat-label">Releases</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-num">{{ stats.artists }}</div>
+    <div class="stat-label">Artists</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-num">{{ stats.owned }}</div>
+    <div class="stat-label">Owned editions</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-num">{{ stats.iso }}</div>
+    <div class="stat-label">ISOs indexed</div>
+  </div>
+</div>
+
+{% if latest %}
+<h2>Latest releases</h2>
+<div class="grid">
+  {% for r in latest %}
+  {% set img = r.images[0].path if r.images else none %}
+  <a href="/release/{{ r.id }}" class="card">
+    {% if img %}
+    <img src="/images/{{ img.split('/')[-1] }}" alt="{{ r.title }}" loading="lazy">
+    {% else %}
+    <div class="no-img">🎵</div>
+    {% endif %}
+    <div class="card-body">
+      <div class="title">{{ r.title }}</div>
+      <div class="sub">{{ r.artist_label_raw or '' }}</div>
+      {% if r.category %}<span class="badge">{{ r.category }}</span>{% endif %}
+    </div>
+  </a>
+  {% endfor %}
+</div>
+{% else %}
+<p class="no-data">No releases yet — run <code>py -m importer.import_scraper --all</code></p>
+{% endif %}
+{% endblock %}

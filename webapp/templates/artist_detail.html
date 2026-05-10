@@ -1,0 +1,79 @@
+{% extends "base.html" %}
+{% block title %}{{ artist.name_ja or artist.name_en }} – HP Database{% endblock %}
+{% block content %}
+
+{% set extra = artist.extra or {} %}
+{% set images = extra.get('images', []) %}
+{% set details = extra.get('details', {}) %}
+{% set color = extra.get('color', {}) %}
+
+<h1>{{ artist.name_ja or artist.name_en or artist.slug }}</h1>
+
+<div class="release-detail">
+  <div class="cover">
+    {% if images %}
+    <img src="/images/{{ images[0].split('/')[-1] }}" alt="{{ artist.name_ja }}" style="border-radius:8px">
+    {% endif %}
+  </div>
+  <div class="info">
+    <table class="meta-table">
+      {% if artist.name_ja %}<tr><td>名前</td><td>{{ artist.name_ja }}</td></tr>{% endif %}
+      {% if artist.name_en %}<tr><td>Name</td><td>{{ artist.name_en }}</td></tr>{% endif %}
+      {% if artist.name_kana %}<tr><td>Kana</td><td>{{ artist.name_kana }}</td></tr>{% endif %}
+      {% if color and color.hex %}
+      <tr><td>Color</td><td>
+        <span class="color-swatch" style="background:{{ color.hex }}"></span>{{ color.name or color.hex }}
+      </td></tr>
+      {% endif %}
+      {% for k, v in details.items() %}
+      <tr><td>{{ k }}</td><td>{{ v }}</td></tr>
+      {% endfor %}
+    </table>
+
+    {% if members %}
+    <h2>Members</h2>
+    <div class="member-grid">
+      {% for m in members %}
+      {% set mex = m.extra or {} %}
+      {% set mimg = mex.get('images', [None])[0] %}
+      <a href="/artists/{{ m.slug or m.id }}" class="member-card">
+        {% if mimg %}
+        <img src="/images/{{ mimg.split('/')[-1] }}" alt="{{ m.name_ja }}" loading="lazy">
+        {% else %}
+        <div class="no-img">👤</div>
+        {% endif %}
+        <div class="member-card-body">
+          <div class="name">{{ m.name_ja or m.name_en }}</div>
+          {% if m.name_en %}<div class="sub">{{ m.name_en }}</div>{% endif %}
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+</div>
+
+{% if releases %}
+<h2>Releases ({{ releases|length }})</h2>
+<div class="grid">
+  {% for r in releases %}
+  {% set img = r.images[0].path if r.images else none %}
+  <a href="/release/{{ r.id }}" class="card">
+    {% if img %}
+    <img src="/images/{{ img.split('/')[-1] }}" alt="{{ r.title }}" loading="lazy">
+    {% else %}
+    <div class="no-img">🎵</div>
+    {% endif %}
+    <div class="card-body">
+      <div class="title">{{ r.title }}</div>
+      {% if r.release_date %}<div class="sub">{{ r.release_date }}</div>{% endif %}
+      {% if r.category %}<span class="badge">{{ r.category }}</span>{% endif %}
+    </div>
+  </a>
+  {% endfor %}
+</div>
+{% else %}
+<p style="color:#555;margin-top:24px">No releases linked to this artist.</p>
+{% endif %}
+
+{% endblock %}

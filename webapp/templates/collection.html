@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block title %}Collection – HP Database{% endblock %}
+{% block content %}
+<h1>My Collection <span style="color:#555;font-size:1rem">({{ items|length }} editions)</span></h1>
+
+{% if items %}
+<div class="grid">
+  {% for ci in items %}
+  {% set ed = ci.edition %}
+  {% set r = ed.release %}
+  {% set img = r.images[0].path if r.images else (ed.image_path if ed.image_path else none) %}
+  <a href="/release/{{ r.id }}" class="card">
+    {% if img %}
+    <img src="/images/{{ img.split('/')[-1] }}" alt="{{ r.title }}" loading="lazy">
+    {% else %}
+    <div class="no-img">🎵</div>
+    {% endif %}
+    <div class="card-body">
+      <div class="title">{{ r.title }}</div>
+      <div class="sub">{{ r.artist_label_raw or (r.artist.name_ja if r.artist else '') }}</div>
+      {% if ed.name %}<span class="badge">{{ ed.name }}</span>{% endif %}
+      {% if r.category %}<span class="badge">{{ r.category }}</span>{% endif %}
+      <div style="margin-top:6px"><span class="owned-badge">✓ Owned</span></div>
+    </div>
+  </a>
+  {% endfor %}
+</div>
+{% else %}
+<p class="no-data">No owned editions yet. Open a release page and click "Add to collection".</p>
+{% endif %}
+{% endblock %}

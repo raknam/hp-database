@@ -1,0 +1,62 @@
+{% extends "base.html" %}
+{% block title %}Admin – HP Database{% endblock %}
+{% block content %}
+<h1>Admin</h1>
+
+{% set msg = request.query_params.get('msg', '') %}
+{% if msg == 'import_started' %}
+<div class="msg-box">Import started in background. Check console for progress.</div>
+{% elif msg == 'scan_started' %}
+<div class="msg-box">NAS scan started in background.</div>
+{% elif msg == 'no_roots' %}
+<div class="msg-box" style="background:#3a1a1a;border-color:#5a2a2a;color:#fca">No NAS roots configured. Set NAS_ROOTS env var.</div>
+{% endif %}
+
+<div class="admin-section">
+  <h2 style="margin-top:0">Database stats</h2>
+  <div class="stat-grid" style="margin-top:16px">
+    <div class="stat-card"><div class="stat-num">{{ stats.releases }}</div><div class="stat-label">Releases</div></div>
+    <div class="stat-card"><div class="stat-num">{{ stats.artists }}</div><div class="stat-label">Artists</div></div>
+    <div class="stat-card"><div class="stat-num">{{ stats.owned }}</div><div class="stat-label">Owned editions</div></div>
+    <div class="stat-card"><div class="stat-num">{{ stats.iso }}</div><div class="stat-label">ISO files</div></div>
+  </div>
+</div>
+
+<div class="admin-section">
+  <h2 style="margin-top:0">Import scraper data</h2>
+  <p style="color:#888;font-size:0.85rem;margin:8px 0 16px">Reads all JSON files from <code>scraper/releases/</code> and <code>scraper/members/</code>. Safe to re-run (idempotent). Does not touch collection or ISO data.</p>
+  <form method="post" action="/admin/import">
+    <button type="submit" class="btn-primary">▶ Run import --all</button>
+  </form>
+</div>
+
+<div class="admin-section">
+  <h2 style="margin-top:0">Scan NAS for ISOs</h2>
+  {% if nas_roots %}
+  <p style="color:#888;font-size:0.85rem;margin:8px 0 16px">
+    Roots: {% for r in nas_roots %}<code>{{ r }}</code>{% if not loop.last %}, {% endif %}{% endfor %}
+  </p>
+  <form method="post" action="/admin/scan-nas">
+    <button type="submit" class="btn-primary">▶ Scan NAS</button>
+  </form>
+  {% else %}
+  <p style="color:#666;font-size:0.85rem">Set <code>NAS_ROOTS=\\NAS\hp,\\NAS\perfume</code> environment variable to enable scanning.</p>
+  {% endif %}
+</div>
+
+<div class="admin-section">
+  <h2 style="margin-top:0">Manual commands</h2>
+  <pre style="background:#111;padding:16px;border-radius:6px;font-size:0.82rem;color:#aaa;overflow-x:auto">
+# Import all data
+py -m importer.import_scraper --all
+
+# Import specific release
+py -m importer.import_scraper --release 7506
+
+# Import one year
+py -m importer.import_scraper --year 2025
+
+# Scan NAS
+py -m nas.scan_iso --root "\\NAS\hp"</pre>
+</div>
+{% endblock %}

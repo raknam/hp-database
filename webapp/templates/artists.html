@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+{% block title %}Artists – HP Database{% endblock %}
+{% block content %}
+<h1>Artists</h1>
+
+{% if groups %}
+<div class="group-grid">
+  {% for g in groups %}
+  {% set artist = g.artist %}
+  {% set extra = artist.extra or {} %}
+  {% set images = extra.get('images', []) %}
+  {% set thumb = images[0] if images else none %}
+  <div class="group-card">
+    <a href="/artists/{{ artist.slug or artist.id }}" class="group-card-banner">
+      {% if thumb %}
+      <img src="/images/{{ thumb.split('/')[-1] }}" alt="{{ artist.name_ja or artist.name_en }}" loading="lazy">
+      {% endif %}
+      <span class="group-card-name">{{ artist.name_ja or artist.name_en or artist.slug }}</span>
+    </a>
+    <div class="group-card-body">
+      <div class="group-card-members">
+        {% for m in g.members %}
+        {% set mex = m.extra or {} %}
+        {% set mimg = mex.get('images', [None])[0] %}
+        {% set mcolor = mex.get('color', {}) %}
+        <a href="/artists/{{ m.slug or m.id }}" class="member-chip">
+          {% if mimg %}
+          <img src="/images/{{ mimg.split('/')[-1] }}" alt="{{ m.name_ja or m.name_en }}" loading="lazy">
+          {% else %}
+          <span class="chip-ph">👤</span>
+          {% endif %}
+          {{ m.name_ja or m.name_en or m.slug }}
+        </a>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+{% else %}
+<p class="no-data">No artist data — run <code>py -m importer.import_scraper --artists --members</code></p>
+{% endif %}
+{% endblock %}

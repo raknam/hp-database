@@ -1,0 +1,60 @@
+{% extends "base.html" %}
+{% block title %}ISOs – HP Database{% endblock %}
+{% block content %}
+<h1>ISO Files <span style="color:#555;font-size:1rem">({{ iso_files|length }})</span></h1>
+
+<div class="filter-bar" style="margin-bottom:16px">
+  {% if orphans_only %}
+  <a href="/iso" class="btn" style="background:#333">Show all</a>
+  {% else %}
+  <a href="/iso?orphans_only=true" class="btn" style="background:#5a2fa0">Orphans only</a>
+  {% endif %}
+</div>
+
+{% if iso_files %}
+<table style="width:100%;border-collapse:collapse;font-size:0.85rem">
+  <thead>
+    <tr style="color:#888;border-bottom:1px solid #222">
+      <th style="text-align:left;padding:6px 10px">File</th>
+      <th style="text-align:left;padding:6px 10px">Format</th>
+      <th style="text-align:left;padding:6px 10px">Size</th>
+      <th style="text-align:left;padding:6px 10px">Linked disc</th>
+      <th style="padding:6px 10px"></th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for iso in iso_files %}
+    <tr style="border-bottom:1px solid #1a1a1a" class="{% if not iso.present %}iso-badge-absent{% endif %}">
+      <td style="padding:6px 10px;max-width:400px;word-break:break-all">
+        {{ iso.relative_path or iso.nas_path }}
+        {% if not iso.disc_id %}<span class="iso-badge-orphan">orphan</span>{% endif %}
+        {% if not iso.present %}<span class="iso-badge-orphan" style="background:#2a2a1a;border-color:#5a5a2a;color:#fc8">absent</span>{% endif %}
+      </td>
+      <td style="padding:6px 10px;color:#888">{{ iso.format or '—' }}</td>
+      <td style="padding:6px 10px;color:#888">
+        {% if iso.size_bytes %}
+        {{ (iso.size_bytes / 1073741824)|round(1) }} GB
+        {% else %}—{% endif %}
+      </td>
+      <td style="padding:6px 10px">
+        {% if iso.disc %}
+        {% set r = iso.disc.edition.release %}
+        <a href="/release/{{ r.id }}">{{ r.title }}</a>
+        — {{ iso.disc.disc_type }}{% if iso.disc.catalog_no %} {{ iso.disc.catalog_no }}{% endif %}
+        {% else %}
+        <span style="color:#555">—</span>
+        {% endif %}
+      </td>
+      <td style="padding:6px 10px">
+        {% if iso.present %}
+        <a href="/iso/{{ iso.id }}/open" class="iso-link">↗ Open</a>
+        {% endif %}
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% else %}
+<p class="no-data">No ISO files indexed yet. Run <code>py -m nas.scan_iso --root &lt;path&gt;</code></p>
+{% endif %}
+{% endblock %}

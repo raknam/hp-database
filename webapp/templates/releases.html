@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% block title %}Releases – HP Database{% endblock %}
+{% block content %}
+<h1>Releases <span style="color:#555;font-size:1rem">({{ total }})</span></h1>
+
+<form class="filter-bar" method="get" action="/releases">
+  <select name="year">
+    <option value="">All years</option>
+    {% for y in years %}
+    <option value="{{ y }}" {% if filter_year == y|int %}selected{% endif %}>{{ y }}</option>
+    {% endfor %}
+  </select>
+  <select name="category">
+    <option value="">All categories</option>
+    {% for c in categories %}
+    <option value="{{ c }}" {% if filter_category == c %}selected{% endif %}>{{ c }}</option>
+    {% endfor %}
+  </select>
+  <label>
+    <input type="checkbox" name="owned" value="true" {% if filter_owned %}checked{% endif %}>
+    Owned only
+  </label>
+  <button type="submit">Filter</button>
+  {% if filter_year or filter_category or filter_artist or filter_owned %}
+  <a href="/releases" style="color:#888;font-size:0.85rem">✕ Clear</a>
+  {% endif %}
+</form>
+
+<div class="grid">
+  {% include "releases_partial.html" %}
+</div>
+
+{% if not releases %}
+<p class="no-data">No releases found.</p>
+{% endif %}
+{% endblock %}
