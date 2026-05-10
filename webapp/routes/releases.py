@@ -4,7 +4,7 @@ from fastapi import APIRouter, Depends, Request
 from sqlalchemy import func, select
 from sqlalchemy.orm import Session, selectinload
 
-from db.models import Artist, CollectionItem, Disc, Edition, IsoFile, Release, ReleaseImage
+from db.models import Artist, CollectionItem, Disc, Edition, IsoFile, Release, ReleaseGroup, ReleaseGroupMember, ReleaseImage
 from db.session import get_db
 from webapp.deps import templates
 
@@ -85,29 +85,23 @@ def releases_list(
 
 @router.get("/release/{release_id}")
 def release_detail(request: Request, release_id: int, db: Session = Depends(get_db)):
+    _opts = [
+        selectinload(Release.artist),
+        selectinload(Release.images),
+        selectinload(Release.editions).selectinload(Edition.discs).selectinload(Disc.tracks),
+        selectinload(Release.editions).selectinload(Edition.discs).selectinload(Disc.iso_files),
+        selectinload(Release.editions).selectinload(Edition.collection_item),
+        selectinload(Release.group_member).selectinload(ReleaseGroupMember.group)
+            .selectinload(ReleaseGroup.members).selectinload(ReleaseGroupMember.release)
+            .selectinload(Release.images),
+    ]
     release = db.execute(
-        select(Release)
-        .where(Release.id == release_id)
-        .options(
-            selectinload(Release.artist),
-            selectinload(Release.images),
-            selectinload(Release.editions).selectinload(Edition.discs).selectinload(Disc.tracks),
-            selectinload(Release.editions).selectinload(Edition.discs).selectinload(Disc.iso_files),
-            selectinload(Release.editions).selectinload(Edition.collection_item),
-        )
+        select(Release).where(Release.id == release_id).options(*_opts)
     ).scalar_one_or_none()
 
     if not release:
-        # Try by external_id
         release = db.execute(
-            select(Release).where(Release.external_id == str(release_id))
-            .options(
-                selectinload(Release.artist),
-                selectinload(Release.images),
-                selectinload(Release.editions).selectinload(Edition.discs).selectinload(Disc.tracks),
-                selectinload(Release.editions).selectinload(Edition.discs).selectinload(Disc.iso_files),
-                selectinload(Release.editions).selectinload(Edition.collection_item),
-            )
+            select(Release).where(Release.external_id == str(release_id)).options(*_opts)
         ).scalar_one_or_none()
 
     if not release:

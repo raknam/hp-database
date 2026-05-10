@@ -1,0 +1,137 @@
+{% extends "base.html" %}
+{% block title %}Release Links – Admin{% endblock %}
+{% block content %}
+<h1>Release Links</h1>
+
+<div style="display:flex;gap:24px;flex-wrap:wrap;margin-bottom:24px;align-items:center">
+  <form method="get" action="/admin/links">
+    <label style="font-size:0.85rem;color:#aaa;display:flex;align-items:center;gap:6px;cursor:pointer">
+      <input type="checkbox" name="same_date" value="1" {% if same_date %}checked{% endif %}
+             onchange="this.form.submit()">
+      Same release date
+    </label>
+  </form>
+
+  <form method="post" action="/admin/links/manual" style="display:flex;gap:8px;align-items:center">
+    <label style="font-size:0.85rem;color:#aaa;white-space:nowrap">Link manually:</label>
+    <input type="text" name="release_ids_raw" placeholder="e.g. 2924 2925"
+           style="background:#111;border:1px solid #333;color:#eee;padding:5px 10px;border-radius:4px;font-size:0.85rem;width:180px">
+    <button type="submit" class="btn-primary" style="padding:5px 14px;white-space:nowrap">Create link</button>
+  </form>
+</div>
+
+{% if request.query_params.get('error') == 'need_2' %}
+<p style="color:#fc9;margin-bottom:12px;font-size:0.85rem">⚠ At least 2 valid IDs required.</p>
+{% elif request.query_params.get('error') == 'already_linked' %}
+<p style="color:#fc9;margin-bottom:12px;font-size:0.85rem">⚠ These releases are already linked.</p>
+{% endif %}
+
+{% if proposals %}
+<h2>Proposals <span style="color:#555;font-size:0.9rem">({{ proposals|length }})</span></h2>
+{% for cluster in proposals %}
+{% set ids = cluster|map(attribute='id')|list %}
+{% set ids_str = ids|join(',') %}
+<div class="admin-section" style="margin-bottom:12px">
+  <div style="display:flex;gap:20px;flex-wrap:wrap;margin-bottom:12px">
+    {% for r in cluster %}
+    {% set img = r.images[0].path if r.images else none %}
+    <div style="display:flex;gap:10px;align-items:center">
+      {% if img %}
+      <img src="/images/{{ img.split('/')[-1] }}" style="width:48px;height:48px;object-fit:cover;border-radius:4px">
+      {% else %}
+      <div style="width:48px;height:48px;background:#222;border-radius:4px;display:flex;align-items:center;justify-content:center;color:#555">🎵</div>
+      {% endif %}
+      <div>
+        <div style="font-size:0.85rem;font-weight:600"><a href="/release/{{ r.id }}">{{ r.title }}</a></div>
+        <div style="font-size:0.75rem;color:#888">{{ r.category }} — {{ r.release_date }}</div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+  <form method="post" action="/admin/links/confirm" style="display:flex;gap:10px;flex-wrap:wrap;align-items:center">
+    <input type="hidden" name="release_ids" value="{{ ids_str }}">
+    {% for r in cluster %}
+    <label style="font-size:0.82rem;color:#aaa">
+      {{ r.category }}
+      <input type="text" name="format_labels_{{ r.id }}" value="{{ r.category or '' }}"
+             style="width:70px;margin-left:4px">
+    </label>
+    {% endfor %}
+    <input type="hidden" name="format_labels" id="fl_{{ ids_str }}">
+    <label style="font-size:0.82rem;color:#aaa">Primary:
+      <select name="primary_id" style="margin-left:4px">
+        {% for r in cluster %}
+        <option value="{{ r.id }}">{{ r.category }}</option>
+        {% endfor %}
+      </select>
+    </label>
+    <button type="submit" class="btn-primary"
+            onclick="document.getElementById('fl_{{ ids_str }}').value=[...this.form.querySelectorAll('[name^=format_labels_]')].map(i=>i.value).join(',')">
+      Confirm
+    </button>
+  </form>
+
+  <form method="post" action="/admin/links/dismiss" style="margin-top:8px">
+    <input type="hidden" name="release_ids" value="{{ ids_str }}">
+    <button type="submit" style="background:none;border:none;color:#555;font-size:0.8rem;cursor:pointer">✕ Dismiss</button>
+  </form>
+</div>
+{% endfor %}
+{% else %}
+<p class="no-data" style="margin-bottom:32px">No proposals.</p>
+{% endif %}
+
+<h2>Confirmed links <span style="color:#555;font-size:0.9rem">({{ links|length }})</span></h2>
+{% for lnk in links %}
+<div class="admin-section" style="margin-bottom:10px">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:12px">
+    <div style="display:flex;gap:16px;flex-wrap:wrap">
+      {% for m in lnk.members %}
+      {% set img = m.release.images[0].path if m.release.images else none %}
+      <div style="display:flex;gap:8px;align-items:center">
+        {% if img %}
+        <img src="/images/{{ img.split('/')[-1] }}" style="width:40px;height:40px;object-fit:cover;border-radius:4px">
+        {% endif %}
+        <div>
+          <div style="font-size:0.82rem{% if m.is_primary %};font-weight:700{% endif %}">
+            <a href="/release/{{ m.release.id }}">{{ m.release.title }}</a>
+          </div>
+          <div style="font-size:0.75rem;color:#888">{{ m.format_label or m.release.category }}</div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    <form method="post" action="/admin/links/{{ lnk.id }}/delete"
+          onsubmit="return confirm('Delete this link?')">
+      <button type="submit" style="background:none;border:1px solid #3a1a1a;color:#c77;padding:4px 10px;border-radius:4px;cursor:pointer;font-size:0.78rem">Delete</button>
+    </form>
+  </div>
+  {% if lnk.notes %}
+  <div style="font-size:0.78rem;color:#888;margin-top:6px">{{ lnk.notes }}</div>
+  {% endif %}
+</div>
+{% endfor %}
+{% if not links %}
+<p class="no-data">No confirmed links.</p>
+{% endif %}
+
+{% if dismissals %}
+<h2 style="margin-top:32px">Dismissed <span style="color:#555;font-size:0.9rem">({{ dismissals|length }})</span></h2>
+{% for item in dismissals %}
+<div style="display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:1px solid #1a1a1a">
+  <div style="display:flex;gap:16px;flex-wrap:wrap">
+    {% for r in item.releases %}
+    <span style="font-size:0.82rem;color:#666">
+      <a href="/release/{{ r.id }}" style="color:#666">{{ r.title }}</a>
+      <span style="color:#444">({{ r.category }})</span>
+    </span>
+    {% endfor %}
+  </div>
+  <form method="post" action="/admin/links/dismissal/{{ item.dismissal.id }}/restore">
+    <button type="submit" style="background:none;border:1px solid #333;color:#888;padding:3px 10px;border-radius:4px;cursor:pointer;font-size:0.78rem">Restore</button>
+  </form>
+</div>
+{% endfor %}
+{% endif %}
+{% endblock %}

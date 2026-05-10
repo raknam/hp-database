@@ -21,13 +21,19 @@ BASE_DIR = Path(__file__).parent.parent.parent
 
 @router.get("")
 def admin_home(request: Request, db: Session = Depends(get_db)):
+    iso_total = db.execute(select(func.count(IsoFile.id))).scalar() or 0
+    iso_linked = db.execute(select(func.count(IsoFile.id)).where(IsoFile.disc_id.isnot(None))).scalar() or 0
+    iso_absent = db.execute(select(func.count(IsoFile.id)).where(IsoFile.present == False)).scalar() or 0  # noqa: E712
     stats = {
         "releases": db.execute(select(func.count(Release.id))).scalar(),
         "artists": db.execute(select(func.count(Artist.id))).scalar(),
         "owned": db.execute(
             select(func.count(CollectionItem.id)).where(CollectionItem.owned == True)  # noqa: E712
         ).scalar(),
-        "iso": db.execute(select(func.count(IsoFile.id))).scalar(),
+        "iso": iso_total,
+        "iso_linked": iso_linked,
+        "iso_orphan": iso_total - iso_linked,
+        "iso_absent": iso_absent,
     }
     return templates.TemplateResponse(request, "admin.html", {
         "stats": stats,

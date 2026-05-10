@@ -28,6 +28,9 @@ scraper/cache/
 # Claude Code context (not project code)
 .claude/memory/
 
+# Logs
+logs/
+
 # Editor / OS
 .vscode/
 .idea/

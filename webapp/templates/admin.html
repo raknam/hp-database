@@ -19,6 +19,9 @@
     <div class="stat-card"><div class="stat-num">{{ stats.artists }}</div><div class="stat-label">Artists</div></div>
     <div class="stat-card"><div class="stat-num">{{ stats.owned }}</div><div class="stat-label">Owned editions</div></div>
     <div class="stat-card"><div class="stat-num">{{ stats.iso }}</div><div class="stat-label">ISO files</div></div>
+    <div class="stat-card"><div class="stat-num">{{ stats.iso_linked }}</div><div class="stat-label">ISO linked</div></div>
+    <div class="stat-card"><div class="stat-num" style="color:#fc9">{{ stats.iso_orphan }}</div><div class="stat-label">ISO orphans</div></div>
+    {% if stats.iso_absent %}<div class="stat-card"><div class="stat-num" style="color:#888">{{ stats.iso_absent }}</div><div class="stat-label">ISO absent</div></div>{% endif %}
   </div>
 </div>
 

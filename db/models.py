@@ -83,6 +83,9 @@ class Release(Base):
         "Edition", back_populates="release",
         order_by="Edition.sort_order", cascade="all, delete-orphan"
     )
+    group_member: Mapped[Optional[ReleaseGroupMember]] = relationship(
+        "ReleaseGroupMember", back_populates="release", uselist=False
+    )
 
 
 class ReleaseImage(Base):
@@ -221,3 +224,37 @@ class IsoFile(Base):
     present: Mapped[bool] = mapped_column(Boolean, default=True)
 
     disc: Mapped[Optional[Disc]] = relationship("Disc", back_populates="iso_files")
+
+
+class ReleaseGroup(Base):
+    __tablename__ = "release_groups"
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    title_override: Mapped[Optional[str]] = mapped_column(String(500), nullable=True)
+    notes: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
+    created_at: Mapped[datetime] = mapped_column(DateTime, server_default=func.now())
+
+    members: Mapped[list[ReleaseGroupMember]] = relationship(
+        "ReleaseGroupMember", back_populates="group", cascade="all, delete-orphan"
+    )
+
+
+class ReleaseGroupMember(Base):
+    __tablename__ = "release_group_members"
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    group_id: Mapped[int] = mapped_column(Integer, ForeignKey("release_groups.id"))
+    release_id: Mapped[int] = mapped_column(Integer, ForeignKey("releases.id"), unique=True)
+    format_label: Mapped[Optional[str]] = mapped_column(String(50), nullable=True)
+    is_primary: Mapped[bool] = mapped_column(Boolean, default=False)
+
+    group: Mapped[ReleaseGroup] = relationship("ReleaseGroup", back_populates="members")
+    release: Mapped[Release] = relationship("Release", back_populates="group_member")
+
+
+class ReleaseGroupDismissal(Base):
+    __tablename__ = "release_group_dismissals"
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    release_ids_key: Mapped[str] = mapped_column(String(500), unique=True)
+    dismissed_at: Mapped[datetime] = mapped_column(DateTime, server_default=func.now())

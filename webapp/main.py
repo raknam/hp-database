@@ -11,7 +11,7 @@ from config import SCRAPER_DIR, SITE_URL
 from db.models import Artist, Base, CollectionItem, IsoFile, Release
 from db.session import engine, get_db
 from webapp.deps import templates
-from webapp.routes import admin, artists, collection, iso, releases, search
+from webapp.routes import admin, admin_links, artists, collection, iso, releases, search
 
 app = FastAPI(title="HP Database")
 
@@ -30,6 +30,7 @@ app.include_router(collection.router)
 app.include_router(iso.router)
 app.include_router(search.router)
 app.include_router(admin.router)
+app.include_router(admin_links.router)
 
 
 # ---------------------------------------------------------------------------
@@ -76,8 +77,7 @@ def home(request: Request, db: Session = Depends(get_db)):
         .limit(24)
     ).scalars().all()
 
-    return templates.TemplateResponse("home.html", {
-        "request": request,
+    return templates.TemplateResponse(request, "home.html", {
         "stats": stats,
         "latest": latest,
     })

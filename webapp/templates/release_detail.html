@@ -7,14 +7,16 @@
 <div class="release-detail">
   <div class="cover">
     {% if release.images %}
-    <img src="/images/{{ release.images[0].path.split('/')[-1] }}" alt="{{ release.title }}">
+    {% set cover = '/images/' ~ release.images[0].path.split('/')[-1] %}
+    <a href="{{ cover }}" target="_blank"><img src="{{ cover }}" alt="{{ release.title }}"></a>
     {% else %}
     <div class="no-img" style="height:260px;border-radius:8px">🎵</div>
     {% endif %}
     {% if release.images|length > 1 %}
     <div class="gallery" style="margin-top:12px">
       {% for img in release.images[1:] %}
-      <img src="/images/{{ img.path.split('/')[-1] }}" alt="" loading="lazy">
+      {% set src = '/images/' ~ img.path.split('/')[-1] %}
+      <a href="{{ src }}" target="_blank"><img src="{{ src }}" alt="" loading="lazy"></a>
       {% endfor %}
     </div>
     {% endif %}
@@ -43,6 +45,22 @@
       </td></tr>
     </table>
 
+    {% if release.group_member %}
+    {% set other_members = release.group_member.group.members | selectattr('release_id', '!=', release.id) | list %}
+    {% if other_members %}
+    <div style="margin-bottom:16px">
+      <span style="font-size:0.82rem;color:#888">Also available as:</span>
+      <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:6px">
+        {% for m in other_members %}
+        <a href="/release/{{ m.release.id }}" class="badge" style="font-size:0.8rem;padding:4px 10px">
+          {{ m.format_label or m.release.category }}
+        </a>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+    {% endif %}
+
     {% if release.editions %}
     <h2>Editions &amp; Tracklists</h2>
     {% for ed in release.editions %}
@@ -68,8 +86,9 @@
       </div>
 
       {% if ed.image_path and (not release.images or ed.image_path != release.images[0].path) %}
+      {% set edsrc = '/images/' ~ ed.image_path.split('/')[-1] %}
       <div style="padding:10px">
-        <img src="/images/{{ ed.image_path.split('/')[-1] }}" alt="{{ ed.name }}" style="height:120px;border-radius:6px">
+        <a href="{{ edsrc }}" target="_blank"><img src="{{ edsrc }}" alt="{{ ed.name }}" style="height:120px;border-radius:6px"></a>
       </div>
       {% endif %}
 
@@ -79,7 +98,7 @@
         {% if disc.iso_files %}
         <span>
           {% for iso in disc.iso_files %}
-          <a href="/iso/{{ iso.id }}/open" class="iso-link">📀 {{ iso.format|upper }} ↗</a>
+          <a href="{{ iso.nas_path | vlc_href }}" class="iso-link">📀 {{ iso.format|upper }} ↗</a>
           {% endfor %}
         </span>
         {% endif %}

@@ -1,13 +1,20 @@
 {% extends "base.html" %}
 {% block title %}ISOs – HP Database{% endblock %}
 {% block content %}
-<h1>ISO Files <span style="color:#555;font-size:1rem">({{ iso_files|length }})</span></h1>
+<h1>ISO Files</h1>
+
+<div class="stat-grid" style="margin-bottom:20px">
+  <div class="stat-card"><div class="stat-num">{{ stats.total }}</div><div class="stat-label">Total</div></div>
+  <div class="stat-card"><div class="stat-num">{{ stats.linked }}</div><div class="stat-label">Linked</div></div>
+  <div class="stat-card"><div class="stat-num" style="color:#fc9">{{ stats.orphan }}</div><div class="stat-label">Orphans</div></div>
+  {% if stats.absent %}<div class="stat-card"><div class="stat-num" style="color:#888">{{ stats.absent }}</div><div class="stat-label">Absent</div></div>{% endif %}
+</div>
 
 <div class="filter-bar" style="margin-bottom:16px">
   {% if orphans_only %}
   <a href="/iso" class="btn" style="background:#333">Show all</a>
   {% else %}
-  <a href="/iso?orphans_only=true" class="btn" style="background:#5a2fa0">Orphans only</a>
+  <a href="/iso?orphans_only=true" class="btn" style="background:#5a2fa0">Orphans only ({{ stats.orphan }})</a>
   {% endif %}
 </div>
 
@@ -47,7 +54,7 @@
       </td>
       <td style="padding:6px 10px">
         {% if iso.present %}
-        <a href="/iso/{{ iso.id }}/open" class="iso-link">↗ Open</a>
+        <a href="{{ iso.nas_path | vlc_href }}" class="iso-link">↗ Open</a>
         {% endif %}
       </td>
     </tr>
