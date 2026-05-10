@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(py *)",
+      "Bash(python *)",
+      "Bash(py -c ' *)",
+      "Bash(py -m importer.import_scraper --releases)",
+      "Bash(py -c \"import sys; sys.stdout.buffer.write\\(sys.stdin.buffer.read\\(\\)\\)\")",
+      "Bash(py -m alembic revision --autogenerate -m \"add release groups\")",
+      "Bash(py -m alembic upgrade head)",
+      "Bash(.venv/Scripts/python -c ' *)",
+      "Bash(del _tmp_stats.json)"
+    ]
+  }
+}

@@ -10,12 +10,19 @@
     <div class="title">{{ r.title }}</div>
     <div class="sub">{{ r.artist_label_raw or (r.artist.name_ja if r.artist else '') }}</div>
     {% if r.category %}<span class="badge">{{ r.category }}</span>{% endif %}
+    {% if r.group_member and not filter_expand_links %}
+    {% for m in r.group_member.group.members %}
+    {% if m.release_id != r.id %}
+    <span class="badge" style="background:#2a3a2a;color:#9c9">{{ m.format_label or '?' }}</span>
+    {% endif %}
+    {% endfor %}
+    {% endif %}
     {% if r.release_date %}<div class="sub">{{ r.release_date }}</div>{% endif %}
   </div>
 </a>
 {% endfor %}
 {% if page < pages %}
-<div hx-get="/releases?page={{ page + 1 }}{% if filter_year %}&year={{ filter_year }}{% endif %}{% if filter_category %}&category={{ filter_category }}{% endif %}{% if filter_artist %}&artist={{ filter_artist }}{% endif %}{% if filter_owned %}&owned=true{% endif %}"
+<div hx-get="/releases?page={{ page + 1 }}{% if filter_year %}&year={{ filter_year }}{% endif %}{% if filter_category %}&category={{ filter_category }}{% endif %}{% if filter_artist %}&artist={{ filter_artist }}{% endif %}{% if filter_owned %}&owned=true{% endif %}{% if filter_expand_links %}&expand_links=true{% endif %}"
      hx-trigger="intersect once"
      hx-target="this"
      hx-swap="outerHTML"

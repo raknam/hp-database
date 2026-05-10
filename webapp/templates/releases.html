@@ -20,8 +20,12 @@
     <input type="checkbox" name="owned" value="true" {% if filter_owned %}checked{% endif %}>
     Owned only
   </label>
+  <label>
+    <input type="checkbox" name="expand_links" value="true" {% if filter_expand_links %}checked{% endif %}>
+    Show all formats
+  </label>
   <button type="submit">Filter</button>
-  {% if filter_year or filter_category or filter_artist or filter_owned %}
+  {% if filter_year or filter_category or filter_artist or filter_owned or filter_expand_links %}
   <a href="/releases" style="color:#888;font-size:0.85rem">✕ Clear</a>
   {% endif %}
 </form>

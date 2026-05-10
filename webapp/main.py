@@ -11,7 +11,7 @@ from config import SCRAPER_DIR, SITE_URL
 from db.models import Artist, Base, CollectionItem, IsoFile, Release
 from db.session import engine, get_db
 from webapp.deps import templates
-from webapp.routes import admin, admin_links, artists, collection, iso, releases, search
+from webapp.routes import admin, admin_links, artists, collection, iso, releases, search, stats
 
 app = FastAPI(title="HP Database")
 
@@ -31,6 +31,7 @@ app.include_router(iso.router)
 app.include_router(search.router)
 app.include_router(admin.router)
 app.include_router(admin_links.router)
+app.include_router(stats.router)
 
 
 # ---------------------------------------------------------------------------

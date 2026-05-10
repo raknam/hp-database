@@ -1,8 +1,8 @@
 from __future__ import annotations
 
 from fastapi import APIRouter, Depends, Request
-from sqlalchemy import func, select
-from sqlalchemy.orm import Session, selectinload
+from sqlalchemy import and_, exists, func, or_, select
+from sqlalchemy.orm import Session, aliased, selectinload
 
 from db.models import Artist, CollectionItem, Disc, Edition, IsoFile, Release, ReleaseGroup, ReleaseGroupMember, ReleaseImage
 from db.session import get_db
@@ -15,10 +15,11 @@ router = APIRouter()
 def releases_list(
     request: Request,
     db: Session = Depends(get_db),
-    year: int | None = None,
+    year: str | None = None,
     category: str | None = None,
     artist: str | None = None,
     owned: bool = False,
+    expand_links: bool = False,
     page: int = 1,
     hx_request: str | None = None,
 ):
@@ -26,9 +27,10 @@ def releases_list(
 
     q = select(Release).order_by(Release.release_date.desc().nullslast(), Release.id.desc())
 
-    if year:
+    year_int = int(year) if year else None
+    if year_int:
         from sqlalchemy import extract
-        q = q.where(extract("year", Release.release_date) == year)
+        q = q.where(extract("year", Release.release_date) == year_int)
     if category:
         q = q.where(Release.category == category)
     if artist:
@@ -43,10 +45,46 @@ def releases_list(
             .distinct()
         )
 
+    if not expand_links:
+        RGM1 = aliased(ReleaseGroupMember, name="rgm1")
+        RGM2 = aliased(ReleaseGroupMember, name="rgm2")
+        has_primary = exists(
+            select(RGM2.id).where(
+                RGM2.group_id == RGM1.group_id,
+                RGM2.is_primary == True,  # noqa: E712
+            )
+        )
+        non_rep = (
+            select(RGM1.release_id)
+            .where(
+                or_(
+                    # not primary but a primary exists in the group
+                    and_(RGM1.is_primary == False, has_primary),  # noqa: E712
+                    # no primary in group but a lower-id member exists
+                    and_(
+                        ~has_primary,
+                        exists(
+                            select(RGM2.id).where(
+                                RGM2.group_id == RGM1.group_id,
+                                RGM2.id < RGM1.id,
+                            )
+                        ),
+                    ),
+                )
+            )
+        ).subquery()
+        q = q.where(Release.id.not_in(select(non_rep.c.release_id)))
+
     total = db.execute(select(func.count()).select_from(q.subquery())).scalar() or 0
     releases = db.execute(
         q.offset((page - 1) * PAGE_SIZE).limit(PAGE_SIZE)
-        .options(selectinload(Release.images), selectinload(Release.artist))
+        .options(
+            selectinload(Release.images),
+            selectinload(Release.artist),
+            selectinload(Release.group_member)
+                .selectinload(ReleaseGroupMember.group)
+                .selectinload(ReleaseGroup.members),
+        )
     ).scalars().all()
 
     # Available filter values
@@ -71,10 +109,11 @@ def releases_list(
         "page": page,
         "page_size": PAGE_SIZE,
         "pages": (total + PAGE_SIZE - 1) // PAGE_SIZE,
-        "filter_year": year,
+        "filter_year": year_int,
         "filter_category": category,
         "filter_artist": artist,
         "filter_owned": owned,
+        "filter_expand_links": expand_links,
         "categories": categories,
         "years": years,
     }

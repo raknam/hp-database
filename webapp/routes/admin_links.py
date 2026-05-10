@@ -67,6 +67,7 @@ def _proposals(db: Session, same_date: bool = True) -> list[list[Release]]:
         key = ",".join(str(r.id) for r in sorted(releases, key=lambda x: x.id))
         if key not in dismissed_keys:
             result.append(releases)
+    result.sort(key=lambda rs: max(r.release_date for r in rs if r.release_date) if any(r.release_date for r in rs) else "0", reverse=True)
     return result
 
 

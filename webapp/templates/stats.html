@@ -1,0 +1,94 @@
+{% extends "base.html" %}
+{% block title %}Stats – HP Database{% endblock %}
+{% block content %}
+<h1>Stats</h1>
+
+<div class="stat-grid" style="margin-bottom:32px">
+  <div class="stat-card"><div class="stat-num">{{ totals.releases }}</div><div class="stat-label">Releases</div></div>
+  <div class="stat-card"><div class="stat-num">{{ totals.editions }}</div><div class="stat-label">Editions</div></div>
+  <div class="stat-card"><div class="stat-num">{{ totals.tracks }}</div><div class="stat-label">Tracks</div></div>
+  <div class="stat-card"><div class="stat-num">{{ totals.duration_h }}h{{ '%02d'|format(totals.duration_m) }}</div><div class="stat-label">Total duration</div></div>
+  <div class="stat-card"><div class="stat-num">{{ totals.groups }}</div><div class="stat-label">Groups</div></div>
+  <div class="stat-card"><div class="stat-num">{{ totals.members }}</div><div class="stat-label">Members</div></div>
+  <div class="stat-card"><div class="stat-num">{{ totals.owned }}</div><div class="stat-label">Owned editions</div></div>
+  <div class="stat-card"><div class="stat-num">{{ totals.iso_total }}</div><div class="stat-label">ISOs ({{ totals.iso_linked }} linked)</div></div>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:32px;flex-wrap:wrap">
+
+  <div>
+    <h2>Releases by category</h2>
+    {% set max_cat = by_category[0].n if by_category else 1 %}
+    <div style="margin-top:12px">
+      {% for row in by_category %}
+      <a href="/releases?category={{ row.category | urlencode }}" style="display:block;margin-bottom:8px;text-decoration:none" class="stat-row">
+        <div style="display:flex;justify-content:space-between;font-size:0.8rem;margin-bottom:3px">
+          <span style="color:#eee">{{ row.category }}</span>
+          <span style="color:#888">{{ row.n }}</span>
+        </div>
+        <div style="background:#1a1a1a;border-radius:3px;height:8px">
+          <div style="background:#5a2fa0;height:8px;border-radius:3px;width:{{ (row.n / max_cat * 100)|round|int }}%;transition:background .15s"></div>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div>
+    <h2>Discs by type</h2>
+    {% set max_disc = by_disc_type[0].n if by_disc_type else 1 %}
+    <div style="margin-top:12px">
+      {% for row in by_disc_type %}
+      <div style="margin-bottom:8px">
+        <div style="display:flex;justify-content:space-between;font-size:0.8rem;margin-bottom:3px">
+          <span>{{ row.disc_type }}</span>
+          <span style="color:#888">{{ row.n }}</span>
+        </div>
+        <div style="background:#1a1a1a;border-radius:3px;height:8px">
+          <div style="background:#2a6a8a;height:8px;border-radius:3px;width:{{ (row.n / max_disc * 100)|round|int }}%"></div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div style="grid-column:1/-1">
+    <h2>Releases per year</h2>
+    {% set max_year = by_year | map(attribute='n') | max %}
+    <div style="display:flex;align-items:flex-end;gap:4px;height:120px;margin-top:16px">
+      {% for row in by_year %}
+      <div style="flex:1;display:flex;flex-direction:column;align-items:center;min-width:0">
+        <div title="{{ row.year }}: {{ row.n }}"
+             style="background:#5a2fa0;width:100%;border-radius:2px 2px 0 0;height:{{ (row.n / max_year * 110)|round|int }}px"></div>
+      </div>
+      {% endfor %}
+    </div>
+    <div style="display:flex;gap:4px;margin-top:6px">
+      {% for row in by_year %}
+      <div style="flex:1;font-size:0.6rem;color:#555;text-align:center;overflow:hidden;min-width:0">
+        {% if loop.index is divisibleby 5 or loop.first or loop.last %}{{ row.year }}{% endif %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div style="grid-column:1/-1">
+    <h2>Top artists by release count</h2>
+    {% set max_artist = top_artists[0].n if top_artists else 1 %}
+    <div style="margin-top:12px;columns:2;column-gap:32px">
+      {% for row in top_artists %}
+      <div style="margin-bottom:8px;break-inside:avoid">
+        <div style="display:flex;justify-content:space-between;font-size:0.8rem;margin-bottom:3px">
+          <a href="/artists/{{ row.slug or '' }}" style="color:#c8a0ff">{{ row.name_ja or row.name_en }}</a>
+          <span style="color:#888">{{ row.n }}</span>
+        </div>
+        <div style="background:#1a1a1a;border-radius:3px;height:6px">
+          <div style="background:#8a4a2a;height:6px;border-radius:3px;width:{{ (row.n / max_artist * 100)|round|int }}%"></div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+
+</div>
+{% endblock %}
