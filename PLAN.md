@@ -180,12 +180,12 @@ Comportement :
 - **Ne touche jamais** `collection_items` ni `iso_files`.
 - **Détecte les suppressions côté source** : si une release n'apparaît plus dans le catalogue, on log un warning mais on ne supprime pas (préserve les liens collection/ISO).
 - **Lit** `scraper/releases/version.json`, `artist_list.json`, `<year>_releases.json`, `<id>.json`, `members/<id>.json`.
-- **Réutilise** la logique de résolution de noms (`profilesById[id].nameJa → nameEn → slug`) et la résolution récursive `kind: "unit"` de `artist_list.json` — voir `scraper/server.py` pour la référence (`profile_name`, `resolve_members`).
+- **Réutilise** la logique de résolution de noms (`profilesById[id].nameJa → nameEn → slug`) et la résolution récursive `kind: "unit"` de `artist_list.json`.
 - **Parse** `price_raw` → `price_jpy` (regex `￥([0-9,]+)`), `duration` `MM:SS` → secondes, `releaseDate` (formats variables : `2025.10.8`, `1998-12-12`).
 - **Résolution songs** : passe finale qui regroupe `tracks` par `(title normalisé sans suffix, artist_id)` → crée/lie une `songs.id`.
 
 Fichiers à lire pour s'inspirer :
-- `scraper/server.py` (DataStore, `profile_name`, `resolve_members`, parsing dates birthday)
+- `scraper/SCRAPER.md` (schémas JSON complets, arborescence, règles de merge)
 - `scraper/CLAUDE.md` (pitfalls JSON, profilesById vs artistsById)
 
 ---
@@ -261,4 +261,4 @@ Stack technique :
 
 - **Créer** : `db/models.py`, `db/schema.sql`, `db/migrations/`, `importer/import_scraper.py`, `nas/scan_iso.py`, `webapp/main.py`, `webapp/routes/*.py`, `webapp/templates/*.html`, `config.py`, `pyproject.toml`.
 - **Lire pour s'inspirer** : `scraper/server.py` (DataStore, profile_name, resolve_members, image proxy), `scraper/CLAUDE.md` (pitfalls), `scraper/scraper.py` (formats des JSON produits).
-- **Inchangé** : `scraper/scraper.py`, `scraper/server.py` (peut tourner en parallèle au début).
+- **Inchangé** : `scraper/scraper.py`, `scraper/archiver.py`.

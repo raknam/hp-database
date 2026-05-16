@@ -19,10 +19,11 @@ HEADERS = {
 }
 DEBUG = False  # set via --debug flag
 
-CACHE_DIR = Path("cache")
 RELEASES_DIR = Path("releases")
 MEMBERS_DIR = Path("members")
 IMAGES_DIR = Path("images")
+HP_CACHE_DIR     = Path("cache") / "releases" / "hp"
+MEMBERS_CACHE_DIR = Path("cache") / "members" / "current"
 
 
 # ---------------------------------------------------------------------------
@@ -240,13 +241,13 @@ def scrape_one(release_id: int, force: bool):
         print(f"  {release_id}: already exists, skipping")
         return
 
-    cache_file = CACHE_DIR / f"{release_id}.html"
+    cache_file = HP_CACHE_DIR / f"{release_id}.html"
     if cache_file.exists() and not force:
         html = cache_file.read_text(encoding="utf-8")
     else:
         resp = fetch(f"{SITE_URL}/release/{release_id}/")
         html = resp.text
-        CACHE_DIR.mkdir(exist_ok=True)
+        HP_CACHE_DIR.mkdir(parents=True, exist_ok=True)
         cache_file.write_text(html, encoding="utf-8")
 
     data = parse_release_html(release_id, html)
@@ -407,13 +408,13 @@ def scrape_member_one(member: dict, force: bool):
             print(f"  {member_slug}: already exists, skipping")
         return
 
-    cache_file = CACHE_DIR / f"{member_slug}.html"
+    cache_file = MEMBERS_CACHE_DIR / f"{member_slug}.html"
     if cache_file.exists() and not force:
         html = cache_file.read_text(encoding="utf-8")
     else:
         resp = fetch(f"{SITE_URL}/{group_slug}/{member_slug}/")
         html = resp.text
-        CACHE_DIR.mkdir(exist_ok=True)
+        MEMBERS_CACHE_DIR.mkdir(parents=True, exist_ok=True)
         cache_file.write_text(html, encoding="utf-8")
 
     data = parse_member_html(member_id, group_slug, member_slug, html)

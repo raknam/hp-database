@@ -43,6 +43,24 @@ def load_json(path: Path) -> dict | list | None:
         return None
 
 
+_barcodes: dict[str, dict] | None = None
+
+
+def load_barcodes() -> dict[str, dict]:
+    global _barcodes
+    if _barcodes is None:
+        path = SCRAPER_DIR / "releases" / "barcodes.json"
+        data = load_json(path)
+        _barcodes = data if isinstance(data, dict) else {}
+    return _barcodes
+
+
+def lookup_jan(catalog_no: str | None) -> str | None:
+    if not catalog_no:
+        return None
+    return load_barcodes().get(catalog_no, {}).get("jan")
+
+
 def parse_date(raw: str | None) -> date | None:
     if not raw:
         return None
@@ -408,6 +426,7 @@ def _upsert_discs(session: Session, edition: Edition, discs_data: list) -> None:
 
         disc.disc_type = disc_data.get("type")
         disc.catalog_no = disc_data.get("catalogNo")
+        disc.jan = lookup_jan(disc_data.get("catalogNo"))
 
         session.flush()
         _upsert_tracks(session, disc, disc_data.get("tracks", []))

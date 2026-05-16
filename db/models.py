@@ -128,6 +128,7 @@ class Disc(Base):
     edition_id: Mapped[int] = mapped_column(Integer, ForeignKey("editions.id"))
     disc_type: Mapped[Optional[str]] = mapped_column(String(10), nullable=True)
     catalog_no: Mapped[Optional[str]] = mapped_column(String(50), nullable=True, index=True)
+    jan: Mapped[Optional[str]] = mapped_column(String(20), nullable=True)
     sort_order: Mapped[int] = mapped_column(Integer, default=0)
 
     edition: Mapped[Edition] = relationship("Edition", back_populates="discs")

@@ -19,6 +19,7 @@ import hashlib
 import json
 import re
 import time
+import unicodedata
 from pathlib import Path
 
 import requests
@@ -33,13 +34,22 @@ CDX_API    = f"{WAYBACK}/cdx/search/cdx"
 HP_URL     = "http://helloproject.com"
 UFW_URL    = "https://www.up-front-works.jp"
 
-CACHE_DIR           = Path("cache") / "archive"
-UFW_CACHE_DIR       = Path("cache") / "upfront"
+CACHE_DIR           = Path("cache") / "members" / "html"
+PRE_CACHE_DIR       = Path("cache") / "members" / "pre-html"
+UFW_CACHE_DIR       = Path("cache") / "releases" / "upfront"
+HP_CACHE_DIR        = Path("cache") / "releases" / "hp"
 CDJAPAN_CACHE_DIR   = Path("cache") / "cdjapan"
 MEMBERS_DIR         = Path("members")
 RELEASES_DIR        = Path("releases")
 UFW_RELEASES_DIR    = RELEASES_DIR / "upfront"
 IMAGES_DIR          = Path("images")
+
+STAGING_HTML_DIR    = MEMBERS_DIR / "staging" / "html"
+STAGING_PRE_DIR     = MEMBERS_DIR / "staging" / "pre-html"
+STAGING_FLASH_DIR   = MEMBERS_DIR / "staging" / "flash"
+STAGING_UFW_DIR     = MEMBERS_DIR / "staging" / "upfront"
+
+ARTIST_REGISTRY_FILE     = MEMBERS_DIR / "artist_registry.json"
 DISCOVERED_FILE          = MEMBERS_DIR / "former_discovered.json"
 UFW_DISCOVERED_FILE      = RELEASES_DIR / "upfront_discovered.json"
 UFW_ARTISTS_DISCOVERED_FILE = MEMBERS_DIR / "ufw_artists_discovered.json"
@@ -65,6 +75,10 @@ UFW_YEAR_TO    = 2026
 ERA_V1_FROM = "20140424"
 ERA_V1_TO   = "20250101"
 
+# Pre-html era: Jan 2012 → Apr 2014 (Shift-JIS)
+ERA_PRE_FROM = "20120101"
+ERA_PRE_TO   = "20140424"
+
 # Groups no longer in current artist_list.json
 FORMER_GROUP_SLUGS = ["berryzkobo", "c-ute", "smileage", "countrygirls"]
 
@@ -77,7 +91,7 @@ UFW_NON_HP_GROUP_SLUGS: set[str] = {
 
 # Known (source, era) combinations
 SOURCE_ERAS: dict[str, list[str]] = {
-    "helloproject": ["html", "pre-html"],
+    "helloproject": ["html", "pre-html", "flash"],
     "upfront":      ["html"],
 }
 
@@ -105,6 +119,10 @@ def short_err(e: Exception) -> str:
     if "timed out" in s.lower() or "timeout" in s.lower():
         return "timeout"
     return s.split("\n")[0][:120]
+
+
+def normalize_name(name: str) -> str:
+    return unicodedata.normalize("NFKC", name).strip()
 
 
 def el_text(el) -> str | None:
@@ -173,9 +191,11 @@ def wayback_fetch(url: str, timestamp: str) -> bytes:
 
 
 def get_cached(cache_key: str, url: str, timestamp: str,
-               encoding: str = "utf-8", force: bool = False) -> str:
-    CACHE_DIR.mkdir(parents=True, exist_ok=True)
-    cache_file = CACHE_DIR / f"{cache_key}.html"
+               encoding: str = "utf-8", force: bool = False,
+               cache_dir: Path | None = None) -> str:
+    d = cache_dir or CACHE_DIR
+    d.mkdir(parents=True, exist_ok=True)
+    cache_file = d / f"{cache_key}.html"
     if cache_file.exists() and not force:
         if DEBUG:
             print(f"  CACHE {cache_key}")
@@ -948,7 +968,7 @@ def _ufw_group_slugs() -> set[str]:
 def fetch_ufw_artist(rec: dict, force: bool):
     slug     = rec["slug"]
     member_id = ufw_slug_to_id(slug)
-    out_file  = MEMBERS_DIR / f"{member_id}.json"
+    out_file  = STAGING_UFW_DIR / f"{slug}.json"
 
     if out_file.exists() and not force:
         if DEBUG:
@@ -986,7 +1006,7 @@ def fetch_ufw_artist(rec: dict, force: bool):
     if bio:
         result["bio"] = bio
 
-    MEMBERS_DIR.mkdir(exist_ok=True)
+    out_file.parent.mkdir(parents=True, exist_ok=True)
     out_file.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"  {slug} → {out_file}")
 
@@ -1100,6 +1120,33 @@ def _era_key(era_arg: str) -> str:
     return era_arg
 
 
+def discover_group_pre(group: str, force: bool) -> list[str]:
+    """CDX on /{group}/profile.html, extract ?id=<slug> from snapshot URLs."""
+    url = f"{HP_URL}/{group}/profile.html"
+    print(f"  CDX pre-html {group}…", end=" ", flush=True)
+    try:
+        captures = cdx_search(url, matchType="prefix",
+                              **{"from": ERA_PRE_FROM, "to": ERA_PRE_TO})
+    except RuntimeError as e:
+        print(f"CDX unavailable: {e}")
+        return []
+    if not captures:
+        print("no captures")
+        return []
+
+    slugs: list[str] = []
+    seen: set[str] = set()
+    for cap in captures:
+        m = re.search(r'[?&]id=([^&\s]+)', cap.get("original", ""))
+        if m:
+            slug = m.group(1)
+            if slug not in seen:
+                seen.add(slug)
+                slugs.append(slug)
+    print(f"{len(slugs)} slug(s)")
+    return slugs
+
+
 # ---------------------------------------------------------------------------
 # discover command — up-front-works releases
 # ---------------------------------------------------------------------------
@@ -1149,22 +1196,16 @@ def fetch_member(member: dict, force: bool):
     group = member["group"]
     era   = member.get("era", "html")
 
-    member_id  = slug_to_id(slug)
-    out_file   = MEMBERS_DIR / f"{member_id}.json"
-
-    # If the file exists but wasn't created by the archiver (no "has_grad" key),
-    # it was written by scraper.py for a current member — still fetch Wayback
-    # images and merge them in, but don't overwrite profile data.
-    existing = None
-    if out_file.exists():
-        existing = json.loads(out_file.read_text(encoding="utf-8"))
-        if existing.get("has_grad") and not force:
-            print(f"  {slug}: skip")
-            return
+    member_id = slug_to_id(slug)
 
     print(f"  {slug}…", end=" ", flush=True)
     last_seen = member.get("lastSeen", ERA_V1_TO)
     if era == "html":
+        out_file = STAGING_HTML_DIR / f"{slug}.json"
+        if out_file.exists() and not force:
+            print("skip")
+            return
+
         url = f"{HP_URL}/{group}/profile/{slug}/"
         cdx_idx = load_cdx_index()
         if slug in cdx_idx:
@@ -1178,7 +1219,7 @@ def fetch_member(member: dict, force: bool):
                 print(f"CDX unavailable, skipping ({e})")
                 return
         if not captures:
-            print(f"no snapshot found, skipping")
+            print("no snapshot found, skipping")
             return
 
         profile: dict = {}
@@ -1209,42 +1250,93 @@ def fetch_member(member: dict, force: bool):
         for wb_img in all_images:
             download_image(wb_img)
 
+        result = {
+            "id": member_id,
+            "url": f"/{group}/profile/{slug}/",
+            "slug": slug,
+            "group": group,
+            "nameJa":   profile.get("nameJa")   or member.get("nameJa"),
+            "nameKana": profile.get("nameKana") or member.get("nameKana"),
+            "images":      all_images,
+            "has_grad":    True,
+            "archivedUrl": f"{WAYBACK}/web/{ts}/{url}",
+        }
+        details = {**member.get("details", {}), **profile.get("details", {})}
+        if details:
+            result["details"] = details
+
+        out_file.parent.mkdir(parents=True, exist_ok=True)
+        out_file.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
+        print(f"saved {out_file}")
+
+    elif era == "pre-html":
+        out_file = STAGING_PRE_DIR / f"{slug}.json"
+        if out_file.exists() and not force:
+            print("skip")
+            return
+
+        url = f"{HP_URL}/{group}/profile.html?id={slug}"
+        try:
+            captures = cdx_search(url, collapse="digest",
+                                  **{"from": ERA_PRE_FROM, "to": ERA_PRE_TO})
+        except RuntimeError as e:
+            print(f"CDX unavailable, skipping ({e})")
+            return
+        if not captures:
+            print("no snapshot found, skipping")
+            return
+
+        profile: dict = {}
+        all_images: list[str] = []
+        seen_imgs: set[str] = set()
+        best_ts = captures[-1]["timestamp"]
+
+        for cap in captures:
+            ts = cap["timestamp"]
+            try:
+                html = get_cached(f"{slug}_pre_{ts}", url, ts,
+                                  encoding="shift_jis", force=force,
+                                  cache_dir=PRE_CACHE_DIR)
+            except Exception as e:
+                print(f"\n    Warning: {ts} — {short_err(e)}")
+                continue
+            p = parse_member_profile_pre(html)
+            if not profile:
+                profile = p
+            elif not profile.get("nameJa") and p.get("nameJa"):
+                profile = p
+            for img in p.get("images", []):
+                wb_img = f"{WAYBACK}/web/{ts}if_/{img}"
+                if img not in seen_imgs:
+                    seen_imgs.add(img)
+                    all_images.append(wb_img)
+
+        ts = best_ts
+
+        for wb_img in all_images:
+            download_image(wb_img)
+
+        result = {
+            "id": slug_to_id(slug),
+            "url": f"/{group}/profile.html?id={slug}",
+            "slug": slug,
+            "group": group,
+            "nameJa":   profile.get("nameJa")   or member.get("nameJa"),
+            "nameKana": profile.get("nameKana") or member.get("nameKana"),
+            "images":      all_images,
+            "has_grad":    True,
+            "archivedUrl": f"{WAYBACK}/web/{ts}/{url}",
+        }
+        details = {**member.get("details", {}), **profile.get("details", {})}
+        if details:
+            result["details"] = details
+
+        out_file.parent.mkdir(parents=True, exist_ok=True)
+        out_file.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
+        print(f"saved {out_file}")
+
     else:
         print(f"era '{era}' not yet implemented, skipping")
-        return
-
-    if existing and not existing.get("has_grad"):
-        # Enrich scraper.py file: merge archived images only
-        existing_imgs = existing.get("images", [])
-        known = {Path(i).name for i in existing_imgs}
-        new_imgs = [i for i in all_images if Path(i).name not in known]
-        if new_imgs:
-            existing["images"] = existing_imgs + new_imgs
-            out_file.write_text(json.dumps(existing, ensure_ascii=False, indent=2), encoding="utf-8")
-            print(f"→ +{len(new_imgs)} images merged")
-        else:
-            print(f"→ no new images")
-        return
-
-    result = {
-        "id": member_id,
-        "url": f"/{group}/profile/{slug}/",
-        "slug": slug,
-        "group": group,
-        "nameJa":   profile.get("nameJa")   or member.get("nameJa"),
-        "nameKana": profile.get("nameKana") or member.get("nameKana"),
-        "images":      all_images,
-        "has_grad":    True,
-        "archivedUrl": f"{WAYBACK}/web/{ts}/{url}",
-    }
-
-    details = {**member.get("details", {}), **profile.get("details", {})}
-    if details:
-        result["details"] = details
-
-    MEMBERS_DIR.mkdir(exist_ok=True)
-    out_file.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"→ {out_file}")
 
 
 # ---------------------------------------------------------------------------
@@ -1393,6 +1485,11 @@ def cmd_discover(args):
         else:
             groups = all_groups
 
+        # pre-html slug registry: nameJa → { slug, eras: { pre-html: { group } } }
+        registry: dict[str, dict] = {}
+        if ARTIST_REGISTRY_FILE.exists():
+            registry = json.loads(ARTIST_REGISTRY_FILE.read_text(encoding="utf-8"))
+
         for source, era in hp_combos:
             if source == "helloproject" and era == "html":
                 if args.group:
@@ -1413,6 +1510,23 @@ def cmd_discover(args):
                         for m in former:
                             existing[m["slug"]] = m
                         discovered[group] = list(existing.values())
+
+            elif source == "helloproject" and era == "pre-html":
+                print(f"Discovering [{source}/{era}]…")
+                pre_groups = groups if args.group else (list(current.keys()) + FORMER_GROUP_SLUGS)
+                for group in pre_groups:
+                    slugs = discover_group_pre(group, args.force)
+                    for slug in slugs:
+                        # Store in artist_registry keyed by slug (nameJa unknown yet)
+                        key = f"__pre_slug__{slug}"
+                        entry = registry.setdefault(key, {"slug": slug, "eras": {}})
+                        entry["eras"]["pre-html"] = {"group": group}
+                if registry:
+                    ARTIST_REGISTRY_FILE.parent.mkdir(parents=True, exist_ok=True)
+                    ARTIST_REGISTRY_FILE.write_text(
+                        json.dumps(registry, ensure_ascii=False, indent=2), encoding="utf-8")
+                    print(f"  Updated {ARTIST_REGISTRY_FILE}")
+
             else:
                 print(f"  [{source}/{era}]: not yet implemented, skipping")
 
@@ -1488,7 +1602,33 @@ def cmd_fetch(args):
             fetch_ufw_release(rec, args.force)
         return
 
-    # --- helloproject member profiles ---
+    era_filter = _era_key(args.era) if args.era else None
+
+    # --- helloproject pre-html members ---
+    if args.source == "helloproject" and era_filter == "pre-html":
+        if not ARTIST_REGISTRY_FILE.exists():
+            print("No artist_registry.json — run 'py archiver.py discover --source helloproject --era pre-html' first")
+            return
+        registry = json.loads(ARTIST_REGISTRY_FILE.read_text(encoding="utf-8"))
+        pre_entries = [
+            {"slug": v["slug"], "group": v["eras"]["pre-html"]["group"],
+             "era": "pre-html", "nameJa": k if not k.startswith("__pre_slug__") else ""}
+            for k, v in registry.items()
+            if "pre-html" in v.get("eras", {}) and v.get("slug")
+        ]
+        if args.slug:
+            pre_entries = [e for e in pre_entries if e["slug"] == args.slug]
+        if args.group:
+            pre_entries = [e for e in pre_entries if e["group"] == args.group]
+        if not pre_entries:
+            print("No pre-html members found. Run discover first.")
+            return
+        print(f"Fetching {len(pre_entries)} pre-html member profile(s)…")
+        for member in pre_entries:
+            fetch_member(member, args.force)
+        return
+
+    # --- helloproject html member profiles ---
     discovered = load_discovered()
     if not discovered:
         print("Nothing discovered yet — run 'py archiver.py discover' first")
@@ -1511,8 +1651,8 @@ def cmd_fetch(args):
 
     if args.source:
         targets = [m for m in targets if m.get("source") == args.source]
-    if args.era:
-        targets = [m for m in targets if m.get("era") == _era_key(args.era)]
+    if era_filter:
+        targets = [m for m in targets if m.get("era") == era_filter]
 
     if not targets:
         print("No members match the given filters.")
@@ -1521,6 +1661,128 @@ def cmd_fetch(args):
     print(f"Fetching {len(targets)} member profile(s)…")
     for member in targets:
         fetch_member(member, args.force)
+
+
+# ---------------------------------------------------------------------------
+# consolidate command
+# ---------------------------------------------------------------------------
+
+def cmd_consolidate(args):
+    """Merge staging/html + staging/pre-html + staging/upfront into members/<id>.json."""
+    if not ARTIST_REGISTRY_FILE.exists():
+        print(f"Missing {ARTIST_REGISTRY_FILE} — run discover/migrate first")
+        return
+
+    registry: dict[str, dict] = json.loads(ARTIST_REGISTRY_FILE.read_text(encoding="utf-8"))
+    slug_filter: str | None = args.slug if hasattr(args, "slug") else None
+
+    # Build slug → nameJa lookup from registry (skip placeholder keys)
+    slug_to_name: dict[str, str] = {
+        v["slug"]: k
+        for k, v in registry.items()
+        if not k.startswith("__pre_slug__") and v.get("slug")
+    }
+
+    merged_count = 0
+
+    # Iterate over html staging files as primary
+    html_files = sorted(STAGING_HTML_DIR.glob("*.json")) if STAGING_HTML_DIR.exists() else []
+    for html_path in html_files:
+        slug = html_path.stem
+        if slug_filter and slug != slug_filter:
+            continue
+
+        html_data = json.loads(html_path.read_text(encoding="utf-8"))
+        member_id = html_data.get("id") or slug_to_id(slug)
+        out_file = MEMBERS_DIR / f"{member_id}.json"
+
+        # Check if target file exists and is not a current-member file
+        existing: dict = {}
+        if out_file.exists():
+            existing = json.loads(out_file.read_text(encoding="utf-8"))
+            if not existing.get("has_grad") and args.force:
+                pass  # overwrite
+            elif not existing.get("has_grad"):
+                if DEBUG:
+                    print(f"  {slug}: current member file exists, skipping")
+                continue
+
+        # Base from html (highest priority)
+        result: dict = {
+            "id":       member_id,
+            "url":      html_data.get("url", f"/{html_data.get('group', '')}/profile/{slug}/"),
+            "slug":     slug,
+            "group":    html_data.get("group", ""),
+            "nameJa":   html_data.get("nameJa") or "",
+            "nameKana": html_data.get("nameKana") or "",
+            "images":   list(html_data.get("images", [])),
+            "has_grad": True,
+            "sources":  ["html"],
+        }
+        if html_data.get("archivedUrl"):
+            result["archivedUrl"] = html_data["archivedUrl"]
+        details: dict = dict(html_data.get("details", {}))
+        if html_data.get("color"):
+            result["color"] = html_data["color"]
+
+        seen_imgs: set[str] = {Path(i).name for i in result["images"]}
+
+        # Merge pre-html
+        pre_path = STAGING_PRE_DIR / f"{slug}.json" if STAGING_PRE_DIR.exists() else None
+        if pre_path and pre_path.exists():
+            pre_data = json.loads(pre_path.read_text(encoding="utf-8"))
+            result["sources"].append("pre-html")
+            if not result["nameJa"] and pre_data.get("nameJa"):
+                result["nameJa"] = pre_data["nameJa"]
+            if not result["nameKana"] and pre_data.get("nameKana"):
+                result["nameKana"] = pre_data["nameKana"]
+            for k, v in pre_data.get("details", {}).items():
+                details.setdefault(k, v)
+            for img in pre_data.get("images", []):
+                name = Path(img).name
+                if name not in seen_imgs:
+                    seen_imgs.add(name)
+                    result["images"].append(img)
+
+        # Merge upfront
+        ufw_path = STAGING_UFW_DIR / f"{slug}.json" if STAGING_UFW_DIR.exists() else None
+        if ufw_path and ufw_path.exists():
+            ufw_data = json.loads(ufw_path.read_text(encoding="utf-8"))
+            if ufw_data.get("kind") == "artist":
+                result["sources"].append("upfront")
+                if not result["nameJa"] and ufw_data.get("nameJa"):
+                    result["nameJa"] = ufw_data["nameJa"]
+                if ufw_data.get("bio"):
+                    result["bio"] = ufw_data["bio"]
+                for img in ufw_data.get("images", []):
+                    name = Path(img).name
+                    if name not in seen_imgs:
+                        seen_imgs.add(name)
+                        result["images"].append(img)
+
+        if details:
+            result["details"] = details
+
+        # Update artist_registry with confirmed nameJa
+        name_ja = result["nameJa"]
+        if name_ja and normalize_name(name_ja) not in registry:
+            registry[normalize_name(name_ja)] = {"slug": slug, "eras": {
+                era: {"group": result.get("group", "")} if era == "html" else {}
+                for era in result["sources"]
+            }}
+
+        out_file.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
+        merged_count += 1
+        if DEBUG:
+            print(f"  {slug} -> {out_file} (sources: {result['sources']})")
+
+    print(f"Consolidated {merged_count} member(s)")
+
+    # Save updated registry
+    ARTIST_REGISTRY_FILE.write_text(
+        json.dumps(registry, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+    print(f"Updated {ARTIST_REGISTRY_FILE}")
 
 
 # ---------------------------------------------------------------------------
@@ -1563,6 +1825,10 @@ def main():
     p_cdx.add_argument("--group", help="Restrict to one group slug")
     p_cdx.add_argument("--force", action="store_true", help="Rebuild index even if already present")
 
+    p_con = sub.add_parser("consolidate", help="Merge staging data into members/<id>.json")
+    p_con.add_argument("--slug",  help="Consolidate a single member by slug")
+    p_con.add_argument("--force", action="store_true", help="Overwrite even if target exists")
+
     args = parser.parse_args()
     global DEBUG
     DEBUG = args.debug
@@ -1572,6 +1838,7 @@ def main():
         "fetch":        cmd_fetch,
         "enrich":       cmd_enrich,
         "prefetch-cdx": cmd_prefetch_cdx,
+        "consolidate":  cmd_consolidate,
     }[args.command](args)
 
 
