@@ -195,6 +195,15 @@ Remplace : `HP_CURRENT_DATA_STRUCTURE.md`, `HP_HTML_DATA_STRUCTURE.md`, `UFW_DAT
 
 ---
 
+## Barcodes — intégration importer
+
+`releases/barcodes.json` est maintenant un `dict[catalogNo, { jan?, cdjapan?, ... }]`.
+L'importer (`importer/import_scraper.py`) ne lit pas encore ce fichier.
+
+**À faire** : lors de l'import d'une release HP ou UFW, lire `barcodes.json` et injecter `entry["jan"]` (si présent) dans le modèle de release importé (table ou champ à définir selon le schéma DB).
+
+---
+
 ## Ordre d'exécution
 
 1. **Maintenant** : `py -m importer.import_scraper --all` (importer ce qui existe)

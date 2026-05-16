@@ -56,7 +56,7 @@ HEADERS = {
 RATE_LIMIT          = 3.0  # seconds between Wayback requests
 UFW_RATE_LIMIT      = 1.0  # seconds between up-front-works live requests
 CDJAPAN_RATE_LIMIT  = 0.0  # seconds between cdjapan.co.jp requests
-CDJAPAN_URL         = "https://www.cdjapan.co.jp"
+CDJAPAN_URL         = "https://www.neowing.co.jp"
 UFW_PAGE_SIZE  = 20
 UFW_YEAR_FROM  = 1998
 UFW_YEAR_TO    = 2026
@@ -279,25 +279,22 @@ def get_cached_cdjapan(catalog_no: str, force: bool = False) -> str | None:
     path = CDJAPAN_CACHE_DIR / f"{safe_key}.html"
     if path.exists() and not force:
         return path.read_text(encoding="utf-8", errors="replace")
-    elapsed = time.time() - _last_cdjapan_req
-    if elapsed < CDJAPAN_RATE_LIMIT:
-        time.sleep(CDJAPAN_RATE_LIMIT - elapsed)
     url = f"{CDJAPAN_URL}/product/{catalog_no}"
     if DEBUG:
         print(f"  CDJAPAN {url}")
-    try:
+    for attempt in range(3):
         resp = requests.get(url, headers=HEADERS, timeout=(8, 30), allow_redirects=True)
         _last_cdjapan_req = time.time()
         if resp.status_code == 404:
             return None
+        if resp.status_code >= 500 and attempt < 2:
+            print(f"  CDJapan {resp.status_code}, retry {attempt + 2}/3…")
+            time.sleep(5)
+            continue
         resp.raise_for_status()
         path.write_bytes(resp.content)
         return resp.content.decode("utf-8", errors="replace")
-    except Exception as e:
-        _last_cdjapan_req = time.time()
-        if DEBUG:
-            print(f"  CDJapan error ({catalog_no}): {short_err(e)}")
-        return None
+
 
 
 def extract_jan(html: str) -> str | None:
@@ -355,13 +352,24 @@ def collect_all_catalog_nos() -> tuple[list[str], dict[str, str]]:
     return codes, isbn_map
 
 
-def load_barcodes() -> dict[str, str]:
-    if BARCODES_FILE.exists():
-        return json.loads(BARCODES_FILE.read_text(encoding="utf-8"))
-    return {}
+def load_barcodes() -> dict[str, dict]:
+    if not BARCODES_FILE.exists():
+        return {}
+    raw = json.loads(BARCODES_FILE.read_text(encoding="utf-8"))
+    result: dict[str, dict] = {}
+    for cat, val in raw.items():
+        if isinstance(val, dict):
+            result[cat] = val
+        elif val == "cdjapan:404":
+            result[cat] = {"cdjapan": None}
+        elif isinstance(val, str):
+            result[cat] = {"jan": val, "cdjapan": val}
+        else:
+            result[cat] = {}
+    return result
 
 
-def save_barcodes(data: dict[str, str]):
+def save_barcodes(data: dict[str, dict]):
     RELEASES_DIR.mkdir(exist_ok=True)
     BARCODES_FILE.write_text(
         json.dumps(data, ensure_ascii=False, indent=2, sort_keys=True), encoding="utf-8"
@@ -450,14 +458,19 @@ def cmd_enrich(args):
         return
 
     barcodes        = load_barcodes()
+    save_barcodes(barcodes)
+    print(f"Migrated barcodes.json ({len(barcodes)} entries)")
+
     codes, isbn_map = collect_all_catalog_nos()
     force           = args.force
 
     # Inject ISBN-derived barcodes directly
     isbn_added = 0
     for cat, jan in isbn_map.items():
-        if cat not in barcodes or force:
-            barcodes[cat] = jan
+        entry = barcodes.get(cat, {})
+        if "jan" not in entry or force:
+            entry["jan"] = jan
+            barcodes[cat] = entry
             isbn_added += 1
     if isbn_added:
         print(f"  {isbn_added} barcode(s) derived from ISBN (photobooks/books)")
@@ -465,29 +478,41 @@ def cmd_enrich(args):
     if args.catalog:
         codes = [args.catalog]
 
-    todo = [c for c in codes if force or c not in barcodes]
-    print(f"{len(barcodes)} known barcodes, {len(todo)}/{len(codes)} to fetch from CDJapan…")
+    todo = [c for c in codes if force or "cdjapan" not in barcodes.get(c, {})]
+    known_count = sum(1 for e in barcodes.values() if e.get("jan"))
+    print(f"{known_count} known barcodes, {len(todo)}/{len(codes)} to fetch from CDJapan…")
 
-    added = 0
+    added = not_found = 0
     for i, code in enumerate(todo, 1):
-        html = get_cached_cdjapan(code, force)
-        if html is None:
-            if DEBUG:
-                print(f"  {code}: not found on CDJapan")
+        try:
+            html = get_cached_cdjapan(code, force)
+        except Exception as e:
+            print(f"  {code}: error — {short_err(e)}, skipping")
             continue
-        jan = extract_jan(html)
-        if jan:
-            barcodes[code] = jan
-            added += 1
-            print(f"  {code} → {jan}")
-        elif DEBUG:
-            print(f"  {code}: no JAN found")
+        if html is None:
+            entry = barcodes.get(code, {})
+            entry["cdjapan"] = None
+            barcodes[code] = entry
+            not_found += 1
+            print(f"  {code}: 404 not found on CDJapan")
+        else:
+            jan = extract_jan(html)
+            if jan:
+                entry = barcodes.get(code, {})
+                entry["cdjapan"] = jan
+                entry["jan"] = jan
+                barcodes[code] = entry
+                added += 1
+                print(f"  {code} → {jan}")
+            else:
+                print(f"  {code}: no JAN found")
         if i % 100 == 0:
             save_barcodes(barcodes)
             print(f"  [{i}/{len(todo)}] checkpoint saved")
 
     save_barcodes(barcodes)
-    print(f"\nDone — {added} new barcode(s) added, {len(barcodes)} total in {BARCODES_FILE}")
+    total_jan = sum(1 for e in barcodes.values() if e.get("jan"))
+    print(f"\nDone — {added} new barcode(s) added, {not_found} marked 404, {total_jan} with JAN in {BARCODES_FILE}")
 
 
 def get_cached_ufw(cache_key: str, url: str, force: bool = False) -> str:
