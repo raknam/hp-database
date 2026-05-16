@@ -193,18 +193,20 @@ def parse_release_html(release_id: int, html: str) -> dict:
         if len(paragraphs) >= 2:
             artist = el_text(paragraphs[1])
 
-    release_date = label = None
+    release_date = label = isbn = None
     for dl in soup.select(".ReleaseHead__mainDetails dl.contents"):
-        dt = dl.select_one("dt")
-        dd = dl.select_one("dd")
-        if not (dt and dd):
-            continue
-        key = el_text(dt)
-        val = el_text(dd)
-        if "発売日" in key:
-            release_date = val
-        elif "レーベル" in key:
-            label = val
+        for dt, dd in zip(dl.select("dt"), dl.select("dd")):
+            key = el_text(dt)
+            val = el_text(dd)
+            if "発売日" in key:
+                release_date = val
+            elif "レーベル" in key:
+                label = val
+            elif "ISBN" in key:
+                isbn = val
+
+    header_catalog_el = soup.select_one(".ReleaseHead__mainDetails [class*='text-blueGray']")
+    header_catalog_no = el_text(header_catalog_el) if header_catalog_el else None
 
     gallery = [
         img["src"]
@@ -214,7 +216,7 @@ def parse_release_html(release_id: int, html: str) -> dict:
 
     editions = [parse_edition(div) for div in soup.select(".ReleaseEdition")]
 
-    return {
+    result = {
         "id": release_id,
         "url": f"/release/{release_id}/",
         "title": title,
@@ -225,6 +227,11 @@ def parse_release_html(release_id: int, html: str) -> dict:
         "images": gallery,
         "editions": editions,
     }
+    if header_catalog_no:
+        result["catalogNo"] = header_catalog_no
+    if isbn:
+        result["isbn"] = isbn
+    return result
 
 
 def scrape_one(release_id: int, force: bool):
@@ -413,6 +420,16 @@ def scrape_member_one(member: dict, force: bool):
 
     for path in data.get("images", []):
         download_image(path)
+
+    # Preserve images added by archiver.py (historical Wayback photos)
+    if out_file.exists():
+        existing = json.loads(out_file.read_text(encoding="utf-8"))
+        existing_imgs = existing.get("images", [])
+        new_imgs = data.get("images", [])
+        known = set(new_imgs)
+        extra = [i for i in existing_imgs if i not in known]
+        if extra:
+            data["images"] = new_imgs + extra
 
     MEMBERS_DIR.mkdir(exist_ok=True)
     save_json(data, out_file)

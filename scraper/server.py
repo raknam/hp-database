@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Simple web server to browse scraped helloproject.com data.
+"""Simple web server to browse scraped helloproject.com and up-front-works.jp data.
 
 Usage:
     py server.py            # starts on http://localhost:8000
@@ -9,16 +9,17 @@ Usage:
 import argparse
 import json
 import re
-import signal
 import sys
+import threading
 from http.server import BaseHTTPRequestHandler, HTTPServer
 from pathlib import Path
 from urllib.parse import parse_qs, unquote, urlparse
 
 RELEASES_DIR = Path("releases")
-MEMBERS_DIR = Path("members")
-IMAGES_DIR = Path("images")
-SITE_URL = "https://helloproject.com"
+MEMBERS_DIR  = Path("members")
+IMAGES_DIR   = Path("images")
+SITE_URL     = "https://helloproject.com"
+UFW_SITE_URL = "https://www.up-front-works.jp"
 
 # ---------------------------------------------------------------------------
 # Data loading
@@ -33,13 +34,18 @@ def load_json(path: Path):
         return None
 
 
+def _ufw_year(release_date: str) -> int | None:
+    m = re.match(r'(\d{4})[/.]', release_date or "")
+    return int(m.group(1)) if m else None
+
+
 class DataStore:
     def __init__(self):
-        self.version = load_json(RELEASES_DIR / "version.json") or {}
-        self.artist_list = load_json(RELEASES_DIR / "artist_list.json") or {}
-        self.artists_by_id = self.artist_list.get("artistsById", {})
+        self.version        = load_json(RELEASES_DIR / "version.json") or {}
+        self.artist_list    = load_json(RELEASES_DIR / "artist_list.json") or {}
+        self.artists_by_id  = self.artist_list.get("artistsById", {})
         self.profiles_by_id = self.artist_list.get("profilesById", {})
-        self.relations = self.artist_list.get("artistRelation", {})
+        self.relations      = self.artist_list.get("artistRelation", {})
 
         self.release_years = sorted(
             (int(p.stem.replace("_releases", ""))
@@ -47,20 +53,38 @@ class DataStore:
             reverse=True,
         )
 
-        # year_releases: year -> list of items
         self.year_releases: dict[int, list] = {}
         for year in self.release_years:
             data = load_json(RELEASES_DIR / f"{year}_releases.json")
             if data:
                 self.year_releases[year] = data.get("items", [])
 
-        # scraped release details: id -> dict
+        # helloproject scraped release details: id -> dict
         self.releases: dict[int, dict] = {}
         for p in RELEASES_DIR.glob("*.json"):
             if re.fullmatch(r"\d+", p.stem):
                 data = load_json(p)
                 if data:
                     self.releases[int(p.stem)] = data
+
+        # up-front-works releases: code -> dict
+        self.ufw_releases: dict[str, dict] = {}
+        ufw_dir = RELEASES_DIR / "upfront"
+        if ufw_dir.exists():
+            for p in ufw_dir.glob("*.json"):
+                data = load_json(p)
+                if data and data.get("code"):
+                    self.ufw_releases[data["code"]] = data
+
+        # group upfront by year
+        self.ufw_by_year: dict[int, list] = {}
+        for data in self.ufw_releases.values():
+            year = _ufw_year(data.get("releaseDate", ""))
+            if year:
+                self.ufw_by_year.setdefault(year, []).append(data)
+        for items in self.ufw_by_year.values():
+            items.sort(key=lambda x: x.get("releaseDate", ""), reverse=True)
+        self.ufw_years = sorted(self.ufw_by_year.keys(), reverse=True)
 
         # member details: id -> dict
         self.members: dict[int, dict] = {}
@@ -70,20 +94,45 @@ class DataStore:
                 if data:
                     self.members[int(p.stem)] = data
 
-        # artist slug -> id
         self.artist_order: list[str] = [str(i) for i in self.artist_list.get("artistOrder", [])]
-
         self.artist_by_slug = {
             v.get("slug"): k
             for k, v in self.artists_by_id.items()
             if v.get("slug")
         }
 
+        # barcodes: catalogNo -> barcode string or list of strings
+        self.barcodes: dict[str, str | list[str]] = load_json(RELEASES_DIR / "barcodes.json") or {}
+
+        # catalogno_index: catalogNo -> page URL
+        self.catalogno_index: dict[str, str] = {}
+        for rid, rdata in self.releases.items():
+            url = f"/release/{rid}"
+            if rdata.get("catalogNo"):
+                self.catalogno_index[rdata["catalogNo"]] = url
+            if rdata.get("isbn"):
+                self.catalogno_index[rdata["isbn"].replace("-", "")] = url
+            for ed in rdata.get("editions", []):
+                for disc in ed.get("discs", []):
+                    c = disc.get("catalogNo")
+                    if c:
+                        self.catalogno_index[c] = url
+        for code, rdata in self.ufw_releases.items():
+            url = f"/release/upfront/{code}"
+            self.catalogno_index[code] = url
+            for ed in rdata.get("editions", []):
+                for disc in ed.get("discs", []):
+                    c = disc.get("catalogNo")
+                    if c:
+                        self.catalogno_index[c] = url
+
         print(
-            f"Loaded: {len(self.release_years)} years, "
+            f"Loaded: {len(self.release_years)} HP years, "
             f"{sum(len(v) for v in self.year_releases.values())} catalogue releases, "
-            f"{len(self.releases)} scraped releases, "
-            f"{len(self.members)} members"
+            f"{len(self.releases)} scraped HP releases, "
+            f"{len(self.ufw_releases)} UFW releases, "
+            f"{len(self.members)} members, "
+            f"{len(self.catalogno_index)} catalog codes indexed"
         )
 
 
@@ -170,6 +219,7 @@ h2 { font-size: 1.2rem; margin: 24px 0 12px; color: #ccc; }
 .search-results .result-item img { width: 56px; height: 56px; object-fit: cover; border-radius: 4px; flex-shrink: 0; }
 .search-results .result-item .no-img { width: 56px; height: 56px; background: #1f1f1f; border-radius: 4px; display: flex; align-items: center; justify-content: center; font-size: 1.4rem; color: #444; flex-shrink: 0; }
 .tag { display: inline-block; font-size: 0.7rem; padding: 1px 6px; border-radius: 3px; background: #222; color: #888; margin-left: 6px; }
+.tag.ufw { background: #1a2a1a; color: #7ac; }
 .artists-list { columns: 2; column-gap: 32px; }
 @media(min-width:700px) { .artists-list { columns: 3; } }
 .artists-list .group-block { break-inside: avoid; margin-bottom: 20px; }
@@ -181,10 +231,6 @@ h2 { font-size: 1.2rem; margin: 24px 0 12px; color: #ccc; }
 
 
 def page(title: str, body: str, active_year: int | None = None, q: str = "") -> str:
-    year_links = " ".join(
-        f'<a href="/releases/{y}" class="{"active" if y == active_year else ""}">{y}</a>'
-        for y in DB.release_years
-    )
     return f"""<!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -200,6 +246,7 @@ def page(title: str, body: str, active_year: int | None = None, q: str = "") -> 
     <a href="/groups">Groups</a>
     <a href="/members">Members</a>
     <a href="/releases">Releases</a>
+    <a href="/upfront">Up-Front Works</a>
   </nav>
   <form class="search-bar" action="/search" method="get">
     <input name="q" placeholder="Search…" value="{escape(q)}">
@@ -222,9 +269,18 @@ def escape(s) -> str:
 def img_tag(path: str | None, cls: str = "", alt: str = "", placeholder: str = "🎵") -> str:
     if not path:
         return f'<div class="no-img">{placeholder}</div>'
-    filename = Path(path).name
-    local = IMAGES_DIR / filename
-    src = f"/images/{filename}" if local.exists() else f"{SITE_URL}{path}"
+    if path.startswith("http"):
+        # Wayback URL: check local cache first
+        m = re.search(r'if_/https?://.+?/([^/?#]+)$', path)
+        filename = m.group(1) if m else None
+        if filename and (IMAGES_DIR / filename).exists():
+            src = f"/images/{filename}"
+        else:
+            src = path
+    else:
+        filename = Path(path).name
+        local = IMAGES_DIR / filename
+        src = f"/images/{filename}" if local.exists() else f"{SITE_URL}{path}"
     return f'<img src="{escape(src)}" alt="{escape(alt)}" loading="lazy">'
 
 
@@ -244,8 +300,69 @@ def year_nav(active: int | None = None) -> str:
     return f'<div class="year-nav"><a href="/releases" class="{"active" if active is None else ""}">All</a>{links}</div>'
 
 
+def ufw_year_nav(active: int | None = None) -> str:
+    links = "".join(
+        f'<a href="/upfront/{y}" class="{"active" if y == active else ""}">{y}</a>'
+        for y in DB.ufw_years
+    )
+    return f'<div class="year-nav"><a href="/upfront" class="{"active" if active is None else ""}">All</a>{links}</div>'
+
+
+def render_editions_html(editions: list, first_img: str | None, site_base: str) -> str:
+    html = ""
+    for ed in editions:
+        ed_name  = escape(ed.get("name") or "Edition")
+        ed_price = escape(ed.get("price") or "")
+        ed_note  = escape(ed.get("note") or "")
+        ed_img_path = ed.get("image")
+
+        discs_html = ""
+        for disc in ed.get("discs", []):
+            dtype  = escape(disc.get("type") or "")
+            cat_no = escape(disc.get("catalogNo") or "")
+            label_parts = [x for x in [dtype, cat_no] if x]
+            discs_html += f'<div class="disc-label">{" · ".join(label_parts)}</div>'
+            discs_html += '<ul class="track-list">'
+            for tr in disc.get("tracks", []):
+                idx      = tr.get("index", "")
+                tname    = escape(tr.get("title") or "")
+                suffix   = escape(tr.get("suffix") or "")
+                dur      = escape(tr.get("duration") or "")
+                credits  = tr.get("credits", {})
+                credits_str = " · ".join(f"{escape(k)}：{escape(v)}" for k, v in credits.items()) if credits else ""
+                discs_html += f"""
+<li>
+  <span class="track-idx">{idx}</span>
+  <span class="track-title">
+    {tname}
+    {f'<span class="track-suffix">{suffix}</span>' if suffix else ''}
+    {f'<span class="track-credits">{credits_str}</span>' if credits_str else ''}
+  </span>
+  <span class="track-dur">{dur}</span>
+</li>"""
+            discs_html += "</ul>"
+
+        ed_img_html = ""
+        if ed_img_path and ed_img_path != first_img:
+            ed_img_html = f'<div style="padding:10px">{img_tag(ed_img_path, alt=ed_name)}</div>'
+
+        html += f"""
+<div class="edition-block">
+  <div class="edition-header">
+    <div>
+      <div>{ed_name}</div>
+      {f'<div class="edition-note">{ed_note}</div>' if ed_note else ''}
+    </div>
+    <div class="edition-price">{ed_price}</div>
+  </div>
+  {ed_img_html}
+  {discs_html}
+</div>"""
+    return html
+
+
 # ---------------------------------------------------------------------------
-# Page renderers
+# Page renderers — helloproject
 # ---------------------------------------------------------------------------
 
 def render_home() -> str:
@@ -253,22 +370,23 @@ def render_home() -> str:
     body = f"""
 <h1>Hello! Project Data</h1>
 <p style="color:#888;margin-bottom:20px">
-  {len(DB.release_years)} years &nbsp;·&nbsp; {total_cat} catalogue releases &nbsp;·&nbsp;
-  {len(DB.releases)} scraped &nbsp;·&nbsp; {len(DB.members)} members
+  {len(DB.release_years)} HP years &nbsp;·&nbsp; {total_cat} catalogue releases &nbsp;·&nbsp;
+  {len(DB.releases)} scraped HP &nbsp;·&nbsp;
+  {len(DB.ufw_releases)} UFW releases &nbsp;·&nbsp; {len(DB.members)} members
 </p>
 {year_nav()}
 """
     if DB.release_years:
         latest = DB.release_years[0]
-        items = DB.year_releases.get(latest, [])
+        items  = DB.year_releases.get(latest, [])
         body += f'<h2>Latest releases ({latest})</h2><div class="grid">'
         for item in items[:24]:
-            rid = item.get("id")
-            title = escape(item.get("title", "—"))
+            rid    = item.get("id")
+            title  = escape(item.get("title", "—"))
             artist = escape(item.get("artist") or item.get("artistName", ""))
-            cat = escape(item.get("category", ""))
-            img = release_cover_path(item)
-            link = f"/release/{rid}" if rid else "#"
+            cat    = escape(item.get("category", ""))
+            img    = release_cover_path(item)
+            link   = f"/release/{rid}" if rid else "#"
             body += f"""
 <a href="{link}" class="card">
   {cover_img(img, alt=title)}
@@ -295,17 +413,17 @@ def render_releases(year: int | None) -> str:
         title = f"{year} Releases"
         items = DB.year_releases.get(year, [])
 
-    body = f"<h1>{title} <span style='color:#555;font-size:1rem'>({len(items)})</span></h1>"
+    body  = f"<h1>{title} <span style='color:#555;font-size:1rem'>({len(items)})</span></h1>"
     body += year_nav(year)
     body += '<div class="grid">'
     for item in items:
-        rid = item.get("id")
-        t = escape(item.get("title", "—"))
+        rid    = item.get("id")
+        t      = escape(item.get("title", "—"))
         artist = escape(item.get("artist") or item.get("artistName", ""))
-        cat = escape(item.get("category", ""))
-        date = escape(item.get("releaseDate", ""))
-        img = release_cover_path(item)
-        link = f"/release/{rid}" if rid else "#"
+        cat    = escape(item.get("category", ""))
+        date   = escape(item.get("releaseDate", ""))
+        img    = release_cover_path(item)
+        link   = f"/release/{rid}" if rid else "#"
         body += f"""
 <a href="{link}" class="card">
   {cover_img(img, alt=t)}
@@ -323,22 +441,46 @@ def render_releases(year: int | None) -> str:
 def render_release(rid: int) -> str | None:
     data = DB.releases.get(rid)
     if not data:
-        # try to find basic info from catalogue
         for items in DB.year_releases.values():
             for item in items:
                 if item.get("id") == rid:
                     return render_release_stub(rid, item)
         return None
 
-    title = data.get("title", f"Release {rid}")
-    artist = data.get("artist", "")
+    title    = data.get("title", f"Release {rid}")
+    artist   = data.get("artist", "")
     category = data.get("category", "")
-    date = data.get("releaseDate", "")
-    label = data.get("label", "")
-    images = data.get("images", [])
+    date     = data.get("releaseDate", "")
+    label    = data.get("label", "")
+    images   = data.get("images", [])
     editions = data.get("editions", [])
-
     first_img = images[0] if images else None
+
+    catalog_no = data.get("catalogNo") or ", ".join(
+        d.get("catalogNo", "") for e in editions for d in e.get("discs", []) if d.get("catalogNo")
+    ) or ""
+    isbn = data.get("isbn", "")
+
+    # collect all catalog codes for this release to look up barcodes
+    all_codes = []
+    if data.get("catalogNo"):
+        all_codes.append(data["catalogNo"])
+    for ed in editions:
+        for disc in ed.get("discs", []):
+            c = disc.get("catalogNo")
+            if c and c not in all_codes:
+                all_codes.append(c)
+    if isbn:
+        all_codes.append(isbn.replace("-", ""))
+    def _flat(v: str | list) -> list[str]:
+        return v if isinstance(v, list) else [v]
+    barcodes_found = [b for c in all_codes if c in DB.barcodes for b in _flat(DB.barcodes[c])]
+    seen: set[str] = set()
+    barcodes_found = [b for b in barcodes_found if not (b in seen or seen.add(b))]
+
+    row_catalog  = f"<tr><td>Catalog</td><td>{escape(catalog_no)}</td></tr>" if catalog_no else ""
+    row_isbn     = f"<tr><td>ISBN</td><td>{escape(isbn)}</td></tr>" if isbn else ""
+    row_barcodes = f"<tr><td>Barcode</td><td>{escape(' / '.join(barcodes_found))}</td></tr>" if barcodes_found else ""
 
     meta = f"""
 <table class="meta-table">
@@ -346,6 +488,9 @@ def render_release(rid: int) -> str | None:
   <tr><td>Category</td><td>{escape(category)}</td></tr>
   <tr><td>Release date</td><td>{escape(date)}</td></tr>
   <tr><td>Label</td><td>{escape(label)}</td></tr>
+  {row_catalog}
+  {row_isbn}
+  {row_barcodes}
   <tr><td>ID</td><td>{rid} &nbsp;<a href="{SITE_URL}/release/{rid}/" target="_blank" style="font-size:0.8rem">↗ site</a></td></tr>
 </table>"""
 
@@ -356,55 +501,7 @@ def render_release(rid: int) -> str | None:
             for p in images
         ) + "</div>"
 
-    editions_html = ""
-    for ed in editions:
-        ed_name = escape(ed.get("name") or "Edition")
-        ed_price = escape(ed.get("price") or "")
-        ed_note = escape(ed.get("note") or "")
-        ed_img_path = ed.get("image")
-
-        discs_html = ""
-        for disc in ed.get("discs", []):
-            dtype = escape(disc.get("type") or "")
-            cat_no = escape(disc.get("catalogNo") or "")
-            label_parts = [x for x in [dtype, cat_no] if x]
-            discs_html += f'<div class="disc-label">{" · ".join(label_parts)}</div>'
-            discs_html += '<ul class="track-list">'
-            for tr in disc.get("tracks", []):
-                idx = tr.get("index", "")
-                tname = escape(tr.get("title") or "")
-                suffix = escape(tr.get("suffix") or "")
-                dur = escape(tr.get("duration") or "")
-                credits = tr.get("credits", {})
-                credits_str = " · ".join(f"{escape(k)}：{escape(v)}" for k, v in credits.items()) if credits else ""
-                discs_html += f"""
-<li>
-  <span class="track-idx">{idx}</span>
-  <span class="track-title">
-    {tname}
-    {f'<span class="track-suffix">{suffix}</span>' if suffix else ''}
-    {f'<span class="track-credits">{credits_str}</span>' if credits_str else ''}
-  </span>
-  <span class="track-dur">{dur}</span>
-</li>"""
-            discs_html += "</ul>"
-
-        ed_img_html = ""
-        if ed_img_path and ed_img_path != first_img:
-            ed_img_html = f'<div style="padding:10px">{img_tag(ed_img_path, alt=ed_name)}</div>'
-
-        editions_html += f"""
-<div class="edition-block">
-  <div class="edition-header">
-    <div>
-      <div>{ed_name}</div>
-      {f'<div class="edition-note">{ed_note}</div>' if ed_note else ''}
-    </div>
-    <div class="edition-price">{ed_price}</div>
-  </div>
-  {ed_img_html}
-  {discs_html}
-</div>"""
+    editions_html = render_editions_html(editions, first_img, SITE_URL)
 
     body = f"""
 <h1>{escape(title)}</h1>
@@ -413,20 +510,19 @@ def render_release(rid: int) -> str | None:
   <div class="info">
     {meta}
     <div class="editions">
-      {"<h2>Editions & Tracklists</h2>" + editions_html if editions else '<p style="color:#555">No edition data scraped.</p>'}
+      {"<h2>Editions &amp; Tracklists</h2>" + editions_html if editions else '<p style="color:#555">No edition data scraped.</p>'}
     </div>
   </div>
 </div>"""
-
     return page(title, body)
 
 
 def render_release_stub(rid: int, item: dict) -> str:
-    title = item.get("title", f"Release {rid}")
+    title  = item.get("title", f"Release {rid}")
     artist = escape(item.get("artist") or item.get("artistName", ""))
-    cat = escape(item.get("category", ""))
-    date = escape(item.get("releaseDate", ""))
-    img = release_cover_path(item)
+    cat    = escape(item.get("category", ""))
+    date   = escape(item.get("releaseDate", ""))
+    img    = release_cover_path(item)
 
     body = f"""
 <h1>{escape(title)}</h1>
@@ -445,22 +541,130 @@ def render_release_stub(rid: int, item: dict) -> str:
     return page(title, body)
 
 
+# ---------------------------------------------------------------------------
+# Page renderers — up-front-works
+# ---------------------------------------------------------------------------
+
+def render_ufw_releases(year: int | None) -> str:
+    if year is not None and year not in DB.ufw_by_year:
+        return page(f"Up-Front {year}", f'<h1>{year}</h1><p class="no-data">No data for this year.</p>')
+
+    if year is None:
+        title = "Up-Front Works — All Releases"
+        items = []
+        for y in DB.ufw_years:
+            items.extend(DB.ufw_by_year.get(y, []))
+    else:
+        title = f"Up-Front Works — {year}"
+        items = DB.ufw_by_year.get(year, [])
+
+    if not DB.ufw_releases:
+        body = '<h1>Up-Front Works</h1><p class="no-data">No releases — run <code>py archiver.py discover --source upfront</code> then <code>py archiver.py fetch --source upfront</code></p>'
+        return page("Up-Front Works", body)
+
+    body  = f"<h1>{title} <span style='color:#555;font-size:1rem'>({len(items)})</span></h1>"
+    body += ufw_year_nav(year)
+    body += '<div class="grid">'
+    for data in items:
+        code   = data.get("code", "")
+        t      = escape(data.get("title") or code)
+        artist = escape(data.get("artist", ""))
+        cat    = escape(data.get("category", ""))
+        date   = escape(data.get("releaseDate", ""))
+        images = data.get("images", [])
+        img    = images[0] if images else None
+        body += f"""
+<a href="/release/upfront/{escape(code)}" class="card">
+  {cover_img(img, alt=t)}
+  <div class="card-body">
+    <div class="title">{t}</div>
+    <div class="sub">{artist}</div>
+    <span class="badge">{cat}</span>
+    {f'<div class="sub">{date}</div>' if date else ''}
+  </div>
+</a>"""
+    body += "</div>"
+    return page(title, body)
+
+
+def render_ufw_release(code: str) -> str | None:
+    data = DB.ufw_releases.get(code)
+    if not data:
+        return None
+
+    title    = data.get("title", code)
+    artist   = data.get("artist", "")
+    category = data.get("category", "")
+    date     = data.get("releaseDate", "")
+    label    = data.get("label", "")
+    images   = data.get("images", [])
+    editions = data.get("editions", [])
+    first_img = images[0] if images else None
+
+    ufw_codes = [code]
+    for ed in editions:
+        for disc in ed.get("discs", []):
+            c = disc.get("catalogNo")
+            if c and c not in ufw_codes:
+                ufw_codes.append(c)
+    def _flat2(v: str | list) -> list[str]:
+        return v if isinstance(v, list) else [v]
+    ufw_barcodes = [b for c in ufw_codes if c in DB.barcodes for b in _flat2(DB.barcodes[c])]
+    seen2: set[str] = set()
+    ufw_barcodes = [b for b in ufw_barcodes if not (b in seen2 or seen2.add(b))]
+    row_ufw_barcodes = f"<tr><td>Barcode</td><td>{escape(' / '.join(ufw_barcodes))}</td></tr>" if ufw_barcodes else ""
+
+    meta = f"""
+<table class="meta-table">
+  <tr><td>Artist</td><td>{escape(artist)}</td></tr>
+  <tr><td>Category</td><td>{escape(category)}</td></tr>
+  <tr><td>Release date</td><td>{escape(date)}</td></tr>
+  <tr><td>Label</td><td>{escape(label)}</td></tr>
+  <tr><td>Catalog</td><td>{escape(code)} &nbsp;<a href="{UFW_SITE_URL}/release/detail/{escape(code)}/" target="_blank" style="font-size:0.8rem">↗ up-front-works.jp</a></td></tr>
+  {row_ufw_barcodes}
+</table>"""
+
+    gallery_html = ""
+    if len(images) > 1:
+        gallery_html = '<div class="gallery">' + "".join(
+            img_tag(p) for p in images
+        ) + "</div>"
+
+    editions_html = render_editions_html(editions, first_img, UFW_SITE_URL)
+
+    body = f"""
+<h1>{escape(title)} <span class="badge" style="background:#1a2a1a;color:#7ac;vertical-align:middle">Up-Front Works</span></h1>
+<div class="release-detail">
+  <div class="cover">{cover_img(first_img, alt=title)}{gallery_html}</div>
+  <div class="info">
+    {meta}
+    <div class="editions">
+      {"<h2>Editions &amp; Tracklists</h2>" + editions_html if editions else '<p style="color:#555">No edition data scraped.</p>'}
+    </div>
+  </div>
+</div>"""
+    return page(title, body)
+
+
+# ---------------------------------------------------------------------------
+# Page renderers — groups / artists / members
+# ---------------------------------------------------------------------------
+
 def profile_name(profile: dict, fallback: str = "") -> str:
     return profile.get("nameJa") or profile.get("nameEn") or profile.get("slug") or fallback
 
 
 def resolve_members(group_id: str, depth: int = 0) -> list[tuple[int, str, str | None]]:
-    """Return list of (member_id, name, thumbnail_url) for a group, resolving sub-units."""
     if depth > 2:
         return []
     entries = []
     for entry in DB.relations.get(group_id, []):
         kind = entry.get("kind")
-        eid = str(entry["id"])
+        eid  = str(entry["id"])
         if kind == "member":
-            profile = DB.profiles_by_id.get(eid, {})
-            mname = profile_name(profile, eid)
-            mthumb = profile.get("images", {}).get("thumbnail", {})
+            profile    = DB.profiles_by_id.get(eid, {})
+            mname      = profile_name(profile, eid)
+            mthumb     = profile.get("images", {}).get("thumbnail", {})
             mthumb_url = mthumb.get("url") if mthumb else None
             entries.append((int(eid), mname, mthumb_url))
         elif kind == "unit":
@@ -469,24 +673,21 @@ def resolve_members(group_id: str, depth: int = 0) -> list[tuple[int, str, str |
 
 
 def render_groups() -> str:
-    profiles_by_id = DB.profiles_by_id
-
-    # Only keep top-level groups (those present in artistsById as groups)
     group_ids = [gid for gid, a in DB.artists_by_id.items() if a.get("artistType") == "group"]
 
     groups = []
     for group_id in group_ids:
-        profile = profiles_by_id.get(group_id, {})
-        name = profile_name(profile, group_id)
-        slug = DB.artists_by_id[group_id].get("slug", "")
+        profile  = DB.profiles_by_id.get(group_id, {})
+        name     = profile_name(profile, group_id)
+        slug     = DB.artists_by_id[group_id].get("slug", "")
 
-        group_imgs = profile.get("images", {})
-        banner_url = None
+        group_imgs   = profile.get("images", {})
+        banner_url   = None
         profile_imgs = group_imgs.get("profile", [])
         if profile_imgs:
             banner_url = profile_imgs[0].get("url")
         if not banner_url:
-            thumb = group_imgs.get("thumbnail", {})
+            thumb      = group_imgs.get("thumbnail", {})
             banner_url = thumb.get("url") if thumb else None
 
         member_entries = resolve_members(group_id)
@@ -510,7 +711,7 @@ def render_groups() -> str:
         chips = ""
         for mid, mname, mthumb_url in members:
             if mthumb_url:
-                fn = Path(mthumb_url).name
+                fn   = Path(mthumb_url).name
                 msrc = f"/images/{fn}" if (IMAGES_DIR / fn).exists() else f"{SITE_URL}{mthumb_url}"
                 chip_img = f'<img src="{escape(msrc)}" alt="{escape(mname)}">'
             else:
@@ -529,7 +730,28 @@ def render_groups() -> str:
   </div>
 </div>"""
 
+    # UFW groups
+    ufw_groups = [m for m in DB.members.values()
+                  if m.get("source") == "upfront" and m.get("kind") == "group"]
+    ufw_cards = ""
+    for m in sorted(ufw_groups, key=lambda x: x.get("nameJa", "")):
+        name    = escape(m.get("nameJa", ""))
+        mid     = m["id"]
+        imgs    = m.get("images", [])
+        img_src = imgs[0] if imgs else None
+        banner_html = f'<img src="{escape(img_src)}" alt="{name}" loading="lazy">' if img_src else ""
+        ufw_cards += f"""
+<div class="group-card">
+  <a href="/member/{mid}" class="group-card-banner">
+    {banner_html}
+    <span class="group-card-name">{name}</span>
+  </a>
+  <div class="group-card-body"></div>
+</div>"""
+
     body = f'<h1>Groups</h1><div class="group-grid">{cards or "<p class=\'no-data\'>No group data found.</p>"}</div>'
+    if ufw_cards:
+        body += f'<h2 style="margin-top:32px">Up-Front Works</h2><div class="group-grid">{ufw_cards}</div>'
     return page("Groups", body)
 
 
@@ -539,9 +761,8 @@ def render_artist(slug: str) -> str | None:
         return None
 
     profile = DB.profiles_by_id.get(artist_id, {})
-    name = profile_name(profile, slug)
+    name    = profile_name(profile, slug)
 
-    # collect releases from catalogue
     releases_in_cat = []
     for year, items in DB.year_releases.items():
         for item in items:
@@ -550,18 +771,17 @@ def render_artist(slug: str) -> str | None:
                 releases_in_cat.append(item)
     releases_in_cat.sort(key=lambda x: x.get("releaseDate", ""), reverse=True)
 
-    # profile image
-    thumb = profile.get("images", {}).get("thumbnail", {}).get("url")
+    thumb    = profile.get("images", {}).get("thumbnail", {}).get("url")
     img_html = f'<div style="margin-bottom:16px">{img_tag(thumb, alt=name, placeholder="👤")}</div>' if thumb else ""
 
     cards = ""
     for item in releases_in_cat:
-        rid = item.get("id")
-        t = escape(item.get("title", "—"))
-        cat = escape(item.get("category", ""))
-        date = escape(item.get("releaseDate", ""))
-        img = release_cover_path(item)
-        link = f"/release/{rid}" if rid else "#"
+        rid     = item.get("id")
+        t       = escape(item.get("title", "—"))
+        cat     = escape(item.get("category", ""))
+        date    = escape(item.get("releaseDate", ""))
+        img     = release_cover_path(item)
+        link    = f"/release/{rid}" if rid else "#"
         scraped = "✓" if rid in DB.releases else ""
         cards += f"""
 <a href="{link}" class="card">
@@ -586,25 +806,27 @@ def render_members() -> str:
         return page("Members", '<p class="no-data">No member data — run <code>py scraper.py members</code></p>')
 
     def parse_birthday(m: dict):
-        raw = (m.get("details") or {}).get("生年月日", "")
+        raw   = (m.get("details") or {}).get("生年月日", "")
         match = re.search(r"(\d{4})年(\d{1,2})月(\d{1,2})日", raw)
-        if match:
-            return (int(match.group(1)), int(match.group(2)), int(match.group(3)))
-        return (9999, 99, 99)
+        return (int(match.group(1)), int(match.group(2)), int(match.group(3))) if match else (9999, 99, 99)
 
     all_members = sorted(DB.members.values(), key=parse_birthday)
+    active  = [m for m in all_members if not m.get("has_grad") and m.get("source") != "upfront"]
+    former  = [m for m in all_members if m.get("has_grad")]
+    upfront = [m for m in all_members if m.get("source") == "upfront" and m.get("kind") != "group"]
 
-    cards = ""
-    for m in all_members:
-        mid = m.get("id")
-        name = escape(profile_name(m, str(mid)))
-        name_en = escape(m.get("nameEn") or "")
-        group = escape(m.get("group") or "")
-        imgs = m.get("images", [])
-        img = imgs[0] if imgs else None
-        color = m.get("color", {})
-        swatch = f'<span class="color-swatch" style="background:{escape(color.get("hex","#444"))}"></span>' if color and color.get("hex") else ""
-        cards += f"""
+    def member_cards(members):
+        html = ""
+        for m in members:
+            mid    = m.get("id")
+            name   = escape(profile_name(m, str(mid)))
+            name_en = escape(m.get("nameEn") or "")
+            group  = escape(m.get("group") or "")
+            imgs   = m.get("images", [])
+            img    = imgs[0] if imgs else None
+            color  = m.get("color", {})
+            swatch = f'<span class="color-swatch" style="background:{escape(color.get("hex","#444"))}"></span>' if color and color.get("hex") else ""
+            html += f"""
 <a href="/member/{mid}" class="member-card">
   {img_tag(img, alt=name, placeholder="👤")}
   <div class="member-card-body">
@@ -613,8 +835,15 @@ def render_members() -> str:
     <div class="group">{group}</div>
   </div>
 </a>"""
+        return html
 
-    body = f'<h1>Members ({len(DB.members)})</h1><div class="member-grid">{cards}</div>'
+    body = f'<h1>Members ({len(DB.members)})</h1>'
+    if active:
+        body += f'<h2>Active ({len(active)})</h2><div class="member-grid">{member_cards(active)}</div>'
+    if former:
+        body += f'<h2>Graduated ({len(former)})</h2><div class="member-grid">{member_cards(former)}</div>'
+    if upfront:
+        body += f'<h2>Up-Front Works ({len(upfront)})</h2><div class="member-grid">{member_cards(upfront)}</div>'
     return page("Members", body)
 
 
@@ -623,20 +852,19 @@ def render_member(mid: int) -> str | None:
     if not m:
         return None
 
-    name_ja = m.get("nameJa", "")
-    name_en = m.get("nameEn", "")
+    name_ja   = m.get("nameJa", "")
+    name_en   = m.get("nameEn", "")
     name_kana = m.get("nameKana", "")
-    group = m.get("group", "")
-    role = m.get("role", "")
-    color = m.get("color", {})
-    details = m.get("details", {})
-    images = m.get("images", [])
-
-    title = name_ja or name_en or str(mid)
+    group     = m.get("group", "")
+    role      = m.get("role", "")
+    color     = m.get("color", {})
+    details   = m.get("details", {})
+    images    = m.get("images", [])
+    title     = name_ja or name_en or str(mid)
 
     color_html = ""
     if color:
-        swatch = f'<span class="color-swatch" style="background:{escape(color.get("hex","#444"))}"></span>'
+        swatch     = f'<span class="color-swatch" style="background:{escape(color.get("hex","#444"))}"></span>'
         color_html = f"<tr><td>Color</td><td>{swatch}{escape(color.get('name',''))}</td></tr>"
 
     details_rows = "".join(
@@ -650,11 +878,22 @@ def render_member(mid: int) -> str | None:
             img_tag(p, alt=name_ja, placeholder="👤") for p in images[1:]
         ) + "</div>"
 
-    slug_url = m.get("url", "")
-    site_link = f'<a href="{SITE_URL}{escape(slug_url)}" target="_blank">↗ site</a>' if slug_url else ""
+    has_grad     = m.get("has_grad", False)
+    archived_url = m.get("archivedUrl", "")
+    slug_url     = m.get("url", "")
+    source       = m.get("source", "helloproject")
+    if has_grad and archived_url:
+        site_link = f'<a href="{escape(archived_url)}" target="_blank">↗ web.archive.org</a>'
+    elif slug_url and source == "upfront":
+        site_link = f'<a href="{UFW_SITE_URL}{escape(slug_url)}" target="_blank">↗ up-front-works.jp</a>'
+    elif slug_url:
+        site_link = f'<a href="{SITE_URL}{escape(slug_url)}" target="_blank">↗ site</a>'
+    else:
+        site_link = ""
 
+    archived_badge = ' <span class="badge" style="background:#2a1a1a;color:#c87070">Graduated</span>' if has_grad else ""
     body = f"""
-<h1>{escape(title)}</h1>
+<h1>{escape(title)}{archived_badge}</h1>
 <div class="member-detail">
   <div class="photo">
     {img_tag(images[0] if images else None, alt=title, placeholder="👤")}
@@ -684,55 +923,92 @@ def render_search(q: str) -> str:
     ql = q.lower()
     results = []
 
-    # Search scraped releases
+    # HP scraped releases
     for rid, data in DB.releases.items():
-        title = data.get("title", "")
-        artist = data.get("artist", "")
-        if ql in title.lower() or ql in artist.lower():
-            results.append(("release", rid, data))
+        if ql in (data.get("title") or "").lower() or ql in (data.get("artist") or "").lower():
+            results.append(("release", str(rid), data))
 
-    # Search catalogue items not yet scraped
+    # HP catalogue (not yet scraped)
     scraped_ids = set(DB.releases.keys())
     for year, items in DB.year_releases.items():
         for item in items:
             rid = item.get("id")
             if rid in scraped_ids:
                 continue
-            title = item.get("title", "")
-            artist = item.get("artist") or item.get("artistName", "")
-            if ql in title.lower() or ql in artist.lower():
-                results.append(("catalogue", rid, item))
+            if ql in (item.get("title") or "").lower() or ql in (item.get("artist") or item.get("artistName") or "").lower():
+                results.append(("catalogue", str(rid), item))
 
-    # Search members
+    # UFW releases
+    for code, data in DB.ufw_releases.items():
+        if ql in (data.get("title") or "").lower() or ql in (data.get("artist") or "").lower():
+            results.append(("upfront", code, data))
+
+    # Members
     for mid, m in DB.members.items():
-        name_ja = m.get("nameJa", "")
-        name_en = m.get("nameEn", "")
-        kana = m.get("nameKana", "")
-        if any(ql in (s or "").lower() for s in [name_ja, name_en, kana]):
-            results.append(("member", mid, m))
+        if any(ql in (s or "").lower() for s in [m.get("nameJa"), m.get("nameEn"), m.get("nameKana")]):
+            results.append(("member", str(mid), m))
+
+    def sort_key(r):
+        kind, eid, data = r
+        if kind == "member":
+            return (data.get("nameEn") or data.get("nameJa") or "").lower()
+        return (data.get("title") or eid).lower()
+
+    results.sort(key=sort_key)
 
     items_html = ""
     for kind, eid, data in results[:100]:
-        if kind in ("release", "catalogue"):
-            title = escape(data.get("title", "—"))
-            artist = escape(data.get("artist") or data.get("artistName", ""))
-            cat = escape(data.get("category", ""))
-            img = (data.get("images", [None])[0] if kind == "release" else release_cover_path(data))
-            tag_html = f'<span class="tag">{"scraped" if kind == "release" else "catalogue only"}</span>'
+        if kind == "release":
+            title  = escape(data.get("title", "—"))
+            artist = escape(data.get("artist", ""))
+            cat    = escape(data.get("category", ""))
+            img    = data.get("images", [None])[0]
+            codes  = [d.get("catalogNo") for e in data.get("editions", []) for d in e.get("discs", []) if d.get("catalogNo")]
+            if not codes and data.get("catalogNo"):
+                codes = [data["catalogNo"]]
+            extra = f" · {escape(data['isbn'])}" if data.get("isbn") else ""
+            code_str = (escape(" · ".join(codes)) if codes else f"#{eid}") + extra
             items_html += f"""
 <div class="result-item">
   <a href="/release/{eid}">{img_tag(img, alt=title)}</a>
   <div>
-    <div><a href="/release/{eid}">{title}</a>{tag_html}</div>
+    <div><a href="/release/{eid}">{title}</a></div>
+    <div style="color:#888;font-size:0.82rem">{artist} · {cat} · {code_str}</div>
+  </div>
+</div>"""
+        elif kind == "catalogue":
+            title  = escape(data.get("title", "—"))
+            artist = escape(data.get("artist") or data.get("artistName", ""))
+            cat    = escape(data.get("category", ""))
+            img    = release_cover_path(data)
+            items_html += f"""
+<div class="result-item">
+  <a href="/release/{eid}">{img_tag(img, alt=title)}</a>
+  <div>
+    <div><a href="/release/{eid}">{title}</a><span class="tag">catalogue only</span></div>
     <div style="color:#888;font-size:0.82rem">{artist} · {cat}</div>
   </div>
 </div>"""
+        elif kind == "upfront":
+            title  = escape(data.get("title") or eid)
+            artist = escape(data.get("artist", ""))
+            cat    = escape(data.get("category", ""))
+            images = data.get("images", [])
+            img    = images[0] if images else None
+            items_html += f"""
+<div class="result-item">
+  <a href="/release/upfront/{escape(eid)}">{img_tag(img, alt=title)}</a>
+  <div>
+    <div><a href="/release/upfront/{escape(eid)}">{title}</a><span class="tag ufw">up-front</span></div>
+    <div style="color:#888;font-size:0.82rem">{artist} · {cat} · {escape(eid)}</div>
+  </div>
+</div>"""
         else:
-            name = escape(data.get("nameJa") or data.get("nameEn") or str(eid))
+            name    = escape(data.get("nameJa") or data.get("nameEn") or str(eid))
             name_en = escape(data.get("nameEn") or "")
-            group = escape(data.get("group") or "")
-            imgs = data.get("images", [])
-            img = imgs[0] if imgs else None
+            group   = escape(data.get("group") or "")
+            imgs    = data.get("images", [])
+            img     = imgs[0] if imgs else None
             items_html += f"""
 <div class="result-item">
   <a href="/member/{eid}">{img_tag(img, alt=name, placeholder="👤")}</a>
@@ -744,7 +1020,7 @@ def render_search(q: str) -> str:
 
     count = len(results)
     shown = min(count, 100)
-    body = f"""
+    body  = f"""
 <h1>Search: "{escape(q)}" <span style="color:#555;font-size:1rem">({shown}{'+' if count > 100 else ''} results)</span></h1>
 <div class="search-results">{items_html or '<p class="no-data">No results found.</p>'}</div>"""
     return page(f"Search: {q}", body, q=q)
@@ -771,8 +1047,8 @@ class Handler(BaseHTTPRequestHandler):
 
     def do_GET(self):
         parsed = urlparse(self.path)
-        path = unquote(parsed.path).rstrip("/") or "/"
-        qs = parse_qs(parsed.query)
+        path   = unquote(parsed.path).rstrip("/") or "/"
+        qs     = parse_qs(parsed.query)
 
         # Serve images
         if path.startswith("/images/"):
@@ -792,7 +1068,7 @@ class Handler(BaseHTTPRequestHandler):
             self.send_404()
             return
 
-        if path == "/" or path == "":
+        if path in ("/", ""):
             self.send_html(render_home())
         elif path == "/groups":
             self.send_html(render_groups())
@@ -803,36 +1079,48 @@ class Handler(BaseHTTPRequestHandler):
         elif path == "/releases":
             self.send_html(render_releases(None))
         elif path.startswith("/releases/"):
-            part = path[len("/releases/"):]
             try:
-                year = int(part)
+                self.send_html(render_releases(int(path[len("/releases/"):])))
             except ValueError:
                 self.send_404()
-                return
-            self.send_html(render_releases(year))
-        elif path.startswith("/release/"):
-            part = path[len("/release/"):]
-            try:
-                rid = int(part)
-            except ValueError:
-                self.send_404()
-                return
-            html = render_release(rid)
+        elif path.startswith("/release/upfront/"):
+            code = path[len("/release/upfront/"):]
+            html = render_ufw_release(code)
             self.send_html(html) if html else self.send_404()
+        elif path.startswith("/release/"):
+            try:
+                rid  = int(path[len("/release/"):])
+                html = render_release(rid)
+                self.send_html(html) if html else self.send_404()
+            except ValueError:
+                self.send_404()
+        elif path == "/upfront":
+            self.send_html(render_ufw_releases(None))
+        elif path.startswith("/upfront/"):
+            try:
+                self.send_html(render_ufw_releases(int(path[len("/upfront/"):])))
+            except ValueError:
+                self.send_404()
         elif path == "/members":
             self.send_html(render_members())
         elif path.startswith("/member/"):
-            part = path[len("/member/"):]
             try:
-                mid = int(part)
+                mid  = int(path[len("/member/"):])
+                html = render_member(mid)
+                self.send_html(html) if html else self.send_404()
             except ValueError:
                 self.send_404()
-                return
-            html = render_member(mid)
-            self.send_html(html) if html else self.send_404()
         elif path == "/search":
-            q = qs.get("q", [""])[0]
-            self.send_html(render_search(q))
+            self.send_html(render_search(qs.get("q", [""])[0]))
+        elif re.match(r'^/[A-Z0-9]{2,8}-\d+$', path):
+            catalog = path[1:]
+            target = DB.catalogno_index.get(catalog)
+            if target:
+                self.send_response(302)
+                self.send_header("Location", target)
+                self.end_headers()
+            else:
+                self.send_404()
         else:
             self.send_404()
 
@@ -850,16 +1138,15 @@ def main():
     server = HTTPServer((args.host, args.port), Handler)
     server.daemon_threads = True
 
-    def shutdown(sig, frame):
-        print("\nStopped.")
-        sys.exit(0)
-
-    signal.signal(signal.SIGINT, shutdown)
-    if hasattr(signal, "SIGBREAK"):
-        signal.signal(signal.SIGBREAK, shutdown)
-
     print(f"Serving at http://{args.host}:{args.port}  (Ctrl+C to stop)")
-    server.serve_forever()
+    t = threading.Thread(target=server.serve_forever, daemon=True)
+    t.start()
+    try:
+        while t.is_alive():
+            t.join(1)
+    except KeyboardInterrupt:
+        server.shutdown()
+        print("\nStopped.")
 
 
 if __name__ == "__main__":
