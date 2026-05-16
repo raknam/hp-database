@@ -31,6 +31,10 @@ scraper/cache/
 # Logs
 logs/
 
+# Archives
+*.7z
+*.tar.gz
+
 # Editor / OS
 .vscode/
 .idea/
