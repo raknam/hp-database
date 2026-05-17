@@ -257,7 +257,23 @@ def import_members(session: Session) -> None:
     files = list(members_dir.glob("*.json"))
     print(f"  Importing {len(files)} member files…")
 
-    for json_file in files:
+    # Cache group lookup by slug to avoid repeated queries
+    _group_cache: dict[str, Artist] = {}
+
+    def _get_or_create_group(slug: str) -> Artist | None:
+        if slug in _group_cache:
+            return _group_cache[slug]
+        group = session.execute(
+            select(Artist).where(Artist.slug == slug, Artist.kind == "group")
+        ).scalar_one_or_none()
+        if not group:
+            group = Artist(source="hp_official", slug=slug, kind="group")
+            session.add(group)
+            session.flush()
+        _group_cache[slug] = group
+        return group
+
+    for json_file in sorted(files):
         if not re.fullmatch(r"\d+", json_file.stem):
             continue
         data = load_json(json_file)
@@ -265,10 +281,17 @@ def import_members(session: Session) -> None:
             continue
 
         ext_id = str(json_file.stem)
+        is_synthetic = int(json_file.stem) >= 800000
 
         artist = session.execute(
             select(Artist).where(Artist.source == "hp_official", Artist.external_id == ext_id)
         ).scalar_one_or_none()
+
+        if not artist and is_synthetic and data.get("slug"):
+            # Avoid duplicating a member already imported via import_artists with official ID
+            artist = session.execute(
+                select(Artist).where(Artist.slug == data["slug"])
+            ).scalar_one_or_none()
 
         if not artist:
             artist = Artist(source="hp_official", external_id=ext_id, kind="member")
@@ -285,10 +308,30 @@ def import_members(session: Session) -> None:
         artist.updated_at = datetime.now(timezone.utc)
 
         extra: dict = {}
-        for key in ("color", "details", "images", "url", "group", "role"):
+        for key in ("color", "details", "images", "url", "group", "role",
+                    "has_grad", "sources", "archivedUrl"):
             if data.get(key):
                 extra[key] = data[key]
+        if extra.get("images"):
+            extra["images"] = list(reversed(extra["images"]))
         artist.extra = extra or None
+
+        session.flush()
+
+        # For former members, create group → member relation if not already present
+        if data.get("has_grad") and data.get("group"):
+            group = _get_or_create_group(data["group"])
+            if group:
+                rel = session.execute(
+                    select(ArtistRelation).where(
+                        ArtistRelation.parent_id == group.id,
+                        ArtistRelation.child_id == artist.id,
+                    )
+                ).scalar_one_or_none()
+                if not rel:
+                    session.add(ArtistRelation(
+                        parent_id=group.id, child_id=artist.id, kind="member"
+                    ))
 
     session.commit()
     print("  Members committed.")

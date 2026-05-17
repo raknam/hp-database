@@ -1,0 +1,775 @@
+{
+  "_comment": "Manual overrides applied by 'py archiver.py consolidate'. Keyed by slug. Fields defined here take priority over all scraped sources.",
+  "aika_higuchi": {
+    "_nameJa": "樋口愛海",
+    "nameEn": "Aika Higuchi"
+  },
+  "airi_ohno": {
+    "_nameJa": "大野愛莉",
+    "nameEn": "Airi Ohno"
+  },
+  "airi_suzuki": {
+    "_nameJa": "鈴木愛理",
+    "nameEn": "Airi Suzuki"
+  },
+  "akane_haga": {
+    "_nameJa": "羽賀朱音",
+    "nameEn": "Akane Haga"
+  },
+  "akari_endo": {
+    "_nameJa": "遠藤彩加里",
+    "nameEn": "Akari Endo"
+  },
+  "akari_takeuchi": {
+    "_nameJa": "竹内朱莉",
+    "nameEn": "Akari Takeuchi"
+  },
+  "akari_uemura": {
+    "_nameJa": "植村あかり",
+    "nameEn": "Akari Uemura"
+  },
+  "ako_yumigeta": {
+    "_nameJa": "弓桁朱琴",
+    "nameEn": "Ako Yumigeta"
+  },
+  "ami_tanimoto": {
+    "_nameJa": "谷本安美",
+    "nameEn": "Ami Tanimoto"
+  },
+  "anna_shuttou": {
+    "_nameJa": "出頭杏奈",
+    "nameEn": "Anna Shutto"
+  },
+  "aoi_sakamoto": {
+    "_nameJa": "坂本葵花",
+    "nameEn": "Aoi Sakamoto"
+  },
+  "ayaka_hirose": {
+    "_nameJa": "広瀬彩海",
+    "nameEn": "Ayaka Hirose"
+  },
+  "ayaka_wada": {
+    "_nameJa": "和田彩花",
+    "nameEn": "Ayaka Wada"
+  },
+  "ayana_murakoshi": {
+    "_nameJa": "村越彩菜",
+    "nameEn": "Ayana Murakoshi"
+  },
+  "ayane_sato": {
+    "_nameJa": "佐藤絢音",
+    "nameEn": "Ayane Sato"
+  },
+  "ayano_hamaura": {
+    "_nameJa": "浜浦彩乃",
+    "nameEn": "Ayano Hamaura"
+  },
+  "ayano_kawamura": {
+    "_nameJa": "川村文乃",
+    "nameEn": "Ayano Kawamura"
+  },
+  "ayumi_ishida": {
+    "_nameJa": "石田亜佑美",
+    "nameEn": "Ayumi Ishida"
+  },
+  "chihiro_miyakoshi": {
+    "_nameJa": "宮越千尋",
+    "nameEn": "Chihiro Miyakoshi"
+  },
+  "chinami_tokunaga": {
+    "_nameJa": "徳永千奈美",
+    "nameEn": "Chinami Tokunaga"
+  },
+  "chisaki_morito_m": {
+    "_nameJa": "森戸知沙希",
+    "nameEn": "Chisaki Morito"
+  },
+  "chisato_okai": {
+    "_nameJa": "岡井千聖",
+    "nameEn": "Chisato Okai"
+  },
+  "erina_ikuta": {
+    "_nameJa": "生田衣梨奈",
+    "nameEn": "Erina Ikuta"
+  },
+  "fuka_doi": {
+    "_nameJa": "土居楓奏",
+    "nameEn": "Fuka Doi"
+  },
+  "fuyuka_kosuga": {
+    "_nameJa": "小数賀芙由香",
+    "nameEn": "Fuyuka Kosuga"
+  },
+  "hana_goto": {
+    "_nameJa": "後藤花",
+    "nameEn": "Hana Goto"
+  },
+  "hana_shimakawa": {
+    "_nameJa": "島川波菜",
+    "nameEn": "Hana Shimakawa"
+  },
+  "hanano_ishikawa": {
+    "_nameJa": "石川華望",
+    "nameEn": "Hanano Ishikawa"
+  },
+  "haruka_inoue": {
+    "_nameJa": "井上春華",
+    "nameEn": "Haruka Inoue"
+  },
+  "haruka_kudou": {
+    "_nameJa": "工藤遥",
+    "nameEn": "Haruka Kudo"
+  },
+  "haruka_oota": {
+    "_nameJa": "太田遥香",
+    "nameEn": "Haruka Ota"
+  },
+  "haruna_iikubo": {
+    "_nameJa": "飯窪春菜",
+    "nameEn": "Haruna Iikubo"
+  },
+  "haruna_ogata": {
+    "_nameJa": "尾形春水",
+    "nameEn": "Haruna Ogata"
+  },
+  "hasumi_uemura": {
+    "_nameJa": "植村葉純",
+    "nameEn": "Hasumi Uemura"
+  },
+  "hikari_yoshida": {
+    "_nameJa": "吉田光里",
+    "nameEn": "Hikari Yoshida"
+  },
+  "hikaru_inoue": {
+    "_nameJa": "井上ひかる",
+    "nameEn": "Hikaru Inoue"
+  },
+  "hinoha_yoshida": {
+    "_nameJa": "吉田姫杷",
+    "nameEn": "Hinoha Yoshida"
+  },
+  "hirona_oura": {
+    "_nameJa": "大浦央菜",
+    "nameEn": "Hirona Oura"
+  },
+  "homare_okamura": {
+    "_nameJa": "岡村ほまれ",
+    "nameEn": "Homare Okamura"
+  },
+  "honoka_hashida": {
+    "_nameJa": "橋田歩果",
+    "nameEn": "Honoka Hashida"
+  },
+  "honoka_kobayashi": {
+    "_nameJa": "小林萌花",
+    "nameEn": "Honoka Kobayashi"
+  },
+  "honoka_okamoto": {
+    "_nameJa": "岡本帆乃花",
+    "nameEn": "Honoka Okamoto"
+  },
+  "ichigo_yamada": {
+    "_nameJa": "山田苺",
+    "nameEn": "Ichigo Yamada"
+  },
+  "ichika_arisawa": {
+    "_nameJa": "有澤一華",
+    "nameEn": "Ichika Arisawa"
+  },
+  "itsuki_nishimura": {
+    "_nameJa": "西村乙輝",
+    "nameEn": "Itsuki Nishimura"
+  },
+  "kaede_kaga": {
+    "_nameJa": "加賀楓",
+    "nameEn": "Kaede Kaga"
+  },
+  "kana_mikame": {
+    "_nameJa": "三瓶海南",
+    "nameEn": "Kana Mikame"
+  },
+  "kana_nakanishi": {
+    "_nameJa": "中西香菜",
+    "nameEn": "Kana Nakanishi"
+  },
+  "kana_saitou": {
+    "_nameJa": "斎藤夏奈",
+    "nameEn": "Kana Saito"
+  },
+  "kanami_ishiguri": {
+    "_nameJa": "石栗奏美",
+    "nameEn": "Kanami Ishiguri"
+  },
+  "kanonn_fukuda": {
+    "_nameJa": "福田花音",
+    "nameEn": "Kanon Fukuda"
+  },
+  "kanonn_suzuki": {
+    "_nameJa": "鈴木香音",
+    "nameEn": "Kanon Suzuki"
+  },
+  "karen_tanaka": {
+    "_nameJa": "田中可恋",
+    "nameEn": "Karen Tanaka"
+  },
+  "karin_maeshima": {
+    "_nameJa": "前島花凛",
+    "nameEn": "Karin Maeshima"
+  },
+  "karin_nemoto": {
+    "_nameJa": "根本花凛",
+    "nameEn": "Karin Nemoto"
+  },
+  "karin_onoda": {
+    "_nameJa": "小野田華凛",
+    "nameEn": "Karin Onoda"
+  },
+  "karinn_miyamoto": {
+    "_nameJa": "宮本佳林",
+    "nameEn": "Karin Miyamoto"
+  },
+  "kiki_asakura": {
+    "_nameJa": "浅倉樹々",
+    "nameEn": "Kiki Asakura"
+  },
+  "kirara_yonemura": {
+    "_nameJa": "米村姫良々",
+    "nameEn": "Kirara Yonemura"
+  },
+  "kisaki_ebata": {
+    "_nameJa": "江端妃咲",
+    "nameEn": "Kisaki Ebata"
+  },
+  "kisora_niinuma": {
+    "_nameJa": "新沼希空",
+    "nameEn": "Kisora Niinuma"
+  },
+  "kizuki_horie": {
+    "_nameJa": "堀江葵月",
+    "nameEn": "Kizuki Horie"
+  },
+  "kokoro_maeda": {
+    "_nameJa": "前田こころ",
+    "nameEn": "Kokoro Maeda"
+  },
+  "kotomi_ono": {
+    "_nameJa": "小野琴己",
+    "nameEn": "Kotomi Ono"
+  },
+  "kotomi_suzuki": {
+    "_nameJa": "鈴木琴美",
+    "nameEn": "Kotomi Suzuki"
+  },
+  "kurumi_noguchi": {
+    "_nameJa": "野口胡桃",
+    "nameEn": "Kurumi Noguchi"
+  },
+  "kurumi_takase": {
+    "_nameJa": "高瀬くるみ",
+    "nameEn": "Kurumi Takase"
+  },
+  "kurumi_yoshihashi": {
+    "_nameJa": "吉橋くるみ",
+    "nameEn": "Kurumi Yoshihashi"
+  },
+  "layla_ise": {
+    "_nameJa": "伊勢鈴蘭",
+    "nameEn": "Layla Ise"
+  },
+  "rayla_ise": {
+    "_merge_into": "layla_ise"
+  },
+  "maasa_sudou": {
+    "_nameJa": "須藤茉麻",
+    "nameEn": "Maasa Sudo"
+  },
+  "madoka_saito": {
+    "_nameJa": "斉藤円香",
+    "nameEn": "Madoka Saito"
+  },
+  "madoka_saitou": {
+    "_merge_into": "madoka_saito"
+  },
+  "maho_aikawa": {
+    "_nameJa": "相川茉穂",
+    "nameEn": "Maho Aikawa"
+  },
+  "mai_hagiwara": {
+    "_nameJa": "萩原舞",
+    "nameEn": "Mai Hagiwara"
+  },
+  "mai_ozeki": {
+    "_nameJa": "小関舞",
+    "nameEn": "Mai Ozeki"
+  },
+  "maimi_yajima": {
+    "_nameJa": "矢島舞美",
+    "nameEn": "Maimi Yajima"
+  },
+  "manaka_inaba": {
+    "_nameJa": "稲場愛香",
+    "nameEn": "Manaka Inaba"
+  },
+  "mano_otsubo": {
+    "_nameJa": "大坪茉乃",
+    "nameEn": "Mano Otsubo"
+  },
+  "mao_akiyama": {
+    "_nameJa": "秋山眞緒",
+    "nameEn": "Mao Akiyama"
+  },
+  "maria_makino": {
+    "_nameJa": "牧野真莉愛",
+    "nameEn": "Maria Makino"
+  },
+  "marie_yoshida": {
+    "_nameJa": "吉田真理恵",
+    "nameEn": "Marie Yoshida"
+  },
+  "marina_hibi": {
+    "_nameJa": "日比麻里那",
+    "nameEn": "Marina Hibi"
+  },
+  "marine_fukuda": {
+    "_nameJa": "福田真琳",
+    "nameEn": "Marine Fukuda"
+  },
+  "masaki_satou": {
+    "_nameJa": "佐藤優樹",
+    "nameEn": "Masaki Sato"
+  },
+  "mei_kusunoki": {
+    "_nameJa": "楠萌生",
+    "nameEn": "Mei Kusunoki"
+  },
+  "mei_yamazaki": {
+    "_nameJa": "山﨑愛生",
+    "nameEn": "Mei Yamazaki"
+  },
+  "meimi_tamura": {
+    "_nameJa": "田村芽実",
+    "nameEn": "Meimi Tamura"
+  },
+  "meisa_sugihara": {
+    "_nameJa": "杉原明紗",
+    "nameEn": "Meisa Sugihara"
+  },
+  "mifu_kawashima": {
+    "_nameJa": "川嶋美楓",
+    "nameEn": "Mifu Kawashima"
+  },
+  "mihane_ishii": {
+    "_nameJa": "石井泉羽",
+    "nameEn": "Mihane Ishii"
+  },
+  "miki_nonaka": {
+    "_nameJa": "野中美希",
+    "nameEn": "Miki Nonaka"
+  },
+  "miku_nishizaki": {
+    "_nameJa": "西﨑美空",
+    "nameEn": "Miku Nishizaki"
+  },
+  "minami_nomura": {
+    "_nameJa": "野村みな美",
+    "nameEn": "Minami Nomura"
+  },
+  "minami_okamura": {
+    "_nameJa": "岡村美波",
+    "nameEn": "Minami Okamura"
+  },
+  "miu_takemura": {
+    "_nameJa": "竹村未羽",
+    "nameEn": "Miu Takemura"
+  },
+  "miyabi_natsuyaki": {
+    "_nameJa": "夏焼雅",
+    "nameEn": "Miyabi Natsuyaki"
+  },
+  "miyo_hirai": {
+    "_nameJa": "平井美葉",
+    "nameEn": "Miyo Hirai"
+  },
+  "mizuho_ono": {
+    "_nameJa": "小野瑞歩",
+    "nameEn": "Mizuho Ono"
+  },
+  "mizuki_fukumura": {
+    "_nameJa": "譜久村聖",
+    "nameEn": "Mizuki Fukumura"
+  },
+  "mizuki_kanatu": {
+    "_nameJa": "金津美月",
+    "nameEn": "Mizuki Kanatsu"
+  },
+  "mizuki_murota": {
+    "_nameJa": "室田瑞希",
+    "nameEn": "Mizuki Murota"
+  },
+  "moa_suzuki": {
+    "_nameJa": "鈴木もあ",
+    "nameEn": "Moa Suzuki"
+  },
+  "moe_kamikokuryo": {
+    "_nameJa": "上國料萌衣",
+    "nameEn": "Moe Kamikokuryo"
+  },
+  "momo_kitahara": {
+    "_nameJa": "北原もも",
+    "nameEn": "Momo Kitahara"
+  },
+  "momoha_nagano": {
+    "_nameJa": "長野桃羽",
+    "nameEn": "Momoha Nagano"
+  },
+  "momohime_kiyono": {
+    "_nameJa": "清野桃々姫",
+    "nameEn": "Momohime Kiyono"
+  },
+  "momoka_kishida": {
+    "_nameJa": "岸田桃果",
+    "nameEn": "Momoka Kishida"
+  },
+  "momoko_tsugunaga": {
+    "_nameJa": "嗣永桃子",
+    "nameEn": "Momoko Tsugunaga"
+  },
+  "momona_kasahara": {
+    "_nameJa": "笠原桃奈",
+    "nameEn": "Momona Kasahara"
+  },
+  "musubu_funaki_a": {
+    "_nameJa": "船木結",
+    "nameEn": "Musubu Funaki"
+  },
+  "nagisa_hashimoto": {
+    "_nameJa": "橋本渚",
+    "nameEn": "Nagisa Hashimoto"
+  },
+  "nana_tamura": {
+    "_nameJa": "田村梛々",
+    "nameEn": "Nana Tamura"
+  },
+  "nanami_kubota": {
+    "_nameJa": "窪田七海",
+    "nameEn": "Nanami Kubota"
+  },
+  "nanami_tanabe": {
+    "_nameJa": "田辺奈菜美",
+    "nameEn": "Nanami Tanabe"
+  },
+  "nanami_yanagawa": {
+    "_nameJa": "梁川奈々美",
+    "nameEn": "Nanami Yanagawa"
+  },
+  "natsume_nakayama": {
+    "_nameJa": "中山夏月姫",
+    "nameEn": "Natsume Nakayama"
+  },
+  "natsumi_taguchi": {
+    "_nameJa": "田口夏実",
+    "nameEn": "Natsumi Taguchi"
+  },
+  "niina_hayashi": {
+    "_nameJa": "林仁愛",
+    "nameEn": "Niina Hayashi"
+  },
+  "onoda_saori": {
+    "_merge_into": "saori_onoda"
+  },
+  "rei_inoue": {
+    "_nameJa": "井上玲音",
+    "nameEn": "Rei Inoue"
+  },
+  "reina_ichioka": {
+    "_nameJa": "一岡伶奈",
+    "nameEn": "Reina Ichioka"
+  },
+  "reina_yokoyama": {
+    "_nameJa": "横山玲奈",
+    "nameEn": "Reina Yokoyama"
+  },
+  "rena_doi": {
+    "_nameJa": "土居麗菜",
+    "nameEn": "Rena Doi"
+  },
+  "rena_kamimura": {
+    "_nameJa": "上村麗菜",
+    "nameEn": "Rena Kamimura"
+  },
+  "rena_ogawa": {
+    "_nameJa": "小川麗奈",
+    "nameEn": "Rena Ogawa"
+  },
+  "riai_matsunaga": {
+    "_nameJa": "松永里愛",
+    "nameEn": "Riai Matsunaga"
+  },
+  "riho_miyazaki": {
+    "_nameJa": "宮﨑理帆",
+    "nameEn": "Riho Miyazaki"
+  },
+  "riho_sayashi": {
+    "_nameJa": "鞘師里保",
+    "nameEn": "Riho Sayashi"
+  },
+  "riina_nagai": {
+    "_nameJa": "長井莉依那",
+    "nameEn": "Riina Nagai"
+  },
+  "rika_shimakura": {
+    "_nameJa": "島倉りか",
+    "nameEn": "Rika Shimakura"
+  },
+  "rikako_sasaki": {
+    "_nameJa": "佐々木莉佳子",
+    "nameEn": "Rikako Sasaki"
+  },
+  "riko_yamagishi": {
+    "_nameJa": "山岸理子",
+    "nameEn": "Riko Yamagishi"
+  },
+  "rin_hashisako": {
+    "_nameJa": "橋迫鈴",
+    "nameEn": "Rin Hashisako"
+  },
+  "rin_kawana": {
+    "_nameJa": "川名凜",
+    "nameEn": "Rin Kawana"
+  },
+  "rina_katsuta": {
+    "_nameJa": "勝田里奈",
+    "nameEn": "Rina Katsuta"
+  },
+  "rio_fujii": {
+    "_nameJa": "藤井梨央",
+    "nameEn": "Rio Fujii"
+  },
+  "rio_kitagawa": {
+    "_nameJa": "北川莉央",
+    "nameEn": "Rio Kitagawa"
+  },
+  "rio_sakurai": {
+    "_nameJa": "櫻井梨央",
+    "nameEn": "Rio Sakurai"
+  },
+  "rion_nakano": {
+    "_nameJa": "仲野りおん",
+    "nameEn": "Rion Nakano"
+  },
+  "risa_irie": {
+    "_nameJa": "入江里咲",
+    "nameEn": "Risa Irie"
+  },
+  "risa_ogata": {
+    "_nameJa": "小片リサ",
+    "nameEn": "Risa Ogata"
+  },
+  "risa_yamaki": {
+    "_nameJa": "山木梨沙",
+    "nameEn": "Risa Yamaki"
+  },
+  "risako_sugaya": {
+    "_nameJa": "菅谷梨沙子",
+    "nameEn": "Risako Sugaya"
+  },
+  "roko_tsutsui": {
+    "_nameJa": "筒井澪心",
+    "nameEn": "Roko Tsutsui"
+  },
+  "rua_hattori": {
+    "_nameJa": "服部琉愛",
+    "nameEn": "Rua Hattori"
+  },
+  "ruli_hiromoto": {
+    "_merge_into": "ruri_hiromoto"
+  },
+  "runo_yofu": {
+    "_nameJa": "豫風瑠乃",
+    "nameEn": "Runo Yofu"
+  },
+  "runo_yofuu": {
+    "_merge_into": "runo_yofu"
+  },
+  "ruri_hiromoto": {
+    "_nameJa": "広本瑠璃",
+    "nameEn": "Ruri Hiromoto"
+  },
+  "ruru_dambara": {
+    "_nameJa": "段原瑠々",
+    "nameEn": "Ruru Danbara"
+  },
+  "ruru_danbara": {
+    "_merge_into": "ruru_dambara"
+  },
+  "ruru_kanemitsu": {
+    "_nameJa": "金光留々",
+    "nameEn": "Ruru Kanemitsu"
+  },
+  "saki_nakajima": {
+    "_nameJa": "中島早貴",
+    "nameEn": "Saki Nakajima"
+  },
+  "saki_shimizu": {
+    "_nameJa": "清水佐紀",
+    "nameEn": "Saki Shimizu"
+  },
+  "sakiko_kodama": {
+    "_nameJa": "児玉咲子",
+    "nameEn": "Sakiko Kodama"
+  },
+  "sakura_ishiyama": {
+    "_nameJa": "石山咲良",
+    "nameEn": "Sakura Ishiyama"
+  },
+  "sakura_oda": {
+    "_nameJa": "小田さくら",
+    "nameEn": "Sakura Oda"
+  },
+  "sakurako_wada": {
+    "_nameJa": "和田桜子",
+    "nameEn": "Sakurako Wada"
+  },
+  "saori_onoda": {
+    "_nameJa": "小野田紗栞",
+    "nameEn": "Saori Onoda"
+  },
+  "sara_karibe": {
+    "_nameJa": "苅部咲良",
+    "nameEn": "Sara Karibe"
+  },
+  "sara_someya": {
+    "_nameJa": "染谷彩良",
+    "nameEn": "Sara Someya"
+  },
+  "saya_eguchi": {
+    "_nameJa": "江口紗耶",
+    "nameEn": "Saya Eguchi"
+  },
+  "sayuki_takagi": {
+    "_nameJa": "高木紗友希",
+    "nameEn": "Sayuki Takagi"
+  },
+  "sayumi_michishige": {
+    "_nameJa": "道重さゆみ",
+    "nameEn": "Sayumi Michishige"
+  },
+  "shiharu_saeki": {
+    "_nameJa": "佐伯詩春",
+    "nameEn": "Shiharu Saeki"
+  },
+  "momoko_shimano": {
+    "_nameJa": "島野萌々子",
+    "nameEn": "Momoko Shimano"
+  },
+  "shimano_momoko": {
+    "_merge_into": "momoko_shimano"
+  },
+  "shion_tamenaga": {
+    "_nameJa": "為永幸音",
+    "nameEn": "Shion Tamenaga"
+  },
+  "shiori_nishida": {
+    "_nameJa": "西田汐里",
+    "nameEn": "Shiori Nishida"
+  },
+  "shiori_sakata": {
+    "_nameJa": "坂田しおり",
+    "nameEn": "Shiori Sakata"
+  },
+  "shiori_yagi": {
+    "_nameJa": "八木栞",
+    "nameEn": "Shiori Yagi"
+  },
+  "soara_kawano": {
+    "_nameJa": "河野空愛",
+    "nameEn": "Soara Kawano"
+  },
+  "sumire_tashiro": {
+    "_nameJa": "田代すみれ",
+    "nameEn": "Sumire Tashiro"
+  },
+  "toa_makino": {
+    "_nameJa": "牧野永愛",
+    "nameEn": "Toa Makino"
+  },
+  "tomoko_kanazawa": {
+    "_nameJa": "金澤朋子",
+    "nameEn": "Tomoko Kanazawa"
+  },
+  "uta_shimamura": {
+    "_nameJa": "島村嬉唄",
+    "nameEn": "Uta Shimamura"
+  },
+  "utano_satoyoshi": {
+    "_nameJa": "里吉うたの",
+    "nameEn": "Utano Satoyoshi"
+  },
+  "wakana_matsumoto": {
+    "_nameJa": "松本わかな",
+    "nameEn": "Wakana Matsumoto"
+  },
+  "yuhane_yamazaki": {
+    "_nameJa": "山﨑夢羽",
+    "nameEn": "Yuhane Yamazaki"
+  },
+  "yuka_miyazaki": {
+    "_nameJa": "宮崎由加",
+    "nameEn": "Yuka Miyazaki"
+  },
+  "yuki_hirayama": {
+    "_nameJa": "平山遊季",
+    "nameEn": "Yuki Hirayama"
+  },
+  "yukiho_shimoitani": {
+    "_nameJa": "下井谷幸穂",
+    "nameEn": "Yukiho Shimoitani"
+  },
+  "yulia_matsubara": {
+    "_merge_into": "yuriya_matsubara"
+  },
+  "yume_kudou": {
+    "_nameJa": "工藤由愛",
+    "nameEn": "Yume Kudo"
+  },
+  "yume_soma": {
+    "_nameJa": "相馬優芽",
+    "nameEn": "Yume Soma"
+  },
+  "yumei_yokogawa": {
+    "_nameJa": "横川夢衣",
+    "nameEn": "Yumei Yokogawa"
+  },
+  "yumeno_kishimoto": {
+    "_nameJa": "岸本ゆめの",
+    "nameEn": "Yumeno Kishimoto"
+  },
+  "yuna_aoki": {
+    "_nameJa": "青木優奈",
+    "nameEn": "Yuna Aoki"
+  },
+  "yurika_asano": {
+    "_nameJa": "浅野優莉花",
+    "nameEn": "Yurika Asano"
+  },
+  "yurika_saito": {
+    "_nameJa": "斎藤ゆり夏",
+    "nameEn": "Yurika Saito"
+  },
+  "yurina_kumai": {
+    "_nameJa": "熊井友理奈",
+    "nameEn": "Yurina Kumai"
+  },
+  "yuriya_matsubara": {
+    "_nameJa": "松原ユリヤ",
+    "nameEn": "Yuriya Matsubara"
+  },
+  "yuu_murata": {
+    "_nameJa": "村田結生",
+    "nameEn": "Yuu Murata"
+  },
+  "yuumi_kasai": {
+    "_nameJa": "河西結心",
+    "nameEn": "Yuumi Kasai"
+  }
+}

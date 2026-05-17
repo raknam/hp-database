@@ -22,6 +22,7 @@ env/
 # Scraper generated data (source of truth, but large — not committed)
 scraper/releases/
 scraper/members/
+!scraper/members/manual.json
 scraper/images/
 scraper/cache/
 

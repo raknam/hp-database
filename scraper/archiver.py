@@ -32,6 +32,7 @@ from bs4 import BeautifulSoup, NavigableString
 WAYBACK    = "https://web.archive.org"
 CDX_API    = f"{WAYBACK}/cdx/search/cdx"
 HP_URL     = "http://helloproject.com"
+HP_WWW_URL = "http://www.helloproject.com"
 UFW_URL    = "https://www.up-front-works.jp"
 
 CACHE_DIR           = Path("cache") / "members" / "html"
@@ -462,14 +463,53 @@ def cmd_enrich_images(args):
         known = set(existing_imgs)
         new_imgs = [i for i in all_images if Path(i).name not in {Path(k).name for k in known}]
         if new_imgs:
-            data["images"] = existing_imgs + new_imgs
+            data["images"] = new_imgs + existing_imgs
             p.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
             print(f"→ +{len(new_imgs)} images")
         else:
             print("→ no new images")
 
 
+def cmd_download_missing(args):
+    """Download Wayback images referenced in member JSONs but missing locally."""
+    slug_filter: str | None = getattr(args, "slug", None)
+    missing = 0
+    ok = 0
+    failed = 0
+    for p in sorted(MEMBERS_DIR.glob("*.json")):
+        if not re.fullmatch(r"\d+", p.stem):
+            continue
+        d = json.loads(p.read_text(encoding="utf-8"))
+        if not isinstance(d, dict):
+            continue
+        slug = d.get("slug", p.stem)
+        if slug_filter and slug != slug_filter:
+            continue
+        for wb_url in d.get("images", []):
+            if not wb_url.startswith(WAYBACK):
+                continue
+            filename = Path(wb_url).name.split("?")[0]
+            if not filename or "." not in filename:
+                continue
+            if (IMAGES_DIR / filename).exists():
+                ok += 1
+                continue
+            missing += 1
+            result = download_image(wb_url)
+            if result:
+                if DEBUG:
+                    print(f"  OK  {filename}")
+            else:
+                failed += 1
+                if DEBUG:
+                    print(f"  FAIL {wb_url}")
+    print(f"Already present: {ok}  Downloaded: {missing - failed}  Failed: {failed}")
+
+
 def cmd_enrich(args):
+    if getattr(args, "missing", False):
+        cmd_download_missing(args)
+        return
     if args.images:
         cmd_enrich_images(args)
         return
@@ -1121,11 +1161,11 @@ def _era_key(era_arg: str) -> str:
 
 
 def discover_group_pre(group: str, force: bool) -> list[str]:
-    """CDX on /{group}/profile.html, extract ?id=<slug> from snapshot URLs."""
-    url = f"{HP_URL}/{group}/profile.html"
+    """Fetch pre-html group list pages from Wayback and extract ?id=<slug> from links."""
+    url = f"{HP_WWW_URL}/{group}/profile.html"
     print(f"  CDX pre-html {group}…", end=" ", flush=True)
     try:
-        captures = cdx_search(url, matchType="prefix",
+        captures = cdx_search(url, collapse="digest",
                               **{"from": ERA_PRE_FROM, "to": ERA_PRE_TO})
     except RuntimeError as e:
         print(f"CDX unavailable: {e}")
@@ -1134,15 +1174,24 @@ def discover_group_pre(group: str, force: bool) -> list[str]:
         print("no captures")
         return []
 
-    slugs: list[str] = []
+    print(f"{len(captures)} snapshot(s)… ", end="", flush=True)
+
     seen: set[str] = set()
-    for cap in captures:
-        m = re.search(r'[?&]id=([^&\s]+)', cap.get("original", ""))
-        if m:
-            slug = m.group(1)
+    slugs: list[str] = []
+    for cap in sorted(captures, key=lambda c: c["timestamp"]):
+        ts = cap["timestamp"]
+        try:
+            html = get_cached(f"{group}_pre_list_{ts}", url, ts,
+                              encoding="shift_jis", force=force,
+                              cache_dir=PRE_CACHE_DIR)
+        except Exception as e:
+            print(f"\n    Warning: {ts} — {short_err(e)}")
+            continue
+        for slug in parse_group_list_pre(html):
             if slug not in seen:
                 seen.add(slug)
                 slugs.append(slug)
+
     print(f"{len(slugs)} slug(s)")
     return slugs
 
@@ -1275,7 +1324,7 @@ def fetch_member(member: dict, force: bool):
             print("skip")
             return
 
-        url = f"{HP_URL}/{group}/profile.html?id={slug}"
+        url = f"{HP_WWW_URL}/{group}/profile.html?id={slug}"
         try:
             captures = cdx_search(url, collapse="digest",
                                   **{"from": ERA_PRE_FROM, "to": ERA_PRE_TO})
@@ -1667,6 +1716,9 @@ def cmd_fetch(args):
 # consolidate command
 # ---------------------------------------------------------------------------
 
+MANUAL_FILE = MEMBERS_DIR / "manual.json"
+
+
 def cmd_consolidate(args):
     """Merge staging/html + staging/pre-html + staging/upfront into members/<id>.json."""
     if not ARTIST_REGISTRY_FILE.exists():
@@ -1675,6 +1727,22 @@ def cmd_consolidate(args):
 
     registry: dict[str, dict] = json.loads(ARTIST_REGISTRY_FILE.read_text(encoding="utf-8"))
     slug_filter: str | None = args.slug if hasattr(args, "slug") else None
+
+    manual: dict[str, dict] = {}
+    if MANUAL_FILE.exists():
+        raw = json.loads(MANUAL_FILE.read_text(encoding="utf-8"))
+        manual = {k: v for k, v in raw.items() if not k.startswith("_")}
+
+    # Build merge map: alias_slug → canonical_slug
+    merge_into: dict[str, str] = {
+        slug: v["_merge_into"]
+        for slug, v in manual.items()
+        if v.get("_merge_into")
+    }
+    # Build reverse map: canonical_slug → [alias_slugs]
+    aliases_for: dict[str, list[str]] = {}
+    for alias, canonical in merge_into.items():
+        aliases_for.setdefault(canonical, []).append(alias)
 
     # Build slug → nameJa lookup from registry (skip placeholder keys)
     slug_to_name: dict[str, str] = {
@@ -1690,6 +1758,12 @@ def cmd_consolidate(args):
     for html_path in html_files:
         slug = html_path.stem
         if slug_filter and slug != slug_filter:
+            continue
+
+        # Skip alias slugs — their data is absorbed into the canonical slug
+        if slug in merge_into:
+            if DEBUG:
+                print(f"  {slug}: alias of {merge_into[slug]}, skipping")
             continue
 
         html_data = json.loads(html_path.read_text(encoding="utf-8"))
@@ -1763,6 +1837,26 @@ def cmd_consolidate(args):
         if details:
             result["details"] = details
 
+        # Absorb images from alias slugs
+        for alias in aliases_for.get(slug, []):
+            alias_path = STAGING_HTML_DIR / f"{alias}.json"
+            if alias_path.exists():
+                alias_data = json.loads(alias_path.read_text(encoding="utf-8"))
+                for img in alias_data.get("images", []):
+                    name = Path(img).name
+                    if name not in seen_imgs:
+                        seen_imgs.add(name)
+                        result["images"].append(img)
+                if DEBUG:
+                    print(f"  {slug}: absorbed images from alias '{alias}'")
+
+        # Apply manual overrides (highest priority)
+        if slug in manual:
+            for k, v in manual[slug].items():
+                result[k] = v
+            if DEBUG:
+                print(f"  {slug}: manual overrides applied ({list(manual[slug].keys())})")
+
         # Update artist_registry with confirmed nameJa
         name_ja = result["nameJa"]
         if name_ja and normalize_name(name_ja) not in registry:
@@ -1820,6 +1914,7 @@ def main():
     p_enrich.add_argument("--images",  action="store_true", help="Merge Wayback images into current member profiles")
     p_enrich.add_argument("--slug",    help="(--images) Restrict to one member slug")
     p_enrich.add_argument("--force",   action="store_true", help="Re-fetch even if cached")
+    p_enrich.add_argument("--missing", action="store_true", help="Download only images already listed in member JSONs but absent locally")
 
     p_cdx = sub.add_parser("prefetch-cdx", help="Bulk-prefetch CDX index (one request per group, not per member)")
     p_cdx.add_argument("--group", help="Restrict to one group slug")
