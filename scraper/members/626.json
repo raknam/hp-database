@@ -7,10 +7,22 @@
   "nameEn": "Yuumi Kasai",
   "nameKana": "カサイ ユウミ",
   "images": [
-    "/upload/images/10b0c271c823d708a79676a3e1ed864f10500282aae84480d506058b82d4a8ea.webp",
-    "/upload/images/af1595ce8b7d19bd7d6ce5898099c9b7bb1199aa.webp",
-    "/upload/images/fe8b02f2f2758d782a47a3f7821ce55c21cc0860f4d20be7a455c3f4ba2d0101.webp",
-    "/upload/images/c531dcc02c709a1d6f7e1b41e44b8c01ab832ff38240ca3d770076d14723e70d.webp"
+    {
+      "url": "/upload/images/10b0c271c823d708a79676a3e1ed864f10500282aae84480d506058b82d4a8ea.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/af1595ce8b7d19bd7d6ce5898099c9b7bb1199aa.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/fe8b02f2f2758d782a47a3f7821ce55c21cc0860f4d20be7a455c3f4ba2d0101.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/c531dcc02c709a1d6f7e1b41e44b8c01ab832ff38240ca3d770076d14723e70d.webp",
+      "ts": "20260517191000"
+    }
   ],
   "color": {
     "name": "パープル",

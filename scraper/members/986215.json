@@ -6,20 +6,62 @@
   "nameJa": "宮本佳林",
   "nameKana": "ミヤモト カリン",
   "images": [
-    "https://web.archive.org/web/20140430234755if_/http://cdn.helloproject.com/img/rotation/f3a1fb93b464f81f7c7f77a6647044caec86c01f.jpg",
-    "https://web.archive.org/web/20140430234755if_/http://cdn.helloproject.com/img/rotation/668c4f1cdf718ff338285a6df32cacf779a05c99.jpg",
-    "https://web.archive.org/web/20150317065102if_/http://cdn.helloproject.com/img/rotation/76ba55ce9ea8099bc146f668e3713540aaf99276.jpg",
-    "https://web.archive.org/web/20150317065102if_/http://cdn.helloproject.com/img/rotation/127c33162466f4d7430c3f14f147023c19f342c1.jpg",
-    "https://web.archive.org/web/20150630105014if_/http://cdn.helloproject.com/img/rotation/8e97b00317f185af97e0104b8f797bf5cc6e34c0.jpg",
-    "https://web.archive.org/web/20150630105014if_/http://cdn.helloproject.com/img/rotation/958793b48fd18a5556fa4e9d76ece8a8e81106b2.jpg",
-    "https://web.archive.org/web/20160202030309if_/http://cdn.helloproject.com/img/rotation/585ddcb6e4205dc8413f4feab3832ebd5277d9a5.jpg",
-    "https://web.archive.org/web/20160202030309if_/http://cdn.helloproject.com/img/rotation/d4769b963d0a7cdef5eedd9549099aed71bf2758.jpg",
-    "https://web.archive.org/web/20170303033202if_/http://cdn.helloproject.com/img/rotation/8bd3a5fcf12c99f8893e5ad202954abe9d4c7fc1.jpg",
-    "https://web.archive.org/web/20170303033202if_/http://cdn.helloproject.com/img/rotation/2a99ffc0f439ed72329379898e40c1eb7d2010d1.jpg",
-    "https://web.archive.org/web/20170507232411if_/http://cdn.helloproject.com/img/rotation/0c37cd7aedf249404513ea3ac38feadebe1925e0.jpg",
-    "https://web.archive.org/web/20170507232411if_/http://cdn.helloproject.com/img/rotation/dd554427f5586241fdf200d3f2192788129d9b64.jpg",
-    "https://web.archive.org/web/20170718085211if_/http://cdn.helloproject.com/img/rotation/3448b0386290f0801e6a1c3d03441bb32f1cca0d.jpg",
-    "https://web.archive.org/web/20170922171050if_/http://cdn.helloproject.com/img/rotation/5eeb182ff5d7cca2027cb9cb4f39840440f5500e.jpg"
+    {
+      "url": "https://web.archive.org/web/20170922171050if_/http://cdn.helloproject.com/img/rotation/5eeb182ff5d7cca2027cb9cb4f39840440f5500e.jpg",
+      "ts": "20170922171050"
+    },
+    {
+      "url": "https://web.archive.org/web/20170718085211if_/http://cdn.helloproject.com/img/rotation/3448b0386290f0801e6a1c3d03441bb32f1cca0d.jpg",
+      "ts": "20170718085211"
+    },
+    {
+      "url": "https://web.archive.org/web/20170507232411if_/http://cdn.helloproject.com/img/rotation/0c37cd7aedf249404513ea3ac38feadebe1925e0.jpg",
+      "ts": "20170507232411"
+    },
+    {
+      "url": "https://web.archive.org/web/20170507232411if_/http://cdn.helloproject.com/img/rotation/dd554427f5586241fdf200d3f2192788129d9b64.jpg",
+      "ts": "20170507232411"
+    },
+    {
+      "url": "https://web.archive.org/web/20170303033202if_/http://cdn.helloproject.com/img/rotation/8bd3a5fcf12c99f8893e5ad202954abe9d4c7fc1.jpg",
+      "ts": "20170303033202"
+    },
+    {
+      "url": "https://web.archive.org/web/20170303033202if_/http://cdn.helloproject.com/img/rotation/2a99ffc0f439ed72329379898e40c1eb7d2010d1.jpg",
+      "ts": "20170303033202"
+    },
+    {
+      "url": "https://web.archive.org/web/20160202030309if_/http://cdn.helloproject.com/img/rotation/585ddcb6e4205dc8413f4feab3832ebd5277d9a5.jpg",
+      "ts": "20160202030309"
+    },
+    {
+      "url": "https://web.archive.org/web/20160202030309if_/http://cdn.helloproject.com/img/rotation/d4769b963d0a7cdef5eedd9549099aed71bf2758.jpg",
+      "ts": "20160202030309"
+    },
+    {
+      "url": "https://web.archive.org/web/20150630105014if_/http://cdn.helloproject.com/img/rotation/8e97b00317f185af97e0104b8f797bf5cc6e34c0.jpg",
+      "ts": "20150630105014"
+    },
+    {
+      "url": "https://web.archive.org/web/20150630105014if_/http://cdn.helloproject.com/img/rotation/958793b48fd18a5556fa4e9d76ece8a8e81106b2.jpg",
+      "ts": "20150630105014"
+    },
+    {
+      "url": "https://web.archive.org/web/20150317065102if_/http://cdn.helloproject.com/img/rotation/76ba55ce9ea8099bc146f668e3713540aaf99276.jpg",
+      "ts": "20150317065102"
+    },
+    {
+      "url": "https://web.archive.org/web/20150317065102if_/http://cdn.helloproject.com/img/rotation/127c33162466f4d7430c3f14f147023c19f342c1.jpg",
+      "ts": "20150317065102"
+    },
+    {
+      "url": "https://web.archive.org/web/20140430234755if_/http://cdn.helloproject.com/img/rotation/f3a1fb93b464f81f7c7f77a6647044caec86c01f.jpg",
+      "ts": "20140430234755"
+    },
+    {
+      "url": "https://web.archive.org/web/20140430234755if_/http://cdn.helloproject.com/img/rotation/668c4f1cdf718ff338285a6df32cacf779a05c99.jpg",
+      "ts": "20140430234755"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -38,6 +80,8 @@
     "座右の銘": "とことんやれば勝手に自分らしくなる",
     "ハロー！プロジェクト加入": "2013年2月25日 (Juice＝Juice結成日)"
   },
-  "_nameJa": "宮本佳林",
+  "groups": [
+    "juicejuice"
+  ],
   "nameEn": "Karin Miyamoto"
 }

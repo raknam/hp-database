@@ -7,8 +7,14 @@
   "nameEn": "Ruru Dambara",
   "nameKana": "ダンバラ ルル",
   "images": [
-    "/upload/images/63195b60486edbca390b0d52d24cd94f1e3f2310.webp",
-    "/upload/images/21d4b9800acc6954404f5b82f9aa47efcab1e857.webp"
+    {
+      "url": "/upload/images/63195b60486edbca390b0d52d24cd94f1e3f2310.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/21d4b9800acc6954404f5b82f9aa47efcab1e857.webp",
+      "ts": "20260517191000"
+    }
   ],
   "role": "リーダー",
   "color": {

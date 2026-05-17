@@ -10,8 +10,8 @@
   },
   "airi_suzuki": {
     "_nameJa": "鈴木愛理",
-    "nameEn": "Airi Suzuki",
-    "_ufw_solo": true
+    "_ufw_solo": true,
+    "nameEn": "Airi Suzuki"
   },
   "akane_haga": {
     "_nameJa": "羽賀朱音",
@@ -23,8 +23,8 @@
   },
   "akari_takeuchi": {
     "_nameJa": "竹内朱莉",
-    "nameEn": "Akari Takeuchi",
-    "_ufw_solo": true
+    "_ufw_solo": true,
+    "nameEn": "Akari Takeuchi"
   },
   "akari_uemura": {
     "_nameJa": "植村あかり",
@@ -228,17 +228,12 @@
   },
   "karinn_miyamoto": {
     "_nameJa": "宮本佳林",
-    "nameEn": "Karin Miyamoto",
-    "_ufw_solo": true
+    "_ufw_solo": true,
+    "nameEn": "Karin Miyamoto"
   },
   "kiki_asakura": {
     "_nameJa": "浅倉樹々",
     "nameEn": "Kiki Asakura"
-  },
-  "you_kikkawa": {
-    "_nameJa": "吉川友",
-    "nameEn": "Kikkawa You",
-    "_ufw_solo": true
   },
   "kirara_yonemura": {
     "_nameJa": "米村姫良々",
@@ -305,18 +300,19 @@
   },
   "mai_ozeki": {
     "_nameJa": "小関舞",
-    "nameEn": "Mai Ozeki",
-    "_ufw_solo": true
+    "_ufw_solo": true,
+    "nameEn": "Mai Ozeki"
   },
   "maimi_yajima": {
     "_nameJa": "矢島舞美",
-    "nameEn": "Maimi Yajima",
-    "_ufw_solo": true
+    "_ufw_solo": true,
+    "nameEn": "Maimi Yajima"
   },
   "manaka_inaba": {
     "_nameJa": "稲場愛香",
     "_ufw_solo": true,
-    "nameEn": "Manaka Inaba"
+    "nameEn": "Manaka Inaba",
+    "_extra_groups": ["countrygirls", "juicejuice"]
   },
   "mano_otsubo": {
     "_nameJa": "大坪茉乃",
@@ -344,8 +340,8 @@
   },
   "masaki_satou": {
     "_nameJa": "佐藤優樹",
-    "nameEn": "Masaki Sato",
-    "_ufw_solo": true
+    "_ufw_solo": true,
+    "nameEn": "Masaki Sato"
   },
   "mei_kusunoki": {
     "_nameJa": "楠萌生",
@@ -405,8 +401,8 @@
   },
   "mizuki_fukumura": {
     "_nameJa": "譜久村聖",
-    "nameEn": "Mizuki Fukumura",
-    "_ufw_solo": true
+    "_ufw_solo": true,
+    "nameEn": "Mizuki Fukumura"
   },
   "mizuki_kanatu": {
     "_nameJa": "金津美月",
@@ -454,7 +450,8 @@
   },
   "musubu_funaki_a": {
     "_nameJa": "船木結",
-    "nameEn": "Musubu Funaki"
+    "nameEn": "Musubu Funaki",
+    "_extra_groups": ["countrygirls"]
   },
   "nagisa_hashimoto": {
     "_nameJa": "橋本渚",
@@ -584,7 +581,8 @@
   },
   "risa_yamaki": {
     "_nameJa": "山木梨沙",
-    "nameEn": "Risa Yamaki"
+    "nameEn": "Risa Yamaki",
+    "_extra_groups": ["countrygirls"]
   },
   "risako_sugaya": {
     "_nameJa": "菅谷梨沙子",
@@ -625,8 +623,8 @@
   },
   "saki_nakajima": {
     "_nameJa": "中島早貴",
-    "nameEn": "Saki Nakajima",
-    "_ufw_solo": true
+    "_ufw_solo": true,
+    "nameEn": "Saki Nakajima"
   },
   "saki_shimizu": {
     "_nameJa": "清水佐紀",
@@ -722,6 +720,11 @@
   "wakana_matsumoto": {
     "_nameJa": "松本わかな",
     "nameEn": "Wakana Matsumoto"
+  },
+  "you_kikkawa": {
+    "_nameJa": "吉川友",
+    "_ufw_solo": true,
+    "nameEn": "Kikkawa You"
   },
   "yuhane_yamazaki": {
     "_nameJa": "山﨑夢羽",

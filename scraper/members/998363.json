@@ -6,8 +6,14 @@
   "nameJa": "譜久村聖",
   "nameKana": "フクムラ ミズキ",
   "images": [
-    "https://web.archive.org/web/20231028070225if_/http://cdn.helloproject.com/img/rotation/176338be22c6e7f5d671e703f448c02900ce6436.jpg",
-    "/images/63192c89082fec15e4200af7c4cfdbe18c8ed5a8.jpg"
+    {
+      "url": "/images/63192c89082fec15e4200af7c4cfdbe18c8ed5a8.jpg",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "https://web.archive.org/web/20231028070225if_/http://cdn.helloproject.com/img/rotation/176338be22c6e7f5d671e703f448c02900ce6436.jpg",
+      "ts": "20231028070225"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -28,6 +34,9 @@
     "座右の銘": "人を信じる",
     "ハロー！プロジェクト加入": "2011年1月2日 (モーニング娘。加入日) (リーダー)"
   },
-  "_nameJa": "譜久村聖",
+  "groups": [
+    "morningmusume",
+    "upfront"
+  ],
   "nameEn": "Mizuki Fukumura"
 }

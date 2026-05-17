@@ -6,7 +6,10 @@
   "nameJa": "羽賀朱音",
   "nameKana": "ハガ アカネ",
   "images": [
-    "https://web.archive.org/web/20241206042716if_/https://cdn.helloproject.com/img/rotation/ff342e0e8d7849342c6f78c944570765037b505a.jpg"
+    {
+      "url": "https://web.archive.org/web/20241206042716if_/https://cdn.helloproject.com/img/rotation/ff342e0e8d7849342c6f78c944570765037b505a.jpg",
+      "ts": "20241206042716"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -25,6 +28,8 @@
     "座右の銘": "極めたい音楽の世界(The 摩天楼ショー より)",
     "ハロー！プロジェクト加入": "2014年9月30日 (モーニング娘。加入日)"
   },
-  "_nameJa": "羽賀朱音",
+  "groups": [
+    "morningmusume"
+  ],
   "nameEn": "Akane Haga"
 }

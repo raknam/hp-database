@@ -6,7 +6,10 @@
   "nameJa": "工藤遥",
   "nameKana": "クドウ ハルカ",
   "images": [
-    "https://web.archive.org/web/20170815131511if_/http://cdn.helloproject.com/img/rotation/c4cfc7b193105e99c6ba09dbd00388733d678f28.jpg"
+    {
+      "url": "https://web.archive.org/web/20170815131511if_/http://cdn.helloproject.com/img/rotation/c4cfc7b193105e99c6ba09dbd00388733d678f28.jpg",
+      "ts": "20170815131511"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -25,6 +28,8 @@
     "座右の銘": "明朗活発",
     "ハロー！プロジェクト加入": "2011年9月29日(モーニング娘。加入日)"
   },
-  "_nameJa": "工藤遥",
+  "groups": [
+    "morningmusume"
+  ],
   "nameEn": "Haruka Kudo"
 }

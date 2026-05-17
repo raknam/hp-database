@@ -7,10 +7,22 @@
   "nameEn": "Mihane Ishii",
   "nameKana": "イシイ ミハネ",
   "images": [
-    "/upload/images/7a18388b2b31fc4d246568a3a5c5349de5c6a04be63a8a998dd74dade4b0e23d.webp",
-    "/upload/images/3a43c40ea29420895c7e7577b713a38505afb3dd.webp",
-    "/upload/images/b99d8daa4bb0ab8a39ca56706f539b031c9b0a4d13ccb4958dc2559548204a8f.webp",
-    "/upload/images/52b50f7ef099bc353493925b2acde53114e62ff12b2e5a9376f8dd4d0da59ebf.webp"
+    {
+      "url": "/upload/images/7a18388b2b31fc4d246568a3a5c5349de5c6a04be63a8a998dd74dade4b0e23d.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/3a43c40ea29420895c7e7577b713a38505afb3dd.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/b99d8daa4bb0ab8a39ca56706f539b031c9b0a4d13ccb4958dc2559548204a8f.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/52b50f7ef099bc353493925b2acde53114e62ff12b2e5a9376f8dd4d0da59ebf.webp",
+      "ts": "20260517191000"
+    }
   ],
   "color": {
     "name": "ホワイト",

@@ -6,7 +6,10 @@
   "nameJa": "石田亜佑美",
   "nameKana": "イシダ アユミ",
   "images": [
-    "https://web.archive.org/web/20241204160518if_/https://cdn.helloproject.com/img/rotation/55b019687718b037fd5e93cf50371bdf39d6caf5.jpg"
+    {
+      "url": "https://web.archive.org/web/20241204160518if_/https://cdn.helloproject.com/img/rotation/55b019687718b037fd5e93cf50371bdf39d6caf5.jpg",
+      "ts": "20241204160518"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -25,6 +28,8 @@
     "座右の銘": "一旦冷静に、日頃笑顔",
     "ハロー！プロジェクト加入": "2011年9月29日 (モーニング娘。加入日) (サブリーダー)"
   },
-  "_nameJa": "石田亜佑美",
+  "groups": [
+    "morningmusume"
+  ],
   "nameEn": "Ayumi Ishida"
 }

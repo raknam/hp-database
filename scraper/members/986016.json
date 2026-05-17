@@ -6,8 +6,14 @@
   "nameJa": "道重さゆみ",
   "nameKana": "ミチシゲ サユミ",
   "images": [
-    "https://web.archive.org/web/20141120214621if_/http://cdn.helloproject.com/img/rotation/9dfaf5391fd504c221c5cd07eb3784a360f0e9b1.jpg",
-    "https://web.archive.org/web/20141120214621if_/http://cdn.helloproject.com/img/rotation/677530659232a98346f9254cd2214400538233e0.jpg"
+    {
+      "url": "https://web.archive.org/web/20141120214621if_/http://cdn.helloproject.com/img/rotation/9dfaf5391fd504c221c5cd07eb3784a360f0e9b1.jpg",
+      "ts": "20141120214621"
+    },
+    {
+      "url": "https://web.archive.org/web/20141120214621if_/http://cdn.helloproject.com/img/rotation/677530659232a98346f9254cd2214400538233e0.jpg",
+      "ts": "20141120214621"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -26,6 +32,8 @@
     "座右の銘": "ありがとう",
     "ハロー！プロジェクト加入": "2003年1月19日"
   },
-  "_nameJa": "道重さゆみ",
+  "groups": [
+    "morningmusume"
+  ],
   "nameEn": "Sayumi Michishige"
 }

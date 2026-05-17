@@ -6,12 +6,30 @@
   "nameJa": "仲野りおん",
   "nameKana": "ナカノ リオン",
   "images": [
-    "https://web.archive.org/web/20150507050022if_/http://cdn.helloproject.com/img/rotation/60f887a62f04a987d108c3ccc9645a8a33ea715b.jpg",
-    "https://web.archive.org/web/20150507050022if_/http://cdn.helloproject.com/img/rotation/1631161dc2cd002ba924494dec993e26652ebc55.jpg",
-    "https://web.archive.org/web/20160304075714if_/http://cdn.helloproject.com/img/rotation/a580aa46622740d66188f89d6ec8d3c84319d69c.jpg",
-    "https://web.archive.org/web/20160304075714if_/http://cdn.helloproject.com/img/rotation/7f5ecabfbb58cbd765ecfb0b4d6305023d7b4c00.jpg",
-    "https://web.archive.org/web/20160527060949if_/http://cdn.helloproject.com/img/rotation/19b83d1063a8f31dc34b9d40c3c701935657ab0e.jpg",
-    "https://web.archive.org/web/20160527060949if_/http://cdn.helloproject.com/img/rotation/4ed892f24decb9823d3a407079f8837b77d33044.jpg"
+    {
+      "url": "https://web.archive.org/web/20160527060949if_/http://cdn.helloproject.com/img/rotation/19b83d1063a8f31dc34b9d40c3c701935657ab0e.jpg",
+      "ts": "20160527060949"
+    },
+    {
+      "url": "https://web.archive.org/web/20160527060949if_/http://cdn.helloproject.com/img/rotation/4ed892f24decb9823d3a407079f8837b77d33044.jpg",
+      "ts": "20160527060949"
+    },
+    {
+      "url": "https://web.archive.org/web/20160304075714if_/http://cdn.helloproject.com/img/rotation/a580aa46622740d66188f89d6ec8d3c84319d69c.jpg",
+      "ts": "20160304075714"
+    },
+    {
+      "url": "https://web.archive.org/web/20160304075714if_/http://cdn.helloproject.com/img/rotation/7f5ecabfbb58cbd765ecfb0b4d6305023d7b4c00.jpg",
+      "ts": "20160304075714"
+    },
+    {
+      "url": "https://web.archive.org/web/20150507050022if_/http://cdn.helloproject.com/img/rotation/60f887a62f04a987d108c3ccc9645a8a33ea715b.jpg",
+      "ts": "20150507050022"
+    },
+    {
+      "url": "https://web.archive.org/web/20150507050022if_/http://cdn.helloproject.com/img/rotation/1631161dc2cd002ba924494dec993e26652ebc55.jpg",
+      "ts": "20150507050022"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -29,6 +47,8 @@
     "座右の銘": "夢を追い求め続ける勇気があれば、全ての夢は実現します。(ウォルト・ディズニー)",
     "ハロー！プロジェクト加入": "2015年4月1日(ハロプロ研修生加入日)"
   },
-  "_nameJa": "仲野りおん",
+  "groups": [
+    "helloprokenshusei"
+  ],
   "nameEn": "Rion Nakano"
 }

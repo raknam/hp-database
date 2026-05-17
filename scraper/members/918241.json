@@ -6,7 +6,10 @@
   "nameJa": "横山玲奈",
   "nameKana": "ヨコヤマ レイナ",
   "images": [
-    "https://web.archive.org/web/20241206042902if_/https://cdn.helloproject.com/img/rotation/9846f231f92c06df2fa2e15cd6e38f390d38d161.jpg"
+    {
+      "url": "https://web.archive.org/web/20241206042902if_/https://cdn.helloproject.com/img/rotation/9846f231f92c06df2fa2e15cd6e38f390d38d161.jpg",
+      "ts": "20241206042902"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -25,6 +28,8 @@
     "座右の銘": "時間を大切に！",
     "ハロー！プロジェクト加入": "2016年12月12日 (モーニング娘。加入日)"
   },
-  "_nameJa": "横山玲奈",
+  "groups": [
+    "morningmusume"
+  ],
   "nameEn": "Reina Yokoyama"
 }

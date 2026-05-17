@@ -7,34 +7,118 @@
   "nameEn": "Ami Tanimoto",
   "nameKana": "タニモト アミ",
   "images": [
-    "/upload/images/cb7fc624b8410d52e462e00c1f30ab1ba1652e20b59b9dfe35fdc9273916d128.webp",
-    "/upload/images/29d708bb89598cd3525924c1c3f6198b7efb9b9a.webp",
-    "/upload/images/09d68cd2780ff1b79b5a0b83a6eea2d1c03d4396b51b824daad958cc42c3fad1.webp",
-    "/upload/images/4b6b637cbe5887877d0639991565fe974bbfabe65d2de4bd6b227c7d015a3ccd.webp",
-    "https://web.archive.org/web/20150518090639if_/http://cdn.helloproject.com/img/rotation/6304b351047ef8b7493ce526b7c17b4ecc4c554f.jpg",
-    "https://web.archive.org/web/20150518090639if_/http://cdn.helloproject.com/img/rotation/978b8763fad2beec4fe82505acbaa293b4e284a5.jpg",
-    "https://web.archive.org/web/20151231153913if_/http://cdn.helloproject.com/img/rotation/8a1724047521c63216d86be540e122f7219df8cf.jpg",
-    "https://web.archive.org/web/20160819000953if_/http://cdn.helloproject.com/img/rotation/27d652e1d05ad8ff5310dc2e1945ff2457972877.jpg",
-    "https://web.archive.org/web/20170606065339if_/http://cdn.helloproject.com/img/rotation/263eeb00c28c5a2c2fefccfaefec4a803bdc785d.jpg",
-    "https://web.archive.org/web/20170606065339if_/http://cdn.helloproject.com/img/rotation/92d613e55e16bc2340d6a10696d64e6efdc025cd.jpg",
-    "https://web.archive.org/web/20170705153619if_/http://cdn.helloproject.com/img/rotation/f7e5877f43a427b3b611369fe3546c416d384193.jpg",
-    "https://web.archive.org/web/20171228031353if_/http://cdn.helloproject.com/img/rotation/4967715bf826bb37cbb54c1dc6921d86262cf3f7.jpg",
-    "https://web.archive.org/web/20180710101839if_/http://cdn.helloproject.com/img/rotation/e9007d120a7e8ff3b5bc35619058d05ea933e0cb.jpg",
-    "https://web.archive.org/web/20190204182548if_/http://cdn.helloproject.com/img/rotation/68157cfd780b38d9cd91cc0de3e14b4442412e41.jpg",
-    "https://web.archive.org/web/20201001132227if_/http://cdn.helloproject.com/img/rotation/8548970fdac3fb63f644259b4c0a37357cbb82f2.jpg",
-    "https://web.archive.org/web/20210415115439if_/http://cdn.helloproject.com/img/rotation/5feec51ad8ce743fe7ae227b78832330e1348b15.jpg",
-    "https://web.archive.org/web/20211122055242if_/http://cdn.helloproject.com/img/rotation/b46841958bcbe73f1209ede3ce8723f87fa0f7fe.jpg",
-    "https://web.archive.org/web/20220523060251if_/http://cdn.helloproject.com/img/rotation/4688fab9422579ae4671ea582f1145bb5aa28307.jpg",
-    "https://web.archive.org/web/20221231160835if_/http://cdn.helloproject.com/img/rotation/791fae1c41a82699c7a2abbcb24c6a351cbb8a98.jpg",
-    "https://web.archive.org/web/20230207115244if_/http://cdn.helloproject.com/img/rotation/f38203af4e92d9047f7aa12a883b28f14557ca35.jpg",
-    "https://web.archive.org/web/20231020233257if_/http://cdn.helloproject.com/img/rotation/667055bb420b207711e0b1d63d27989a1ec5c244.jpg",
-    "https://web.archive.org/web/20231231215408if_/http://cdn.helloproject.com/img/rotation/ff2d5c46888080161b6e50afd4ec5373fd8c4eed.jpg",
-    "https://web.archive.org/web/20240402020850if_/http://cdn.helloproject.com/img/rotation/65c78b3ff38ae9d02ac84df6dd4b189f3eafbf2c.jpg",
-    "https://web.archive.org/web/20240402020850if_/http://cdn.helloproject.com/img/rotation/f509c991c1c97acf5b531d2795f022be29c922f9.jpg",
-    "https://web.archive.org/web/20240713191106if_/http://cdn.helloproject.com/img/rotation/221d6767e2253a97ff1e6805bae5cb28f12ab8fc.jpg",
-    "https://web.archive.org/web/20240713191106if_/http://cdn.helloproject.com/img/rotation/ae173780af9de2d8d848b3f93f82a9724de83fa8.jpg",
-    "https://web.archive.org/web/20241103031806if_/https://cdn.helloproject.com/img/rotation/221d6767e2253a97ff1e6805bae5cb28f12ab8fc.jpg",
-    "https://web.archive.org/web/20241103031806if_/https://cdn.helloproject.com/img/rotation/ae173780af9de2d8d848b3f93f82a9724de83fa8.jpg"
+    {
+      "url": "/upload/images/cb7fc624b8410d52e462e00c1f30ab1ba1652e20b59b9dfe35fdc9273916d128.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/29d708bb89598cd3525924c1c3f6198b7efb9b9a.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/09d68cd2780ff1b79b5a0b83a6eea2d1c03d4396b51b824daad958cc42c3fad1.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/4b6b637cbe5887877d0639991565fe974bbfabe65d2de4bd6b227c7d015a3ccd.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "https://web.archive.org/web/20241103031806if_/https://cdn.helloproject.com/img/rotation/221d6767e2253a97ff1e6805bae5cb28f12ab8fc.jpg",
+      "ts": "20241103031806"
+    },
+    {
+      "url": "https://web.archive.org/web/20241103031806if_/https://cdn.helloproject.com/img/rotation/ae173780af9de2d8d848b3f93f82a9724de83fa8.jpg",
+      "ts": "20241103031806"
+    },
+    {
+      "url": "https://web.archive.org/web/20240713191106if_/http://cdn.helloproject.com/img/rotation/221d6767e2253a97ff1e6805bae5cb28f12ab8fc.jpg",
+      "ts": "20240713191106"
+    },
+    {
+      "url": "https://web.archive.org/web/20240713191106if_/http://cdn.helloproject.com/img/rotation/ae173780af9de2d8d848b3f93f82a9724de83fa8.jpg",
+      "ts": "20240713191106"
+    },
+    {
+      "url": "https://web.archive.org/web/20240402020850if_/http://cdn.helloproject.com/img/rotation/65c78b3ff38ae9d02ac84df6dd4b189f3eafbf2c.jpg",
+      "ts": "20240402020850"
+    },
+    {
+      "url": "https://web.archive.org/web/20240402020850if_/http://cdn.helloproject.com/img/rotation/f509c991c1c97acf5b531d2795f022be29c922f9.jpg",
+      "ts": "20240402020850"
+    },
+    {
+      "url": "https://web.archive.org/web/20231231215408if_/http://cdn.helloproject.com/img/rotation/ff2d5c46888080161b6e50afd4ec5373fd8c4eed.jpg",
+      "ts": "20231231215408"
+    },
+    {
+      "url": "https://web.archive.org/web/20231020233257if_/http://cdn.helloproject.com/img/rotation/667055bb420b207711e0b1d63d27989a1ec5c244.jpg",
+      "ts": "20231020233257"
+    },
+    {
+      "url": "https://web.archive.org/web/20230207115244if_/http://cdn.helloproject.com/img/rotation/f38203af4e92d9047f7aa12a883b28f14557ca35.jpg",
+      "ts": "20230207115244"
+    },
+    {
+      "url": "https://web.archive.org/web/20221231160835if_/http://cdn.helloproject.com/img/rotation/791fae1c41a82699c7a2abbcb24c6a351cbb8a98.jpg",
+      "ts": "20221231160835"
+    },
+    {
+      "url": "https://web.archive.org/web/20220523060251if_/http://cdn.helloproject.com/img/rotation/4688fab9422579ae4671ea582f1145bb5aa28307.jpg",
+      "ts": "20220523060251"
+    },
+    {
+      "url": "https://web.archive.org/web/20211122055242if_/http://cdn.helloproject.com/img/rotation/b46841958bcbe73f1209ede3ce8723f87fa0f7fe.jpg",
+      "ts": "20211122055242"
+    },
+    {
+      "url": "https://web.archive.org/web/20210415115439if_/http://cdn.helloproject.com/img/rotation/5feec51ad8ce743fe7ae227b78832330e1348b15.jpg",
+      "ts": "20210415115439"
+    },
+    {
+      "url": "https://web.archive.org/web/20201001132227if_/http://cdn.helloproject.com/img/rotation/8548970fdac3fb63f644259b4c0a37357cbb82f2.jpg",
+      "ts": "20201001132227"
+    },
+    {
+      "url": "https://web.archive.org/web/20190204182548if_/http://cdn.helloproject.com/img/rotation/68157cfd780b38d9cd91cc0de3e14b4442412e41.jpg",
+      "ts": "20190204182548"
+    },
+    {
+      "url": "https://web.archive.org/web/20180710101839if_/http://cdn.helloproject.com/img/rotation/e9007d120a7e8ff3b5bc35619058d05ea933e0cb.jpg",
+      "ts": "20180710101839"
+    },
+    {
+      "url": "https://web.archive.org/web/20171228031353if_/http://cdn.helloproject.com/img/rotation/4967715bf826bb37cbb54c1dc6921d86262cf3f7.jpg",
+      "ts": "20171228031353"
+    },
+    {
+      "url": "https://web.archive.org/web/20170705153619if_/http://cdn.helloproject.com/img/rotation/f7e5877f43a427b3b611369fe3546c416d384193.jpg",
+      "ts": "20170705153619"
+    },
+    {
+      "url": "https://web.archive.org/web/20170606065339if_/http://cdn.helloproject.com/img/rotation/263eeb00c28c5a2c2fefccfaefec4a803bdc785d.jpg",
+      "ts": "20170606065339"
+    },
+    {
+      "url": "https://web.archive.org/web/20170606065339if_/http://cdn.helloproject.com/img/rotation/92d613e55e16bc2340d6a10696d64e6efdc025cd.jpg",
+      "ts": "20170606065339"
+    },
+    {
+      "url": "https://web.archive.org/web/20160819000953if_/http://cdn.helloproject.com/img/rotation/27d652e1d05ad8ff5310dc2e1945ff2457972877.jpg",
+      "ts": "20160819000953"
+    },
+    {
+      "url": "https://web.archive.org/web/20151231153913if_/http://cdn.helloproject.com/img/rotation/8a1724047521c63216d86be540e122f7219df8cf.jpg",
+      "ts": "20151231153913"
+    },
+    {
+      "url": "https://web.archive.org/web/20150518090639if_/http://cdn.helloproject.com/img/rotation/6304b351047ef8b7493ce526b7c17b4ecc4c554f.jpg",
+      "ts": "20150518090639"
+    },
+    {
+      "url": "https://web.archive.org/web/20150518090639if_/http://cdn.helloproject.com/img/rotation/978b8763fad2beec4fe82505acbaa293b4e284a5.jpg",
+      "ts": "20150518090639"
+    }
   ],
   "role": "リーダー",
   "color": {

@@ -6,7 +6,10 @@
   "nameJa": "森戸知沙希",
   "nameKana": "モリト チサキ",
   "images": [
-    "https://web.archive.org/web/20211025224203if_/http://cdn.helloproject.com/img/rotation/9899aeb847e93cfe1b1deeba7bb0bd71f16d2e53.jpg"
+    {
+      "url": "https://web.archive.org/web/20211025224203if_/http://cdn.helloproject.com/img/rotation/9899aeb847e93cfe1b1deeba7bb0bd71f16d2e53.jpg",
+      "ts": "20211025224203"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -25,6 +28,8 @@
     "座右の銘": "努力は必ず報われる",
     "ハロー！プロジェクト加入": "2014年11月5日 (カントリー・ガールズ結成日)(2017年6月26日：モーニング娘。加入日)"
   },
-  "_nameJa": "森戸知沙希",
+  "groups": [
+    "morningmusume"
+  ],
   "nameEn": "Chisaki Morito"
 }

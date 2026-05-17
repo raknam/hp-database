@@ -7,8 +7,14 @@
   "nameEn": "Chihiro Miyakoshi",
   "nameKana": "ミヤコシ チヒロ",
   "images": [
-    "/upload/images/6b088c8726e118e8136949768141b9b844e35867.webp",
-    "/upload/images/63ec4ed240ce31f1b1940ba05239a25cc3f30142.webp"
+    {
+      "url": "/upload/images/6b088c8726e118e8136949768141b9b844e35867.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/63ec4ed240ce31f1b1940ba05239a25cc3f30142.webp",
+      "ts": "20260517191000"
+    }
   ],
   "details": {
     "ニックネーム": "ちーちゃん、ちっひー",

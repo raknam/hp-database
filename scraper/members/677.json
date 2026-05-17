@@ -7,8 +7,14 @@
   "nameEn": "Momoha Nagano",
   "nameKana": "ナガノ モモハ",
   "images": [
-    "/upload/images/da90faa427d79371d4dbc7f0167283085ab16dc3a32210727c4a29bdc582654b.webp",
-    "/upload/images/b684576d41b85d2373eae170182a80c9c6ec7f87a81a07585f8f01f5d2902762.webp"
+    {
+      "url": "/upload/images/da90faa427d79371d4dbc7f0167283085ab16dc3a32210727c4a29bdc582654b.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/b684576d41b85d2373eae170182a80c9c6ec7f87a81a07585f8f01f5d2902762.webp",
+      "ts": "20260517191000"
+    }
   ],
   "color": {
     "name": "イエロー",

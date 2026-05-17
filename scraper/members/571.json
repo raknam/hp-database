@@ -7,9 +7,18 @@
   "nameEn": "Yulia Matsubara",
   "nameKana": "マツバラ ユリヤ",
   "images": [
-    "/upload/images/267d1ba55f596f6ff18161aeb3e5db7bfeb0c195.webp",
-    "/upload/images/209b934a601cd6acbd9270e47fd693f6c3e834b2.webp",
-    "https://web.archive.org/web/20220508062905if_/http://cdn.helloproject.com/img/rotation/c61eddff71af9de4bf2c59045bbccbbd51785d14.jpg"
+    {
+      "url": "/upload/images/267d1ba55f596f6ff18161aeb3e5db7bfeb0c195.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/209b934a601cd6acbd9270e47fd693f6c3e834b2.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "https://web.archive.org/web/20220508062905if_/http://cdn.helloproject.com/img/rotation/c61eddff71af9de4bf2c59045bbccbbd51785d14.jpg",
+      "ts": "20220508062905"
+    }
   ],
   "color": {
     "name": "ライトブルー",

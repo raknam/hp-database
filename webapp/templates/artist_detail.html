@@ -12,14 +12,15 @@
 <div class="release-detail">
   <div class="cover">
     {% if images %}
-    {% set cover_src = '/images/' ~ images[0].split('/')[-1] %}
+    {% set img0 = images[0] %}
+    {% set cover_src = '/images/' ~ ((img0.url if img0 is mapping else img0).split('/')[-1]) %}
     <a href="{{ cover_src }}" target="_blank">
       <img src="{{ cover_src }}" alt="{{ artist.name_ja }}" style="border-radius:8px">
     </a>
     {% if images|length > 1 %}
     <div class="gallery" style="margin-top:12px">
       {% for img in images[1:5] %}
-      {% set src = '/images/' ~ img.split('/')[-1] %}
+      {% set src = '/images/' ~ ((img.url if img is mapping else img).split('/')[-1]) %}
       <a href="{{ src }}" target="_blank"><img src="{{ src }}" alt="" loading="lazy"></a>
       {% endfor %}
     </div>
@@ -41,6 +42,28 @@
       {% endfor %}
     </table>
 
+    {% if parent_groups %}
+    <h2>Groups</h2>
+    <div class="group-card-members" style="margin-bottom:16px">
+      {% for g in parent_groups %}
+      {% set gex = g.extra or {} %}
+      {% set gimg = gex.get('images', [None])[0] %}
+      <a href="/artists/{{ g.slug or g.id }}" class="member-chip">
+        {% if gimg %}
+        {% set gimg_url = gimg.url if gimg is mapping else gimg %}
+        <img src="/images/{{ gimg_url.split('/')[-1] }}" alt="{{ g.name_ja or g.name_en }}" loading="lazy">
+        {% else %}
+        <span class="chip-ph">👥</span>
+        {% endif %}
+        <span class="chip-name">
+          {%- if g.name_en %}<span class="chip-en">{{ g.name_en }}</span>{% endif %}
+          {%- if g.name_ja %}<span class="chip-ja">{{ g.name_ja }}</span>{% endif %}
+        </span>
+      </a>
+      {% endfor %}
+    </div>
+    {% endif %}
+
     {% if members %}
     <h2>Members</h2>
     <div class="member-grid">
@@ -49,7 +72,8 @@
       {% set mimg = mex.get('images', [None])[0] %}
       <a href="/artists/{{ m.slug or m.id }}" class="member-card">
         {% if mimg %}
-        <img src="/images/{{ mimg.split('/')[-1] }}" alt="{{ m.name_ja }}" loading="lazy">
+        {% set mimg_url = mimg.url if mimg is mapping else mimg %}
+        <img src="/images/{{ mimg_url.split('/')[-1] }}" alt="{{ m.name_ja }}" loading="lazy">
         {% else %}
         <div class="no-img">👤</div>
         {% endif %}
@@ -91,9 +115,11 @@
 <h2>Photos ({{ images|length }})</h2>
 <div class="grid">
   {% for img in images %}
-  {% set src = '/images/' ~ img.split('/')[-1] %}
-  <a href="{{ src }}" target="_blank" class="card" style="padding:0;overflow:hidden">
+  {% set src = '/images/' ~ ((img.url if img is mapping else img).split('/')[-1]) %}
+  {% set year = img.ts[:4] if img is mapping and img.ts else none %}
+  <a href="{{ src }}" target="_blank" class="card" style="padding:0;overflow:hidden;position:relative">
     <img src="{{ src }}" alt="" loading="lazy" style="width:100%;height:100%;object-fit:cover;display:block">
+    {% if year %}<span class="photo-year">{{ year }}</span>{% endif %}
   </a>
   {% endfor %}
 </div>

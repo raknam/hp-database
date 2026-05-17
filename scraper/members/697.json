@@ -7,8 +7,14 @@
   "nameEn": "Yurika Saito",
   "nameKana": "サイトウ ユリカ",
   "images": [
-    "/upload/images/5b5f69008dc128c19674d2e595ec973b4b147c8f.webp",
-    "/upload/images/d6b36d051a3b958718fa95a312c9922b09392722.webp"
+    {
+      "url": "/upload/images/5b5f69008dc128c19674d2e595ec973b4b147c8f.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/d6b36d051a3b958718fa95a312c9922b09392722.webp",
+      "ts": "20260517191000"
+    }
   ],
   "details": {
     "ニックネーム": "ゆりぞう、ゆりぴ、ゆりなつ",

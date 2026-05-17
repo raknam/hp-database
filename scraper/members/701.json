@@ -7,8 +7,14 @@
   "nameEn": "Shiori Sakata",
   "nameKana": "サカタ シオリ",
   "images": [
-    "/upload/images/57aa7406c6582c988850869c140b5b6c2b08f8c1.webp",
-    "/upload/images/2bdcc74b6b3b6f82f84bcb36a4d5c89a569c8f30.webp"
+    {
+      "url": "/upload/images/57aa7406c6582c988850869c140b5b6c2b08f8c1.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/2bdcc74b6b3b6f82f84bcb36a4d5c89a569c8f30.webp",
+      "ts": "20260517191000"
+    }
   ],
   "details": {
     "ニックネーム": "しおちゃん",

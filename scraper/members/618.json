@@ -7,8 +7,82 @@
   "nameEn": "Rin Kawana",
   "nameKana": "カワナ リン",
   "images": [
-    "/upload/images/44e8bf80f76fea4e898825ff433fe144038837f5c3e5e747dea9bd202014c9e2.webp",
-    "/upload/images/63d3f5ca207adff1ff0011b8aab62f33dea7aa3f05c1dfb666deb60803dbb801.webp"
+    {
+      "url": "/upload/images/44e8bf80f76fea4e898825ff433fe144038837f5c3e5e747dea9bd202014c9e2.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/63d3f5ca207adff1ff0011b8aab62f33dea7aa3f05c1dfb666deb60803dbb801.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "https://web.archive.org/web/20241009173337if_/https://cdn.helloproject.com/img/rotation/44d8a3ec2631602df9b482be0d89e687eafacf56.jpg",
+      "ts": "20241009173337"
+    },
+    {
+      "url": "https://web.archive.org/web/20241009173337if_/https://cdn.helloproject.com/img/rotation/2239c324fed05a865b90b8c6e84f982adb18721c.jpg",
+      "ts": "20241009173337"
+    },
+    {
+      "url": "https://web.archive.org/web/20240921123355if_/http://cdn.helloproject.com/img/rotation/2239c324fed05a865b90b8c6e84f982adb18721c.jpg",
+      "ts": "20240921123355"
+    },
+    {
+      "url": "https://web.archive.org/web/20240921123355if_/http://cdn.helloproject.com/img/rotation/44d8a3ec2631602df9b482be0d89e687eafacf56.jpg",
+      "ts": "20240921123355"
+    },
+    {
+      "url": "https://web.archive.org/web/20240407062722if_/http://cdn.helloproject.com/img/rotation/e9d660eb9b05daf310dce120a83c81162b0364ea.jpg",
+      "ts": "20240407062722"
+    },
+    {
+      "url": "https://web.archive.org/web/20231122031238if_/http://cdn.helloproject.com/img/rotation/770097dcc6ec811dc49fee69109077744695cc95.jpg",
+      "ts": "20231122031238"
+    },
+    {
+      "url": "https://web.archive.org/web/20231014155642if_/http://cdn.helloproject.com/img/rotation/d2a4c61289e7803c4cf3838e43bafae3a6e84a4e.jpg",
+      "ts": "20231014155642"
+    },
+    {
+      "url": "https://web.archive.org/web/20230610114550if_/http://cdn.helloproject.com/img/rotation/66d1eab6d46e9c788df941f9b3cc5ad9c4c09ee5.jpg",
+      "ts": "20230610114550"
+    },
+    {
+      "url": "https://web.archive.org/web/20230610114550if_/http://cdn.helloproject.com/img/rotation/75f9f2d0dcedac438a4eb64f66822aeb4be97f7e.jpg",
+      "ts": "20230610114550"
+    },
+    {
+      "url": "https://web.archive.org/web/20230424193831if_/http://cdn.helloproject.com/img/rotation/4c5b945563e5ae2d015390f812ac6fb7f3239829.jpg",
+      "ts": "20230424193831"
+    },
+    {
+      "url": "https://web.archive.org/web/20220911041029if_/http://cdn.helloproject.com/img/rotation/3d11636040b830355ad2e15459f1fefeb7359048.jpg",
+      "ts": "20220911041029"
+    },
+    {
+      "url": "https://web.archive.org/web/20220802214944if_/http://cdn.helloproject.com/img/rotation/14f677ab01589d52bc6ca44c8c711c26e327ed78.jpg",
+      "ts": "20220802214944"
+    },
+    {
+      "url": "https://web.archive.org/web/20211129034031if_/http://cdn.helloproject.com/img/rotation/1cef80e4af8c66b362b46b5b5a3fcf247c475605.jpg",
+      "ts": "20211129034031"
+    },
+    {
+      "url": "https://web.archive.org/web/20210719231333if_/http://cdn.helloproject.com/img/rotation/0dc12f5f2640549d88ca109fb8e03c8834ee45d5.jpg",
+      "ts": "20210719231333"
+    },
+    {
+      "url": "https://web.archive.org/web/20210719231333if_/http://cdn.helloproject.com/img/rotation/372e3bfb4655e21c61f4629fd415195423ddb356.jpg",
+      "ts": "20210719231333"
+    },
+    {
+      "url": "https://web.archive.org/web/20201102104201if_/http://cdn.helloproject.com/img/rotation/15ef1348545abe09808207523f8efda6f8a7b204.jpg",
+      "ts": "20201102104201"
+    },
+    {
+      "url": "https://web.archive.org/web/20201102104201if_/http://cdn.helloproject.com/img/rotation/9732a2e84b381a79c5fc4f582e2f9b563968162a.jpg",
+      "ts": "20201102104201"
+    }
   ],
   "color": {
     "name": "グリーン",

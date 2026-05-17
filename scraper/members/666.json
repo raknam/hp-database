@@ -7,8 +7,14 @@
   "nameEn": "Hikari Yoshida",
   "nameKana": "ヨシダ ヒカリ",
   "images": [
-    "/upload/images/b08e39138cafb60efd38547fed85e51db601ac0d.webp",
-    "/upload/images/8e27211cb3192e1dbaae5e486ce4d081340c76e1.webp"
+    {
+      "url": "/upload/images/b08e39138cafb60efd38547fed85e51db601ac0d.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/8e27211cb3192e1dbaae5e486ce4d081340c76e1.webp",
+      "ts": "20260517191000"
+    }
   ],
   "details": {
     "ニックネーム": "ひか、ぴっちゃん、よしみつ、ティーヨシザウルスムンチャクッパス",

@@ -6,24 +6,78 @@
   "nameJa": "山田苺",
   "nameKana": "ヤマダ イチゴ",
   "images": [
-    "https://web.archive.org/web/20170315231332if_/http://cdn.helloproject.com/img/rotation/644277ada79196c121ddaa5bfdad9d33493518a3.jpg",
-    "https://web.archive.org/web/20170315231332if_/http://cdn.helloproject.com/img/rotation/f260b9584e548eba2318dac1830a817c06ae2148.jpg",
-    "https://web.archive.org/web/20170808060516if_/http://cdn.helloproject.com/img/rotation/786d8dd3bee67a472adc2a7feafa73abeaa3b1e6.jpg",
-    "https://web.archive.org/web/20170808060516if_/http://cdn.helloproject.com/img/rotation/db207ddd2920e35c6e0adea7420e661e1039bf45.jpg",
-    "https://web.archive.org/web/20171225052826if_/http://cdn.helloproject.com/img/rotation/f1f3b7be3d75b7b9e421a51618a1da0eeea7d607.jpg",
-    "https://web.archive.org/web/20171225052826if_/http://cdn.helloproject.com/img/rotation/f53f87a1787d9027f569148a8f57206b9d01ae75.jpg",
-    "https://web.archive.org/web/20180527083415if_/http://cdn.helloproject.com/img/rotation/76d1bae043f97455d510b7f42317108a808ea09f.jpg",
-    "https://web.archive.org/web/20180527083415if_/http://cdn.helloproject.com/img/rotation/212b9d1766f9120ec14abf5797412333d25225f7.jpg",
-    "https://web.archive.org/web/20181203104021if_/http://cdn.helloproject.com/img/rotation/0719a69444cd6cc0194274e2762f9c4abe482792.jpg",
-    "https://web.archive.org/web/20181203104021if_/http://cdn.helloproject.com/img/rotation/a91446b0148712965cac3481e01edcbe781004b2.jpg",
-    "https://web.archive.org/web/20190416154111if_/http://cdn.helloproject.com/img/rotation/7b775f68debfb6c033397673606c9ffb1a5c7538.jpg",
-    "https://web.archive.org/web/20190416154111if_/http://cdn.helloproject.com/img/rotation/f9c9572dd796c8a268542503dc9d885f6ab3aaf9.jpg",
-    "https://web.archive.org/web/20190611052928if_/http://cdn.helloproject.com/img/rotation/4a95635301e449901521f8f367c7987cb1dcdd03.jpg",
-    "https://web.archive.org/web/20190616140446if_/http://cdn.helloproject.com/img/rotation/41074c89067f31bc48547e7be411f45cedd7d905.jpg",
-    "https://web.archive.org/web/20191209081947if_/http://cdn.helloproject.com/img/rotation/5da7130f8bf69c85e6dce7e0d753ae831eaf1f74.jpg",
-    "https://web.archive.org/web/20191209081947if_/http://cdn.helloproject.com/img/rotation/10c0d4376b7a7042695ae7c48fb0bdaf358e3107.jpg",
-    "https://web.archive.org/web/20200706024007if_/http://cdn.helloproject.com/img/rotation/d1b2dfb24f8462196a713612cb19db4c243453c7.jpg",
-    "https://web.archive.org/web/20200706024007if_/http://cdn.helloproject.com/img/rotation/51fce866a40b455ff340e273adda5e9d5b957408.jpg"
+    {
+      "url": "https://web.archive.org/web/20200706024007if_/http://cdn.helloproject.com/img/rotation/d1b2dfb24f8462196a713612cb19db4c243453c7.jpg",
+      "ts": "20200706024007"
+    },
+    {
+      "url": "https://web.archive.org/web/20200706024007if_/http://cdn.helloproject.com/img/rotation/51fce866a40b455ff340e273adda5e9d5b957408.jpg",
+      "ts": "20200706024007"
+    },
+    {
+      "url": "https://web.archive.org/web/20191209081947if_/http://cdn.helloproject.com/img/rotation/5da7130f8bf69c85e6dce7e0d753ae831eaf1f74.jpg",
+      "ts": "20191209081947"
+    },
+    {
+      "url": "https://web.archive.org/web/20191209081947if_/http://cdn.helloproject.com/img/rotation/10c0d4376b7a7042695ae7c48fb0bdaf358e3107.jpg",
+      "ts": "20191209081947"
+    },
+    {
+      "url": "https://web.archive.org/web/20190616140446if_/http://cdn.helloproject.com/img/rotation/41074c89067f31bc48547e7be411f45cedd7d905.jpg",
+      "ts": "20190616140446"
+    },
+    {
+      "url": "https://web.archive.org/web/20190611052928if_/http://cdn.helloproject.com/img/rotation/4a95635301e449901521f8f367c7987cb1dcdd03.jpg",
+      "ts": "20190611052928"
+    },
+    {
+      "url": "https://web.archive.org/web/20190416154111if_/http://cdn.helloproject.com/img/rotation/7b775f68debfb6c033397673606c9ffb1a5c7538.jpg",
+      "ts": "20190416154111"
+    },
+    {
+      "url": "https://web.archive.org/web/20190416154111if_/http://cdn.helloproject.com/img/rotation/f9c9572dd796c8a268542503dc9d885f6ab3aaf9.jpg",
+      "ts": "20190416154111"
+    },
+    {
+      "url": "https://web.archive.org/web/20181203104021if_/http://cdn.helloproject.com/img/rotation/0719a69444cd6cc0194274e2762f9c4abe482792.jpg",
+      "ts": "20181203104021"
+    },
+    {
+      "url": "https://web.archive.org/web/20181203104021if_/http://cdn.helloproject.com/img/rotation/a91446b0148712965cac3481e01edcbe781004b2.jpg",
+      "ts": "20181203104021"
+    },
+    {
+      "url": "https://web.archive.org/web/20180527083415if_/http://cdn.helloproject.com/img/rotation/76d1bae043f97455d510b7f42317108a808ea09f.jpg",
+      "ts": "20180527083415"
+    },
+    {
+      "url": "https://web.archive.org/web/20180527083415if_/http://cdn.helloproject.com/img/rotation/212b9d1766f9120ec14abf5797412333d25225f7.jpg",
+      "ts": "20180527083415"
+    },
+    {
+      "url": "https://web.archive.org/web/20171225052826if_/http://cdn.helloproject.com/img/rotation/f1f3b7be3d75b7b9e421a51618a1da0eeea7d607.jpg",
+      "ts": "20171225052826"
+    },
+    {
+      "url": "https://web.archive.org/web/20171225052826if_/http://cdn.helloproject.com/img/rotation/f53f87a1787d9027f569148a8f57206b9d01ae75.jpg",
+      "ts": "20171225052826"
+    },
+    {
+      "url": "https://web.archive.org/web/20170808060516if_/http://cdn.helloproject.com/img/rotation/786d8dd3bee67a472adc2a7feafa73abeaa3b1e6.jpg",
+      "ts": "20170808060516"
+    },
+    {
+      "url": "https://web.archive.org/web/20170808060516if_/http://cdn.helloproject.com/img/rotation/db207ddd2920e35c6e0adea7420e661e1039bf45.jpg",
+      "ts": "20170808060516"
+    },
+    {
+      "url": "https://web.archive.org/web/20170315231332if_/http://cdn.helloproject.com/img/rotation/644277ada79196c121ddaa5bfdad9d33493518a3.jpg",
+      "ts": "20170315231332"
+    },
+    {
+      "url": "https://web.archive.org/web/20170315231332if_/http://cdn.helloproject.com/img/rotation/f260b9584e548eba2318dac1830a817c06ae2148.jpg",
+      "ts": "20170315231332"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -41,6 +95,8 @@
     "座右の銘": "猪突猛進",
     "ハロー！プロジェクト加入": "2017年3月(ハロプロ研修生加入日)"
   },
-  "_nameJa": "山田苺",
+  "groups": [
+    "helloprokenshusei"
+  ],
   "nameEn": "Ichigo Yamada"
 }

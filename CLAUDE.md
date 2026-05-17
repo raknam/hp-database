@@ -15,8 +15,9 @@ run-debug.bat        # starts uvicorn --reload on port 8001
 ## Key commands
 
 ```powershell
-py -m importer.import_scraper --all               # import all scraper JSON
-py -m importer.import_scraper --all --incremental # only changed files
+py -m importer.import_scraper --all                          # import (catalogue: current+next year only)
+py -m importer.import_scraper --all --incremental            # only changed release files
+py -m importer.import_scraper --all --all-years              # initial setup: catalogue all years
 py -m nas.scan_iso --root "T:\J-Music\Hello!Pro"  # index ISOs
 py -m nas.scan_iso --root "T:\J-Music\Hello!Pro" --debug
 ```

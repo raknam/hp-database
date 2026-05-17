@@ -68,8 +68,16 @@ def artist_detail(request: Request, slug: str, db: Session = Depends(get_db)):
 
     members = _resolve_members(db, artist.id) if artist.kind in ("group", "unit") else []
 
+    parent_groups = db.execute(
+        select(Artist)
+        .join(ArtistRelation, ArtistRelation.parent_id == Artist.id)
+        .where(ArtistRelation.child_id == artist.id, ArtistRelation.kind == "member")
+        .order_by(Artist.id)
+    ).scalars().all()
+
     return templates.TemplateResponse(request, "artist_detail.html", {
         "artist": artist,
         "releases": releases,
         "members": members,
+        "parent_groups": parent_groups,
     })

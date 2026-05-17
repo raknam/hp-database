@@ -16,6 +16,8 @@
     "血液型": "O型",
     "出身地": "東京都"
   },
-  "_nameJa": "小野瑞歩",
+  "groups": [
+    "helloprokenshusei"
+  ],
   "nameEn": "Mizuho Ono"
 }

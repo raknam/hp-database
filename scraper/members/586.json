@@ -7,17 +7,50 @@
   "nameEn": "Madoka Saito",
   "nameKana": "サイトウ マドカ",
   "images": [
-    "/upload/images/dd054a51135cf643c724cad5f4283320a6da510945d996bba875b981c28f92c1.webp",
-    "/upload/images/b27494d0d3eba6f1a686a42e410ca35d79592bfaffc067a4102273794a38eaf8.webp",
-    "https://web.archive.org/web/20211224124220if_/http://cdn.helloproject.com/img/rotation/b9cd112f04ae5a3e25f1bc417539be72777c9e66.jpg",
-    "https://web.archive.org/web/20211224124220if_/http://cdn.helloproject.com/img/rotation/b5e9b906fc6374e354b493451c684201bc5e1945.jpg",
-    "https://web.archive.org/web/20220622082629if_/http://cdn.helloproject.com/img/rotation/a0c07c0768b2e8782bb8b899c8c02ca68ef31498.jpg",
-    "https://web.archive.org/web/20221003135122if_/http://cdn.helloproject.com/img/rotation/58a3f2b6eaf87aca7228ad44cc1da234fb72bf7f.jpg",
-    "https://web.archive.org/web/20230612165649if_/http://cdn.helloproject.com/img/rotation/bcd282f4b4e0608f8e66a9f3e2c9178249ab1e9b.jpg",
-    "https://web.archive.org/web/20231106030535if_/http://cdn.helloproject.com/img/rotation/fcd2cb67f42dc4b4107bbc10dce00828521006d8.jpg",
-    "https://web.archive.org/web/20240713192448if_/http://cdn.helloproject.com/img/rotation/acc7fa4d34444c3be632a4b877c304f591b880fc.jpg",
-    "https://web.archive.org/web/20241130163146if_/https://cdn.helloproject.com/img/rotation/acc7fa4d34444c3be632a4b877c304f591b880fc.jpg",
-    "/upload/images/100e9cc0e71fcc1fefa1698515f91c8ff2dd1857.webp"
+    {
+      "url": "/upload/images/dd054a51135cf643c724cad5f4283320a6da510945d996bba875b981c28f92c1.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/b27494d0d3eba6f1a686a42e410ca35d79592bfaffc067a4102273794a38eaf8.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/100e9cc0e71fcc1fefa1698515f91c8ff2dd1857.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "https://web.archive.org/web/20241130163146if_/https://cdn.helloproject.com/img/rotation/acc7fa4d34444c3be632a4b877c304f591b880fc.jpg",
+      "ts": "20241130163146"
+    },
+    {
+      "url": "https://web.archive.org/web/20240713192448if_/http://cdn.helloproject.com/img/rotation/acc7fa4d34444c3be632a4b877c304f591b880fc.jpg",
+      "ts": "20240713192448"
+    },
+    {
+      "url": "https://web.archive.org/web/20231106030535if_/http://cdn.helloproject.com/img/rotation/fcd2cb67f42dc4b4107bbc10dce00828521006d8.jpg",
+      "ts": "20231106030535"
+    },
+    {
+      "url": "https://web.archive.org/web/20230612165649if_/http://cdn.helloproject.com/img/rotation/bcd282f4b4e0608f8e66a9f3e2c9178249ab1e9b.jpg",
+      "ts": "20230612165649"
+    },
+    {
+      "url": "https://web.archive.org/web/20221003135122if_/http://cdn.helloproject.com/img/rotation/58a3f2b6eaf87aca7228ad44cc1da234fb72bf7f.jpg",
+      "ts": "20221003135122"
+    },
+    {
+      "url": "https://web.archive.org/web/20220622082629if_/http://cdn.helloproject.com/img/rotation/a0c07c0768b2e8782bb8b899c8c02ca68ef31498.jpg",
+      "ts": "20220622082629"
+    },
+    {
+      "url": "https://web.archive.org/web/20211224124220if_/http://cdn.helloproject.com/img/rotation/b9cd112f04ae5a3e25f1bc417539be72777c9e66.jpg",
+      "ts": "20211224124220"
+    },
+    {
+      "url": "https://web.archive.org/web/20211224124220if_/http://cdn.helloproject.com/img/rotation/b5e9b906fc6374e354b493451c684201bc5e1945.jpg",
+      "ts": "20211224124220"
+    }
   ],
   "role": "リーダー",
   "color": {

@@ -6,25 +6,82 @@
   "nameJa": "小関舞",
   "nameKana": "オゼキ マイ",
   "images": [
-    "https://web.archive.org/web/20141231233408if_/http://cdn.helloproject.com/img/rotation/a58bea36910f98556cdc3f112f9d6a67d7bac66d.jpg",
-    "https://web.archive.org/web/20141231233408if_/http://cdn.helloproject.com/img/rotation/9fd7e02cf9b83ed3537a351f0e8872bd2ea2d5df.jpg",
-    "https://web.archive.org/web/20150317045944if_/http://cdn.helloproject.com/img/rotation/ddd232cfbe56ee12a66e8c769380ee19202f606e.jpg",
-    "https://web.archive.org/web/20150704094806if_/http://cdn.helloproject.com/img/rotation/97dab27e077a0091c2c9cdddea1d0d75cf7fbb12.jpg",
-    "https://web.archive.org/web/20150704094806if_/http://cdn.helloproject.com/img/rotation/4bd58a2f99d51a3e8a5eb7280c8b1ec13df4cb3c.jpg",
-    "https://web.archive.org/web/20160201154340if_/http://cdn.helloproject.com/img/rotation/b09db5d10eaab047fc4f562bc406f60c973bd640.jpg",
-    "https://web.archive.org/web/20160201154340if_/http://cdn.helloproject.com/img/rotation/74bba279c3e2f7ce0baa9b677ebd758d1bb3e348.jpg",
-    "https://web.archive.org/web/20160303143050if_/http://cdn.helloproject.com/img/rotation/07308498e887dd0bee0ddf4f6066704683393576.jpg",
-    "https://web.archive.org/web/20160303143050if_/http://cdn.helloproject.com/img/rotation/aa3b0fcab92037a23d0ccb81fb0c53fffafc2905.jpg",
-    "https://web.archive.org/web/20161010114900if_/http://cdn.helloproject.com/img/rotation/89e23d9a8312a4c674688999bef64c44fbe893c0.jpg",
-    "https://web.archive.org/web/20161010114900if_/http://cdn.helloproject.com/img/rotation/553b44945441ce63d04ad9e6d825e4d6c00410fc.jpg",
-    "https://web.archive.org/web/20170106014131if_/http://cdn.helloproject.com/img/rotation/841f34243a8caf947b5ea1e7f4b46909184d20d4.jpg",
-    "https://web.archive.org/web/20170106014131if_/http://cdn.helloproject.com/img/rotation/96dbbef1193b9c15fcaa269808f438beab8b5c5b.jpg",
-    "https://web.archive.org/web/20181110040402if_/http://cdn.helloproject.com/img/rotation/3bf39b09e31101fa69aaf3c39cbb56e2d0404dfc.jpg",
-    "https://web.archive.org/web/20181110040402if_/http://cdn.helloproject.com/img/rotation/2e33f55488d9ab9b41bd32176ad7050f4b172c18.jpg",
-    "https://web.archive.org/web/20190319204020if_/http://cdn.helloproject.com/img/rotation/ce39871e52a6441d238d7208e7ac846382c93b80.jpg",
-    "https://web.archive.org/web/20190319204020if_/http://cdn.helloproject.com/img/rotation/e667647fdf862d6cbb4e12865c2f24c3313917de.jpg",
-    "https://web.archive.org/web/20191119175643if_/http://cdn.helloproject.com/img/rotation/75e9ba35e878989274ae0db91f21e6e0971aa325.jpg",
-    "/images/0cb689a2f30e55e324bbb4bb29d3859719440119.jpg"
+    {
+      "url": "/images/0cb689a2f30e55e324bbb4bb29d3859719440119.jpg",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "https://web.archive.org/web/20191119175643if_/http://cdn.helloproject.com/img/rotation/75e9ba35e878989274ae0db91f21e6e0971aa325.jpg",
+      "ts": "20191119175643"
+    },
+    {
+      "url": "https://web.archive.org/web/20190319204020if_/http://cdn.helloproject.com/img/rotation/ce39871e52a6441d238d7208e7ac846382c93b80.jpg",
+      "ts": "20190319204020"
+    },
+    {
+      "url": "https://web.archive.org/web/20190319204020if_/http://cdn.helloproject.com/img/rotation/e667647fdf862d6cbb4e12865c2f24c3313917de.jpg",
+      "ts": "20190319204020"
+    },
+    {
+      "url": "https://web.archive.org/web/20181110040402if_/http://cdn.helloproject.com/img/rotation/3bf39b09e31101fa69aaf3c39cbb56e2d0404dfc.jpg",
+      "ts": "20181110040402"
+    },
+    {
+      "url": "https://web.archive.org/web/20181110040402if_/http://cdn.helloproject.com/img/rotation/2e33f55488d9ab9b41bd32176ad7050f4b172c18.jpg",
+      "ts": "20181110040402"
+    },
+    {
+      "url": "https://web.archive.org/web/20170106014131if_/http://cdn.helloproject.com/img/rotation/841f34243a8caf947b5ea1e7f4b46909184d20d4.jpg",
+      "ts": "20170106014131"
+    },
+    {
+      "url": "https://web.archive.org/web/20170106014131if_/http://cdn.helloproject.com/img/rotation/96dbbef1193b9c15fcaa269808f438beab8b5c5b.jpg",
+      "ts": "20170106014131"
+    },
+    {
+      "url": "https://web.archive.org/web/20161010114900if_/http://cdn.helloproject.com/img/rotation/89e23d9a8312a4c674688999bef64c44fbe893c0.jpg",
+      "ts": "20161010114900"
+    },
+    {
+      "url": "https://web.archive.org/web/20161010114900if_/http://cdn.helloproject.com/img/rotation/553b44945441ce63d04ad9e6d825e4d6c00410fc.jpg",
+      "ts": "20161010114900"
+    },
+    {
+      "url": "https://web.archive.org/web/20160303143050if_/http://cdn.helloproject.com/img/rotation/07308498e887dd0bee0ddf4f6066704683393576.jpg",
+      "ts": "20160303143050"
+    },
+    {
+      "url": "https://web.archive.org/web/20160303143050if_/http://cdn.helloproject.com/img/rotation/aa3b0fcab92037a23d0ccb81fb0c53fffafc2905.jpg",
+      "ts": "20160303143050"
+    },
+    {
+      "url": "https://web.archive.org/web/20160201154340if_/http://cdn.helloproject.com/img/rotation/b09db5d10eaab047fc4f562bc406f60c973bd640.jpg",
+      "ts": "20160201154340"
+    },
+    {
+      "url": "https://web.archive.org/web/20160201154340if_/http://cdn.helloproject.com/img/rotation/74bba279c3e2f7ce0baa9b677ebd758d1bb3e348.jpg",
+      "ts": "20160201154340"
+    },
+    {
+      "url": "https://web.archive.org/web/20150704094806if_/http://cdn.helloproject.com/img/rotation/97dab27e077a0091c2c9cdddea1d0d75cf7fbb12.jpg",
+      "ts": "20150704094806"
+    },
+    {
+      "url": "https://web.archive.org/web/20150704094806if_/http://cdn.helloproject.com/img/rotation/4bd58a2f99d51a3e8a5eb7280c8b1ec13df4cb3c.jpg",
+      "ts": "20150704094806"
+    },
+    {
+      "url": "https://web.archive.org/web/20150317045944if_/http://cdn.helloproject.com/img/rotation/ddd232cfbe56ee12a66e8c769380ee19202f606e.jpg",
+      "ts": "20150317045944"
+    },
+    {
+      "url": "https://web.archive.org/web/20141231233408if_/http://cdn.helloproject.com/img/rotation/a58bea36910f98556cdc3f112f9d6a67d7bac66d.jpg",
+      "ts": "20141231233408"
+    },
+    {
+      "url": "https://web.archive.org/web/20141231233408if_/http://cdn.helloproject.com/img/rotation/9fd7e02cf9b83ed3537a351f0e8872bd2ea2d5df.jpg",
+      "ts": "20141231233408"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -45,6 +102,9 @@
     "座右の銘": "楽しむ",
     "ハロー！プロジェクト加入": "2014年11月5日"
   },
-  "_nameJa": "小関舞",
+  "groups": [
+    "countrygirls",
+    "upfront"
+  ],
   "nameEn": "Mai Ozeki"
 }

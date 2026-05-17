@@ -6,8 +6,14 @@
   "nameJa": "石山咲良",
   "nameKana": "イシヤマ サクラ",
   "images": [
-    "https://web.archive.org/web/20220629140040if_/http://cdn.helloproject.com/img/rotation/bf70ebccb61d85526375c584df908288c3342576.jpg",
-    "https://web.archive.org/web/20220629140040if_/http://cdn.helloproject.com/img/rotation/f05e57ea6545ca2f82e514938ccf82c2b375d3d9.jpg"
+    {
+      "url": "https://web.archive.org/web/20220629140040if_/http://cdn.helloproject.com/img/rotation/bf70ebccb61d85526375c584df908288c3342576.jpg",
+      "ts": "20220629140040"
+    },
+    {
+      "url": "https://web.archive.org/web/20220629140040if_/http://cdn.helloproject.com/img/rotation/f05e57ea6545ca2f82e514938ccf82c2b375d3d9.jpg",
+      "ts": "20220629140040"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -25,6 +31,8 @@
     "座右の銘": "意思あるところに道は開ける",
     "ハロー！プロジェクト加入": "2020年11月(ハロプロ研修生加入日)"
   },
-  "_nameJa": "石山咲良",
+  "groups": [
+    "helloprokenshusei"
+  ],
   "nameEn": "Sakura Ishiyama"
 }

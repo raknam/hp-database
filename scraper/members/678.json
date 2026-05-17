@@ -7,8 +7,14 @@
   "nameEn": "Aoi Sakamoto",
   "nameKana": "サカモト アオイ",
   "images": [
-    "/upload/images/231c5268ee7bbddf9566644e65f76bc9807821c9.webp",
-    "/upload/images/a8c446e94141b81696163d9c8578eb42c561fd05.webp"
+    {
+      "url": "/upload/images/231c5268ee7bbddf9566644e65f76bc9807821c9.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/a8c446e94141b81696163d9c8578eb42c561fd05.webp",
+      "ts": "20260517191000"
+    }
   ],
   "details": {
     "ニックネーム": "お米ちゃん、あおりんご、さかもっちゃん、あおさん",

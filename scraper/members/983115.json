@@ -6,7 +6,10 @@
   "nameJa": "加賀楓",
   "nameKana": "カガ カエデ",
   "images": [
-    "https://web.archive.org/web/20221129181601if_/http://cdn.helloproject.com/img/rotation/4bb6610b1b6c0bd0a8046cf47312aa48c789d452.jpg"
+    {
+      "url": "https://web.archive.org/web/20221129181601if_/http://cdn.helloproject.com/img/rotation/4bb6610b1b6c0bd0a8046cf47312aa48c789d452.jpg",
+      "ts": "20221129181601"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -25,6 +28,8 @@
     "座右の銘": "何事も尽きるまで!",
     "ハロー！プロジェクト加入": "2016年12月12日 (モーニング娘。加入日)"
   },
-  "_nameJa": "加賀楓",
+  "groups": [
+    "morningmusume"
+  ],
   "nameEn": "Kaede Kaga"
 }

@@ -7,10 +7,22 @@
   "nameEn": "Marine Fukuda",
   "nameKana": "フクダ マリン",
   "images": [
-    "/upload/images/5939ac353714c917b5fdd74513b679955e4d14ec92505a8734298c484eabb0ce.webp",
-    "/upload/images/ceaa227c68d571fff782bd065d88c55575b0c3d5.webp",
-    "/upload/images/126c2067a2d44c676bbcf9efb398e4fc7930b57d0332004fd13ef5d0d6dd6393.webp",
-    "/upload/images/8312592cdcc39279e98dfa74ba55cf62c165de1b7c2d062882dcb61f166e6a1a.webp"
+    {
+      "url": "/upload/images/5939ac353714c917b5fdd74513b679955e4d14ec92505a8734298c484eabb0ce.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/ceaa227c68d571fff782bd065d88c55575b0c3d5.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/126c2067a2d44c676bbcf9efb398e4fc7930b57d0332004fd13ef5d0d6dd6393.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/8312592cdcc39279e98dfa74ba55cf62c165de1b7c2d062882dcb61f166e6a1a.webp",
+      "ts": "20260517191000"
+    }
   ],
   "color": {
     "name": "ロイヤルブルー",

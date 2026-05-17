@@ -7,8 +7,14 @@
   "nameEn": "Mifu Kawashima",
   "nameKana": "カワシマ ミフ",
   "images": [
-    "/upload/images/85ddf64ee0b91e03a4c51c851deba0bc56c919e2.webp",
-    "/upload/images/1929484dec180d142d352a320fb7e712d10568c4.webp"
+    {
+      "url": "/upload/images/85ddf64ee0b91e03a4c51c851deba0bc56c919e2.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/1929484dec180d142d352a320fb7e712d10568c4.webp",
+      "ts": "20260517191000"
+    }
   ],
   "color": {
     "name": "ピュアレッド",

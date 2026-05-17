@@ -6,7 +6,10 @@
   "nameJa": "尾形春水",
   "nameKana": "オガタ ハルナ",
   "images": [
-    "https://web.archive.org/web/20180514215822if_/http://cdn.helloproject.com/img/rotation/e9c63058417f091cd931723e14d1d4e9acc49a91.jpg"
+    {
+      "url": "https://web.archive.org/web/20180514215822if_/http://cdn.helloproject.com/img/rotation/e9c63058417f091cd931723e14d1d4e9acc49a91.jpg",
+      "ts": "20180514215822"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -25,6 +28,8 @@
     "座右の銘": "不撓不屈",
     "ハロー！プロジェクト加入": "2014年9月30日"
   },
-  "_nameJa": "尾形春水",
+  "groups": [
+    "morningmusume"
+  ],
   "nameEn": "Haruna Ogata"
 }

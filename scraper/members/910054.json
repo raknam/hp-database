@@ -6,8 +6,14 @@
   "nameJa": "吉田真理恵",
   "nameKana": "ヨシダ マリエ",
   "images": [
-    "https://web.archive.org/web/20160927173706if_/http://cdn.helloproject.com/img/rotation/404a69bb7bdc357dffc9ab5e98dd0804dbd63cdc.jpg",
-    "https://web.archive.org/web/20160927173706if_/http://cdn.helloproject.com/img/rotation/6c7c9108cc0a828f0304e173db0cb04d17cd33e6.jpg"
+    {
+      "url": "https://web.archive.org/web/20160927173706if_/http://cdn.helloproject.com/img/rotation/404a69bb7bdc357dffc9ab5e98dd0804dbd63cdc.jpg",
+      "ts": "20160927173706"
+    },
+    {
+      "url": "https://web.archive.org/web/20160927173706if_/http://cdn.helloproject.com/img/rotation/6c7c9108cc0a828f0304e173db0cb04d17cd33e6.jpg",
+      "ts": "20160927173706"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -25,6 +31,8 @@
     "座右の銘": "笑う門には福来る",
     "ハロー！プロジェクト加入": "2016年9月(ハロプロ研修生加入日)"
   },
-  "_nameJa": "吉田真理恵",
+  "groups": [
+    "helloprokenshusei"
+  ],
   "nameEn": "Marie Yoshida"
 }

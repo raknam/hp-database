@@ -6,14 +6,38 @@
   "nameJa": "小野田紗栞",
   "nameKana": "オノダ サオリ",
   "images": [
-    "https://web.archive.org/web/20150312021156if_/http://cdn.helloproject.com/img/rotation/8c737339d23a20db87a63353654722749940ec30.jpg",
-    "https://web.archive.org/web/20150312021156if_/http://cdn.helloproject.com/img/rotation/aa4bd5ba3fc29ff0d6233c2e12a01a0880ee094f.jpg",
-    "https://web.archive.org/web/20150506233054if_/http://cdn.helloproject.com/img/rotation/3cabf3cab4f4b9d15b46a68d6279de0c94757611.jpg",
-    "https://web.archive.org/web/20150506233054if_/http://cdn.helloproject.com/img/rotation/6d5462914cab64166c73867b7e0a8a48bc727f5a.jpg",
-    "https://web.archive.org/web/20160304123323if_/http://cdn.helloproject.com/img/rotation/405f694bb3634baff60a84f0d8b45bc41f062dbe.jpg",
-    "https://web.archive.org/web/20160304123323if_/http://cdn.helloproject.com/img/rotation/401e4bbc42b3067d9d294e662804a2d98e795479.jpg",
-    "https://web.archive.org/web/20160518030525if_/http://cdn.helloproject.com/img/rotation/95b7159a428c71cf0cb0b90b996606ee78de3fc0.jpg",
-    "https://web.archive.org/web/20160518030525if_/http://cdn.helloproject.com/img/rotation/b99a7b0a44dfba5bdeaae4d5a673f8947f83a7cf.jpg"
+    {
+      "url": "https://web.archive.org/web/20160518030525if_/http://cdn.helloproject.com/img/rotation/95b7159a428c71cf0cb0b90b996606ee78de3fc0.jpg",
+      "ts": "20160518030525"
+    },
+    {
+      "url": "https://web.archive.org/web/20160518030525if_/http://cdn.helloproject.com/img/rotation/b99a7b0a44dfba5bdeaae4d5a673f8947f83a7cf.jpg",
+      "ts": "20160518030525"
+    },
+    {
+      "url": "https://web.archive.org/web/20160304123323if_/http://cdn.helloproject.com/img/rotation/405f694bb3634baff60a84f0d8b45bc41f062dbe.jpg",
+      "ts": "20160304123323"
+    },
+    {
+      "url": "https://web.archive.org/web/20160304123323if_/http://cdn.helloproject.com/img/rotation/401e4bbc42b3067d9d294e662804a2d98e795479.jpg",
+      "ts": "20160304123323"
+    },
+    {
+      "url": "https://web.archive.org/web/20150506233054if_/http://cdn.helloproject.com/img/rotation/3cabf3cab4f4b9d15b46a68d6279de0c94757611.jpg",
+      "ts": "20150506233054"
+    },
+    {
+      "url": "https://web.archive.org/web/20150506233054if_/http://cdn.helloproject.com/img/rotation/6d5462914cab64166c73867b7e0a8a48bc727f5a.jpg",
+      "ts": "20150506233054"
+    },
+    {
+      "url": "https://web.archive.org/web/20150312021156if_/http://cdn.helloproject.com/img/rotation/8c737339d23a20db87a63353654722749940ec30.jpg",
+      "ts": "20150312021156"
+    },
+    {
+      "url": "https://web.archive.org/web/20150312021156if_/http://cdn.helloproject.com/img/rotation/aa4bd5ba3fc29ff0d6233c2e12a01a0880ee094f.jpg",
+      "ts": "20150312021156"
+    }
   ],
   "has_grad": true,
   "sources": [

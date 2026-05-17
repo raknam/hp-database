@@ -7,8 +7,14 @@
   "nameEn": "Airi Ohno",
   "nameKana": "オオノ アイリ",
   "images": [
-    "/upload/images/5742a67c2b1a3900a8a6554436447beb687d9be2.webp",
-    "/upload/images/62bb04d43bc4517ff48168263e33e8ba9755fbcc.webp"
+    {
+      "url": "/upload/images/5742a67c2b1a3900a8a6554436447beb687d9be2.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/62bb04d43bc4517ff48168263e33e8ba9755fbcc.webp",
+      "ts": "20260517191000"
+    }
   ],
   "details": {
     "ニックネーム": "あにゃこ",

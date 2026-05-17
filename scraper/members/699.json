@@ -7,8 +7,14 @@
   "nameEn": "Nana Tamura",
   "nameKana": "タムラ ナナ",
   "images": [
-    "/upload/images/0760bf374621b1a4452446c1a764f0dd89b728d3.webp",
-    "/upload/images/5e1fabd07cc3f55453d66638deae8d013973db96.webp"
+    {
+      "url": "/upload/images/0760bf374621b1a4452446c1a764f0dd89b728d3.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/5e1fabd07cc3f55453d66638deae8d013973db96.webp",
+      "ts": "20260517191000"
+    }
   ],
   "details": {
     "ニックネーム": "にゃにゃ",

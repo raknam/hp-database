@@ -6,8 +6,14 @@
   "nameJa": "前島花凛",
   "nameKana": "マエシマ カリン",
   "images": [
-    "https://web.archive.org/web/20220228015604if_/http://cdn.helloproject.com/img/rotation/da43d3578c1eda695ca4dd47764c5f545b3a0fcb.jpg",
-    "https://web.archive.org/web/20220228015604if_/http://cdn.helloproject.com/img/rotation/24086b16e5818ece65759fc7eeadf3fdb34af5f5.jpg"
+    {
+      "url": "https://web.archive.org/web/20220228015604if_/http://cdn.helloproject.com/img/rotation/da43d3578c1eda695ca4dd47764c5f545b3a0fcb.jpg",
+      "ts": "20220228015604"
+    },
+    {
+      "url": "https://web.archive.org/web/20220228015604if_/http://cdn.helloproject.com/img/rotation/24086b16e5818ece65759fc7eeadf3fdb34af5f5.jpg",
+      "ts": "20220228015604"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -25,6 +31,8 @@
     "座右の銘": "臥薪嘗胆、十人十色",
     "ハロー！プロジェクト加入": "2022年2月(ハロプロ研修生加入日)"
   },
-  "_nameJa": "前島花凛",
+  "groups": [
+    "helloprokenshusei"
+  ],
   "nameEn": "Karin Maeshima"
 }

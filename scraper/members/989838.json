@@ -6,24 +6,78 @@
   "nameJa": "中西香菜",
   "nameKana": "ナカニシ カナ",
   "images": [
-    "https://web.archive.org/web/20150110120025if_/http://cdn.helloproject.com/img/rotation/3cfa32b00a40f2f0e5b5c120648abb86c6358e67.jpg",
-    "https://web.archive.org/web/20150110120025if_/http://cdn.helloproject.com/img/rotation/70f67a66be0d91f1d8b2650aacb6ae1aa518143c.jpg",
-    "https://web.archive.org/web/20150710042937if_/http://cdn.helloproject.com/img/rotation/218dd185e6683be59ed8407d9b0ba4b6098818c5.jpg",
-    "https://web.archive.org/web/20150710042937if_/http://cdn.helloproject.com/img/rotation/dc122cf2d59e24da8dc420a269595ab363ee8212.jpg",
-    "https://web.archive.org/web/20151208090512if_/http://cdn.helloproject.com/img/rotation/ba089416ac9bce1b29c4cb1b3e225dda486a88a9.jpg",
-    "https://web.archive.org/web/20151208090512if_/http://cdn.helloproject.com/img/rotation/7dae06d44826929d56091307527631e01e4209e1.jpg",
-    "https://web.archive.org/web/20160421042124if_/http://cdn.helloproject.com/img/rotation/80a15f6d46cba440bb313279c1e3f62912943efd.jpg",
-    "https://web.archive.org/web/20160421042124if_/http://cdn.helloproject.com/img/rotation/3cb69028ea05c8a45f61cbc9546d28161c3b2824.jpg",
-    "https://web.archive.org/web/20161012204422if_/http://cdn.helloproject.com/img/rotation/d7344d0a22c31dce37e8a5282ec69d0f229dc3b5.jpg",
-    "https://web.archive.org/web/20161012204422if_/http://cdn.helloproject.com/img/rotation/fab04d2e189a304c5459f29b9e6e158b7dde09a6.jpg",
-    "https://web.archive.org/web/20170605200042if_/http://cdn.helloproject.com/img/rotation/f4fec4209f0889cf93e1dac6a1e9e7f16710b9e2.jpg",
-    "https://web.archive.org/web/20180316141100if_/http://cdn.helloproject.com/img/rotation/685b073abd772217dfa306975412a4923bb2f55a.jpg",
-    "https://web.archive.org/web/20180412103435if_/http://cdn.helloproject.com/img/rotation/763fc16ffc7ec95f9e0782e3af2596f7edf6dd9e.jpg",
-    "https://web.archive.org/web/20180926084022if_/http://cdn.helloproject.com/img/rotation/b1ea203af1051dd7e1ffecf387fe86350de1cfc8.jpg",
-    "https://web.archive.org/web/20190315073613if_/http://cdn.helloproject.com/img/rotation/46b440f68ff5972e66c34c29e02e2453c224df36.jpg",
-    "https://web.archive.org/web/20190515045716if_/http://cdn.helloproject.com/img/rotation/15552efecb0bbd3a46b96302bd4e277cd06f2444.jpg",
-    "https://web.archive.org/web/20190724002300if_/http://cdn.helloproject.com/img/rotation/5390a7a4f8cd13592cdab5680e2a9c88aa7f29ea.jpg",
-    "https://web.archive.org/web/20191021104459if_/http://cdn.helloproject.com/img/rotation/0f6cce0dd053b4b00cb1f943a85f866abd9a2475.jpg"
+    {
+      "url": "https://web.archive.org/web/20191021104459if_/http://cdn.helloproject.com/img/rotation/0f6cce0dd053b4b00cb1f943a85f866abd9a2475.jpg",
+      "ts": "20191021104459"
+    },
+    {
+      "url": "https://web.archive.org/web/20190724002300if_/http://cdn.helloproject.com/img/rotation/5390a7a4f8cd13592cdab5680e2a9c88aa7f29ea.jpg",
+      "ts": "20190724002300"
+    },
+    {
+      "url": "https://web.archive.org/web/20190515045716if_/http://cdn.helloproject.com/img/rotation/15552efecb0bbd3a46b96302bd4e277cd06f2444.jpg",
+      "ts": "20190515045716"
+    },
+    {
+      "url": "https://web.archive.org/web/20190315073613if_/http://cdn.helloproject.com/img/rotation/46b440f68ff5972e66c34c29e02e2453c224df36.jpg",
+      "ts": "20190315073613"
+    },
+    {
+      "url": "https://web.archive.org/web/20180926084022if_/http://cdn.helloproject.com/img/rotation/b1ea203af1051dd7e1ffecf387fe86350de1cfc8.jpg",
+      "ts": "20180926084022"
+    },
+    {
+      "url": "https://web.archive.org/web/20180412103435if_/http://cdn.helloproject.com/img/rotation/763fc16ffc7ec95f9e0782e3af2596f7edf6dd9e.jpg",
+      "ts": "20180412103435"
+    },
+    {
+      "url": "https://web.archive.org/web/20180316141100if_/http://cdn.helloproject.com/img/rotation/685b073abd772217dfa306975412a4923bb2f55a.jpg",
+      "ts": "20180316141100"
+    },
+    {
+      "url": "https://web.archive.org/web/20170605200042if_/http://cdn.helloproject.com/img/rotation/f4fec4209f0889cf93e1dac6a1e9e7f16710b9e2.jpg",
+      "ts": "20170605200042"
+    },
+    {
+      "url": "https://web.archive.org/web/20161012204422if_/http://cdn.helloproject.com/img/rotation/d7344d0a22c31dce37e8a5282ec69d0f229dc3b5.jpg",
+      "ts": "20161012204422"
+    },
+    {
+      "url": "https://web.archive.org/web/20161012204422if_/http://cdn.helloproject.com/img/rotation/fab04d2e189a304c5459f29b9e6e158b7dde09a6.jpg",
+      "ts": "20161012204422"
+    },
+    {
+      "url": "https://web.archive.org/web/20160421042124if_/http://cdn.helloproject.com/img/rotation/80a15f6d46cba440bb313279c1e3f62912943efd.jpg",
+      "ts": "20160421042124"
+    },
+    {
+      "url": "https://web.archive.org/web/20160421042124if_/http://cdn.helloproject.com/img/rotation/3cb69028ea05c8a45f61cbc9546d28161c3b2824.jpg",
+      "ts": "20160421042124"
+    },
+    {
+      "url": "https://web.archive.org/web/20151208090512if_/http://cdn.helloproject.com/img/rotation/ba089416ac9bce1b29c4cb1b3e225dda486a88a9.jpg",
+      "ts": "20151208090512"
+    },
+    {
+      "url": "https://web.archive.org/web/20151208090512if_/http://cdn.helloproject.com/img/rotation/7dae06d44826929d56091307527631e01e4209e1.jpg",
+      "ts": "20151208090512"
+    },
+    {
+      "url": "https://web.archive.org/web/20150710042937if_/http://cdn.helloproject.com/img/rotation/218dd185e6683be59ed8407d9b0ba4b6098818c5.jpg",
+      "ts": "20150710042937"
+    },
+    {
+      "url": "https://web.archive.org/web/20150710042937if_/http://cdn.helloproject.com/img/rotation/dc122cf2d59e24da8dc420a269595ab363ee8212.jpg",
+      "ts": "20150710042937"
+    },
+    {
+      "url": "https://web.archive.org/web/20150110120025if_/http://cdn.helloproject.com/img/rotation/3cfa32b00a40f2f0e5b5c120648abb86c6358e67.jpg",
+      "ts": "20150110120025"
+    },
+    {
+      "url": "https://web.archive.org/web/20150110120025if_/http://cdn.helloproject.com/img/rotation/70f67a66be0d91f1d8b2650aacb6ae1aa518143c.jpg",
+      "ts": "20150110120025"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -42,6 +96,8 @@
     "座右の銘": "刻苦勉励",
     "ハロー！プロジェクト加入": "2011年8月14日 (スマイレージ加入日)"
   },
-  "_nameJa": "中西香菜",
+  "groups": [
+    "angerme"
+  ],
   "nameEn": "Kana Nakanishi"
 }

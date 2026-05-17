@@ -16,6 +16,8 @@
     "血液型": "A型",
     "出身地": "千葉県"
   },
-  "_nameJa": "窪田七海",
+  "groups": [
+    "helloprokenshusei"
+  ],
   "nameEn": "Nanami Kubota"
 }

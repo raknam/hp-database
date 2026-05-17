@@ -7,8 +7,14 @@
   "nameEn": "Riho Miyazaki",
   "nameKana": "ミヤザキ リホ",
   "images": [
-    "/upload/images/a56842c0b01eac39372f24df262debf0e7789aec.webp",
-    "/upload/images/db1026f4f1d9ddaf99309bf50a108624ebec831f.webp"
+    {
+      "url": "/upload/images/a56842c0b01eac39372f24df262debf0e7789aec.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/db1026f4f1d9ddaf99309bf50a108624ebec831f.webp",
+      "ts": "20260517191000"
+    }
   ],
   "details": {
     "ニックネーム": "りーちゃん、りほほ",

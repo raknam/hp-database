@@ -7,10 +7,78 @@
   "nameEn": "Runo Yofu",
   "nameKana": "ヨフウ ルノ",
   "images": [
-    "/upload/images/c5db05aeb0380e14b190f3304caebb4793d993e10fc64ae90e311047930eb559.webp",
-    "/upload/images/591db32c26d999c4815f1e3ff0bdabcab4ffcb1a.webp",
-    "/upload/images/cc6ea8fe87a759c3983ccfbe4b04047485cd4e2b455f3f328ba850966c41eb77.webp",
-    "/upload/images/93bbdf759e54d724cf6556224f82dc555ddad1950351e8ae09d3f21ace32d182.webp"
+    {
+      "url": "/upload/images/c5db05aeb0380e14b190f3304caebb4793d993e10fc64ae90e311047930eb559.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/591db32c26d999c4815f1e3ff0bdabcab4ffcb1a.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/cc6ea8fe87a759c3983ccfbe4b04047485cd4e2b455f3f328ba850966c41eb77.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/93bbdf759e54d724cf6556224f82dc555ddad1950351e8ae09d3f21ace32d182.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "https://web.archive.org/web/20241103032932if_/https://cdn.helloproject.com/img/rotation/df7eee436b76fee330fc05d9098bd5ce1a17d758.jpg",
+      "ts": "20241103032932"
+    },
+    {
+      "url": "https://web.archive.org/web/20241103032932if_/https://cdn.helloproject.com/img/rotation/e231dd89e0b03698be0616b1baba5c5f3dd6d36f.jpg",
+      "ts": "20241103032932"
+    },
+    {
+      "url": "https://web.archive.org/web/20240713191833if_/http://cdn.helloproject.com/img/rotation/df7eee436b76fee330fc05d9098bd5ce1a17d758.jpg",
+      "ts": "20240713191833"
+    },
+    {
+      "url": "https://web.archive.org/web/20240713191833if_/http://cdn.helloproject.com/img/rotation/e231dd89e0b03698be0616b1baba5c5f3dd6d36f.jpg",
+      "ts": "20240713191833"
+    },
+    {
+      "url": "https://web.archive.org/web/20240402022254if_/http://cdn.helloproject.com/img/rotation/7d822cb769a3cdd5f6c4e404dd89266b4cabc57a.jpg",
+      "ts": "20240402022254"
+    },
+    {
+      "url": "https://web.archive.org/web/20240402022254if_/http://cdn.helloproject.com/img/rotation/9ee0769c4e7e07a7216477f725e3401b88fbf56a.jpg",
+      "ts": "20240402022254"
+    },
+    {
+      "url": "https://web.archive.org/web/20231231220116if_/http://cdn.helloproject.com/img/rotation/04f4783c1c9a62f5a4fed4af9c17e01357ba1e14.jpg",
+      "ts": "20231231220116"
+    },
+    {
+      "url": "https://web.archive.org/web/20231020234024if_/http://cdn.helloproject.com/img/rotation/8cbcfe7d1b133f227578025051c52eca550b744e.jpg",
+      "ts": "20231020234024"
+    },
+    {
+      "url": "https://web.archive.org/web/20230207120957if_/http://cdn.helloproject.com/img/rotation/a01651e67ddb672eb39d6bb562571e8a85a241f6.jpg",
+      "ts": "20230207120957"
+    },
+    {
+      "url": "https://web.archive.org/web/20221231160902if_/http://cdn.helloproject.com/img/rotation/432a16b406b294b2f6c0589ef0a9d2b1f9b3adbc.jpg",
+      "ts": "20221231160902"
+    },
+    {
+      "url": "https://web.archive.org/web/20220601010746if_/http://cdn.helloproject.com/img/rotation/7fb1d92992be865568938fa88d1fa938a4f88b08.jpg",
+      "ts": "20220601010746"
+    },
+    {
+      "url": "https://web.archive.org/web/20211123115152if_/http://cdn.helloproject.com/img/rotation/b091334c46a382858126377d1e30f6503c85401f.jpg",
+      "ts": "20211123115152"
+    },
+    {
+      "url": "https://web.archive.org/web/20210918225942if_/http://cdn.helloproject.com/img/rotation/eecd517162884af346f0b94ebfde1518d7b77912.jpg",
+      "ts": "20210918225942"
+    },
+    {
+      "url": "https://web.archive.org/web/20210707105515if_/http://cdn.helloproject.com/img/rotation/b809ab75dbc944d8db2a3f8c81076a6601898f3d.jpg",
+      "ts": "20210707105515"
+    }
   ],
   "color": {
     "name": "マスタード",

@@ -6,8 +6,14 @@
   "nameJa": "佐藤優樹",
   "nameKana": "サトウ マサキ",
   "images": [
-    "https://web.archive.org/web/20211025235402if_/http://cdn.helloproject.com/img/rotation/9717edc93c0a0b94e384e33cc3579c072ce20cf6.jpg",
-    "/images/bab6242b87a853f97dec754d9e2ace25c1d611c1.jpg"
+    {
+      "url": "/images/bab6242b87a853f97dec754d9e2ace25c1d611c1.jpg",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "https://web.archive.org/web/20211025235402if_/http://cdn.helloproject.com/img/rotation/9717edc93c0a0b94e384e33cc3579c072ce20cf6.jpg",
+      "ts": "20211025235402"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -28,6 +34,9 @@
     "座右の銘": "うるさくしない",
     "ハロー！プロジェクト加入": "2011年9月29日 (モーニング娘。加入日)"
   },
-  "_nameJa": "佐藤優樹",
+  "groups": [
+    "morningmusume",
+    "upfront"
+  ],
   "nameEn": "Masaki Sato"
 }

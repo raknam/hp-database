@@ -6,13 +6,34 @@
   "nameJa": "菅谷梨沙子",
   "nameKana": "スガヤリサコ",
   "images": [
-    "https://web.archive.org/web/20140424045032if_/http://cdn.helloproject.com/img/rotation/6926baffb070aff792c150916ca61e56987f8f1b.jpg",
-    "https://web.archive.org/web/20140424045032if_/http://cdn.helloproject.com/img/rotation/d1d2f03899888a4e2edf525395e1fdf534f8d519.jpg",
-    "https://web.archive.org/web/20140702020411if_/http://cdn.helloproject.com/img/rotation/317a307f8eb6564eba3e5407763fd350da199956.jpg",
-    "https://web.archive.org/web/20140702020411if_/http://cdn.helloproject.com/img/rotation/a1fa69bb02ddf7d78a870d12ca7dff4198ef5ab9.jpg",
-    "https://web.archive.org/web/20141207141349if_/http://cdn.helloproject.com/img/rotation/guMjeNWbeqc59ykhDEEiv4eMxrsaLq3FWWY7EHF4.jpg",
-    "https://web.archive.org/web/20141207141349if_/http://cdn.helloproject.com/img/rotation/qPDtKE7YmNPqxUDdjLFQXi6XNEJb4g4cNkGLeWjR.jpg",
-    "https://web.archive.org/web/20150101072945if_/http://cdn.helloproject.com/img/rotation/46b3c7d0fed117595e2914f58fbf0913ed92e1c9.jpg"
+    {
+      "url": "https://web.archive.org/web/20150101072945if_/http://cdn.helloproject.com/img/rotation/46b3c7d0fed117595e2914f58fbf0913ed92e1c9.jpg",
+      "ts": "20150101072945"
+    },
+    {
+      "url": "https://web.archive.org/web/20141207141349if_/http://cdn.helloproject.com/img/rotation/guMjeNWbeqc59ykhDEEiv4eMxrsaLq3FWWY7EHF4.jpg",
+      "ts": "20141207141349"
+    },
+    {
+      "url": "https://web.archive.org/web/20141207141349if_/http://cdn.helloproject.com/img/rotation/qPDtKE7YmNPqxUDdjLFQXi6XNEJb4g4cNkGLeWjR.jpg",
+      "ts": "20141207141349"
+    },
+    {
+      "url": "https://web.archive.org/web/20140702020411if_/http://cdn.helloproject.com/img/rotation/317a307f8eb6564eba3e5407763fd350da199956.jpg",
+      "ts": "20140702020411"
+    },
+    {
+      "url": "https://web.archive.org/web/20140702020411if_/http://cdn.helloproject.com/img/rotation/a1fa69bb02ddf7d78a870d12ca7dff4198ef5ab9.jpg",
+      "ts": "20140702020411"
+    },
+    {
+      "url": "https://web.archive.org/web/20140424045032if_/http://cdn.helloproject.com/img/rotation/6926baffb070aff792c150916ca61e56987f8f1b.jpg",
+      "ts": "20140424045032"
+    },
+    {
+      "url": "https://web.archive.org/web/20140424045032if_/http://cdn.helloproject.com/img/rotation/d1d2f03899888a4e2edf525395e1fdf534f8d519.jpg",
+      "ts": "20140424045032"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -31,6 +52,8 @@
     "座右の銘": "粉骨砕身",
     "ハロー！プロジェクト加入": "2004年1月14日 (Berryz工房結成日)"
   },
-  "_nameJa": "菅谷梨沙子",
+  "groups": [
+    "berryzkobo"
+  ],
   "nameEn": "Risako Sugaya"
 }

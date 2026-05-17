@@ -7,8 +7,14 @@
   "nameEn": "Karin Nemoto",
   "nameKana": "ネモト カリン",
   "images": [
-    "/upload/images/ca36806ad85c57a551a5bfde15ed5e6b3df641ad.webp",
-    "/upload/images/768dfefa001fe715b2a7121b6c32593098eab584.webp"
+    {
+      "url": "/upload/images/ca36806ad85c57a551a5bfde15ed5e6b3df641ad.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/768dfefa001fe715b2a7121b6c32593098eab584.webp",
+      "ts": "20260517191000"
+    }
   ],
   "details": {
     "ニックネーム": "ねもかり",

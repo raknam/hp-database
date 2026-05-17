@@ -7,8 +7,14 @@
   "nameEn": "Yume Soma",
   "nameKana": "ソウマ ユメ",
   "images": [
-    "/upload/images/48d681aeb3479dc04fce0afefb0dd48afc2540da.webp",
-    "/upload/images/054f9d2c8d0619067bdbf83342fdb46aac94460f.webp"
+    {
+      "url": "/upload/images/48d681aeb3479dc04fce0afefb0dd48afc2540da.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/054f9d2c8d0619067bdbf83342fdb46aac94460f.webp",
+      "ts": "20260517191000"
+    }
   ],
   "color": {
     "name": "ブルー",

@@ -9,7 +9,13 @@
   ],
   "bio": "ニックネーム：きっか 生年月日：1992/05/01 出身地：茨城県 血液型：A 型",
   "images": [
-    "/images/dca5645dc47bd890cde31f2a96be368998c33219.jpg"
+    {
+      "url": "/images/dca5645dc47bd890cde31f2a96be368998c33219.jpg",
+      "ts": "20260517191000"
+    }
+  ],
+  "groups": [
+    "upfront"
   ],
   "nameEn": "Kikkawa You"
 }

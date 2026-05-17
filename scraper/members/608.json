@@ -7,15 +7,42 @@
   "nameEn": "Momo Kitahara",
   "nameKana": "キタハラ モモ",
   "images": [
-    "https://web.archive.org/web/20211224041345if_/http://cdn.helloproject.com/img/rotation/df9f59655cc59400ee82a8b8ffac00512f49a158.jpg",
-    "https://web.archive.org/web/20211224041345if_/http://cdn.helloproject.com/img/rotation/fb2c06685f46875f0e1c1ed0d5b418b5eea18782.jpg",
-    "https://web.archive.org/web/20220622082628if_/http://cdn.helloproject.com/img/rotation/c615a4180260e0451b8c8f002e4da583ff9f19e0.jpg",
-    "https://web.archive.org/web/20221003135120if_/http://cdn.helloproject.com/img/rotation/a5585e2f88925eb5de3f8992c82ca55a2af74c46.jpg",
-    "https://web.archive.org/web/20230612171347if_/http://cdn.helloproject.com/img/rotation/95c5c1a74999f10ea739ce6ff3a80095938bbcd4.jpg",
-    "https://web.archive.org/web/20231106031709if_/http://cdn.helloproject.com/img/rotation/a006c9cc11387abfd156c9bc2d990cf8e8640bd2.jpg",
-    "https://web.archive.org/web/20240713193150if_/http://cdn.helloproject.com/img/rotation/f805a3cb3784385a7e8b9c46d90dfcd6de610334.jpg",
-    "https://web.archive.org/web/20241130192709if_/https://cdn.helloproject.com/img/rotation/f805a3cb3784385a7e8b9c46d90dfcd6de610334.jpg",
-    "/upload/images/28f0253a0baed0f0b47965c67650156865499d23.webp"
+    {
+      "url": "/upload/images/28f0253a0baed0f0b47965c67650156865499d23.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "https://web.archive.org/web/20241130192709if_/https://cdn.helloproject.com/img/rotation/f805a3cb3784385a7e8b9c46d90dfcd6de610334.jpg",
+      "ts": "20241130192709"
+    },
+    {
+      "url": "https://web.archive.org/web/20240713193150if_/http://cdn.helloproject.com/img/rotation/f805a3cb3784385a7e8b9c46d90dfcd6de610334.jpg",
+      "ts": "20240713193150"
+    },
+    {
+      "url": "https://web.archive.org/web/20231106031709if_/http://cdn.helloproject.com/img/rotation/a006c9cc11387abfd156c9bc2d990cf8e8640bd2.jpg",
+      "ts": "20231106031709"
+    },
+    {
+      "url": "https://web.archive.org/web/20230612171347if_/http://cdn.helloproject.com/img/rotation/95c5c1a74999f10ea739ce6ff3a80095938bbcd4.jpg",
+      "ts": "20230612171347"
+    },
+    {
+      "url": "https://web.archive.org/web/20221003135120if_/http://cdn.helloproject.com/img/rotation/a5585e2f88925eb5de3f8992c82ca55a2af74c46.jpg",
+      "ts": "20221003135120"
+    },
+    {
+      "url": "https://web.archive.org/web/20220622082628if_/http://cdn.helloproject.com/img/rotation/c615a4180260e0451b8c8f002e4da583ff9f19e0.jpg",
+      "ts": "20220622082628"
+    },
+    {
+      "url": "https://web.archive.org/web/20211224041345if_/http://cdn.helloproject.com/img/rotation/df9f59655cc59400ee82a8b8ffac00512f49a158.jpg",
+      "ts": "20211224041345"
+    },
+    {
+      "url": "https://web.archive.org/web/20211224041345if_/http://cdn.helloproject.com/img/rotation/fb2c06685f46875f0e1c1ed0d5b418b5eea18782.jpg",
+      "ts": "20211224041345"
+    }
   ],
   "color": {
     "name": "ライトグリーン",

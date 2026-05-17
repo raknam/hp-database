@@ -6,14 +6,38 @@
   "nameJa": "上村麗菜",
   "nameKana": "カミムラ レナ",
   "images": [
-    "https://web.archive.org/web/20220809033228if_/http://cdn.helloproject.com/img/rotation/6e90e8fcbcce25185c08e7410f2243a3a08fb81a.jpg",
-    "https://web.archive.org/web/20220809033228if_/http://cdn.helloproject.com/img/rotation/7920b565d09ec8bdb5032b822dda20fca82c2195.jpg",
-    "https://web.archive.org/web/20230313133713if_/http://cdn.helloproject.com/img/rotation/f441a7bdde09078969f45e89b8a0e40f2797de24.jpg",
-    "https://web.archive.org/web/20230313133713if_/http://cdn.helloproject.com/img/rotation/c3e220a13414d5523ee845d9eba3382d4a6e0a7c.jpg",
-    "https://web.archive.org/web/20230919025917if_/http://cdn.helloproject.com/img/rotation/008dd94d8ba0cc09a63d974f43560a7532368f09.jpg",
-    "https://web.archive.org/web/20230919025917if_/http://cdn.helloproject.com/img/rotation/87117efc3dc22d70b1d4277ed075e23837eb4a2f.jpg",
-    "https://web.archive.org/web/20240207130925if_/http://cdn.helloproject.com/img/rotation/793182580adf949a6f4648f74f0dd6398658e0a2.jpg",
-    "https://web.archive.org/web/20240207130925if_/http://cdn.helloproject.com/img/rotation/910d980da8cfa257f1ae4bfb87217119d8815658.jpg"
+    {
+      "url": "https://web.archive.org/web/20240207130925if_/http://cdn.helloproject.com/img/rotation/793182580adf949a6f4648f74f0dd6398658e0a2.jpg",
+      "ts": "20240207130925"
+    },
+    {
+      "url": "https://web.archive.org/web/20240207130925if_/http://cdn.helloproject.com/img/rotation/910d980da8cfa257f1ae4bfb87217119d8815658.jpg",
+      "ts": "20240207130925"
+    },
+    {
+      "url": "https://web.archive.org/web/20230919025917if_/http://cdn.helloproject.com/img/rotation/008dd94d8ba0cc09a63d974f43560a7532368f09.jpg",
+      "ts": "20230919025917"
+    },
+    {
+      "url": "https://web.archive.org/web/20230919025917if_/http://cdn.helloproject.com/img/rotation/87117efc3dc22d70b1d4277ed075e23837eb4a2f.jpg",
+      "ts": "20230919025917"
+    },
+    {
+      "url": "https://web.archive.org/web/20230313133713if_/http://cdn.helloproject.com/img/rotation/f441a7bdde09078969f45e89b8a0e40f2797de24.jpg",
+      "ts": "20230313133713"
+    },
+    {
+      "url": "https://web.archive.org/web/20230313133713if_/http://cdn.helloproject.com/img/rotation/c3e220a13414d5523ee845d9eba3382d4a6e0a7c.jpg",
+      "ts": "20230313133713"
+    },
+    {
+      "url": "https://web.archive.org/web/20220809033228if_/http://cdn.helloproject.com/img/rotation/6e90e8fcbcce25185c08e7410f2243a3a08fb81a.jpg",
+      "ts": "20220809033228"
+    },
+    {
+      "url": "https://web.archive.org/web/20220809033228if_/http://cdn.helloproject.com/img/rotation/7920b565d09ec8bdb5032b822dda20fca82c2195.jpg",
+      "ts": "20220809033228"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -31,6 +55,8 @@
     "座右の銘": "好きこそ物の上手なれ",
     "ハロー！プロジェクト加入": "2022年8月(ハロプロ研修生加入日)"
   },
-  "_nameJa": "上村麗菜",
+  "groups": [
+    "helloprokenshusei"
+  ],
   "nameEn": "Rena Kamimura"
 }

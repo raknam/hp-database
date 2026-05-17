@@ -7,8 +7,14 @@
   "nameEn": "Akari Endo",
   "nameKana": "エンドウ アカリ",
   "images": [
-    "/upload/images/f545c3cee5c6d1bd7919e9dfa2c125329cae9ff9.webp",
-    "/upload/images/9e9d22532124a61d0526ba6babd24511da03461b.webp"
+    {
+      "url": "/upload/images/f545c3cee5c6d1bd7919e9dfa2c125329cae9ff9.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/9e9d22532124a61d0526ba6babd24511da03461b.webp",
+      "ts": "20260517191000"
+    }
   ],
   "color": {
     "name": "ミントグリーン",

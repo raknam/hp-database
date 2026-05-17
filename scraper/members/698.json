@@ -7,8 +7,14 @@
   "nameEn": "Momoka Kishida",
   "nameKana": "キシダ モモカ",
   "images": [
-    "/upload/images/f22f551d242c43569f01bdb5ccd287ef153945b3.webp",
-    "/upload/images/926a33e3ba38397fd808cfd4c5d2910bfdaeac18.webp"
+    {
+      "url": "/upload/images/f22f551d242c43569f01bdb5ccd287ef153945b3.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/926a33e3ba38397fd808cfd4c5d2910bfdaeac18.webp",
+      "ts": "20260517191000"
+    }
   ],
   "details": {
     "ニックネーム": "ももちゃん、もも",

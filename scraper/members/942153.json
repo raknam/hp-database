@@ -6,9 +6,18 @@
   "nameJa": "島村嬉唄",
   "nameKana": "シマムラ ウタ",
   "images": [
-    "https://web.archive.org/web/20141231233056if_/http://cdn.helloproject.com/img/rotation/3f3c4f1ff6c52b4b00e2af9f4ac964cb9ef2865c.jpg",
-    "https://web.archive.org/web/20141231233056if_/http://cdn.helloproject.com/img/rotation/370f7cd31e7a9fe8907985805893c7f989a3b163.jpg",
-    "https://web.archive.org/web/20150317042405if_/http://cdn.helloproject.com/img/rotation/b77740a216f422e885f98b1f88f7527c8a272cb5.jpg"
+    {
+      "url": "https://web.archive.org/web/20150317042405if_/http://cdn.helloproject.com/img/rotation/b77740a216f422e885f98b1f88f7527c8a272cb5.jpg",
+      "ts": "20150317042405"
+    },
+    {
+      "url": "https://web.archive.org/web/20141231233056if_/http://cdn.helloproject.com/img/rotation/3f3c4f1ff6c52b4b00e2af9f4ac964cb9ef2865c.jpg",
+      "ts": "20141231233056"
+    },
+    {
+      "url": "https://web.archive.org/web/20141231233056if_/http://cdn.helloproject.com/img/rotation/370f7cd31e7a9fe8907985805893c7f989a3b163.jpg",
+      "ts": "20141231233056"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -27,6 +36,8 @@
     "座右の銘": "一期一会",
     "ハロー！プロジェクト加入": "2014年11月5日"
   },
-  "_nameJa": "島村嬉唄",
+  "groups": [
+    "countrygirls"
+  ],
   "nameEn": "Uta Shimamura"
 }

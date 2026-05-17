@@ -7,8 +7,58 @@
   "nameEn": "Kisaki Ebata",
   "nameKana": "エバタ キサキ",
   "images": [
-    "/upload/images/ddfabf23d74ded8ce235bb753ef9bcfe9ebaf768.webp",
-    "/upload/images/a2ed8fa4f29dba9040e2ce4c75baa810d8cb4dc7.webp"
+    {
+      "url": "/upload/images/ddfabf23d74ded8ce235bb753ef9bcfe9ebaf768.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/a2ed8fa4f29dba9040e2ce4c75baa810d8cb4dc7.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "https://web.archive.org/web/20250101032100if_/https://cdn.helloproject.com/img/rotation/9595698b5513e397df46da879670224fa6a0d07f.jpg",
+      "ts": "20250101032100"
+    },
+    {
+      "url": "https://web.archive.org/web/20241103113326if_/https://cdn.helloproject.com/img/rotation/4218db435f90368936b1fbae2c01e949def2994c.jpg",
+      "ts": "20241103113326"
+    },
+    {
+      "url": "https://web.archive.org/web/20240323162753if_/http://cdn.helloproject.com/img/rotation/4218db435f90368936b1fbae2c01e949def2994c.jpg",
+      "ts": "20240323162753"
+    },
+    {
+      "url": "https://web.archive.org/web/20230828213027if_/http://cdn.helloproject.com/img/rotation/0d478079836dc32d8d338b5fc7958d4130bf15d3.jpg",
+      "ts": "20230828213027"
+    },
+    {
+      "url": "https://web.archive.org/web/20230725093551if_/http://cdn.helloproject.com/img/rotation/19cefcbb5797c46a8bd2950b8f5bb993275db1f6.jpg",
+      "ts": "20230725093551"
+    },
+    {
+      "url": "https://web.archive.org/web/20221017082056if_/http://cdn.helloproject.com/img/rotation/8f7edc3c0d04c98f84f584c63be0a38dd76b417c.jpg",
+      "ts": "20221017082056"
+    },
+    {
+      "url": "https://web.archive.org/web/20220513053832if_/http://cdn.helloproject.com/img/rotation/096bd1f35463d874a6fbdae4aeb7370e2bc6981f.jpg",
+      "ts": "20220513053832"
+    },
+    {
+      "url": "https://web.archive.org/web/20211130202042if_/http://cdn.helloproject.com/img/rotation/27082c55fd456ae28a10d5211250ed02fa58d2ec.jpg",
+      "ts": "20211130202042"
+    },
+    {
+      "url": "https://web.archive.org/web/20210919000308if_/http://cdn.helloproject.com/img/rotation/4f6eb8b98eefd04e8743f1800a5512f8c26f0b04.jpg",
+      "ts": "20210919000308"
+    },
+    {
+      "url": "https://web.archive.org/web/20210707105426if_/http://cdn.helloproject.com/img/rotation/344d672087578807a3ee3118c7713a27ac37b560.jpg",
+      "ts": "20210707105426"
+    },
+    {
+      "url": "https://web.archive.org/web/20210707105426if_/http://cdn.helloproject.com/img/rotation/326df17d040a0f5b761e260163b6ca6fdca3bc7c.jpg",
+      "ts": "20210707105426"
+    }
   ],
   "color": {
     "name": "デイジー",

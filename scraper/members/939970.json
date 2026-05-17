@@ -6,8 +6,14 @@
   "nameJa": "島川波菜",
   "nameKana": "シマカワ ハナ",
   "images": [
-    "https://web.archive.org/web/20240207120135if_/http://cdn.helloproject.com/img/rotation/f7e3402a741b0e206f9296291b71c94f4e35ea26.jpg",
-    "https://web.archive.org/web/20240207120135if_/http://cdn.helloproject.com/img/rotation/2cf7f8700ffb83d4c2ea9d26a8dcc4461ab5ce75.jpg"
+    {
+      "url": "https://web.archive.org/web/20240207120135if_/http://cdn.helloproject.com/img/rotation/f7e3402a741b0e206f9296291b71c94f4e35ea26.jpg",
+      "ts": "20240207120135"
+    },
+    {
+      "url": "https://web.archive.org/web/20240207120135if_/http://cdn.helloproject.com/img/rotation/2cf7f8700ffb83d4c2ea9d26a8dcc4461ab5ce75.jpg",
+      "ts": "20240207120135"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -24,6 +30,8 @@
     "座右の銘": "好きこそ力 好きなら続く",
     "ハロー！プロジェクト加入": "2024年2月(ハロプロ研修生加入日)"
   },
-  "_nameJa": "島川波菜",
+  "groups": [
+    "helloprokenshusei"
+  ],
   "nameEn": "Hana Shimakawa"
 }

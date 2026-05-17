@@ -16,6 +16,8 @@
     "血液型": "B型",
     "出身地": "大阪府"
   },
-  "_nameJa": "秋山眞緒",
+  "groups": [
+    "helloprokenshusei"
+  ],
   "nameEn": "Mao Akiyama"
 }

@@ -6,8 +6,14 @@
   "nameJa": "川嶋美楓",
   "nameKana": "カワシマ ミフ",
   "images": [
-    "https://web.archive.org/web/20230523133113if_/http://cdn.helloproject.com/img/rotation/d5113ed346c1effa474a3c56ddf2ff642300ff91.jpg",
-    "https://web.archive.org/web/20230523133113if_/http://cdn.helloproject.com/img/rotation/008f65d7eb7c2d90bbe82c14f3105a3c96fb7ba3.jpg"
+    {
+      "url": "https://web.archive.org/web/20230523133113if_/http://cdn.helloproject.com/img/rotation/d5113ed346c1effa474a3c56ddf2ff642300ff91.jpg",
+      "ts": "20230523133113"
+    },
+    {
+      "url": "https://web.archive.org/web/20230523133113if_/http://cdn.helloproject.com/img/rotation/008f65d7eb7c2d90bbe82c14f3105a3c96fb7ba3.jpg",
+      "ts": "20230523133113"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -24,6 +30,8 @@
     "座右の銘": "雲の上はいつも晴れ",
     "ハロー！プロジェクト加入": "2021年8月(ハロプロ研修生加入日)"
   },
-  "_nameJa": "川嶋美楓",
+  "groups": [
+    "helloprokenshusei"
+  ],
   "nameEn": "Mifu Kawashima"
 }

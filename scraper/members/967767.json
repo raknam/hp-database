@@ -6,8 +6,14 @@
   "nameJa": "鈴木香音",
   "nameKana": "スズキ カノン",
   "images": [
-    "https://web.archive.org/web/20160402213841if_/http://cdn.helloproject.com/img/rotation/bcf841de9123c288ba1f2d532c05dbb428ad33f1.jpg",
-    "https://web.archive.org/web/20160402213841if_/http://cdn.helloproject.com/img/rotation/8a1e6b97a2168201773ff13c39a46fb74f0b6d87.jpg"
+    {
+      "url": "https://web.archive.org/web/20160402213841if_/http://cdn.helloproject.com/img/rotation/bcf841de9123c288ba1f2d532c05dbb428ad33f1.jpg",
+      "ts": "20160402213841"
+    },
+    {
+      "url": "https://web.archive.org/web/20160402213841if_/http://cdn.helloproject.com/img/rotation/8a1e6b97a2168201773ff13c39a46fb74f0b6d87.jpg",
+      "ts": "20160402213841"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -26,6 +32,8 @@
     "座右の銘": "笑顔第一！",
     "ハロー！プロジェクト加入": "2011年1月2日"
   },
-  "_nameJa": "鈴木香音",
+  "groups": [
+    "morningmusume"
+  ],
   "nameEn": "Kanon Suzuki"
 }

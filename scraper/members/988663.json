@@ -16,6 +16,8 @@
     "血液型": "A型",
     "出身地": "石川県"
   },
-  "_nameJa": "中山夏月姫",
+  "groups": [
+    "helloprokenshusei"
+  ],
   "nameEn": "Natsume Nakayama"
 }

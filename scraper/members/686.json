@@ -7,8 +7,14 @@
   "nameEn": "Aika Higuchi",
   "nameKana": "ヒグチ アイカ",
   "images": [
-    "/upload/images/fa6d686e6c0c363d77bed46fb1f52884a0bed9d8.webp",
-    "/upload/images/c64f917ac8ae4513e3831cf4cd432787cddb4a93.webp"
+    {
+      "url": "/upload/images/fa6d686e6c0c363d77bed46fb1f52884a0bed9d8.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/c64f917ac8ae4513e3831cf4cd432787cddb4a93.webp",
+      "ts": "20260517191000"
+    }
   ],
   "details": {
     "ニックネーム": "あいきゃ",

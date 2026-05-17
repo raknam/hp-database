@@ -6,23 +6,74 @@
   "nameJa": "笠原桃奈",
   "nameKana": "カサハラ モモナ",
   "images": [
-    "https://web.archive.org/web/20160820034704if_/http://cdn.helloproject.com/img/rotation/05f39a9743d5d92ab19e16ec890a264ab25980c9.jpg",
-    "https://web.archive.org/web/20160820034704if_/http://cdn.helloproject.com/img/rotation/ec5553123ba0c5475cb92786d963be45865f4990.jpg",
-    "https://web.archive.org/web/20161113042805if_/http://cdn.helloproject.com/img/rotation/9c53094e7c91657afe674e8cc4781a360e946fc5.jpg",
-    "https://web.archive.org/web/20161113042805if_/http://cdn.helloproject.com/img/rotation/0aa40477bc8d87ba16c90cc2daa4d710f3eb0289.jpg",
-    "https://web.archive.org/web/20170619061234if_/http://cdn.helloproject.com/img/rotation/b1e81d2577d5a45879fef8c591518fe90dd388aa.jpg",
-    "https://web.archive.org/web/20171218042418if_/http://cdn.helloproject.com/img/rotation/5a74e16d2fefa061a6d2baf7c4c485be681b486f.jpg",
-    "https://web.archive.org/web/20180413144925if_/http://cdn.helloproject.com/img/rotation/e48d0419d0b0b1fff897e35588eb4d418cb634c9.jpg",
-    "https://web.archive.org/web/20180927114237if_/http://cdn.helloproject.com/img/rotation/9d8e8320b3dc85e8a28167ae5497b3483e2c25b0.jpg",
-    "https://web.archive.org/web/20190316074326if_/http://cdn.helloproject.com/img/rotation/f70d985162317532e99c87c6e63885337fbf4959.jpg",
-    "https://web.archive.org/web/20190615015103if_/http://cdn.helloproject.com/img/rotation/57f5f071681f7d50de6aefb47000bc2c6098c669.jpg",
-    "https://web.archive.org/web/20190821065953if_/http://cdn.helloproject.com/img/rotation/b8f10c245cc08255fde3bb69dd31e195a4ff841c.jpg",
-    "https://web.archive.org/web/20191020184254if_/http://cdn.helloproject.com/img/rotation/34d1913a7185e044e31fc954fc7333a012ab203e.jpg",
-    "https://web.archive.org/web/20200921051927if_/http://cdn.helloproject.com/img/rotation/57c32b700e8cc492ee2d883d4403e58de6332830.jpg",
-    "https://web.archive.org/web/20201105072324if_/http://cdn.helloproject.com/img/rotation/6cffba9be621d00e9bef1b84d985d148aa7824fe.jpg",
-    "https://web.archive.org/web/20201105072324if_/http://cdn.helloproject.com/img/rotation/1fdd24cc06739934e0867a420b16eecf1598bf0b.jpg",
-    "https://web.archive.org/web/20210719231351if_/http://cdn.helloproject.com/img/rotation/a7b6983f2d6a7b2c1db2ac3108f9ee52d8a275d0.jpg",
-    "https://web.archive.org/web/20210719231351if_/http://cdn.helloproject.com/img/rotation/d026a76e9bdd04ee1498af28431e61738c58e497.jpg"
+    {
+      "url": "https://web.archive.org/web/20210719231351if_/http://cdn.helloproject.com/img/rotation/a7b6983f2d6a7b2c1db2ac3108f9ee52d8a275d0.jpg",
+      "ts": "20210719231351"
+    },
+    {
+      "url": "https://web.archive.org/web/20210719231351if_/http://cdn.helloproject.com/img/rotation/d026a76e9bdd04ee1498af28431e61738c58e497.jpg",
+      "ts": "20210719231351"
+    },
+    {
+      "url": "https://web.archive.org/web/20201105072324if_/http://cdn.helloproject.com/img/rotation/6cffba9be621d00e9bef1b84d985d148aa7824fe.jpg",
+      "ts": "20201105072324"
+    },
+    {
+      "url": "https://web.archive.org/web/20201105072324if_/http://cdn.helloproject.com/img/rotation/1fdd24cc06739934e0867a420b16eecf1598bf0b.jpg",
+      "ts": "20201105072324"
+    },
+    {
+      "url": "https://web.archive.org/web/20200921051927if_/http://cdn.helloproject.com/img/rotation/57c32b700e8cc492ee2d883d4403e58de6332830.jpg",
+      "ts": "20200921051927"
+    },
+    {
+      "url": "https://web.archive.org/web/20191020184254if_/http://cdn.helloproject.com/img/rotation/34d1913a7185e044e31fc954fc7333a012ab203e.jpg",
+      "ts": "20191020184254"
+    },
+    {
+      "url": "https://web.archive.org/web/20190821065953if_/http://cdn.helloproject.com/img/rotation/b8f10c245cc08255fde3bb69dd31e195a4ff841c.jpg",
+      "ts": "20190821065953"
+    },
+    {
+      "url": "https://web.archive.org/web/20190615015103if_/http://cdn.helloproject.com/img/rotation/57f5f071681f7d50de6aefb47000bc2c6098c669.jpg",
+      "ts": "20190615015103"
+    },
+    {
+      "url": "https://web.archive.org/web/20190316074326if_/http://cdn.helloproject.com/img/rotation/f70d985162317532e99c87c6e63885337fbf4959.jpg",
+      "ts": "20190316074326"
+    },
+    {
+      "url": "https://web.archive.org/web/20180927114237if_/http://cdn.helloproject.com/img/rotation/9d8e8320b3dc85e8a28167ae5497b3483e2c25b0.jpg",
+      "ts": "20180927114237"
+    },
+    {
+      "url": "https://web.archive.org/web/20180413144925if_/http://cdn.helloproject.com/img/rotation/e48d0419d0b0b1fff897e35588eb4d418cb634c9.jpg",
+      "ts": "20180413144925"
+    },
+    {
+      "url": "https://web.archive.org/web/20171218042418if_/http://cdn.helloproject.com/img/rotation/5a74e16d2fefa061a6d2baf7c4c485be681b486f.jpg",
+      "ts": "20171218042418"
+    },
+    {
+      "url": "https://web.archive.org/web/20170619061234if_/http://cdn.helloproject.com/img/rotation/b1e81d2577d5a45879fef8c591518fe90dd388aa.jpg",
+      "ts": "20170619061234"
+    },
+    {
+      "url": "https://web.archive.org/web/20161113042805if_/http://cdn.helloproject.com/img/rotation/9c53094e7c91657afe674e8cc4781a360e946fc5.jpg",
+      "ts": "20161113042805"
+    },
+    {
+      "url": "https://web.archive.org/web/20161113042805if_/http://cdn.helloproject.com/img/rotation/0aa40477bc8d87ba16c90cc2daa4d710f3eb0289.jpg",
+      "ts": "20161113042805"
+    },
+    {
+      "url": "https://web.archive.org/web/20160820034704if_/http://cdn.helloproject.com/img/rotation/05f39a9743d5d92ab19e16ec890a264ab25980c9.jpg",
+      "ts": "20160820034704"
+    },
+    {
+      "url": "https://web.archive.org/web/20160820034704if_/http://cdn.helloproject.com/img/rotation/ec5553123ba0c5475cb92786d963be45865f4990.jpg",
+      "ts": "20160820034704"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -41,6 +92,8 @@
     "座右の銘": "日の光を借りて照る大いなる月たらんよりは、自ら光を放つ小さな灯火たれ。",
     "ハロー！プロジェクト加入": "2016年7月16日 (アンジュルム加入日)"
   },
-  "_nameJa": "笠原桃奈",
+  "groups": [
+    "angerme"
+  ],
   "nameEn": "Momona Kasahara"
 }

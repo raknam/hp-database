@@ -6,14 +6,38 @@
   "nameJa": "和田桜子",
   "nameKana": "ワダ サクラコ",
   "images": [
-    "https://web.archive.org/web/20140424015821if_/http://cdn.helloproject.com/img/rotation/8419be95da0d6d748578b9998cb0535e3f434bcd.jpg",
-    "https://web.archive.org/web/20140424015821if_/http://cdn.helloproject.com/img/rotation/0e49c06008b486ab22b75325c00eb17024971355.jpg",
-    "https://web.archive.org/web/20150424125450if_/http://cdn.helloproject.com/img/rotation/65db5f2adb46a16e47902a84dd6a0491b7a5cc2f.jpg",
-    "https://web.archive.org/web/20150424125450if_/http://cdn.helloproject.com/img/rotation/b815eb0c5e41f427c30c3f042824568faba6306a.jpg",
-    "https://web.archive.org/web/20150926105252if_/http://cdn.helloproject.com/img/rotation/c3d2d1fb84790c8c15763b53916c32f24db4c376.jpg",
-    "https://web.archive.org/web/20150926105252if_/http://cdn.helloproject.com/img/rotation/cf46ee45d612b64c0d78230ed4012fe1dce9c0fb.jpg",
-    "https://web.archive.org/web/20160402212921if_/http://cdn.helloproject.com/img/rotation/6510f2129db1d6b05423ca00b03920302a0943c7.jpg",
-    "https://web.archive.org/web/20160402212921if_/http://cdn.helloproject.com/img/rotation/0eb6d45f151dd380106640b9fe76e55751301d67.jpg"
+    {
+      "url": "https://web.archive.org/web/20160402212921if_/http://cdn.helloproject.com/img/rotation/6510f2129db1d6b05423ca00b03920302a0943c7.jpg",
+      "ts": "20160402212921"
+    },
+    {
+      "url": "https://web.archive.org/web/20160402212921if_/http://cdn.helloproject.com/img/rotation/0eb6d45f151dd380106640b9fe76e55751301d67.jpg",
+      "ts": "20160402212921"
+    },
+    {
+      "url": "https://web.archive.org/web/20150926105252if_/http://cdn.helloproject.com/img/rotation/c3d2d1fb84790c8c15763b53916c32f24db4c376.jpg",
+      "ts": "20150926105252"
+    },
+    {
+      "url": "https://web.archive.org/web/20150926105252if_/http://cdn.helloproject.com/img/rotation/cf46ee45d612b64c0d78230ed4012fe1dce9c0fb.jpg",
+      "ts": "20150926105252"
+    },
+    {
+      "url": "https://web.archive.org/web/20150424125450if_/http://cdn.helloproject.com/img/rotation/65db5f2adb46a16e47902a84dd6a0491b7a5cc2f.jpg",
+      "ts": "20150424125450"
+    },
+    {
+      "url": "https://web.archive.org/web/20150424125450if_/http://cdn.helloproject.com/img/rotation/b815eb0c5e41f427c30c3f042824568faba6306a.jpg",
+      "ts": "20150424125450"
+    },
+    {
+      "url": "https://web.archive.org/web/20140424015821if_/http://cdn.helloproject.com/img/rotation/8419be95da0d6d748578b9998cb0535e3f434bcd.jpg",
+      "ts": "20140424015821"
+    },
+    {
+      "url": "https://web.archive.org/web/20140424015821if_/http://cdn.helloproject.com/img/rotation/0e49c06008b486ab22b75325c00eb17024971355.jpg",
+      "ts": "20140424015821"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -32,6 +56,8 @@
     "座右の銘": "笑っていれば福来たる",
     "ハロー！プロジェクト加入": "2012年11月(ハロプロ研修生加入日)"
   },
-  "_nameJa": "和田桜子",
+  "groups": [
+    "helloprokenshusei"
+  ],
   "nameEn": "Sakurako Wada"
 }

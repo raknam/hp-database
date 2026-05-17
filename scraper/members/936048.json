@@ -6,14 +6,38 @@
   "nameJa": "島野萌々子",
   "nameKana": "シマノ モモコ",
   "images": [
-    "https://web.archive.org/web/20150312021426if_/http://cdn.helloproject.com/img/rotation/bda44d1f0152d630c0cb5a5473ebd24869db95fc.jpg",
-    "https://web.archive.org/web/20150312021426if_/http://cdn.helloproject.com/img/rotation/a6e3d79f40bbce6dae18597a91cf9acfa6d09bff.jpg",
-    "https://web.archive.org/web/20150706234637if_/http://cdn.helloproject.com/img/rotation/35e9d70adb7ce33a70406e019360ce3fc083896c.jpg",
-    "https://web.archive.org/web/20150706234637if_/http://cdn.helloproject.com/img/rotation/955175c201d9cb2b7ee5d2cead6b3a6641518453.jpg",
-    "https://web.archive.org/web/20160304124724if_/http://cdn.helloproject.com/img/rotation/882f904c38d59d24c89c89095254ca5da906c904.jpg",
-    "https://web.archive.org/web/20160304124724if_/http://cdn.helloproject.com/img/rotation/44da6d0b8eec32d2dd3ab3b57a70994b0f0a90a2.jpg",
-    "https://web.archive.org/web/20160522232118if_/http://cdn.helloproject.com/img/rotation/71c094dae70d9118f671431b9128ba90b51fea0f.jpg",
-    "https://web.archive.org/web/20160522232118if_/http://cdn.helloproject.com/img/rotation/c6d0547aae49585be4ee5c683280adbcc9075a8e.jpg"
+    {
+      "url": "https://web.archive.org/web/20160522232118if_/http://cdn.helloproject.com/img/rotation/71c094dae70d9118f671431b9128ba90b51fea0f.jpg",
+      "ts": "20160522232118"
+    },
+    {
+      "url": "https://web.archive.org/web/20160522232118if_/http://cdn.helloproject.com/img/rotation/c6d0547aae49585be4ee5c683280adbcc9075a8e.jpg",
+      "ts": "20160522232118"
+    },
+    {
+      "url": "https://web.archive.org/web/20160304124724if_/http://cdn.helloproject.com/img/rotation/882f904c38d59d24c89c89095254ca5da906c904.jpg",
+      "ts": "20160304124724"
+    },
+    {
+      "url": "https://web.archive.org/web/20160304124724if_/http://cdn.helloproject.com/img/rotation/44da6d0b8eec32d2dd3ab3b57a70994b0f0a90a2.jpg",
+      "ts": "20160304124724"
+    },
+    {
+      "url": "https://web.archive.org/web/20150706234637if_/http://cdn.helloproject.com/img/rotation/35e9d70adb7ce33a70406e019360ce3fc083896c.jpg",
+      "ts": "20150706234637"
+    },
+    {
+      "url": "https://web.archive.org/web/20150706234637if_/http://cdn.helloproject.com/img/rotation/955175c201d9cb2b7ee5d2cead6b3a6641518453.jpg",
+      "ts": "20150706234637"
+    },
+    {
+      "url": "https://web.archive.org/web/20150312021426if_/http://cdn.helloproject.com/img/rotation/bda44d1f0152d630c0cb5a5473ebd24869db95fc.jpg",
+      "ts": "20150312021426"
+    },
+    {
+      "url": "https://web.archive.org/web/20150312021426if_/http://cdn.helloproject.com/img/rotation/a6e3d79f40bbce6dae18597a91cf9acfa6d09bff.jpg",
+      "ts": "20150312021426"
+    }
   ],
   "has_grad": true,
   "sources": [

@@ -6,20 +6,62 @@
   "nameJa": "段原瑠々",
   "nameKana": "ダンバラ ルル",
   "images": [
-    "https://web.archive.org/web/20140424020036if_/http://cdn.helloproject.com/img/rotation/8b9ef3b9b8e524c67df7f51b8fa44e830e72ad91.jpg",
-    "https://web.archive.org/web/20140424020036if_/http://cdn.helloproject.com/img/rotation/a32da84ea87292aa26e09633258f896b80f5d3ea.jpg",
-    "https://web.archive.org/web/20150424125456if_/http://cdn.helloproject.com/img/rotation/9bb1de84facd223588fdae729e4f5387c61a4c96.jpg",
-    "https://web.archive.org/web/20150424125456if_/http://cdn.helloproject.com/img/rotation/1963058bd0f9313d79c5a3b9f7e322172fc6b8d2.jpg",
-    "https://web.archive.org/web/20150706232050if_/http://cdn.helloproject.com/img/rotation/448b141af965e2acb7416007b9a69e1e6966a396.jpg",
-    "https://web.archive.org/web/20150706232050if_/http://cdn.helloproject.com/img/rotation/6536e815f32380e2c01bb85586bbbe99c1e32023.jpg",
-    "https://web.archive.org/web/20160304124531if_/http://cdn.helloproject.com/img/rotation/b8b2c7bc601a8993d4e387b9f266f65e1e6d1bc0.jpg",
-    "https://web.archive.org/web/20160304124531if_/http://cdn.helloproject.com/img/rotation/f5eaad5eece444b0c846be6c22c8b4c34c050c77.jpg",
-    "https://web.archive.org/web/20160517021630if_/http://cdn.helloproject.com/img/rotation/21e7beb43e51a7f2822b4a4d8db208fde944420b.jpg",
-    "https://web.archive.org/web/20160517021630if_/http://cdn.helloproject.com/img/rotation/700b9ed5d875a54a2a80f050dc4f6accceda49e8.jpg",
-    "https://web.archive.org/web/20161227010154if_/http://cdn.helloproject.com/img/rotation/d097d319f95095b320de092934c2eaa6fdfe798a.jpg",
-    "https://web.archive.org/web/20161227010154if_/http://cdn.helloproject.com/img/rotation/f053736ef9096936d5652357f5a05031a99cc196.jpg",
-    "https://web.archive.org/web/20170629143215if_/http://cdn.helloproject.com/img/rotation/17d17577f04ef1ad5ac7952a8119388947fb9dbe.jpg",
-    "https://web.archive.org/web/20170629143215if_/http://cdn.helloproject.com/img/rotation/c9b1f7b19e8189d9e66dc52ecfa004ab7c60d6fd.jpg"
+    {
+      "url": "https://web.archive.org/web/20170629143215if_/http://cdn.helloproject.com/img/rotation/17d17577f04ef1ad5ac7952a8119388947fb9dbe.jpg",
+      "ts": "20170629143215"
+    },
+    {
+      "url": "https://web.archive.org/web/20170629143215if_/http://cdn.helloproject.com/img/rotation/c9b1f7b19e8189d9e66dc52ecfa004ab7c60d6fd.jpg",
+      "ts": "20170629143215"
+    },
+    {
+      "url": "https://web.archive.org/web/20161227010154if_/http://cdn.helloproject.com/img/rotation/d097d319f95095b320de092934c2eaa6fdfe798a.jpg",
+      "ts": "20161227010154"
+    },
+    {
+      "url": "https://web.archive.org/web/20161227010154if_/http://cdn.helloproject.com/img/rotation/f053736ef9096936d5652357f5a05031a99cc196.jpg",
+      "ts": "20161227010154"
+    },
+    {
+      "url": "https://web.archive.org/web/20160517021630if_/http://cdn.helloproject.com/img/rotation/21e7beb43e51a7f2822b4a4d8db208fde944420b.jpg",
+      "ts": "20160517021630"
+    },
+    {
+      "url": "https://web.archive.org/web/20160517021630if_/http://cdn.helloproject.com/img/rotation/700b9ed5d875a54a2a80f050dc4f6accceda49e8.jpg",
+      "ts": "20160517021630"
+    },
+    {
+      "url": "https://web.archive.org/web/20160304124531if_/http://cdn.helloproject.com/img/rotation/b8b2c7bc601a8993d4e387b9f266f65e1e6d1bc0.jpg",
+      "ts": "20160304124531"
+    },
+    {
+      "url": "https://web.archive.org/web/20160304124531if_/http://cdn.helloproject.com/img/rotation/f5eaad5eece444b0c846be6c22c8b4c34c050c77.jpg",
+      "ts": "20160304124531"
+    },
+    {
+      "url": "https://web.archive.org/web/20150706232050if_/http://cdn.helloproject.com/img/rotation/448b141af965e2acb7416007b9a69e1e6966a396.jpg",
+      "ts": "20150706232050"
+    },
+    {
+      "url": "https://web.archive.org/web/20150706232050if_/http://cdn.helloproject.com/img/rotation/6536e815f32380e2c01bb85586bbbe99c1e32023.jpg",
+      "ts": "20150706232050"
+    },
+    {
+      "url": "https://web.archive.org/web/20150424125456if_/http://cdn.helloproject.com/img/rotation/9bb1de84facd223588fdae729e4f5387c61a4c96.jpg",
+      "ts": "20150424125456"
+    },
+    {
+      "url": "https://web.archive.org/web/20150424125456if_/http://cdn.helloproject.com/img/rotation/1963058bd0f9313d79c5a3b9f7e322172fc6b8d2.jpg",
+      "ts": "20150424125456"
+    },
+    {
+      "url": "https://web.archive.org/web/20140424020036if_/http://cdn.helloproject.com/img/rotation/8b9ef3b9b8e524c67df7f51b8fa44e830e72ad91.jpg",
+      "ts": "20140424020036"
+    },
+    {
+      "url": "https://web.archive.org/web/20140424020036if_/http://cdn.helloproject.com/img/rotation/a32da84ea87292aa26e09633258f896b80f5d3ea.jpg",
+      "ts": "20140424020036"
+    }
   ],
   "has_grad": true,
   "sources": [

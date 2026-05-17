@@ -7,7 +7,10 @@
   "nameEn": "Ako Yumigeta",
   "nameKana": "ユミゲタ アコ",
   "images": [
-    "/upload/images/8e0cb36e021d99d8f6530a5164a12ea8dbb226b1a95c8eb11fe16ab09ea204fd.webp"
+    {
+      "url": "/upload/images/8e0cb36e021d99d8f6530a5164a12ea8dbb226b1a95c8eb11fe16ab09ea204fd.webp",
+      "ts": "20260517191000"
+    }
   ],
   "color": {
     "name": "ピュアレッド",

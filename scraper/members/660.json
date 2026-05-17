@@ -7,8 +7,14 @@
   "nameEn": "Hana Shimakawa",
   "nameKana": "シマカワ ハナ",
   "images": [
-    "/upload/images/4d3f517c412a802fcab8ac045b6364ecd09e9d2c.webp",
-    "/upload/images/73fb56c8cbd34cc3ad666c3bb01da348a7e05538.webp"
+    {
+      "url": "/upload/images/4d3f517c412a802fcab8ac045b6364ecd09e9d2c.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/73fb56c8cbd34cc3ad666c3bb01da348a7e05538.webp",
+      "ts": "20260517191000"
+    }
   ],
   "color": {
     "name": "ブライトグリーン",

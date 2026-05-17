@@ -6,14 +6,38 @@
   "nameJa": "橋本渚",
   "nameKana": "ハシモト ナギサ",
   "images": [
-    "https://web.archive.org/web/20150312015154if_/http://cdn.helloproject.com/img/rotation/0bcf164be6cbb7f1cf19523f67af17a45ec40847.jpg",
-    "https://web.archive.org/web/20150312015154if_/http://cdn.helloproject.com/img/rotation/e0d78b701ed64b5eaef78017012fd4281f608846.jpg",
-    "https://web.archive.org/web/20150525032908if_/http://cdn.helloproject.com/img/rotation/42fadb33ca1de2e8321c4fbd54ae521fc5bea6e4.jpg",
-    "https://web.archive.org/web/20150525032908if_/http://cdn.helloproject.com/img/rotation/43adc25527b72c2882beef996febc554c1c2a5af.jpg",
-    "https://web.archive.org/web/20160304113359if_/http://cdn.helloproject.com/img/rotation/808a5c6094b0517256c9f7393fe31367c2d3fe9c.jpg",
-    "https://web.archive.org/web/20160304113359if_/http://cdn.helloproject.com/img/rotation/074f9baf69ac043b0f3f682c9e3f38c0236572c3.jpg",
-    "https://web.archive.org/web/20160712115105if_/http://cdn.helloproject.com/img/rotation/917418485e534d7f254c731ecbbc046d7f95bbce.jpg",
-    "https://web.archive.org/web/20160712115105if_/http://cdn.helloproject.com/img/rotation/f4ff6562b7c47b9bf1a259625671637d43b66356.jpg"
+    {
+      "url": "https://web.archive.org/web/20160712115105if_/http://cdn.helloproject.com/img/rotation/917418485e534d7f254c731ecbbc046d7f95bbce.jpg",
+      "ts": "20160712115105"
+    },
+    {
+      "url": "https://web.archive.org/web/20160712115105if_/http://cdn.helloproject.com/img/rotation/f4ff6562b7c47b9bf1a259625671637d43b66356.jpg",
+      "ts": "20160712115105"
+    },
+    {
+      "url": "https://web.archive.org/web/20160304113359if_/http://cdn.helloproject.com/img/rotation/808a5c6094b0517256c9f7393fe31367c2d3fe9c.jpg",
+      "ts": "20160304113359"
+    },
+    {
+      "url": "https://web.archive.org/web/20160304113359if_/http://cdn.helloproject.com/img/rotation/074f9baf69ac043b0f3f682c9e3f38c0236572c3.jpg",
+      "ts": "20160304113359"
+    },
+    {
+      "url": "https://web.archive.org/web/20150525032908if_/http://cdn.helloproject.com/img/rotation/42fadb33ca1de2e8321c4fbd54ae521fc5bea6e4.jpg",
+      "ts": "20150525032908"
+    },
+    {
+      "url": "https://web.archive.org/web/20150525032908if_/http://cdn.helloproject.com/img/rotation/43adc25527b72c2882beef996febc554c1c2a5af.jpg",
+      "ts": "20150525032908"
+    },
+    {
+      "url": "https://web.archive.org/web/20150312015154if_/http://cdn.helloproject.com/img/rotation/0bcf164be6cbb7f1cf19523f67af17a45ec40847.jpg",
+      "ts": "20150312015154"
+    },
+    {
+      "url": "https://web.archive.org/web/20150312015154if_/http://cdn.helloproject.com/img/rotation/e0d78b701ed64b5eaef78017012fd4281f608846.jpg",
+      "ts": "20150312015154"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -31,6 +55,8 @@
     "座右の銘": "努力は自分を裏切らない",
     "ハロー！プロジェクト加入": "2014年11月 (ハロプロ研修生加入日)"
   },
-  "_nameJa": "橋本渚",
+  "groups": [
+    "helloprokenshusei"
+  ],
   "nameEn": "Nagisa Hashimoto"
 }

@@ -7,11 +7,26 @@
   "nameEn": "Rei Inoue",
   "nameKana": "イノウエ レイ",
   "images": [
-    "/upload/images/1ee2c10ae7c262ef31ca97d9024d5a2b8082ce02.webp",
-    "/upload/images/1b53423e7c1a9c8ed8874d3bcccf4b15eb15f98a.webp",
-    "https://web.archive.org/web/20200419182919if_/http://cdn.helloproject.com/img/rotation/3dd3539e6890673e120774d5fbf903116fe288b6.jpg",
-    "https://web.archive.org/web/20220823083807if_/http://cdn.helloproject.com/img/rotation/3736699796beb827725bb1adf2d7c103cec64342.jpg",
-    "https://web.archive.org/web/20250101032100if_/https://cdn.helloproject.com/img/rotation/77a0e6ab5546154bced397a3d01ae10c7235ab35.jpg"
+    {
+      "url": "/upload/images/1ee2c10ae7c262ef31ca97d9024d5a2b8082ce02.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/1b53423e7c1a9c8ed8874d3bcccf4b15eb15f98a.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "https://web.archive.org/web/20250101032100if_/https://cdn.helloproject.com/img/rotation/77a0e6ab5546154bced397a3d01ae10c7235ab35.jpg",
+      "ts": "20250101032100"
+    },
+    {
+      "url": "https://web.archive.org/web/20220823083807if_/http://cdn.helloproject.com/img/rotation/3736699796beb827725bb1adf2d7c103cec64342.jpg",
+      "ts": "20220823083807"
+    },
+    {
+      "url": "https://web.archive.org/web/20200419182919if_/http://cdn.helloproject.com/img/rotation/3dd3539e6890673e120774d5fbf903116fe288b6.jpg",
+      "ts": "20200419182919"
+    }
   ],
   "role": "サブリーダー",
   "color": {

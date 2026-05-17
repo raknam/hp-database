@@ -6,7 +6,10 @@
   "nameJa": "川村文乃",
   "nameKana": "カワムラ アヤノ",
   "images": [
-    "https://web.archive.org/web/20160927174853if_/http://cdn.helloproject.com/img/rotation/de368dbe11ffe58b501a2e0dfc7e6fe7a7ec2e05.jpg"
+    {
+      "url": "https://web.archive.org/web/20160927174853if_/http://cdn.helloproject.com/img/rotation/de368dbe11ffe58b501a2e0dfc7e6fe7a7ec2e05.jpg",
+      "ts": "20160927174853"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -24,6 +27,8 @@
     "座右の銘": "諦めるよりもこだわり抜く",
     "ハロー！プロジェクト加入": "2017年6月26日 (アンジュルム加入日)"
   },
-  "_nameJa": "川村文乃",
+  "groups": [
+    "angerme"
+  ],
   "nameEn": "Ayano Kawamura"
 }

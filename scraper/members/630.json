@@ -7,8 +7,14 @@
   "nameEn": "Hinoha Yoshida",
   "nameKana": "ヨシダ ヒノハ",
   "images": [
-    "/upload/images/fed728fd0d389ab23999a572745d4bd1aa497409.webp",
-    "/upload/images/6595ecd7dc0dbf675db49e10aa88113c5facd8d4.webp"
+    {
+      "url": "/upload/images/fed728fd0d389ab23999a572745d4bd1aa497409.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/6595ecd7dc0dbf675db49e10aa88113c5facd8d4.webp",
+      "ts": "20260517191000"
+    }
   ],
   "color": {
     "name": "ピュアレッド",

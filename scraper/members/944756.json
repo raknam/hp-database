@@ -6,7 +6,10 @@
   "nameJa": "鞘師里保",
   "nameKana": "サヤシ リホ",
   "images": [
-    "https://web.archive.org/web/20150713101129if_/http://cdn.helloproject.com/img/rotation/58a0e9b00ebda9b6ed711cf1edae27be326221e1.jpg"
+    {
+      "url": "https://web.archive.org/web/20150713101129if_/http://cdn.helloproject.com/img/rotation/58a0e9b00ebda9b6ed711cf1edae27be326221e1.jpg",
+      "ts": "20150713101129"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -25,6 +28,8 @@
     "座右の銘": "一期一会",
     "ハロー！プロジェクト加入": "2011年1月2日"
   },
-  "_nameJa": "鞘師里保",
+  "groups": [
+    "morningmusume"
+  ],
   "nameEn": "Riho Sayashi"
 }

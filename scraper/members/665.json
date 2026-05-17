@@ -7,8 +7,14 @@
   "nameEn": "Mano Otsubo",
   "nameKana": "オオツボ マノ",
   "images": [
-    "/upload/images/fb741b9b29c77912bf9f7b939eb34a0b21b4def4.webp",
-    "/upload/images/74425b52e9485e54a51a115aba2b4cf5b3fa2e83.webp"
+    {
+      "url": "/upload/images/fb741b9b29c77912bf9f7b939eb34a0b21b4def4.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/74425b52e9485e54a51a115aba2b4cf5b3fa2e83.webp",
+      "ts": "20260517191000"
+    }
   ],
   "details": {
     "ニックネーム": "まの",

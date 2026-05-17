@@ -6,7 +6,10 @@
   "nameJa": "飯窪春菜",
   "nameKana": "イイクボ ハルナ",
   "images": [
-    "https://web.archive.org/web/20181215195053if_/http://cdn.helloproject.com/img/rotation/9ac63fb062a8e2e37e852150b133e8be83e263c2.jpg"
+    {
+      "url": "https://web.archive.org/web/20181215195053if_/http://cdn.helloproject.com/img/rotation/9ac63fb062a8e2e37e852150b133e8be83e263c2.jpg",
+      "ts": "20181215195053"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -25,6 +28,8 @@
     "座右の銘": "一日一冊",
     "ハロー！プロジェクト加入": "2011年9月29日 (モーニング娘。加入日)"
   },
-  "_nameJa": "飯窪春菜",
+  "groups": [
+    "morningmusume"
+  ],
   "nameEn": "Haruna Iikubo"
 }

@@ -6,8 +6,14 @@
   "nameJa": "江口紗耶",
   "nameKana": "エグチ サヤ",
   "images": [
-    "https://web.archive.org/web/20171125184951if_/http://cdn.helloproject.com/img/rotation/77d1efe1c7e5e1f20f83997ff50d823b7a59c80f.jpg",
-    "https://web.archive.org/web/20171125184951if_/http://cdn.helloproject.com/img/rotation/d1cef780b0662ecc46c4df0d3a1d93257a8d6e65.jpg"
+    {
+      "url": "https://web.archive.org/web/20171125184951if_/http://cdn.helloproject.com/img/rotation/77d1efe1c7e5e1f20f83997ff50d823b7a59c80f.jpg",
+      "ts": "20171125184951"
+    },
+    {
+      "url": "https://web.archive.org/web/20171125184951if_/http://cdn.helloproject.com/img/rotation/d1cef780b0662ecc46c4df0d3a1d93257a8d6e65.jpg",
+      "ts": "20171125184951"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -25,6 +31,8 @@
     "座右の銘": "努力は全ての扉を開く",
     "ハロー！プロジェクト加入": "2018年6月9日 (グループ加入日) (CHICA#TETSU)"
   },
-  "_nameJa": "江口紗耶",
+  "groups": [
+    "beyooooonds"
+  ],
   "nameEn": "Saya Eguchi"
 }

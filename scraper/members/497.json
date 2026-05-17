@@ -7,17 +7,50 @@
   "nameEn": "Kirara Yonemura",
   "nameKana": "ヨネムラ キララ",
   "images": [
-    "/upload/images/36759c2213c7447b6ae755e0de1e2eb5328a95e77403d86599bac381d09d7497.webp",
-    "/upload/images/967c47ddf3031187cefc7e793ee5afcd3cb292d6cd7c286b1b8b5fd985ad3379.webp",
-    "/upload/images/1d97dec6f6867215de49076d3277fb65c43b5535.webp",
-    "https://web.archive.org/web/20211224041412if_/http://cdn.helloproject.com/img/rotation/b41bc5817afabe5925c032e15ee34bc50ee16199.jpg",
-    "https://web.archive.org/web/20211224041412if_/http://cdn.helloproject.com/img/rotation/9e340751add8aa692a9866285e238c1cc72109b6.jpg",
-    "https://web.archive.org/web/20220622082629if_/http://cdn.helloproject.com/img/rotation/ff2d6e713ce4f92fdbc3633f3c0d903b84844c6b.jpg",
-    "https://web.archive.org/web/20221003135115if_/http://cdn.helloproject.com/img/rotation/1e2f3d9ae49f7d1c5e091097e16351e435b61623.jpg",
-    "https://web.archive.org/web/20230612165942if_/http://cdn.helloproject.com/img/rotation/5335f72f18bf983d78e698b0c5dcabc79401ce75.jpg",
-    "https://web.archive.org/web/20231106031042if_/http://cdn.helloproject.com/img/rotation/56c5cc29790a0575dba49a42102ac853a32ed152.jpg",
-    "https://web.archive.org/web/20240713192730if_/http://cdn.helloproject.com/img/rotation/942e4a9f8072c0a183f378a4734d105f756b834f.jpg",
-    "https://web.archive.org/web/20241130170802if_/https://cdn.helloproject.com/img/rotation/942e4a9f8072c0a183f378a4734d105f756b834f.jpg"
+    {
+      "url": "/upload/images/36759c2213c7447b6ae755e0de1e2eb5328a95e77403d86599bac381d09d7497.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/967c47ddf3031187cefc7e793ee5afcd3cb292d6cd7c286b1b8b5fd985ad3379.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/1d97dec6f6867215de49076d3277fb65c43b5535.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "https://web.archive.org/web/20241130170802if_/https://cdn.helloproject.com/img/rotation/942e4a9f8072c0a183f378a4734d105f756b834f.jpg",
+      "ts": "20241130170802"
+    },
+    {
+      "url": "https://web.archive.org/web/20240713192730if_/http://cdn.helloproject.com/img/rotation/942e4a9f8072c0a183f378a4734d105f756b834f.jpg",
+      "ts": "20240713192730"
+    },
+    {
+      "url": "https://web.archive.org/web/20231106031042if_/http://cdn.helloproject.com/img/rotation/56c5cc29790a0575dba49a42102ac853a32ed152.jpg",
+      "ts": "20231106031042"
+    },
+    {
+      "url": "https://web.archive.org/web/20230612165942if_/http://cdn.helloproject.com/img/rotation/5335f72f18bf983d78e698b0c5dcabc79401ce75.jpg",
+      "ts": "20230612165942"
+    },
+    {
+      "url": "https://web.archive.org/web/20221003135115if_/http://cdn.helloproject.com/img/rotation/1e2f3d9ae49f7d1c5e091097e16351e435b61623.jpg",
+      "ts": "20221003135115"
+    },
+    {
+      "url": "https://web.archive.org/web/20220622082629if_/http://cdn.helloproject.com/img/rotation/ff2d6e713ce4f92fdbc3633f3c0d903b84844c6b.jpg",
+      "ts": "20220622082629"
+    },
+    {
+      "url": "https://web.archive.org/web/20211224041412if_/http://cdn.helloproject.com/img/rotation/b41bc5817afabe5925c032e15ee34bc50ee16199.jpg",
+      "ts": "20211224041412"
+    },
+    {
+      "url": "https://web.archive.org/web/20211224041412if_/http://cdn.helloproject.com/img/rotation/9e340751add8aa692a9866285e238c1cc72109b6.jpg",
+      "ts": "20211224041412"
+    }
   ],
   "color": {
     "name": "イタリアンレッド",

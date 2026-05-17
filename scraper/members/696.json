@@ -7,8 +7,14 @@
   "nameEn": "Kotomi Suzuki",
   "nameKana": "スズキ コトミ",
   "images": [
-    "/upload/images/8a7b5959db6c2e65887a8d8878ff13f3f850e2fc.webp",
-    "/upload/images/8403f86ef5a57ff38bf6fb73c540f76eef22f4b5.webp"
+    {
+      "url": "/upload/images/8a7b5959db6c2e65887a8d8878ff13f3f850e2fc.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/8403f86ef5a57ff38bf6fb73c540f76eef22f4b5.webp",
+      "ts": "20260517191000"
+    }
   ],
   "details": {
     "ニックネーム": "ことみん、こっちゃん",

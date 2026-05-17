@@ -7,8 +7,14 @@
   "nameEn": "Niina Hayashi",
   "nameKana": "ハヤシ ニイナ",
   "images": [
-    "/upload/images/297bbe15bb0869296bb1340b2389600581c350f8.webp",
-    "/upload/images/87f6c2e94f2e221499ae0e2565078a5d1e78f285.webp"
+    {
+      "url": "/upload/images/297bbe15bb0869296bb1340b2389600581c350f8.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/87f6c2e94f2e221499ae0e2565078a5d1e78f285.webp",
+      "ts": "20260517191000"
+    }
   ],
   "color": {
     "name": "ブライトグリーン",

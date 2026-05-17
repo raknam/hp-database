@@ -16,6 +16,9 @@
     "血液型": "B型",
     "出身地": "東京都"
   },
-  "_nameJa": "山木梨沙",
+  "groups": [
+    "helloprokenshusei",
+    "countrygirls"
+  ],
   "nameEn": "Risa Yamaki"
 }

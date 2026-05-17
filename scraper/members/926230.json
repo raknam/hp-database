@@ -6,22 +6,70 @@
   "nameJa": "野口胡桃",
   "nameKana": "ノグチ クルミ",
   "images": [
-    "https://web.archive.org/web/20160305220804if_/http://cdn.helloproject.com/img/rotation/060432f355e69e10831dc0b855263f23bbd35328.jpg",
-    "https://web.archive.org/web/20160305220804if_/http://cdn.helloproject.com/img/rotation/8e66bcc39b6a2b327929f386e7c594e556868bb0.jpg",
-    "https://web.archive.org/web/20160802110350if_/http://cdn.helloproject.com/img/rotation/a9b626f4c4df47c4cef3fa98c42865952c8f51dc.jpg",
-    "https://web.archive.org/web/20160802110350if_/http://cdn.helloproject.com/img/rotation/0301c7c897922ca344a75edd2c584f66f9989381.jpg",
-    "https://web.archive.org/web/20161004152522if_/http://cdn.helloproject.com/img/rotation/7d099338c0aa7d54694ced991941f16c3e9506b8.jpg",
-    "https://web.archive.org/web/20161004152522if_/http://cdn.helloproject.com/img/rotation/d0157a9a1d3a6a528864a0c2a638e3b6900d6ac8.jpg",
-    "https://web.archive.org/web/20170607021353if_/http://cdn.helloproject.com/img/rotation/7c4dd09256b121fbb8891381e5cd2e1350c6d2e8.jpg",
-    "https://web.archive.org/web/20170607021353if_/http://cdn.helloproject.com/img/rotation/d589c4baf43d0a1f345eb1034bb6684f120f43af.jpg",
-    "https://web.archive.org/web/20170707182540if_/http://cdn.helloproject.com/img/rotation/f1723ede4565159dd64fa234bbd6c19c01b29b5b.jpg",
-    "https://web.archive.org/web/20170707182540if_/http://cdn.helloproject.com/img/rotation/8216a2c32b35c0ad19f64afc06175fd4818c8cbc.jpg",
-    "https://web.archive.org/web/20170923140416if_/http://cdn.helloproject.com/img/rotation/386484780f56bca962ce22e874192f06ab1a65d0.jpg",
-    "https://web.archive.org/web/20170923140416if_/http://cdn.helloproject.com/img/rotation/acae512e2d3dbdd7eeb40bef45ea9d2379f32a72.jpg",
-    "https://web.archive.org/web/20180115134734if_/http://cdn.helloproject.com/img/rotation/25d056f0e22f903e89f8ea71f4ed9d0b49342d71.jpg",
-    "https://web.archive.org/web/20180115134734if_/http://cdn.helloproject.com/img/rotation/b5df0f28293472bacb04d781eadbf1bbef70e4b1.jpg",
-    "https://web.archive.org/web/20180607035932if_/http://cdn.helloproject.com/img/rotation/e1533570f4dd76c38373ceabe50a969eb0699b68.jpg",
-    "https://web.archive.org/web/20180607035932if_/http://cdn.helloproject.com/img/rotation/f8d5b2f6139d3411cd2a5a3d9e113e22a25015c5.jpg"
+    {
+      "url": "https://web.archive.org/web/20180607035932if_/http://cdn.helloproject.com/img/rotation/e1533570f4dd76c38373ceabe50a969eb0699b68.jpg",
+      "ts": "20180607035932"
+    },
+    {
+      "url": "https://web.archive.org/web/20180607035932if_/http://cdn.helloproject.com/img/rotation/f8d5b2f6139d3411cd2a5a3d9e113e22a25015c5.jpg",
+      "ts": "20180607035932"
+    },
+    {
+      "url": "https://web.archive.org/web/20180115134734if_/http://cdn.helloproject.com/img/rotation/25d056f0e22f903e89f8ea71f4ed9d0b49342d71.jpg",
+      "ts": "20180115134734"
+    },
+    {
+      "url": "https://web.archive.org/web/20180115134734if_/http://cdn.helloproject.com/img/rotation/b5df0f28293472bacb04d781eadbf1bbef70e4b1.jpg",
+      "ts": "20180115134734"
+    },
+    {
+      "url": "https://web.archive.org/web/20170923140416if_/http://cdn.helloproject.com/img/rotation/386484780f56bca962ce22e874192f06ab1a65d0.jpg",
+      "ts": "20170923140416"
+    },
+    {
+      "url": "https://web.archive.org/web/20170923140416if_/http://cdn.helloproject.com/img/rotation/acae512e2d3dbdd7eeb40bef45ea9d2379f32a72.jpg",
+      "ts": "20170923140416"
+    },
+    {
+      "url": "https://web.archive.org/web/20170707182540if_/http://cdn.helloproject.com/img/rotation/f1723ede4565159dd64fa234bbd6c19c01b29b5b.jpg",
+      "ts": "20170707182540"
+    },
+    {
+      "url": "https://web.archive.org/web/20170707182540if_/http://cdn.helloproject.com/img/rotation/8216a2c32b35c0ad19f64afc06175fd4818c8cbc.jpg",
+      "ts": "20170707182540"
+    },
+    {
+      "url": "https://web.archive.org/web/20170607021353if_/http://cdn.helloproject.com/img/rotation/7c4dd09256b121fbb8891381e5cd2e1350c6d2e8.jpg",
+      "ts": "20170607021353"
+    },
+    {
+      "url": "https://web.archive.org/web/20170607021353if_/http://cdn.helloproject.com/img/rotation/d589c4baf43d0a1f345eb1034bb6684f120f43af.jpg",
+      "ts": "20170607021353"
+    },
+    {
+      "url": "https://web.archive.org/web/20161004152522if_/http://cdn.helloproject.com/img/rotation/7d099338c0aa7d54694ced991941f16c3e9506b8.jpg",
+      "ts": "20161004152522"
+    },
+    {
+      "url": "https://web.archive.org/web/20161004152522if_/http://cdn.helloproject.com/img/rotation/d0157a9a1d3a6a528864a0c2a638e3b6900d6ac8.jpg",
+      "ts": "20161004152522"
+    },
+    {
+      "url": "https://web.archive.org/web/20160802110350if_/http://cdn.helloproject.com/img/rotation/a9b626f4c4df47c4cef3fa98c42865952c8f51dc.jpg",
+      "ts": "20160802110350"
+    },
+    {
+      "url": "https://web.archive.org/web/20160802110350if_/http://cdn.helloproject.com/img/rotation/0301c7c897922ca344a75edd2c584f66f9989381.jpg",
+      "ts": "20160802110350"
+    },
+    {
+      "url": "https://web.archive.org/web/20160305220804if_/http://cdn.helloproject.com/img/rotation/060432f355e69e10831dc0b855263f23bbd35328.jpg",
+      "ts": "20160305220804"
+    },
+    {
+      "url": "https://web.archive.org/web/20160305220804if_/http://cdn.helloproject.com/img/rotation/8e66bcc39b6a2b327929f386e7c594e556868bb0.jpg",
+      "ts": "20160305220804"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -39,6 +87,8 @@
     "座右の銘": "雲外蒼天",
     "ハロー！プロジェクト加入": "2016年1月(ハロプロ研修生加入日)"
   },
-  "_nameJa": "野口胡桃",
+  "groups": [
+    "helloprokenshusei"
+  ],
   "nameEn": "Kurumi Noguchi"
 }

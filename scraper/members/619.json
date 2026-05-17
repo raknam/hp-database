@@ -7,8 +7,82 @@
   "nameEn": "Wakana Matsumoto",
   "nameKana": "マツモト ワカナ",
   "images": [
-    "/upload/images/0d87d6a663f6b54254cf56f276237fd82b57d855843e2c121003f59ee5e870fe.webp",
-    "/upload/images/856e0c503af8e51ce28bad099d328e7c467c33935b0a780e831fc1b3c73362bf.webp"
+    {
+      "url": "/upload/images/0d87d6a663f6b54254cf56f276237fd82b57d855843e2c121003f59ee5e870fe.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/856e0c503af8e51ce28bad099d328e7c467c33935b0a780e831fc1b3c73362bf.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "https://web.archive.org/web/20241009212202if_/https://cdn.helloproject.com/img/rotation/f80166fd75412b1ab1199b2a6781acd7991d6f76.jpg",
+      "ts": "20241009212202"
+    },
+    {
+      "url": "https://web.archive.org/web/20241009212202if_/https://cdn.helloproject.com/img/rotation/aa08e93d29aa5484ed4c421ff08b1518b9bbab1f.jpg",
+      "ts": "20241009212202"
+    },
+    {
+      "url": "https://web.archive.org/web/20240921123355if_/http://cdn.helloproject.com/img/rotation/aa08e93d29aa5484ed4c421ff08b1518b9bbab1f.jpg",
+      "ts": "20240921123355"
+    },
+    {
+      "url": "https://web.archive.org/web/20240921123355if_/http://cdn.helloproject.com/img/rotation/f80166fd75412b1ab1199b2a6781acd7991d6f76.jpg",
+      "ts": "20240921123355"
+    },
+    {
+      "url": "https://web.archive.org/web/20240407063023if_/http://cdn.helloproject.com/img/rotation/94e5a557afeaea9ae3976f1b3b6679d13be7d1b3.jpg",
+      "ts": "20240407063023"
+    },
+    {
+      "url": "https://web.archive.org/web/20231122031417if_/http://cdn.helloproject.com/img/rotation/cfc9056ff6f6c531b640c43a695414fe65b7291c.jpg",
+      "ts": "20231122031417"
+    },
+    {
+      "url": "https://web.archive.org/web/20231014160937if_/http://cdn.helloproject.com/img/rotation/4f3456351f96174fe7ac08d8dfe1dbb53b81bce4.jpg",
+      "ts": "20231014160937"
+    },
+    {
+      "url": "https://web.archive.org/web/20230610110511if_/http://cdn.helloproject.com/img/rotation/e7981bab1625dd768c05764bff7987943b25fff6.jpg",
+      "ts": "20230610110511"
+    },
+    {
+      "url": "https://web.archive.org/web/20230610110511if_/http://cdn.helloproject.com/img/rotation/2cab67bb71e7626f86ce0a340cbf6a95d82a2dbf.jpg",
+      "ts": "20230610110511"
+    },
+    {
+      "url": "https://web.archive.org/web/20230314223659if_/http://cdn.helloproject.com/img/rotation/5d2d278b6a82e29eadb8f3cc062fd576a2f5a61d.jpg",
+      "ts": "20230314223659"
+    },
+    {
+      "url": "https://web.archive.org/web/20220911132902if_/http://cdn.helloproject.com/img/rotation/41262119d562c215af681924ebd6e21551a6bfae.jpg",
+      "ts": "20220911132902"
+    },
+    {
+      "url": "https://web.archive.org/web/20220802214941if_/http://cdn.helloproject.com/img/rotation/7fce383fadd6c38c48ff89931ddf7c036605222a.jpg",
+      "ts": "20220802214941"
+    },
+    {
+      "url": "https://web.archive.org/web/20211122045339if_/http://cdn.helloproject.com/img/rotation/e973c8045e6df78d6e235c483419dc1c235b24d0.jpg",
+      "ts": "20211122045339"
+    },
+    {
+      "url": "https://web.archive.org/web/20210820145325if_/http://cdn.helloproject.com/img/rotation/8c405742aadb0dc9ca6c0eed755142360f7cf4d3.jpg",
+      "ts": "20210820145325"
+    },
+    {
+      "url": "https://web.archive.org/web/20210820145325if_/http://cdn.helloproject.com/img/rotation/b4420b3ea2737057d7a937281eefede7589cf512.jpg",
+      "ts": "20210820145325"
+    },
+    {
+      "url": "https://web.archive.org/web/20201102104059if_/http://cdn.helloproject.com/img/rotation/774d31430e537f222f5f6cd3089c591107b174df.jpg",
+      "ts": "20201102104059"
+    },
+    {
+      "url": "https://web.archive.org/web/20201102104059if_/http://cdn.helloproject.com/img/rotation/07d712c76b475a824e62f51f4ebc9aa2d6ed6f2d.jpg",
+      "ts": "20201102104059"
+    }
   ],
   "color": {
     "name": "ホワイト",

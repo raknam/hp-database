@@ -6,24 +6,78 @@
   "nameJa": "室田瑞希",
   "nameKana": "ムロタ ミズキ",
   "images": [
-    "https://web.archive.org/web/20141217170658if_/http://cdn.helloproject.com/img/rotation/364221d842c40317e9df1b1e18b5f00c16355866.jpg",
-    "https://web.archive.org/web/20141217170658if_/http://cdn.helloproject.com/img/rotation/aa1c4e30d309755a55e27efb37fc55f0f541d252.jpg",
-    "https://web.archive.org/web/20150706112957if_/http://cdn.helloproject.com/img/rotation/538ab12641c9e2693eced3ebe304acc256744a57.jpg",
-    "https://web.archive.org/web/20150706112957if_/http://cdn.helloproject.com/img/rotation/3450f504c604ce081109d2f662ae70a35efbf10d.jpg",
-    "https://web.archive.org/web/20160106084442if_/http://cdn.helloproject.com/img/rotation/92086d199cc812e915f34f08fc1d837bcb02f0e5.jpg",
-    "https://web.archive.org/web/20160106084442if_/http://cdn.helloproject.com/img/rotation/ca376c2e8254e1acc8ac1d71c1a33786e0642c5f.jpg",
-    "https://web.archive.org/web/20160504200025if_/http://cdn.helloproject.com/img/rotation/c136334769c4714f5da9ee039aabce32ad477de0.jpg",
-    "https://web.archive.org/web/20160504200025if_/http://cdn.helloproject.com/img/rotation/88f65e3b60ae9721d1fc44559cadac4cd557b135.jpg",
-    "https://web.archive.org/web/20161027111700if_/http://cdn.helloproject.com/img/rotation/96cb699be9b91b530bca062b0f2c15e5cdd51e55.jpg",
-    "https://web.archive.org/web/20161027111700if_/http://cdn.helloproject.com/img/rotation/6b413916556b720dfd44c67c424cda128963f017.jpg",
-    "https://web.archive.org/web/20170603085603if_/http://cdn.helloproject.com/img/rotation/bad54cea7c771c92e8ac7bd8a4027fcb4ee575d8.jpg",
-    "https://web.archive.org/web/20171106230631if_/http://cdn.helloproject.com/img/rotation/849646db67174a9dd73005310406e500c240757e.jpg",
-    "https://web.archive.org/web/20180413071001if_/http://cdn.helloproject.com/img/rotation/02eccaaa4d3a3e3338f738a044e1ac94a21b5896.jpg",
-    "https://web.archive.org/web/20180927041820if_/http://cdn.helloproject.com/img/rotation/6f72f3e1c87be386533430c82da2206217217eb1.jpg",
-    "https://web.archive.org/web/20190316000416if_/http://cdn.helloproject.com/img/rotation/b4959b56b3eff6f8f627681f9b97df9274925169.jpg",
-    "https://web.archive.org/web/20190615013747if_/http://cdn.helloproject.com/img/rotation/8fedc039f70a118ca13ad270e7549129673ba862.jpg",
-    "https://web.archive.org/web/20190818063434if_/http://cdn.helloproject.com/img/rotation/6fba868e3a5809898b429a8b7b4fd054bd5e94f2.jpg",
-    "https://web.archive.org/web/20191023053241if_/http://cdn.helloproject.com/img/rotation/fb2a35b43cab81d3292611227689c32c0dc7039b.jpg"
+    {
+      "url": "https://web.archive.org/web/20191023053241if_/http://cdn.helloproject.com/img/rotation/fb2a35b43cab81d3292611227689c32c0dc7039b.jpg",
+      "ts": "20191023053241"
+    },
+    {
+      "url": "https://web.archive.org/web/20190818063434if_/http://cdn.helloproject.com/img/rotation/6fba868e3a5809898b429a8b7b4fd054bd5e94f2.jpg",
+      "ts": "20190818063434"
+    },
+    {
+      "url": "https://web.archive.org/web/20190615013747if_/http://cdn.helloproject.com/img/rotation/8fedc039f70a118ca13ad270e7549129673ba862.jpg",
+      "ts": "20190615013747"
+    },
+    {
+      "url": "https://web.archive.org/web/20190316000416if_/http://cdn.helloproject.com/img/rotation/b4959b56b3eff6f8f627681f9b97df9274925169.jpg",
+      "ts": "20190316000416"
+    },
+    {
+      "url": "https://web.archive.org/web/20180927041820if_/http://cdn.helloproject.com/img/rotation/6f72f3e1c87be386533430c82da2206217217eb1.jpg",
+      "ts": "20180927041820"
+    },
+    {
+      "url": "https://web.archive.org/web/20180413071001if_/http://cdn.helloproject.com/img/rotation/02eccaaa4d3a3e3338f738a044e1ac94a21b5896.jpg",
+      "ts": "20180413071001"
+    },
+    {
+      "url": "https://web.archive.org/web/20171106230631if_/http://cdn.helloproject.com/img/rotation/849646db67174a9dd73005310406e500c240757e.jpg",
+      "ts": "20171106230631"
+    },
+    {
+      "url": "https://web.archive.org/web/20170603085603if_/http://cdn.helloproject.com/img/rotation/bad54cea7c771c92e8ac7bd8a4027fcb4ee575d8.jpg",
+      "ts": "20170603085603"
+    },
+    {
+      "url": "https://web.archive.org/web/20161027111700if_/http://cdn.helloproject.com/img/rotation/96cb699be9b91b530bca062b0f2c15e5cdd51e55.jpg",
+      "ts": "20161027111700"
+    },
+    {
+      "url": "https://web.archive.org/web/20161027111700if_/http://cdn.helloproject.com/img/rotation/6b413916556b720dfd44c67c424cda128963f017.jpg",
+      "ts": "20161027111700"
+    },
+    {
+      "url": "https://web.archive.org/web/20160504200025if_/http://cdn.helloproject.com/img/rotation/c136334769c4714f5da9ee039aabce32ad477de0.jpg",
+      "ts": "20160504200025"
+    },
+    {
+      "url": "https://web.archive.org/web/20160504200025if_/http://cdn.helloproject.com/img/rotation/88f65e3b60ae9721d1fc44559cadac4cd557b135.jpg",
+      "ts": "20160504200025"
+    },
+    {
+      "url": "https://web.archive.org/web/20160106084442if_/http://cdn.helloproject.com/img/rotation/92086d199cc812e915f34f08fc1d837bcb02f0e5.jpg",
+      "ts": "20160106084442"
+    },
+    {
+      "url": "https://web.archive.org/web/20160106084442if_/http://cdn.helloproject.com/img/rotation/ca376c2e8254e1acc8ac1d71c1a33786e0642c5f.jpg",
+      "ts": "20160106084442"
+    },
+    {
+      "url": "https://web.archive.org/web/20150706112957if_/http://cdn.helloproject.com/img/rotation/538ab12641c9e2693eced3ebe304acc256744a57.jpg",
+      "ts": "20150706112957"
+    },
+    {
+      "url": "https://web.archive.org/web/20150706112957if_/http://cdn.helloproject.com/img/rotation/3450f504c604ce081109d2f662ae70a35efbf10d.jpg",
+      "ts": "20150706112957"
+    },
+    {
+      "url": "https://web.archive.org/web/20141217170658if_/http://cdn.helloproject.com/img/rotation/364221d842c40317e9df1b1e18b5f00c16355866.jpg",
+      "ts": "20141217170658"
+    },
+    {
+      "url": "https://web.archive.org/web/20141217170658if_/http://cdn.helloproject.com/img/rotation/aa1c4e30d309755a55e27efb37fc55f0f541d252.jpg",
+      "ts": "20141217170658"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -42,6 +96,8 @@
     "座右の銘": "感恩戴徳",
     "ハロー！プロジェクト加入": "2014年10月4日 (アンジュルム加入日)"
   },
-  "_nameJa": "室田瑞希",
+  "groups": [
+    "angerme"
+  ],
   "nameEn": "Mizuki Murota"
 }

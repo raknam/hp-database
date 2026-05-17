@@ -13,7 +13,8 @@
   <div class="group-card">
     <a href="/artists/{{ artist.slug or artist.id }}" class="group-card-banner">
       {% if thumb %}
-      <img src="/images/{{ thumb.split('/')[-1] }}" alt="{{ artist.name_ja or artist.name_en }}" loading="lazy">
+      {% set thumb_url = thumb.url if thumb is mapping else thumb %}
+      <img src="/images/{{ thumb_url.split('/')[-1] }}" alt="{{ artist.name_ja or artist.name_en }}" loading="lazy">
       {% endif %}
       <span class="group-card-name">{{ artist.name_ja or artist.name_en or artist.slug }}</span>
     </a>
@@ -25,7 +26,8 @@
         {% set mcolor = mex.get('color', {}) %}
         <a href="/artists/{{ m.slug or m.id }}" class="member-chip{% if mcolor.get('hex') %} member-chip--colored{% endif %}"{% if mcolor.get('hex') %} style="--chip-color: {{ mcolor['hex'] }}"{% endif %}>
           {% if mimg %}
-          <img src="/images/{{ mimg.split('/')[-1] }}" alt="{{ m.name_ja or m.name_en }}" loading="lazy">
+          {% set mimg_url = mimg.url if mimg is mapping else mimg %}
+          <img src="/images/{{ mimg_url.split('/')[-1] }}" alt="{{ m.name_ja or m.name_en }}" loading="lazy">
           {% else %}
           <span class="chip-ph">👤</span>
           {% endif %}

@@ -7,8 +7,14 @@
   "nameEn": "Hana Goto",
   "nameKana": "ゴトウ ハナ",
   "images": [
-    "/upload/images/02644815dffb69b41bafbd29b38b00a4d8bd7c938d0b3f80dbc49e6c2dc65e83.webp",
-    "/upload/images/fb825ab377ac7346d080050d9b409ad50ec312261f3dca232fe015bf366651e1.webp"
+    {
+      "url": "/upload/images/02644815dffb69b41bafbd29b38b00a4d8bd7c938d0b3f80dbc49e6c2dc65e83.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/fb825ab377ac7346d080050d9b409ad50ec312261f3dca232fe015bf366651e1.webp",
+      "ts": "20260517191000"
+    }
   ],
   "color": {
     "name": "シーブルー",

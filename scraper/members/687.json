@@ -7,8 +7,14 @@
   "nameEn": "Sara Someya",
   "nameKana": "ソメヤ サラ",
   "images": [
-    "/upload/images/da1a1a3f065afc04851cd8193c9da252d3454b28.webp",
-    "/upload/images/8137fe7afbcb4a019c8d3b1edb9a19acebef1af3.webp"
+    {
+      "url": "/upload/images/da1a1a3f065afc04851cd8193c9da252d3454b28.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/8137fe7afbcb4a019c8d3b1edb9a19acebef1af3.webp",
+      "ts": "20260517191000"
+    }
   ],
   "details": {
     "ニックネーム": "さーちゃん、そめさら、らんらん",

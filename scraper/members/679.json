@@ -7,8 +7,14 @@
   "nameEn": "Moa Suzuki",
   "nameKana": "スズキ モア",
   "images": [
-    "/upload/images/a1f87ec13670647544733394be475c7036e61bac.webp",
-    "/upload/images/c47ab767b402bf8521bb66f183227990946eff1d.webp"
+    {
+      "url": "/upload/images/a1f87ec13670647544733394be475c7036e61bac.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/c47ab767b402bf8521bb66f183227990946eff1d.webp",
+      "ts": "20260517191000"
+    }
   ],
   "details": {
     "ニックネーム": "すーも",

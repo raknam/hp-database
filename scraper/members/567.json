@@ -7,24 +7,78 @@
   "nameEn": "Shion Tamenaga",
   "nameKana": "タメナガ シオン",
   "images": [
-    "/upload/images/7aefc89ed1967c4244b9bc6b2b2dd4e3607ce2f94d3a2713412561bfe28d528c.webp",
-    "/upload/images/deb6fe864aa637ab74de65baeee98c2c78d090119b1f7f7f364b91e308844377.webp",
-    "https://web.archive.org/web/20180326061752if_/http://cdn.helloproject.com/img/rotation/539acccc81a7d00e3617a472ae85b3e27a29d85c.jpg",
-    "https://web.archive.org/web/20180326061752if_/http://cdn.helloproject.com/img/rotation/00e3b48f5dd2794c5ef49ef3dd35019c48139131.jpg",
-    "https://web.archive.org/web/20180829052927if_/http://cdn.helloproject.com/img/rotation/014fda6c9524746f511742f0a4ec410621af45dd.jpg",
-    "https://web.archive.org/web/20180829052927if_/http://cdn.helloproject.com/img/rotation/d420cfa11826e0626efd99843861d02034f275da.jpg",
-    "https://web.archive.org/web/20181203104038if_/http://cdn.helloproject.com/img/rotation/88d2166f1eb1e3841d732828aad45a12c4d67958.jpg",
-    "https://web.archive.org/web/20181203104038if_/http://cdn.helloproject.com/img/rotation/95399243e7923a736b23c6cf8a3dc459bf1a3e59.jpg",
-    "https://web.archive.org/web/20190327013255if_/http://cdn.helloproject.com/img/rotation/3f4467fb26fb773be223bc062b033e58f14652b3.jpg",
-    "https://web.archive.org/web/20190327013255if_/http://cdn.helloproject.com/img/rotation/81ce559a06839394df1cafca300a7e1547e4b35c.jpg",
-    "https://web.archive.org/web/20190817170124if_/http://cdn.helloproject.com/img/rotation/e461920bc91b921edeb5bc08254040e70d8c50c6.jpg",
-    "https://web.archive.org/web/20190817170124if_/http://cdn.helloproject.com/img/rotation/d413edf769e07e9cee4370afff2e1b97669781f6.jpg",
-    "https://web.archive.org/web/20191125153004if_/http://cdn.helloproject.com/img/rotation/9a7a2b85d18a7fd43e5f52ab7a32f4ee8306d90e.jpg",
-    "https://web.archive.org/web/20191125153004if_/http://cdn.helloproject.com/img/rotation/5faf5bf143166416a843052bc2da8331ffe0431e.jpg",
-    "https://web.archive.org/web/20191214141631if_/http://cdn.helloproject.com/img/rotation/53c39ed074a06cae27e868b4f820f9ab2ab70f61.jpg",
-    "https://web.archive.org/web/20191214141631if_/http://cdn.helloproject.com/img/rotation/d91c9459feed35013b52d350d10013d4774d76e0.jpg",
-    "https://web.archive.org/web/20200706232407if_/http://cdn.helloproject.com/img/rotation/ebd22131e7300defd70914474a136b27e855fdbb.jpg",
-    "https://web.archive.org/web/20200706232407if_/http://cdn.helloproject.com/img/rotation/10105d0c09b24eea14387a782a6e337b7c6f26a3.jpg"
+    {
+      "url": "/upload/images/7aefc89ed1967c4244b9bc6b2b2dd4e3607ce2f94d3a2713412561bfe28d528c.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/deb6fe864aa637ab74de65baeee98c2c78d090119b1f7f7f364b91e308844377.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "https://web.archive.org/web/20200706232407if_/http://cdn.helloproject.com/img/rotation/ebd22131e7300defd70914474a136b27e855fdbb.jpg",
+      "ts": "20200706232407"
+    },
+    {
+      "url": "https://web.archive.org/web/20200706232407if_/http://cdn.helloproject.com/img/rotation/10105d0c09b24eea14387a782a6e337b7c6f26a3.jpg",
+      "ts": "20200706232407"
+    },
+    {
+      "url": "https://web.archive.org/web/20191214141631if_/http://cdn.helloproject.com/img/rotation/53c39ed074a06cae27e868b4f820f9ab2ab70f61.jpg",
+      "ts": "20191214141631"
+    },
+    {
+      "url": "https://web.archive.org/web/20191214141631if_/http://cdn.helloproject.com/img/rotation/d91c9459feed35013b52d350d10013d4774d76e0.jpg",
+      "ts": "20191214141631"
+    },
+    {
+      "url": "https://web.archive.org/web/20191125153004if_/http://cdn.helloproject.com/img/rotation/9a7a2b85d18a7fd43e5f52ab7a32f4ee8306d90e.jpg",
+      "ts": "20191125153004"
+    },
+    {
+      "url": "https://web.archive.org/web/20191125153004if_/http://cdn.helloproject.com/img/rotation/5faf5bf143166416a843052bc2da8331ffe0431e.jpg",
+      "ts": "20191125153004"
+    },
+    {
+      "url": "https://web.archive.org/web/20190817170124if_/http://cdn.helloproject.com/img/rotation/e461920bc91b921edeb5bc08254040e70d8c50c6.jpg",
+      "ts": "20190817170124"
+    },
+    {
+      "url": "https://web.archive.org/web/20190817170124if_/http://cdn.helloproject.com/img/rotation/d413edf769e07e9cee4370afff2e1b97669781f6.jpg",
+      "ts": "20190817170124"
+    },
+    {
+      "url": "https://web.archive.org/web/20190327013255if_/http://cdn.helloproject.com/img/rotation/3f4467fb26fb773be223bc062b033e58f14652b3.jpg",
+      "ts": "20190327013255"
+    },
+    {
+      "url": "https://web.archive.org/web/20190327013255if_/http://cdn.helloproject.com/img/rotation/81ce559a06839394df1cafca300a7e1547e4b35c.jpg",
+      "ts": "20190327013255"
+    },
+    {
+      "url": "https://web.archive.org/web/20181203104038if_/http://cdn.helloproject.com/img/rotation/88d2166f1eb1e3841d732828aad45a12c4d67958.jpg",
+      "ts": "20181203104038"
+    },
+    {
+      "url": "https://web.archive.org/web/20181203104038if_/http://cdn.helloproject.com/img/rotation/95399243e7923a736b23c6cf8a3dc459bf1a3e59.jpg",
+      "ts": "20181203104038"
+    },
+    {
+      "url": "https://web.archive.org/web/20180829052927if_/http://cdn.helloproject.com/img/rotation/014fda6c9524746f511742f0a4ec410621af45dd.jpg",
+      "ts": "20180829052927"
+    },
+    {
+      "url": "https://web.archive.org/web/20180829052927if_/http://cdn.helloproject.com/img/rotation/d420cfa11826e0626efd99843861d02034f275da.jpg",
+      "ts": "20180829052927"
+    },
+    {
+      "url": "https://web.archive.org/web/20180326061752if_/http://cdn.helloproject.com/img/rotation/539acccc81a7d00e3617a472ae85b3e27a29d85c.jpg",
+      "ts": "20180326061752"
+    },
+    {
+      "url": "https://web.archive.org/web/20180326061752if_/http://cdn.helloproject.com/img/rotation/00e3b48f5dd2794c5ef49ef3dd35019c48139131.jpg",
+      "ts": "20180326061752"
+    }
   ],
   "role": "サブリーダー",
   "color": {

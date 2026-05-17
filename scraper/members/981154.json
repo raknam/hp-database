@@ -6,7 +6,10 @@
   "nameJa": "井上玲音",
   "nameKana": "イノウエ レイ",
   "images": [
-    "https://web.archive.org/web/20200419182919if_/http://cdn.helloproject.com/img/rotation/3dd3539e6890673e120774d5fbf903116fe288b6.jpg"
+    {
+      "url": "https://web.archive.org/web/20200419182919if_/http://cdn.helloproject.com/img/rotation/3dd3539e6890673e120774d5fbf903116fe288b6.jpg",
+      "ts": "20200419182919"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -25,6 +28,8 @@
     "座右の銘": "温故知新",
     "ハロー！プロジェクト加入": "2015年1月2日(こぶしファクトリー結成日)"
   },
-  "_nameJa": "井上玲音",
+  "groups": [
+    "helloprokenshusei"
+  ],
   "nameEn": "Rei Inoue"
 }

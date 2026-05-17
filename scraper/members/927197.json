@@ -16,6 +16,8 @@
     "血液型": "B型",
     "出身地": "北海道"
   },
-  "_nameJa": "谷本安美",
+  "groups": [
+    "helloprokenshusei"
+  ],
   "nameEn": "Ami Tanimoto"
 }

@@ -119,20 +119,33 @@ def import_artists(session: Session, artist_list: dict) -> dict[str, int]:
 
     print(f"  Importing {len(artists_by_id)} artists…")
 
-    def _extract_image_urls(profile: dict) -> list[str]:
-        """Normalize profilesById image dict → flat list of URL strings."""
+    def _parse_version_ts(version: str) -> str | None:
+        m = re.fullmatch(r"(\d{2})(\d{2})(\d{2})(\d{2})(\d{2})-\w+", version)
+        if m:
+            yy, mo, dd, hh, mi = m.groups()
+            return f"20{yy}{mo}{dd}{hh}{mi}00"
+        return None
+
+    version_data = load_json(SCRAPER_DIR / "releases" / "version.json") or {}
+    import_ts = (
+        _parse_version_ts(version_data.get("version", ""))
+        or datetime.now(timezone.utc).strftime("%Y%m%d%H%M%S")
+    )
+    print(f"  Site version timestamp: {import_ts}")
+
+    def _extract_image_urls(profile: dict) -> list[dict]:
+        """Normalize profilesById image dict → flat list of {"url": ..., "ts": ...} dicts."""
         imgs = profile.get("images", {})
         if isinstance(imgs, list):
-            return [u for u in imgs if isinstance(u, str)]
+            return [{"url": u, "ts": import_ts} for u in imgs if isinstance(u, str)]
         urls: list[str] = []
-        # profile[] comes first (higher resolution)
         for item in imgs.get("profile", []):
             if isinstance(item, dict) and item.get("url"):
                 urls.append(item["url"])
         thumb = imgs.get("thumbnail", {})
         if isinstance(thumb, dict) and thumb.get("url"):
             urls.append(thumb["url"])
-        return urls
+        return [{"url": u, "ts": import_ts} for u in urls]
 
     # Upsert all artists
     for ext_id, artist_data in artists_by_id.items():
@@ -260,6 +273,10 @@ def import_members(session: Session) -> None:
     # Cache group lookup by slug to avoid repeated queries
     _group_cache: dict[str, Artist] = {}
 
+    _VIRTUAL_GROUP_NAMES: dict[str, tuple[str | None, str | None]] = {
+        "upfront": ("アップフロントワークス", "Up-Front Works"),
+    }
+
     def _get_or_create_group(slug: str) -> Artist | None:
         if slug in _group_cache:
             return _group_cache[slug]
@@ -267,7 +284,9 @@ def import_members(session: Session) -> None:
             select(Artist).where(Artist.slug == slug, Artist.kind == "group")
         ).scalar_one_or_none()
         if not group:
-            group = Artist(source="hp_official", slug=slug, kind="group")
+            name_ja, name_en = _VIRTUAL_GROUP_NAMES.get(slug, (None, None))
+            group = Artist(source="hp_official", slug=slug, kind="group",
+                           name_ja=name_ja, name_en=name_en)
             session.add(group)
             session.flush()
         _group_cache[slug] = group
@@ -318,16 +337,19 @@ def import_members(session: Session) -> None:
                 continue
             if enrichment_only and key in extra:
                 continue  # don't overwrite official data with archival data
+            if key == "images":
+                val = [{"url": i} if isinstance(i, str) else i for i in val]
             extra[key] = val
-        if not enrichment_only and extra.get("images"):
-            extra["images"] = list(reversed(extra["images"]))
         artist.extra = extra or None
 
         session.flush()
 
-        # For former members, create group → member relation if not already present
-        if data.get("has_grad") and data.get("group"):
-            group = _get_or_create_group(data["group"])
+        # Create group → member relations (supports multi-group via groups list)
+        group_slugs: list[str] = data.get("groups") or (
+            [data["group"]] if data.get("has_grad") and data.get("group") else []
+        )
+        for gslug in group_slugs:
+            group = _get_or_create_group(gslug)
             if group:
                 rel = session.execute(
                     select(ArtistRelation).where(
@@ -519,9 +541,17 @@ def _upsert_tracks(session: Session, disc: Disc, tracks_data: list) -> None:
             session.delete(track)
 
 
-def import_catalogue(session: Session, name_map: dict[str, int], year: int | None = None) -> None:
-    pattern = f"{year}_releases.json" if year else "*_releases.json"
-    files = sorted((SCRAPER_DIR / "releases").glob(pattern))
+def import_catalogue(session: Session, name_map: dict[str, int],
+                     year: int | None = None, all_years: bool = False) -> None:
+    releases_dir = SCRAPER_DIR / "releases"
+    if year:
+        files = sorted(releases_dir.glob(f"{year}_releases.json"))
+    elif all_years:
+        files = sorted(releases_dir.glob("*_releases.json"))
+    else:
+        current = date.today().year
+        files = [f for y in (current, current + 1)
+                 if (f := releases_dir / f"{y}_releases.json").exists()]
     print(f"  Importing catalogue from {len(files)} year file(s)…")
     for f in files:
         data = load_json(f)
@@ -702,6 +732,8 @@ def main() -> None:
     parser.add_argument("--songs", action="store_true", help="Run songs resolution pass only")
     parser.add_argument("--incremental", action="store_true",
                         help="Skip release detail files not modified since last import")
+    parser.add_argument("--all-years", action="store_true", dest="all_years",
+                        help="Catalogue: import all years (default: current + next only)")
     args = parser.parse_args()
 
     if not any([args.all, args.artists, args.members, args.releases,
@@ -730,7 +762,7 @@ def main() -> None:
 
         if args.all or args.releases:
             print("[catalogue]")
-            import_catalogue(session, name_map)
+            import_catalogue(session, name_map, all_years=args.all_years)
             print("[release details]")
             import_release_details(session, name_map, incremental=args.incremental)
 

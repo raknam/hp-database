@@ -6,37 +6,130 @@
   "nameJa": "上國料萌衣",
   "nameKana": "カミコクリョウ モエ",
   "images": [
-    "https://web.archive.org/web/20160127093611if_/http://cdn.helloproject.com/img/rotation/a4e86bdd885e080072c2b5954baf7bd8c3b768f1.jpg",
-    "https://web.archive.org/web/20160420183919if_/http://cdn.helloproject.com/img/rotation/32fe3faa9f4b2a00b8f3eda3f88f845cee694964.jpg",
-    "https://web.archive.org/web/20160420183919if_/http://cdn.helloproject.com/img/rotation/8c85dae1576f8c0875949c4ee9d6767c8b9b01aa.jpg",
-    "https://web.archive.org/web/20161006232956if_/http://cdn.helloproject.com/img/rotation/f7313ccd17e491d73dcac98715c8484da204ba54.jpg",
-    "https://web.archive.org/web/20161006232956if_/http://cdn.helloproject.com/img/rotation/37be52a02fc4cb2991c1804c789acedc7a744a66.jpg",
-    "https://web.archive.org/web/20170602232908if_/http://cdn.helloproject.com/img/rotation/7461ea12f8c86ab7219dd3bdc2b7ab6408825ff6.jpg",
-    "https://web.archive.org/web/20171108225007if_/http://cdn.helloproject.com/img/rotation/000700afd8e61571da5141661adbd79ee0b50f58.jpg",
-    "https://web.archive.org/web/20180413062030if_/http://cdn.helloproject.com/img/rotation/6f640b0447444c7313d4391428dd1ba238a56e55.jpg",
-    "https://web.archive.org/web/20180927103251if_/http://cdn.helloproject.com/img/rotation/321afdfe4e2fb4d715c43d42f39df5ed857b8eeb.jpg",
-    "https://web.archive.org/web/20190316064539if_/http://cdn.helloproject.com/img/rotation/33e0d6e8faebfe0cb2572fc7e458e160242d5ad9.jpg",
-    "https://web.archive.org/web/20190615020732if_/http://cdn.helloproject.com/img/rotation/608347b202d4e5b1a4fbca34bae83689df62eb34.jpg",
-    "https://web.archive.org/web/20190821070044if_/http://cdn.helloproject.com/img/rotation/0e2cac46e4db458018eb60eefe87793bca68a236.jpg",
-    "https://web.archive.org/web/20191020184400if_/http://cdn.helloproject.com/img/rotation/979bbb9c36798594dcbe59f14039b739768f9934.jpg",
-    "https://web.archive.org/web/20200811080929if_/http://cdn.helloproject.com/img/rotation/5a037a34585e4fe8b2fda605a831b82a50f4f7ff.jpg",
-    "https://web.archive.org/web/20201103235102if_/http://cdn.helloproject.com/img/rotation/055c44dbeb3079f2e09d6ed5b5f1b1669abbf80e.jpg",
-    "https://web.archive.org/web/20201103235102if_/http://cdn.helloproject.com/img/rotation/159980f5eed1c152d4e5e17d2968a8ab39f3eb51.jpg",
-    "https://web.archive.org/web/20210719231338if_/http://cdn.helloproject.com/img/rotation/37a0776e84a7cca2405af267b5969335361e10b4.jpg",
-    "https://web.archive.org/web/20210719231338if_/http://cdn.helloproject.com/img/rotation/02f5d3f7ac7676ca12a949d3a58042d42165f3a4.jpg",
-    "https://web.archive.org/web/20211127234604if_/http://cdn.helloproject.com/img/rotation/9024093b1660a2430a540962054ae82412224f87.jpg",
-    "https://web.archive.org/web/20220802214943if_/http://cdn.helloproject.com/img/rotation/e2c23912456cb5279b9edd7181b22ec5511e273b.jpg",
-    "https://web.archive.org/web/20220911131818if_/http://cdn.helloproject.com/img/rotation/8d0a7c52c3099df8e8c3dfa5c3c275fed6019e46.jpg",
-    "https://web.archive.org/web/20230301030449if_/http://cdn.helloproject.com/img/rotation/e44dc4af105926afc3a1c559eacb7982ef6b0f30.jpg",
-    "https://web.archive.org/web/20230610113737if_/http://cdn.helloproject.com/img/rotation/fda8dbbeda3551e077321b774308ab27e903fe05.jpg",
-    "https://web.archive.org/web/20230610113737if_/http://cdn.helloproject.com/img/rotation/12e3bc937ff9e6c28bc583e7bd3905f3d8f1d921.jpg",
-    "https://web.archive.org/web/20231014155053if_/http://cdn.helloproject.com/img/rotation/2875b1496705fd8c225350a6eda71af57ae8c99c.jpg",
-    "https://web.archive.org/web/20231122025612if_/http://cdn.helloproject.com/img/rotation/7b139a5369f542febc303465a8c4bedc4076fdb0.jpg",
-    "https://web.archive.org/web/20240407060619if_/http://cdn.helloproject.com/img/rotation/1633e1db6dbf0486c7592b30b4929c4d5cfecad7.jpg",
-    "https://web.archive.org/web/20240921123222if_/http://cdn.helloproject.com/img/rotation/8cd05a4f7f36a6f9976b5f6867afee1823b635ca.jpg",
-    "https://web.archive.org/web/20240921123222if_/http://cdn.helloproject.com/img/rotation/185fe1f6804ddf42e96d5b4e174a8be200872442.jpg",
-    "https://web.archive.org/web/20241009163815if_/https://cdn.helloproject.com/img/rotation/185fe1f6804ddf42e96d5b4e174a8be200872442.jpg",
-    "https://web.archive.org/web/20241009163815if_/https://cdn.helloproject.com/img/rotation/8cd05a4f7f36a6f9976b5f6867afee1823b635ca.jpg"
+    {
+      "url": "https://web.archive.org/web/20241009163815if_/https://cdn.helloproject.com/img/rotation/185fe1f6804ddf42e96d5b4e174a8be200872442.jpg",
+      "ts": "20241009163815"
+    },
+    {
+      "url": "https://web.archive.org/web/20241009163815if_/https://cdn.helloproject.com/img/rotation/8cd05a4f7f36a6f9976b5f6867afee1823b635ca.jpg",
+      "ts": "20241009163815"
+    },
+    {
+      "url": "https://web.archive.org/web/20240921123222if_/http://cdn.helloproject.com/img/rotation/8cd05a4f7f36a6f9976b5f6867afee1823b635ca.jpg",
+      "ts": "20240921123222"
+    },
+    {
+      "url": "https://web.archive.org/web/20240921123222if_/http://cdn.helloproject.com/img/rotation/185fe1f6804ddf42e96d5b4e174a8be200872442.jpg",
+      "ts": "20240921123222"
+    },
+    {
+      "url": "https://web.archive.org/web/20240407060619if_/http://cdn.helloproject.com/img/rotation/1633e1db6dbf0486c7592b30b4929c4d5cfecad7.jpg",
+      "ts": "20240407060619"
+    },
+    {
+      "url": "https://web.archive.org/web/20231122025612if_/http://cdn.helloproject.com/img/rotation/7b139a5369f542febc303465a8c4bedc4076fdb0.jpg",
+      "ts": "20231122025612"
+    },
+    {
+      "url": "https://web.archive.org/web/20231014155053if_/http://cdn.helloproject.com/img/rotation/2875b1496705fd8c225350a6eda71af57ae8c99c.jpg",
+      "ts": "20231014155053"
+    },
+    {
+      "url": "https://web.archive.org/web/20230610113737if_/http://cdn.helloproject.com/img/rotation/fda8dbbeda3551e077321b774308ab27e903fe05.jpg",
+      "ts": "20230610113737"
+    },
+    {
+      "url": "https://web.archive.org/web/20230610113737if_/http://cdn.helloproject.com/img/rotation/12e3bc937ff9e6c28bc583e7bd3905f3d8f1d921.jpg",
+      "ts": "20230610113737"
+    },
+    {
+      "url": "https://web.archive.org/web/20230301030449if_/http://cdn.helloproject.com/img/rotation/e44dc4af105926afc3a1c559eacb7982ef6b0f30.jpg",
+      "ts": "20230301030449"
+    },
+    {
+      "url": "https://web.archive.org/web/20220911131818if_/http://cdn.helloproject.com/img/rotation/8d0a7c52c3099df8e8c3dfa5c3c275fed6019e46.jpg",
+      "ts": "20220911131818"
+    },
+    {
+      "url": "https://web.archive.org/web/20220802214943if_/http://cdn.helloproject.com/img/rotation/e2c23912456cb5279b9edd7181b22ec5511e273b.jpg",
+      "ts": "20220802214943"
+    },
+    {
+      "url": "https://web.archive.org/web/20211127234604if_/http://cdn.helloproject.com/img/rotation/9024093b1660a2430a540962054ae82412224f87.jpg",
+      "ts": "20211127234604"
+    },
+    {
+      "url": "https://web.archive.org/web/20210719231338if_/http://cdn.helloproject.com/img/rotation/37a0776e84a7cca2405af267b5969335361e10b4.jpg",
+      "ts": "20210719231338"
+    },
+    {
+      "url": "https://web.archive.org/web/20210719231338if_/http://cdn.helloproject.com/img/rotation/02f5d3f7ac7676ca12a949d3a58042d42165f3a4.jpg",
+      "ts": "20210719231338"
+    },
+    {
+      "url": "https://web.archive.org/web/20201103235102if_/http://cdn.helloproject.com/img/rotation/055c44dbeb3079f2e09d6ed5b5f1b1669abbf80e.jpg",
+      "ts": "20201103235102"
+    },
+    {
+      "url": "https://web.archive.org/web/20201103235102if_/http://cdn.helloproject.com/img/rotation/159980f5eed1c152d4e5e17d2968a8ab39f3eb51.jpg",
+      "ts": "20201103235102"
+    },
+    {
+      "url": "https://web.archive.org/web/20200811080929if_/http://cdn.helloproject.com/img/rotation/5a037a34585e4fe8b2fda605a831b82a50f4f7ff.jpg",
+      "ts": "20200811080929"
+    },
+    {
+      "url": "https://web.archive.org/web/20191020184400if_/http://cdn.helloproject.com/img/rotation/979bbb9c36798594dcbe59f14039b739768f9934.jpg",
+      "ts": "20191020184400"
+    },
+    {
+      "url": "https://web.archive.org/web/20190821070044if_/http://cdn.helloproject.com/img/rotation/0e2cac46e4db458018eb60eefe87793bca68a236.jpg",
+      "ts": "20190821070044"
+    },
+    {
+      "url": "https://web.archive.org/web/20190615020732if_/http://cdn.helloproject.com/img/rotation/608347b202d4e5b1a4fbca34bae83689df62eb34.jpg",
+      "ts": "20190615020732"
+    },
+    {
+      "url": "https://web.archive.org/web/20190316064539if_/http://cdn.helloproject.com/img/rotation/33e0d6e8faebfe0cb2572fc7e458e160242d5ad9.jpg",
+      "ts": "20190316064539"
+    },
+    {
+      "url": "https://web.archive.org/web/20180927103251if_/http://cdn.helloproject.com/img/rotation/321afdfe4e2fb4d715c43d42f39df5ed857b8eeb.jpg",
+      "ts": "20180927103251"
+    },
+    {
+      "url": "https://web.archive.org/web/20180413062030if_/http://cdn.helloproject.com/img/rotation/6f640b0447444c7313d4391428dd1ba238a56e55.jpg",
+      "ts": "20180413062030"
+    },
+    {
+      "url": "https://web.archive.org/web/20171108225007if_/http://cdn.helloproject.com/img/rotation/000700afd8e61571da5141661adbd79ee0b50f58.jpg",
+      "ts": "20171108225007"
+    },
+    {
+      "url": "https://web.archive.org/web/20170602232908if_/http://cdn.helloproject.com/img/rotation/7461ea12f8c86ab7219dd3bdc2b7ab6408825ff6.jpg",
+      "ts": "20170602232908"
+    },
+    {
+      "url": "https://web.archive.org/web/20161006232956if_/http://cdn.helloproject.com/img/rotation/f7313ccd17e491d73dcac98715c8484da204ba54.jpg",
+      "ts": "20161006232956"
+    },
+    {
+      "url": "https://web.archive.org/web/20161006232956if_/http://cdn.helloproject.com/img/rotation/37be52a02fc4cb2991c1804c789acedc7a744a66.jpg",
+      "ts": "20161006232956"
+    },
+    {
+      "url": "https://web.archive.org/web/20160420183919if_/http://cdn.helloproject.com/img/rotation/32fe3faa9f4b2a00b8f3eda3f88f845cee694964.jpg",
+      "ts": "20160420183919"
+    },
+    {
+      "url": "https://web.archive.org/web/20160420183919if_/http://cdn.helloproject.com/img/rotation/8c85dae1576f8c0875949c4ee9d6767c8b9b01aa.jpg",
+      "ts": "20160420183919"
+    },
+    {
+      "url": "https://web.archive.org/web/20160127093611if_/http://cdn.helloproject.com/img/rotation/a4e86bdd885e080072c2b5954baf7bd8c3b768f1.jpg",
+      "ts": "20160127093611"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -55,6 +148,8 @@
     "座右の銘": "笑う門には福きたる",
     "ハロー！プロジェクト加入": "2015年11月11日 (アンジュルム加入日)"
   },
-  "_nameJa": "上國料萌衣",
+  "groups": [
+    "angerme"
+  ],
   "nameEn": "Moe Kamikokuryo"
 }

@@ -7,17 +7,50 @@
   "nameEn": "Natsume Nakayama",
   "nameKana": "ナカヤマ ナツメ",
   "images": [
-    "/upload/images/14db7e7af6f86d79eb71f95304007edc723ca45340d43ffa9d6b6a4023610fec.webp",
-    "/upload/images/eef9bc42b07fce339c4d0da74714f88a093d62aa2689d57154d88acf6ef423d1.webp",
-    "https://web.archive.org/web/20211224123122if_/http://cdn.helloproject.com/img/rotation/7880fc0fb57dd629023139bd86d70bced4e18fc7.jpg",
-    "https://web.archive.org/web/20211224123122if_/http://cdn.helloproject.com/img/rotation/db74c95b45a914cc0b2618b3cb5051a1e79d199f.jpg",
-    "https://web.archive.org/web/20220627001321if_/http://cdn.helloproject.com/img/rotation/f957bbdc5b8cab8727b0152a213de14621272dc3.jpg",
-    "https://web.archive.org/web/20221003135120if_/http://cdn.helloproject.com/img/rotation/2dd245bc8a9513ca2752a323f432865c1b1812ca.jpg",
-    "https://web.archive.org/web/20230612171245if_/http://cdn.helloproject.com/img/rotation/0262b8082b872b1f3fe9df26f4cf3c1326325c09.jpg",
-    "https://web.archive.org/web/20231106031427if_/http://cdn.helloproject.com/img/rotation/5f9cac12cc7e1109031f48fef09cab725ba6984a.jpg",
-    "https://web.archive.org/web/20240713192915if_/http://cdn.helloproject.com/img/rotation/4b0c23046c2bbd286ccec2306404e0fcbe545800.jpg",
-    "https://web.archive.org/web/20241130182720if_/https://cdn.helloproject.com/img/rotation/4b0c23046c2bbd286ccec2306404e0fcbe545800.jpg",
-    "/upload/images/2f5197ecc994d075692ea9b0d2804c7762f197b5.webp"
+    {
+      "url": "/upload/images/14db7e7af6f86d79eb71f95304007edc723ca45340d43ffa9d6b6a4023610fec.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/eef9bc42b07fce339c4d0da74714f88a093d62aa2689d57154d88acf6ef423d1.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/2f5197ecc994d075692ea9b0d2804c7762f197b5.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "https://web.archive.org/web/20241130182720if_/https://cdn.helloproject.com/img/rotation/4b0c23046c2bbd286ccec2306404e0fcbe545800.jpg",
+      "ts": "20241130182720"
+    },
+    {
+      "url": "https://web.archive.org/web/20240713192915if_/http://cdn.helloproject.com/img/rotation/4b0c23046c2bbd286ccec2306404e0fcbe545800.jpg",
+      "ts": "20240713192915"
+    },
+    {
+      "url": "https://web.archive.org/web/20231106031427if_/http://cdn.helloproject.com/img/rotation/5f9cac12cc7e1109031f48fef09cab725ba6984a.jpg",
+      "ts": "20231106031427"
+    },
+    {
+      "url": "https://web.archive.org/web/20230612171245if_/http://cdn.helloproject.com/img/rotation/0262b8082b872b1f3fe9df26f4cf3c1326325c09.jpg",
+      "ts": "20230612171245"
+    },
+    {
+      "url": "https://web.archive.org/web/20221003135120if_/http://cdn.helloproject.com/img/rotation/2dd245bc8a9513ca2752a323f432865c1b1812ca.jpg",
+      "ts": "20221003135120"
+    },
+    {
+      "url": "https://web.archive.org/web/20220627001321if_/http://cdn.helloproject.com/img/rotation/f957bbdc5b8cab8727b0152a213de14621272dc3.jpg",
+      "ts": "20220627001321"
+    },
+    {
+      "url": "https://web.archive.org/web/20211224123122if_/http://cdn.helloproject.com/img/rotation/7880fc0fb57dd629023139bd86d70bced4e18fc7.jpg",
+      "ts": "20211224123122"
+    },
+    {
+      "url": "https://web.archive.org/web/20211224123122if_/http://cdn.helloproject.com/img/rotation/db74c95b45a914cc0b2618b3cb5051a1e79d199f.jpg",
+      "ts": "20211224123122"
+    }
   ],
   "color": {
     "name": "ホワイト",

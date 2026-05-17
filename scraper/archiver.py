@@ -441,7 +441,7 @@ def cmd_enrich_images(args):
             print("no snapshot found, skipping")
             continue
 
-        all_images: list[str] = []
+        all_images: list[dict] = []
         seen_imgs: set[str] = set()
         for cap in captures:
             ts = cap["timestamp"]
@@ -454,18 +454,20 @@ def cmd_enrich_images(args):
             for img in parsed.get("images", []):
                 if img not in seen_imgs:
                     seen_imgs.add(img)
-                    all_images.append(f"{WAYBACK}/web/{ts}if_/{img}")
+                    all_images.append({"url": f"{WAYBACK}/web/{ts}if_/{img}", "ts": ts})
 
-        for wb_img in all_images:
-            download_image(wb_img)
+        for img_obj in all_images:
+            download_image(img_obj["url"])
 
         existing_imgs = data.get("images", [])
-        known = set(existing_imgs)
-        new_imgs = [i for i in all_images if Path(i).name not in {Path(k).name for k in known}]
-        if new_imgs:
-            data["images"] = new_imgs + existing_imgs
+        existing_objs = [{"url": i} if isinstance(i, str) else i for i in existing_imgs]
+        existing_names = {Path(o["url"]).name for o in existing_objs}
+        new_objs = [o for o in all_images if Path(o["url"]).name not in existing_names]
+        new_objs.sort(key=lambda x: x["ts"], reverse=True)
+        if new_objs or existing_objs != existing_imgs:
+            data["images"] = existing_objs + new_objs
             p.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
-            print(f"→ +{len(new_imgs)} images")
+            print(f"→ +{len(new_objs)} images")
         else:
             print("→ no new images")
 
@@ -1272,7 +1274,7 @@ def fetch_member(member: dict, force: bool):
             return
 
         profile: dict = {}
-        all_images: list[str] = []
+        all_images: list[dict] = []
         seen_imgs: set[str] = set()
         best_ts = captures[-1]["timestamp"]
 
@@ -1289,15 +1291,16 @@ def fetch_member(member: dict, force: bool):
             elif not profile.get("nameJa") and p.get("nameJa"):
                 profile = p
             for img in p.get("images", []):
-                wb_img = f"{WAYBACK}/web/{ts}if_/{img}"
                 if img not in seen_imgs:
                     seen_imgs.add(img)
-                    all_images.append(wb_img)
+                    all_images.append({"url": f"{WAYBACK}/web/{ts}if_/{img}", "ts": ts})
 
         ts = best_ts
 
-        for wb_img in all_images:
-            download_image(wb_img)
+        for img_obj in all_images:
+            download_image(img_obj["url"])
+
+        all_images.sort(key=lambda x: x["ts"], reverse=True)
 
         result = {
             "id": member_id,
@@ -1336,7 +1339,7 @@ def fetch_member(member: dict, force: bool):
             return
 
         profile: dict = {}
-        all_images: list[str] = []
+        all_images: list[dict] = []
         seen_imgs: set[str] = set()
         best_ts = captures[-1]["timestamp"]
 
@@ -1355,15 +1358,16 @@ def fetch_member(member: dict, force: bool):
             elif not profile.get("nameJa") and p.get("nameJa"):
                 profile = p
             for img in p.get("images", []):
-                wb_img = f"{WAYBACK}/web/{ts}if_/{img}"
                 if img not in seen_imgs:
                     seen_imgs.add(img)
-                    all_images.append(wb_img)
+                    all_images.append({"url": f"{WAYBACK}/web/{ts}if_/{img}", "ts": ts})
 
         ts = best_ts
 
-        for wb_img in all_images:
-            download_image(wb_img)
+        for img_obj in all_images:
+            download_image(img_obj["url"])
+
+        all_images.sort(key=lambda x: x["ts"], reverse=True)
 
         result = {
             "id": slug_to_id(slug),
@@ -1733,6 +1737,27 @@ def cmd_consolidate(args):
         raw = json.loads(MANUAL_FILE.read_text(encoding="utf-8"))
         manual = {k: v for k, v in raw.items() if not k.startswith("_")}
 
+    # Build reverse map: slug → [group_slugs] from former_discovered.json
+    discovered_groups: dict[str, list[str]] = {}
+    if DISCOVERED_FILE.exists():
+        disc = json.loads(DISCOVERED_FILE.read_text(encoding="utf-8"))
+        for group_slug, members in disc.items():
+            for m in members:
+                s = m.get("slug")
+                if s:
+                    discovered_groups.setdefault(s, []).append(group_slug)
+
+    def _compute_groups(slug: str, man: dict) -> list[str]:
+        """Derive groups list from discovered data + _extra_groups + _ufw_solo."""
+        groups: list[str] = list(discovered_groups.get(slug, []))
+        for g in man.get("_extra_groups", []):
+            if g not in groups:
+                groups.append(g)
+        if man.get("_ufw_solo") and (STAGING_UFW_DIR / f"{slug}.json").exists():
+            if "upfront" not in groups:
+                groups.append("upfront")
+        return groups
+
     # Build merge map: alias_slug → canonical_slug
     merge_into: dict[str, str] = {
         slug: v["_merge_into"]
@@ -1799,7 +1824,14 @@ def cmd_consolidate(args):
         if html_data.get("color"):
             result["color"] = html_data["color"]
 
-        seen_imgs: set[str] = {Path(i).name for i in result["images"]}
+        def _img_name(i) -> str:
+            return Path(i["url"] if isinstance(i, dict) else i).name
+
+        def _img_obj(i) -> dict:
+            return i if isinstance(i, dict) else {"url": i}
+
+        seen_imgs: set[str] = {_img_name(i) for i in result["images"]}
+        result["images"] = [_img_obj(i) for i in result["images"]]
 
         # Merge pre-html
         pre_path = STAGING_PRE_DIR / f"{slug}.json" if STAGING_PRE_DIR.exists() else None
@@ -1813,10 +1845,10 @@ def cmd_consolidate(args):
             for k, v in pre_data.get("details", {}).items():
                 details.setdefault(k, v)
             for img in pre_data.get("images", []):
-                name = Path(img).name
+                name = _img_name(img)
                 if name not in seen_imgs:
                     seen_imgs.add(name)
-                    result["images"].append(img)
+                    result["images"].append(_img_obj(img))
 
         # Merge upfront
         ufw_path = STAGING_UFW_DIR / f"{slug}.json" if STAGING_UFW_DIR.exists() else None
@@ -1829,10 +1861,10 @@ def cmd_consolidate(args):
                 if ufw_data.get("bio"):
                     result["bio"] = ufw_data["bio"]
                 for img in ufw_data.get("images", []):
-                    name = Path(img).name
+                    name = _img_name(img)
                     if name not in seen_imgs:
                         seen_imgs.add(name)
-                        result["images"].append(img)
+                        result["images"].append(_img_obj(img))
 
         if details:
             result["details"] = details
@@ -1843,12 +1875,17 @@ def cmd_consolidate(args):
             if alias_path.exists():
                 alias_data = json.loads(alias_path.read_text(encoding="utf-8"))
                 for img in alias_data.get("images", []):
-                    name = Path(img).name
+                    name = _img_name(img)
                     if name not in seen_imgs:
                         seen_imgs.add(name)
-                        result["images"].append(img)
+                        result["images"].append(_img_obj(img))
                 if DEBUG:
                     print(f"  {slug}: absorbed images from alias '{alias}'")
+
+        # Compute groups from discovered data + manual overrides
+        computed_groups = _compute_groups(slug, manual.get(slug, {}))
+        if computed_groups:
+            result["groups"] = computed_groups
 
         # Apply manual overrides (highest priority, skip internal _ keys)
         if slug in manual:
@@ -1914,10 +1951,10 @@ def cmd_consolidate(args):
 
         seen_imgs: set[str] = set()
         for img in ufw_data.get("images", []):
-            name = Path(img).name
+            name = _img_name(img)
             if name not in seen_imgs:
                 seen_imgs.add(name)
-                result.setdefault("images", []).append(img)
+                result.setdefault("images", []).append(_img_obj(img))
 
         # Also absorb pre-html if present
         pre_path = STAGING_PRE_DIR / f"{slug}.json" if STAGING_PRE_DIR.exists() else None
@@ -1930,14 +1967,17 @@ def cmd_consolidate(args):
                 result["nameKana"] = pre_data["nameKana"]
             details: dict = dict(pre_data.get("details", {}))
             for img in pre_data.get("images", []):
-                name = Path(img).name
+                name = _img_name(img)
                 if name not in seen_imgs:
                     seen_imgs.add(name)
-                    result.setdefault("images", []).append(img)
+                    result.setdefault("images", []).append(_img_obj(img))
             if details:
                 result["details"] = details
 
-        # Apply manual overrides (skip internal _ keys)
+        # Compute groups + apply manual overrides
+        computed_groups = _compute_groups(slug, manual.get(slug, {}))
+        if computed_groups:
+            result["groups"] = computed_groups
         for k, v in manual.get(slug, {}).items():
             if not k.startswith("_"):
                 result[k] = v

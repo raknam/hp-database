@@ -7,8 +7,14 @@
   "nameEn": "Hanano Ishikawa",
   "nameKana": "イシカワ ハナノ",
   "images": [
-    "/upload/images/6d1f88d6d7ec2558f7b9ae5d68e2dad149573576.webp",
-    "/upload/images/821e624496d079b35a3071cc508e77288cd28fa8.webp"
+    {
+      "url": "/upload/images/6d1f88d6d7ec2558f7b9ae5d68e2dad149573576.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/821e624496d079b35a3071cc508e77288cd28fa8.webp",
+      "ts": "20260517191000"
+    }
   ],
   "details": {
     "ニックネーム": "はな、はなのん、のんのん",

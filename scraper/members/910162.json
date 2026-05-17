@@ -6,14 +6,38 @@
   "nameJa": "小川麗奈",
   "nameKana": "オガワ レナ",
   "images": [
-    "https://web.archive.org/web/20140424015717if_/http://cdn.helloproject.com/img/rotation/ad6c59803381cdd78190d597757448c365ee54d2.jpg",
-    "https://web.archive.org/web/20140424015717if_/http://cdn.helloproject.com/img/rotation/8bf99171df6a858379c9dad1752aa1bb45448a6d.jpg",
-    "https://web.archive.org/web/20150424125439if_/http://cdn.helloproject.com/img/rotation/d8df5bf43fe5e632b3d1c017cb0eaa208e36d615.jpg",
-    "https://web.archive.org/web/20150424125439if_/http://cdn.helloproject.com/img/rotation/4c8568453fd0d1d7c391e64f1f25473f68d54d38.jpg",
-    "https://web.archive.org/web/20150905104602if_/http://cdn.helloproject.com/img/rotation/1fd1b9dc1e4090323a5434d27a7a8eaf9824fbca.jpg",
-    "https://web.archive.org/web/20150905104602if_/http://cdn.helloproject.com/img/rotation/4e876dffb0173213e25802c5d0f86513472bae88.jpg",
-    "https://web.archive.org/web/20160305041344if_/http://cdn.helloproject.com/img/rotation/623ecf586484bdcfe2f5b146d05ee3f2fa1f80ed.jpg",
-    "https://web.archive.org/web/20160305041344if_/http://cdn.helloproject.com/img/rotation/e81c41e3ebee0bdcf1bb8b2c8d5ece78149d1163.jpg"
+    {
+      "url": "https://web.archive.org/web/20160305041344if_/http://cdn.helloproject.com/img/rotation/623ecf586484bdcfe2f5b146d05ee3f2fa1f80ed.jpg",
+      "ts": "20160305041344"
+    },
+    {
+      "url": "https://web.archive.org/web/20160305041344if_/http://cdn.helloproject.com/img/rotation/e81c41e3ebee0bdcf1bb8b2c8d5ece78149d1163.jpg",
+      "ts": "20160305041344"
+    },
+    {
+      "url": "https://web.archive.org/web/20150905104602if_/http://cdn.helloproject.com/img/rotation/1fd1b9dc1e4090323a5434d27a7a8eaf9824fbca.jpg",
+      "ts": "20150905104602"
+    },
+    {
+      "url": "https://web.archive.org/web/20150905104602if_/http://cdn.helloproject.com/img/rotation/4e876dffb0173213e25802c5d0f86513472bae88.jpg",
+      "ts": "20150905104602"
+    },
+    {
+      "url": "https://web.archive.org/web/20150424125439if_/http://cdn.helloproject.com/img/rotation/d8df5bf43fe5e632b3d1c017cb0eaa208e36d615.jpg",
+      "ts": "20150424125439"
+    },
+    {
+      "url": "https://web.archive.org/web/20150424125439if_/http://cdn.helloproject.com/img/rotation/4c8568453fd0d1d7c391e64f1f25473f68d54d38.jpg",
+      "ts": "20150424125439"
+    },
+    {
+      "url": "https://web.archive.org/web/20140424015717if_/http://cdn.helloproject.com/img/rotation/ad6c59803381cdd78190d597757448c365ee54d2.jpg",
+      "ts": "20140424015717"
+    },
+    {
+      "url": "https://web.archive.org/web/20140424015717if_/http://cdn.helloproject.com/img/rotation/8bf99171df6a858379c9dad1752aa1bb45448a6d.jpg",
+      "ts": "20140424015717"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -32,6 +56,8 @@
     "座右の銘": "一期一会",
     "ハロー！プロジェクト加入": "2011年6月(ハロプロエッグ加入日)"
   },
-  "_nameJa": "小川麗奈",
+  "groups": [
+    "helloprokenshusei"
+  ],
   "nameEn": "Rena Ogawa"
 }

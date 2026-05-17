@@ -7,8 +7,14 @@
   "nameEn": "Riina Nagai",
   "nameKana": "ナガイ リイナ",
   "images": [
-    "/upload/images/d35e7762174b57c35289d40705314fbac6fc77bb.webp",
-    "/upload/images/b70921db053db3864d0228562435bd1889d2639a.webp"
+    {
+      "url": "/upload/images/d35e7762174b57c35289d40705314fbac6fc77bb.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/b70921db053db3864d0228562435bd1889d2639a.webp",
+      "ts": "20260517191000"
+    }
   ],
   "details": {
     "ニックネーム": "りいな、りぃちゃん",

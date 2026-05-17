@@ -6,8 +6,14 @@
   "nameJa": "有澤一華",
   "nameKana": "アリサワ イチカ",
   "images": [
-    "https://web.archive.org/web/20210707105444if_/http://cdn.helloproject.com/img/rotation/e45e4dc713a0cfdc5a757f7dd01b74837e8afb21.jpg",
-    "https://web.archive.org/web/20210707105444if_/http://cdn.helloproject.com/img/rotation/85c809fcaa24d2f612e4e5da004e5ff5d832dec6.jpg"
+    {
+      "url": "https://web.archive.org/web/20210707105444if_/http://cdn.helloproject.com/img/rotation/e45e4dc713a0cfdc5a757f7dd01b74837e8afb21.jpg",
+      "ts": "20210707105444"
+    },
+    {
+      "url": "https://web.archive.org/web/20210707105444if_/http://cdn.helloproject.com/img/rotation/85c809fcaa24d2f612e4e5da004e5ff5d832dec6.jpg",
+      "ts": "20210707105444"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -25,6 +31,8 @@
     "座右の銘": "日日是好日",
     "ハロー！プロジェクト加入": "2020年11月(ハロプロ研修生加入日)"
   },
-  "_nameJa": "有澤一華",
+  "groups": [
+    "helloprokenshusei"
+  ],
   "nameEn": "Ichika Arisawa"
 }

@@ -16,6 +16,8 @@
     "血液型": "A型",
     "出身地": "愛知県"
   },
-  "_nameJa": "米村姫良々",
+  "groups": [
+    "helloprokenshusei"
+  ],
   "nameEn": "Kirara Yonemura"
 }

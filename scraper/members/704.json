@@ -7,8 +7,14 @@
   "nameEn": "Shiharu Saeki",
   "nameKana": "サエキ シハル",
   "images": [
-    "/upload/images/72b500902f2ddab410305745f667ab0f61337ee4.webp",
-    "/upload/images/b022767669161108308d0ec5b68ffc27fb229ffd.webp"
+    {
+      "url": "/upload/images/72b500902f2ddab410305745f667ab0f61337ee4.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/b022767669161108308d0ec5b68ffc27fb229ffd.webp",
+      "ts": "20260517191000"
+    }
   ],
   "details": {
     "ニックネーム": "し～ちゃん",

@@ -6,8 +6,14 @@
   "nameJa": "西﨑美空",
   "nameKana": "ニシザキ ミク",
   "images": [
-    "https://web.archive.org/web/20211224041354if_/http://cdn.helloproject.com/img/rotation/d2059cdb826a4699f907f19de1494ecfc1e9ce05.jpg",
-    "https://web.archive.org/web/20211224041354if_/http://cdn.helloproject.com/img/rotation/0000641998b023a9889792f80fa290392a7bdbc6.jpg"
+    {
+      "url": "https://web.archive.org/web/20211224041354if_/http://cdn.helloproject.com/img/rotation/d2059cdb826a4699f907f19de1494ecfc1e9ce05.jpg",
+      "ts": "20211224041354"
+    },
+    {
+      "url": "https://web.archive.org/web/20211224041354if_/http://cdn.helloproject.com/img/rotation/0000641998b023a9889792f80fa290392a7bdbc6.jpg",
+      "ts": "20211224041354"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -24,6 +30,8 @@
     "座右の銘": "感謝の気持ち",
     "ハロー！プロジェクト加入": "2019年8月(ハロプロ研修生加入日)"
   },
-  "_nameJa": "西﨑美空",
+  "groups": [
+    "helloprokenshusei"
+  ],
   "nameEn": "Miku Nishizaki"
 }

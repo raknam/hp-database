@@ -7,8 +7,14 @@
   "nameEn": "Sara Karibe",
   "nameKana": "カリベ サラ",
   "images": [
-    "/upload/images/30094bf53fb55b2a710aaa43998dad01d9986bb2.webp",
-    "/upload/images/847f7593f3eba50904e3603161520ab5d74bb44b.webp"
+    {
+      "url": "/upload/images/30094bf53fb55b2a710aaa43998dad01d9986bb2.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/847f7593f3eba50904e3603161520ab5d74bb44b.webp",
+      "ts": "20260517191000"
+    }
   ],
   "details": {
     "ニックネーム": "さら、サラン、ちゃーちゃん",

@@ -6,7 +6,10 @@
   "nameJa": "稲場愛香",
   "nameKana": "イナバ マナカ",
   "images": [
-    "/images/94d1d096b09635270b7a8ed5ebc472c350a0f5df.jpg"
+    {
+      "url": "/images/94d1d096b09635270b7a8ed5ebc472c350a0f5df.jpg",
+      "ts": "20260517191000"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -20,5 +23,11 @@
     "血液型": "B型",
     "出身地": "北海道"
   },
+  "groups": [
+    "helloprokenshusei",
+    "countrygirls",
+    "juicejuice",
+    "upfront"
+  ],
   "nameEn": "Manaka Inaba"
 }

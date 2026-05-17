@@ -6,13 +6,34 @@
   "nameJa": "嗣永桃子",
   "nameKana": "ツグナガ モモコ",
   "images": [
-    "https://web.archive.org/web/20140424052339if_/http://cdn.helloproject.com/img/rotation/7746fb86f5ebb4ca81329dfd51c6b20afacaaa62.jpg",
-    "https://web.archive.org/web/20140424052339if_/http://cdn.helloproject.com/img/rotation/23a785899e1c6892f1fd034dd7f78abf8811cfda.jpg",
-    "https://web.archive.org/web/20140702032958if_/http://cdn.helloproject.com/img/rotation/627ed3f7fd4e91ae2ef7ae3efedbb37008b95321.jpg",
-    "https://web.archive.org/web/20140702032958if_/http://cdn.helloproject.com/img/rotation/1913defb1dad2477d8f614090b8378d14477593e.jpg",
-    "https://web.archive.org/web/20141104120453if_/http://cdn.helloproject.com/img/rotation/SRzMvCiKJ88ApC3t8s2np3Nm6Audqug6TdUJsKRc.jpg",
-    "https://web.archive.org/web/20141104120453if_/http://cdn.helloproject.com/img/rotation/v5AnVZQEbfmnzgmQgTm4fKti2pbka4tiiYecH6cp.jpg",
-    "https://web.archive.org/web/20150101044709if_/http://cdn.helloproject.com/img/rotation/94e4b31cd9d9d08e120902474d4706c6f2f0496d.jpg"
+    {
+      "url": "https://web.archive.org/web/20150101044709if_/http://cdn.helloproject.com/img/rotation/94e4b31cd9d9d08e120902474d4706c6f2f0496d.jpg",
+      "ts": "20150101044709"
+    },
+    {
+      "url": "https://web.archive.org/web/20141104120453if_/http://cdn.helloproject.com/img/rotation/SRzMvCiKJ88ApC3t8s2np3Nm6Audqug6TdUJsKRc.jpg",
+      "ts": "20141104120453"
+    },
+    {
+      "url": "https://web.archive.org/web/20141104120453if_/http://cdn.helloproject.com/img/rotation/v5AnVZQEbfmnzgmQgTm4fKti2pbka4tiiYecH6cp.jpg",
+      "ts": "20141104120453"
+    },
+    {
+      "url": "https://web.archive.org/web/20140702032958if_/http://cdn.helloproject.com/img/rotation/627ed3f7fd4e91ae2ef7ae3efedbb37008b95321.jpg",
+      "ts": "20140702032958"
+    },
+    {
+      "url": "https://web.archive.org/web/20140702032958if_/http://cdn.helloproject.com/img/rotation/1913defb1dad2477d8f614090b8378d14477593e.jpg",
+      "ts": "20140702032958"
+    },
+    {
+      "url": "https://web.archive.org/web/20140424052339if_/http://cdn.helloproject.com/img/rotation/7746fb86f5ebb4ca81329dfd51c6b20afacaaa62.jpg",
+      "ts": "20140424052339"
+    },
+    {
+      "url": "https://web.archive.org/web/20140424052339if_/http://cdn.helloproject.com/img/rotation/23a785899e1c6892f1fd034dd7f78abf8811cfda.jpg",
+      "ts": "20140424052339"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -31,6 +52,8 @@
     "座右の銘": "可愛さ余って憎さ0倍♡",
     "ハロー！プロジェクト加入": "2004年1月14日 (Berryz工房結成日)"
   },
-  "_nameJa": "嗣永桃子",
+  "groups": [
+    "berryzkobo"
+  ],
   "nameEn": "Momoko Tsugunaga"
 }

@@ -7,8 +7,14 @@
   "nameEn": "Risa Irie",
   "nameKana": "イリエ リサ",
   "images": [
-    "/upload/images/20e4f84b1dd1b66c12371b95bf666c9ca948b041.webp",
-    "/upload/images/e2ff3b4f60526a35f077b38b7938f0f91ad425ec.webp"
+    {
+      "url": "/upload/images/20e4f84b1dd1b66c12371b95bf666c9ca948b041.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/e2ff3b4f60526a35f077b38b7938f0f91ad425ec.webp",
+      "ts": "20260517191000"
+    }
   ],
   "color": {
     "name": "ライトパープル",

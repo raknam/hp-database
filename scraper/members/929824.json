@@ -6,10 +6,22 @@
   "nameJa": "牧野真莉愛",
   "nameKana": "マキノ マリア",
   "images": [
-    "https://web.archive.org/web/20140424020350if_/http://cdn.helloproject.com/img/rotation/c3ce19a7d65f132476138f7a3cbba90393114a55.jpg",
-    "https://web.archive.org/web/20140424020350if_/http://cdn.helloproject.com/img/rotation/380b56918bfbd4028078082e0048bedbc84098ad.jpg",
-    "https://web.archive.org/web/20160217123540if_/http://cdn.helloproject.com/img/rotation/8a1854f461a23d84d8b866196762a0e931921b39.jpg",
-    "https://web.archive.org/web/20160217123540if_/http://cdn.helloproject.com/img/rotation/640b6fc9d028d307c17923c0eb1139c1b3d74b3e.jpg"
+    {
+      "url": "https://web.archive.org/web/20160217123540if_/http://cdn.helloproject.com/img/rotation/8a1854f461a23d84d8b866196762a0e931921b39.jpg",
+      "ts": "20160217123540"
+    },
+    {
+      "url": "https://web.archive.org/web/20160217123540if_/http://cdn.helloproject.com/img/rotation/640b6fc9d028d307c17923c0eb1139c1b3d74b3e.jpg",
+      "ts": "20160217123540"
+    },
+    {
+      "url": "https://web.archive.org/web/20140424020350if_/http://cdn.helloproject.com/img/rotation/c3ce19a7d65f132476138f7a3cbba90393114a55.jpg",
+      "ts": "20140424020350"
+    },
+    {
+      "url": "https://web.archive.org/web/20140424020350if_/http://cdn.helloproject.com/img/rotation/380b56918bfbd4028078082e0048bedbc84098ad.jpg",
+      "ts": "20140424020350"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -28,6 +40,8 @@
     "座右の銘": "克己心",
     "ハロー！プロジェクト加入": "2012年11月(ハロプロ研修生加入日)"
   },
-  "_nameJa": "牧野真莉愛",
+  "groups": [
+    "helloprokenshusei"
+  ],
   "nameEn": "Maria Makino"
 }

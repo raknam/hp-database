@@ -7,8 +7,14 @@
   "nameEn": "Yuna Aoki",
   "nameKana": "アオキ ユウナ",
   "images": [
-    "/upload/images/73125faeadce200fb4f9e2552e3c924df860305e.webp",
-    "/upload/images/4069d6c7a4c8f46c3b6ed912b631a26a3b6d5578.webp"
+    {
+      "url": "/upload/images/73125faeadce200fb4f9e2552e3c924df860305e.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/4069d6c7a4c8f46c3b6ed912b631a26a3b6d5578.webp",
+      "ts": "20260517191000"
+    }
   ],
   "details": {
     "ニックネーム": "ゆなぴょん",

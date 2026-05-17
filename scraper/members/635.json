@@ -7,9 +7,18 @@
   "nameEn": "Roko Tsutsui",
   "nameKana": "ツツイ ロコ",
   "images": [
-    "/upload/images/d945a627902fd5b17db6d735622566cd5654d7fca61efdeb3832615532cafdd9.webp",
-    "/upload/images/1b822ea8c82a31c77a5ec6074448971e2250e735f16a87d7af26a6f264b881d4.webp",
-    "/upload/images/e461eea7f79c809a5b0912f0cd81ee98b2a8c19e.webp"
+    {
+      "url": "/upload/images/d945a627902fd5b17db6d735622566cd5654d7fca61efdeb3832615532cafdd9.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/1b822ea8c82a31c77a5ec6074448971e2250e735f16a87d7af26a6f264b881d4.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/e461eea7f79c809a5b0912f0cd81ee98b2a8c19e.webp",
+      "ts": "20260517191000"
+    }
   ],
   "color": {
     "name": "ロイヤルブルー",

@@ -6,8 +6,14 @@
   "nameJa": "相馬優芽",
   "nameKana": "ソウマ ユメ",
   "images": [
-    "https://web.archive.org/web/20240207120136if_/http://cdn.helloproject.com/img/rotation/6ac6b24478e0bbbe909a883957e5bbb4a8ddc76d.jpg",
-    "https://web.archive.org/web/20240207120136if_/http://cdn.helloproject.com/img/rotation/2eb5844f497f7cf3184f81666cdafc684608c726.jpg"
+    {
+      "url": "https://web.archive.org/web/20240207120136if_/http://cdn.helloproject.com/img/rotation/6ac6b24478e0bbbe909a883957e5bbb4a8ddc76d.jpg",
+      "ts": "20240207120136"
+    },
+    {
+      "url": "https://web.archive.org/web/20240207120136if_/http://cdn.helloproject.com/img/rotation/2eb5844f497f7cf3184f81666cdafc684608c726.jpg",
+      "ts": "20240207120136"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -24,6 +30,8 @@
     "座右の銘": "夢は、目指した時から目標に変わる。",
     "ハロー！プロジェクト加入": "2024年2月(ハロプロ研修生加入日)"
   },
-  "_nameJa": "相馬優芽",
+  "groups": [
+    "helloprokenshusei"
+  ],
   "nameEn": "Yume Soma"
 }

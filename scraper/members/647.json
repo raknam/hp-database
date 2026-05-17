@@ -7,8 +7,14 @@
   "nameEn": "Yukiho Shimoitani",
   "nameKana": "シモイタニ ユキホ",
   "images": [
-    "/upload/images/3c43f3727413ed955746b61432accf4530e8006a5dea8095e6f566d9eddfd98d.webp",
-    "/upload/images/cf4eb61c29494605ee0f9f68d366c36f660929df6853f48dd5a96d2d989765c0.webp"
+    {
+      "url": "/upload/images/3c43f3727413ed955746b61432accf4530e8006a5dea8095e6f566d9eddfd98d.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/cf4eb61c29494605ee0f9f68d366c36f660929df6853f48dd5a96d2d989765c0.webp",
+      "ts": "20260517191000"
+    }
   ],
   "color": {
     "name": "ホットピンク",

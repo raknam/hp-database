@@ -16,6 +16,8 @@
     "血液型": "AB型",
     "出身地": "千葉県"
   },
-  "_nameJa": "浅倉樹々",
+  "groups": [
+    "helloprokenshusei"
+  ],
   "nameEn": "Kiki Asakura"
 }

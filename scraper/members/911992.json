@@ -6,8 +6,14 @@
   "nameJa": "楠萌生",
   "nameKana": "クスノキ メイ",
   "images": [
-    "https://web.archive.org/web/20181203104032if_/http://cdn.helloproject.com/img/rotation/fc7f2b0c66f6a1f41a8c761206889f0e8de211c3.jpg",
-    "https://web.archive.org/web/20181203104032if_/http://cdn.helloproject.com/img/rotation/f9d9ba80b0162b469ff004fb59f841ecdb9ec579.jpg"
+    {
+      "url": "https://web.archive.org/web/20181203104032if_/http://cdn.helloproject.com/img/rotation/fc7f2b0c66f6a1f41a8c761206889f0e8de211c3.jpg",
+      "ts": "20181203104032"
+    },
+    {
+      "url": "https://web.archive.org/web/20181203104032if_/http://cdn.helloproject.com/img/rotation/f9d9ba80b0162b469ff004fb59f841ecdb9ec579.jpg",
+      "ts": "20181203104032"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -25,6 +31,8 @@
     "座右の銘": "一生懸命！",
     "ハロー！プロジェクト加入": "2018年11月(ハロプロ研修生加入日)"
   },
-  "_nameJa": "楠萌生",
+  "groups": [
+    "helloprokenshusei"
+  ],
   "nameEn": "Mei Kusunoki"
 }

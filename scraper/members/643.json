@@ -7,7 +7,10 @@
   "nameEn": "Rio Sakurai",
   "nameKana": "サクライ リオ",
   "images": [
-    "/upload/images/ca9dbbee5694edf2a933a3d62270e7e7c5f9dee16178c232c9c0e93cb6b2a4a1.webp"
+    {
+      "url": "/upload/images/ca9dbbee5694edf2a933a3d62270e7e7c5f9dee16178c232c9c0e93cb6b2a4a1.webp",
+      "ts": "20260517191000"
+    }
   ],
   "color": {
     "name": "ミルクティー",

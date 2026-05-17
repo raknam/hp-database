@@ -7,23 +7,74 @@
   "nameEn": "Riai Matsunaga",
   "nameKana": "マツナガ リアイ",
   "images": [
-    "/upload/images/e0847d179314945787feec419582caec963be584.webp",
-    "/upload/images/21e8f4dd3a9478ce7a28caac8a4e9cace3c5ab41.webp",
-    "https://web.archive.org/web/20190712110846if_/http://cdn.helloproject.com/img/rotation/3c3188e0c3e8c079df3e530ce8710b11457eb648.jpg",
-    "https://web.archive.org/web/20200514120407if_/http://cdn.helloproject.com/img/rotation/f3944f7e950032b17063cf8c410598a44da9172a.jpg",
-    "https://web.archive.org/web/20200702233718if_/http://cdn.helloproject.com/img/rotation/311d7481ada42b7651f9c8016fac0ad3956b86e1.jpg",
-    "https://web.archive.org/web/20200702233718if_/http://cdn.helloproject.com/img/rotation/3a44c521d2036b5099083ef26c14988cd8bf9583.jpg",
-    "https://web.archive.org/web/20210305194824if_/http://cdn.helloproject.com/img/rotation/b9a374ebe8aef317724ef43996dce893a9b35362.jpg",
-    "https://web.archive.org/web/20210524004226if_/http://cdn.helloproject.com/img/rotation/9f88367e04333c3ff1800ba6a5cf7ee02e6bd2f3.jpg",
-    "https://web.archive.org/web/20211228044428if_/http://cdn.helloproject.com/img/rotation/590ae58ab6ee3edeb0bc0b09f83d9d66f126406d.jpg",
-    "https://web.archive.org/web/20220529234337if_/http://cdn.helloproject.com/img/rotation/6227a6242e4d47e447625371be89984a821e5721.jpg",
-    "https://web.archive.org/web/20221017082056if_/http://cdn.helloproject.com/img/rotation/1530dfc7cd7c7fa5290b5a4ee99a08cfe69b9ebd.jpg",
-    "https://web.archive.org/web/20230708075111if_/http://cdn.helloproject.com/img/rotation/c9847acb00bda4ec0f5f2c82a1b31a3694906d02.jpg",
-    "https://web.archive.org/web/20230828212420if_/http://cdn.helloproject.com/img/rotation/ebde6fe21e7c1577c2b88d48ccf7aad88b289fac.jpg",
-    "https://web.archive.org/web/20230928200241if_/http://cdn.helloproject.com/img/rotation/af4cbc20974833395f44e8b70a545a8be333ca59.jpg",
-    "https://web.archive.org/web/20240323162533if_/http://cdn.helloproject.com/img/rotation/9bd730a0ce84587b60dc181b91128836f1efedbd.jpg",
-    "https://web.archive.org/web/20241105091755if_/https://cdn.helloproject.com/img/rotation/9bd730a0ce84587b60dc181b91128836f1efedbd.jpg",
-    "https://web.archive.org/web/20250101032100if_/https://cdn.helloproject.com/img/rotation/f2e73268783805353a39a2f1a8c857a41d79d877.jpg"
+    {
+      "url": "/upload/images/e0847d179314945787feec419582caec963be584.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/21e8f4dd3a9478ce7a28caac8a4e9cace3c5ab41.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "https://web.archive.org/web/20250101032100if_/https://cdn.helloproject.com/img/rotation/f2e73268783805353a39a2f1a8c857a41d79d877.jpg",
+      "ts": "20250101032100"
+    },
+    {
+      "url": "https://web.archive.org/web/20241105091755if_/https://cdn.helloproject.com/img/rotation/9bd730a0ce84587b60dc181b91128836f1efedbd.jpg",
+      "ts": "20241105091755"
+    },
+    {
+      "url": "https://web.archive.org/web/20240323162533if_/http://cdn.helloproject.com/img/rotation/9bd730a0ce84587b60dc181b91128836f1efedbd.jpg",
+      "ts": "20240323162533"
+    },
+    {
+      "url": "https://web.archive.org/web/20230928200241if_/http://cdn.helloproject.com/img/rotation/af4cbc20974833395f44e8b70a545a8be333ca59.jpg",
+      "ts": "20230928200241"
+    },
+    {
+      "url": "https://web.archive.org/web/20230828212420if_/http://cdn.helloproject.com/img/rotation/ebde6fe21e7c1577c2b88d48ccf7aad88b289fac.jpg",
+      "ts": "20230828212420"
+    },
+    {
+      "url": "https://web.archive.org/web/20230708075111if_/http://cdn.helloproject.com/img/rotation/c9847acb00bda4ec0f5f2c82a1b31a3694906d02.jpg",
+      "ts": "20230708075111"
+    },
+    {
+      "url": "https://web.archive.org/web/20221017082056if_/http://cdn.helloproject.com/img/rotation/1530dfc7cd7c7fa5290b5a4ee99a08cfe69b9ebd.jpg",
+      "ts": "20221017082056"
+    },
+    {
+      "url": "https://web.archive.org/web/20220529234337if_/http://cdn.helloproject.com/img/rotation/6227a6242e4d47e447625371be89984a821e5721.jpg",
+      "ts": "20220529234337"
+    },
+    {
+      "url": "https://web.archive.org/web/20211228044428if_/http://cdn.helloproject.com/img/rotation/590ae58ab6ee3edeb0bc0b09f83d9d66f126406d.jpg",
+      "ts": "20211228044428"
+    },
+    {
+      "url": "https://web.archive.org/web/20210524004226if_/http://cdn.helloproject.com/img/rotation/9f88367e04333c3ff1800ba6a5cf7ee02e6bd2f3.jpg",
+      "ts": "20210524004226"
+    },
+    {
+      "url": "https://web.archive.org/web/20210305194824if_/http://cdn.helloproject.com/img/rotation/b9a374ebe8aef317724ef43996dce893a9b35362.jpg",
+      "ts": "20210305194824"
+    },
+    {
+      "url": "https://web.archive.org/web/20200702233718if_/http://cdn.helloproject.com/img/rotation/311d7481ada42b7651f9c8016fac0ad3956b86e1.jpg",
+      "ts": "20200702233718"
+    },
+    {
+      "url": "https://web.archive.org/web/20200702233718if_/http://cdn.helloproject.com/img/rotation/3a44c521d2036b5099083ef26c14988cd8bf9583.jpg",
+      "ts": "20200702233718"
+    },
+    {
+      "url": "https://web.archive.org/web/20200514120407if_/http://cdn.helloproject.com/img/rotation/f3944f7e950032b17063cf8c410598a44da9172a.jpg",
+      "ts": "20200514120407"
+    },
+    {
+      "url": "https://web.archive.org/web/20190712110846if_/http://cdn.helloproject.com/img/rotation/3c3188e0c3e8c079df3e530ce8710b11457eb648.jpg",
+      "ts": "20190712110846"
+    }
   ],
   "color": {
     "name": "ロイヤルブルー",

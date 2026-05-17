@@ -16,6 +16,8 @@
     "血液型": "不明",
     "出身地": "大阪府"
   },
-  "_nameJa": "松永里愛",
+  "groups": [
+    "helloprokenshusei"
+  ],
   "nameEn": "Riai Matsunaga"
 }

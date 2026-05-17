@@ -6,8 +6,14 @@
   "nameJa": "広瀬彩海",
   "nameKana": "ヒロセ アヤカ",
   "images": [
-    "https://web.archive.org/web/20150312032324if_/http://cdn.helloproject.com/img/rotation/86eb8fa0fc60423681cbe630c2d3ca03ac9a5c08.jpg",
-    "https://web.archive.org/web/20150312032324if_/http://cdn.helloproject.com/img/rotation/9cae5b186dac2c5e420527051b8d5497d69f8dc8.jpg"
+    {
+      "url": "https://web.archive.org/web/20150312032324if_/http://cdn.helloproject.com/img/rotation/86eb8fa0fc60423681cbe630c2d3ca03ac9a5c08.jpg",
+      "ts": "20150312032324"
+    },
+    {
+      "url": "https://web.archive.org/web/20150312032324if_/http://cdn.helloproject.com/img/rotation/9cae5b186dac2c5e420527051b8d5497d69f8dc8.jpg",
+      "ts": "20150312032324"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -26,6 +32,8 @@
     "座右の銘": "好きこそ物の上手なれ",
     "ハロー！プロジェクト加入": "2015年1月2日(こぶしファクトリー結成日)"
   },
-  "_nameJa": "広瀬彩海",
+  "groups": [
+    "helloprokenshusei"
+  ],
   "nameEn": "Ayaka Hirose"
 }

@@ -7,8 +7,14 @@
   "nameEn": "Rena Kamimura",
   "nameKana": "カミムラ レナ",
   "images": [
-    "/upload/images/711a1129909c81c161b883dd0d667c5d9683f0f2.webp",
-    "/upload/images/6956c4b62e1e5af6ffa14ef52224f32473d3c727.webp"
+    {
+      "url": "/upload/images/711a1129909c81c161b883dd0d667c5d9683f0f2.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/6956c4b62e1e5af6ffa14ef52224f32473d3c727.webp",
+      "ts": "20260517191000"
+    }
   ],
   "color": {
     "name": "イエロー",

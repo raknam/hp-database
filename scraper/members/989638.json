@@ -6,7 +6,10 @@
   "nameJa": "生田衣梨奈",
   "nameKana": "イクタ エリナ",
   "images": [
-    "https://web.archive.org/web/20241204160855if_/https://cdn.helloproject.com/img/rotation/be681a16a1c572736b12686ed06e171ba4f4466f.jpg"
+    {
+      "url": "https://web.archive.org/web/20241204160855if_/https://cdn.helloproject.com/img/rotation/be681a16a1c572736b12686ed06e171ba4f4466f.jpg",
+      "ts": "20241204160855"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -25,6 +28,8 @@
     "座右の銘": "目立たない事には始まらない",
     "ハロー！プロジェクト加入": "2011年1月2日 (モーニング娘。加入日) (リーダー)"
   },
-  "_nameJa": "生田衣梨奈",
+  "groups": [
+    "morningmusume"
+  ],
   "nameEn": "Erina Ikuta"
 }

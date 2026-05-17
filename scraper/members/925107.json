@@ -6,26 +6,86 @@
   "nameJa": "松原ユリヤ",
   "nameKana": "マツバラ ユリヤ",
   "images": [
-    "https://web.archive.org/web/20180528030003if_/http://cdn.helloproject.com/img/rotation/ccbe4d2cad566081587d9907780c17e1c8e4d023.jpg",
-    "https://web.archive.org/web/20180528030003if_/http://cdn.helloproject.com/img/rotation/de10eede30b90d9de33737db877ce80b05640300.jpg",
-    "https://web.archive.org/web/20180628064750if_/http://cdn.helloproject.com/img/rotation/426b08c55d6a30df283cbafb5972caa9680d6045.jpg",
-    "https://web.archive.org/web/20180628064750if_/http://cdn.helloproject.com/img/rotation/3a808af0aeaa05b16d2bf86885efff535ec231df.jpg",
-    "https://web.archive.org/web/20181203104022if_/http://cdn.helloproject.com/img/rotation/89a6a3b8df2feedba17430e6580128ce933db34d.jpg",
-    "https://web.archive.org/web/20181203104022if_/http://cdn.helloproject.com/img/rotation/48cde697d143af993f818650dbdbc9ac5c16ad27.jpg",
-    "https://web.archive.org/web/20190508015653if_/http://cdn.helloproject.com/img/rotation/f387e0fcf0158feed916aded8724d16c03e986e3.jpg",
-    "https://web.archive.org/web/20190508015653if_/http://cdn.helloproject.com/img/rotation/976e864f8fa8a733fcc42a7511d26941dfedd637.jpg",
-    "https://web.archive.org/web/20190707232401if_/http://cdn.helloproject.com/img/rotation/2df0b516d6e6fd89b247ef168644a2b6a0ba8c41.jpg",
-    "https://web.archive.org/web/20190707232401if_/http://cdn.helloproject.com/img/rotation/03405d3cc63e81a899c5204a1238d10a5847dc9d.jpg",
-    "https://web.archive.org/web/20191112142701if_/http://cdn.helloproject.com/img/rotation/459222b30e8500bf68faaceddabb11dfb948f3ab.jpg",
-    "https://web.archive.org/web/20191112142701if_/http://cdn.helloproject.com/img/rotation/0ab23cafcb09d54d3255fb59bf9501abe654b028.jpg",
-    "https://web.archive.org/web/20191209070630if_/http://cdn.helloproject.com/img/rotation/6ad1266ae405e35419f282800d67bbf90352649b.jpg",
-    "https://web.archive.org/web/20191209070630if_/http://cdn.helloproject.com/img/rotation/cf5aff0defd3829082cb5cd98dbef2f2dd82a6ee.jpg",
-    "https://web.archive.org/web/20200727061714if_/http://cdn.helloproject.com/img/rotation/a06ad103af2791cc557a4f55af58e3e310965ab1.jpg",
-    "https://web.archive.org/web/20200727061714if_/http://cdn.helloproject.com/img/rotation/c921f7d1f9b93c9ea437f242c6728d7a3e9f1e85.jpg",
-    "https://web.archive.org/web/20210522102438if_/http://cdn.helloproject.com/img/rotation/fadf8c278f3ab032f7d2e85aceeb23c383a1be57.jpg",
-    "https://web.archive.org/web/20210522102438if_/http://cdn.helloproject.com/img/rotation/a969a5536a532c4e851d0bb9ab9660c2cf6f4eb2.jpg",
-    "https://web.archive.org/web/20220315084714if_/http://cdn.helloproject.com/img/rotation/05b7edc9e857070fffe7a2461717b19c3a8ace53.jpg",
-    "https://web.archive.org/web/20220315084714if_/http://cdn.helloproject.com/img/rotation/ade6d434a0fd3af9c79b86c1692523d462e82756.jpg"
+    {
+      "url": "https://web.archive.org/web/20220315084714if_/http://cdn.helloproject.com/img/rotation/05b7edc9e857070fffe7a2461717b19c3a8ace53.jpg",
+      "ts": "20220315084714"
+    },
+    {
+      "url": "https://web.archive.org/web/20220315084714if_/http://cdn.helloproject.com/img/rotation/ade6d434a0fd3af9c79b86c1692523d462e82756.jpg",
+      "ts": "20220315084714"
+    },
+    {
+      "url": "https://web.archive.org/web/20210522102438if_/http://cdn.helloproject.com/img/rotation/fadf8c278f3ab032f7d2e85aceeb23c383a1be57.jpg",
+      "ts": "20210522102438"
+    },
+    {
+      "url": "https://web.archive.org/web/20210522102438if_/http://cdn.helloproject.com/img/rotation/a969a5536a532c4e851d0bb9ab9660c2cf6f4eb2.jpg",
+      "ts": "20210522102438"
+    },
+    {
+      "url": "https://web.archive.org/web/20200727061714if_/http://cdn.helloproject.com/img/rotation/a06ad103af2791cc557a4f55af58e3e310965ab1.jpg",
+      "ts": "20200727061714"
+    },
+    {
+      "url": "https://web.archive.org/web/20200727061714if_/http://cdn.helloproject.com/img/rotation/c921f7d1f9b93c9ea437f242c6728d7a3e9f1e85.jpg",
+      "ts": "20200727061714"
+    },
+    {
+      "url": "https://web.archive.org/web/20191209070630if_/http://cdn.helloproject.com/img/rotation/6ad1266ae405e35419f282800d67bbf90352649b.jpg",
+      "ts": "20191209070630"
+    },
+    {
+      "url": "https://web.archive.org/web/20191209070630if_/http://cdn.helloproject.com/img/rotation/cf5aff0defd3829082cb5cd98dbef2f2dd82a6ee.jpg",
+      "ts": "20191209070630"
+    },
+    {
+      "url": "https://web.archive.org/web/20191112142701if_/http://cdn.helloproject.com/img/rotation/459222b30e8500bf68faaceddabb11dfb948f3ab.jpg",
+      "ts": "20191112142701"
+    },
+    {
+      "url": "https://web.archive.org/web/20191112142701if_/http://cdn.helloproject.com/img/rotation/0ab23cafcb09d54d3255fb59bf9501abe654b028.jpg",
+      "ts": "20191112142701"
+    },
+    {
+      "url": "https://web.archive.org/web/20190707232401if_/http://cdn.helloproject.com/img/rotation/2df0b516d6e6fd89b247ef168644a2b6a0ba8c41.jpg",
+      "ts": "20190707232401"
+    },
+    {
+      "url": "https://web.archive.org/web/20190707232401if_/http://cdn.helloproject.com/img/rotation/03405d3cc63e81a899c5204a1238d10a5847dc9d.jpg",
+      "ts": "20190707232401"
+    },
+    {
+      "url": "https://web.archive.org/web/20190508015653if_/http://cdn.helloproject.com/img/rotation/f387e0fcf0158feed916aded8724d16c03e986e3.jpg",
+      "ts": "20190508015653"
+    },
+    {
+      "url": "https://web.archive.org/web/20190508015653if_/http://cdn.helloproject.com/img/rotation/976e864f8fa8a733fcc42a7511d26941dfedd637.jpg",
+      "ts": "20190508015653"
+    },
+    {
+      "url": "https://web.archive.org/web/20181203104022if_/http://cdn.helloproject.com/img/rotation/89a6a3b8df2feedba17430e6580128ce933db34d.jpg",
+      "ts": "20181203104022"
+    },
+    {
+      "url": "https://web.archive.org/web/20181203104022if_/http://cdn.helloproject.com/img/rotation/48cde697d143af993f818650dbdbc9ac5c16ad27.jpg",
+      "ts": "20181203104022"
+    },
+    {
+      "url": "https://web.archive.org/web/20180628064750if_/http://cdn.helloproject.com/img/rotation/426b08c55d6a30df283cbafb5972caa9680d6045.jpg",
+      "ts": "20180628064750"
+    },
+    {
+      "url": "https://web.archive.org/web/20180628064750if_/http://cdn.helloproject.com/img/rotation/3a808af0aeaa05b16d2bf86885efff535ec231df.jpg",
+      "ts": "20180628064750"
+    },
+    {
+      "url": "https://web.archive.org/web/20180528030003if_/http://cdn.helloproject.com/img/rotation/ccbe4d2cad566081587d9907780c17e1c8e4d023.jpg",
+      "ts": "20180528030003"
+    },
+    {
+      "url": "https://web.archive.org/web/20180528030003if_/http://cdn.helloproject.com/img/rotation/de10eede30b90d9de33737db877ce80b05640300.jpg",
+      "ts": "20180528030003"
+    }
   ],
   "has_grad": true,
   "sources": [
@@ -43,6 +103,8 @@
     "座右の銘": "果報は寝て待て",
     "ハロー！プロジェクト加入": "2017年12月(ハロプロ研修生加入日)"
   },
-  "_nameJa": "松原ユリヤ",
+  "groups": [
+    "helloprokenshusei"
+  ],
   "nameEn": "Yuriya Matsubara"
 }

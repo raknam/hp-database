@@ -7,8 +7,14 @@
   "nameEn": "Rua Hattori",
   "nameKana": "ハットリ ルア",
   "images": [
-    "/upload/images/dcebead36ee97d9ee52aaf78894ce4f55e453d93.webp",
-    "/upload/images/1b594db58c3803268798eb3a6d5ef441284fb497.webp"
+    {
+      "url": "/upload/images/dcebead36ee97d9ee52aaf78894ce4f55e453d93.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/1b594db58c3803268798eb3a6d5ef441284fb497.webp",
+      "ts": "20260517191000"
+    }
   ],
   "details": {
     "ニックネーム": "るぅ",

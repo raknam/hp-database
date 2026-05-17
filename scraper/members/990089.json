@@ -16,6 +16,8 @@
     "血液型": "B型",
     "出身地": "千葉県"
   },
-  "_nameJa": "山岸理子",
+  "groups": [
+    "helloprokenshusei"
+  ],
   "nameEn": "Riko Yamagishi"
 }

@@ -7,10 +7,22 @@
   "nameEn": "Fuka Doi",
   "nameKana": "ドイ フウカ",
   "images": [
-    "/upload/images/968f54c5d9394cff135fd933314ab86dc390d37e07170cd4b606d65d03ba6865.webp",
-    "/upload/images/b44903b4de8eb2f9ce497405cc0dbad92e854ae8.webp",
-    "/upload/images/96140c93446253bf1a4880022d21845310c647ea5270c1845e210d975c5bae6e.webp",
-    "/upload/images/938d371da0110959ccecd563dd308a323e3d035a84a0b1bf03599dbd99753c78.webp"
+    {
+      "url": "/upload/images/968f54c5d9394cff135fd933314ab86dc390d37e07170cd4b606d65d03ba6865.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/b44903b4de8eb2f9ce497405cc0dbad92e854ae8.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/96140c93446253bf1a4880022d21845310c647ea5270c1845e210d975c5bae6e.webp",
+      "ts": "20260517191000"
+    },
+    {
+      "url": "/upload/images/938d371da0110959ccecd563dd308a323e3d035a84a0b1bf03599dbd99753c78.webp",
+      "ts": "20260517191000"
+    }
   ],
   "color": {
     "name": "ブライトグリーン",

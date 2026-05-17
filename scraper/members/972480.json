@@ -16,6 +16,8 @@
     "血液型": "A型",
     "出身地": "東京都"
   },
-  "_nameJa": "北原もも",
+  "groups": [
+    "helloprokenshusei"
+  ],
   "nameEn": "Momo Kitahara"
 }
