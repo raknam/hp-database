@@ -1,0 +1,160 @@
+{
+  "code": "EPCE-5497",
+  "url": "/release/detail/EPCE-5497/",
+  "source": "upfront",
+  "title": "きらりん☆レボリューション・ソング・セレクション2",
+  "category": "CDミニアルバム",
+  "artist": "V.A.",
+  "releaseDate": "2007/09/12",
+  "label": "zetima",
+  "images": [
+    "/images/c50e6df4dafa55abde63b3f0750c9058fe4151ca.jpg",
+    "/images/54f273183c22889d4eb5d279c433741c542e5ff9.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/c50e6df4dafa55abde63b3f0750c9058fe4151ca.jpg",
+      "price": "￥2,619 (税抜価格 ￥2,381)",
+      "discs": [
+        {
+          "type": "CDミニアルバム",
+          "catalogNo": "EPCE-5497",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ハッピー☆彡",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "BOUNCEBACK",
+                "作曲": "BOUNCEBACK",
+                "編曲": "BOUNCEBACK"
+              }
+            },
+            {
+              "index": 2,
+              "title": "はなをぷーん",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "YumYum",
+                "作曲": "MenMen",
+                "編曲": "宮永治郎/MenMen"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ふたりはNS",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "YumYum",
+                "作曲": "MenMen",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "恋の魔法はハビビのビ！(ひかるバージョン)",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "すやまちえこ+吉田勝弥",
+                "作曲": "吉田勝弥",
+                "編曲": "吉田勝弥"
+              }
+            },
+            {
+              "index": 5,
+              "title": "光の中へ。。",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "bice",
+                "作曲": "bice",
+                "編曲": "Ryo"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ハッピー☆彡(オリジナルカラオケ)",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "BOUNCEBACK",
+                "作曲": "BOUNCEBACK",
+                "編曲": "BOUNCEBACK"
+              }
+            },
+            {
+              "index": 7,
+              "title": "はなをぷーん(オリジナルカラオケ)",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "YumYum",
+                "作曲": "MenMen",
+                "編曲": "宮永治郎/MenMen"
+              }
+            },
+            {
+              "index": 8,
+              "title": "ふたりはNS(オリジナルカラオケ)",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "YumYum",
+                "作曲": "MenMen",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 9,
+              "title": "恋の魔法はハビビのビ！(ひかるバージョン)(オリジナルカラオケ)",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "すやまちえこ+吉田勝弥",
+                "作曲": "吉田勝弥",
+                "編曲": "吉田勝弥"
+              }
+            },
+            {
+              "index": 10,
+              "title": "光の中へ。。(オリジナルカラオケ)",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "bice",
+                "作曲": "bice",
+                "編曲": "Ryo"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/54f273183c22889d4eb5d279c433741c542e5ff9.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5499",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ハッピー☆彡(アニメVer.)",
+              "duration": "01:32",
+              "credits": {
+                "作詞": "BOUNCEBACK",
+                "作曲": "BOUNCEBACK"
+              }
+            },
+            {
+              "index": 2,
+              "title": "はなをぷーん(アニメVer.)",
+              "duration": "01:38",
+              "credits": {
+                "作詞": "YumYum",
+                "作曲": "MenMen"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

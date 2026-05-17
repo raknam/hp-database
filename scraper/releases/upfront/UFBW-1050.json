@@ -1,0 +1,106 @@
+{
+  "code": "UFBW-1050",
+  "url": "/release/detail/UFBW-1050/",
+  "source": "upfront",
+  "title": "ハロー！チャンネル the DVD Vol.3",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2011/03/02",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/8064100fb7a0a84c226024451fdd44d9af1ee3bb.jpg"
+  ],
+  "editions": [
+    {
+      "name": "＜Disc1＞",
+      "image": "/images/8064100fb7a0a84c226024451fdd44d9af1ee3bb.jpg",
+      "price": "￥5,170 (税抜価格 ￥4,700)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1050",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「スペシャルグラビア撮影」",
+              "duration": "19:56"
+            },
+            {
+              "index": 2,
+              "title": "カンフー修行編",
+              "duration": "16:04"
+            },
+            {
+              "index": 3,
+              "title": "北関東<異空間>ミステリーツアー",
+              "duration": "19:52"
+            },
+            {
+              "index": 4,
+              "title": "マクドナルド",
+              "duration": "29:47"
+            },
+            {
+              "index": 5,
+              "title": "そば店でそば打ち",
+              "duration": "15:09"
+            },
+            {
+              "index": 6,
+              "title": "幼稚園の先生",
+              "duration": "12:37"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "＜Disc2＞",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1051",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「探訪！佐渡島＆里田米稲刈り」",
+              "duration": "36:13"
+            },
+            {
+              "index": 2,
+              "title": "「田中軍団が行く！渋谷の街をキレイにしよう！」",
+              "duration": "10:17"
+            },
+            {
+              "index": 3,
+              "title": "田中れいなの「漢気一直線！」",
+              "duration": "10:33"
+            },
+            {
+              "index": 4,
+              "title": "「真野恵里菜のアイドル100万ボルト」",
+              "duration": "06:26"
+            },
+            {
+              "index": 5,
+              "title": "「チャレンジャー岡井千聖のあくなき闘い！！」",
+              "duration": "09:47"
+            },
+            {
+              "index": 6,
+              "title": "「戦国グラビア撮影」",
+              "duration": "22:49"
+            },
+            {
+              "index": 7,
+              "title": "エンディング",
+              "duration": "00:39"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

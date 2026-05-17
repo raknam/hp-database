@@ -1,0 +1,196 @@
+{
+  "code": "EPCE-7903",
+  "url": "/release/detail/EPCE-7903/",
+  "source": "upfront",
+  "title": "星屑のエスケープ/終わらないインソムニア",
+  "category": "CDシングル",
+  "artist": "稲場愛香",
+  "releaseDate": "2025/02/19",
+  "label": "zetima",
+  "images": [
+    "/images/fe2e18799b0c6e5626fb82952d8d941fb4ab30f0.jpg",
+    "/images/4561aae103c12931c34c47657cecac5b90f5d3be.jpg",
+    "/images/33b3381f4897b6f04b4c4c0f4fdab5fc7b62f015.jpg",
+    "/images/005d126364fdb42faf08ac84a4cb7836a4b745e2.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/fe2e18799b0c6e5626fb82952d8d941fb4ab30f0.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7903",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "星屑のエスケープ",
+              "duration": "03:11",
+              "credits": {
+                "作詞": "常楽寺澪",
+                "作曲": "Andreas Ohrn/Peter Bostrom/David Bonk/Julia Bergen",
+                "編曲": "Peter Bostrom"
+              }
+            },
+            {
+              "index": 2,
+              "title": "終わらないインソムニア",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "zopp",
+                "作曲": "大島こうすけ",
+                "編曲": "大島こうすけ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "星屑のエスケープ(Instrumental)",
+              "duration": "03:11",
+              "credits": {
+                "作詞": "常楽寺澪",
+                "作曲": "Andreas Ohrn/Peter Bostrom/David Bonk/Julia Bergen",
+                "編曲": "Peter Bostrom"
+              }
+            },
+            {
+              "index": 4,
+              "title": "終わらないインソムニア(Instrumental)",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "zopp",
+                "作曲": "大島こうすけ",
+                "編曲": "大島こうすけ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/4561aae103c12931c34c47657cecac5b90f5d3be.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7905",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "星屑のエスケープ(Music Video)",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "常楽寺澪",
+                "作曲": "Andreas Ohrn/Peter Bostrom/David Bonk/Julia Bergen"
+              }
+            },
+            {
+              "index": 2,
+              "title": "星屑のエスケープ(Dance Shot Ver.)",
+              "duration": "03:17",
+              "credits": {
+                "作詞": "常楽寺澪",
+                "作曲": "Andreas Ohrn/Peter Bostrom/David Bonk/Julia Bergen"
+              }
+            },
+            {
+              "index": 3,
+              "title": "星屑のエスケープ(メイキング映像)",
+              "duration": "08:03"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/33b3381f4897b6f04b4c4c0f4fdab5fc7b62f015.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7907",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "星屑のエスケープ",
+              "duration": "03:11",
+              "credits": {
+                "作詞": "常楽寺澪",
+                "作曲": "Andreas Ohrn/Peter Bostrom/David Bonk/Julia Bergen",
+                "編曲": "Peter Bostrom"
+              }
+            },
+            {
+              "index": 2,
+              "title": "終わらないインソムニア",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "zopp",
+                "作曲": "大島こうすけ",
+                "編曲": "大島こうすけ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "星屑のエスケープ(Instrumental)",
+              "duration": "03:11",
+              "credits": {
+                "作詞": "常楽寺澪",
+                "作曲": "Andreas Ohrn/Peter Bostrom/David Bonk/Julia Bergen",
+                "編曲": "Peter Bostrom"
+              }
+            },
+            {
+              "index": 4,
+              "title": "終わらないインソムニア(Instrumental)",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "zopp",
+                "作曲": "大島こうすけ",
+                "編曲": "大島こうすけ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/005d126364fdb42faf08ac84a4cb7836a4b745e2.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7908",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "終わらないインソムニア(Music Video)",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "zopp",
+                "作曲": "大島こうすけ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "終わらないインソムニア(Dance Shot Ver.)",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "zopp",
+                "作曲": "大島こうすけ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "終わらないインソムニア(メイキング映像)",
+              "duration": "07:09"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

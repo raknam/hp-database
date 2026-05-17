@@ -1,0 +1,43 @@
+{
+  "code": "PKBP-5002",
+  "url": "/release/detail/PKBP-5002/",
+  "source": "upfront",
+  "title": "シングルV「SHALL WE LOVE?」",
+  "category": "DVDシングルV",
+  "artist": "ごまっとう",
+  "releaseDate": "2002/12/04",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/47cbf75eac9470a5e1160befbcc101216aeab4a9.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/47cbf75eac9470a5e1160befbcc101216aeab4a9.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "PKBP-5002",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "SHALL WE LOVE？(Music Video)",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "メイキング映像",
+              "duration": "05:03"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

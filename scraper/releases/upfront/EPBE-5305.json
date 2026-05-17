@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5305",
+  "url": "/release/detail/EPBE-5305/",
+  "source": "upfront",
+  "title": "シングルV「ペッパー警部」",
+  "category": "DVDシングルV",
+  "artist": "モーニング娘。",
+  "releaseDate": "2008/10/22",
+  "label": "zetima",
+  "images": [
+    "/images/ccc3542d688190a5653d57e4597c69bbf6bb2eb7.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/ccc3542d688190a5653d57e4597c69bbf6bb2eb7.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5305",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ペッパー警部",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "阿久悠",
+                "作曲": "都倉俊一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ペッパー警部",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "阿久悠",
+                "作曲": "都倉俊一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "09:10"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

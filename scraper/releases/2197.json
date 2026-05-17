@@ -1,0 +1,26 @@
+{
+  "id": 2197,
+  "url": "/release/2197/",
+  "title": "brand new day",
+  "category": "DVD",
+  "artist": "熊井友理奈",
+  "releaseDate": "2013.10.5",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/d2908acc40430d16cf279902e22eecc1435fa645.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [],
+          "catalogNo": "UFBW-2090"
+        }
+      ]
+    }
+  ]
+}

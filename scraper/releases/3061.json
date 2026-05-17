@@ -1,0 +1,126 @@
+{
+  "id": 3061,
+  "url": "/release/3061/",
+  "title": "ヘブンリー・アイランズ～ハワイアン・ヒーリングvol.1～",
+  "category": "CDアルバム",
+  "artist": "V.A.",
+  "releaseDate": "2003.7.16",
+  "label": "Pacific Heaven",
+  "images": [
+    "/upload/images/a5c7ea78115e929195f8c48d5b46f78f89c68721.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Hawaii Aloha",
+              "duration": "02:17",
+              "credits": {
+                "作曲": "JamesMcGranahan",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "Poipu Beach",
+              "duration": "03:12",
+              "credits": {
+                "作曲": "DanielHo",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 3,
+              "title": "Moon Over Hana",
+              "duration": "03:09",
+              "credits": {
+                "作曲": "DanielHo",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "Lahaina Morning",
+              "duration": "03:27",
+              "credits": {
+                "作曲": "DanielHo",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 5,
+              "title": "Napali Rains",
+              "duration": "02:31",
+              "credits": {
+                "作曲": "DanielHo",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 6,
+              "title": "Waves of Waikiki",
+              "duration": "04:35",
+              "credits": {
+                "作曲": "DanielHo",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 7,
+              "title": "Along the Wailua River",
+              "duration": "04:30",
+              "credits": {
+                "作曲": "DanielHo",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 8,
+              "title": "Hanauma Bay",
+              "duration": "04:09",
+              "credits": {
+                "作曲": "DanielHo",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 9,
+              "title": "Manoa Showers",
+              "duration": "03:27",
+              "credits": {
+                "作曲": "DanielHo",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 10,
+              "title": "Sacred Falls",
+              "duration": "03:30",
+              "credits": {
+                "作曲": "DanielHo",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 11,
+              "title": "Aloha Oe",
+              "duration": "03:46",
+              "credits": {
+                "作曲": "QueenLydiaLiluokalani",
+                "歌": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "HKCN-20008"
+        }
+      ]
+    }
+  ]
+}

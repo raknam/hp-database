@@ -1,0 +1,81 @@
+{
+  "id": 2071,
+  "url": "/release/2071/",
+  "title": "ハロプロ！TIME Vol.9",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012.5.9",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/72eb070957cf60ed883708e6bc1eb14965cd4b91.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "新垣TIME",
+              "duration": "16:31",
+              "suffix": "9期メンバー ハワイ初上陸！直前SP",
+              "credits": {
+                "出演": "新垣里沙"
+              }
+            },
+            {
+              "index": 2,
+              "title": "モーニング娘。TIME",
+              "duration": "07:04",
+              "suffix": "9期メンバー ハワイ初上陸！",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "鞘師TIME",
+              "duration": "06:30",
+              "suffix": "「この地球の平和を本気で願ってるんだよ！」「彼と一緒にお店がしたい！」MV撮影はサプライズ祭り！！",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 4,
+              "title": "高橋TIME",
+              "duration": "22:05",
+              "suffix": "人気占い師巡り！！",
+              "credits": {
+                "出演": "高橋愛・田中れいな"
+              }
+            },
+            {
+              "index": 5,
+              "title": "譜久村TIME",
+              "duration": "02:35",
+              "suffix": "自宅で愛犬自慢！！",
+              "credits": {
+                "出演": "譜久村聖"
+              }
+            },
+            {
+              "index": 6,
+              "title": "9期TIME",
+              "duration": "14:54",
+              "suffix": "9期メンバー ザ・下剋上！！",
+              "credits": {
+                "出演": "新垣里沙＆譜久村聖＆生田衣梨奈＆鞘師里保＆鈴木香音"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1160"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "code": "UFWT-1009",
+  "url": "/release/detail/UFWT-1009/",
+  "source": "upfront",
+  "title": "東雲",
+  "category": "CDアルバム",
+  "artist": "KAN",
+  "releaseDate": "2010/10/27",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/b1ef6fc8d76695ae532e5361984c56ce6d0df755.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/b1ef6fc8d76695ae532e5361984c56ce6d0df755.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "UFWT-1009",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Sunshine of my heart",
+              "duration": "05:50",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "小林信吾/KAN"
+              }
+            },
+            {
+              "index": 2,
+              "title": "牛乳のんでギュー",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "小林信吾/KAN"
+              }
+            },
+            {
+              "index": 3,
+              "title": "結婚しない二人",
+              "duration": "06:06",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "小林信吾/KAN"
+              }
+            },
+            {
+              "index": 4,
+              "title": "West Home Town",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "小林信吾/KAN"
+              }
+            },
+            {
+              "index": 5,
+              "title": "東京に来い",
+              "duration": "02:32",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "小林信吾/KAN"
+              }
+            },
+            {
+              "index": 6,
+              "title": "悲しみの役割",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "小林信吾/KAN"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ホタル",
+              "duration": "06:30",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "小林信吾/KAN"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Girlfriend",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "小林信吾/KAN"
+              }
+            },
+            {
+              "index": 9,
+              "title": "すべての悲しみにさよならするために",
+              "duration": "06:56",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "小林信吾/KAN"
+              }
+            },
+            {
+              "index": 10,
+              "title": "星屑の帰り道",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "小林信吾/KAN"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

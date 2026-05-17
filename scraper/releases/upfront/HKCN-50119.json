@@ -1,0 +1,168 @@
+{
+  "code": "HKCN-50119",
+  "url": "/release/detail/HKCN-50119/",
+  "source": "upfront",
+  "title": "○○ がんばらなくてもええねんで!!",
+  "category": "CDシングル",
+  "artist": "スマイレージ",
+  "releaseDate": "2010/07/28",
+  "label": "hachama",
+  "images": [
+    "/images/30de6e1b3f87763e6be945f85fc7ca25edc6912d.jpg",
+    "/images/81204d855d177fac9bf5a46f23fe270dfcadf489.jpg",
+    "/images/59a95473f4706d72060298902c6c4edf32561ec3.jpg",
+    "/images/766d89a593d2330f37d50f3582db556feefb5298.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/30de6e1b3f87763e6be945f85fc7ca25edc6912d.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50119",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "○○ がんばらなくてもええねんで！！",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "○○ がんばらなくてもいいんだよ！！",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "スマイル美人",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "○○ がんばらなくてもええねんで！！(Instrumental)",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/81204d855d177fac9bf5a46f23fe270dfcadf489.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50121",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "○○ がんばらなくてもええねんで！！(Dance Shot Ver.Black)",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/images/59a95473f4706d72060298902c6c4edf32561ec3.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50123",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "○○ がんばらなくてもいいんだよ！！",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "○○ がんばらなくてもいいんだよ！！",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "スマイル美人",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "○○ がんばらなくてもいいんだよ！！(Instrumental)",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/766d89a593d2330f37d50f3582db556feefb5298.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50125",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "○○ がんばらなくてもええねんで！！(Dance Shot Ver.White)",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1386",
+  "url": "/release/detail/UFDL-1386/",
+  "source": "upfront",
+  "title": "書いては消しての “I Love You”",
+  "category": "配信シングル",
+  "artist": "カントリー・ガールズ",
+  "releaseDate": "2017/12/24",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/f379508b99c8bc44670bb3a635dfdeeab4a9ec57.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f379508b99c8bc44670bb3a635dfdeeab4a9ec57.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信シングル",
+          "catalogNo": "UFDL-1386",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "書いては消しての “I Love You”",
+              "duration": "03:34",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "鈴木智貴"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

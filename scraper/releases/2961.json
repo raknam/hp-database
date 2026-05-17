@@ -1,0 +1,61 @@
+{
+  "id": 2961,
+  "url": "/release/2961/",
+  "title": "ビデオ・ミニモニ。ひなまつり！/ミニ。ストロベリ～パイ",
+  "category": "VHS",
+  "artist": "ミニモニ｡",
+  "releaseDate": "2002.3.5",
+  "label": "zetima",
+  "images": [
+    "/upload/images/6fc265e9fcdf82546feec0d62638d01838e39d0f.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "VHS",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ミニモニ。ひなまつり！",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄",
+                "歌": "ミニモニ。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ミニ。ストロベリ～パイ",
+              "duration": "03:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "酒井ミキオ",
+                "歌": "ミニモニ。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ミニモニ。ひなまつり！",
+              "duration": "03:39",
+              "suffix": "みんなで踊りましょう！ヴァージョン",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄",
+                "歌": "ミニモニ。"
+              }
+            }
+          ],
+          "catalogNo": "EPVE-5034"
+        }
+      ]
+    }
+  ]
+}

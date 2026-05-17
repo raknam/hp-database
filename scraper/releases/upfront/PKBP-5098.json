@@ -1,0 +1,51 @@
+{
+  "code": "PKBP-5098",
+  "url": "/release/detail/PKBP-5098/",
+  "source": "upfront",
+  "title": "シングルV「行け 行け モンキーダンス」",
+  "category": "DVDシングルV",
+  "artist": "Berryz工房",
+  "releaseDate": "2008/07/23",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/0cddd948b4b61acdbea2abed6702611cad75f766.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/0cddd948b4b61acdbea2abed6702611cad75f766.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "PKBP-5098",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "行け 行け モンキーダンス",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "行け 行け モンキーダンス(Dance Shot Ver.)",
+              "duration": "05:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "15:18"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

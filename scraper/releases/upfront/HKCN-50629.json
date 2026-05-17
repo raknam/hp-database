@@ -1,0 +1,78 @@
+{
+  "code": "HKCN-50629",
+  "url": "/release/detail/HKCN-50629/",
+  "source": "upfront",
+  "title": "「ひとりで生きられそう」って それってねえ、褒めているの？/25歳永遠説",
+  "category": "CDシングル",
+  "artist": "Juice=Juice",
+  "releaseDate": "2019/10/23",
+  "label": "hachama",
+  "images": [
+    "/images/2bfd7afe2e3fdf2a4f84fa21e474e612542e3b80.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【通常盤C】2019/10/23発売 パート割りを一新、発売後に加入した新メンバーも歌唱する「「ひとりで生きられそう」って それってねえ、褒めているの？」(New Vocal Ver.)を収録",
+      "image": "/images/2bfd7afe2e3fdf2a4f84fa21e474e612542e3b80.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50629",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「ひとりで生きられそう」って それってねえ、褒めているの？",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "25歳永遠説",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "「ひとりで生きられそう」って それってねえ、褒めているの？(New Vocal Ver.)",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 4,
+              "title": "「ひとりで生きられそう」って それってねえ、褒めているの？(Instrumental)",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 5,
+              "title": "25歳永遠説(Instrumental)",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "code": "UFBW-1457",
+  "url": "/release/detail/UFBW-1457/",
+  "source": "upfront",
+  "title": "Hello! Projectが行く！ナルチカ日帰り里山旅2015",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2015/07/25",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/fef3258d0ae93c68cafde2bdd2ea72ad2ff91c40.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/fef3258d0ae93c68cafde2bdd2ea72ad2ff91c40.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1457",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "〜青梅市編〜",
+              "duration": "17:45"
+            },
+            {
+              "index": 2,
+              "title": "〜羽村市編〜",
+              "duration": "08:34"
+            },
+            {
+              "index": 3,
+              "title": "未公開映像 ご褒美争奪 黒ひげ？危機一髪",
+              "duration": "04:17"
+            },
+            {
+              "index": 4,
+              "title": "未公開映像 ウソ発見器で本音トーク",
+              "duration": "29:06"
+            },
+            {
+              "index": 5,
+              "title": "未公開映像 先輩たちが教える“ももちの対処法”",
+              "duration": "02:24"
+            },
+            {
+              "index": 6,
+              "title": "未公開映像 ナレーション対決",
+              "duration": "08:36"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

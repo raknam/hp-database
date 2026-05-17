@@ -1,0 +1,89 @@
+{
+  "id": 2101,
+  "url": "/release/2101/",
+  "title": "ハロー!SATOYAMAライフ Vol.9",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2013.7.9",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/41d22c4ecc516bd9d99718b9f4ed344bfe48daa8.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "イチゴを植えてみる",
+              "duration": "04:22",
+              "credits": {
+                "出演": "須藤茉麻(Berryz工房)/福田花音(スマイレージ)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "カブの種をまいてみる",
+              "duration": "02:52",
+              "credits": {
+                "出演": "須藤茉麻(Berryz工房)/中島早貴(℃-ute)/福田花音(マイレージ)/宮崎由加(Juice=Juice)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "里山課外授業 常陸太田市の地域おこし協力隊に会いにいこう！",
+              "duration": "11:10",
+              "credits": {
+                "出演": "矢島舞美・中島早貴(℃-ute)/福田花音(スマイレージ)/宮崎由加(Juice=Juice)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "里山課外授業 伝統のこんにゃく作りを体験",
+              "duration": "21:51",
+              "credits": {
+                "出演": "矢島舞美・中島早貴(℃-ute)/福田花音(スマイレージ)/宮崎由加(Juice=Juice)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ハーベスト「フォレストタイム」MV撮影に密着！",
+              "duration": "10:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "ハーベスト"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Berryz工房「WANT!」MV撮影に密着！",
+              "duration": "06:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 7,
+              "title": "SATOYAMA movement バスツアー in 常陸太田市 News",
+              "duration": "16:09",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "MEG.ME",
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1263"
+        }
+      ]
+    }
+  ]
+}

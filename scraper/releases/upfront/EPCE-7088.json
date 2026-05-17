@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-7088",
+  "url": "/release/detail/EPCE-7088/",
+  "source": "upfront",
+  "title": "桜ナイトフィーバー",
+  "category": "CDシングル",
+  "artist": "KAN",
+  "releaseDate": "2015/02/25",
+  "label": "zetima",
+  "images": [
+    "/images/cb6ae4f9b8fb3dc2b3e21556b1002591ba50c67f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/cb6ae4f9b8fb3dc2b3e21556b1002591ba50c67f.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7088",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "桜ナイトフィーバー",
+              "duration": "05:23",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 2,
+              "title": "表参道",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "Michael Antony Deighan & Michael/日本語詞:KAN",
+                "作曲": "Michael Antony Deighan & Michael",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 3,
+              "title": "桜ナイトフィーバー(Instrumental)",
+              "duration": "05:23",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 4,
+              "title": "表参道(Instrumental)",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "Michael Antony Deighan & Michael/日本語詞:KAN",
+                "作曲": "Michael Antony Deighan & Michael",
+                "編曲": "KAN"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

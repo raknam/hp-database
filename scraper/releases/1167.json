@@ -1,0 +1,83 @@
+{
+  "id": 1167,
+  "url": "/release/1167/",
+  "title": "Dress up Kanon",
+  "category": "DVD",
+  "artist": "福田花音",
+  "releaseDate": "2013.1.23",
+  "label": "hachama",
+  "images": [
+    "/upload/images/079ae232c48e971f675dbd6811704a015d9056a1.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "00:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "福田花音(スマイレージ)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "in to Waitress",
+              "duration": "11:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "福田花音(スマイレージ)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "in to Doll",
+              "duration": "10:08",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "福田花音(スマイレージ)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "in to Icon",
+              "duration": "10:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "福田花音(スマイレージ)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Making of 「かにょん17」",
+              "duration": "18:53",
+              "credits": {
+                "出演": "福田花音(スマイレージ)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "01:02",
+              "credits": {
+                "出演": "福田花音(スマイレージ)"
+              }
+            }
+          ],
+          "catalogNo": "HKBN-50174"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": 3418,
+  "url": "/release/3418/",
+  "title": "恋☆カナ",
+  "category": "CDシングル",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "releaseDate": "2006.7.12",
+  "label": "zetima",
+  "images": [
+    "/upload/images/803ebdd0f5a9d53f912566ec88b708cd6499205b.webp",
+    "/upload/images/94533e48f79e2c5ab13281e3dfe1c8684576be7b.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/upload/images/803ebdd0f5a9d53f912566ec88b708cd6499205b.webp",
+      "price": "定価 ￥1,430（税抜価格 ￥1,300）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋☆カナ",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "古屋真",
+                "作曲": "織田哲郎",
+                "編曲": "家原正樹",
+                "歌": "月島きらり starring 久住小春"
+              }
+            },
+            {
+              "index": 2,
+              "title": "SUGAO－flavor",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "michito&mavie",
+                "作曲": "織田哲郎",
+                "編曲": "後藤康二",
+                "歌": "月島きらり starring 久住小春"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋☆カナ",
+              "duration": "03:29",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "古屋真",
+                "作曲": "織田哲郎",
+                "編曲": "家原正樹",
+                "歌": "月島きらり starring 久住小春"
+              }
+            },
+            {
+              "index": 4,
+              "title": "SUGAO－flavor",
+              "duration": "04:50",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "michito&mavie",
+                "作曲": "織田哲郎",
+                "編曲": "後藤康二",
+                "歌": "月島きらり starring 久住小春"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5413"
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/94533e48f79e2c5ab13281e3dfe1c8684576be7b.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋☆カナ",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "古屋真",
+                "作曲": "織田哲郎",
+                "編曲": "家原正樹",
+                "歌": "月島きらり starring 久住小春"
+              }
+            },
+            {
+              "index": 2,
+              "title": "SUGAO－flavor",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "michito&mavie",
+                "作曲": "織田哲郎",
+                "編曲": "後藤康二",
+                "歌": "月島きらり starring 久住小春"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋☆カナ",
+              "duration": "03:29",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "古屋真",
+                "作曲": "織田哲郎",
+                "編曲": "家原正樹",
+                "歌": "月島きらり starring 久住小春"
+              }
+            },
+            {
+              "index": 4,
+              "title": "SUGAO－flavor",
+              "duration": "04:50",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "michito&mavie",
+                "作曲": "織田哲郎",
+                "編曲": "後藤康二",
+                "歌": "月島きらり starring 久住小春"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5414"
+        }
+      ]
+    }
+  ]
+}

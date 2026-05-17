@@ -1,0 +1,48 @@
+{
+  "code": "TGCS-5664",
+  "url": "/release/detail/TGCS-5664/",
+  "source": "upfront",
+  "title": "DON'T SAY GOOD-BYE",
+  "category": "CDシングル",
+  "artist": "メロン記念日×BEAT CRUSADERS",
+  "releaseDate": "2009/06/24",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/2e0ba804bbdb58f2642fd46086b16544615475ee.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/2e0ba804bbdb58f2642fd46086b16544615475ee.jpg",
+      "price": "￥838 (税抜価格 ￥762)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "TGCS-5664",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "DON'T SAY GOOD-BYE",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "ヒダカトオル",
+                "作曲": "BEAT CRUSADERS",
+                "編曲": "BEAT CRUSADERS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "DON'T SAY GOOD-BYE(Instrumental)",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "ヒダカトオル",
+                "作曲": "BEAT CRUSADERS",
+                "編曲": "BEAT CRUSADERS"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

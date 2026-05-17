@@ -1,0 +1,51 @@
+{
+  "code": "PKBP-5042",
+  "url": "/release/detail/PKBP-5042/",
+  "source": "upfront",
+  "title": "シングルV「今にきっと…In My LIFE」",
+  "category": "DVDシングルV",
+  "artist": "後藤真希",
+  "releaseDate": "2006/02/01",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/79f2838db195e6c63a0c86bcc9fa61de69bd0602.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/79f2838db195e6c63a0c86bcc9fa61de69bd0602.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "PKBP-5042",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "今にきっと…In My LIFE",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "今にきっと…In My LIFE(Close-up Ver.)",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "07:35"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

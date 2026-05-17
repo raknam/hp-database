@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1464",
+  "url": "/release/detail/UFDL-1464/",
+  "source": "upfront",
+  "title": "帰りたくないな。",
+  "category": "配信",
+  "artist": "船木結",
+  "releaseDate": "2020/12/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/d8bc59a8628e348a365a974f0191ce677e21d932.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d8bc59a8628e348a365a974f0191ce677e21d932.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1464",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "帰りたくないな。",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

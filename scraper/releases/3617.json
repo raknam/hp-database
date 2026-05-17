@@ -1,0 +1,115 @@
+{
+  "id": 3617,
+  "url": "/release/3617/",
+  "title": "アロハロ！ 藤本美貴DVD",
+  "category": "DVD",
+  "artist": "藤本美貴",
+  "releaseDate": "2003.4.23",
+  "label": "hachama",
+  "images": [
+    "/upload/images/8884d9d924cc6c87c33528e4d8edaa736c4656e3.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:10",
+              "credits": {
+                "出演": "藤本美貴"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ビーチ",
+              "duration": "07:30",
+              "credits": {
+                "出演": "藤本美貴"
+              }
+            },
+            {
+              "index": 3,
+              "title": "コーヒー農園",
+              "duration": "10:45",
+              "credits": {
+                "出演": "藤本美貴"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ランチ",
+              "duration": "04:29",
+              "credits": {
+                "出演": "藤本美貴"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ショッピング",
+              "duration": "01:38",
+              "credits": {
+                "出演": "藤本美貴"
+              }
+            },
+            {
+              "index": 6,
+              "title": "牧場",
+              "duration": "07:57",
+              "credits": {
+                "出演": "藤本美貴"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ポキ",
+              "duration": "03:32",
+              "credits": {
+                "出演": "藤本美貴"
+              }
+            },
+            {
+              "index": 8,
+              "title": "エンディングトーク",
+              "duration": "04:15",
+              "credits": {
+                "出演": "藤本美貴"
+              }
+            },
+            {
+              "index": 9,
+              "title": "藤本美貴オリジナル写真集",
+              "duration": "02:52",
+              "credits": {
+                "出演": "藤本美貴"
+              }
+            },
+            {
+              "index": 10,
+              "title": "写真集撮影風景",
+              "duration": "11:29",
+              "credits": {
+                "出演": "藤本美貴"
+              }
+            },
+            {
+              "index": 11,
+              "title": "フラダンス",
+              "duration": "01:18",
+              "credits": {
+                "出演": "藤本美貴"
+              }
+            }
+          ],
+          "catalogNo": "HKBN-50029"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "code": "EPCE-7975",
+  "url": "/release/detail/EPCE-7975/",
+  "source": "upfront",
+  "title": "立ち向かえGo way/Super Happy Lucky Special Day",
+  "category": "CDシングル",
+  "artist": "小関舞×森戸知沙希",
+  "releaseDate": "2025/12/17",
+  "label": "zetima",
+  "images": [
+    "/images/ba5fdf653896be20683c17663c8f8da66e719e9b.jpg",
+    "/images/7a25ffb487b4b1b64a791cf11725d8a17d41f7dd.jpg",
+    "/images/9ff3db7f4d5e914638b7c5f010d54876d0463d35.jpg",
+    "/images/560564a51a428a09d45bee4d4bcda2d1af89384b.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/ba5fdf653896be20683c17663c8f8da66e719e9b.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7975",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "立ち向かえGo way",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Super Happy Lucky Special Day",
+              "duration": "03:24",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "立ち向かえGo way(Instrumental)",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Super Happy Lucky Special Day(Instrumental)",
+              "duration": "03:24",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/7a25ffb487b4b1b64a791cf11725d8a17d41f7dd.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7977",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "立ち向かえGo way(Music Video)",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "立ち向かえGo way(Dance Shot Ver.)",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "立ち向かえGo way(メイキング映像)",
+              "duration": "12:41"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/9ff3db7f4d5e914638b7c5f010d54876d0463d35.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7979",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "立ち向かえGo way",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Super Happy Lucky Special Day",
+              "duration": "03:24",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "立ち向かえGo way(Instrumental)",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Super Happy Lucky Special Day(Instrumental)",
+              "duration": "03:24",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/560564a51a428a09d45bee4d4bcda2d1af89384b.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7980",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Super Happy Lucky Special Day(Music Video)",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Super Happy Lucky Special Day(Dance Shot Ver.)",
+              "duration": "03:26",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Super Happy Lucky Special Day(メイキング映像)",
+              "duration": "12:44"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

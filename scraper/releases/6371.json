@@ -1,0 +1,59 @@
+{
+  "id": 6371,
+  "url": "/release/6371/",
+  "title": "KURAGAE -私たちのこと、推してください！-",
+  "category": "DVD",
+  "artist": "BEYOOOOONDS",
+  "releaseDate": "2020.9.16",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/e0cd92562cb13ff592ee3e5625443c6027488068.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "#1",
+              "duration": "23:58",
+              "credits": {
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "#2",
+              "duration": "23:59",
+              "credits": {
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 1,
+              "title": "「ニッポンノD・N・A！」スタジオライブ",
+              "duration": "04:10",
+              "credits": {
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "メイキング映像",
+              "duration": "20:07",
+              "credits": {
+                "出演": "BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1649"
+        }
+      ]
+    }
+  ]
+}

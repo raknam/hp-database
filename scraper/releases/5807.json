@@ -1,0 +1,56 @@
+{
+  "id": 5807,
+  "url": "/release/5807/",
+  "title": "シングルV「歩いてる」",
+  "category": "DVDシングルV",
+  "artist": "モーニング娘。",
+  "releaseDate": "2006.11.15",
+  "label": "zetima",
+  "images": [
+    "/upload/images/40b15002207aa21533bc11ea93df9a15d153caf5.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "歩いてる",
+              "duration": "05:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "歩いてる",
+              "duration": "05:11",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "16:23",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5212"
+        }
+      ]
+    }
+  ]
+}

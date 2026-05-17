@@ -1,0 +1,127 @@
+{
+  "id": 5509,
+  "url": "/release/5509/",
+  "title": "The Girls Live Vol.41",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2018.3.14",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/031f0e0b7a7bd7f34613499f25c1a22501388624.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「Girls Talk」",
+              "duration": "11:14",
+              "suffix": "(リーダー編)",
+              "credits": {
+                "出演": "和田彩花(アンジュルム)/広瀬彩海(こぶしファクトリー)/山岸理子(つばきファクトリー)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "THINK BACK TO THE MUSIC「和太鼓」",
+              "duration": "08:32",
+              "credits": {
+                "出演": "笠原桃奈(アンジュルム)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "The Girls Live Film in 旧古河庭園",
+              "duration": "10:16",
+              "suffix": "チャオ ベッラ チンクエッティ「卒業式～大人になる1ページ～」",
+              "credits": {
+                "出演": "チャオ ベッラ チンクエッティ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "選ばれし私達",
+              "duration": "04:48",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice＝Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "愛のダイビング",
+              "duration": "03:20",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "Juice＝Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "一期一会",
+              "duration": "04:29",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "中島卓偉",
+                "出演": "チャオ ベッラ チンクエッティ"
+              }
+            },
+            {
+              "index": 7,
+              "title": "私の魅力",
+              "duration": "04:02",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "チャオ ベッラ チンクエッティ"
+              }
+            },
+            {
+              "index": 8,
+              "title": "BRAND NEW MORNING",
+              "duration": "04:22",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Jean Luc Ponpon & 星部ショウ",
+                "出演": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ジェラシー ジェラシー",
+              "duration": "04:34",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：U.M.E.D.Y.",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 10,
+              "title": "モーニング娘。'17 「BRAND NEW MORNING」MV撮影密着",
+              "duration": "05:29",
+              "credits": {
+                "出演": "モーニング娘。'17"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1591"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": 5449,
+  "url": "/release/5449/",
+  "title": "The Girls Live Vol.38",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2017.12.13",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/4eac3dfef372ac7176448ce3df50ac78942c345f.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "℃-ute 卒業スペシャル",
+              "duration": "28:26",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "嗣永桃子 卒業スペシャル",
+              "duration": "14:07",
+              "credits": {
+                "出演": "嗣永桃子"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Good Boy Bad Girl",
+              "duration": "04:10",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ピーナッツバタージェリーラブ",
+              "duration": "04:48",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "エリック・フクサキ＆三浦徳子",
+                "作曲": "エリック・フクサキ",
+                "出演": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "わかっているのにごめんね",
+              "duration": "04:46",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介",
+                "出演": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "恋泥棒",
+              "duration": "04:20",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "村カワ基成",
+                "出演": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Buono!ラストライブの舞台裏密着",
+              "duration": "05:22",
+              "suffix": "【未公開映像】",
+              "credits": {
+                "出演": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1565"
+        }
+      ]
+    }
+  ]
+}

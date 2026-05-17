@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5079",
+  "url": "/release/detail/EPCE-5079/",
+  "source": "upfront",
+  "title": "What is Love？",
+  "category": "CDシングル",
+  "artist": "スターダスト☆レビュー",
+  "releaseDate": "2000/11/29",
+  "label": "zetima",
+  "images": [
+    "/images/a80b0c2f1fc72dfc88f062948a0ec1160b7ab3d2.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/a80b0c2f1fc72dfc88f062948a0ec1160b7ab3d2.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5079",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "What is Love？",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "根本要",
+                "作曲": "根本要",
+                "編曲": "光田健一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "JOY OF LOVE",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "スターダスト・レビュー",
+                "作曲": "根本要",
+                "編曲": "光田健一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "What is Love？(Instrumental)",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "根本要",
+                "作曲": "根本要",
+                "編曲": "光田健一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

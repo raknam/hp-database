@@ -1,0 +1,68 @@
+{
+  "code": "PKCP-5024",
+  "url": "/release/detail/PKCP-5024/",
+  "source": "upfront",
+  "title": "4U ～ひたすら～",
+  "category": "CDシングル",
+  "artist": "市井紗耶香",
+  "releaseDate": "2003/09/03",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/17426ee1ebdbf62f9abcbc105b071c764c309e4b.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/17426ee1ebdbf62f9abcbc105b071c764c309e4b.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5024",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "4U ～ひたすら～",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "たいせー",
+                "編曲": "TATOO"
+              }
+            },
+            {
+              "index": 2,
+              "title": "不器用な天使",
+              "duration": "05:18",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "たいせー",
+                "編曲": "朝井泰生"
+              }
+            },
+            {
+              "index": 3,
+              "title": "4U ～ひたすら～(Instrumental)",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "たいせー",
+                "編曲": "TATOO"
+              }
+            },
+            {
+              "index": 4,
+              "title": "不器用な天使(Instrumental)",
+              "duration": "05:19",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "たいせー",
+                "編曲": "朝井泰生"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

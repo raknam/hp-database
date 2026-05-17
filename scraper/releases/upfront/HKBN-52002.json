@@ -1,0 +1,113 @@
+{
+  "code": "HKBN-52002",
+  "url": "/release/detail/HKBN-52002/",
+  "source": "upfront",
+  "title": "Flowers of Hawaii",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2004/04/28",
+  "label": "Pacific Heaven",
+  "images": [
+    "/images/nowprinting.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/nowprinting.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKBN-52002",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "00:59"
+            },
+            {
+              "index": 2,
+              "title": "カニラウによるハラウ紹介",
+              "duration": "03:07"
+            },
+            {
+              "index": 3,
+              "title": "解説",
+              "duration": "00:39"
+            },
+            {
+              "index": 4,
+              "title": "Pua Melia",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "EdithKanaka'ole",
+                "作曲": "EdithKanaka'ole"
+              }
+            },
+            {
+              "index": 5,
+              "title": "解説",
+              "duration": "04:53"
+            },
+            {
+              "index": 6,
+              "title": "Na Pua Elima",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "KimoArtis",
+                "作曲": "KimoArtis"
+              }
+            },
+            {
+              "index": 7,
+              "title": "解説",
+              "duration": "00:31"
+            },
+            {
+              "index": 8,
+              "title": "Pua ‘Iliahi",
+              "duration": "03:18",
+              "credits": {
+                "作詞": "BillAli'iloaLincoln",
+                "作曲": "BillAli'iloaLincoln"
+              }
+            },
+            {
+              "index": 9,
+              "title": "解説",
+              "duration": "00:40"
+            },
+            {
+              "index": 10,
+              "title": "Ku'u Pua Mae' ole",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "JohnKamana",
+                "作曲": "JohnKamana"
+              }
+            },
+            {
+              "index": 11,
+              "title": "Omaomao Ponimoi(Live)",
+              "duration": "02:53",
+              "credits": {
+                "作詞": "JohnnyK.Almeida",
+                "作曲": "JohnnyK.Almeida"
+              }
+            },
+            {
+              "index": 12,
+              "title": "Mahalo メッセージ",
+              "duration": "01:03"
+            },
+            {
+              "index": 13,
+              "title": "Na Pua E Lima(演奏バージョン)",
+              "duration": "04:22"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

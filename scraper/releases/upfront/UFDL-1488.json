@@ -1,0 +1,37 @@
+{
+  "code": "UFDL-1488",
+  "url": "/release/detail/UFDL-1488/",
+  "source": "upfront",
+  "title": "あなたを想う帰り道",
+  "category": "配信",
+  "artist": "金澤朋子",
+  "releaseDate": "2021/11/25",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/d553cb3f98a22bb2cd47ebdad35d4248df5f6c74.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d553cb3f98a22bb2cd47ebdad35d4248df5f6c74.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1488",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "あなたを想う帰り道",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5321",
+  "url": "/release/detail/EPBE-5321/",
+  "source": "upfront",
+  "title": "シングルV「泣いちゃうかも」",
+  "category": "DVDシングルV",
+  "artist": "モーニング娘。",
+  "releaseDate": "2009/02/25",
+  "label": "zetima",
+  "images": [
+    "/images/42b95cdef9672b3bd468e584fe189a33806b942d.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/42b95cdef9672b3bd468e584fe189a33806b942d.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5321",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "泣いちゃうかも",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "泣いちゃうかも(Dance Shot Ver.)",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "29:23"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": 5951,
+  "url": "/release/5951/",
+  "title": "ちょい悪デビル",
+  "category": "配信",
+  "artist": "W",
+  "releaseDate": "2019.3.30",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/13eef730deee5b67c4870b2370d08fc7af910d9c.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ちょい悪デビル",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン",
+                "編曲": "イイジマケン",
+                "歌": "W"
+              }
+            },
+            {
+              "index": 2,
+              "title": "どうにもとまらない",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "阿久悠",
+                "作曲": "都倉俊一",
+                "編曲": "矢野博康",
+                "歌": "W"
+              }
+            },
+            {
+              "index": 3,
+              "title": "春咲小紅",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "糸井重里",
+                "作曲": "矢野顕子",
+                "編曲": "河野伸",
+                "歌": "W"
+              }
+            },
+            {
+              "index": 4,
+              "title": "個人授業",
+              "duration": "03:28",
+              "credits": {
+                "作詞": "阿久悠",
+                "作曲": "都倉俊一",
+                "編曲": "野村義男",
+                "歌": "W"
+              }
+            },
+            {
+              "index": 5,
+              "title": "うちにかぎってそんなことはないはず",
+              "duration": "03:03",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "直枝政太郎",
+                "編曲": "ARCHIBOLD",
+                "歌": "W"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1425"
+        }
+      ]
+    }
+  ]
+}

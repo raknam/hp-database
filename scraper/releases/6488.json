@@ -1,0 +1,38 @@
+{
+  "id": 6488,
+  "url": "/release/6488/",
+  "title": "フレフレ・エブリデイ",
+  "category": "配信",
+  "artist": "BEYOOOOONDS",
+  "releaseDate": "2021.7.28",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/212262916ba986cf4af58f8da4181cb361c9c258.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "フレフレ・エブリデイ",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1482"
+        }
+      ]
+    }
+  ]
+}

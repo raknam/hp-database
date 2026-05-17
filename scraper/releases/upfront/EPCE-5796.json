@@ -1,0 +1,48 @@
+{
+  "code": "EPCE-5796",
+  "url": "/release/detail/EPCE-5796/",
+  "source": "upfront",
+  "title": "愛は勝つ",
+  "category": "CDシングル",
+  "artist": "がんばろうニッポン 愛は勝つ シンガーズ",
+  "releaseDate": "2011/06/22",
+  "label": "zetima",
+  "images": [
+    "/images/0a41bf9fb712a41f247f9f3f36a11f8cb58ce5cd.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/0a41bf9fb712a41f247f9f3f36a11f8cb58ce5cd.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5796",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛は勝つ",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN/矢代恒彦"
+              }
+            },
+            {
+              "index": 2,
+              "title": "愛は勝つ(Instrumental)",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN/矢代恒彦"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

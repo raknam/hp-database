@@ -1,0 +1,73 @@
+{
+  "code": "EPBE-5460",
+  "url": "/release/detail/EPBE-5460/",
+  "source": "upfront",
+  "title": "アロハロ！モーニング娘。6期 DVD",
+  "category": "DVD",
+  "artist": "モーニング娘。",
+  "releaseDate": "2013/01/16",
+  "label": "zetima",
+  "images": [
+    "/images/03911d2b75a3a902d9d6707beb952a377bae3299.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/03911d2b75a3a902d9d6707beb952a377bae3299.jpg",
+      "price": "￥4,400 (税抜価格 ￥4,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5460",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "01:24"
+            },
+            {
+              "index": 2,
+              "title": "Yoga",
+              "duration": "08:56"
+            },
+            {
+              "index": 3,
+              "title": "Image at Park",
+              "duration": "07:48"
+            },
+            {
+              "index": 4,
+              "title": "Pancake",
+              "duration": "14:07"
+            },
+            {
+              "index": 5,
+              "title": "Image at Waikiki",
+              "duration": "08:15"
+            },
+            {
+              "index": 6,
+              "title": "End Talk",
+              "duration": "14:22"
+            },
+            {
+              "index": 7,
+              "title": "ラララのピピピ",
+              "duration": "04:46"
+            },
+            {
+              "index": 8,
+              "title": "涙一滴",
+              "duration": "04:18"
+            },
+            {
+              "index": 9,
+              "title": "Ending",
+              "duration": "08:36"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

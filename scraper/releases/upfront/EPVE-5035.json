@@ -1,0 +1,43 @@
+{
+  "code": "EPVE-5035",
+  "url": "/release/detail/EPVE-5035/",
+  "source": "upfront",
+  "title": "ビデオ・ミニハムずの愛の唄",
+  "category": "VHS",
+  "artist": "ミニハムず",
+  "releaseDate": "2002/02/27",
+  "label": "zetima",
+  "images": [
+    "/images/7cef0e9d35730dfeb2e487a82bde7a002c11ea37.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7cef0e9d35730dfeb2e487a82bde7a002c11ea37.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "VHS",
+          "catalogNo": "EPVE-5035",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ミニハムずの愛の唄",
+              "duration": "03:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "渡部チェル"
+              }
+            },
+            {
+              "index": 2,
+              "title": "第1回ミニハムず 逆から読んだらずムハニミ大会",
+              "duration": "00:58"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": 5010,
+  "url": "/release/5010/",
+  "title": "bluest",
+  "category": "BD",
+  "artist": "宮本佳林",
+  "releaseDate": "2016.11.23",
+  "label": "hachama",
+  "images": [
+    "/upload/images/c456e9ff0912209fe862dfe0af9716dee768920c.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Blue sky",
+              "duration": "11:51",
+              "credits": {
+                "出演": "宮本佳林"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Shining Blue",
+              "duration": "13:01",
+              "credits": {
+                "出演": "宮本佳林"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Ever Blue",
+              "duration": "11:43",
+              "credits": {
+                "出演": "宮本佳林"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Making of Photobook 「Sunflower」",
+              "duration": "16:03",
+              "credits": {
+                "出演": "宮本佳林"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "02:09",
+              "credits": {
+                "出演": "宮本佳林"
+              }
+            }
+          ],
+          "catalogNo": "HKXN-50053"
+        }
+      ]
+    }
+  ]
+}

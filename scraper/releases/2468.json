@@ -1,0 +1,223 @@
+{
+  "id": 2468,
+  "url": "/release/2468/",
+  "title": "乙女の祈り",
+  "category": "CDシングル",
+  "artist": "真野恵里菜",
+  "releaseDate": "2009.3.18",
+  "label": "hachama",
+  "images": [
+    "/upload/images/0726ef85f54333a591da045f92998543c3593200.webp",
+    "/upload/images/6340ecfcd67f83ea64e3297603ac94c48b39e918.webp",
+    "/upload/images/5a56fc1a0cab944f90cf8fb641a8b980d7ee8ebe.webp",
+    "/upload/images/2471c57d6bd642c100d33448f999d70b3d378b9d.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/0726ef85f54333a591da045f92998543c3593200.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "乙女の祈り",
+              "duration": "04:51",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "たいせい",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "水色想い",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "たいせい",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "乙女の祈り",
+              "duration": "04:51",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "たいせい",
+                "歌": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50072"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "乙女の祈り",
+              "duration": "05:08",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "出演": "真野恵里菜"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付き"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/6340ecfcd67f83ea64e3297603ac94c48b39e918.webp",
+      "price": "￥1,540（税抜価格 ￥1,400）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "乙女の祈り",
+              "duration": "04:51",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "たいせい",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "水色想い",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "たいせい",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "乙女の祈り",
+              "duration": "04:51",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "たいせい",
+                "歌": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50074"
+        }
+      ],
+      "note": "ブックレット付"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/5a56fc1a0cab944f90cf8fb641a8b980d7ee8ebe.webp",
+      "price": "￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "乙女の祈り",
+              "duration": "04:51",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "たいせい",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "水色想い",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "たいせい",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "乙女の祈り",
+              "duration": "04:51",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "たいせい",
+                "歌": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50075"
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/2471c57d6bd642c100d33448f999d70b3d378b9d.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "乙女の祈り",
+              "duration": "04:51",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "たいせい",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "水色想い",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "たいせい",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "乙女の祈り",
+              "duration": "04:51",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "たいせい",
+                "歌": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50076"
+        }
+      ]
+    }
+  ]
+}

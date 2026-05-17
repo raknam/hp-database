@@ -1,0 +1,58 @@
+{
+  "code": "EPDE-1001",
+  "url": "/release/detail/EPDE-1001/",
+  "source": "upfront",
+  "title": "7月7日",
+  "category": "CDシングル",
+  "artist": "スターダスト☆レビュー",
+  "releaseDate": "1998/05/21",
+  "label": "zetima",
+  "images": [
+    "/images/711ec6a653a1a578e9f992dd4acbcb4ff2330e7b.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/711ec6a653a1a578e9f992dd4acbcb4ff2330e7b.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1001",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "7月7日",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "康珍化",
+                "作曲": "根本要",
+                "編曲": "鳥山雄司"
+              }
+            },
+            {
+              "index": 2,
+              "title": "夢の中から",
+              "duration": "05:15",
+              "credits": {
+                "作詞": "柿沼清史/寺田正美",
+                "作曲": "柿沼清史",
+                "編曲": "スタ－ダスト・レビュ－/光田 健一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "7月7日(オリジナル・カラオケ)",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "康珍化",
+                "作曲": "根本要",
+                "編曲": "鳥山雄司"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

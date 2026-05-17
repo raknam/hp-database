@@ -1,0 +1,73 @@
+{
+  "code": "UFBW-1339",
+  "url": "/release/detail/UFBW-1339/",
+  "source": "upfront",
+  "title": "Juice=Juiceプロフィールムービー完全版",
+  "category": "DVD",
+  "artist": "Juice=Juice",
+  "releaseDate": "2014/01/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/dd594c4f80353d3679581287786494dc34364abc.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/dd594c4f80353d3679581287786494dc34364abc.jpg",
+      "price": "￥2,619 (税抜価格 ￥2,381)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1339",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "宮崎由加",
+              "duration": "10:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "金澤朋子",
+              "duration": "09:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "高木紗友希",
+              "duration": "08:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "宮本佳林",
+              "duration": "08:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "植村あかり",
+              "duration": "06:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

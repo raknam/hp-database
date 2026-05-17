@@ -1,0 +1,127 @@
+{
+  "code": "TGCS-4354",
+  "url": "/release/detail/TGCS-4354/",
+  "source": "upfront",
+  "title": "smooth grooves from the Go Jazz Vault Tully's #2",
+  "category": "CDアルバム",
+  "artist": "V.A.",
+  "releaseDate": "2007/08/07",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/nowprinting.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/nowprinting.jpg",
+      "price": "￥2,096 (税抜価格 ￥1,905)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "TGCS-4354",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Mood Swing",
+              "duration": "06:43",
+              "credits": {
+                "作詞": "Malach,Ferrante,Ford",
+                "作曲": "Malach,Ferrante,Ford"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Midnight Blue",
+              "duration": "06:11",
+              "credits": {
+                "作詞": "Philip.R.Upchurch",
+                "作曲": "Philip.R.Upchurch"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Jdarling",
+              "duration": "06:30",
+              "credits": {
+                "作詞": "R.Peterson/B.Fields",
+                "作曲": "R.Peterson/B.Fields"
+              }
+            },
+            {
+              "index": 4,
+              "title": "In Your Eyes",
+              "duration": "06:50",
+              "credits": {
+                "作詞": "Malach,Ferrante",
+                "作曲": "Malach,Ferrante"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Traveling Music",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "BenSidran/RickyPeterson",
+                "作曲": "BenSidran/RickyPeterson"
+              }
+            },
+            {
+              "index": 6,
+              "title": "The Long Way Home",
+              "duration": "06:27",
+              "credits": {
+                "作詞": "Philip.R.Upchurch",
+                "作曲": "Philip.R.Upchurch"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Blue Panther",
+              "duration": "05:05",
+              "credits": {
+                "作詞": "BenSidran",
+                "作曲": "BenSidran"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Go Tell Mel",
+              "duration": "08:08",
+              "credits": {
+                "作詞": "RobbenFord",
+                "作曲": "RobbenFord"
+              }
+            },
+            {
+              "index": 9,
+              "title": "Bee's Blues",
+              "duration": "05:27",
+              "credits": {
+                "作詞": "Philip.R.Upchurch",
+                "作曲": "Philip.R.Upchurch"
+              }
+            },
+            {
+              "index": 10,
+              "title": "Whistle While You Walk",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "Russell,K.Ferrante",
+                "作曲": "Russell,K.Ferrante"
+              }
+            },
+            {
+              "index": 11,
+              "title": "Mitch",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "T.Garvin",
+                "作曲": "T.Garvin"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

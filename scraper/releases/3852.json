@@ -1,0 +1,73 @@
+{
+  "id": 3852,
+  "url": "/release/3852/",
+  "title": "さらさらの川",
+  "category": "CDシングル",
+  "artist": "前田有紀",
+  "releaseDate": "2004.1.1",
+  "label": "zetima",
+  "images": [
+    "/upload/images/1acc1dda97670722fa19407b5bf55bfd71405b61.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "さらさらの川",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "上田紅葉",
+                "作曲": "川口真",
+                "編曲": "小西貴雄",
+                "歌": "前田有紀"
+              }
+            },
+            {
+              "index": 2,
+              "title": "それは不思議",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "上田紅葉",
+                "作曲": "川口真",
+                "編曲": "小西貴雄",
+                "歌": "前田有紀"
+              }
+            },
+            {
+              "index": 3,
+              "title": "さらさらの川",
+              "duration": "04:20",
+              "suffix": "(オリジナル・カラオケ)",
+              "credits": {
+                "作詞": "上田紅葉",
+                "作曲": "川口真",
+                "編曲": "小西貴雄",
+                "歌": "前田有紀"
+              }
+            },
+            {
+              "index": 4,
+              "title": "それは不思議",
+              "duration": "04:06",
+              "suffix": "(オリジナル・カラオケ)",
+              "credits": {
+                "作詞": "上田紅葉",
+                "作曲": "川口真",
+                "編曲": "小西貴雄",
+                "歌": "前田有紀"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5252"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "code": "UFBW-1649",
+  "url": "/release/detail/UFBW-1649/",
+  "source": "upfront",
+  "title": "KURAGAE -私たちのこと、推してください！-",
+  "category": "DVD",
+  "artist": "BEYOOOOONDS",
+  "releaseDate": "2020/09/16",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/e0cd92562cb13ff592ee3e5625443c6027488068.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/e0cd92562cb13ff592ee3e5625443c6027488068.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1649",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "#1",
+              "duration": "23:58"
+            },
+            {
+              "index": 2,
+              "title": "#2",
+              "duration": "23:59"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

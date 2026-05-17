@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5405",
+  "url": "/release/detail/EPBE-5405/",
+  "source": "upfront",
+  "title": "シングルV「Only you」",
+  "category": "DVDシングルV",
+  "artist": "モーニング娘。",
+  "releaseDate": "2011/06/29",
+  "label": "zetima",
+  "images": [
+    "/images/0bf4ed7bfe494302989c32fab54224d975836c0e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/0bf4ed7bfe494302989c32fab54224d975836c0e.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5405",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Only you",
+              "duration": "05:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Only you(Image Ver.)",
+              "duration": "05:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "11:19"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

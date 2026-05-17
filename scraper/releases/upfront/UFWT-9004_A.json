@@ -1,0 +1,81 @@
+{
+  "code": "UFWT-9004_A",
+  "url": "/release/detail/UFWT-9004_A/",
+  "source": "upfront",
+  "title": "何故 人は争うんだろう？ /Summer Wind/人生はSTEP!",
+  "category": "アナログシングル",
+  "artist": "℃-ute",
+  "releaseDate": "2016/08/10",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/db5b720c48e7bbab4afc9f00af48c423524ba2c3.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/db5b720c48e7bbab4afc9f00af48c423524ba2c3.jpg",
+      "price": "￥2,750 (税抜価格 ￥2,500)",
+      "discs": [
+        {
+          "type": "アナログシングル",
+          "catalogNo": "UFWT-9004",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "何故 人は争うんだろう？",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Summer Wind",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": null,
+      "price": "￥2,750 (税抜価格 ￥2,500)",
+      "discs": [
+        {
+          "type": "アナログシングル",
+          "catalogNo": "UFWT-9004",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "人生はSTEP!",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "石井浩平",
+                "編曲": "石井浩平"
+              }
+            },
+            {
+              "index": 2,
+              "title": "人生はSTEP!(Lil'Yukichi Remix)feat.Cherry Brown",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "石井浩平",
+                "編曲": "Lil'Yukichi/Rap by Cherry Brown"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

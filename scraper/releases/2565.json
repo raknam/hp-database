@@ -1,0 +1,56 @@
+{
+  "id": 2565,
+  "url": "/release/2565/",
+  "title": "シングルV「LU LU LU」",
+  "category": "DVDシングルV",
+  "artist": "GAM",
+  "releaseDate": "2007.3.28",
+  "label": "hachama",
+  "images": [
+    "/upload/images/435582a2f5a69a3ff88f4b6b533e84786fdcf84b.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "LU LU LU",
+              "duration": "04:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "GAM"
+              }
+            },
+            {
+              "index": 2,
+              "title": "LU LU LU",
+              "duration": "04:49",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "GAM"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "09:39",
+              "credits": {
+                "出演": "GAM"
+              }
+            }
+          ],
+          "catalogNo": "HKBN-50080"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 5363,
+  "url": "/release/5363/",
+  "title": "Goal〜明日はあっちだよ〜",
+  "category": "配信",
+  "artist": "Juice=Juice",
+  "releaseDate": "2017.5.19",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/f16f4c00fe5fbe30097c1d7fd945b097f7985764.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Goal〜明日はあっちだよ〜",
+              "duration": "05:12",
+              "credits": {
+                "作詞": "近藤薫",
+                "作曲": "近藤薫",
+                "編曲": "近藤薫&沢頭たかし",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1334"
+        }
+      ]
+    }
+  ]
+}

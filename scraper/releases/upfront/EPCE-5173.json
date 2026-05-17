@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5173",
+  "url": "/release/detail/EPCE-5173/",
+  "source": "upfront",
+  "title": "やる気！IT'S EASY",
+  "category": "CDシングル",
+  "artist": "後藤真希",
+  "releaseDate": "2002/08/21",
+  "label": "zetima",
+  "images": [
+    "/images/5cf90830036fb0e5bc7edd8b56d7c981e565e0ca.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/5cf90830036fb0e5bc7edd8b56d7c981e565e0ca.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5173",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "やる気！IT'S EASY",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 2,
+              "title": "気まぐれ",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野伸"
+              }
+            },
+            {
+              "index": 3,
+              "title": "やる気！IT'S EASY(Instrumental)",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

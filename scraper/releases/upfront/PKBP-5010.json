@@ -1,0 +1,53 @@
+{
+  "code": "PKBP-5010",
+  "url": "/release/detail/PKBP-5010/",
+  "source": "upfront",
+  "title": "シングルV「抱いてよ！ PLEASE GO ON」",
+  "category": "DVDシングルV",
+  "artist": "後藤真希",
+  "releaseDate": "2003/08/27",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/5fd989934dfd6bbb5decfd6bd25bcf22bace0a92.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/5fd989934dfd6bbb5decfd6bd25bcf22bace0a92.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "PKBP-5010",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "抱いてよ！ PLEASE GO ON",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "抱いてよ！ PLEASE GO ON(Close up Version)",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "06:18"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

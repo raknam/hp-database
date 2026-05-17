@@ -1,0 +1,48 @@
+{
+  "code": "UFDL-1423",
+  "url": "/release/detail/UFDL-1423/",
+  "source": "upfront",
+  "title": "かけがえのないあなたへ ～my precious treasure box～",
+  "category": "配信",
+  "artist": "真野恵里菜",
+  "releaseDate": "2019/03/19",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/46dd00c7bd998edb954101136f700a443d5707c3.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/46dd00c7bd998edb954101136f700a443d5707c3.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1423",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "かけがえのないあなたへ ～my precious treasure box～",
+              "duration": "05:34",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "中島卓偉",
+                "編曲": "菊谷知樹"
+              }
+            },
+            {
+              "index": 1,
+              "title": "かけがえのないあなたへ ～my precious treasure box～(Instrumental)",
+              "duration": "05:34",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "中島卓偉",
+                "編曲": "菊谷知樹"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": 2068,
+  "url": "/release/2068/",
+  "title": "ハロプロ！TIME Vol.7",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012.4.9",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/1d321959c94260805872458b87024d7c3dcd95b9.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "スマイレージ新メンバー発表",
+              "duration": "18:03",
+              "credits": {
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "小川紗季 卒業",
+              "duration": "03:18",
+              "credits": {
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "サブメンバー小数芙由香休養宣言！",
+              "duration": "00:40",
+              "credits": {
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "サブメンバー笑顔うpキャンペーン",
+              "duration": "12:09",
+              "credits": {
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "卒業企画！前田憂佳がメンバーと休日遊園地デート①",
+              "duration": "18:26",
+              "credits": {
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "卒業企画！前田憂佳がメンバーと休日遊園地デート②",
+              "duration": "19:29",
+              "credits": {
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 7,
+              "title": "プリーズ ミニスカ ポストウーマン！ リリースイベント〜前田憂佳卒業",
+              "duration": "06:30",
+              "credits": {
+                "出演": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1149"
+        }
+      ]
+    }
+  ]
+}

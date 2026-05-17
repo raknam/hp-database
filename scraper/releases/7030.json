@@ -1,0 +1,71 @@
+{
+  "id": 7030,
+  "url": "/release/7030/",
+  "title": "ちょっと情緒不安定？…夏/オチャノマ マホロバ イコイノバ～昭和も令和もワッチャワチャ～/シェケナーレ/ヨリドリ ME DREAM(Special Edition)",
+  "category": "配信",
+  "artist": "OCHA NORMA",
+  "releaseDate": "2023.7.26",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/2b61a9bab8baf0cb92d5722397e1ad3a2ec20ed2.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ちょっと情緒不安定？…夏",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "広瀬香美",
+                "作曲": "広瀬香美",
+                "編曲": "炭竃智弘",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "オチャノマ マホロバ イコイノバ 〜昭和も令和もワッチャワチャ～",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "シェケナーレ",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "ANDW",
+                "編曲": "中村瑛彦",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ヨリドリ ME DREAM",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "板垣祐介",
+                "歌": "OCHA NORMA"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1519"
+        }
+      ]
+    }
+  ]
+}

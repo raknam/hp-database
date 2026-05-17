@@ -1,0 +1,122 @@
+{
+  "code": "PKCP-2039",
+  "url": "/release/detail/PKCP-2039/",
+  "source": "upfront",
+  "title": "れんげ草",
+  "category": "CDシングル",
+  "artist": "加川明",
+  "releaseDate": "2008/06/25",
+  "label": "ライスミュージック",
+  "images": [
+    "/images/680f4c440eee86089cae829ad53c2a50b47d9f46.jpg",
+    "/images/4cb7ef524334e15c20385b0d111582fc952eef0d.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/680f4c440eee86089cae829ad53c2a50b47d9f46.jpg",
+      "price": "￥1,257 (税抜価格 ￥1,143)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-2039",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "れんげ草",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "大谷明裕",
+                "編曲": "前田俊明"
+              }
+            },
+            {
+              "index": 2,
+              "title": "あなたにありがとう",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "加川明",
+                "作曲": "加川明",
+                "編曲": "石倉重信"
+              }
+            },
+            {
+              "index": 3,
+              "title": "れんげ草(オリジナル・カラオケ)",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "大谷明裕",
+                "編曲": "前田俊明"
+              }
+            },
+            {
+              "index": 4,
+              "title": "あなたにありがとう(オリジナル・カラオケ)",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "加川明",
+                "作曲": "加川明",
+                "編曲": "石倉重信"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": "/images/4cb7ef524334e15c20385b0d111582fc952eef0d.jpg",
+      "price": "￥1,257 (税抜価格 ￥1,143)",
+      "discs": [
+        {
+          "type": "カセットテープシングル",
+          "catalogNo": "PKSP-2039",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "れんげ草",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "大谷明裕",
+                "編曲": "前田俊明"
+              }
+            },
+            {
+              "index": 2,
+              "title": "あなたにありがとう",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "加川明",
+                "作曲": "加川明",
+                "編曲": "石倉重信"
+              }
+            },
+            {
+              "index": 3,
+              "title": "れんげ草(オリジナル・カラオケ)",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "大谷明裕",
+                "編曲": "前田俊明"
+              }
+            },
+            {
+              "index": 4,
+              "title": "あなたにありがとう",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "加川明",
+                "作曲": "加川明",
+                "編曲": "石倉重信"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

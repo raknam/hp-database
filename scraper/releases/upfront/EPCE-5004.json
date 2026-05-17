@@ -1,0 +1,137 @@
+{
+  "code": "EPCE-5004",
+  "url": "/release/detail/EPCE-5004/",
+  "source": "upfront",
+  "title": "Sava Sava",
+  "category": "CDアルバム",
+  "artist": "森高千里",
+  "releaseDate": "1998/09/09",
+  "label": "zetima",
+  "images": [
+    "/images/7feb346b1ef0bbbaeffdcb3dd01a03ff3de185fa.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7feb346b1ef0bbbaeffdcb3dd01a03ff3de185fa.jpg",
+      "price": "￥3,204 (税抜価格 ￥2,913)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5004",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ユートピア",
+              "duration": "04:54",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "河野伸",
+                "編曲": "河野伸"
+              }
+            },
+            {
+              "index": 2,
+              "title": "電話(Album Version)",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "高橋諭一",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "たんぽぽの種",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "スガシカオ",
+                "編曲": "スガシカオ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "いつもの店",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "高橋諭一",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 5,
+              "title": "流されて…",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "高橋諭一",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Two of me",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "森高千里",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 7,
+              "title": "海まで5分(Album Version)",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "久保田利伸",
+                "編曲": "ストリングスアレンジ高橋諭一"
+              }
+            },
+            {
+              "index": 8,
+              "title": "忘れかけてた夢",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "高橋諭一",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ザルで水くむ恋心",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "COIL",
+                "編曲": "COIL"
+              }
+            },
+            {
+              "index": 10,
+              "title": "危険な舗道",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "森高千里",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 11,
+              "title": "SNOW AGAIN",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

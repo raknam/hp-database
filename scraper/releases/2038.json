@@ -1,0 +1,35 @@
+{
+  "id": 2038,
+  "url": "/release/2038/",
+  "title": "美女学 Vol.3",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2011.1.7",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/aa54184c5776bff831a2173c6768ebbfcb4dced8.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "美女学 Vol.3",
+              "duration": "00:00",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1040"
+        }
+      ]
+    }
+  ]
+}

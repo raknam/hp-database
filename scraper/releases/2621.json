@@ -1,0 +1,85 @@
+{
+  "id": 2621,
+  "url": "/release/2621/",
+  "title": "ザ・ストレス",
+  "category": "CDシングル",
+  "artist": "安倍なつみ",
+  "releaseDate": "2006.6.28",
+  "label": "hachama",
+  "images": [
+    "/upload/images/f51d6c66fa66ac60705a912459428d1f806f91a1.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ザ・ストレス",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "斉藤英夫",
+                "編曲": "上野圭市/ホーンアレンジ:竹上良成",
+                "歌": "安倍なつみ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ザ・ストレス",
+              "duration": "04:13",
+              "suffix": "(危機Version)",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "斉藤英夫",
+                "編曲": "土肥真生",
+                "歌": "安倍なつみ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ザ・ストレス",
+              "duration": "04:19",
+              "suffix": "(shakabone HIDE Remix)",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "斉藤英夫",
+                "編曲": "shakaboneHIDE",
+                "歌": "安倍なつみ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ザ・ストレス",
+              "duration": "00:40",
+              "suffix": "(アカペラVersion)",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "斉藤英夫",
+                "歌": "安倍なつみ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ザ・ストレス",
+              "duration": "03:56",
+              "suffix": "(オリジナルカラオケ)",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "斉藤英夫",
+                "編曲": "上野圭市/ホーンアレンジ:竹上良成",
+                "歌": "安倍なつみ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50035"
+        }
+      ]
+    }
+  ]
+}

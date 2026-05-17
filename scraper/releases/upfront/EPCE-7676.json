@@ -1,0 +1,260 @@
+{
+  "code": "EPCE-7676",
+  "url": "/release/detail/EPCE-7676/",
+  "source": "upfront",
+  "title": "Chu Chu Chu 僕らの未来/大・人生 Never Been Better!",
+  "category": "CDシングル",
+  "artist": "モーニング娘。'22",
+  "releaseDate": "2022/06/08",
+  "label": "zetima",
+  "images": [
+    "/images/8e1e0dc9a007da2422246368b335c333feb10ff1.jpg",
+    "/images/a523ed32aad0627ce05f65142760c65efd2c967c.jpg",
+    "/images/167629827d22250e259f6e44e8eebbe3260ed0df.jpg",
+    "/images/80cde836ab6be1547062cc478379f16a6210d328.jpg",
+    "/images/73bf729aa2a59cad1fffbd34d0b5c9118e3f800b.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/8e1e0dc9a007da2422246368b335c333feb10ff1.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7676",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Chu Chu Chu 僕らの未来",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "大・人生 Never Been Better!",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Chu Chu Chu 僕らの未来(Instrumental)",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 4,
+              "title": "大・人生 Never Been Better!(Instrumental)",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/a523ed32aad0627ce05f65142760c65efd2c967c.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7678",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Chu Chu Chu 僕らの未来(Music Video)",
+              "duration": "04:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Chu Chu Chu 僕らの未来(Dance Shot Ver.)",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Chu Chu Chu 僕らの未来(メイキング映像)",
+              "duration": "16:03"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/images/167629827d22250e259f6e44e8eebbe3260ed0df.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7680",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Chu Chu Chu 僕らの未来",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "大・人生 Never Been Better!",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Chu Chu Chu 僕らの未来(Instrumental)",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 4,
+              "title": "大・人生 Never Been Better!(Instrumental)",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/80cde836ab6be1547062cc478379f16a6210d328.jpg",
+      "price": "￥1,200 (税抜価格 ￥1,091)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7682",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "大・人生 Never Been Better!(Music Video)",
+              "duration": "05:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "大・人生 Never Been Better!(Dance Shot Ver.)",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "大・人生 Never Been Better!(メイキング映像)",
+              "duration": "14:13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/73bf729aa2a59cad1fffbd34d0b5c9118e3f800b.jpg",
+      "price": "￥1,200 (税抜価格 ￥1,091)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7683",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Chu Chu Chu 僕らの未来",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "大・人生 Never Been Better!",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "I WISH",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野伸"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Chu Chu Chu 僕らの未来(Instrumental)",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 5,
+              "title": "大・人生 Never Been Better!(Instrumental)",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

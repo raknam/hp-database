@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5178",
+  "url": "/release/detail/EPCE-5178/",
+  "source": "upfront",
+  "title": "BE HAPPY 恋のやじろべえ",
+  "category": "CDシングル",
+  "artist": "タンポポ",
+  "releaseDate": "2002/09/26",
+  "label": "zetima",
+  "images": [
+    "/images/583f5c501d25bf9f214c426a4f1b500318d5a043.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/583f5c501d25bf9f214c426a4f1b500318d5a043.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5178",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "BE HAPPY 恋のやじろべえ",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "永井ルイ/リズムトラックアレンジ:DJ DRAGON"
+              }
+            },
+            {
+              "index": 2,
+              "title": "やるときゃやらなきゃ女の子",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "BE HAPPY 恋のやじろべえ(Instrumental)",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "永井ルイ/リズムトラックアレンジ:DJ DRAGON"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

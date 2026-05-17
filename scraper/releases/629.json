@@ -1,0 +1,176 @@
+{
+  "id": 629,
+  "url": "/release/629/",
+  "title": "歩いてる",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2006.11.8",
+  "label": "zetima",
+  "images": [
+    "/upload/images/3e57238be8b35a5af4d79022a107543b8738aa60.webp",
+    "/upload/images/ead66e5388bc51f84302ccc1fe9b542d2cac1c4a.webp",
+    "/upload/images/8c61c1da40b2d511f7d3b64144bcdf804a1ec835.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤 A】",
+      "image": "/upload/images/3e57238be8b35a5af4d79022a107543b8738aa60.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "歩いてる",
+              "duration": "04:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "踊れ!モーニングカレー",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "歩いてる",
+              "duration": "04:56",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5433"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "歩いてる",
+              "duration": "05:11",
+              "suffix": "(Walk Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤 B】",
+      "image": "/upload/images/ead66e5388bc51f84302ccc1fe9b542d2cac1c4a.webp",
+      "price": "定価 ￥1,320（税抜価格 ￥1,200）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "歩いてる",
+              "duration": "04:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "踊れ!モーニングカレー",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "歩いてる",
+              "duration": "04:56",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5435"
+        }
+      ],
+      "note": "スペシャル・パッケージ,36P写真集"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/8c61c1da40b2d511f7d3b64144bcdf804a1ec835.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "歩いてる",
+              "duration": "04:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "踊れ!モーニングカレー",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "歩いてる",
+              "duration": "04:56",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5436"
+        }
+      ],
+      "note": "通常盤･初回仕様 モーニング娘。フォトカード封入"
+    }
+  ]
+}

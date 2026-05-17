@@ -1,0 +1,48 @@
+{
+  "code": "UFBW-1049",
+  "url": "/release/detail/UFBW-1049/",
+  "source": "upfront",
+  "title": "ありがとう",
+  "category": "DVD",
+  "artist": "亀井絵里",
+  "releaseDate": "2010/12/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/b2632c96fb666955cb4a19ab2694a4bfbfdddada.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/b2632c96fb666955cb4a19ab2694a4bfbfdddada.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1049",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "02:24"
+            },
+            {
+              "index": 2,
+              "title": "Image movie",
+              "duration": "29:51"
+            },
+            {
+              "index": 3,
+              "title": "Interview",
+              "duration": "18:15"
+            },
+            {
+              "index": 4,
+              "title": "Endroll",
+              "duration": "05:38"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

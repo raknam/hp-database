@@ -1,0 +1,68 @@
+{
+  "code": "UFCW-1040",
+  "url": "/release/detail/UFCW-1040/",
+  "source": "upfront",
+  "title": "なめんな！アシガールズ/マーブルヒーロー",
+  "category": "CDシングル",
+  "artist": "アップアップガールズ（仮）",
+  "releaseDate": "2012/09/02",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/16eebf1df4c9a559eb55668542af1ceeab680f44.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/16eebf1df4c9a559eb55668542af1ceeab680f44.jpg",
+      "price": "￥1,047 (税抜価格 ￥952)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "UFCW-1040",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "なめんな！アシガールズ",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "オノダヒロユキ",
+                "作曲": "y0c1e",
+                "編曲": "y0c1e"
+              }
+            },
+            {
+              "index": 2,
+              "title": "マーブルヒーロー",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "PandaBoY",
+                "作曲": "PandaBoY",
+                "編曲": "PandaBoY"
+              }
+            },
+            {
+              "index": 3,
+              "title": "なめんな！アシガールズ(Instrumental)",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "オノダヒロユキ",
+                "作曲": "y0c1e",
+                "編曲": "y0c1e"
+              }
+            },
+            {
+              "index": 4,
+              "title": "マーブルヒーロー(Instrumental)",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "PandaBoY",
+                "作曲": "PandaBoY",
+                "編曲": "PandaBoY"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "code": "EPBE-5404",
+  "url": "/release/detail/EPBE-5404/",
+  "source": "upfront",
+  "title": "AI loves you I love AI",
+  "category": "DVD",
+  "artist": "高橋愛",
+  "releaseDate": "2011/04/20",
+  "label": "zetima",
+  "images": [
+    "/images/5de7b787bfe63b9aa7301f2a15f0859d4e6710cc.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/5de7b787bfe63b9aa7301f2a15f0859d4e6710cc.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5404",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "00:41"
+            },
+            {
+              "index": 2,
+              "title": "With AI",
+              "duration": "05:17"
+            },
+            {
+              "index": 3,
+              "title": "On the way",
+              "duration": "01:25"
+            },
+            {
+              "index": 4,
+              "title": "Beach",
+              "duration": "18:09"
+            },
+            {
+              "index": 5,
+              "title": "Sunset",
+              "duration": "16:44"
+            },
+            {
+              "index": 6,
+              "title": "New day",
+              "duration": "03:09"
+            },
+            {
+              "index": 7,
+              "title": "Making of 「LOVE NO.10」",
+              "duration": "17:20"
+            },
+            {
+              "index": 8,
+              "title": "Ending",
+              "duration": "01:26"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

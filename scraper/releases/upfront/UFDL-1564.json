@@ -1,0 +1,68 @@
+{
+  "code": "UFDL-1564",
+  "url": "/release/detail/UFDL-1564/",
+  "source": "upfront",
+  "title": "女の愛想は武器じゃない/学校では教えてくれないこと(Special Edition)",
+  "category": "配信",
+  "artist": "OCHA NORMA",
+  "releaseDate": "2025/08/27",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/5bbe95115eb18f4ae989367073a6f1a3dde14357.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/5bbe95115eb18f4ae989367073a6f1a3dde14357.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1564",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "女の愛想は武器じゃない",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "学校では教えてくれないこと",
+              "duration": "03:04",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "わかってるっつーの！",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "早川響介",
+                "編曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 4,
+              "title": "黙ってついてこい！",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "早川響介",
+                "作曲": "早川響介",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

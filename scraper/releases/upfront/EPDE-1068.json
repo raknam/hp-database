@@ -1,0 +1,58 @@
+{
+  "code": "EPDE-1068",
+  "url": "/release/detail/EPDE-1068/",
+  "source": "upfront",
+  "title": "甘いあなたの味",
+  "category": "CDシングル",
+  "artist": "メロン記念日",
+  "releaseDate": "2000/02/19",
+  "label": "zetima",
+  "images": [
+    "/images/52775c4b52d2e0ffb62c0b4f9c4068f7c157b227.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/52775c4b52d2e0ffb62c0b4f9c4068f7c157b227.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1068",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "甘いあなたの味",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "棚橋UNA信仁"
+              }
+            },
+            {
+              "index": 2,
+              "title": "スキップ！",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "甘いあなたの味(Instrumental)",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "棚橋UNA信仁"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

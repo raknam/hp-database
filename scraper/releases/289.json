@@ -1,0 +1,35 @@
+{
+  "id": 289,
+  "url": "/release/289/",
+  "title": "仔犬ダンの物語",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2003.6.21",
+  "label": "東映ビデオ",
+  "images": [
+    "/upload/images/b2bc81f4ccee638c675d5c4e126c20d374f4b217.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "仔犬ダンの物語",
+              "duration": "00:00",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "DSTD-2185"
+        }
+      ]
+    }
+  ]
+}

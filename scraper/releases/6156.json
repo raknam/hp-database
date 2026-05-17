@@ -1,0 +1,85 @@
+{
+  "id": 6156,
+  "url": "/release/6156/",
+  "title": "「ひとりで生きられそう」って それってねえ、褒めているの？/25歳永遠説",
+  "category": "CDシングル",
+  "artist": "Juice=Juice",
+  "releaseDate": "2019.10.23",
+  "label": "hachama",
+  "images": [
+    "/upload/images/2bfd7afe2e3fdf2a4f84fa21e474e612542e3b80.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「ひとりで生きられそう」って それってねえ、褒めているの？",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "25歳永遠説",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "「ひとりで生きられそう」って それってねえ、褒めているの？",
+              "duration": "03:32",
+              "suffix": "(New Vocal Ver.)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "「ひとりで生きられそう」って それってねえ、褒めているの？",
+              "duration": "03:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "25歳永遠説",
+              "duration": "04:18",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50629"
+        }
+      ]
+    }
+  ]
+}

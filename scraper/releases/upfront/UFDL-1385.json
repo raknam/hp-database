@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1385",
+  "url": "/release/detail/UFDL-1385/",
+  "source": "upfront",
+  "title": "雑煮でケンカしてんじゃねーよ",
+  "category": "配信",
+  "artist": "宮崎由加(Juice=Juice)、牧野真莉愛(モーニング娘。'17)、川村文乃(アンジュルム)",
+  "releaseDate": "2017/12/22",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/6c00f448f54a71ec8fa70a8d2b73eb3e9e9205ec.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/6c00f448f54a71ec8fa70a8d2b73eb3e9e9205ec.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1385",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "雑煮でケンカしてんじゃねーよ",
+              "duration": "03:33",
+              "credits": {
+                "作詞": "桑原永江",
+                "作曲": "渡部チェル",
+                "編曲": "渡部チェル"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

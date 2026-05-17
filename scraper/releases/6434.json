@@ -1,0 +1,38 @@
+{
+  "id": 6434,
+  "url": "/release/6434/",
+  "title": "SHAKA SHAKA TO LOVE",
+  "category": "配信",
+  "artist": "アンジュルム",
+  "releaseDate": "2020.12.24",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/19667109d578492d9f6686a58984bbf06e2895d3.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "SHAKA SHAKA TO LOVE",
+              "duration": "03:24",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1468"
+        }
+      ]
+    }
+  ]
+}

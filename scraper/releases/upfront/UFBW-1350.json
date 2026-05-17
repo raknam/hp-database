@@ -1,0 +1,48 @@
+{
+  "code": "UFBW-1350",
+  "url": "/release/detail/UFBW-1350/",
+  "source": "upfront",
+  "title": "ハロー!SATOYAMAライフ Vol.30",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2014/06/25",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/cbf619a265df349c60a6fef43bf0fdb1792cbef8.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/cbf619a265df349c60a6fef43bf0fdb1792cbef8.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1350",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "日帰り鎌倉 里山旅 写真集作り",
+              "duration": "31:26"
+            },
+            {
+              "index": 2,
+              "title": "℃-ute武道館ライブに密着",
+              "duration": "23:53"
+            },
+            {
+              "index": 3,
+              "title": "℃-ute武道館ライブに密着 未公開映像",
+              "duration": "19:22"
+            },
+            {
+              "index": 4,
+              "title": "スマイレージ『「良い奴」』MV撮影に密着",
+              "duration": "07:50"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

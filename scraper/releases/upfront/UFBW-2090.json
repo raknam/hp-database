@@ -1,0 +1,53 @@
+{
+  "code": "UFBW-2090",
+  "url": "/release/detail/UFBW-2090/",
+  "source": "upfront",
+  "title": "brand new day",
+  "category": "DVD",
+  "artist": "熊井友理奈",
+  "releaseDate": "2013/10/05",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/d2908acc40430d16cf279902e22eecc1435fa645.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d2908acc40430d16cf279902e22eecc1435fa645.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2090",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Brand New Morning",
+              "duration": "19:25"
+            },
+            {
+              "index": 2,
+              "title": "Shines Bright",
+              "duration": "14:59"
+            },
+            {
+              "index": 3,
+              "title": "And She Walks",
+              "duration": "09:47"
+            },
+            {
+              "index": 4,
+              "title": "Interview",
+              "duration": "04:03"
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "02:02"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5282",
+  "url": "/release/detail/EPBE-5282/",
+  "source": "upfront",
+  "title": "シングルV「LALALA 幸せの歌」",
+  "category": "DVDシングルV",
+  "artist": "℃-ute",
+  "releaseDate": "2008/03/05",
+  "label": "zetima",
+  "images": [
+    "/images/76c704181ca36c2ab4dc89a658c764b6f5170724.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/76c704181ca36c2ab4dc89a658c764b6f5170724.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5282",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "LALALA 幸せの歌",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "LALALA 幸せの歌(Close-up Ver.)",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "11:39"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

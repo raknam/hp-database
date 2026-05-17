@@ -1,0 +1,48 @@
+{
+  "code": "UFCW-1036",
+  "url": "/release/detail/UFCW-1036/",
+  "source": "upfront",
+  "title": "CAT’S EYE",
+  "category": "CDシングル",
+  "artist": "CATS EYE7",
+  "releaseDate": "2012/09/22",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/3fce23222d3629c9046458cde622da344e1827f7.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/3fce23222d3629c9046458cde622da344e1827f7.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "UFCW-1036",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "CAT'S EYE",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "三浦徳子/rap詞:太田善也",
+                "作曲": "小田裕一郎",
+                "編曲": "JAZZIDA GRANDE"
+              }
+            },
+            {
+              "index": 2,
+              "title": "CAT'S EYE(Instrumental)",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "三浦徳子/rap詞:太田善也",
+                "作曲": "小田裕一郎",
+                "編曲": "JAZZIDA GRANDE"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

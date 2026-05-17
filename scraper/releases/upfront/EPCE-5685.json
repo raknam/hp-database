@@ -1,0 +1,148 @@
+{
+  "code": "EPCE-5685",
+  "url": "/release/detail/EPCE-5685/",
+  "source": "upfront",
+  "title": "女が目立って なぜイケナイ",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2010/02/10",
+  "label": "zetima",
+  "images": [
+    "/images/a5e9eb0d75dbdc48be5b4d3e52998e420685c983.jpg",
+    "/images/bf70741d8165b95f3c982d3e846f97fb2f3cc0a2.jpg",
+    "/images/6897fadb835697f0d33cc4c7f96fc24eb62e82ed.jpg",
+    "/images/d3f2732e4852d4830b2e0a5566de8fbbb52666f4.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/a5e9eb0d75dbdc48be5b4d3e52998e420685c983.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5685",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "女が目立って なぜイケナイ",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "泣き出すかもしれないよ",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "女が目立って なぜイケナイ(Instrumental)",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/bf70741d8165b95f3c982d3e846f97fb2f3cc0a2.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5687",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "女が目立って なぜイケナイ(Dance Shot Ver.)",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/images/6897fadb835697f0d33cc4c7f96fc24eb62e82ed.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5689",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "女が目立って なぜイケナイ",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "泣き出すかもしれないよ",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "女が目立って なぜイケナイ(Instrumental)",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/d3f2732e4852d4830b2e0a5566de8fbbb52666f4.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5691",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "女が目立って なぜイケナイ(Close-up Ver.)",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

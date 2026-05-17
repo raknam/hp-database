@@ -1,0 +1,38 @@
+{
+  "code": "EPBE-5223",
+  "url": "/release/detail/EPBE-5223/",
+  "source": "upfront",
+  "title": "ハロプロアワー Vol.4",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2006/12/27",
+  "label": "zetima",
+  "images": [
+    "/images/12dbbcb63fd5414e2f248dd4dafc10bbad9599a0.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/12dbbcb63fd5414e2f248dd4dafc10bbad9599a0.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5223",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "♯7",
+              "duration": "29:08"
+            },
+            {
+              "index": 2,
+              "title": "♯8",
+              "duration": "26:26"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "id": 993,
+  "url": "/release/993/",
+  "title": "悲しき雨降り/アダムとイブのジレンマ",
+  "category": "CDシングル",
+  "artist": "℃-ute",
+  "releaseDate": "2013.7.10",
+  "label": "zetima",
+  "images": [
+    "/upload/images/62f9368097583e649e2d886b2ea83d229524c36f.webp",
+    "/upload/images/7e98fd37fc168781bbd98b65650374ed7b28d95d.webp",
+    "/upload/images/727d0ee7ef566fed06a8cb2209c48752207ae95f.webp",
+    "/upload/images/384f16ad480e15351672c4a953bf6f80f093cd12.webp",
+    "/upload/images/607484c2b526b64d512921d44bb63a975cde0e40.webp",
+    "/upload/images/1ea54cf341170018f5d1b41fe190a2001ecb5d83.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/62f9368097583e649e2d886b2ea83d229524c36f.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "悲しき雨降り",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アダムとイブのジレンマ",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "誰にも内緒の恋しているの",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "宅見将典",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "悲しき雨降り",
+              "duration": "04:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "アダムとイブのジレンマ",
+              "duration": "04:27",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5958"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "悲しき雨降り",
+              "duration": "04:42",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "悲しき雨降り",
+              "duration": "04:46",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/7e98fd37fc168781bbd98b65650374ed7b28d95d.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "悲しき雨降り",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アダムとイブのジレンマ",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "誰にも内緒の恋しているの",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "宅見将典",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "悲しき雨降り",
+              "duration": "04:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "アダムとイブのジレンマ",
+              "duration": "04:27",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5960"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アダムとイブのジレンマ",
+              "duration": "04:34",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アダムとイブのジレンマ",
+              "duration": "04:41",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/727d0ee7ef566fed06a8cb2209c48752207ae95f.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "悲しき雨降り",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アダムとイブのジレンマ",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "誰にも内緒の恋しているの",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "宅見将典",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "悲しき雨降り",
+              "duration": "04:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "アダムとイブのジレンマ",
+              "duration": "04:27",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5962"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "悲しき雨降り",
+              "duration": "04:39",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アダムとイブのジレンマ",
+              "duration": "04:35",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "悲しき雨降り",
+              "duration": "04:39",
+              "suffix": "(Another Edition)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "アダムとイブのジレンマ",
+              "duration": "10:18",
+              "suffix": "(スペシャルコメント映像)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤D】",
+      "image": "/upload/images/384f16ad480e15351672c4a953bf6f80f093cd12.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "悲しき雨降り",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アダムとイブのジレンマ",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "あったかい腕で包んで",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野 伸",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "悲しき雨降り",
+              "duration": "04:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "アダムとイブのジレンマ",
+              "duration": "04:27",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5964"
+        }
+      ],
+      "note": "イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/607484c2b526b64d512921d44bb63a975cde0e40.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "悲しき雨降り",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アダムとイブのジレンマ",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "誰にも内緒の恋しているの",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "宅見将典",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "悲しき雨降り",
+              "duration": "04:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "アダムとイブのジレンマ",
+              "duration": "04:27",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5965"
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/1ea54cf341170018f5d1b41fe190a2001ecb5d83.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "悲しき雨降り",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アダムとイブのジレンマ",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "あったかい腕で包んで",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野 伸",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "悲しき雨降り",
+              "duration": "04:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "アダムとイブのジレンマ",
+              "duration": "04:27",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5966"
+        }
+      ]
+    }
+  ]
+}

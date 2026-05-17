@@ -1,0 +1,26 @@
+{
+  "id": 4740,
+  "url": "/release/4740/",
+  "title": "Kill Me Kiss Me",
+  "category": "CDアルバム",
+  "artist": "HANGRY&ANGRY",
+  "releaseDate": "2008.11.19",
+  "label": "GOTHUALL",
+  "images": [
+    "/resources/images/foundation/release-placeholder.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [],
+          "catalogNo": "GOTH-1007"
+        }
+      ]
+    }
+  ]
+}

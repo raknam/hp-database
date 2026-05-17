@@ -1,0 +1,67 @@
+{
+  "id": 520,
+  "url": "/release/520/",
+  "title": "HARUKA",
+  "category": "DVD",
+  "artist": "工藤遥",
+  "releaseDate": "2012.11.7",
+  "label": "zetima",
+  "images": [
+    "/upload/images/d82d1ad45a220542f2430f748793bde2d414d70a.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Urban sky",
+              "duration": "09:28",
+              "credits": {
+                "出演": "工藤 遥(モーニング娘。)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Splash water",
+              "duration": "08:01",
+              "credits": {
+                "出演": "工藤 遥(モーニング娘。)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "House with Garden",
+              "duration": "20:26",
+              "credits": {
+                "出演": "工藤 遥(モーニング娘。)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Making of 「Do」",
+              "duration": "15:32",
+              "credits": {
+                "出演": "工藤 遥(モーニング娘。)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "02:57",
+              "credits": {
+                "出演": "工藤 遥(モーニング娘。)"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5452"
+        }
+      ]
+    }
+  ]
+}

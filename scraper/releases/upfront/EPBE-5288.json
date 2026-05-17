@@ -1,0 +1,52 @@
+{
+  "code": "EPBE-5288",
+  "url": "/release/detail/EPBE-5288/",
+  "source": "upfront",
+  "title": "シングルV「アナタボシ」",
+  "category": "DVDシングルV",
+  "artist": "MilkyWay",
+  "releaseDate": "2008/05/08",
+  "label": "zetima",
+  "images": [
+    "/images/8a2b03e8c75b1161089afb1e1f88604c68a7b6bc.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/8a2b03e8c75b1161089afb1e1f88604c68a7b6bc.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5288",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アナタボシ",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "２℃",
+                "作曲": "斎藤悠弥"
+              }
+            },
+            {
+              "index": 2,
+              "title": "MilkyWayのワンポイントダンスレッスン",
+              "duration": "01:37"
+            },
+            {
+              "index": 3,
+              "title": "アナタボシ(Dance Shot Ver.)",
+              "duration": "03:30"
+            },
+            {
+              "index": 4,
+              "title": "メイキング映像",
+              "duration": "09:56"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

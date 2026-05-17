@@ -1,0 +1,109 @@
+{
+  "id": 607,
+  "url": "/release/607/",
+  "title": "直感2〜逃した魚は大きいぞ！〜",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2005.11.9",
+  "label": "zetima",
+  "images": [
+    "/upload/images/70eaba917cdb9925a7b4f69ecefd08ded53930eb.webp",
+    "/upload/images/752614bafd5af6be8d2bed8cc72e2972fd649291.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回盤】",
+      "image": "/upload/images/70eaba917cdb9925a7b4f69ecefd08ded53930eb.webp",
+      "price": "定価 ￥1,320（税抜価格 ￥1,200）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "直感2〜逃した魚は大きいぞ！〜",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋は発想 Do The Hustle!",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "直感2〜逃した魚は大きいぞ！〜",
+              "duration": "04:35",
+              "suffix": "(INSTRUMENTAL)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5379"
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/752614bafd5af6be8d2bed8cc72e2972fd649291.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "直感2〜逃した魚は大きいぞ！〜",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋は発想 Do The Hustle!",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "直感2〜逃した魚は大きいぞ！〜",
+              "duration": "04:35",
+              "suffix": "(INSTRUMENTAL)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5380"
+        }
+      ]
+    }
+  ]
+}

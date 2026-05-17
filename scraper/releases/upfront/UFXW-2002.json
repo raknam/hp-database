@@ -1,0 +1,48 @@
+{
+  "code": "UFXW-2002",
+  "url": "/release/detail/UFXW-2002/",
+  "source": "upfront",
+  "title": "Greeting 〜佐々木莉佳子〜",
+  "category": "BD",
+  "artist": "佐々木莉佳子",
+  "releaseDate": "2015/02/28",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/ad5d9744a047074df871317034264e3d3a0265c1.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/ad5d9744a047074df871317034264e3d3a0265c1.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "UFXW-2002",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Seaside Morning",
+              "duration": "11:42"
+            },
+            {
+              "index": 2,
+              "title": "Step out!",
+              "duration": "12:47"
+            },
+            {
+              "index": 3,
+              "title": "Greeting to You",
+              "duration": "24:19"
+            },
+            {
+              "index": 4,
+              "title": "Ending",
+              "duration": "01:23"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

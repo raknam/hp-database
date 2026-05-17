@@ -1,0 +1,83 @@
+{
+  "id": 491,
+  "url": "/release/491/",
+  "title": "さやし りほ〜Greeting〜",
+  "category": "DVD",
+  "artist": "鞘師里保",
+  "releaseDate": "2011.8.31",
+  "label": "zetima",
+  "images": [
+    "/upload/images/2cbca46bf2546e615b5340c6079bc9a425718398.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Greeting & Interview",
+              "duration": "14:28",
+              "credits": {
+                "出演": "鞘師里保(モーニング娘。)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "After School",
+              "duration": "09:35",
+              "credits": {
+                "出演": "鞘師里保(モーニング娘。)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Interview 2",
+              "duration": "04:43",
+              "credits": {
+                "出演": "鞘師里保(モーニング娘。)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Sunshine Girl",
+              "duration": "09:52",
+              "credits": {
+                "出演": "鞘師里保(モーニング娘。)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Interview 3",
+              "duration": "08:58",
+              "credits": {
+                "出演": "鞘師里保(モーニング娘。)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Making of 「さやしりほ」",
+              "duration": "14:39",
+              "credits": {
+                "出演": "鞘師里保(モーニング娘。)"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Ending",
+              "duration": "02:23",
+              "credits": {
+                "出演": "鞘師里保(モーニング娘。)"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5414"
+        }
+      ]
+    }
+  ]
+}

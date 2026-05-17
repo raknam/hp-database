@@ -1,0 +1,74 @@
+{
+  "id": 3290,
+  "url": "/release/3290/",
+  "title": "ガタメキラ",
+  "category": "CDシングル",
+  "artist": "太陽とシスコムーン",
+  "releaseDate": "1999.6.23",
+  "label": "zetima",
+  "images": [
+    "/upload/images/af89ba7e2e1d51fbc10e8475d6c338c4b5dfcc37.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ガタメキラ",
+              "duration": "05:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "松原憲",
+                "歌": "太陽とシスコムーン"
+              }
+            },
+            {
+              "index": 2,
+              "title": "月と太陽",
+              "duration": "04:22",
+              "suffix": "sexy beam remix",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "本山清治",
+                "歌": "太陽とシスコムーン"
+              }
+            },
+            {
+              "index": 3,
+              "title": "月と太陽",
+              "duration": "05:02",
+              "suffix": "more cool remix",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "M．I．D",
+                "歌": "太陽とシスコムーン"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ガタメキラ",
+              "duration": "05:23",
+              "suffix": "instrumental",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "松原憲",
+                "歌": "太陽とシスコムーン"
+              }
+            }
+          ],
+          "catalogNo": "EPDE-1040"
+        }
+      ]
+    }
+  ]
+}

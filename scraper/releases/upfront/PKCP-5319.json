@@ -1,0 +1,68 @@
+{
+  "code": "PKCP-5319",
+  "url": "/release/detail/PKCP-5319/",
+  "source": "upfront",
+  "title": "遠いところへ行くのでしょう/ラブストーリーは始まらない",
+  "category": "CDシングル",
+  "artist": "Bitter ＆ Sweet",
+  "releaseDate": "2019/03/27",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/f273fcaebfa54a92bd51b45211400ac5ab1f5b98.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f273fcaebfa54a92bd51b45211400ac5ab1f5b98.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5319",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "遠いところへ行くのでしょう",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "菊谷知樹"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ラブストーリーは始まらない",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "ヒロキ(リリィ、さよなら。)",
+                "作曲": "ヒロキ(リリィ、さよなら。)",
+                "編曲": "鈴木daichi秀行"
+              }
+            },
+            {
+              "index": 3,
+              "title": "遠いところへ行くのでしょう(Instrumental)",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "菊谷知樹"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ラブストーリーは始まらない(Instrumental)",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "ヒロキ(リリィ、さよなら。)",
+                "作曲": "ヒロキ(リリィ、さよなら。)",
+                "編曲": "鈴木daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "code": "EPCE-5302",
+  "url": "/release/detail/EPCE-5302/",
+  "source": "upfront",
+  "title": "SOMETHING JAZZY",
+  "category": "CDアルバム",
+  "artist": "布施明",
+  "releaseDate": "2004/07/14",
+  "label": "zetima",
+  "images": [
+    "/images/3cb87e73e6a483ee4746cf25d9e717023340ffff.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/3cb87e73e6a483ee4746cf25d9e717023340ffff.jpg",
+      "price": "￥3,204 (税抜価格 ￥2,913)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5302",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "My foolish heart",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "NedWashington",
+                "作曲": "VictorYoung",
+                "編曲": "井川雅幸"
+              }
+            },
+            {
+              "index": 2,
+              "title": "You'd be so nice to come home to",
+              "duration": "02:52",
+              "credits": {
+                "作詞": "ColePorter",
+                "作曲": "ColePorter",
+                "編曲": "井川雅幸"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Night and Day",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "ColePorter",
+                "作曲": "ColePorter",
+                "編曲": "井川雅幸"
+              }
+            },
+            {
+              "index": 4,
+              "title": "I'm in the mood for love",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "DorothyFleldsJimmyMcHugh",
+                "作曲": "DorothyFleldsJimmyMcHugh",
+                "編曲": "井川雅幸"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Misty",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "JohnnyBurke",
+                "作曲": "ErrolGarner",
+                "編曲": "井川雅幸"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Fly me to the moon",
+              "duration": "03:19",
+              "credits": {
+                "作詞": "BartHoward",
+                "作曲": "BartHoward",
+                "編曲": "井川雅幸"
+              }
+            },
+            {
+              "index": 7,
+              "title": "I've got you under my skin",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "ColePorter",
+                "作曲": "ColePorter",
+                "編曲": "井川雅幸"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Cheek to cheek",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "IrvingBerlin",
+                "作曲": "IrvingBerlin",
+                "編曲": "井川雅幸"
+              }
+            },
+            {
+              "index": 9,
+              "title": "As long as I live",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "TedKoehlerJack",
+                "作曲": "HaroldArlen",
+                "編曲": "井川雅幸"
+              }
+            },
+            {
+              "index": 10,
+              "title": "I'm a fool to want you",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "FrankSinatraJackWolf",
+                "作曲": "FrankSinatraJackWolf",
+                "編曲": "小堀浩"
+              }
+            },
+            {
+              "index": 11,
+              "title": "Lullaby of Birdland",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "GeorgeDavidWeissGeorgeshearing",
+                "作曲": "GeorgeDavidWeissGeorgeshearing",
+                "編曲": "井川雅幸"
+              }
+            },
+            {
+              "index": 12,
+              "title": "My funny Valentine",
+              "duration": "06:17",
+              "credits": {
+                "作詞": "LorenzHart",
+                "作曲": "RichardRodgers",
+                "編曲": "井川雅幸"
+              }
+            },
+            {
+              "index": 13,
+              "title": "Someone to watch over me",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "IraGershwin",
+                "作曲": "GeorgeGershwin",
+                "編曲": "井川雅幸"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

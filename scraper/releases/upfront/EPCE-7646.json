@@ -1,0 +1,211 @@
+{
+  "code": "EPCE-7646",
+  "url": "/release/detail/EPCE-7646/",
+  "source": "upfront",
+  "title": "bon voyage！〜 risa covers 〜",
+  "category": "CDアルバム",
+  "artist": "小片リサ",
+  "releaseDate": "2021/12/15",
+  "label": "zetima",
+  "images": [
+    "/images/31ef621c40fa310b27c5a643a1269ca62b1c8790.jpg",
+    "/images/f193e48319b140995f2b18c37f747030a78cfa70.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/31ef621c40fa310b27c5a643a1269ca62b1c8790.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-7646",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "真夜中のドア～stay with me",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "林哲司",
+                "編曲": "荒幡亮平"
+              }
+            },
+            {
+              "index": 2,
+              "title": "雨音はショパンの調べ",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "GAZEBO/P.L.Gimbini/日本語詞：松任谷由実",
+                "作曲": "GAZEBO/P.L.Gimbini",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "SEXY",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "下田逸郎",
+                "作曲": "下田逸郎",
+                "編曲": "磯貝サイモン"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Far away",
+              "duration": "05:18",
+              "credits": {
+                "作詞": "伊藤薫",
+                "作曲": "伊藤薫",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 5,
+              "title": "愛が止まらない～Turn it Into Love～ with 譜久村聖",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "M.Aitken/M.Stock/P.Waterman/日本語詞：及川眠子",
+                "作曲": "M.Aitken/M.Stock/P.Waterman",
+                "編曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ルビーの指環",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "松本隆",
+                "作曲": "寺尾聰",
+                "編曲": "宮田'レフティ'リョウ"
+              }
+            },
+            {
+              "index": 7,
+              "title": "歌うたいのバラッド",
+              "duration": "05:36",
+              "credits": {
+                "作詞": "斉藤和義",
+                "作曲": "斉藤和義",
+                "編曲": "菊谷知樹"
+              }
+            },
+            {
+              "index": 8,
+              "title": "たそがれマイ・ラブ",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "阿久悠",
+                "作曲": "筒美京平",
+                "編曲": "荒幡亮平"
+              }
+            },
+            {
+              "index": 9,
+              "title": "道",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "森髙千里",
+                "作曲": "安田信二",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 10,
+              "title": "いのちの歌",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "Miyabi",
+                "作曲": "村松崇継",
+                "編曲": "荒幡亮平"
+              }
+            },
+            {
+              "index": 11,
+              "title": "ふわり、恋時計",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ",
+                "編曲": "荒幡亮平"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/f193e48319b140995f2b18c37f747030a78cfa70.jpg",
+      "price": "￥2,970 (税抜価格 ￥2,700)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7648",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "真夜中のドア～stay with me",
+              "duration": "03:14",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "林哲司"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Far away",
+              "duration": "03:24",
+              "credits": {
+                "作詞": "伊藤薫",
+                "作曲": "伊藤薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "雨音はショパンの調べ",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "GAZEBO/P.L.Gimbini/日本語詞：松任谷由実",
+                "作曲": "GAZEBO/P.L.Gimbini"
+              }
+            },
+            {
+              "index": 4,
+              "title": "歌うたいのバラッド",
+              "duration": "05:49",
+              "credits": {
+                "作詞": "斉藤和義",
+                "作曲": "斉藤和義"
+              }
+            },
+            {
+              "index": 5,
+              "title": "愛が止まらない～Turn it Into Love～ with 譜久村聖",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "M.Aitken/M.Stock/P.Waterman/日本語詞：及川眠子",
+                "作曲": "M.Aitken/M.Stock/P.Waterman"
+              }
+            },
+            {
+              "index": 6,
+              "title": "いのちの歌",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "Miyabi",
+                "作曲": "村松崇継"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Interview",
+              "duration": "04:36"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

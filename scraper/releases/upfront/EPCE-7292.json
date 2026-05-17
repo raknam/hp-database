@@ -1,0 +1,248 @@
+{
+  "code": "EPCE-7292",
+  "url": "/release/detail/EPCE-7292/",
+  "source": "upfront",
+  "title": "Good Boy Bad Girl/ピーナッツバタージェリーラブ",
+  "category": "CDシングル",
+  "artist": "カントリー・ガールズ",
+  "releaseDate": "2017/02/08",
+  "label": "zetima",
+  "images": [
+    "/images/fe262f5133c3c7e3c80a2ce6fdd611b5b5ff7341.jpg",
+    "/images/59cc426ce55bde9b95625ed04fca90a6e5091751.jpg",
+    "/images/1dd9ad3b9a526abe2d38de7af18a704f4285a304.jpg",
+    "/images/db5a53992f1eb75fcba5f768c33c21e6db5dd7bd.jpg",
+    "/images/50c013ab5ed8407f80fb0c9237dbdbaa4ce5593b.jpg",
+    "/images/162fb3d4511e062ddd7f7bc91435e8a0d08bcfa9.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/fe262f5133c3c7e3c80a2ce6fdd611b5b5ff7341.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7292",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Good Boy Bad Girl",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ピーナッツバタージェリーラブ",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "エリック・フクサキ/三浦徳子",
+                "作曲": "エリック・フクサキ",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Good Boy Bad Girl(Instrumental)",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ピーナッツバタージェリーラブ(Instrumental)",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "エリック・フクサキ/三浦徳子",
+                "作曲": "エリック・フクサキ",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/59cc426ce55bde9b95625ed04fca90a6e5091751.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7294",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Good Boy Bad Girl(Music Video)",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "宮永治郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/images/1dd9ad3b9a526abe2d38de7af18a704f4285a304.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7296",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Good Boy Bad Girl",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ピーナッツバタージェリーラブ",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "エリック・フクサキ/三浦徳子",
+                "作曲": "エリック・フクサキ",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Good Boy Bad Girl(Instrumental)",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ピーナッツバタージェリーラブ(Instrumental)",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "エリック・フクサキ/三浦徳子",
+                "作曲": "エリック・フクサキ",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤D】",
+      "image": "/images/db5a53992f1eb75fcba5f768c33c21e6db5dd7bd.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7298",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ピーナッツバタージェリーラブ(Music Video)",
+              "duration": "05:10",
+              "credits": {
+                "作詞": "エリック・フクサキ/三浦徳子",
+                "作曲": "エリック・フクサキ",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/50c013ab5ed8407f80fb0c9237dbdbaa4ce5593b.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7300",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Good Boy Bad Girl",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ピーナッツバタージェリーラブ",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "エリック・フクサキ/三浦徳子",
+                "作曲": "エリック・フクサキ",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Good Boy Bad Girl(Instrumental)",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ピーナッツバタージェリーラブ(Instrumental)",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "エリック・フクサキ/三浦徳子",
+                "作曲": "エリック・フクサキ",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/162fb3d4511e062ddd7f7bc91435e8a0d08bcfa9.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7301",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Good Boy Bad Girl(Dance Shot Ver.)",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "宮永治郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

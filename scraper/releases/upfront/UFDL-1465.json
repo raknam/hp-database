@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1465",
+  "url": "/release/detail/UFDL-1465/",
+  "source": "upfront",
+  "title": "未来のフィラメント",
+  "category": "配信",
+  "artist": "宮本佳林",
+  "releaseDate": "2020/12/10",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/4a7e6d4df4456543b5be9e6ebd67233067d8b638.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/4a7e6d4df4456543b5be9e6ebd67233067d8b638.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1465",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "未来のフィラメント",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "michitomo(GOLDTAIL)",
+                "編曲": "佐々木侑太(GOLDTAIL)"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

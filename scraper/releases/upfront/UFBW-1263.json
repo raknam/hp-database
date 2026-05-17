@@ -1,0 +1,75 @@
+{
+  "code": "UFBW-1263",
+  "url": "/release/detail/UFBW-1263/",
+  "source": "upfront",
+  "title": "ハロー!SATOYAMAライフ Vol.9",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2013/07/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/41d22c4ecc516bd9d99718b9f4ed344bfe48daa8.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/41d22c4ecc516bd9d99718b9f4ed344bfe48daa8.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1263",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "イチゴを植えてみる",
+              "duration": "04:22"
+            },
+            {
+              "index": 2,
+              "title": "カブの種をまいてみる",
+              "duration": "02:52"
+            },
+            {
+              "index": 3,
+              "title": "里山課外授業 常陸太田市の地域おこし協力隊に会いにいこう！",
+              "duration": "11:10"
+            },
+            {
+              "index": 4,
+              "title": "里山課外授業 伝統のこんにゃく作りを体験",
+              "duration": "21:51"
+            },
+            {
+              "index": 5,
+              "title": "ハーベスト「フォレストタイム」MV撮影に密着！",
+              "duration": "10:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Berryz工房「WANT!」MV撮影に密着！",
+              "duration": "06:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 7,
+              "title": "SATOYAMA movement バスツアー in 常陸太田市 News",
+              "duration": "16:09",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "MEG.ME"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

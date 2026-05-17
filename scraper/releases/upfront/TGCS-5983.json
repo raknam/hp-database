@@ -1,0 +1,48 @@
+{
+  "code": "TGCS-5983",
+  "url": "/release/detail/TGCS-5983/",
+  "source": "upfront",
+  "title": "メロンティー",
+  "category": "CDシングル",
+  "artist": "メロン記念日×GOING UNDER GROUND",
+  "releaseDate": "2009/12/30",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/e5d50099c25a10ae04e725ac9cb8029af32f8183.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/e5d50099c25a10ae04e725ac9cb8029af32f8183.jpg",
+      "price": "￥838 (税抜価格 ￥762)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "TGCS-5983",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "メロンティー",
+              "duration": "03:22",
+              "credits": {
+                "作詞": "松本素生",
+                "作曲": "松本素生/中澤寛規",
+                "編曲": "GOING UNDERGROUND"
+              }
+            },
+            {
+              "index": 2,
+              "title": "メロンティー(Instrumental)",
+              "duration": "03:22",
+              "credits": {
+                "作詞": "松本素生",
+                "作曲": "松本素生/中澤寛規",
+                "編曲": "GOING UNDERGROUND"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

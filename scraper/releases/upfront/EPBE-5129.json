@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5129",
+  "url": "/release/detail/EPBE-5129/",
+  "source": "upfront",
+  "title": "シングルV「YOUR SONG ～青春宣誓～」",
+  "category": "DVDシングルV",
+  "artist": "松浦亜弥",
+  "releaseDate": "2004/07/28",
+  "label": "zetima",
+  "images": [
+    "/images/f256f2f18269dc704360546fe71538c2a52857eb.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f256f2f18269dc704360546fe71538c2a52857eb.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5129",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "YOUR SONG ～青春宣誓～",
+              "duration": "05:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "YOUR SONG ～青春宣誓～(Close up Ver.)",
+              "duration": "05:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "05:38"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

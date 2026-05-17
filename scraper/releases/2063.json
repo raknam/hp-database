@@ -1,0 +1,90 @@
+{
+  "id": 2063,
+  "url": "/release/2063/",
+  "title": "ハロプロ！TIME Vol.3",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012.12.6",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/fda17269ca94c63823c7c280554a5b84c7ceedec.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "須藤TIME",
+              "duration": "23:57",
+              "suffix": "秋葉原でコスプレ＆メイド喫茶初体験！",
+              "credits": {
+                "出演": "須藤茉麻(Berryz工房)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "真野TIME",
+              "duration": "04:15",
+              "suffix": "20歳の誕生日に写真集撮影",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "鈴木TIME",
+              "duration": "08:17",
+              "suffix": "「Only you」のMV撮影",
+              "credits": {
+                "出演": "鈴木香音(モーニング娘。)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "前田TIME",
+              "duration": "06:18",
+              "suffix": "自宅で自慢の愛犬撮り",
+              "credits": {
+                "出演": "前田憂佳(スマイレージ)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "真野TIME",
+              "duration": "05:23",
+              "suffix": "「My Days for You」のMV撮影",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 6,
+              "title": "道重TIME",
+              "duration": "13:35",
+              "suffix": "「Only you」ジャケット写真撮影",
+              "credits": {
+                "出演": "道重さゆみ(モーニング娘。)"
+              }
+            },
+            {
+              "index": 7,
+              "title": "和田TIME",
+              "duration": "08:24",
+              "suffix": "サブメンバー加入前 4人ラストコンサートに密着！",
+              "credits": {
+                "出演": "和田彩花(スマイレージ)"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1134"
+        }
+      ]
+    }
+  ]
+}

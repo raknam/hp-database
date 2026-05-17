@@ -1,0 +1,43 @@
+{
+  "code": "EPBE-5442",
+  "url": "/release/detail/EPBE-5442/",
+  "source": "upfront",
+  "title": "シングルV「超HAPPY SONG」",
+  "category": "DVDシングルV",
+  "artist": "Berryz工房×℃-ute",
+  "releaseDate": "2012/08/22",
+  "label": "zetima",
+  "images": [
+    "/images/f216e99b029ff4b4b683a7704b23e87cdd66edc7.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f216e99b029ff4b4b683a7704b23e87cdd66edc7.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5442",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "超HAPPY SONG",
+              "duration": "05:24"
+            },
+            {
+              "index": 2,
+              "title": "超HAPPY SONG(Close-up ベリキュー Ver.)",
+              "duration": "04:29"
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "16:28"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

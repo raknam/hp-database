@@ -1,0 +1,83 @@
+{
+  "code": "HKBN-10001",
+  "url": "/release/detail/HKBN-10001/",
+  "source": "upfront",
+  "title": "virtual fireworks EDO HANABI 神宮外苑花火大会",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2004/10/20",
+  "label": "hachama",
+  "images": [
+    "/images/69479c5d9971041461bd2f7ddc648c580d2318a8.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/69479c5d9971041461bd2f7ddc648c580d2318a8.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKBN-10001",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング ドキュメント＆インタビュー",
+              "duration": "04:30"
+            },
+            {
+              "index": 2,
+              "title": "空のマジック～ヴィーナス",
+              "duration": "03:53"
+            },
+            {
+              "index": 3,
+              "title": "夜空のマンダラ",
+              "duration": "04:44"
+            },
+            {
+              "index": 4,
+              "title": "夜のファンタジー",
+              "duration": "04:22"
+            },
+            {
+              "index": 5,
+              "title": "スカッと爽やか～トロピカルに～ドカンと一発",
+              "duration": "04:17"
+            },
+            {
+              "index": 6,
+              "title": "夏満開～夜空に咲く花～火の鳥",
+              "duration": "04:17"
+            },
+            {
+              "index": 7,
+              "title": "夜の着信有り～キラキラ音",
+              "duration": "02:06"
+            },
+            {
+              "index": 8,
+              "title": "マッスル幻想花〜フィナーレ",
+              "duration": "12:07"
+            },
+            {
+              "index": 9,
+              "title": "アンコール",
+              "duration": "04:37"
+            },
+            {
+              "index": 10,
+              "title": "エンディング",
+              "duration": "01:32"
+            },
+            {
+              "index": 11,
+              "title": "＜特典映像 花火の種類＞",
+              "duration": "00:00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

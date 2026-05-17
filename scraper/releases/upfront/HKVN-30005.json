@@ -1,0 +1,58 @@
+{
+  "code": "HKVN-30005",
+  "url": "/release/detail/HKVN-30005/",
+  "source": "upfront",
+  "title": "マネーざんす",
+  "category": "VHS",
+  "artist": "V.A.",
+  "releaseDate": "2002/02/20",
+  "label": "hachama",
+  "images": [
+    "/images/04bf3f070683e32a0cc5bb2f58b3111a9df2a5d1.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/04bf3f070683e32a0cc5bb2f58b3111a9df2a5d1.jpg",
+      "price": "￥17,600 (税抜価格 ￥16,000)",
+      "discs": [
+        {
+          "type": "VHS",
+          "catalogNo": "HKVN-30005",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「B5」",
+              "duration": "18:45"
+            },
+            {
+              "index": 2,
+              "title": "「お金センター」",
+              "duration": "15:20"
+            },
+            {
+              "index": 3,
+              "title": "「監金」",
+              "duration": "19:26"
+            },
+            {
+              "index": 4,
+              "title": "「La paume〜ひよこと百円君」",
+              "duration": "20:23"
+            },
+            {
+              "index": 5,
+              "title": "「マスクマン」",
+              "duration": "11:02"
+            },
+            {
+              "index": 6,
+              "title": "「GO!GO! 宇宙ドクターズ」",
+              "duration": "18:42"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

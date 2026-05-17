@@ -1,0 +1,122 @@
+{
+  "code": "EPCE-5518",
+  "url": "/release/detail/EPCE-5518/",
+  "source": "upfront",
+  "title": "SMILER",
+  "category": "CDミニアルバム",
+  "artist": "中島卓偉",
+  "releaseDate": "2007/11/21",
+  "label": "zetima",
+  "images": [
+    "/images/79da4736802b9dc841663039e62e6b7112358e91.jpg",
+    "/images/f96e030c9985e80adf20376173f5b6894894645d.jpg"
+  ],
+  "editions": [
+    {
+      "name": "初回生産限定盤(DVD付き)",
+      "image": "/images/79da4736802b9dc841663039e62e6b7112358e91.jpg",
+      "price": "￥2,934 (税抜価格 ￥2,667)",
+      "discs": [
+        {
+          "type": "CDミニアルバム",
+          "catalogNo": "EPCE-5518",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "お願い胸騒ぎ",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "増本直樹"
+              }
+            },
+            {
+              "index": 2,
+              "title": "SYSTEMATIC",
+              "duration": "02:57",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "増本直樹"
+              }
+            },
+            {
+              "index": 3,
+              "title": "CRY CRY CRY",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "増本直樹"
+              }
+            },
+            {
+              "index": 4,
+              "title": "SMILE",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "増本直樹"
+              }
+            },
+            {
+              "index": 5,
+              "title": "さすらいのGUITAR MAN",
+              "duration": "03:26",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "増本直樹"
+              }
+            },
+            {
+              "index": 6,
+              "title": "コードネーム 1091",
+              "duration": "03:15",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "増本直樹"
+              }
+            },
+            {
+              "index": 7,
+              "title": "はじまりの唄",
+              "duration": "04:44",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "増本直樹"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/images/f96e030c9985e80adf20376173f5b6894894645d.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5520",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "It's up to you(きみしだい)2007.7.8 東京shibuya O-EAST",
+              "duration": "03:50"
+            },
+            {
+              "index": 2,
+              "title": "HELLO MY FRIENDS2007.7.15 福岡DRUM Be-1",
+              "duration": "04:41"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

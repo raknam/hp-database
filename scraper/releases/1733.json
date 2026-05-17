@@ -1,0 +1,133 @@
+{
+  "id": 1733,
+  "url": "/release/1733/",
+  "title": "Take It Easy!",
+  "category": "CDシングル",
+  "artist": "Buono!",
+  "releaseDate": "2009.8.26",
+  "label": "ポニーキャニオン",
+  "images": [
+    "/upload/images/5eafa17b04bd41b1a83829f1307de8fae5500c2b.webp",
+    "/upload/images/fab92e8f15e43ae5d8c3bc68ec5023905044626f.webp"
+  ],
+  "editions": [
+    {
+      "name": "初回限定盤",
+      "image": "/upload/images/5eafa17b04bd41b1a83829f1307de8fae5500c2b.webp",
+      "price": "定価 ￥1,650（税抜価格 ￥1,500）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Take It Easy!",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "キライスキダイキライ",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "生田真心",
+                "編曲": "井上慎二郎",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Take It Easy!",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 4,
+              "title": "キライスキダイキライ",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "生田真心",
+                "編曲": "井上慎二郎",
+                "歌": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "PCCA-02987"
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/upload/images/fab92e8f15e43ae5d8c3bc68ec5023905044626f.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Take It Easy!",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "キライスキダイキライ",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "生田真心",
+                "編曲": "井上慎二郎",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Take It Easy!",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 4,
+              "title": "キライスキダイキライ",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "生田真心",
+                "編曲": "井上慎二郎",
+                "歌": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "PCCA-70252"
+        }
+      ]
+    }
+  ]
+}

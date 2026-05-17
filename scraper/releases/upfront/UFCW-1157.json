@@ -1,0 +1,68 @@
+{
+  "code": "UFCW-1157",
+  "url": "/release/detail/UFCW-1157/",
+  "source": "upfront",
+  "title": "演劇女子部「ビヨサイユ宮殿」オリジナルサウンドトラック",
+  "category": "CDミニアルバム",
+  "artist": "BEYOOOOONDS",
+  "releaseDate": "2022/12/07",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/d6ce83e701f38d9e7660bdb75a010e5f886c350b.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d6ce83e701f38d9e7660bdb75a010e5f886c350b.jpg",
+      "price": "￥2,000 (税抜価格 ￥1,818)",
+      "discs": [
+        {
+          "type": "CDミニアルバム",
+          "catalogNo": "UFCW-1157",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "マリーのテーマ",
+              "duration": "01:08",
+              "credits": {
+                "作詞": "毛利亘宏",
+                "作曲": "和田俊輔",
+                "編曲": "文愛実"
+              }
+            },
+            {
+              "index": 2,
+              "title": "BURBOOOOONS爆誕！",
+              "duration": "01:37",
+              "credits": {
+                "作詞": "毛利亘宏",
+                "作曲": "和田俊輔",
+                "編曲": "文愛実"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ファーストステップ！！",
+              "duration": "02:30",
+              "credits": {
+                "作詞": "毛利亘宏",
+                "作曲": "和田俊輔",
+                "編曲": "文愛実"
+              }
+            },
+            {
+              "index": 4,
+              "title": "フランスレボリューション",
+              "duration": "02:38",
+              "credits": {
+                "作詞": "毛利亘宏",
+                "作曲": "和田俊輔",
+                "編曲": "文愛実"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

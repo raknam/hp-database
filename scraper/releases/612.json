@@ -1,0 +1,109 @@
+{
+  "id": 612,
+  "url": "/release/612/",
+  "title": "SEXY BOY〜そよ風に寄り添って〜",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2006.3.15",
+  "label": "zetima",
+  "images": [
+    "/upload/images/047a43b4dfc08b49230d0b540f29d96237905a82.webp",
+    "/upload/images/d8f2fadd438052860a168adb131efc5173ae359f.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回盤】",
+      "image": "/upload/images/047a43b4dfc08b49230d0b540f29d96237905a82.webp",
+      "price": "定価 ￥1,320（税抜価格 ￥1,200）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "SEXY BOY〜そよ風に寄り添って〜",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "チャンス チャンス ブギ",
+              "duration": "02:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "SEXY BOY〜そよ風に寄り添って〜",
+              "duration": "04:13",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5390"
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/d8f2fadd438052860a168adb131efc5173ae359f.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "SEXY BOY〜そよ風に寄り添って〜",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "チャンス チャンス ブギ",
+              "duration": "02:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "SEXY BOY〜そよ風に寄り添って〜",
+              "duration": "04:13",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5391"
+        }
+      ]
+    }
+  ]
+}

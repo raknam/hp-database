@@ -1,0 +1,81 @@
+{
+  "code": "PKCP-5097",
+  "url": "/release/detail/PKCP-5097/",
+  "source": "upfront",
+  "title": "じゃじゃ馬パラダイス",
+  "category": "CDシングル",
+  "artist": "美勇伝",
+  "releaseDate": "2007/09/26",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/910b879d98397b13df5eefc84d6f1485e7008733.jpg",
+    "/images/c4b6946866932445f9f04a391f5a779c47b9c691.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/910b879d98397b13df5eefc84d6f1485e7008733.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5097",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "じゃじゃ馬パラダイス",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "菊池知樹"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青春 THE NIPPON",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "酒井ミキオ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "じゃじゃ馬パラダイス(Instrumental)",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "菊池知樹"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/c4b6946866932445f9f04a391f5a779c47b9c691.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKCP-5099",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "じゃじゃ馬パラダイス(Pink Ver.)",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

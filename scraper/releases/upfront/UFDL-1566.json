@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1566",
+  "url": "/release/detail/UFDL-1566/",
+  "source": "upfront",
+  "title": "あるべきキミであれ",
+  "category": "配信",
+  "artist": "ハロプロ研修生",
+  "releaseDate": "2025/09/07",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/b6e2049b7dc391866e78aaca55336c4302cabd1c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/b6e2049b7dc391866e78aaca55336c4302cabd1c.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1566",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "あるべきキミであれ",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中村瑛彦"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

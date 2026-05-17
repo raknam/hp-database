@@ -1,0 +1,78 @@
+{
+  "code": "UFDL-1545",
+  "url": "/release/detail/UFDL-1545/",
+  "source": "upfront",
+  "title": "嵐のナンバー/花鳥風月 春夏秋冬(Special Edition)",
+  "category": "配信",
+  "artist": "佐藤優樹",
+  "releaseDate": "2024/11/06",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/6ec83e3b6a36488b6de6ff8701520fb53ef3bd9f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/6ec83e3b6a36488b6de6ff8701520fb53ef3bd9f.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1545",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "嵐のナンバー",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Aksel Odenbalk/Albin Hillborg",
+                "編曲": "Aksel Odenbalk/Albin Hillborg"
+              }
+            },
+            {
+              "index": 2,
+              "title": "花鳥風月 春夏秋冬",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "石井健太郎",
+                "編曲": "石井健太郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Sorry!",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom",
+                "編曲": "Erik Lidbom"
+              }
+            },
+            {
+              "index": 4,
+              "title": "とどめ",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "LASTorder",
+                "作曲": "LASTorder",
+                "編曲": "LASTorder"
+              }
+            },
+            {
+              "index": 5,
+              "title": "C＼C(シンデレラ＼コンプレックス)'24 佐藤優樹 Solo Ver.",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "戸嶋友祐"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

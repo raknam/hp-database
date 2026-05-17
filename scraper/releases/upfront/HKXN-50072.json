@@ -1,0 +1,73 @@
+{
+  "code": "HKXN-50072",
+  "url": "/release/detail/HKXN-50072/",
+  "source": "upfront",
+  "title": "佳林=KARIN",
+  "category": "BD",
+  "artist": "宮本佳林",
+  "releaseDate": "2018/12/26",
+  "label": "hachama",
+  "images": [
+    "/images/a764bd8630981f45b575983998ae4222087f50a1.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/a764bd8630981f45b575983998ae4222087f50a1.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKXN-50072",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "03:37"
+            },
+            {
+              "index": 2,
+              "title": "Bed",
+              "duration": "06:49"
+            },
+            {
+              "index": 3,
+              "title": "Kitchen",
+              "duration": "04:08"
+            },
+            {
+              "index": 4,
+              "title": "Sofa",
+              "duration": "01:52"
+            },
+            {
+              "index": 5,
+              "title": "Beach",
+              "duration": "15:24"
+            },
+            {
+              "index": 6,
+              "title": "Stairs",
+              "duration": "01:03"
+            },
+            {
+              "index": 7,
+              "title": "Pool",
+              "duration": "12:27"
+            },
+            {
+              "index": 8,
+              "title": "Making of 「佳林=KARIN」",
+              "duration": "11:16"
+            },
+            {
+              "index": 9,
+              "title": "Ending",
+              "duration": "02:01"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

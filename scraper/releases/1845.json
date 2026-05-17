@@ -1,0 +1,61 @@
+{
+  "id": 1845,
+  "url": "/release/1845/",
+  "title": "スッペシャル ジェネレ〜ション",
+  "category": "CDシングル",
+  "artist": "Berryz工房",
+  "releaseDate": "2005.3.30",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/upload/images/de9beb810fb97e354b25a9829a4f7645b4a084c7.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "スッペシャル ジェネレ〜ション",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "馬飼野康二",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋してる時はいつも…",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "スッペシャル ジェネレ〜ション",
+              "duration": "04:06",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "馬飼野康二",
+                "歌": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5051"
+        }
+      ]
+    }
+  ]
+}

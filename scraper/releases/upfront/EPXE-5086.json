@@ -1,0 +1,58 @@
+{
+  "code": "EPXE-5086",
+  "url": "/release/detail/EPXE-5086/",
+  "source": "upfront",
+  "title": "It's a Beautiful Day",
+  "category": "BD",
+  "artist": "石田亜佑美",
+  "releaseDate": "2016/07/27",
+  "label": "zetima",
+  "images": [
+    "/images/ace34a27fc5c5b0a3befc791dfe6903c53ff8f0c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/ace34a27fc5c5b0a3befc791dfe6903c53ff8f0c.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5086",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Beautiful Dish",
+              "duration": "09:29"
+            },
+            {
+              "index": 2,
+              "title": "Beautiful Beach",
+              "duration": "12:22"
+            },
+            {
+              "index": 3,
+              "title": "Beautiful Sunset",
+              "duration": "11:09"
+            },
+            {
+              "index": 4,
+              "title": "Behind The Photobook",
+              "duration": "09:45"
+            },
+            {
+              "index": 5,
+              "title": "Ayumi's Cooking Show",
+              "duration": "10:31"
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "01:30"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

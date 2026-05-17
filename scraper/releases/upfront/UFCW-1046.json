@@ -1,0 +1,68 @@
+{
+  "code": "UFCW-1046",
+  "url": "/release/detail/UFCW-1046/",
+  "source": "upfront",
+  "title": "手紙/Rolling Days",
+  "category": "CDシングル",
+  "artist": "田﨑あさひ",
+  "releaseDate": "2013/01/16",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/b8702eeef15b86ee33012eff2b727c92844e2128.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/b8702eeef15b86ee33012eff2b727c92844e2128.jpg",
+      "price": "￥1,047 (税抜価格 ￥952)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "UFCW-1046",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "手紙",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "鈴木盛広",
+                "編曲": "立山秋航"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Rolling Days",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "Mari-Joe",
+                "作曲": "安岡洋一郎",
+                "編曲": "立山秋航"
+              }
+            },
+            {
+              "index": 3,
+              "title": "手紙(Instrumental)",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "鈴木盛広",
+                "編曲": "立山秋航"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Rolling Days(Instrumental)",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "Mari-Joe",
+                "作曲": "安岡洋一郎",
+                "編曲": "立山秋航"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

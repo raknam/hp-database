@@ -1,0 +1,115 @@
+{
+  "id": 2446,
+  "url": "/release/2446/",
+  "title": "マノグアム",
+  "category": "DVD",
+  "artist": "真野恵里菜",
+  "releaseDate": "2009.4.1",
+  "label": "hachama",
+  "images": [
+    "/upload/images/7cc211cbdf71a4936638daef0d5f0c2298feae87.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "マノピアノ メイキング",
+              "duration": "01:45",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "オープンカーでお買い物",
+              "duration": "09:14",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "写真集メイキング その①",
+              "duration": "14:07",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 4,
+              "title": "SLING SHOT",
+              "duration": "07:02",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 5,
+              "title": "1日の終わり",
+              "duration": "03:19",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 6,
+              "title": "マノピアノ",
+              "duration": "02:05",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 7,
+              "title": "写真集メイキング その②",
+              "duration": "05:19",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 8,
+              "title": "ビーチ",
+              "duration": "05:28",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 9,
+              "title": "POOL",
+              "duration": "05:55",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 10,
+              "title": "メッセージ",
+              "duration": "01:52",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 11,
+              "title": "エンディング ーラッキーオーラー",
+              "duration": "05:09",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKBN-50111"
+        }
+      ]
+    }
+  ]
+}

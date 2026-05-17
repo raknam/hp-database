@@ -1,0 +1,232 @@
+{
+  "code": "EPCE-7026",
+  "url": "/release/detail/EPCE-7026/",
+  "source": "upfront",
+  "title": "心の叫びを歌にしてみた/Love take it all",
+  "category": "CDシングル",
+  "artist": "℃-ute",
+  "releaseDate": "2014/03/05",
+  "label": "zetima",
+  "images": [
+    "/images/e0dfdbdd4cc0563d35574b56f859a16393e33493.jpg",
+    "/images/4f664d7d91943cfc00cd1c085352afc034afca62.jpg",
+    "/images/27093e24b24f458553afe557cd060ef1a787ce88.jpg",
+    "/images/82924a4d0c7c75acf0fd3dec2f55ad18cfc7fb6e.jpg",
+    "/images/5916978e921295595ca66006f22e63c307d94129.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/e0dfdbdd4cc0563d35574b56f859a16393e33493.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7026",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "心の叫びを歌にしてみた",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Love take it all",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "宅見将典"
+              }
+            },
+            {
+              "index": 3,
+              "title": "心の叫びを歌にしてみた(Instrumental)",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Love take it all(Instrumental)",
+              "duration": "04:05",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "宅見将典"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/4f664d7d91943cfc00cd1c085352afc034afca62.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7028",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "心の叫びを歌にしてみた(Music Video)",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "心の叫びを歌にしてみた(ジャケット・MV撮影 メイキング＆オフショット映像)",
+              "duration": "13:21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/images/27093e24b24f458553afe557cd060ef1a787ce88.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7030",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Love take it all",
+              "duration": "04:05",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "宅見将典"
+              }
+            },
+            {
+              "index": 2,
+              "title": "心の叫びを歌にしてみた",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Love take it all(Instrumental)",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "宅見将典"
+              }
+            },
+            {
+              "index": 4,
+              "title": "心の叫びを歌にしてみた(Instrumental)",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/82924a4d0c7c75acf0fd3dec2f55ad18cfc7fb6e.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7032",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Love take it all(Music Video)",
+              "duration": "04:05",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "心の叫びを歌にしてみた(ジャケット・MV撮影 メイキング&オフショット映像)",
+              "duration": "14:27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/5916978e921295595ca66006f22e63c307d94129.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7033",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "心の叫びを歌にしてみた",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Love take it all",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "宅見将典"
+              }
+            },
+            {
+              "index": 3,
+              "title": "心の叫びを歌にしてみた(Instrumental)",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Love take it all(Instrumental)",
+              "duration": "04:05",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "宅見将典"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "code": "EPBE-5565",
+  "url": "/release/detail/EPBE-5565/",
+  "source": "upfront",
+  "title": "演劇女子部「一枚のチケット～ビートルズがやってくる～」",
+  "category": "DVD",
+  "artist": "矢島舞美",
+  "releaseDate": "2018/03/28",
+  "label": "zetima",
+  "images": [
+    "/images/4e5bbdf21dc53c5370f02d54d7f2df054d2a2018.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/4e5bbdf21dc53c5370f02d54d7f2df054d2a2018.jpg",
+      "price": "￥5,602 (税抜価格 ￥5,093)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5565",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プロローグ",
+              "duration": "11:48"
+            },
+            {
+              "index": 2,
+              "title": "来日まで あと3ヶ月",
+              "duration": "31:45"
+            },
+            {
+              "index": 3,
+              "title": "来日まで あと1ヶ月",
+              "duration": "29:43"
+            },
+            {
+              "index": 4,
+              "title": "来日まで あと9日",
+              "duration": "30:59"
+            },
+            {
+              "index": 5,
+              "title": "公演当日",
+              "duration": "09:40"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": 6134,
+  "url": "/release/6134/",
+  "title": "One Summer Night～真夏の決心～/夏色のパレット",
+  "category": "配信",
+  "artist": "カントリー・ガールズ",
+  "releaseDate": "2019.8.24",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/f16f4c00fe5fbe30097c1d7fd945b097f7985764.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "One Summer Night～真夏の決心～",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "菊谷知樹",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "夏色のパレット",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "大久保薫",
+                "歌": "カントリー・ガールズ"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1439"
+        }
+      ]
+    }
+  ]
+}

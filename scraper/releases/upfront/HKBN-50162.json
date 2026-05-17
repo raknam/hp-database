@@ -1,0 +1,63 @@
+{
+  "code": "HKBN-50162",
+  "url": "/release/detail/HKBN-50162/",
+  "source": "upfront",
+  "title": "Aya",
+  "category": "DVD",
+  "artist": "和田彩花",
+  "releaseDate": "2012/03/07",
+  "label": "hachama",
+  "images": [
+    "/images/ac2dd0789f8f03b5444bc8dc38a0a4f738ccc6b1.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/ac2dd0789f8f03b5444bc8dc38a0a4f738ccc6b1.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKBN-50162",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "matin",
+              "duration": "09:40"
+            },
+            {
+              "index": 2,
+              "title": "cafe",
+              "duration": "05:48"
+            },
+            {
+              "index": 3,
+              "title": "atelier",
+              "duration": "07:26"
+            },
+            {
+              "index": 4,
+              "title": "Interview",
+              "duration": "05:27"
+            },
+            {
+              "index": 5,
+              "title": "chambre",
+              "duration": "06:43"
+            },
+            {
+              "index": 6,
+              "title": "Making of 「彩 aya」",
+              "duration": "21:17"
+            },
+            {
+              "index": 7,
+              "title": "Ending",
+              "duration": "02:57"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "code": "EPBE-5037",
+  "url": "/release/detail/EPBE-5037/",
+  "source": "upfront",
+  "title": "シングルV「アイ〜ン体操/アイ～ン！ダンスの唄」",
+  "category": "DVDシングルV",
+  "artist": "バカ殿様とミニモニ姫｡",
+  "releaseDate": "2002/04/10",
+  "label": "zetima",
+  "images": [
+    "/images/d463c3f0e6ef095c5edae9386bf49f24cb633565.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d463c3f0e6ef095c5edae9386bf49f24cb633565.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5037",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アイ～ン体操",
+              "duration": "03:06",
+              "credits": {
+                "作詞": "朝長浩之",
+                "作曲": "たかしまあきひこ",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アイ～ン！ダンスの唄",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

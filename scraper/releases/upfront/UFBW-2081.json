@@ -1,0 +1,58 @@
+{
+  "code": "UFBW-2081",
+  "url": "/release/detail/UFBW-2081/",
+  "source": "upfront",
+  "title": "snowdrop",
+  "category": "DVD",
+  "artist": "鞘師里保",
+  "releaseDate": "2013/03/28",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/668363840a92a4d39cd73c5f59428082c0f3a52d.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/668363840a92a4d39cd73c5f59428082c0f3a52d.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2081",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "1.Opening",
+              "duration": "00:40"
+            },
+            {
+              "index": 2,
+              "title": "2.Way to school",
+              "duration": "13:13"
+            },
+            {
+              "index": 3,
+              "title": "3.Snowscape",
+              "duration": "15:08"
+            },
+            {
+              "index": 4,
+              "title": "4.In the room",
+              "duration": "13:52"
+            },
+            {
+              "index": 5,
+              "title": "5.Endroll",
+              "duration": "01:52"
+            },
+            {
+              "index": 6,
+              "title": "6.Making",
+              "duration": "05:39"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

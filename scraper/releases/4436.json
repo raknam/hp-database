@@ -1,0 +1,75 @@
+{
+  "id": 4436,
+  "url": "/release/4436/",
+  "title": "Hello! Projectが行く！ナルチカ日帰り里山旅2015",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2015.7.25",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/fef3258d0ae93c68cafde2bdd2ea72ad2ff91c40.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "〜青梅市編〜",
+              "duration": "17:45",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "〜羽村市編〜",
+              "duration": "08:34",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 3,
+              "title": "未公開映像 ご褒美争奪 黒ひげ？危機一髪",
+              "duration": "04:17",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "未公開映像 ウソ発見器で本音トーク",
+              "duration": "29:06",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 5,
+              "title": "未公開映像 先輩たちが教える“ももちの対処法”",
+              "duration": "02:24",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 6,
+              "title": "未公開映像 ナレーション対決",
+              "duration": "08:36",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1457"
+        }
+      ]
+    }
+  ]
+}

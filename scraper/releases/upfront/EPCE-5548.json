@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5548",
+  "url": "/release/detail/EPCE-5548/",
+  "source": "upfront",
+  "title": "カリスマ・綺麗",
+  "category": "CDシングル",
+  "artist": "メロン記念日",
+  "releaseDate": "2008/03/19",
+  "label": "zetima",
+  "images": [
+    "/images/7b77813550f8eed03ccec5f6ac6dd0db740c2646.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7b77813550f8eed03ccec5f6ac6dd0db740c2646.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5548",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "カリスマ・綺麗",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "コモリタミノル",
+                "作曲": "コモリタミノル",
+                "編曲": "コモリタミノル"
+              }
+            },
+            {
+              "index": 2,
+              "title": "オンナザカリ",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "コモリタミノル",
+                "作曲": "コモリタミノル",
+                "編曲": "コモリタミノル"
+              }
+            },
+            {
+              "index": 3,
+              "title": "カリスマ・綺麗(Instrumental)",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "コモリタミノル",
+                "作曲": "コモリタミノル",
+                "編曲": "コモリタミノル"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "code": "UFBW-1593",
+  "url": "/release/detail/UFBW-1593/",
+  "source": "upfront",
+  "title": "モーニング娘。'17 工藤遥 ソロスペシャルライブ",
+  "category": "DVD",
+  "artist": "工藤遥",
+  "releaseDate": "2018/04/11",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/97d712bca245a783f655bebe5dc3d6c75cf423b1.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/97d712bca245a783f655bebe5dc3d6c75cf423b1.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1593",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "00:38"
+            },
+            {
+              "index": 2,
+              "title": "僕らの輝き",
+              "duration": "02:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Loveイノベーション",
+              "duration": "02:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ナビが壊れた王子様(LOVE CHANCE)",
+              "duration": "02:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "MC",
+              "duration": "03:45"
+            },
+            {
+              "index": 6,
+              "title": "ボン キュッ！ボン キュッ！BOMB GIRL",
+              "duration": "02:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 7,
+              "title": "MC",
+              "duration": "05:52"
+            },
+            {
+              "index": 8,
+              "title": "少女純潔",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "末満健一",
+                "作曲": "和田俊輔"
+              }
+            },
+            {
+              "index": 9,
+              "title": "私の魅力に 気付かない鈍感な人",
+              "duration": "03:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 10,
+              "title": "純LOVER",
+              "duration": "02:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 11,
+              "title": "MC",
+              "duration": "06:35"
+            },
+            {
+              "index": 12,
+              "title": "HEY!未来",
+              "duration": "02:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 13,
+              "title": "エンディング",
+              "duration": "02:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

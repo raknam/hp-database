@@ -1,0 +1,99 @@
+{
+  "id": 5856,
+  "url": "/release/5856/",
+  "title": "佳林=KARIN",
+  "category": "BD",
+  "artist": "宮本佳林",
+  "releaseDate": "2018.12.26",
+  "label": "hachama",
+  "images": [
+    "/upload/images/a764bd8630981f45b575983998ae4222087f50a1.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "03:37",
+              "credits": {
+                "出演": "宮本佳林"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Bed",
+              "duration": "06:49",
+              "credits": {
+                "出演": "宮本佳林"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Kitchen",
+              "duration": "04:08",
+              "credits": {
+                "出演": "宮本佳林"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Sofa",
+              "duration": "01:52",
+              "credits": {
+                "出演": "宮本佳林"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Beach",
+              "duration": "15:24",
+              "credits": {
+                "出演": "宮本佳林"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Stairs",
+              "duration": "01:03",
+              "credits": {
+                "出演": "宮本佳林"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Pool",
+              "duration": "12:27",
+              "credits": {
+                "出演": "宮本佳林"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Making of 「佳林=KARIN」",
+              "duration": "11:16",
+              "credits": {
+                "出演": "宮本佳林"
+              }
+            },
+            {
+              "index": 9,
+              "title": "Ending",
+              "duration": "02:01",
+              "credits": {
+                "出演": "宮本佳林"
+              }
+            }
+          ],
+          "catalogNo": "HKXN-50072"
+        }
+      ]
+    }
+  ]
+}

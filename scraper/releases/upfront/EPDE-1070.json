@@ -1,0 +1,121 @@
+{
+  "code": "EPDE-1070",
+  "url": "/release/detail/EPDE-1070/",
+  "source": "upfront",
+  "title": "お嫁小唄",
+  "category": "CDシングル",
+  "artist": "栁澤純子",
+  "releaseDate": "2000/03/08",
+  "label": "zetima",
+  "images": [
+    "/images/28c981a0f0818c4693460fc20d5cdcc5de7bb698.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/28c981a0f0818c4693460fc20d5cdcc5de7bb698.jpg",
+      "price": "￥1,175 (税抜価格 ￥1,068)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1070",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "お嫁小唄",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "聖川湧",
+                "編曲": "石倉重信"
+              }
+            },
+            {
+              "index": 2,
+              "title": "雪の朝",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "多夢星人",
+                "作曲": "堀内孝雄",
+                "編曲": "石倉重信"
+              }
+            },
+            {
+              "index": 3,
+              "title": "お嫁小唄(オリジナル・カラオケ)",
+              "duration": "03:11",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "聖川湧",
+                "編曲": "石倉重信"
+              }
+            },
+            {
+              "index": 4,
+              "title": "雪の朝(オリジナル・カラオケ)",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "多夢星人",
+                "作曲": "堀内孝雄",
+                "編曲": "石倉重信"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": null,
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "カセットテープシングル",
+          "catalogNo": "EPSE-1070",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "お嫁小唄",
+              "duration": "03:11",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "聖川湧",
+                "編曲": "石倉重信"
+              }
+            },
+            {
+              "index": 2,
+              "title": "雪の朝",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "多夢星人",
+                "作曲": "堀内孝雄",
+                "編曲": "石倉重信"
+              }
+            },
+            {
+              "index": 3,
+              "title": "お嫁小唄(オリジナル・カラオケ)",
+              "duration": "03:10",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "聖川湧",
+                "編曲": "石倉重信"
+              }
+            },
+            {
+              "index": 4,
+              "title": "雪の朝(オリジナル・カラオケ)",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "多夢星人",
+                "作曲": "堀内孝雄",
+                "編曲": "石倉重信"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

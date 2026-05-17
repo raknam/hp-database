@@ -1,0 +1,98 @@
+{
+  "code": "HKVN-70002",
+  "url": "/release/detail/HKVN-70002/",
+  "source": "upfront",
+  "title": "青春ばかちん料理塾",
+  "category": "VHS",
+  "artist": "V.A.",
+  "releaseDate": "2004/03/17",
+  "label": "hachama",
+  "images": [
+    "/images/nowprinting.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/nowprinting.jpg",
+      "price": "￥10,560 (税抜価格 ￥9,600)",
+      "discs": [
+        {
+          "type": "VHS",
+          "catalogNo": "HKVN-70002",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "学校やめちゃった…ケド",
+              "duration": "04:45"
+            },
+            {
+              "index": 2,
+              "title": "そーです。私があゆみチャン",
+              "duration": "09:22"
+            },
+            {
+              "index": 3,
+              "title": "料理教室のオモシロい人々",
+              "duration": "04:19"
+            },
+            {
+              "index": 4,
+              "title": "料理の楽しさって…？",
+              "duration": "10:26"
+            },
+            {
+              "index": 5,
+              "title": "おいしい料理のヒケツ",
+              "duration": "04:46"
+            },
+            {
+              "index": 6,
+              "title": "ナ・ナ・なんと メル友は…",
+              "duration": "04:52"
+            },
+            {
+              "index": 7,
+              "title": "友達って…？ 味って…？",
+              "duration": "09:43"
+            },
+            {
+              "index": 8,
+              "title": "火・火事だぁ〜っ！",
+              "duration": "04:31"
+            },
+            {
+              "index": 9,
+              "title": "キャベツがとりもつ縁",
+              "duration": "03:53"
+            },
+            {
+              "index": 10,
+              "title": "ばかちんがぁ〜！",
+              "duration": "04:08"
+            },
+            {
+              "index": 11,
+              "title": "料理…開眼",
+              "duration": "01:43"
+            },
+            {
+              "index": 12,
+              "title": "あゆみちゃんありがとう〜エンディング",
+              "duration": "16:26"
+            },
+            {
+              "index": 13,
+              "title": "メイキング",
+              "duration": "08:14"
+            },
+            {
+              "index": 14,
+              "title": "公開初日舞台挨拶",
+              "duration": "02:16"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

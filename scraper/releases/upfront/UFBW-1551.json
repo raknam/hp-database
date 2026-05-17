@@ -1,0 +1,114 @@
+{
+  "code": "UFBW-1551",
+  "url": "/release/detail/UFBW-1551/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.33",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2017/07/12",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/111f906d38802e4e214cd0f7b7dd88d227be07e9.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/111f906d38802e4e214cd0f7b7dd88d227be07e9.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1551",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋心【名物企画 衣装コーディネート】",
+              "duration": "14:14",
+              "credits": {
+                "作詞": "山崎寛子",
+                "作曲": "山崎寛子"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Beautiful Dreamer【名物企画 衣装コーディネート】",
+              "duration": "11:23",
+              "credits": {
+                "作詞": "小出祐介",
+                "作曲": "小出祐介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "オシャレ！⇒元気者で行こう！ 【名物企画 衣装コーディネート】",
+              "duration": "19:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ハコの中のブルー【スタジオライブ集】",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "大華奈央香",
+                "作曲": "川崎里美"
+              }
+            },
+            {
+              "index": 5,
+              "title": "カラダだけが大人になったんじゃない【スタジオライブ集】",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "True Hearts 〜ファンタスチック4〜 Ver.A【スタジオライブ集】",
+              "duration": "05:04",
+              "credits": {
+                "作詞": "Mt.3",
+                "作曲": "Mt.3"
+              }
+            },
+            {
+              "index": 7,
+              "title": "バッチ来い青春！【スタジオライブ集】",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン/炭竃智弘"
+              }
+            },
+            {
+              "index": 8,
+              "title": "サンバ！こぶしジャネイロ【スタジオライブ集】",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 9,
+              "title": "美女の野獣 KRUMP ver./【スタジオライブ集】",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "michitomo",
+                "作曲": "michitomo"
+              }
+            },
+            {
+              "index": 10,
+              "title": "Buono! Festa 2016 日本武道館",
+              "duration": "02:29"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

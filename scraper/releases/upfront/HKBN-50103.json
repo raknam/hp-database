@@ -1,0 +1,48 @@
+{
+  "code": "HKBN-50103",
+  "url": "/release/detail/HKBN-50103/",
+  "source": "upfront",
+  "title": "Nacchural。",
+  "category": "DVD",
+  "artist": "安倍なつみ",
+  "releaseDate": "2008/09/03",
+  "label": "hachama",
+  "images": [
+    "/images/1404ab9d06c69710e9fad8be3e8c1ba5221be4ea.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/1404ab9d06c69710e9fad8be3e8c1ba5221be4ea.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKBN-50103",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "FISH ON!",
+              "duration": "22:16"
+            },
+            {
+              "index": 2,
+              "title": "Nacci's Vlog",
+              "duration": "14:06"
+            },
+            {
+              "index": 3,
+              "title": "Shooting of “End of Summer”",
+              "duration": "08:25"
+            },
+            {
+              "index": 4,
+              "title": "About “Natsumi Abe”",
+              "duration": "06:52"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

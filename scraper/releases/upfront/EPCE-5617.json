@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5617",
+  "url": "/release/detail/EPCE-5617/",
+  "source": "upfront",
+  "title": "チョコレート魂",
+  "category": "CDシングル",
+  "artist": "松浦亜弥",
+  "releaseDate": "2009/02/11",
+  "label": "zetima",
+  "images": [
+    "/images/1ee2a51e5dc0675ca92254d887fc8dbd3fdcc4d2.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/1ee2a51e5dc0675ca92254d887fc8dbd3fdcc4d2.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5617",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "チョコレート魂",
+              "duration": "04:54",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "山沢大洋",
+                "編曲": "武藤聖児"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ガツン",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "山沢大洋",
+                "編曲": "武藤聖児"
+              }
+            },
+            {
+              "index": 3,
+              "title": "チョコレート魂(Instrumental)",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "山沢大洋",
+                "編曲": "武藤聖児"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5495",
+  "url": "/release/detail/EPCE-5495/",
+  "source": "upfront",
+  "title": "笑顔",
+  "category": "CDシングル",
+  "artist": "松浦亜弥",
+  "releaseDate": "2007/08/29",
+  "label": "zetima",
+  "images": [
+    "/images/fbf925acb4ad801840c1aa390191116d159835ee.jpg"
+  ],
+  "editions": [
+    {
+      "name": "通常盤",
+      "image": "/images/fbf925acb4ad801840c1aa390191116d159835ee.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5495",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "笑顔",
+              "duration": "05:45",
+              "credits": {
+                "作詞": "谷村有美",
+                "作曲": "谷村有美",
+                "編曲": "岡ナオキ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "あなたに出逢えて",
+              "duration": "03:25",
+              "credits": {
+                "作詞": "谷村有美",
+                "作曲": "谷村有美",
+                "編曲": "上野圭市"
+              }
+            },
+            {
+              "index": 3,
+              "title": "笑顔(Instrumental)",
+              "duration": "05:45",
+              "credits": {
+                "作詞": "谷村有美",
+                "作曲": "谷村有美",
+                "編曲": "岡ナオキ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

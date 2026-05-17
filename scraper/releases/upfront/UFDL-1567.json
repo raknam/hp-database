@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1567",
+  "url": "/release/detail/UFDL-1567/",
+  "source": "upfront",
+  "title": "海を征く",
+  "category": "配信",
+  "artist": "鈴木愛理",
+  "releaseDate": "2025/09/07",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/296efd71cb1f898fffb9a4da08515dcbd55dc844.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/296efd71cb1f898fffb9a4da08515dcbd55dc844.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1567",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "海を征く",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "40mP",
+                "作曲": "40mP",
+                "編曲": "40mP"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

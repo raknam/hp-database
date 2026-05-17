@@ -1,0 +1,73 @@
+{
+  "id": 3324,
+  "url": "/release/3324/",
+  "title": "青春時代 1．2．3！/バイセコー大成功！",
+  "category": "CDシングル",
+  "artist": "プッチモニ",
+  "releaseDate": "2000.7.26",
+  "label": "zetima",
+  "images": [
+    "/upload/images/373df8bb8d66f35b6a37d985635f3ae2d1fad19b.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "青春時代 1.2.3！",
+              "duration": "05:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明",
+                "歌": "プッチモニ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "バイセコー大成功！",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄",
+                "歌": "プッチモニ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "青春時代 1.2.3！",
+              "duration": "05:22",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明",
+                "歌": "プッチモニ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "バイセコー大成功！",
+              "duration": "04:27",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄",
+                "歌": "プッチモニ"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5065"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "code": "HKCN-50638",
+  "url": "/release/detail/HKCN-50638/",
+  "source": "upfront",
+  "title": "限りあるMoment/ミラー・ミラー",
+  "category": "CDシングル",
+  "artist": "アンジュルム",
+  "releaseDate": "2020/08/26",
+  "label": "hachama",
+  "images": [
+    "/images/2a71dc2de5cf42c623a4e9897fef409cba4b2cb5.jpg",
+    "/images/0a34f4635c50645a46dd1653099ac72993503a77.jpg",
+    "/images/19c8f8878b4aa3152d2a1c0543cde5dd60021d6f.jpg",
+    "/images/5dd7f3e1489822dc29f46cc3df19cb86d9f451ae.jpg",
+    "/images/ec6dbfe698f7439ba802cccece270b09b3cf8653.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/2a71dc2de5cf42c623a4e9897fef409cba4b2cb5.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50638",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "限りあるMoment",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "オオヤギヒロオ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ミラー・ミラー",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/Anders Dannvik/Kalle Persson",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "限りあるMoment(Instrumental)",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "オオヤギヒロオ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ミラー・ミラー(Instrumental)",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/Anders Dannvik/Kalle Persson",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/0a34f4635c50645a46dd1653099ac72993503a77.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50640",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "限りあるMoment(Music Video)",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "オオヤギヒロオ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/images/19c8f8878b4aa3152d2a1c0543cde5dd60021d6f.jpg",
+      "price": "￥1,870 (税抜価格 ￥1,700)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50642",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "限りあるMoment",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "オオヤギヒロオ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ミラー・ミラー",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/Anders Dannvik/Kalle Persson",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "限りあるMoment(Instrumental)",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "オオヤギヒロオ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ミラー・ミラー(Instrumental)",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/Anders Dannvik/Kalle Persson",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/5dd7f3e1489822dc29f46cc3df19cb86d9f451ae.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50644",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ミラー・ミラー(Music Video)",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/Anders Dannvik/Kalle Persson"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/ec6dbfe698f7439ba802cccece270b09b3cf8653.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50645",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "限りあるMoment",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "オオヤギヒロオ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ミラー・ミラー",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/Anders Dannvik/Kalle Persson",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "限りあるMoment(Instrumental)",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "オオヤギヒロオ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ミラー・ミラー(Instrumental)",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/Anders Dannvik/Kalle Persson",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

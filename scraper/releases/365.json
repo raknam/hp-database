@@ -1,0 +1,67 @@
+{
+  "id": 365,
+  "url": "/release/365/",
+  "title": "娘DOKYU！ Vol.4",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2006.7.26",
+  "label": "zetima",
+  "images": [
+    "/upload/images/87ab880119e63d392062ae5d788acc92664ff927.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "久住小春",
+              "duration": "16:44",
+              "credits": {
+                "出演": "久住小春"
+              }
+            },
+            {
+              "index": 2,
+              "title": "藤本美貴",
+              "duration": "24:04",
+              "credits": {
+                "出演": "藤本美貴"
+              }
+            },
+            {
+              "index": 3,
+              "title": "田中れいな",
+              "duration": "16:07",
+              "credits": {
+                "出演": "田中れいな"
+              }
+            },
+            {
+              "index": 4,
+              "title": "小川麻琴",
+              "duration": "18:15",
+              "credits": {
+                "出演": "小川麻琴"
+              }
+            },
+            {
+              "index": 5,
+              "title": "吉澤ひとみ",
+              "duration": "20:23",
+              "credits": {
+                "出演": "吉澤ひとみ"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5203"
+        }
+      ]
+    }
+  ]
+}

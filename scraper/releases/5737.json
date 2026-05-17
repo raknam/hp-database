@@ -1,0 +1,868 @@
+{
+  "id": 5737,
+  "url": "/release/5737/",
+  "title": "YEAH YEAH YEAH/憧れのStress-free/花、闌の時",
+  "category": "CDシングル",
+  "artist": "ハロプロ・オールスターズ",
+  "releaseDate": "2018.9.26",
+  "label": "zetima",
+  "images": [
+    "/upload/images/221b210d3e735a6297d7972b6083565f301b83cd.webp",
+    "/upload/images/8a9ffbd3cf1ee11b581ca6dccb4db64c3db553d8.webp",
+    "/upload/images/b97f579e5379eca9440af2c5568484e37edd8fad.webp",
+    "/upload/images/5ff6157968ddc1e96658d1f7339cdecb7e6bccf1.webp",
+    "/upload/images/502a82add7b24ca9152d7efedc47e38362358f00.webp",
+    "/upload/images/0c3fefabd67ead58dbe474d25f12dabb399c0cba.webp",
+    "/upload/images/d9be3e288677f0d351638ab80a9ab1bd28517ee4.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/upload/images/221b210d3e735a6297d7972b6083565f301b83cd.webp",
+      "price": "￥1,870（税抜価格 ￥1,700）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "YEAH YEAH YEAH",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "憧れのStress-free",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "花、闌の時",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "小椋佳",
+                "作曲": "小椋佳",
+                "編曲": "上杉洋史",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ハロー！ヒストリー",
+              "duration": "04:23",
+              "suffix": "【Additional Track】",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "平田祥一郎",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "YEAH YEAH YEAH",
+              "duration": "05:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "憧れのStress-free",
+              "duration": "03:58",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 7,
+              "title": "花、闌の時",
+              "duration": "04:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "小椋佳",
+                "作曲": "小椋佳",
+                "編曲": "上杉洋史",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 8,
+              "title": "ハロー！ヒストリー",
+              "duration": "04:25",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "平田祥一郎",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7429"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "YEAH YEAH YEAH",
+              "duration": "06:47",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "憧れのStress-free",
+              "duration": "04:08",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "ハロプロ・オールスターズ"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選応募券封入"
+    },
+    {
+      "name": "【通常盤A モーニング娘。'18盤】",
+      "image": "/upload/images/8a9ffbd3cf1ee11b581ca6dccb4db64c3db553d8.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "YEAH YEAH YEAH",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "憧れのStress-free",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "花、闌の時",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "小椋佳",
+                "作曲": "小椋佳",
+                "編曲": "上杉洋史",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ハロー！ヒストリー",
+              "duration": "04:23",
+              "suffix": "【Additional Track】",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "平田祥一郎",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "YEAH YEAH YEAH",
+              "duration": "05:01",
+              "suffix": "(モーニング娘。'18 Ver.)【Additional Track】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 6,
+              "title": "YEAH YEAH YEAH",
+              "duration": "05:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 7,
+              "title": "憧れのStress-free",
+              "duration": "03:58",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 8,
+              "title": "花、闌の時",
+              "duration": "04:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "小椋佳",
+                "作曲": "小椋佳",
+                "編曲": "上杉洋史",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ハロー！ヒストリー",
+              "duration": "04:25",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "平田祥一郎",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7431"
+        }
+      ],
+      "note": "トレーディングカードソロ12種+集合1種よりランダムにて1枚封入(モーニング娘。'18 Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B アンジュルム盤】",
+      "image": "/upload/images/b97f579e5379eca9440af2c5568484e37edd8fad.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "YEAH YEAH YEAH",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "憧れのStress-free",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "花、闌の時",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "小椋佳",
+                "作曲": "小椋佳",
+                "編曲": "上杉洋史",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ハロー！ヒストリー",
+              "duration": "04:23",
+              "suffix": "【Additional Track】",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "平田祥一郎",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "YEAH YEAH YEAH",
+              "duration": "05:01",
+              "suffix": "(アンジュルム Ver.)【Additional Track】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "YEAH YEAH YEAH",
+              "duration": "05:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 7,
+              "title": "憧れのStress-free",
+              "duration": "03:58",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 8,
+              "title": "花、闌の時",
+              "duration": "04:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "小椋佳",
+                "作曲": "小椋佳",
+                "編曲": "上杉洋史",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ハロー！ヒストリー",
+              "duration": "04:25",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "平田祥一郎",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7432"
+        }
+      ],
+      "note": "トレーディングカードソロ10種+集合1種よりランダムにて1枚封入(アンジュルム Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤C Juice=Juice盤】",
+      "image": "/upload/images/5ff6157968ddc1e96658d1f7339cdecb7e6bccf1.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "YEAH YEAH YEAH",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "憧れのStress-free",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "花、闌の時",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "小椋佳",
+                "作曲": "小椋佳",
+                "編曲": "上杉洋史",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ハロー！ヒストリー",
+              "duration": "04:23",
+              "suffix": "【Additional Track】",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "平田祥一郎",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "YEAH YEAH YEAH",
+              "duration": "05:01",
+              "suffix": "(Juice=Juice Ver.)【Additional Track】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "YEAH YEAH YEAH",
+              "duration": "05:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 7,
+              "title": "憧れのStress-free",
+              "duration": "03:58",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 8,
+              "title": "花、闌の時",
+              "duration": "04:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "小椋佳",
+                "作曲": "小椋佳",
+                "編曲": "上杉洋史",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ハロー！ヒストリー",
+              "duration": "04:25",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "平田祥一郎",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7433"
+        }
+      ],
+      "note": "トレーディングカードソロ8種+集合1種よりランダムにて1枚封入(Juice=Juice Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤D カントリー・ガールズ盤】",
+      "image": "/upload/images/502a82add7b24ca9152d7efedc47e38362358f00.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "YEAH YEAH YEAH",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "憧れのStress-free",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "花、闌の時",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "小椋佳",
+                "作曲": "小椋佳",
+                "編曲": "上杉洋史",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ハロー！ヒストリー",
+              "duration": "04:23",
+              "suffix": "【Additional Track】",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "平田祥一郎",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "YEAH YEAH YEAH",
+              "duration": "05:01",
+              "suffix": "(カントリー・ガールズ Ver.)【Additional Track】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "YEAH YEAH YEAH",
+              "duration": "05:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 7,
+              "title": "憧れのStress-free",
+              "duration": "03:58",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 8,
+              "title": "花、闌の時",
+              "duration": "04:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "小椋佳",
+                "作曲": "小椋佳",
+                "編曲": "上杉洋史",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ハロー！ヒストリー",
+              "duration": "04:25",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "平田祥一郎",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7434"
+        }
+      ],
+      "note": "トレーディングカードソロ5種+集合1種よりランダムにて1枚封入(カントリー・ガールズ Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤E こぶしファクトリー盤】",
+      "image": "/upload/images/0c3fefabd67ead58dbe474d25f12dabb399c0cba.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "YEAH YEAH YEAH",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "憧れのStress-free",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "花、闌の時",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "小椋佳",
+                "作曲": "小椋佳",
+                "編曲": "上杉洋史",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ハロー！ヒストリー",
+              "duration": "04:23",
+              "suffix": "【Additional Track】",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "平田祥一郎",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "YEAH YEAH YEAH",
+              "duration": "05:01",
+              "suffix": "(こぶしファクトリー Ver.)【Additional Track】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "YEAH YEAH YEAH",
+              "duration": "05:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 7,
+              "title": "憧れのStress-free",
+              "duration": "03:58",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 8,
+              "title": "花、闌の時",
+              "duration": "04:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "小椋佳",
+                "作曲": "小椋佳",
+                "編曲": "上杉洋史",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ハロー！ヒストリー",
+              "duration": "04:25",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "平田祥一郎",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7435"
+        }
+      ],
+      "note": "トレーディングカードソロ5種+集合1種よりランダムにて1枚封入(こぶしファクトリー Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤F つばきファクトリー盤】",
+      "image": "/upload/images/d9be3e288677f0d351638ab80a9ab1bd28517ee4.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "YEAH YEAH YEAH",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "憧れのStress-free",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "花、闌の時",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "小椋佳",
+                "作曲": "小椋佳",
+                "編曲": "上杉洋史",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ハロー！ヒストリー",
+              "duration": "04:23",
+              "suffix": "【Additional Track】",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "平田祥一郎",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "YEAH YEAH YEAH",
+              "duration": "05:01",
+              "suffix": "(つばきファクトリー Ver.)【Additional Track】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "YEAH YEAH YEAH",
+              "duration": "05:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 7,
+              "title": "憧れのStress-free",
+              "duration": "03:58",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 8,
+              "title": "花、闌の時",
+              "duration": "04:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "小椋佳",
+                "作曲": "小椋佳",
+                "編曲": "上杉洋史",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ハロー！ヒストリー",
+              "duration": "04:25",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "平田祥一郎",
+                "歌": "ハロプロ・オールスターズ"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7436"
+        }
+      ],
+      "note": "トレーディングカードソロ9種+集合1種よりランダムにて1枚封入(つばきファクトリー Ver.)※初回プレス分のみ"
+    }
+  ]
+}

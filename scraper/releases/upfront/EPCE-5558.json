@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5558",
+  "url": "/release/detail/EPCE-5558/",
+  "source": "upfront",
+  "title": "きずな",
+  "category": "CDシングル",
+  "artist": "松浦亜弥",
+  "releaseDate": "2008/05/21",
+  "label": "zetima",
+  "images": [
+    "/images/7d73ca0a2821523c14fef279eadd387d030a8db9.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7d73ca0a2821523c14fef279eadd387d030a8db9.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5558",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "きずな",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "湯川れい子",
+                "作曲": "宮川彬良",
+                "編曲": "荒木啓六"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ひとり(single version)",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "中野雄太",
+                "作曲": "中野雄太",
+                "編曲": "中野雄太"
+              }
+            },
+            {
+              "index": 3,
+              "title": "きずな(Instrumental)",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "湯川れい子",
+                "作曲": "宮川彬良",
+                "編曲": "荒木啓六"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

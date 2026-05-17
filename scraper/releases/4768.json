@@ -1,0 +1,59 @@
+{
+  "id": 4768,
+  "url": "/release/4768/",
+  "title": "Greeting〜相川茉穂〜",
+  "category": "BD",
+  "artist": "相川茉穂",
+  "releaseDate": "2016.3.18",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/f59a663a9491da10d9f6854339674b909f5fdd2d.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "And She Walks",
+              "duration": "15:19",
+              "credits": {
+                "出演": "相川茉穂"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Reveal",
+              "duration": "24:03",
+              "credits": {
+                "出演": "相川茉穂"
+              }
+            },
+            {
+              "index": 3,
+              "title": "In The Sunset",
+              "duration": "11:04",
+              "credits": {
+                "出演": "相川茉穂"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Ending",
+              "duration": "01:10",
+              "credits": {
+                "出演": "相川茉穂"
+              }
+            }
+          ],
+          "catalogNo": "UFXW-2011"
+        }
+      ]
+    }
+  ]
+}

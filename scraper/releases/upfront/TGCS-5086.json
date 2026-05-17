@@ -1,0 +1,48 @@
+{
+  "code": "TGCS-5086",
+  "url": "/release/detail/TGCS-5086/",
+  "source": "upfront",
+  "title": "ラララ-ソソソ",
+  "category": "CDシングル",
+  "artist": "真野恵里菜",
+  "releaseDate": "2008/12/13",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/574ebdce53496073ff2374430bebce8e8e68e1f3.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/574ebdce53496073ff2374430bebce8e8e68e1f3.jpg",
+      "price": "￥838 (税抜価格 ￥762)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "TGCS-5086",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ラララーソソソ",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "たいせい"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ラララーソソソ(Instrumental)",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "たいせい"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

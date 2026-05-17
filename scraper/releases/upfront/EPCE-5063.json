@@ -1,0 +1,117 @@
+{
+  "code": "EPCE-5063",
+  "url": "/release/detail/EPCE-5063/",
+  "source": "upfront",
+  "title": "Medium Mare",
+  "category": "CDアルバム",
+  "artist": "Temiyan",
+  "releaseDate": "2000/06/28",
+  "label": "zetima",
+  "images": [
+    "/images/9d5ef8aac429ece2a3b94e16991fb09687aa87ee.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/9d5ef8aac429ece2a3b94e16991fb09687aa87ee.jpg",
+      "price": "￥3,204 (税抜価格 ￥2,913)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5063",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Cafe Medium Mare",
+              "duration": "05:07",
+              "credits": {
+                "作詞": "宮手健雄",
+                "作曲": "岩沢二弓",
+                "編曲": "Hajimu"
+              }
+            },
+            {
+              "index": 2,
+              "title": "渚のかげろう",
+              "duration": "05:42",
+              "credits": {
+                "作詞": "宮手健雄",
+                "作曲": "宮手健雄",
+                "編曲": "Hajimu/友常正巳"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Long Board Man",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "宮手健雄",
+                "作曲": "宮手健雄",
+                "編曲": "宮手健雄/Hajimu"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Walking on a beach",
+              "duration": "05:43",
+              "credits": {
+                "作詞": "金井伸夫/宮手健雄",
+                "作曲": "南佳孝",
+                "編曲": "Hajimu"
+              }
+            },
+            {
+              "index": 5,
+              "title": "夢の花",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "宮手健雄",
+                "作曲": "宮手健雄",
+                "編曲": "Hajimu"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Spiritual",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "宮手健雄",
+                "作曲": "宮手健雄",
+                "編曲": "Hajimu"
+              }
+            },
+            {
+              "index": 7,
+              "title": "かもめ",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "宮手健雄",
+                "作曲": "駒沢裕城",
+                "編曲": "宮手健雄"
+              }
+            },
+            {
+              "index": 8,
+              "title": "もう一度今を選ぶかな？",
+              "duration": "05:08",
+              "credits": {
+                "作詞": "林紀勝",
+                "作曲": "伊藤真太朗",
+                "編曲": "伊藤真太朗"
+              }
+            },
+            {
+              "index": 9,
+              "title": "kauanoeanuhea",
+              "duration": "03:01",
+              "credits": {
+                "作詞": "Keali'iReichel",
+                "作曲": "Keali'iReichel"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

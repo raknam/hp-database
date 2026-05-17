@@ -1,0 +1,102 @@
+{
+  "code": "EPCE-5448",
+  "url": "/release/detail/EPCE-5448/",
+  "source": "upfront",
+  "title": "僕らが生きる MY ASIA",
+  "category": "CDシングル",
+  "artist": "モーニング娘｡誕生10年記念隊",
+  "releaseDate": "2007/01/24",
+  "label": "zetima",
+  "images": [
+    "/images/0245dd24f67ee2b03c9cabab9dfe2b14b323dfa4.jpg",
+    "/images/f3fbc426fdf90ed0fbee3b22bedea6fbe8cb820a.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/0245dd24f67ee2b03c9cabab9dfe2b14b323dfa4.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5448",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "僕らが生きる MY ASIA",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "十年愛",
+              "duration": "03:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "僕らが生きる MY ASIA(Instrumental)",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/f3fbc426fdf90ed0fbee3b22bedea6fbe8cb820a.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5449",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "僕らが生きる MY ASIA",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "十年愛",
+              "duration": "03:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "僕らが生きる MY ASIA(Instrumental)",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

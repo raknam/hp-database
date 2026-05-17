@@ -1,0 +1,50 @@
+{
+  "id": 2019,
+  "url": "/release/2019/",
+  "title": "わっきゃない(Z)",
+  "category": "CDシングル",
+  "artist": "℃-ute",
+  "releaseDate": "2006.7.29",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/039dadd23c73a4499dee7ada61740f4291106410.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "わっきゃない(Z)",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "わっきゃない(Z)",
+              "duration": "03:36",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "TGCS-3512"
+        }
+      ]
+    }
+  ]
+}

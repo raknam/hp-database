@@ -1,0 +1,67 @@
+{
+  "id": 364,
+  "url": "/release/364/",
+  "title": "娘DOKYU！ Vol.3",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2006.7.26",
+  "label": "zetima",
+  "images": [
+    "/upload/images/78be92d1a563e7610996bfa291c8f97dc8525f4e.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "新垣里沙",
+              "duration": "16:28",
+              "credits": {
+                "出演": "新垣里沙"
+              }
+            },
+            {
+              "index": 2,
+              "title": "高橋愛",
+              "duration": "19:13",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            },
+            {
+              "index": 3,
+              "title": "紺野あさ美",
+              "duration": "19:34",
+              "credits": {
+                "出演": "紺野あさ美"
+              }
+            },
+            {
+              "index": 4,
+              "title": "道重さゆみ",
+              "duration": "21:04",
+              "credits": {
+                "出演": "道重さゆみ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "亀井絵里",
+              "duration": "19:51",
+              "credits": {
+                "出演": "亀井絵里"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5202"
+        }
+      ]
+    }
+  ]
+}

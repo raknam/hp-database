@@ -1,0 +1,109 @@
+{
+  "id": 2616,
+  "url": "/release/2616/",
+  "title": "夢ならば",
+  "category": "CDシングル",
+  "artist": "安倍なつみ",
+  "releaseDate": "2005.4.20",
+  "label": "hachama",
+  "images": [
+    "/upload/images/f75439512d1d52403f5fc31d9f16c82e0f9f8f54.webp",
+    "/upload/images/a041a50e9a1efb57012c64c6661554417245552a.webp"
+  ],
+  "editions": [
+    {
+      "name": "初回盤",
+      "image": "/upload/images/f75439512d1d52403f5fc31d9f16c82e0f9f8f54.webp",
+      "price": "定価 ￥1,320（税抜価格 ￥1,200）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夢ならば",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "安倍なつみ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "空 LIFE GOES ON",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "安倍なつみ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "夢ならば",
+              "duration": "04:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "安倍なつみ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50025"
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/upload/images/a041a50e9a1efb57012c64c6661554417245552a.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夢ならば",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "安倍なつみ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "空 LIFE GOES ON",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "安倍なつみ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "夢ならば",
+              "duration": "04:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "安倍なつみ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50026"
+        }
+      ]
+    }
+  ]
+}

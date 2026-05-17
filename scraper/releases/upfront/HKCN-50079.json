@@ -1,0 +1,169 @@
+{
+  "code": "HKCN-50079",
+  "url": "/release/detail/HKCN-50079/",
+  "source": "upfront",
+  "title": "はじめての経験",
+  "category": "CDシングル",
+  "artist": "真野恵里菜",
+  "releaseDate": "2009/05/20",
+  "label": "hachama",
+  "images": [
+    "/images/b87a0a09dbd426d235a9d52586ef0a993087739b.jpg",
+    "/images/5e61e4f785d3f9067df5658469a032bbc5841121.jpg",
+    "/images/6d067c39d6b26cd71c983f40ec253cf14e86442c.jpg",
+    "/images/f17c7729b6d13b144a3dbf3a952df9e2d0260ce0.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/b87a0a09dbd426d235a9d52586ef0a993087739b.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50079",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "はじめての経験",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "たいせい"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ナキムシ・ヨワムシ",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "corin."
+              }
+            },
+            {
+              "index": 3,
+              "title": "はじめての経験(Instrumental)",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "たいせい"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/5e61e4f785d3f9067df5658469a032bbc5841121.jpg",
+      "price": "￥1,540 (税抜価格 ￥1,400)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50081",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "はじめての経験(Piano Ver.)",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/images/6d067c39d6b26cd71c983f40ec253cf14e86442c.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50082",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "はじめての経験",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "たいせい"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ナキムシ・ヨワムシ",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "corin."
+              }
+            },
+            {
+              "index": 3,
+              "title": "はじめての経験(Instrumental)",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "たいせい"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/f17c7729b6d13b144a3dbf3a952df9e2d0260ce0.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50083",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "はじめての経験",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "たいせい"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ナキムシ・ヨワムシ",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "corin."
+              }
+            },
+            {
+              "index": 3,
+              "title": "はじめての経験(Instrumental)",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "たいせい"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

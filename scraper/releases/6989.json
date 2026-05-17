@@ -1,0 +1,741 @@
+{
+  "id": 6989,
+  "url": "/release/6989/",
+  "title": "Hello! Project 2023 Winter ～TWO OF US～",
+  "category": "BD",
+  "artist": "V.A.",
+  "releaseDate": "2023.8.9",
+  "label": "hachama",
+  "images": [
+    "/upload/images/8c3a62917929fa0cccd185daa7db2fd2675c613d.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:57",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋のクラウチングスタート",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 3,
+              "title": "MC",
+              "duration": "02:30",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "宇宙規模でダイスキ宣言！",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 5,
+              "title": "素肌は熱帯夜",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "早川響介",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ウチらの地元は地球じゃん！",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 7,
+              "title": "MC",
+              "duration": "03:59",
+              "credits": {
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Swing Swing Paradise",
+              "duration": "03:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'23"
+              }
+            },
+            {
+              "index": 9,
+              "title": "I surrender 愛されど愛",
+              "duration": "02:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'23"
+              }
+            },
+            {
+              "index": 10,
+              "title": "ロマンスに目覚める妄想女子の歌",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'23"
+              }
+            },
+            {
+              "index": 11,
+              "title": "MC",
+              "duration": "04:37",
+              "credits": {
+                "出演": "モーニング娘。'23"
+              }
+            },
+            {
+              "index": 12,
+              "title": "恋のダンスサイト",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "生田衣梨奈・野中美希・北川莉央・山﨑愛生・櫻井梨央・米村姫良々・窪田七海・田代すみれ・北原もも"
+              }
+            },
+            {
+              "index": 13,
+              "title": "ダンス・コーナー",
+              "duration": "01:52",
+              "credits": {
+                "出演": "石田亜佑美・牧野真莉愛・広本瑠璃・筒井澪心"
+              }
+            },
+            {
+              "index": 14,
+              "title": "cha cha SING",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "Mukek Jongmankhong/日本語詞：つんく",
+                "作曲": "Sudsan Wongsamut",
+                "出演": "譜久村聖・小田さくら・羽賀朱音・横山玲奈・斉藤円香・石栗奏美・中山夏月姫・西﨑美空"
+              }
+            },
+            {
+              "index": 15,
+              "title": "お祭りデビューだぜ！",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 16,
+              "title": "ヨリドリ ME DREAM",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 17,
+              "title": "Mr.Moonlight～愛のビッグバンド～",
+              "duration": "02:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 18,
+              "title": "運命 CHACHACHACHA～N",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "YUZURU KUSUGO/柴山慧",
+                "作曲": "YUZURU KUSUGO/柴山慧",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 19,
+              "title": "Hello! 生まれた意味がきっとある",
+              "duration": "02:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'23"
+              }
+            },
+            {
+              "index": 20,
+              "title": "Happy birthday to Me!",
+              "duration": "02:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'23"
+              }
+            },
+            {
+              "index": 21,
+              "title": "このまま！",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'23"
+              }
+            },
+            {
+              "index": 22,
+              "title": "みかん",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'23"
+              }
+            },
+            {
+              "index": 23,
+              "title": "わがまま 気のまま 愛のジョーク",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'23"
+              }
+            },
+            {
+              "index": 24,
+              "title": "MC",
+              "duration": "04:35",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 25,
+              "title": "愛あらば IT'S ALL RIGHT",
+              "duration": "06:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "HKXN-50115"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:57",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "アイドル天職音頭",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 3,
+              "title": "MC",
+              "duration": "02:00",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "スキップ・スキップ・スキップ",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "KOUGA",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "弱さじゃないよ、恋は",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Josef Melin",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "My Darling ～Do you love me?～",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 7,
+              "title": "MC",
+              "duration": "02:39",
+              "credits": {
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 8,
+              "title": "悔しいわ",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 9,
+              "title": "人生、すなわちパンタ・レイ",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 10,
+              "title": "臥薪嘗胆",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "gridoor",
+                "作曲": "星部ショウ",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 11,
+              "title": "明晩、ギャラクシー劇場で",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "shungo.",
+                "作曲": "星部ショウ",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 12,
+              "title": "MC",
+              "duration": "03:25",
+              "credits": {
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 13,
+              "title": "就活センセーション",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "出演": "竹内朱莉・川村文乃・上國料萌衣・伊勢鈴蘭・川名凜・松本わかな・平山遊季"
+              }
+            },
+            {
+              "index": 14,
+              "title": "ダンス・コーナー",
+              "duration": "02:04",
+              "credits": {
+                "出演": "佐々木莉佳子・橋迫鈴・為永幸音・山岸理子・秋山眞緒"
+              }
+            },
+            {
+              "index": 15,
+              "title": "もう一歩",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "出演": "新沼希空・谷本安美・岸本ゆめの・浅倉樹々・小野瑞歩・小野田紗栞・河西結心・八木栞・福田真琳・豫風瑠乃"
+              }
+            },
+            {
+              "index": 16,
+              "title": "愛されルート A or B？",
+              "duration": "02:41",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎真吾",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 17,
+              "title": "アドレナリン・ダメ",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 18,
+              "title": "今夜だけ浮かれたかった",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 19,
+              "title": "間違いじゃない 泣いたりしない",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Albin Hillborg/Anders Dannvik",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 20,
+              "title": "初恋サンライズ",
+              "duration": "02:41",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "山田祐輔",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 21,
+              "title": "赤いイヤホン",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 22,
+              "title": "次々続々",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "平田祥一郎",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 23,
+              "title": "46億年LOVE",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "林田健司",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 24,
+              "title": "MC",
+              "duration": "04:18",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 25,
+              "title": "愛すべきべき Human Life",
+              "duration": "05:05",
+              "credits": {
+                "作詞": "堂島孝平",
+                "作曲": "堂島孝平",
+                "出演": "V.A."
+              }
+            }
+          ]
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:57",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "5年バンジージャンプ",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 3,
+              "title": "MC",
+              "duration": "02:20",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "求めよ…運命の旅人算",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 5,
+              "title": "虎視タンタ・ターン",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "前山田健一",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Hey！ビヨンダ",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 7,
+              "title": "MC",
+              "duration": "02:55",
+              "credits": {
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 8,
+              "title": "私が言う前に抱きしめなきゃね",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ノクチルカ",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "唐沢美帆",
+                "作曲": "松井寛",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 10,
+              "title": "全部賭けてGO!!",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "徳田光希",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 11,
+              "title": "MC",
+              "duration": "04:31",
+              "credits": {
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 12,
+              "title": "夢幻クライマックス",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "出演": "植村あかり・有澤一華・江端妃咲・石山咲良・一岡伶奈・島倉りか・山﨑夢羽・小林萌花"
+              }
+            },
+            {
+              "index": 13,
+              "title": "ダンス・コーナー",
+              "duration": "02:01",
+              "credits": {
+                "出演": "段原瑠々・松永里愛・岡村美波・平井美葉・里吉うたの"
+              }
+            },
+            {
+              "index": 14,
+              "title": "CHOICE & CHANCE",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "井上玲音・工藤由愛・入江里咲・遠藤彩加里・西田汐里・江口紗耶・高瀬くるみ・前田こころ・清野桃々姫"
+              }
+            },
+            {
+              "index": 15,
+              "title": "好きって言ってよ",
+              "duration": "03:06",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 16,
+              "title": "Never Never know～コメ派とパン派のラブウォーズ～",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "ひろき(リリィさよなら。)/山崎あおい",
+                "作曲": "ひろき(リリィさよなら。)/山崎あおい",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 17,
+              "title": "ビタミンME",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 18,
+              "title": "英雄～笑って！ショパン先輩～",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "FREDERIC FRANCOIS CHOPIN",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 19,
+              "title": "眼鏡の男の子",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 20,
+              "title": "伊達じゃないよ うちの人生は",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 21,
+              "title": "銀色のテレパシー",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 22,
+              "title": "生まれたてのBaby Love",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "masaaki asada",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 23,
+              "title": "MC",
+              "duration": "05:23",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 24,
+              "title": "ポップミュージック",
+              "duration": "06:48",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "出演": "V.A."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

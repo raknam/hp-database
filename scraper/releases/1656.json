@@ -1,0 +1,663 @@
+{
+  "id": 1656,
+  "url": "/release/1656/",
+  "title": "ロマンスの途中/私が言う前に抱きしめなきゃね(MEMORIAL EDIT)/五月雨美女がさ乱れる(MEMORIAL EDIT)",
+  "category": "CDシングル",
+  "artist": "Juice=Juice",
+  "releaseDate": "2013.9.11",
+  "label": "hachama",
+  "images": [
+    "/upload/images/1fe6c6ef89f90cd63accd4fc85bc41d3a0045a1a.webp",
+    "/upload/images/45cb1635489145c76802a7b717425c0e63959ba3.webp",
+    "/upload/images/9bc8b9e31f261b09bc3cca571d07f773d540e284.webp",
+    "/upload/images/62adee697d214557936dddf947058d86ccea057a.webp",
+    "/upload/images/4bb4d4528b5b4a2119d66bcefbb23436deeca10b.webp",
+    "/upload/images/e2b404eac35a9194fb8e678a761feccf0d1a444d.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/1fe6c6ef89f90cd63accd4fc85bc41d3a0045a1a.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ロマンスの途中",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "私が言う前に抱きしめなきゃね",
+              "duration": "04:13",
+              "suffix": "(MEMORIAL EDIT)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "五月雨美女がさ乱れる",
+              "duration": "04:10",
+              "suffix": "(MEMORIAL EDIT)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介 ブラスアレンジ:鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ロマンスの途中",
+              "duration": "04:58",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "私が言う前に抱きしめなきゃね(MEMORIAL EDIT)",
+              "duration": "04:13",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "五月雨美女がさ乱れる(MEMORIAL EDIT)",
+              "duration": "04:11",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介 ブラスアレンジ:鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50310"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ロマンスの途中",
+              "duration": "05:13",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ロマンスの途中",
+              "duration": "05:15",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/45cb1635489145c76802a7b717425c0e63959ba3.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ロマンスの途中",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "私が言う前に抱きしめなきゃね",
+              "duration": "04:13",
+              "suffix": "(MEMORIAL EDIT)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "五月雨美女がさ乱れる",
+              "duration": "04:10",
+              "suffix": "(MEMORIAL EDIT)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介 ブラスアレンジ:鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ロマンスの途中",
+              "duration": "04:58",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "私が言う前に抱きしめなきゃね(MEMORIAL EDIT)",
+              "duration": "04:13",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "五月雨美女がさ乱れる(MEMORIAL EDIT)",
+              "duration": "04:11",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介 ブラスアレンジ:鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50312"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "私が言う前に抱きしめなきゃね(MEMORIAL EDIT)",
+              "duration": "04:23",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "私が言う前に抱きしめなきゃね(MEMORIAL EDIT)",
+              "duration": "04:28",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/9bc8b9e31f261b09bc3cca571d07f773d540e284.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ロマンスの途中",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "私が言う前に抱きしめなきゃね",
+              "duration": "04:13",
+              "suffix": "(MEMORIAL EDIT)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "五月雨美女がさ乱れる",
+              "duration": "04:10",
+              "suffix": "(MEMORIAL EDIT)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介 ブラスアレンジ:鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ロマンスの途中",
+              "duration": "04:58",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "私が言う前に抱きしめなきゃね(MEMORIAL EDIT)",
+              "duration": "04:13",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "五月雨美女がさ乱れる(MEMORIAL EDIT)",
+              "duration": "04:11",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介 ブラスアレンジ:鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50314"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "五月雨美女がさ乱れる(MEMORIAL EDIT)",
+              "duration": "04:18",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "五月雨美女がさ乱れる(MEMORIAL EDIT)",
+              "duration": "04:25",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤D】",
+      "image": "/upload/images/62adee697d214557936dddf947058d86ccea057a.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ロマンスの途中",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "私が言う前に抱きしめなきゃね",
+              "duration": "04:13",
+              "suffix": "(MEMORIAL EDIT)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "五月雨美女がさ乱れる",
+              "duration": "04:10",
+              "suffix": "(MEMORIAL EDIT)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介 ブラスアレンジ:鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ロマンスの途中",
+              "duration": "04:58",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "私が言う前に抱きしめなきゃね(MEMORIAL EDIT)",
+              "duration": "04:13",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "五月雨美女がさ乱れる(MEMORIAL EDIT)",
+              "duration": "04:11",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介 ブラスアレンジ:鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50316"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "私が言う前に抱きしめなきゃね(MEMORIAL EDIT)",
+              "duration": "04:22",
+              "suffix": "(Close-up Ver)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "私が言う前に抱きしめなきゃね(MEMORIAL EDIT)",
+              "duration": "04:28",
+              "suffix": "(Dance Shot Ver.Ⅱ)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤E】",
+      "image": "/upload/images/4bb4d4528b5b4a2119d66bcefbb23436deeca10b.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ロマンスの途中",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "私が言う前に抱きしめなきゃね",
+              "duration": "04:13",
+              "suffix": "(MEMORIAL EDIT)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "五月雨美女がさ乱れる",
+              "duration": "04:10",
+              "suffix": "(MEMORIAL EDIT)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介 ブラスアレンジ:鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ロマンスの途中",
+              "duration": "04:58",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "私が言う前に抱きしめなきゃね(MEMORIAL EDIT)",
+              "duration": "04:13",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "五月雨美女がさ乱れる(MEMORIAL EDIT)",
+              "duration": "04:11",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介 ブラスアレンジ:鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50318"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "五月雨美女がさ乱れる(MEMORIAL EDIT)",
+              "duration": "04:20",
+              "suffix": "(Close-up Ver)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "五月雨美女がさ乱れる(MEMORIAL EDIT)",
+              "duration": "04:26",
+              "suffix": "(Dance Shot Ver.Ⅱ)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/e2b404eac35a9194fb8e678a761feccf0d1a444d.webp",
+      "price": "定価 ￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ロマンスの途中",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "私が言う前に抱きしめなきゃね",
+              "duration": "04:13",
+              "suffix": "(MEMORIAL EDIT)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "五月雨美女がさ乱れる",
+              "duration": "04:10",
+              "suffix": "(MEMORIAL EDIT)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介 ブラスアレンジ:鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ロマンスの途中",
+              "duration": "04:58",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "私が言う前に抱きしめなきゃね(MEMORIAL EDIT)",
+              "duration": "04:13",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "五月雨美女がさ乱れる(MEMORIAL EDIT)",
+              "duration": "04:11",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介 ブラスアレンジ:鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50320"
+        }
+      ]
+    }
+  ]
+}

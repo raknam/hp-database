@@ -1,0 +1,91 @@
+{
+  "code": "UFBW-2033",
+  "url": "/release/detail/UFBW-2033/",
+  "source": "upfront",
+  "title": "ハロー！チャンネル the DVD Vol.6",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2011/11/17",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/1e423bbbcd1e9ca9b6366a914add4f188c9ac053.jpg"
+  ],
+  "editions": [
+    {
+      "name": "＜Disc1＞",
+      "image": "/images/1e423bbbcd1e9ca9b6366a914add4f188c9ac053.jpg",
+      "price": "￥5,170 (税抜価格 ￥4,700)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2033",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Hello!Channel Premium 卒業",
+              "duration": "19:20"
+            },
+            {
+              "index": 2,
+              "title": "シャ乱Qまこと プロデュース ハロプロ キャンプ大会",
+              "duration": "25:37"
+            },
+            {
+              "index": 3,
+              "title": "青春18きっぷの旅 in 東海道線",
+              "duration": "14:28"
+            },
+            {
+              "index": 4,
+              "title": "高橋愛が9期をプロデュース",
+              "duration": "19:12"
+            },
+            {
+              "index": 5,
+              "title": "モーニング娘。生田衣梨奈が℃-ute鈴木愛理にゴルフ対決を挑む！",
+              "duration": "18:24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "＜Disc2＞",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2034",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "姉さん、事件です！！ホテルのお仕事",
+              "duration": "23:26"
+            },
+            {
+              "index": 2,
+              "title": "海の家の仕事にチャレンジ",
+              "duration": "21:02"
+            },
+            {
+              "index": 3,
+              "title": "納涼！縁側！甚平 de 夏物語",
+              "duration": "13:06"
+            },
+            {
+              "index": 4,
+              "title": "真野恵里菜のアイドル100万ボルト 鎌倉デート編",
+              "duration": "13:54"
+            },
+            {
+              "index": 5,
+              "title": "寄居 星の王子さまPAをご案内",
+              "duration": "22:01"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

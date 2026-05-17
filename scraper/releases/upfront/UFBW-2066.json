@@ -1,0 +1,121 @@
+{
+  "code": "UFBW-2066",
+  "url": "/release/detail/UFBW-2066/",
+  "source": "upfront",
+  "title": "ハロー！チャンネル the DVD Vol.9",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012/09/20",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/f21e9eddcba78b9a1a3ee076fed76eab093b01c2.jpg"
+  ],
+  "editions": [
+    {
+      "name": "＜Disc1＞",
+      "image": "/images/f21e9eddcba78b9a1a3ee076fed76eab093b01c2.jpg",
+      "price": "￥5,170 (税抜価格 ￥4,700)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2066",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ハロプロ戦隊 ももレンジャー 参上！！",
+              "duration": "18:30"
+            },
+            {
+              "index": 2,
+              "title": "訪問！！筑波大学",
+              "duration": "18:25"
+            },
+            {
+              "index": 3,
+              "title": "ハロー！プロジェクト メンバーによるメンバーのミニ写真集を作ろう＜メイキング編＞",
+              "duration": "12:33"
+            },
+            {
+              "index": 4,
+              "title": "対決第2弾 モーニング娘。10期メンバー×スマイレージ新メンバー選抜 卓球対決",
+              "duration": "16:32"
+            },
+            {
+              "index": 5,
+              "title": "ザテレビジョン編集部で、めざせ！！！「わらしべ長者」",
+              "duration": "12:37"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "＜Disc2＞",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2067",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "書家・金澤翔子に習字を習う",
+              "duration": "12:25"
+            },
+            {
+              "index": 2,
+              "title": "ジモト福岡に帰る。",
+              "duration": "03:37"
+            },
+            {
+              "index": 3,
+              "title": "GO! GO! ハロチャンミュージアム フラワーバイキングでアレンジメント<第2回>",
+              "duration": "03:31"
+            },
+            {
+              "index": 4,
+              "title": "第1回モーニング娘。10期メンバー×スマイレージ新メンバー対決勝者竹内朱莉(スマイレージ)ご褒美にビッグパフェを食べちゃいました♡",
+              "duration": "03:07"
+            },
+            {
+              "index": 5,
+              "title": "私のペット自慢",
+              "duration": "02:10"
+            },
+            {
+              "index": 6,
+              "title": "℃-ute岡井千聖 ダイエットを決意！？",
+              "duration": "08:26"
+            },
+            {
+              "index": 7,
+              "title": "モーニング娘。鞘師里保のDance! Dance! World!",
+              "duration": "10:53"
+            },
+            {
+              "index": 8,
+              "title": "DAWA画伯<第5回>",
+              "duration": "06:38"
+            },
+            {
+              "index": 9,
+              "title": "ハロプロイラストアカデミー<第2回>",
+              "duration": "06:39"
+            },
+            {
+              "index": 10,
+              "title": "モーニング娘。そして新たな夢へ 光井愛佳スペシャルインタビュー",
+              "duration": "02:05"
+            },
+            {
+              "index": 11,
+              "title": "スカイツリーのお膝元で お江戸散歩♪",
+              "duration": "20:47"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

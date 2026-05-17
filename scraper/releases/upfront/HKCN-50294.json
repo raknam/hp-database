@@ -1,0 +1,240 @@
+{
+  "code": "HKCN-50294",
+  "url": "/release/detail/HKCN-50294/",
+  "source": "upfront",
+  "title": "新しい私になれ！/ヤッタルチャン",
+  "category": "CDシングル",
+  "artist": "スマイレージ",
+  "releaseDate": "2013/07/03",
+  "label": "hachama",
+  "images": [
+    "/images/da71eaa8c1c18a398fd1cc656e5ac305188549ef.jpg",
+    "/images/a9078ecb9089dd202064966629e9b1936a91a0d8.jpg",
+    "/images/e0ccada97349a6ec663b502ed2d93ad7fbcda339.jpg",
+    "/images/d442425f94e9b5488eba745acb0a6635fafb62d1.jpg",
+    "/images/7fcdfdcfb9ef7ad3d1844d8e1160f697a29d5546.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/da71eaa8c1c18a398fd1cc656e5ac305188549ef.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50294",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "新しい私になれ！",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ヤッタルチャン",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "新しい私になれ！(Instrumental)",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ヤッタルチャン(Instrumental)",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/a9078ecb9089dd202064966629e9b1936a91a0d8.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50296",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "新しい私になれ！(Music Video)",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "新しい私になれ！(DanceShotVer.)",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/images/e0ccada97349a6ec663b502ed2d93ad7fbcda339.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50298",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "新しい私になれ！",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ヤッタルチャン",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "新しい私になれ！(Instrumental)",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ヤッタルチャン(Instrumental)",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤D】",
+      "image": "/images/d442425f94e9b5488eba745acb0a6635fafb62d1.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50300",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ヤッタルチャン(Music Video)",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ヤッタルチャン(DanceShotVer.)",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/7fcdfdcfb9ef7ad3d1844d8e1160f697a29d5546.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50301",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "新しい私になれ！",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ヤッタルチャン",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "新しい私になれ！(Instrumental)",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ヤッタルチャン(Instrumental)",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

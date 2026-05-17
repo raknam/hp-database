@@ -1,0 +1,48 @@
+{
+  "code": "UFDL-1389",
+  "url": "/release/detail/UFDL-1389/",
+  "source": "upfront",
+  "title": "モーニングコーヒー(20th Anniversary Ver.)",
+  "category": "配信シングル",
+  "artist": "モーニング娘。20th",
+  "releaseDate": "2018/01/28",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/e788921bb521d42bdf1c6c3005ec2bed78a981b5.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/e788921bb521d42bdf1c6c3005ec2bed78a981b5.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信シングル",
+          "catalogNo": "UFDL-1389",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "モーニングコーヒー(20th Anniversary Ver.)",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "モーニングコーヒー(20th Anniversary Ver.)(Instrumental)",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

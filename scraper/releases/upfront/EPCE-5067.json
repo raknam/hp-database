@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5067",
+  "url": "/release/detail/EPCE-5067/",
+  "source": "upfront",
+  "title": "悩まない恋はない！",
+  "category": "CDシングル",
+  "artist": "7HOUSE",
+  "releaseDate": "2000/08/02",
+  "label": "zetima",
+  "images": [
+    "/images/f83f988636b979c19f4e5fe068cccea46cfdbd94.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f83f988636b979c19f4e5fe068cccea46cfdbd94.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5067",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "悩まない恋はない！",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "You are Lucky Star",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "悩まない恋はない！(Instrumental)",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

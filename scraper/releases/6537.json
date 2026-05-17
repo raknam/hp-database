@@ -1,0 +1,38 @@
+{
+  "id": 6537,
+  "url": "/release/6537/",
+  "title": "エキストラ",
+  "category": "配信",
+  "artist": "譜久村聖",
+  "releaseDate": "2021.6.21",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/a3ae62183ac083a58505d8f890f973e9487f77ef.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "エキストラ",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN",
+                "歌": "譜久村聖(モーニング娘。'21)"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1484"
+        }
+      ]
+    }
+  ]
+}

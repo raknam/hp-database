@@ -1,0 +1,53 @@
+{
+  "code": "EPBE-5469",
+  "url": "/release/detail/EPBE-5469/",
+  "source": "upfront",
+  "title": "AYUMI in GUAM",
+  "category": "DVD",
+  "artist": "石田亜佑美",
+  "releaseDate": "2013/08/14",
+  "label": "zetima",
+  "images": [
+    "/images/dd85a4ebdd6c661fff50333cdee70831fca0b041.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/dd85a4ebdd6c661fff50333cdee70831fca0b041.jpg",
+      "price": "￥4,400 (税抜価格 ￥4,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5469",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "New Journey",
+              "duration": "07:59"
+            },
+            {
+              "index": 2,
+              "title": "Emerald Ocean",
+              "duration": "13:12"
+            },
+            {
+              "index": 3,
+              "title": "To Sunset Bay",
+              "duration": "13:52"
+            },
+            {
+              "index": 4,
+              "title": "Making of Photobook",
+              "duration": "13:49"
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "01:20"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

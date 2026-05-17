@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1340",
+  "url": "/release/detail/UFDL-1340/",
+  "source": "upfront",
+  "title": "Hello! まっさらの自分",
+  "category": "配信",
+  "artist": "ハロプロ研修生",
+  "releaseDate": "2017/06/02",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/f16f4c00fe5fbe30097c1d7fd945b097f7985764.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f16f4c00fe5fbe30097c1d7fd945b097f7985764.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1340",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Hello! まっさらの自分",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "Shifo",
+                "編曲": "浜田ピエール裕介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,722 @@
+{
+  "id": 6516,
+  "url": "/release/6516/",
+  "title": "はっきりしようぜ/泳げないMermaid/愛されルート A or B？",
+  "category": "CDシングル",
+  "artist": "アンジュルム",
+  "releaseDate": "2021.6.23",
+  "label": "hachama",
+  "images": [
+    "/upload/images/17037d287b4541cba88f6b22981477d6288f9044.webp",
+    "/upload/images/51e2222d40c66417a7eafee045c222edb588515f.webp",
+    "/upload/images/d079bdcf75bcf58be60edbc5ce214a7fb1502ac0.webp",
+    "/upload/images/46807e1b1058aba8142ecec0b541c8935cd5f80c.webp",
+    "/upload/images/b59bbd133390f5be466a8f8fe4a45a1a6296f059.webp",
+    "/upload/images/d91e87e80ca32800ce06fe4c7b5081e6c41aa053.webp",
+    "/upload/images/1526592a4f877d079e226254de4d41c23e7b249c.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/17037d287b4541cba88f6b22981477d6288f9044.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "はっきりしようぜ",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "根本要",
+                "作曲": "根本要",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "泳げないMermaid",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "愛されルート A or B？",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎真吾",
+                "編曲": "山崎真吾",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "はっきりしようぜ",
+              "duration": "03:45",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "根本要",
+                "作曲": "根本要",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 5,
+              "title": "泳げないMermaid",
+              "duration": "04:04",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "愛されルート A or B？",
+              "duration": "03:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎真吾",
+                "編曲": "山崎真吾",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50656"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "はっきりしようぜ",
+              "duration": "04:35",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "根本要",
+                "作曲": "根本要",
+                "出演": "アンジュルム"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/51e2222d40c66417a7eafee045c222edb588515f.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "はっきりしようぜ",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "根本要",
+                "作曲": "根本要",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "泳げないMermaid",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "愛されルート A or B？",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎真吾",
+                "編曲": "山崎真吾",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "はっきりしようぜ",
+              "duration": "03:45",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "根本要",
+                "作曲": "根本要",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 5,
+              "title": "泳げないMermaid",
+              "duration": "04:04",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "愛されルート A or B？",
+              "duration": "03:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎真吾",
+                "編曲": "山崎真吾",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50658"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "泳げないMermaid",
+              "duration": "05:27",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ",
+                "出演": "アンジュルム"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/d079bdcf75bcf58be60edbc5ce214a7fb1502ac0.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "はっきりしようぜ",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "根本要",
+                "作曲": "根本要",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "泳げないMermaid",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "愛されルート A or B？",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎真吾",
+                "編曲": "山崎真吾",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "はっきりしようぜ",
+              "duration": "03:45",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "根本要",
+                "作曲": "根本要",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 5,
+              "title": "泳げないMermaid",
+              "duration": "04:04",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "愛されルート A or B？",
+              "duration": "03:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎真吾",
+                "編曲": "山崎真吾",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50660"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛されルート A or B？",
+              "duration": "04:40",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎真吾",
+                "出演": "アンジュルム"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/upload/images/46807e1b1058aba8142ecec0b541c8935cd5f80c.webp",
+      "price": "￥2,200（税抜価格 ￥2,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "はっきりしようぜ",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "根本要",
+                "作曲": "根本要",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "泳げないMermaid",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "愛されルート A or B？",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎真吾",
+                "編曲": "山崎真吾",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "SHAKA SHAKA TO LOVE",
+              "duration": "03:24",
+              "suffix": "【Additional Track】",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 5,
+              "title": "はっきりしようぜ",
+              "duration": "03:45",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "根本要",
+                "作曲": "根本要",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "泳げないMermaid",
+              "duration": "04:04",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 7,
+              "title": "愛されルート A or B？",
+              "duration": "03:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎真吾",
+                "編曲": "山崎真吾",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 8,
+              "title": "SHAKA SHAKA TO LOVE",
+              "duration": "03:24",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50662"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "はっきりしようぜ",
+              "duration": "03:50",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "根本要",
+                "作曲": "根本要",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "泳げないMermaid",
+              "duration": "04:09",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "愛されルート A or B？",
+              "duration": "03:54",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎真吾",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "SHAKA SHAKA TO LOVE",
+              "duration": "03:47",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "アンジュルム"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD+イベント抽選応募券封入"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/b59bbd133390f5be466a8f8fe4a45a1a6296f059.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "はっきりしようぜ",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "根本要",
+                "作曲": "根本要",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "泳げないMermaid",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "愛されルート A or B？",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎真吾",
+                "編曲": "山崎真吾",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "はっきりしようぜ",
+              "duration": "03:45",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "根本要",
+                "作曲": "根本要",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 5,
+              "title": "泳げないMermaid",
+              "duration": "04:04",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "愛されルート A or B？",
+              "duration": "03:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎真吾",
+                "編曲": "山崎真吾",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50664"
+        }
+      ],
+      "note": "トレーディングカードソロ10種+集合1種よりランダムにて1枚封入(はっきりしようぜ Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/d91e87e80ca32800ce06fe4c7b5081e6c41aa053.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "はっきりしようぜ",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "根本要",
+                "作曲": "根本要",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "泳げないMermaid",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "愛されルート A or B？",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎真吾",
+                "編曲": "山崎真吾",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "はっきりしようぜ",
+              "duration": "03:45",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "根本要",
+                "作曲": "根本要",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 5,
+              "title": "泳げないMermaid",
+              "duration": "04:04",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "愛されルート A or B？",
+              "duration": "03:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎真吾",
+                "編曲": "山崎真吾",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50665"
+        }
+      ],
+      "note": "トレーディングカードソロ10種+集合1種よりランダムにて1枚封入(泳げないMermaid Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/upload/images/1526592a4f877d079e226254de4d41c23e7b249c.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "はっきりしようぜ",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "根本要",
+                "作曲": "根本要",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "泳げないMermaid",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "愛されルート A or B？",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎真吾",
+                "編曲": "山崎真吾",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "はっきりしようぜ",
+              "duration": "03:45",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "根本要",
+                "作曲": "根本要",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 5,
+              "title": "泳げないMermaid",
+              "duration": "04:04",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "愛されルート A or B？",
+              "duration": "03:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎真吾",
+                "編曲": "山崎真吾",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50666"
+        }
+      ],
+      "note": "トレーディングカードソロ10種+集合1種よりランダムにて1枚封入(愛されルート A or B？ Ver.)※初回プレス分のみ"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "code": "HKBN-50151",
+  "url": "/release/detail/HKBN-50151/",
+  "source": "upfront",
+  "title": "シングルV「有頂天LOVE」",
+  "category": "DVDシングルV",
+  "artist": "スマイレージ",
+  "releaseDate": "2011/08/10",
+  "label": "hachama",
+  "images": [
+    "/images/0ee35d395dcc596a7b6a0b1015e9751d465ffffc.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/0ee35d395dcc596a7b6a0b1015e9751d465ffffc.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "HKBN-50151",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "有頂天LOVE(MUSIC VIDEO)",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "有頂天LOVE(超Close-upVer.)",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "15:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

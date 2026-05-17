@@ -1,0 +1,133 @@
+{
+  "id": 1741,
+  "url": "/release/1741/",
+  "title": "Going On!",
+  "category": "CDシングル",
+  "artist": "ガーディアンズ４",
+  "releaseDate": "2010.1.20",
+  "label": "ポニーキャニオン",
+  "images": [
+    "/upload/images/8c3d4dd9187ab1157cd945675224b046221d368f.webp",
+    "/upload/images/2d8842def21bcc8365421a359e80867dd7cb78ca.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回限定盤】",
+      "image": "/upload/images/8c3d4dd9187ab1157cd945675224b046221d368f.webp",
+      "price": "定価 ￥1,650（税抜価格 ￥1,500）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Going On!",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "斎藤悠弥",
+                "編曲": "斎藤悠弥",
+                "歌": "ガーディアンズ4"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ありがとう〜大きくカンシャ！〜",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "原田ナオ",
+                "編曲": "原田ナオ",
+                "歌": "ガーディアンズ4"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Going On!",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "斎藤悠弥",
+                "編曲": "斎藤悠弥",
+                "歌": "ガーディアンズ4"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ありがとう〜大きくカンシャ！〜",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "原田ナオ",
+                "編曲": "原田ナオ",
+                "歌": "ガーディアンズ4"
+              }
+            }
+          ],
+          "catalogNo": "PCCA-03081"
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/2d8842def21bcc8365421a359e80867dd7cb78ca.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Going On!",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "斎藤悠弥",
+                "編曲": "斎藤悠弥",
+                "歌": "ガーディアンズ4"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ありがとう〜大きくカンシャ！〜",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "原田ナオ",
+                "編曲": "原田ナオ",
+                "歌": "ガーディアンズ4"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Going On!",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "斎藤悠弥",
+                "編曲": "斎藤悠弥",
+                "歌": "ガーディアンズ4"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ありがとう〜大きくカンシャ！〜",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "原田ナオ",
+                "編曲": "原田ナオ",
+                "歌": "ガーディアンズ4"
+              }
+            }
+          ],
+          "catalogNo": "PCCA-70270"
+        }
+      ]
+    }
+  ]
+}

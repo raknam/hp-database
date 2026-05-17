@@ -1,0 +1,73 @@
+{
+  "code": "PKBP-5046",
+  "url": "/release/detail/PKBP-5046/",
+  "source": "upfront",
+  "title": "美勇伝シングルVクリップス①",
+  "category": "DVD",
+  "artist": "美勇伝",
+  "releaseDate": "2006/03/15",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/b7b26c1bd40af93c48b2f5b1118600ae701522b2.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/b7b26c1bd40af93c48b2f5b1118600ae701522b2.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5046",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋のヌケガラ",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "湯川れい子",
+                "作曲": "はたけ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "カッチョイイゼ！JAPAN",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "紫陽花アイ愛物語",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "角田崇徳/斉藤未悠",
+                "作曲": "角田崇徳"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ひとりじめ",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "クレナイの季節",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

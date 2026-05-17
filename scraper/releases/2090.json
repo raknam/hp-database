@@ -1,0 +1,101 @@
+{
+  "id": 2090,
+  "url": "/release/2090/",
+  "title": "ハロー!SATOYAMAライフ Vol.3",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2013.4.9",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/1fa1a759d2329e7fde3a54c6df64671eaf13fd06.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "小松菜の収穫をしよう",
+              "duration": "20:05",
+              "credits": {
+                "出演": "飯窪春菜・石田亜佑美(モ－ニング娘。)/矢島舞美・中島早貴(℃-ute)/和田彩花(スマイレージ)/光井愛佳"
+              }
+            },
+            {
+              "index": 2,
+              "title": "苗作りをしてみよう",
+              "duration": "03:57",
+              "credits": {
+                "出演": "飯窪春菜(モ－ニング娘。)/矢島舞美・中島早貴(℃-ute)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "落花生の種をまこう＆サツマイモの苗を植えてみよう",
+              "duration": "06:16",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)/和田彩花・福田花音(スマイレージ)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "夏野菜をたくさん育てよう",
+              "duration": "11:49",
+              "credits": {
+                "出演": "飯窪春菜・石田亜佑美(モ－ニング娘。)/和田彩花・福田花音(スマイレージ)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "台風直撃の畑を立て直そう",
+              "duration": "03:39",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ないしょの話 矢島×和田 ノーカットVer.",
+              "duration": "07:37",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)/和田彩花(スマイレージ)"
+              }
+            },
+            {
+              "index": 7,
+              "title": "里山の夏祭りを盛り上げる①",
+              "duration": "15:51",
+              "credits": {
+                "出演": "徳永千奈美・須藤茉麻(Berryz工房)/光井愛佳/金子りえ・宮本佳林・田口夏実(ハロプロ研修生)"
+              }
+            },
+            {
+              "index": 8,
+              "title": "里山の夏祭りを盛り上げる②",
+              "duration": "11:40",
+              "credits": {
+                "出演": "徳永千奈美・須藤茉麻(Berryz工房)/光井愛佳/金子りえ・宮本佳林・田口夏実(ハロプロ研修生)"
+              }
+            },
+            {
+              "index": 9,
+              "title": "誕生15周年記念ハロプロライブ初日",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "つんく/角田崇徳/MEG.ME、MIKOTO、三浦徳子",
+                "作曲": "つんく/Wolfgang Amadeus、Mozart(PD)、",
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1241"
+        }
+      ]
+    }
+  ]
+}

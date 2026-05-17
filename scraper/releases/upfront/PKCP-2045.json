@@ -1,0 +1,68 @@
+{
+  "code": "PKCP-2045",
+  "url": "/release/detail/PKCP-2045/",
+  "source": "upfront",
+  "title": "恋せども 愛せども",
+  "category": "CDシングル",
+  "artist": "河本直樹",
+  "releaseDate": "2009/03/25",
+  "label": "ライスミュージック",
+  "images": [
+    "/images/1713c2dbe0fb2bbfccdd6c99aad033c75c1a5142.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/1713c2dbe0fb2bbfccdd6c99aad033c75c1a5142.jpg",
+      "price": "￥1,257 (税抜価格 ￥1,143)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-2045",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋せども 愛せども",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "来生えつこ",
+                "作曲": "来生たかお",
+                "編曲": "土井淳"
+              }
+            },
+            {
+              "index": 2,
+              "title": "美しい誤解",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "来生えつこ",
+                "作曲": "来生たかお",
+                "編曲": "土井淳"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋せども 愛せども(オリジナル・カラオケ)",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "来生えつこ",
+                "作曲": "来生たかお",
+                "編曲": "土井淳"
+              }
+            },
+            {
+              "index": 4,
+              "title": "美しい誤解(オリジナル・カラオケ)",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "来生えつこ",
+                "作曲": "来生たかお",
+                "編曲": "土井淳"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

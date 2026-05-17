@@ -1,0 +1,81 @@
+{
+  "code": "EPCE-5492",
+  "url": "/release/detail/EPCE-5492/",
+  "source": "upfront",
+  "title": "鳴り始めた恋のBELL",
+  "category": "CDシングル",
+  "artist": "音楽ガッタス",
+  "releaseDate": "2007/09/12",
+  "label": "zetima",
+  "images": [
+    "/images/c9736722bdd1bb448d057695e875ba87bdca932e.jpg",
+    "/images/997b057b141e89dd2b39ca16be1b231a0cc8e8b4.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回盤】",
+      "image": "/images/c9736722bdd1bb448d057695e875ba87bdca932e.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5492",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "鳴り始めた恋のBELL",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "松井寛"
+              }
+            },
+            {
+              "index": 2,
+              "title": "DREAMIN'〜 ガッタスブリリャンチスH.P.の応援歌〜",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳"
+              }
+            },
+            {
+              "index": 3,
+              "title": "鳴り始めた恋のBELL(Instrumental)",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "松井寛"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/997b057b141e89dd2b39ca16be1b231a0cc8e8b4.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5494",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "メンバー紹介VTR",
+              "duration": "17:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

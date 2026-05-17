@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5289",
+  "url": "/release/detail/EPBE-5289/",
+  "source": "upfront",
+  "title": "シングルV「涙の色」",
+  "category": "DVDシングルV",
+  "artist": "℃-ute",
+  "releaseDate": "2008/05/14",
+  "label": "zetima",
+  "images": [
+    "/images/7f363158e64efdcca0507f47432ba6dd5657edcb.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7f363158e64efdcca0507f47432ba6dd5657edcb.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5289",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "涙の色",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "涙の色(Close-up Ver.)",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "13:56"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

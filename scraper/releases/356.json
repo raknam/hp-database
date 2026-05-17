@@ -1,0 +1,56 @@
+{
+  "id": 356,
+  "url": "/release/356/",
+  "title": "シングルV「直感2〜逃した魚は大きいぞ!〜」",
+  "category": "DVDシングルV",
+  "artist": "モーニング娘。",
+  "releaseDate": "2005.11.23",
+  "label": "zetima",
+  "images": [
+    "/upload/images/9b4da5368c5af9120157ff2df5f1bc117614c4be.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "直感2〜逃した魚は大きいぞ！〜",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "直感2〜逃した魚は大きいぞ！〜",
+              "duration": "04:46",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "14:32",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5182"
+        }
+      ]
+    }
+  ]
+}

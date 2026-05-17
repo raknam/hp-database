@@ -1,0 +1,78 @@
+{
+  "code": "UFBW-1650",
+  "url": "/release/detail/UFBW-1650/",
+  "source": "upfront",
+  "title": "Hello! Projectが行く！ SATOYAMA＆SATOUMI 東北旅行2020",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2020/09/25",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/0e9c061e7516092480a37133f6659c0a4f6ee0d4.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/0e9c061e7516092480a37133f6659c0a4f6ee0d4.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1650",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "00:06"
+            },
+            {
+              "index": 2,
+              "title": "宮城県①",
+              "duration": "08:40"
+            },
+            {
+              "index": 3,
+              "title": "福島県①",
+              "duration": "11:34"
+            },
+            {
+              "index": 4,
+              "title": "岩手県①",
+              "duration": "05:38"
+            },
+            {
+              "index": 5,
+              "title": "宮城県②",
+              "duration": "04:30"
+            },
+            {
+              "index": 6,
+              "title": "福島県②",
+              "duration": "03:50"
+            },
+            {
+              "index": 7,
+              "title": "岩手県②",
+              "duration": "05:54"
+            },
+            {
+              "index": 8,
+              "title": "宮城県③",
+              "duration": "03:43"
+            },
+            {
+              "index": 9,
+              "title": "福島県③",
+              "duration": "02:19"
+            },
+            {
+              "index": 10,
+              "title": "岩手県③",
+              "duration": "06:05"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

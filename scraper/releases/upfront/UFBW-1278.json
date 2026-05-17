@@ -1,0 +1,43 @@
+{
+  "code": "UFBW-1278",
+  "url": "/release/detail/UFBW-1278/",
+  "source": "upfront",
+  "title": "ハロー!SATOYAMAライフ Vol.15",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2013/10/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/13a4b41dc295bd24310d624d37303c94b8925750.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/13a4b41dc295bd24310d624d37303c94b8925750.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1278",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "雪の畑で野菜を収穫しよう！",
+              "duration": "22:48"
+            },
+            {
+              "index": 2,
+              "title": "大根のプリン作りにチャレンジ！",
+              "duration": "15:35"
+            },
+            {
+              "index": 3,
+              "title": "蔵民宿にお泊まり！",
+              "duration": "32:19"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

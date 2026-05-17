@@ -1,0 +1,58 @@
+{
+  "code": "UFBW-2017",
+  "url": "/release/detail/UFBW-2017/",
+  "source": "upfront",
+  "title": "モーニング娘。高橋愛＆新垣里沙 リアルエチュード「高橋さん家と新垣さん家 ゲスト：金剛地武志編」",
+  "category": "DVD",
+  "artist": "高橋愛&新垣里沙",
+  "releaseDate": "2011/07/08",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/ab5f88a5020fcc41e2e64d58273677fc6cfee688.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/ab5f88a5020fcc41e2e64d58273677fc6cfee688.jpg",
+      "price": "￥3,981 (税抜価格 ￥3,619)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2017",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "03:11"
+            },
+            {
+              "index": 2,
+              "title": "実話 高橋愛 編",
+              "duration": "17:33"
+            },
+            {
+              "index": 3,
+              "title": "実話 新垣里沙 編",
+              "duration": "20:52"
+            },
+            {
+              "index": 4,
+              "title": "実話 金剛地武志 編",
+              "duration": "10:17"
+            },
+            {
+              "index": 5,
+              "title": "金剛地武志 新垣里沙 編",
+              "duration": "15:19"
+            },
+            {
+              "index": 6,
+              "title": "金剛地武志 高橋愛 編",
+              "duration": "17:11"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

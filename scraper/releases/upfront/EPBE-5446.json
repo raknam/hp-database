@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5446",
+  "url": "/release/detail/EPBE-5446/",
+  "source": "upfront",
+  "title": "シングルV「会いたい 会いたい 会いたいな」",
+  "category": "DVDシングルV",
+  "artist": "℃-ute",
+  "releaseDate": "2012/09/19",
+  "label": "zetima",
+  "images": [
+    "/images/6dd8d7e584e056c51f4a6171f7a7ee0ed75a0ba1.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/6dd8d7e584e056c51f4a6171f7a7ee0ed75a0ba1.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5446",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "会いたい 会いたい 会いたいな",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "会いたい 会いたい 会いたいな(Natural Lip Ver.)",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "08:31"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

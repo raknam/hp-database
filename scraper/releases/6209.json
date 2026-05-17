@@ -1,0 +1,687 @@
+{
+  "id": 6209,
+  "url": "/release/6209/",
+  "title": "KOKORO＆KARADA/LOVEペディア/人間関係No way way",
+  "category": "CDシングル",
+  "artist": "モーニング娘。'20",
+  "releaseDate": "2020.1.22",
+  "label": "zetima",
+  "images": [
+    "/upload/images/efc41555a1ec7ac46be116854fb19a06d6b55872.webp",
+    "/upload/images/e6753087c7453d50931ecbad60a51d3203d00373.webp",
+    "/upload/images/c50fd9c1dd9d6b5e5b3a6fc785ca0a646ed7f68a.webp",
+    "/upload/images/ff671a054f1e07f39db7b40f666c9a453869313a.webp",
+    "/upload/images/6fc2a56e95d3033ae8c6c162fb71990723df8a8f.webp",
+    "/upload/images/52532215e8007e7a7f19192033e3614c481a8740.webp",
+    "/upload/images/ba60d7fc7826a70ec3c646df9ff728ffd8896a62.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/efc41555a1ec7ac46be116854fb19a06d6b55872.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "KOKORO＆KARADA",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 2,
+              "title": "LOVEペディア",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 3,
+              "title": "人間関係No way way",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 4,
+              "title": "KOKORO＆KARADA",
+              "duration": "04:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 5,
+              "title": "LOVEペディア",
+              "duration": "04:42",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 6,
+              "title": "人間関係No way way",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'20"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7565"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "KOKORO＆KARADA",
+              "duration": "06:23",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'20"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/e6753087c7453d50931ecbad60a51d3203d00373.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "KOKORO＆KARADA",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 2,
+              "title": "LOVEペディア",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 3,
+              "title": "人間関係No way way",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 4,
+              "title": "KOKORO＆KARADA",
+              "duration": "04:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 5,
+              "title": "LOVEペディア",
+              "duration": "04:42",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 6,
+              "title": "人間関係No way way",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'20"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7567"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "LOVEペディア",
+              "duration": "05:15",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "出演": "モーニング娘。'20"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/c50fd9c1dd9d6b5e5b3a6fc785ca0a646ed7f68a.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "KOKORO＆KARADA",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 2,
+              "title": "LOVEペディア",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 3,
+              "title": "人間関係No way way",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 4,
+              "title": "KOKORO＆KARADA",
+              "duration": "04:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 5,
+              "title": "LOVEペディア",
+              "duration": "04:42",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 6,
+              "title": "人間関係No way way",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'20"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7569"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "人間関係No way way",
+              "duration": "05:27",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "出演": "モーニング娘。'20"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/upload/images/ff671a054f1e07f39db7b40f666c9a453869313a.webp",
+      "price": "￥1,980（税抜価格 ￥1,800）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "KOKORO＆KARADA",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 2,
+              "title": "LOVEペディア",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 3,
+              "title": "人間関係No way way",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 4,
+              "title": "KOKORO＆KARADA",
+              "duration": "04:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 5,
+              "title": "LOVEペディア",
+              "duration": "04:42",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 6,
+              "title": "人間関係No way way",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'20"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7571"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "KOKORO＆KARADA",
+              "duration": "04:43",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 2,
+              "title": "LOVEペディア",
+              "duration": "04:51",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "出演": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 3,
+              "title": "人間関係No way way",
+              "duration": "04:54",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "出演": "モーニング娘。'20"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選応募券封入"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/6fc2a56e95d3033ae8c6c162fb71990723df8a8f.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "KOKORO＆KARADA",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 2,
+              "title": "LOVEペディア",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 3,
+              "title": "人間関係No way way",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 4,
+              "title": "KOKORO＆KARADA",
+              "duration": "04:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 5,
+              "title": "LOVEペディア",
+              "duration": "04:42",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 6,
+              "title": "人間関係No way way",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'20"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7573"
+        }
+      ],
+      "note": "トレーディングカードソロ14種+集合1種よりランダムにて1枚封入(KOKORO＆KARADA Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/52532215e8007e7a7f19192033e3614c481a8740.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "KOKORO＆KARADA",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 2,
+              "title": "LOVEペディア",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 3,
+              "title": "人間関係No way way",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 4,
+              "title": "KOKORO＆KARADA",
+              "duration": "04:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 5,
+              "title": "LOVEペディア",
+              "duration": "04:42",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 6,
+              "title": "人間関係No way way",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'20"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7574"
+        }
+      ],
+      "note": "トレーディングカードソロ14種+集合1種よりランダムにて1枚封入(LOVEペディア Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/upload/images/ba60d7fc7826a70ec3c646df9ff728ffd8896a62.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "KOKORO＆KARADA",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 2,
+              "title": "LOVEペディア",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 3,
+              "title": "人間関係No way way",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 4,
+              "title": "KOKORO＆KARADA",
+              "duration": "04:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 5,
+              "title": "LOVEペディア",
+              "duration": "04:42",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 6,
+              "title": "人間関係No way way",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'20"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7575"
+        }
+      ],
+      "note": "トレーディングカードソロ14種+集合1種よりランダムにて1枚封入(人間関係No way way Ver.)※初回プレス分のみ"
+    }
+  ]
+}

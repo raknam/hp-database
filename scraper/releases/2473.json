@@ -1,0 +1,223 @@
+{
+  "id": 2473,
+  "url": "/release/2473/",
+  "title": "はじめての経験",
+  "category": "CDシングル",
+  "artist": "真野恵里菜",
+  "releaseDate": "2009.5.20",
+  "label": "hachama",
+  "images": [
+    "/upload/images/b87a0a09dbd426d235a9d52586ef0a993087739b.webp",
+    "/upload/images/5e61e4f785d3f9067df5658469a032bbc5841121.webp",
+    "/upload/images/6d067c39d6b26cd71c983f40ec253cf14e86442c.webp",
+    "/upload/images/f17c7729b6d13b144a3dbf3a952df9e2d0260ce0.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/b87a0a09dbd426d235a9d52586ef0a993087739b.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "はじめての経験",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "たいせい",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ナキムシ・ヨワムシ",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "corin.",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "はじめての経験",
+              "duration": "03:51",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "たいせい",
+                "歌": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50079"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "はじめての経験",
+              "duration": "04:07",
+              "suffix": "(Piano Ver.)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "出演": "真野恵里菜"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付き"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/5e61e4f785d3f9067df5658469a032bbc5841121.webp",
+      "price": "￥1,540（税抜価格 ￥1,400）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "はじめての経験",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "たいせい",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ナキムシ・ヨワムシ",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "corin.",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "はじめての経験",
+              "duration": "03:51",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "たいせい",
+                "歌": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50081"
+        }
+      ],
+      "note": "ブックレット付"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/6d067c39d6b26cd71c983f40ec253cf14e86442c.webp",
+      "price": "￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "はじめての経験",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "たいせい",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ナキムシ・ヨワムシ",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "corin.",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "はじめての経験",
+              "duration": "03:51",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "たいせい",
+                "歌": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50082"
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/f17c7729b6d13b144a3dbf3a952df9e2d0260ce0.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "はじめての経験",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "たいせい",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ナキムシ・ヨワムシ",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "corin.",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "はじめての経験",
+              "duration": "03:51",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "たいせい",
+                "歌": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50083"
+        }
+      ]
+    }
+  ]
+}

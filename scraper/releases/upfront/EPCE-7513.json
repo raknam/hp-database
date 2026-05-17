@@ -1,0 +1,245 @@
+{
+  "code": "EPCE-7513",
+  "url": "/release/detail/EPCE-7513/",
+  "source": "upfront",
+  "title": "Escape",
+  "category": "CDシングル",
+  "artist": "鈴木愛理",
+  "releaseDate": "2019/09/04",
+  "label": "zetima",
+  "images": [
+    "/images/5d8d1e18a2498fb6f665c33b82f4381077a9d698.jpg",
+    "/images/cae9eb45adfa44ca2d2c8ba1246e6a2674bce9cc.jpg",
+    "/images/d9063edc420f37425742b05923bf6e3eae9772dc.jpg",
+    "/images/e4cc5bbf9fb559f39d506f2d2d821ad502526d7c.jpg",
+    "/images/42e2e2adb4f6692c1601b7701306421d94dc0e08.jpg",
+    "/images/9caa44f6748accff491731b2f1125bcae6da0934.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/5d8d1e18a2498fb6f665c33b82f4381077a9d698.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7513",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Escape",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "唐沢美帆",
+                "作曲": "原一博",
+                "編曲": "原一博"
+              }
+            },
+            {
+              "index": 2,
+              "title": "IDENTITY",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "しほり",
+                "作曲": "しほり",
+                "編曲": "akkin"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Escape(Instrumental)",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "唐沢美帆",
+                "作曲": "原一博",
+                "編曲": "原一博"
+              }
+            },
+            {
+              "index": 4,
+              "title": "IDENTITY(Instrumental)",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "しほり",
+                "作曲": "しほり",
+                "編曲": "akkin"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/cae9eb45adfa44ca2d2c8ba1246e6a2674bce9cc.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7515",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Escape(Music Video)",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "唐沢美帆",
+                "作曲": "原一博"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/images/d9063edc420f37425742b05923bf6e3eae9772dc.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7517",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Escape",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "唐沢美帆",
+                "作曲": "原一博",
+                "編曲": "原一博"
+              }
+            },
+            {
+              "index": 2,
+              "title": "IDENTITY",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "しほり",
+                "作曲": "しほり",
+                "編曲": "akkin"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Escape(Instrumental)",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "唐沢美帆",
+                "作曲": "原一博",
+                "編曲": "原一博"
+              }
+            },
+            {
+              "index": 4,
+              "title": "IDENTITY(Instrumental)",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "しほり",
+                "作曲": "しほり",
+                "編曲": "akkin"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/e4cc5bbf9fb559f39d506f2d2d821ad502526d7c.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7519",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "IDENTITY(Music Video)",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "しほり",
+                "作曲": "しほり"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/42e2e2adb4f6692c1601b7701306421d94dc0e08.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7520",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Escape",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "唐沢美帆",
+                "作曲": "原一博",
+                "編曲": "原一博"
+              }
+            },
+            {
+              "index": 2,
+              "title": "IDENTITY",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "しほり",
+                "作曲": "しほり",
+                "編曲": "akkin"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Escape(Instrumental)",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "唐沢美帆",
+                "作曲": "原一博",
+                "編曲": "原一博"
+              }
+            },
+            {
+              "index": 4,
+              "title": "IDENTITY(Instrumental)",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "しほり",
+                "作曲": "しほり",
+                "編曲": "akkin"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/images/9caa44f6748accff491731b2f1125bcae6da0934.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7521",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Escape(Dance Shot Ver.)",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "唐沢美帆",
+                "作曲": "原一博"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

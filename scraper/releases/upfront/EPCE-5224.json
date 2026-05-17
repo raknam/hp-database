@@ -1,0 +1,102 @@
+{
+  "code": "EPCE-5224",
+  "url": "/release/detail/EPCE-5224/",
+  "source": "upfront",
+  "title": "シャボン玉",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2003/07/30",
+  "label": "zetima",
+  "images": [
+    "/images/5ec868654c2586bd833a877ab4608fac2b5cc403.jpg",
+    "/images/7480fd20500e5f3b3581f0db91a0c00eea4e03c4.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回限定盤】",
+      "image": "/images/5ec868654c2586bd833a877ab4608fac2b5cc403.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5224",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "シャボン玉",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "涙にはしたくない",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "シャボン玉(Instrumental)",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/7480fd20500e5f3b3581f0db91a0c00eea4e03c4.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5225",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "シャボン玉",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "涙にはしたくない",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "シャボン玉(Instrumental)",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

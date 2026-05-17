@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1569",
+  "url": "/release/detail/UFDL-1569/",
+  "source": "upfront",
+  "title": "一生☆キミ推し",
+  "category": "配信",
+  "artist": "鈴木愛理",
+  "releaseDate": "2025/10/16",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/25cffedba83168fce2965534604cf448674cd6de.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/25cffedba83168fce2965534604cf448674cd6de.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1569",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "一生☆キミ推し",
+              "duration": "02:45",
+              "credits": {
+                "作詞": "大石昌良",
+                "作曲": "大石昌良",
+                "編曲": "大石昌良"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

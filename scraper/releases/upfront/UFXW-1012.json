@@ -1,0 +1,111 @@
+{
+  "code": "UFXW-1012",
+  "url": "/release/detail/UFXW-1012/",
+  "source": "upfront",
+  "title": "SAYUMINGLANDOLL～東京～",
+  "category": "BD",
+  "artist": "道重さゆみ",
+  "releaseDate": "2019/11/20",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/4840e89bb0283ac40ba32178e6b913fa71fcbc16.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/4840e89bb0283ac40ba32178e6b913fa71fcbc16.jpg",
+      "price": "￥6,200 (税抜価格 ￥5,636)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "UFXW-1012",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "05:13"
+            },
+            {
+              "index": 2,
+              "title": "渋谷",
+              "duration": "03:59"
+            },
+            {
+              "index": 3,
+              "title": "出発",
+              "duration": "06:11"
+            },
+            {
+              "index": 4,
+              "title": "原宿",
+              "duration": "05:01"
+            },
+            {
+              "index": 5,
+              "title": "秋葉原",
+              "duration": "04:19"
+            },
+            {
+              "index": 6,
+              "title": "新宿",
+              "duration": "04:23"
+            },
+            {
+              "index": 7,
+              "title": "浅草",
+              "duration": "09:45"
+            },
+            {
+              "index": 8,
+              "title": "銀座",
+              "duration": "04:44"
+            },
+            {
+              "index": 9,
+              "title": "六本木",
+              "duration": "02:51"
+            },
+            {
+              "index": 10,
+              "title": "どこにいるの？",
+              "duration": "02:35"
+            },
+            {
+              "index": 11,
+              "title": "さようなら",
+              "duration": "04:37"
+            },
+            {
+              "index": 12,
+              "title": "ずっと一緒だよ",
+              "duration": "10:11"
+            },
+            {
+              "index": 13,
+              "title": "トーク【ENCORE】",
+              "duration": "09:54"
+            },
+            {
+              "index": 14,
+              "title": "歩いてる(updated)【ENCORE】",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 15,
+              "title": "彼と一緒にお店がしたい！【ENCORE】",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

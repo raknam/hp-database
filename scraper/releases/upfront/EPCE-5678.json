@@ -1,0 +1,66 @@
+{
+  "code": "EPCE-5678",
+  "url": "/release/detail/EPCE-5678/",
+  "source": "upfront",
+  "title": "雨/渡良瀬橋",
+  "category": "CDシングル",
+  "artist": "森高千里",
+  "releaseDate": "2009/11/25",
+  "label": "zetima",
+  "images": [
+    "/images/88fccad42ca2fa067b10f136d8b95935648e4786.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/88fccad42ca2fa067b10f136d8b95935648e4786.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5678",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "雨(as right as rain mix)",
+              "duration": "04:59",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "松浦誠二"
+              }
+            },
+            {
+              "index": 2,
+              "title": "渡良瀬橋",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "斉藤英夫",
+                "編曲": "斉藤英夫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "雨(as right as rain mix)-instrumental-",
+              "duration": "04:59",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "松浦誠二"
+              }
+            },
+            {
+              "index": 4,
+              "title": "渡良瀬橋-instrumental-",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "斉藤英夫",
+                "編曲": "斉藤英夫"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "code": "UFBW-2003",
+  "url": "/release/detail/UFBW-2003/",
+  "source": "upfront",
+  "title": "“鈴木愛理写真集「CLEAR」” メイキングDVD 〜特別編集版〜",
+  "category": "DVD",
+  "artist": "鈴木愛理",
+  "releaseDate": "2008/01/28",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/534dcd957f5aecc2b9507ae208341b9337f8b134.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/534dcd957f5aecc2b9507ae208341b9337f8b134.jpg",
+      "price": "￥2,750 (税抜価格 ￥2,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2003",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "グアム 〜スペイン広場〜",
+              "duration": "04:45"
+            },
+            {
+              "index": 2,
+              "title": "バーベキュー",
+              "duration": "03:26"
+            },
+            {
+              "index": 3,
+              "title": "ビーチ",
+              "duration": "08:21"
+            },
+            {
+              "index": 4,
+              "title": "散歩",
+              "duration": "03:24"
+            },
+            {
+              "index": 5,
+              "title": "ガーデン",
+              "duration": "06:07"
+            },
+            {
+              "index": 6,
+              "title": "パーキング",
+              "duration": "03:33"
+            },
+            {
+              "index": 7,
+              "title": "ショッピング",
+              "duration": "04:22"
+            },
+            {
+              "index": 8,
+              "title": "ルーム",
+              "duration": "07:05"
+            },
+            {
+              "index": 9,
+              "title": "海岸",
+              "duration": "02:37"
+            },
+            {
+              "index": 10,
+              "title": "風",
+              "duration": "03:01"
+            },
+            {
+              "index": 11,
+              "title": "ハーバー",
+              "duration": "01:31"
+            },
+            {
+              "index": 12,
+              "title": "エンディングトーク",
+              "duration": "01:44"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

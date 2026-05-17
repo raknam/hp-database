@@ -1,0 +1,105 @@
+{
+  "code": "POCS-9081",
+  "url": "/release/detail/POCS-9081/",
+  "source": "upfront",
+  "title": "花",
+  "category": "CDシングル",
+  "artist": "吉川友",
+  "releaseDate": "2015/05/06",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/a5b03e766e7c415b1c22b3b375196fce387a13bb.jpg",
+    "/images/93731f46e541a94b50c8f305508e8ddaef488efc.jpg",
+    "/images/67daddc6076ac23ed6f0a9d40aeec09dd54b2ba8.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/a5b03e766e7c415b1c22b3b375196fce387a13bb.jpg",
+      "price": "￥1,731 (税抜価格 ￥1,574)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "POCS-9081",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "花",
+              "duration": "17:25",
+              "credits": {
+                "作詞": "NOBE・大森靖子・大華奈央香",
+                "作曲": "michitomo",
+                "編曲": "KOJI Oba・michitomo"
+              }
+            },
+            {
+              "index": 2,
+              "title": "花(Instrumental)",
+              "duration": "17:25",
+              "credits": {
+                "作詞": "NOBE・大森靖子・大華奈央香",
+                "作曲": "michitomo",
+                "編曲": "KOJI Oba・michitomo"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/93731f46e541a94b50c8f305508e8ddaef488efc.jpg",
+      "price": "￥1,731 (税抜価格 ￥1,574)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "POCS-9082",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "花(Music Video)",
+              "duration": "17:39",
+              "credits": {
+                "作詞": "NOBE・大森靖子・大華奈央香",
+                "作曲": "michitomo"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/67daddc6076ac23ed6f0a9d40aeec09dd54b2ba8.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "POCS-1312",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "花",
+              "duration": "17:25",
+              "credits": {
+                "作詞": "NOBE・大森靖子・大華奈央香",
+                "作曲": "michitomo",
+                "編曲": "KOJI Oba・michitomo"
+              }
+            },
+            {
+              "index": 2,
+              "title": "花(Instrumental)",
+              "duration": "17:25",
+              "credits": {
+                "作詞": "NOBE・大森靖子・大華奈央香",
+                "作曲": "michitomo",
+                "編曲": "KOJI Oba・michitomo"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

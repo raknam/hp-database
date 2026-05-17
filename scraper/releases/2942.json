@@ -1,0 +1,67 @@
+{
+  "id": 2942,
+  "url": "/release/2942/",
+  "title": "ミニモニ。でブレーメンの音楽隊 Vol.2",
+  "category": "DVD",
+  "artist": "ミニモニ｡",
+  "releaseDate": "2004.4.28",
+  "label": "zetima",
+  "images": [
+    "/upload/images/a1e155887854eca6ff2b03727a73dfc5ee8559a2.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "第5回 ネコの傘がない",
+              "duration": "24:56",
+              "credits": {
+                "出演": "ミニモニ。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "第6回 ネコに白いギター",
+              "duration": "24:56",
+              "credits": {
+                "出演": "ミニモニ。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "第7回 ネコが熱中",
+              "duration": "24:57",
+              "credits": {
+                "出演": "ミニモニ。"
+              }
+            },
+            {
+              "index": 4,
+              "title": "第8回 ネコで大逆転！",
+              "duration": "25:06",
+              "credits": {
+                "出演": "ミニモニ。"
+              }
+            },
+            {
+              "index": 1,
+              "title": "ミニモニ。「ラッキーチャチャチャ！」クリップ撮影現場密着取材★その2",
+              "duration": "04:05",
+              "credits": {
+                "出演": "ミニモニ。"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5122"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": 46,
+  "url": "/release/46/",
+  "title": "ハロー!SATOYAMAライフ Vol.26",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2014.5.14",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/e5fc38b2d6983ec83bf4927761310ba89763e4a4.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "埼玉日帰り 里山巡り",
+              "duration": "28:20",
+              "credits": {
+                "出演": "矢島舞美・中島早貴(℃-ute)/竹内朱莉(スマイレージ)/宮崎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Berryz工房「もっとずっと一緒に居たかった」MV撮影に密着",
+              "duration": "09:27",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 3,
+              "title": "Juice=Juice「イジワルしないで 抱きしめてよ」MV撮影に密着",
+              "duration": "16:51",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "Juice=Juice「初めてを経験中」MV撮影に密着",
+              "duration": "12:03",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 5,
+              "title": "スマイレージ「ええか！？」MV撮影に密着",
+              "duration": "05:33",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1333"
+        }
+      ]
+    }
+  ]
+}

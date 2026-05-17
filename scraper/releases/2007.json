@@ -1,0 +1,46 @@
+{
+  "id": 2007,
+  "url": "/release/2007/",
+  "title": "シングルV「オトナになるって難しい！！！」",
+  "category": "DVDシングルV",
+  "artist": "スマイレージ",
+  "releaseDate": "2010.4.14",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/3055b33630fa806d2be7a5a0ed182a709000e06f.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オトナになるって難しい！！！",
+              "duration": "03:13",
+              "suffix": "(MUSIC CLIP)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "メイキング映像",
+              "duration": "12:10",
+              "credits": {
+                "出演": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "TGBS-4984"
+        }
+      ]
+    }
+  ]
+}

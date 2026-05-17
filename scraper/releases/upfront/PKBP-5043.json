@@ -1,0 +1,78 @@
+{
+  "code": "PKBP-5043",
+  "url": "/release/detail/PKBP-5043/",
+  "source": "upfront",
+  "title": "Berryz工房シングルVクリップス②",
+  "category": "DVD",
+  "artist": "Berryz工房",
+  "releaseDate": "2006/02/22",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/653b3051f267b7d28ede6788004844c6883cc284.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/653b3051f267b7d28ede6788004844c6883cc284.jpg",
+      "price": "￥3,080 (税抜価格 ￥2,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5043",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "00:06"
+            },
+            {
+              "index": 2,
+              "title": "スッペシャル ジェネレ〜ション",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "なんちゅう恋をやってるぅ YOU KNOW？",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "21時までのシンデレラ",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ギャグ100回分愛してください",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ギャグ100回分愛してください(Close-up Ver.)",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

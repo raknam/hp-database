@@ -1,0 +1,61 @@
+{
+  "id": 2608,
+  "url": "/release/2608/",
+  "title": "母と娘のデュエットソング",
+  "category": "CDシングル",
+  "artist": "おけいさんと安倍なつみ",
+  "releaseDate": "2003.5.1",
+  "label": "hachama",
+  "images": [
+    "/upload/images/142fbb775d9af524c2037c2d20a3a2d7735eb8db.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "母と娘のデュエットソング",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "小室等",
+                "編曲": "小西貴雄",
+                "歌": "おけいさんと安倍なつみ(モーニング娘。)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "小室等",
+                "編曲": "小西貴雄",
+                "歌": "おけいさんと安倍なつみ(モーニング娘。)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "母と娘のデュエットソング",
+              "duration": "04:24",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "小室等",
+                "編曲": "小西貴雄",
+                "歌": "おけいさんと安倍なつみ(モーニング娘。)"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50010"
+        }
+      ]
+    }
+  ]
+}

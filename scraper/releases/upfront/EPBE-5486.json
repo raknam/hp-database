@@ -1,0 +1,58 @@
+{
+  "code": "EPBE-5486",
+  "url": "/release/detail/EPBE-5486/",
+  "source": "upfront",
+  "title": "どんなことがあっても/忘れてしまえよ 許してしまえよ",
+  "category": "DVD",
+  "artist": "中島卓偉",
+  "releaseDate": "2014/07/16",
+  "label": "zetima",
+  "images": [
+    "/images/60b1ed4a28e852223ba6989e0798a1c9c127304f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/60b1ed4a28e852223ba6989e0798a1c9c127304f.jpg",
+      "price": "￥2,241 (税抜価格 ￥2,037)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5486",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "どんなことがあっても(Music Video)",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 2,
+              "title": "忘れてしまえよ 許してしまえよ(Music Video)",
+              "duration": "05:22",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Special Interview",
+              "duration": "08:56"
+            },
+            {
+              "index": 4,
+              "title": "Secret Music Video",
+              "duration": "03:15"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

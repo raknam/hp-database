@@ -1,0 +1,85 @@
+{
+  "id": 3865,
+  "url": "/release/3865/",
+  "title": "ケンチャナ ～大丈夫～",
+  "category": "カセットテープシングル",
+  "artist": "前田有紀",
+  "releaseDate": "2009.2.25",
+  "label": "ライスミュージック",
+  "images": [
+    "/upload/images/3732d6a50e3ba9e655b9d174e77688c016e8e1a9.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CASSETTE",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ケンチャナ ～大丈夫～",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "Yoo,HaeJoon",
+                "編曲": "矢野立美",
+                "歌": "前田有紀"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ソウルの雨",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "Yoo,HaeJoon",
+                "編曲": "矢野立美",
+                "歌": "前田有紀"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ケンチャナ ～大丈夫～",
+              "duration": "04:07",
+              "suffix": "(オリジナル・カラオケ)",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "Yoo,HaeJoon",
+                "編曲": "矢野立美",
+                "歌": "前田有紀"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ケンチャナ ～大丈夫～",
+              "duration": "04:07",
+              "suffix": "(半音下げ・カラオケ)",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "Yoo,HaeJoon",
+                "編曲": "矢野立美",
+                "歌": "前田有紀"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ソウルの雨",
+              "duration": "04:02",
+              "suffix": "(オリジナル・カラオケ)",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "Yoo,HaeJoon",
+                "編曲": "矢野立美",
+                "歌": "前田有紀"
+              }
+            }
+          ],
+          "catalogNo": "PKSP-2043"
+        }
+      ]
+    }
+  ]
+}

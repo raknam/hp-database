@@ -1,0 +1,53 @@
+{
+  "code": "UFBW-2048",
+  "url": "/release/detail/UFBW-2048/",
+  "source": "upfront",
+  "title": "RIHO",
+  "category": "DVD",
+  "artist": "鞘師里保",
+  "releaseDate": "2012/03/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/be38ae49219743e5e1590ab6f6449f02894bd095.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/be38ae49219743e5e1590ab6f6449f02894bd095.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2048",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "new day",
+              "duration": "14:07"
+            },
+            {
+              "index": 2,
+              "title": "way to school",
+              "duration": "12:20"
+            },
+            {
+              "index": 3,
+              "title": "warm time",
+              "duration": "08:02"
+            },
+            {
+              "index": 4,
+              "title": "interview",
+              "duration": "16:28"
+            },
+            {
+              "index": 5,
+              "title": "ending",
+              "duration": "01:06"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

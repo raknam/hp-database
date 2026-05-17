@@ -1,0 +1,109 @@
+{
+  "id": 3422,
+  "url": "/release/3422/",
+  "title": "ハッピー☆彡",
+  "category": "CDシングル",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "releaseDate": "2007.5.2",
+  "label": "zetima",
+  "images": [
+    "/upload/images/fb68500a3b2edabcf29a9eb87c3631f3c5b05ceb.webp",
+    "/upload/images/34a9de71f9a50a9f256468586806db4edae02bad.webp"
+  ],
+  "editions": [
+    {
+      "name": "【完全生産限定盤】",
+      "image": "/upload/images/fb68500a3b2edabcf29a9eb87c3631f3c5b05ceb.webp",
+      "price": "定価 ￥1,320（税抜価格 ￥1,200）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ハッピー☆彡",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "BOUNCEBACK",
+                "作曲": "BOUNCEBACK",
+                "編曲": "BOUNCEBACK",
+                "歌": "月島きらり starring 久住小春"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋の魔法はハビビのビ！",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "すやまちえこ+吉田勝弥",
+                "作曲": "吉田勝弥",
+                "編曲": "吉田勝弥",
+                "歌": "月島きらり starring 久住小春"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ハッピー☆彡",
+              "duration": "03:54",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "BOUNCEBACK",
+                "作曲": "BOUNCEBACK",
+                "編曲": "BOUNCEBACK",
+                "歌": "月島きらり starring 久住小春"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5469"
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/34a9de71f9a50a9f256468586806db4edae02bad.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ハッピー☆彡",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "BOUNCEBACK",
+                "作曲": "BOUNCEBACK",
+                "編曲": "BOUNCEBACK",
+                "歌": "月島きらり starring 久住小春"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋の魔法はハビビのビ！",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "すやまちえこ+吉田勝弥",
+                "作曲": "吉田勝弥",
+                "編曲": "吉田勝弥",
+                "歌": "月島きらり starring 久住小春"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ハッピー☆彡",
+              "duration": "03:54",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "BOUNCEBACK",
+                "作曲": "BOUNCEBACK",
+                "編曲": "BOUNCEBACK",
+                "歌": "月島きらり starring 久住小春"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5470"
+        }
+      ]
+    }
+  ]
+}

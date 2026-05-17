@@ -1,0 +1,138 @@
+{
+  "code": "EPCE-5361",
+  "url": "/release/detail/EPCE-5361/",
+  "source": "upfront",
+  "title": "タイプ2",
+  "category": "CDアルバム",
+  "artist": "つんく♂",
+  "releaseDate": "2005/07/13",
+  "label": "zetima",
+  "images": [
+    "/images/aef3a4ee1ee504a08602d5db704b7e38dcc0df20.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/aef3a4ee1ee504a08602d5db704b7e38dcc0df20.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5361",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "FOREVER～あなたに会いたい～",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "大野愛果",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "愛エピローグ",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Memory 青春の光",
+              "duration": "05:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 4,
+              "title": "あなたに",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "松井五郎",
+                "作曲": "玉置浩二",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Just The Way You Are",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "BillyJoel",
+                "作曲": "BillyJoel",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 6,
+              "title": "大阪 恋の歌",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 7,
+              "title": "さよならの向う側",
+              "duration": "05:47",
+              "credits": {
+                "作詞": "阿木燿子",
+                "作曲": "宇崎竜童",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 8,
+              "title": "YOUR SONG ～青春宣誓～",
+              "duration": "05:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 9,
+              "title": "シャイニン・オン君が哀しい",
+              "duration": "04:54",
+              "credits": {
+                "作詞": "千沢仁",
+                "作曲": "千沢仁",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 10,
+              "title": "おふくろの子守歌",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 11,
+              "title": "お・や・す・み",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "飛鳥涼",
+                "作曲": "飛鳥涼",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

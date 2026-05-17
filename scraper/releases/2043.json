@@ -1,0 +1,26 @@
+{
+  "id": 2043,
+  "url": "/release/2043/",
+  "title": "SAKI Saki Shimizu 1st DVD",
+  "category": "DVD",
+  "artist": "清水佐紀",
+  "releaseDate": "2011.1.11",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/a3b566055113abbdc806ca974941b41e43ee2dc0.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [],
+          "catalogNo": "UFBW-1053"
+        }
+      ]
+    }
+  ]
+}

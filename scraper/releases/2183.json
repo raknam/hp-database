@@ -1,0 +1,67 @@
+{
+  "id": 2183,
+  "url": "/release/2183/",
+  "title": "VIVID FLOWER",
+  "category": "DVD",
+  "artist": "和田彩花",
+  "releaseDate": "2013.2.14",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/e8fae2cfc793f817e322aa836658c5d92dd35cc6.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Slowly it begins",
+              "duration": "14:14",
+              "credits": {
+                "出演": "和田彩花(スマイレージ)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Touch of Autumn",
+              "duration": "10:48",
+              "credits": {
+                "出演": "和田彩花(スマイレージ)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Breeze of Seashore",
+              "duration": "12:08",
+              "credits": {
+                "出演": "和田彩花(スマイレージ)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Warm Sunset",
+              "duration": "13:05",
+              "credits": {
+                "出演": "和田彩花(スマイレージ)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "01:14",
+              "credits": {
+                "出演": "和田彩花(スマイレージ)"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-2076"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": 343,
+  "url": "/release/343/",
+  "title": "それゆけ！ゴロッキーズ 〜ハッピーライフ〜 EXTRA",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2004.12.8",
+  "label": "zetima",
+  "images": [
+    "/upload/images/c5fbaad76aed7ee5dfa5bc079ff4c32ee255a8cd.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "EXTRA1 ｢人生とは仮想することだ！｣",
+              "duration": "16:52",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "EXTRA2 ｢人生とは推理することだ！｣",
+              "duration": "05:56",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 3,
+              "title": "｢人生とは推理することだ！｣未公開映像",
+              "duration": "04:24",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "EXTRA3 未公開映像｢人生とは時間厳守だ！｣",
+              "duration": "22:28",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 5,
+              "title": "EXTRA4 未公開映像｢人生にはことわざが必要だ！｣",
+              "duration": "25:51",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 6,
+              "title": "特典映像 ｢総集編〜お好み焼きパーティー｣",
+              "duration": "27:58",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5157"
+        }
+      ]
+    }
+  ]
+}

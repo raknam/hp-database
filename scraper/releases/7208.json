@@ -1,0 +1,697 @@
+{
+  "id": 7208,
+  "url": "/release/7208/",
+  "title": "灰toダイヤモンド/Go City Go/フックの法則",
+  "category": "CDシングル",
+  "artist": "BEYOOOOONDS",
+  "releaseDate": "2024.5.29",
+  "label": "zetima",
+  "images": [
+    "/upload/images/fe014209c40cf9cc78fdbc633c41048d66560bbf.webp",
+    "/upload/images/f2efa09f3822448a0502f3d425b9137622004a67.webp",
+    "/upload/images/33dee59672e627e53ad4fd63202e8fc0d3e7715a.webp",
+    "/upload/images/d5a889a63f0e35ec4ab616d27f8db0e3e9a9e0e9.webp",
+    "/upload/images/22a5f99bde3fe787dd3d2e8e1a5c79710b0a490d.webp",
+    "/upload/images/b3aab9effdc21fa4b780fbc4a883573d67ac9c09.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/fe014209c40cf9cc78fdbc633c41048d66560bbf.webp",
+      "price": "￥2,200（税抜価格 ￥2,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "灰toダイヤモンド",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Go City Go",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "フックの法則",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "灰toダイヤモンド",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Go City Go",
+              "duration": "04:41",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 6,
+              "title": "フックの法則",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7839"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "灰toダイヤモンド",
+              "duration": "05:39",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "灰toダイヤモンド",
+              "duration": "04:29",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "灰toダイヤモンド",
+              "duration": "17:48",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "BEYOOOOONDS"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/f2efa09f3822448a0502f3d425b9137622004a67.webp",
+      "price": "￥2,200（税抜価格 ￥2,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "灰toダイヤモンド",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Go City Go",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "フックの法則",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "灰toダイヤモンド",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Go City Go",
+              "duration": "04:41",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 6,
+              "title": "フックの法則",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7841"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Go City Go",
+              "duration": "05:27",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Go City Go",
+              "duration": "04:46",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Go City Go",
+              "duration": "18:38",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "BEYOOOOONDS"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/33dee59672e627e53ad4fd63202e8fc0d3e7715a.webp",
+      "price": "￥2,200（税抜価格 ￥2,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "灰toダイヤモンド",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Go City Go",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "フックの法則",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "灰toダイヤモンド",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Go City Go",
+              "duration": "04:41",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 6,
+              "title": "フックの法則",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7843"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "フックの法則",
+              "duration": "05:00",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "フックの法則",
+              "duration": "04:24",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "フックの法則",
+              "duration": "18:09",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "BEYOOOOONDS"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/d5a889a63f0e35ec4ab616d27f8db0e3e9a9e0e9.webp",
+      "price": "定価 ￥1,400（税抜価格 ￥1,273）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "灰toダイヤモンド",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Go City Go",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "フックの法則",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "恋する銀河",
+              "duration": "03:59",
+              "suffix": "【Additional Track】",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "加藤裕介",
+                "編曲": "加藤裕介",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 5,
+              "title": "灰toダイヤモンド",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Go City Go",
+              "duration": "04:41",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 7,
+              "title": "フックの法則",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 8,
+              "title": "恋する銀河",
+              "duration": "03:59",
+              "suffix": "【Additional Track】(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "加藤裕介",
+                "編曲": "加藤裕介",
+                "歌": "BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7845"
+        }
+      ],
+      "note": "トレーディングカードソロ11種＋集合1種よりランダムにて1枚封入(灰toダイヤモンド Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/22a5f99bde3fe787dd3d2e8e1a5c79710b0a490d.webp",
+      "price": "定価 ￥1,400（税抜価格 ￥1,273）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "灰toダイヤモンド",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Go City Go",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "フックの法則",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "WORKER讃歌",
+              "duration": "03:51",
+              "suffix": "【Additional Track】",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "小松一也",
+                "編曲": "小松一也",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 5,
+              "title": "灰toダイヤモンド",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Go City Go",
+              "duration": "04:41",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 7,
+              "title": "フックの法則",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 8,
+              "title": "WORKER讃歌",
+              "duration": "03:51",
+              "suffix": "【Additional Track】(Instrumental)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "小松一也",
+                "編曲": "小松一也",
+                "歌": "BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7846"
+        }
+      ],
+      "note": "トレーディングカードソロ11種＋集合1種よりランダムにて1枚封入(Go City Go Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/upload/images/b3aab9effdc21fa4b780fbc4a883573d67ac9c09.webp",
+      "price": "定価 ￥1,400（税抜価格 ￥1,273）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "灰toダイヤモンド",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Go City Go",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "フックの法則",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Oh！カンターレ",
+              "duration": "03:51",
+              "suffix": "【Additional Track】",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Shusui/Anders Dannvik",
+                "編曲": "Anders Dannvik/加藤裕介",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 5,
+              "title": "灰toダイヤモンド",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Go City Go",
+              "duration": "04:41",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 7,
+              "title": "フックの法則",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Oh！カンターレ",
+              "duration": "03:51",
+              "suffix": "【Additional Track】(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Shusui/Anders Dannvik",
+                "編曲": "Anders Dannvik/加藤裕介",
+                "歌": "BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7847"
+        }
+      ],
+      "note": "トレーディングカードソロ11種＋集合1種よりランダムにて1枚封入(フックの法則 Ver.)※初回プレス分のみ"
+    }
+  ]
+}

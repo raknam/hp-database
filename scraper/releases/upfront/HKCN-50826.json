@@ -1,0 +1,250 @@
+{
+  "code": "HKCN-50826",
+  "url": "/release/detail/HKCN-50826/",
+  "source": "upfront",
+  "title": "初恋の亡霊/今夜はHearty Party",
+  "category": "CDシングル",
+  "artist": "Juice=Juice",
+  "releaseDate": "2025/02/26",
+  "label": "hachama",
+  "images": [
+    "/images/7c68acab620be78325825d4ba5b642916bff10d9.jpg",
+    "/images/57423a3b457a1554ddd383742af84e0a175d3318.jpg",
+    "/images/e4259e74c7cb06134c6d783f2488c3792e220696.jpg",
+    "/images/5ea1b91b7615d822e2132dbbfda7ef08473ad1d4.jpg",
+    "/images/60ba823dc77110cee112dcd25832e7dec2286ce9.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/7c68acab620be78325825d4ba5b642916bff10d9.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50826",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "初恋の亡霊",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "KOUGA",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "今夜はHearty Party",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Aksel Odenbalk/Albin Hillborg"
+              }
+            },
+            {
+              "index": 3,
+              "title": "初恋の亡霊(Instrumental)",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "KOUGA",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "今夜はHearty Party(Instrumental)",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Aksel Odenbalk/Albin Hillborg"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/57423a3b457a1554ddd383742af84e0a175d3318.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKCN-50828",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "初恋の亡霊(Music Video)",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "KOUGA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "初恋の亡霊(Dance Shot Ver.)",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "KOUGA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "初恋の亡霊(メイキング映像)",
+              "duration": "22:51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/images/e4259e74c7cb06134c6d783f2488c3792e220696.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50830",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "初恋の亡霊",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "KOUGA",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "今夜はHearty Party",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Aksel Odenbalk/Albin Hillborg"
+              }
+            },
+            {
+              "index": 3,
+              "title": "初恋の亡霊(Instrumental)",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "KOUGA",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "今夜はHearty Party(Instrumental)",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Aksel Odenbalk/Albin Hillborg"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/5ea1b91b7615d822e2132dbbfda7ef08473ad1d4.jpg",
+      "price": "￥1,200 (税抜価格 ￥1,091)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKCN-50832",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "今夜はHearty Party(Music Video)",
+              "duration": "05:37",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや"
+              }
+            },
+            {
+              "index": 2,
+              "title": "今夜はHearty Party(Dance Shot Ver.)",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや"
+              }
+            },
+            {
+              "index": 3,
+              "title": "今夜はHearty Party(メイキング映像)",
+              "duration": "09:40"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/60ba823dc77110cee112dcd25832e7dec2286ce9.jpg",
+      "price": "￥1,200 (税抜価格 ￥1,091)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50833",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "初恋の亡霊",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "KOUGA",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "今夜はHearty Party",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Aksel Odenbalk/Albin Hillborg"
+              }
+            },
+            {
+              "index": 3,
+              "title": "初恋の亡霊(Instrumental)",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "KOUGA",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "今夜はHearty Party(Instrumental)",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Aksel Odenbalk/Albin Hillborg"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,581 @@
+{
+  "code": "EPXE-5049",
+  "url": "/release/detail/EPXE-5049/",
+  "source": "upfront",
+  "title": "Hello! Project ひなフェス 2014 〜Full コース〜＜メインディッシュはモーニング娘。’14です。＞",
+  "category": "BD",
+  "artist": "V.A.",
+  "releaseDate": "2014/07/30",
+  "label": "zetima",
+  "images": [
+    "/images/7c4fd121fd1ad176a7983635c228b60eb6170e53.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7c4fd121fd1ad176a7983635c228b60eb6170e53.jpg",
+      "price": "￥8,800 (税抜価格 ￥8,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5049",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING 〜 MC",
+              "duration": "01:55"
+            },
+            {
+              "index": 2,
+              "title": "【℃-ute】アタック映像",
+              "duration": "00:22"
+            },
+            {
+              "index": 3,
+              "title": "心の叫びを歌にしてみた",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "MC",
+              "duration": "00:54"
+            },
+            {
+              "index": 5,
+              "title": "愛ってもっと斬新",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "【Berryz工房】アタック映像",
+              "duration": "00:19"
+            },
+            {
+              "index": 7,
+              "title": "1億3千万総ダイエット王国",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 8,
+              "title": "MC",
+              "duration": "00:33"
+            },
+            {
+              "index": 9,
+              "title": "コイセヨ！",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 10,
+              "title": "【Juice=Juice】アタック映像",
+              "duration": "00:21"
+            },
+            {
+              "index": 11,
+              "title": "裸の裸の裸のKISS",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 12,
+              "title": "MC",
+              "duration": "00:10"
+            },
+            {
+              "index": 13,
+              "title": "イジワルしないで 抱きしめてよ",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 14,
+              "title": "【スマイレージ】アタック映像",
+              "duration": "00:18"
+            },
+            {
+              "index": 15,
+              "title": "ミステリーナイト！",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 16,
+              "title": "MC",
+              "duration": "00:19"
+            },
+            {
+              "index": 17,
+              "title": "「良い奴」",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 18,
+              "title": "【モーニング娘。'14】アタック映像",
+              "duration": "00:18"
+            },
+            {
+              "index": 19,
+              "title": "Password is 0",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 20,
+              "title": "MC",
+              "duration": "00:27"
+            },
+            {
+              "index": 21,
+              "title": "君の代わりは居やしない",
+              "duration": "04:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 22,
+              "title": "コーナーMC",
+              "duration": "10:25"
+            },
+            {
+              "index": 23,
+              "title": "MC",
+              "duration": "00:36"
+            },
+            {
+              "index": 24,
+              "title": "Bitter & Sweet",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "佐藤舞花",
+                "作曲": "平川達也"
+              }
+            },
+            {
+              "index": 25,
+              "title": "MC 〜 新ユニットメドレー",
+              "duration": "01:01"
+            },
+            {
+              "index": 26,
+              "title": "木立を抜ける風のように",
+              "duration": "01:48",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "山口寛雄"
+              }
+            },
+            {
+              "index": 27,
+              "title": "Dream Last Train",
+              "duration": "02:07",
+              "credits": {
+                "作詞": "アベショー",
+                "作曲": "大西克巳"
+              }
+            },
+            {
+              "index": 28,
+              "title": "嗚呼、素晴らしき日々よ",
+              "duration": "02:51",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "角田崇徳"
+              }
+            },
+            {
+              "index": 29,
+              "title": "不器用",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "飯田茉椰",
+                "作曲": "石井健太郎"
+              }
+            },
+            {
+              "index": 30,
+              "title": "BINGO",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "唐沢美帆",
+                "作曲": "原一博"
+              }
+            },
+            {
+              "index": 31,
+              "title": "MC",
+              "duration": "00:45"
+            },
+            {
+              "index": 32,
+              "title": "彼女になりたいっ！！！",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 33,
+              "title": "MC",
+              "duration": "00:23"
+            },
+            {
+              "index": 34,
+              "title": "原色GAL 派手に行くべ！",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 35,
+              "title": "オシャレ！",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5050",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "MC (モーニング娘。'14 メインディッシュ)",
+              "duration": "00:19"
+            },
+            {
+              "index": 2,
+              "title": "君さえ居れば何も要らない(updated)",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "The 摩天楼ショー",
+              "duration": "05:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "MC",
+              "duration": "00:32"
+            },
+            {
+              "index": 5,
+              "title": "みかん",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ラヴ＆ピィ〜ス！HEROがやって来たっ。",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 7,
+              "title": "MC",
+              "duration": "00:07"
+            },
+            {
+              "index": 8,
+              "title": "One･Two･Three(updated)",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 9,
+              "title": "MC",
+              "duration": "00:38"
+            },
+            {
+              "index": 10,
+              "title": "アレコレしたい",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 11,
+              "title": "ええか！？",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 12,
+              "title": "Love take it all",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 13,
+              "title": "大人なのよ！",
+              "duration": "04:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 14,
+              "title": "Help me!!(updated)",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 15,
+              "title": "MC",
+              "duration": "00:45"
+            },
+            {
+              "index": 16,
+              "title": "友情 純情 oh 青春",
+              "duration": "07:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "特典映像＜メインディッシュはスマイレージとJuice=Juiceです。＞",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5050",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "【Juice=Juice】アタック映像(メインディッシュ)",
+              "duration": "00:20"
+            },
+            {
+              "index": 2,
+              "title": "裸の裸の裸のKISS",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "MC",
+              "duration": "00:53"
+            },
+            {
+              "index": 4,
+              "title": "五月雨美女がさ乱れる(MEMORIAL EDIT)",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ロマンスの途中",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "私が言う前に抱きしめなきゃね(MEMORIAL EDIT)",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 7,
+              "title": "【スマイレージ】アタック映像(メインディッシュ)",
+              "duration": "00:19"
+            },
+            {
+              "index": 8,
+              "title": "ミステリーナイト！",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 9,
+              "title": "MC(サプライズ)",
+              "duration": "13:18"
+            },
+            {
+              "index": 10,
+              "title": "プリーズ ミニスカ ポストウーマン！",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 11,
+              "title": "恋にBooing ブー！",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 12,
+              "title": "タチアガール",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 13,
+              "title": "有頂天LOVE",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 14,
+              "title": "MC",
+              "duration": "00:42"
+            },
+            {
+              "index": 15,
+              "title": "おへその国からこんにちは",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 16,
+              "title": "MC",
+              "duration": "00:23"
+            },
+            {
+              "index": 17,
+              "title": "もしも…",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 18,
+              "title": "My alright sky",
+              "duration": "05:54",
+              "credits": {
+                "作詞": "林よしみ",
+                "作曲": "林よしみ"
+              }
+            },
+            {
+              "index": 19,
+              "title": "MC",
+              "duration": "00:22"
+            },
+            {
+              "index": 20,
+              "title": "JUMP(2012神聖なるVer.)",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "code": "UFBW-2091",
+  "url": "/release/detail/UFBW-2091/",
+  "source": "upfront",
+  "title": "Bloom",
+  "category": "DVD",
+  "artist": "中島早貴",
+  "releaseDate": "2013/10/26",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/2b624f7c80d3eafe30e37737c0e9ceca0057505c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/2b624f7c80d3eafe30e37737c0e9ceca0057505c.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2091",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "behind the glass",
+              "duration": "10:49"
+            },
+            {
+              "index": 2,
+              "title": "in the forest",
+              "duration": "09:10"
+            },
+            {
+              "index": 3,
+              "title": "a short rest",
+              "duration": "06:28"
+            },
+            {
+              "index": 4,
+              "title": "speaking eyes",
+              "duration": "13:47"
+            },
+            {
+              "index": 5,
+              "title": "Making of 「Bloom」",
+              "duration": "08:44"
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "01:07"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

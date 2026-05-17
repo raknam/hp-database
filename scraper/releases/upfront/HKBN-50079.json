@@ -1,0 +1,93 @@
+{
+  "code": "HKBN-50079",
+  "url": "/release/detail/HKBN-50079/",
+  "source": "upfront",
+  "title": "アロハロ！2 安倍なつみDVD",
+  "category": "DVD",
+  "artist": "安倍なつみ",
+  "releaseDate": "2007/03/28",
+  "label": "hachama",
+  "images": [
+    "/images/04c42e309b25bf976231a4754e4e62598476efa6.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/04c42e309b25bf976231a4754e4e62598476efa6.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKBN-50079",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "00:51"
+            },
+            {
+              "index": 2,
+              "title": "Dolphin Swim",
+              "duration": "09:10"
+            },
+            {
+              "index": 3,
+              "title": "Open Car-1",
+              "duration": "06:03"
+            },
+            {
+              "index": 4,
+              "title": "Spiritual Cleansing",
+              "duration": "08:55"
+            },
+            {
+              "index": 5,
+              "title": "Beach Break-1",
+              "duration": "04:24"
+            },
+            {
+              "index": 6,
+              "title": "Night Flight",
+              "duration": "07:07"
+            },
+            {
+              "index": 7,
+              "title": "Open Car-2",
+              "duration": "04:42"
+            },
+            {
+              "index": 8,
+              "title": "Lunch",
+              "duration": "07:01"
+            },
+            {
+              "index": 9,
+              "title": "Open Car-3",
+              "duration": "02:43"
+            },
+            {
+              "index": 10,
+              "title": "Shopping",
+              "duration": "05:31"
+            },
+            {
+              "index": 11,
+              "title": "Beach Break-2",
+              "duration": "04:14"
+            },
+            {
+              "index": 12,
+              "title": "Dinner Cruise",
+              "duration": "06:44"
+            },
+            {
+              "index": 13,
+              "title": "Ending",
+              "duration": "01:26"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": 40,
+  "url": "/release/40/",
+  "title": "Rina to Rina",
+  "category": "DVD",
+  "artist": "勝田里奈",
+  "releaseDate": "2014.3.17",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/4005c5fb5cb623417366313ef392185b5ca9b208.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "00:21",
+              "credits": {
+                "出演": "勝田里奈"
+              }
+            },
+            {
+              "index": 2,
+              "title": "School Girl ＆ Interview",
+              "duration": "15:29",
+              "credits": {
+                "出演": "勝田里奈"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Natural",
+              "duration": "11:40",
+              "credits": {
+                "出演": "勝田里奈"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Cool",
+              "duration": "13:01",
+              "credits": {
+                "出演": "勝田里奈"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Interview",
+              "duration": "08:02",
+              "credits": {
+                "出演": "勝田里奈"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "01:31",
+              "credits": {
+                "出演": "勝田里奈"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-2099"
+        }
+      ]
+    }
+  ]
+}

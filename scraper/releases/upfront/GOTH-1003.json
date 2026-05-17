@@ -1,0 +1,58 @@
+{
+  "code": "GOTH-1003",
+  "url": "/release/detail/GOTH-1003/",
+  "source": "upfront",
+  "title": "ピアス",
+  "category": "CDシングル",
+  "artist": "GaGaalinG",
+  "releaseDate": "2008/02/06",
+  "label": "GOTHUALL",
+  "images": [
+    "/images/cbc2d6a894c13749f5a8f9eff0710aac08fa6e4e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/cbc2d6a894c13749f5a8f9eff0710aac08fa6e4e.jpg",
+      "price": "￥550 (税抜価格 ￥500)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "GOTH-1003",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ピアス pierced pleasures",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "GaGaalinG",
+                "作曲": "GaGaalinG",
+                "編曲": "GaGaalinG"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Twisted Heart",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "GaGaalinG",
+                "作曲": "GaGaalinG",
+                "編曲": "GaGaalinG"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ピアス pierced pleasures(voiceless version)",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "GaGaalinG",
+                "作曲": "GaGaalinG",
+                "編曲": "GaGaalinG"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

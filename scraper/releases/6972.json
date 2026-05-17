@@ -1,0 +1,91 @@
+{
+  "id": 6972,
+  "url": "/release/6972/",
+  "title": "Hello! Projectが行く！ナルチカ日帰り里山旅2023",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2023.4.1",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/b7b3b3cb061911c5b9ab8d0601a4cad0a1bd3f98.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "10:06",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "人力車①",
+              "duration": "02:44",
+              "credits": {
+                "出演": "伊勢鈴蘭・入江里咲・西田汐里・筒井澪心"
+              }
+            },
+            {
+              "index": 3,
+              "title": "蔵造り探訪",
+              "duration": "02:09",
+              "credits": {
+                "出演": "山﨑愛生・工藤由愛・八木栞・米村姫良々"
+              }
+            },
+            {
+              "index": 4,
+              "title": "人力車②",
+              "duration": "03:00",
+              "credits": {
+                "出演": "伊勢鈴蘭・入江里咲・西田汐里・筒井澪心"
+              }
+            },
+            {
+              "index": 5,
+              "title": "だるまの絵付け",
+              "duration": "03:18",
+              "credits": {
+                "出演": "山﨑愛生・工藤由愛・八木栞・米村姫良々"
+              }
+            },
+            {
+              "index": 6,
+              "title": "弁天横丁",
+              "duration": "02:46",
+              "credits": {
+                "出演": "伊勢鈴蘭・入江里咲・西田汐里・筒井澪心"
+              }
+            },
+            {
+              "index": 7,
+              "title": "人力車チーム おまけ",
+              "duration": "06:08",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 8,
+              "title": "蔵造り探訪チーム おまけ",
+              "duration": "07:33",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1670"
+        }
+      ]
+    }
+  ]
+}

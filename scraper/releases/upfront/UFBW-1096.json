@@ -1,0 +1,68 @@
+{
+  "code": "UFBW-1096",
+  "url": "/release/detail/UFBW-1096/",
+  "source": "upfront",
+  "title": "美女学 Vol.11",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2011/06/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/81cfa30887dda241902d1d8efa5e4726afe25c63.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/81cfa30887dda241902d1d8efa5e4726afe25c63.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1096",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Lesson1 韓国の食べ物を課外授業",
+              "duration": "12:53"
+            },
+            {
+              "index": 2,
+              "title": "Lesson2 韓国の食習慣を課外授業",
+              "duration": "13:09"
+            },
+            {
+              "index": 3,
+              "title": "Lesson3 ディープな韓国を課外授業",
+              "duration": "11:43"
+            },
+            {
+              "index": 4,
+              "title": "Lesson1 ランニングを課外授業",
+              "duration": "11:44"
+            },
+            {
+              "index": 5,
+              "title": "Lesson2 ランニンググッズを課外授業",
+              "duration": "16:26"
+            },
+            {
+              "index": 6,
+              "title": "Lesson3 走り方を課外授業",
+              "duration": "10:47"
+            },
+            {
+              "index": 7,
+              "title": "韓国を課外授業 反省会",
+              "duration": "02:50"
+            },
+            {
+              "index": 8,
+              "title": "ランニングを課外授業 反省会",
+              "duration": "02:57"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": 2190,
+  "url": "/release/2190/",
+  "title": "遥 -thirteen-",
+  "category": "DVD",
+  "artist": "工藤遥",
+  "releaseDate": "2013.5.16",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/fcc5927567d315e4730542d3fcb7722cb3a17304.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "00:46",
+              "credits": {
+                "出演": "工藤 遥(モーニング娘。)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Little Spring",
+              "duration": "14:45",
+              "credits": {
+                "出演": "工藤 遥(モーニング娘。)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Two One Piece",
+              "duration": "17:54",
+              "credits": {
+                "出演": "工藤 遥(モーニング娘。)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Favorite Time",
+              "duration": "12:53",
+              "credits": {
+                "出演": "工藤 遥(モーニング娘。)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "01:36",
+              "credits": {
+                "出演": "工藤 遥(モーニング娘。)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Making",
+              "duration": "02:04",
+              "credits": {
+                "出演": "工藤 遥(モーニング娘。)"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-2083"
+        }
+      ]
+    }
+  ]
+}

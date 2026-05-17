@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1581",
+  "url": "/release/detail/UFDL-1581/",
+  "source": "upfront",
+  "title": "ワッチャ☆フューチャー",
+  "category": "配信",
+  "artist": "DECA！BEAT",
+  "releaseDate": "2026/03/11",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/4389e593bee11c8cb8530a618c71c619333e1799.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/4389e593bee11c8cb8530a618c71c619333e1799.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1581",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ワッチャ☆フューチャー",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

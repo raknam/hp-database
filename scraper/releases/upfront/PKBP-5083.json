@@ -1,0 +1,114 @@
+{
+  "code": "PKBP-5083",
+  "url": "/release/detail/PKBP-5083/",
+  "source": "upfront",
+  "title": "銀河鉄道物語～永遠への分岐点～ 第2集",
+  "category": "DVD",
+  "artist": "アニメーション",
+  "releaseDate": "2007/08/22",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/152bf96da2a29f73290f0b46f4c5bb51da4319dc.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/152bf96da2a29f73290f0b46f4c5bb51da4319dc.jpg",
+      "price": "￥20,743 (税抜価格 ￥18,857)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5083",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "第９話 明日へ続く道",
+              "duration": "23:08"
+            },
+            {
+              "index": 2,
+              "title": "第10話 葬られた未来",
+              "duration": "23:08"
+            },
+            {
+              "index": 3,
+              "title": "第11話 誰かための誇り",
+              "duration": "23:08"
+            },
+            {
+              "index": 4,
+              "title": "銀河の車窓から ④",
+              "duration": "12:14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5084",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "第12話 魂の翼",
+              "duration": "23:08"
+            },
+            {
+              "index": 2,
+              "title": "第13話 SDF、絶対絶命",
+              "duration": "23:08"
+            },
+            {
+              "index": 3,
+              "title": "第14話 SDF、絶対絶命(後編)",
+              "duration": "23:08"
+            },
+            {
+              "index": 4,
+              "title": "銀河の車窓から ⑤",
+              "duration": "13:29"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5085",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "第15話 つかの間の幸福",
+              "duration": "23:08"
+            },
+            {
+              "index": 2,
+              "title": "第16話 招かれざる漂流者",
+              "duration": "23:08"
+            },
+            {
+              "index": 3,
+              "title": "銀河の車窓から ⑥",
+              "duration": "12:31"
+            },
+            {
+              "index": 4,
+              "title": "第26話 我が心のシリウス小隊",
+              "duration": "23:09"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

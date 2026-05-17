@@ -1,0 +1,75 @@
+{
+  "id": 2266,
+  "url": "/release/2266/",
+  "title": "颯夏 ‐souka‐",
+  "category": "DVD",
+  "artist": "石田亜佑美",
+  "releaseDate": "2014.7.2",
+  "label": "zetima",
+  "images": [
+    "/upload/images/3ed78ab8a7ad550b79133caff853a505a19b64b1.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "THE OPENING",
+              "duration": "00:21",
+              "credits": {
+                "出演": "石田亜佑美"
+              }
+            },
+            {
+              "index": 2,
+              "title": "THE LODGE",
+              "duration": "06:52",
+              "credits": {
+                "出演": "石田亜佑美"
+              }
+            },
+            {
+              "index": 3,
+              "title": "THE BEACH",
+              "duration": "14:13",
+              "credits": {
+                "出演": "石田亜佑美"
+              }
+            },
+            {
+              "index": 4,
+              "title": "THE SUNSET",
+              "duration": "13:47",
+              "credits": {
+                "出演": "石田亜佑美"
+              }
+            },
+            {
+              "index": 5,
+              "title": "THE MAKING OF 『shine more』",
+              "duration": "16:48",
+              "credits": {
+                "出演": "石田亜佑美"
+              }
+            },
+            {
+              "index": 6,
+              "title": "THE ENDING",
+              "duration": "02:30",
+              "credits": {
+                "出演": "石田亜佑美"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5488"
+        }
+      ]
+    }
+  ]
+}

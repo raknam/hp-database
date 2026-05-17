@@ -1,0 +1,73 @@
+{
+  "id": 1169,
+  "url": "/release/1169/",
+  "title": "16歳の恋なんて",
+  "category": "CDシングル",
+  "artist": "安倍なつみ＆矢島舞美",
+  "releaseDate": "2008.1.16",
+  "label": "hachama",
+  "images": [
+    "/upload/images/6bb3dceff55e178e179e502f102523e5c93657b1.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "16歳の恋なんて",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "添田啓二・KAN",
+                "歌": "安倍なつみ&矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "私の恋人なのに",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "小林信吾・KAN",
+                "歌": "安倍なつみ&矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "16歳の恋なんて",
+              "duration": "04:16",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "添田啓二・KAN",
+                "歌": "安倍なつみ&矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "私の恋人なのに",
+              "duration": "03:49",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "小林信吾・KAN",
+                "歌": "安倍なつみ&矢島舞美(℃-ute)"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50061"
+        }
+      ]
+    }
+  ]
+}

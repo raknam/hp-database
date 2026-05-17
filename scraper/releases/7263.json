@@ -1,0 +1,680 @@
+{
+  "id": 7263,
+  "url": "/release/7263/",
+  "title": "なんだかセンチメンタルな時の歌/最KIYOU",
+  "category": "CDシングル",
+  "artist": "モーニング娘。'24",
+  "releaseDate": "2024.8.14",
+  "label": "zetima",
+  "images": [
+    "/upload/images/36b4a330f9f92f041996c5443f00b2569f85b0e3.webp",
+    "/upload/images/a91b8fd24f3306ff6b3ee9f4bab18e6ae34dc4db.webp",
+    "/upload/images/9a029f44ac33512aa15b1e312e65713676f4d14c.webp",
+    "/upload/images/aaedf23e6cf17066a3bccba235885d06475fcba4.webp",
+    "/upload/images/d5c846421c4401c608ddc06755a481f39b373a94.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/36b4a330f9f92f041996c5443f00b2569f85b0e3.webp",
+      "price": "￥2,090（税抜価格 ￥1,900）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "なんだかセンチメンタルな時の歌",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "神谷礼",
+                "歌": "モーニング娘。'24"
+              }
+            },
+            {
+              "index": 2,
+              "title": "最KIYOU",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'24"
+              }
+            },
+            {
+              "index": 3,
+              "title": "なんだかセンチメンタルな時の歌",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "神谷礼",
+                "歌": "モーニング娘。'24"
+              }
+            },
+            {
+              "index": 4,
+              "title": "最KIYOU",
+              "duration": "04:47",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'24"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7848"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "なんだかセンチメンタルな時の歌",
+              "duration": "05:43",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'24"
+              }
+            },
+            {
+              "index": 2,
+              "title": "なんだかセンチメンタルな時の歌",
+              "duration": "04:54",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'24"
+              }
+            },
+            {
+              "index": 3,
+              "title": "なんだかセンチメンタルな時の歌",
+              "duration": "13:13",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "モーニング娘。'24"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/a91b8fd24f3306ff6b3ee9f4bab18e6ae34dc4db.webp",
+      "price": "￥2,090（税抜価格 ￥1,900）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "なんだかセンチメンタルな時の歌",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "神谷礼",
+                "歌": "モーニング娘。'24"
+              }
+            },
+            {
+              "index": 2,
+              "title": "最KIYOU",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'24"
+              }
+            },
+            {
+              "index": 3,
+              "title": "なんだかセンチメンタルな時の歌",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "神谷礼",
+                "歌": "モーニング娘。'24"
+              }
+            },
+            {
+              "index": 4,
+              "title": "最KIYOU",
+              "duration": "04:47",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'24"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7850"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "最KIYOU",
+              "duration": "05:17",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大久保薫",
+                "出演": "モーニング娘。'24"
+              }
+            },
+            {
+              "index": 2,
+              "title": "最KIYOU",
+              "duration": "04:47",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大久保薫",
+                "出演": "モーニング娘。'24"
+              }
+            },
+            {
+              "index": 3,
+              "title": "最KIYOU",
+              "duration": "14:53",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "モーニング娘。'24"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付"
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/upload/images/9a029f44ac33512aa15b1e312e65713676f4d14c.webp",
+      "price": "￥5,500（税抜価格 ￥5,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "なんだかセンチメンタルな時の歌",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "神谷礼",
+                "歌": "モーニング娘。'24"
+              }
+            },
+            {
+              "index": 2,
+              "title": "最KIYOU",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'24"
+              }
+            },
+            {
+              "index": 3,
+              "title": "なんだかセンチメンタルな時の歌",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "神谷礼",
+                "歌": "モーニング娘。'24"
+              }
+            },
+            {
+              "index": 4,
+              "title": "最KIYOU",
+              "duration": "04:47",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'24"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7852"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:54",
+              "suffix": "(rockin'on presents COUNTDOWN JAPAN 23/24)",
+              "credits": {
+                "出演": "モーニング娘。'23"
+              }
+            },
+            {
+              "index": 2,
+              "title": "すっごいFEVER！",
+              "duration": "04:35",
+              "suffix": "(rockin'on presents COUNTDOWN JAPAN 23/24)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'23"
+              }
+            },
+            {
+              "index": 3,
+              "title": "そうだ！We're ALIVE",
+              "duration": "03:34",
+              "suffix": "(updated 23 Ver.)(rockin'on presents COUNTDOWN JAPAN 23/24)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'23"
+              }
+            },
+            {
+              "index": 4,
+              "title": "泡沫サタデーナイト！",
+              "duration": "02:49",
+              "suffix": "(rockin'on presents COUNTDOWN JAPAN 23/24)",
+              "credits": {
+                "作詞": "津野米咲",
+                "作曲": "津野米咲",
+                "出演": "モーニング娘。'23"
+              }
+            },
+            {
+              "index": 5,
+              "title": "MC",
+              "duration": "00:57",
+              "suffix": "(rockin'on presents COUNTDOWN JAPAN 23/24)",
+              "credits": {
+                "出演": "モーニング娘。'23"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Wake-up Call～目覚めるとき～",
+              "duration": "04:06",
+              "suffix": "(rockin'on presents COUNTDOWN JAPAN 23/24)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "大久保薫/星部ショウ",
+                "出演": "モーニング娘。'23"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ブレインストーミング(updated)",
+              "duration": "02:42",
+              "suffix": "(rockin'on presents COUNTDOWN JAPAN 23/24)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'23"
+              }
+            },
+            {
+              "index": 8,
+              "title": "What is LOVE？",
+              "duration": "03:13",
+              "suffix": "(23 Ver.)(rockin'on presents COUNTDOWN JAPAN 23/24)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'23"
+              }
+            },
+            {
+              "index": 9,
+              "title": "HEAVY GATE",
+              "duration": "04:40",
+              "suffix": "(rockin'on presents COUNTDOWN JAPAN 23/24)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'23"
+              }
+            },
+            {
+              "index": 10,
+              "title": "恋愛Destiny～本音を論じたい～",
+              "duration": "03:59",
+              "suffix": "(rockin'on presents COUNTDOWN JAPAN 23/24)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'23"
+              }
+            },
+            {
+              "index": 11,
+              "title": "LOVEマシーン",
+              "duration": "03:33",
+              "suffix": "(updated 23 Ver.)(rockin'on presents COUNTDOWN JAPAN 23/24)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'23"
+              }
+            },
+            {
+              "index": 12,
+              "title": "MC",
+              "duration": "00:13",
+              "suffix": "(rockin'on presents COUNTDOWN JAPAN 23/24)",
+              "credits": {
+                "出演": "モーニング娘。'23"
+              }
+            },
+            {
+              "index": 13,
+              "title": "わがまま 気のまま 愛のジョーク",
+              "duration": "04:53",
+              "suffix": "(23 Ver.)(rockin'on presents COUNTDOWN JAPAN 23/24)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'23"
+              }
+            },
+            {
+              "index": 14,
+              "title": "OPENING",
+              "duration": "00:48",
+              "suffix": "(rockin'on presents JAPAN JAM 2024)",
+              "credits": {
+                "出演": "モーニング娘。'24"
+              }
+            },
+            {
+              "index": 15,
+              "title": "LOVEマシーン",
+              "duration": "03:32",
+              "suffix": "(updated 23 Ver.)(rockin'on presents JAPAN JAM 2024)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'24"
+              }
+            },
+            {
+              "index": 16,
+              "title": "恋愛レボリューション21(updated)",
+              "duration": "03:19",
+              "suffix": "(rockin'on presents JAPAN JAM 2024)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'24"
+              }
+            },
+            {
+              "index": 17,
+              "title": "MC",
+              "duration": "00:30",
+              "suffix": "(rockin'on presents JAPAN JAM 2024)",
+              "credits": {
+                "出演": "モーニング娘。'24"
+              }
+            },
+            {
+              "index": 18,
+              "title": "One・Two・Three",
+              "duration": "02:51",
+              "suffix": "(23 Ver.)(rockin'on presents JAPAN JAM 2024)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'24"
+              }
+            },
+            {
+              "index": 19,
+              "title": "Help me！！(updated)",
+              "duration": "03:04",
+              "suffix": "(rockin'on presents JAPAN JAM 2024)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'24"
+              }
+            },
+            {
+              "index": 20,
+              "title": "TIKI BUN",
+              "duration": "03:16",
+              "suffix": "(rockin'on presents JAPAN JAM 2024)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'24"
+              }
+            },
+            {
+              "index": 21,
+              "title": "わがまま 気のまま 愛のジョーク",
+              "duration": "02:56",
+              "suffix": "(23 Ver.)(rockin'on presents JAPAN JAM 2024)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'24"
+              }
+            },
+            {
+              "index": 22,
+              "title": "What is LOVE？",
+              "duration": "03:12",
+              "suffix": "(23 Ver.)(rockin'on presents JAPAN JAM 2024)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'24"
+              }
+            },
+            {
+              "index": 23,
+              "title": "MC",
+              "duration": "00:31",
+              "suffix": "(rockin'on presents JAPAN JAM 2024)",
+              "credits": {
+                "出演": "モーニング娘。'24"
+              }
+            },
+            {
+              "index": 24,
+              "title": "そうだ！We're ALIVE",
+              "duration": "03:35",
+              "suffix": "(updated 23 Ver.)(rockin'on presents JAPAN JAM 2024)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'24"
+              }
+            },
+            {
+              "index": 25,
+              "title": "ザ☆ピ〜ス！",
+              "duration": "03:43",
+              "suffix": "(23 Ver.)(rockin'on presents JAPAN JAM 2024)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'24"
+              }
+            },
+            {
+              "index": 26,
+              "title": "泡沫サタデーナイト！",
+              "duration": "02:46",
+              "suffix": "(rockin'on presents JAPAN JAM 2024)",
+              "credits": {
+                "作詞": "津野米咲",
+                "作曲": "津野米咲",
+                "出演": "モーニング娘。'24"
+              }
+            },
+            {
+              "index": 27,
+              "title": "ここにいるぜぇ！",
+              "duration": "05:20",
+              "suffix": "(23 Ver.)(rockin'on presents JAPAN JAM 2024)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'24"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付(COUNTDOWN JAPAN 23/24(12月29日 幕張メッセ)・JAPAN JAM 2024(5月3日 千葉市蘇我スポーツ公園)ライブ映像)"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/aaedf23e6cf17066a3bccba235885d06475fcba4.webp",
+      "price": "定価 ￥1,200（税抜価格 ￥1,091）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "なんだかセンチメンタルな時の歌",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "神谷礼",
+                "歌": "モーニング娘。'24"
+              }
+            },
+            {
+              "index": 2,
+              "title": "最KIYOU",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'24"
+              }
+            },
+            {
+              "index": 3,
+              "title": "なんだかセンチメンタルな時の歌",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "神谷礼",
+                "歌": "モーニング娘。'24"
+              }
+            },
+            {
+              "index": 4,
+              "title": "最KIYOU",
+              "duration": "04:47",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'24"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7854"
+        }
+      ],
+      "note": "トレーディングカードソロ13種＋集合1種よりランダムにて1枚封入(なんだかセンチメンタルな時の歌 Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/d5c846421c4401c608ddc06755a481f39b373a94.webp",
+      "price": "定価 ￥1,200（税抜価格 ￥1,091）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "なんだかセンチメンタルな時の歌",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "神谷礼",
+                "歌": "モーニング娘。'24"
+              }
+            },
+            {
+              "index": 2,
+              "title": "最KIYOU",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'24"
+              }
+            },
+            {
+              "index": 3,
+              "title": "なんだかセンチメンタルな時の歌",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "神谷礼",
+                "歌": "モーニング娘。'24"
+              }
+            },
+            {
+              "index": 4,
+              "title": "最KIYOU",
+              "duration": "04:47",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'24"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7855"
+        }
+      ],
+      "note": "トレーディングカードソロ13種＋集合1種よりランダムにて1枚封入(最KIYOU Ver.)※初回プレス分のみ"
+    }
+  ]
+}

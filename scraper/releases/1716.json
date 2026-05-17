@@ -1,0 +1,155 @@
+{
+  "id": 1716,
+  "url": "/release/1716/",
+  "title": "ホントのじぶん",
+  "category": "CDシングル",
+  "artist": "Buono!",
+  "releaseDate": "2007.10.31",
+  "label": "ポニーキャニオン",
+  "images": [
+    "/upload/images/752b3b91c6b28c32daa070ba8cb7473d47c891f4.webp",
+    "/upload/images/7074bcb668eabdd79f5e51c96fb42e6cf4beab4c.webp"
+  ],
+  "editions": [
+    {
+      "name": "初回限定盤",
+      "image": "/upload/images/752b3b91c6b28c32daa070ba8cb7473d47c891f4.webp",
+      "price": "定価 ￥1,650（税抜価格 ￥1,500）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ホントのじぶん",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "木之下慶行",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "こころのたまご",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "ムラマツテツヤ",
+                "編曲": "安部潤",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ホントのじぶん",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "木之下慶行",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 4,
+              "title": "こころのたまご",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "ムラマツテツヤ",
+                "編曲": "安部潤",
+                "歌": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "PCCA-02552"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ホントのじぶん",
+              "duration": "00:00",
+              "suffix": "(Dance shot ver.)",
+              "credits": {
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Buono!お披露目イベント映像",
+              "duration": "00:00",
+              "credits": {
+                "出演": "Buono!"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/upload/images/7074bcb668eabdd79f5e51c96fb42e6cf4beab4c.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ホントのじぶん",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "木之下慶行",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "こころのたまご",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "ムラマツテツヤ",
+                "編曲": "安部潤",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ホントのじぶん",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "木之下慶行",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 4,
+              "title": "こころのたまご",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "ムラマツテツヤ",
+                "編曲": "安部潤",
+                "歌": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "PCCA-70197"
+        }
+      ]
+    }
+  ]
+}

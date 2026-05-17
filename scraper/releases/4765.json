@@ -1,0 +1,75 @@
+{
+  "id": 4765,
+  "url": "/release/4765/",
+  "title": "Greeting 〜稲場愛香〜",
+  "category": "BD",
+  "artist": "稲場愛香",
+  "releaseDate": "2016.2.20",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/9e7e678db4d2ea09a5bccced334716198d993843.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Classroom",
+              "duration": "09:10",
+              "credits": {
+                "出演": "稲場愛香"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Interview",
+              "duration": "13:15",
+              "credits": {
+                "出演": "稲場愛香"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Working Day",
+              "duration": "07:54",
+              "credits": {
+                "出演": "稲場愛香"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Special Day",
+              "duration": "15:32",
+              "credits": {
+                "出演": "稲場愛香"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Behind the scene",
+              "duration": "04:41",
+              "credits": {
+                "出演": "稲場愛香"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "02:42",
+              "credits": {
+                "出演": "稲場愛香"
+              }
+            }
+          ],
+          "catalogNo": "UFXW-2010"
+        }
+      ]
+    }
+  ]
+}

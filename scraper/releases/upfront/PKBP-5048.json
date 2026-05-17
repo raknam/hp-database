@@ -1,0 +1,51 @@
+{
+  "code": "PKBP-5048",
+  "url": "/release/detail/PKBP-5048/",
+  "source": "upfront",
+  "title": "シングルV「ジリリ キテル」",
+  "category": "DVDシングルV",
+  "artist": "Berryz工房",
+  "releaseDate": "2006/04/05",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/77a9dc77baf1113f212ea814611dd700bdaa424f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/77a9dc77baf1113f212ea814611dd700bdaa424f.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "PKBP-5048",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ジリリ キテル",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく/CHOPIN FREDERIC FRANCOIS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ジリリ キテル(Dance Shot Ver.)",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく/CHOPIN FREDERIC FRANCOIS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "17:03"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

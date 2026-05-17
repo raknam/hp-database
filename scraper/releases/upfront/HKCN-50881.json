@@ -1,0 +1,75 @@
+{
+  "code": "HKCN-50881",
+  "url": "/release/detail/HKCN-50881/",
+  "source": "upfront",
+  "title": "HANAKIN/シャニカマー",
+  "category": "CDシングル",
+  "artist": "宮本佳林",
+  "releaseDate": "2026/07/29",
+  "label": "hachama",
+  "images": [
+    "/images/nowprinting.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/nowprinting.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50881",
+          "tracks": []
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": null,
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKCN-50883",
+          "tracks": []
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": null,
+      "price": "￥6,600 (税抜価格 ￥6,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50885",
+          "tracks": []
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": null,
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKCN-50887",
+          "tracks": []
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": null,
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50888",
+          "tracks": []
+        }
+      ]
+    }
+  ]
+}

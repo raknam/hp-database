@@ -1,0 +1,258 @@
+{
+  "code": "EPCE-7934",
+  "url": "/release/detail/EPCE-7934/",
+  "source": "upfront",
+  "title": "気になるその気の歌/明るく良い子",
+  "category": "CDシングル",
+  "artist": "モーニング娘。'25",
+  "releaseDate": "2025/07/02",
+  "label": "zetima",
+  "images": [
+    "/images/c07f8d5da6f303476f9c952c1a8415366b8c3a49.jpg",
+    "/images/66bee0999eb6e2a30179e9f394154d20b5f7a0d9.jpg",
+    "/images/34fc9daaaa9081c7e72f0b069409dbded369c520.jpg",
+    "/images/cf10b83331e17ecdf27b87a34d107f2b36080d0c.jpg",
+    "/images/11af258c92a6b52bf1b2241f40f2320b4eb83090.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/c07f8d5da6f303476f9c952c1a8415366b8c3a49.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7934",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "気になるその気の歌",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "明るく良い子",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "気になるその気の歌(Instrumental)",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "明るく良い子(Instrumental)",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/66bee0999eb6e2a30179e9f394154d20b5f7a0d9.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7936",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "気になるその気の歌(Music Video)",
+              "duration": "05:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "気になるその気の歌(Dance Shot Ver.)",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "気になるその気の歌(メイキング映像)",
+              "duration": "12:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/images/34fc9daaaa9081c7e72f0b069409dbded369c520.jpg",
+      "price": "￥4,070 (税抜価格 ￥3,700)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7938",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "気になるその気の歌",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "明るく良い子",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "気になるその気の歌(Instrumental)",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "明るく良い子(Instrumental)",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/cf10b83331e17ecdf27b87a34d107f2b36080d0c.jpg",
+      "price": "￥1,200 (税抜価格 ￥1,091)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7940",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "明るく良い子(Music Video)",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "明るく良い子(Dance Shot Ver.)",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "明るく良い子(メイキング映像)",
+              "duration": "12:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/11af258c92a6b52bf1b2241f40f2320b4eb83090.jpg",
+      "price": "￥1,200 (税抜価格 ￥1,091)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7941",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "気になるその気の歌",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "明るく良い子",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "気になるその気の歌(Instrumental)",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "明るく良い子(Instrumental)",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

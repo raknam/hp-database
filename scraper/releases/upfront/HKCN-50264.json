@@ -1,0 +1,162 @@
+{
+  "code": "HKCN-50264",
+  "url": "/release/detail/HKCN-50264/",
+  "source": "upfront",
+  "title": "NEXT MY SELF",
+  "category": "CDシングル",
+  "artist": "真野恵里菜",
+  "releaseDate": "2012/12/12",
+  "label": "hachama",
+  "images": [
+    "/images/2c123025b544cfc73e3473c0206cfb306101e648.jpg",
+    "/images/9d944b8f91c1ee9de80c02312ab4e51199fe2a28.jpg",
+    "/images/baa0dcba34826e79d2bf6457eb369f28f7546b00.jpg",
+    "/images/4258cf334808bcb7b44a5f9054211c7218a1dae4.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/2c123025b544cfc73e3473c0206cfb306101e648.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50264",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "NEXT MY SELF",
+              "duration": "04:51",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青春 レインボウ",
+              "duration": "03:28",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "MIKOTO",
+                "編曲": "木之下慶行"
+              }
+            },
+            {
+              "index": 3,
+              "title": "NEXT MY SELF(Instrumental)",
+              "duration": "04:51",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/9d944b8f91c1ee9de80c02312ab4e51199fe2a28.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50266",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "NEXT MY SELF(Music Video)",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO"
+              }
+            },
+            {
+              "index": 2,
+              "title": "NEXT MY SELF(Close-up Ver.)",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/images/baa0dcba34826e79d2bf6457eb369f28f7546b00.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50268",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "NEXT MY SELF",
+              "duration": "04:51",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青春 レインボウ",
+              "duration": "03:28",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "MIKOTO",
+                "編曲": "木之下慶行"
+              }
+            },
+            {
+              "index": 3,
+              "title": "NEXT MY SELF(Instrumental)",
+              "duration": "04:51",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/4258cf334808bcb7b44a5f9054211c7218a1dae4.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50269",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "NEXT MY SELF(Music Video)",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO"
+              }
+            },
+            {
+              "index": 2,
+              "title": "NEXT MY SELF(メイキング映像)",
+              "duration": "11:57"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

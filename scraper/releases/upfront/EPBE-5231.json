@@ -1,0 +1,38 @@
+{
+  "code": "EPBE-5231",
+  "url": "/release/detail/EPBE-5231/",
+  "source": "upfront",
+  "title": "ハロプロアワー Vol.7",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2007/03/07",
+  "label": "zetima",
+  "images": [
+    "/images/8384ac9536cdbc081792cca752cea8cc6d5c96a2.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/8384ac9536cdbc081792cca752cea8cc6d5c96a2.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5231",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "♯15",
+              "duration": "27:58"
+            },
+            {
+              "index": 2,
+              "title": "♯16",
+              "duration": "28:10"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

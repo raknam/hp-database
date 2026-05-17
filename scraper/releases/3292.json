@@ -1,0 +1,74 @@
+{
+  "id": 3292,
+  "url": "/release/3292/",
+  "title": "Everyday Everywhere",
+  "category": "CDシングル",
+  "artist": "太陽とシスコムーン",
+  "releaseDate": "1999.8.25",
+  "label": "zetima",
+  "images": [
+    "/upload/images/2336e4ded9d2271388c4d235710e5b7641c6bc25.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Everyday Everywhere",
+              "duration": "05:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "村山晋一郎",
+                "歌": "太陽とシスコムーン"
+              }
+            },
+            {
+              "index": 2,
+              "title": "宇宙でLa Ta Ta",
+              "duration": "05:08",
+              "suffix": "super afro remix remixed by ORIENTA－RHYTHM for BASEMENT FACTORY PRODUCTIONS",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ORIENTA－RHYTHM",
+                "歌": "太陽とシスコムーン"
+              }
+            },
+            {
+              "index": 3,
+              "title": "宇宙でLa Ta Ta",
+              "duration": "04:48",
+              "suffix": "after summer remix remixed by CHiBUN",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "CHiBUN",
+                "歌": "太陽とシスコムーン"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Everyday Everywhere",
+              "duration": "05:59",
+              "suffix": "(instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "村山晋一郎",
+                "歌": "太陽とシスコムーン"
+              }
+            }
+          ],
+          "catalogNo": "EPDE-1051"
+        }
+      ]
+    }
+  ]
+}

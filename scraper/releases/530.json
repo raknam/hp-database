@@ -1,0 +1,139 @@
+{
+  "id": 530,
+  "url": "/release/530/",
+  "title": "Saki Style",
+  "category": "DVD",
+  "artist": "中島早貴",
+  "releaseDate": "2013.2.27",
+  "label": "zetima",
+  "images": [
+    "/upload/images/76d1d7875fc9b2f67c040f7d9152fadd3f0cb6de.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "00:16",
+              "credits": {
+                "出演": "中島早貴(℃-ute)"
+              }
+            },
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "00:16",
+              "credits": {
+                "出演": "中島早貴(℃-ute)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Natural Light",
+              "duration": "08:35",
+              "credits": {
+                "出演": "中島早貴(℃-ute)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Natural Light",
+              "duration": "08:35",
+              "credits": {
+                "出演": "中島早貴(℃-ute)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Prism",
+              "duration": "10:11",
+              "credits": {
+                "出演": "中島早貴(℃-ute)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Prism",
+              "duration": "10:11",
+              "credits": {
+                "出演": "中島早貴(℃-ute)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Sunlight",
+              "duration": "10:45",
+              "credits": {
+                "出演": "中島早貴(℃-ute)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Sunlight",
+              "duration": "10:45",
+              "credits": {
+                "出演": "中島早貴(℃-ute)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "In the Shadow",
+              "duration": "10:42",
+              "credits": {
+                "出演": "中島早貴(℃-ute)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "In the Shadow",
+              "duration": "10:42",
+              "credits": {
+                "出演": "中島早貴(℃-ute)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Making of Photobook",
+              "duration": "22:47",
+              "credits": {
+                "出演": "中島早貴(℃-ute)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Making of Photobook",
+              "duration": "22:47",
+              "credits": {
+                "出演": "中島早貴(℃-ute)"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Ending",
+              "duration": "01:11",
+              "credits": {
+                "出演": "中島早貴(℃-ute)"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Ending",
+              "duration": "01:11",
+              "credits": {
+                "出演": "中島早貴(℃-ute)"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5462"
+        }
+      ]
+    }
+  ]
+}

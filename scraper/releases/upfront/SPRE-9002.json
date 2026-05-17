@@ -1,0 +1,58 @@
+{
+  "code": "SPRE-9002",
+  "url": "/release/detail/SPRE-9002/",
+  "source": "upfront",
+  "title": "心のフェロモン",
+  "category": "CDシングル",
+  "artist": "シェキドル",
+  "releaseDate": "2000/11/01",
+  "label": "SPREE RECORD",
+  "images": [
+    "/images/a21f03847a81cd06c4c5fae3410678d661fd0eaf.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/a21f03847a81cd06c4c5fae3410678d661fd0eaf.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "SPRE-9002",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "心のフェロモン",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "だってだって",
+              "duration": "03:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "心のフェロモン(Instrumental)",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

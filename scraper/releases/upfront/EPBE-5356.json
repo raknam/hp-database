@@ -1,0 +1,83 @@
+{
+  "code": "EPBE-5356",
+  "url": "/release/detail/EPBE-5356/",
+  "source": "upfront",
+  "title": "萩原舞 in 八丈島",
+  "category": "DVD",
+  "artist": "萩原舞",
+  "releaseDate": "2009/10/21",
+  "label": "zetima",
+  "images": [
+    "/images/0dea18176dbe2cb057972c4eb18fe97c6397f777.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/0dea18176dbe2cb057972c4eb18fe97c6397f777.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5356",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "03:32"
+            },
+            {
+              "index": 2,
+              "title": "八丈島日記 1日目 写真集撮影",
+              "duration": "05:54"
+            },
+            {
+              "index": 3,
+              "title": "八丈島日記 2日目 写真集撮影",
+              "duration": "04:07"
+            },
+            {
+              "index": 4,
+              "title": "八丈島日記 2日目 黄八丈織物体験",
+              "duration": "04:23"
+            },
+            {
+              "index": 5,
+              "title": "八丈島日記 3日目 プール遊び",
+              "duration": "05:10"
+            },
+            {
+              "index": 6,
+              "title": "舞ちゃんへの質問コーナー",
+              "duration": "03:37"
+            },
+            {
+              "index": 7,
+              "title": "八丈島日記 3日目 海釣り体験",
+              "duration": "11:17"
+            },
+            {
+              "index": 8,
+              "title": "八丈島日記 3日目 お一人様BBQ",
+              "duration": "10:25"
+            },
+            {
+              "index": 9,
+              "title": "八丈島日記 3日目 八丈太鼓体験",
+              "duration": "08:00"
+            },
+            {
+              "index": 10,
+              "title": "八丈島日記 NG集",
+              "duration": "01:48"
+            },
+            {
+              "index": 11,
+              "title": "写真集 九十九里での撮影風景",
+              "duration": "03:22"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

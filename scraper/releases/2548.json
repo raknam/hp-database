@@ -1,0 +1,50 @@
+{
+  "id": 2548,
+  "url": "/release/2548/",
+  "title": "ラッキーオーラ",
+  "category": "CDシングル",
+  "artist": "真野恵里菜",
+  "releaseDate": "2008.10.4",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/a8747eb41b47e80845b40594cae8b59124d977e3.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ラッキーオーラ",
+              "duration": "04:54",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "たいせい",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ラッキーオーラ",
+              "duration": "04:54",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "たいせい",
+                "歌": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "TGCS-5085"
+        }
+      ]
+    }
+  ]
+}

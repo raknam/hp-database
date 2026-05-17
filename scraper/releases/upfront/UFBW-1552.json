@@ -1,0 +1,102 @@
+{
+  "code": "UFBW-1552",
+  "url": "/release/detail/UFBW-1552/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.34",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2017/08/16",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/2d646b061c6abfe2e01fc572906576c346d1dd0e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/2d646b061c6abfe2e01fc572906576c346d1dd0e.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1552",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "音探しの旅 in 八景島シーパラダイス【新企画】",
+              "duration": "21:06"
+            },
+            {
+              "index": 2,
+              "title": "アフターミールダンス【新企画】",
+              "duration": "04:23"
+            },
+            {
+              "index": 3,
+              "title": "音楽×書道【新企画】",
+              "duration": "02:20"
+            },
+            {
+              "index": 4,
+              "title": "KEEP ON 上昇志向！！【スタジオライブ集】",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Dream Road〜心が躍り出してる〜【スタジオライブ集】",
+              "duration": "05:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "明日やろうはバカやろう【スタジオライブ集】",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "板垣祐介"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ドンデンガエシ【スタジオライブ集】",
+              "duration": "05:07",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "宇宙慧"
+              }
+            },
+            {
+              "index": 8,
+              "title": "バイバイメトロ【スタジオライブ集】",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 9,
+              "title": "メチャキュン・サマー( ´ ▽ ` )ﾉ【スタジオライブ集】",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo"
+              }
+            },
+            {
+              "index": 10,
+              "title": "チャオ ベッラ チンクエッティ MV撮影密着",
+              "duration": "03:35"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

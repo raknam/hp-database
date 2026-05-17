@@ -1,0 +1,61 @@
+{
+  "id": 3625,
+  "url": "/release/3625/",
+  "title": "ボーイフレンド",
+  "category": "CDシングル",
+  "artist": "藤本美貴",
+  "releaseDate": "2002.11.7",
+  "label": "hachama",
+  "images": [
+    "/upload/images/4897edef350fbf1c9f254bcab86f8c0046f803cc.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ボーイフレンド",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "藤本美貴"
+              }
+            },
+            {
+              "index": 2,
+              "title": "幼なじみ",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "TATOO",
+                "歌": "藤本美貴"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ボーイフレンド",
+              "duration": "04:57",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "藤本美貴"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50005"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "code": "EPBE-5036",
+  "url": "/release/detail/EPBE-5036/",
+  "source": "upfront",
+  "title": "シングルV「そうだ！We're ALIVE」",
+  "category": "DVDシングルV",
+  "artist": "モーニング娘。",
+  "releaseDate": "2002/04/10",
+  "label": "zetima",
+  "images": [
+    "/images/b8e2a3da09899358cd3b1d61e80be9424dc56a39.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/b8e2a3da09899358cd3b1d61e80be9424dc56a39.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5036",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "そうだ！We're ALIVE",
+              "duration": "04:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 2,
+              "title": "メイキング映像",
+              "duration": "05:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

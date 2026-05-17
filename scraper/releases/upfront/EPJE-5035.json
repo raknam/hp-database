@@ -1,0 +1,77 @@
+{
+  "code": "EPJE-5035",
+  "url": "/release/detail/EPJE-5035/",
+  "source": "upfront",
+  "title": "LOVEマシーン",
+  "category": "アナログシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "1999/10/06",
+  "label": "zetima",
+  "images": [
+    "/images/e1b2ae04a9cecfec7cb88055732f4b33e2bcb963.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/e1b2ae04a9cecfec7cb88055732f4b33e2bcb963.jpg",
+      "price": "￥1,388 (税抜価格 ￥1,262)",
+      "discs": [
+        {
+          "type": "アナログシングル",
+          "catalogNo": "EPJE-5035",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "LOVEマシーン",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 2,
+              "title": "LOVEマシーン(Instrumental)",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 3,
+              "title": "LOVEマシーン〜analog remix〜",
+              "duration": "06:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "M．I．D"
+              }
+            },
+            {
+              "index": 4,
+              "title": "LOVEマシーン〜analog remix〜(Instrumental)",
+              "duration": "06:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "M．I．D"
+              }
+            },
+            {
+              "index": 5,
+              "title": "シークレットトラック非音楽著作物",
+              "duration": "00:59",
+              "credits": {
+                "作詞": "非音楽著作物",
+                "作曲": "非音楽著作物"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

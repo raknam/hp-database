@@ -1,0 +1,501 @@
+{
+  "id": 7419,
+  "url": "/release/7419/",
+  "title": "アンドロイドは夢を見るか？/光のうた",
+  "category": "CDシングル",
+  "artist": "アンジュルム",
+  "releaseDate": "2025.5.21",
+  "label": "hachama",
+  "images": [
+    "/upload/images/fc3c3f32c352690d253e4036dcb46f6b10bd3b1c.webp",
+    "/upload/images/6bb6b96cfb07be829de8ea94c734d2570b5b6858.webp",
+    "/upload/images/adacfc8ef59c75dbe147c2bb9ebeca88feed92ec.webp",
+    "/upload/images/86c09edf0c7ed17291ae643726f56888e987ea76.webp",
+    "/upload/images/c6992c3c50009617110dc859064620c0d15fd16a.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/fc3c3f32c352690d253e4036dcb46f6b10bd3b1c.webp",
+      "price": "￥2,090（税抜価格 ￥1,900）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アンドロイドは夢を見るか？",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom",
+                "編曲": "Erik Lidbom",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "光のうた",
+              "duration": "05:13",
+              "credits": {
+                "作詞": "堂島孝平",
+                "作曲": "堂島孝平",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "アンドロイドは夢を見るか？",
+              "duration": "04:08",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom",
+                "編曲": "Erik Lidbom",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "光のうた",
+              "duration": "05:13",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "堂島孝平",
+                "作曲": "堂島孝平",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50834"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アンドロイドは夢を見るか？",
+              "duration": "04:56",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アンドロイドは夢を見るか？",
+              "duration": "04:13",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "アンドロイドは夢を見るか？",
+              "duration": "15:09",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "アンジュルム"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/6bb6b96cfb07be829de8ea94c734d2570b5b6858.webp",
+      "price": "￥2,090（税抜価格 ￥1,900）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アンドロイドは夢を見るか？",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom",
+                "編曲": "Erik Lidbom",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "光のうた",
+              "duration": "05:13",
+              "credits": {
+                "作詞": "堂島孝平",
+                "作曲": "堂島孝平",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "アンドロイドは夢を見るか？",
+              "duration": "04:08",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom",
+                "編曲": "Erik Lidbom",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "光のうた",
+              "duration": "05:13",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "堂島孝平",
+                "作曲": "堂島孝平",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50836"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "光のうた",
+              "duration": "05:49",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "堂島孝平",
+                "作曲": "堂島孝平",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "光のうた",
+              "duration": "05:19",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "堂島孝平",
+                "作曲": "堂島孝平",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "光のうた",
+              "duration": "15:11",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "アンジュルム"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付"
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/upload/images/adacfc8ef59c75dbe147c2bb9ebeca88feed92ec.webp",
+      "price": "￥3,850（税抜価格 ￥3,500）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アンドロイドは夢を見るか？",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom",
+                "編曲": "Erik Lidbom",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "光のうた",
+              "duration": "05:13",
+              "credits": {
+                "作詞": "堂島孝平",
+                "作曲": "堂島孝平",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "アンドロイドは夢を見るか？",
+              "duration": "04:08",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom",
+                "編曲": "Erik Lidbom",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "光のうた",
+              "duration": "05:13",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "堂島孝平",
+                "作曲": "堂島孝平",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50838"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "I 無双 Strong！",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "加藤裕介",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "美々たる一撃",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "大久保薫/星部ショウ",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "RED LINE",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "MC",
+              "duration": "02:05",
+              "credits": {
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ドンデンガエシ",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "宇宙慧",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "アイノケダモノ",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "平田祥一郎",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 7,
+              "title": "出すぎた杭は打たれない",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "魚住有希",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 8,
+              "title": "MC",
+              "duration": "01:52",
+              "credits": {
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 9,
+              "title": "愛すべきべき Human Life",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "堂島孝平",
+                "作曲": "堂島孝平",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 10,
+              "title": "46億年LOVE",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "林田健司",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 11,
+              "title": "大器晩成",
+              "duration": "05:08",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "出演": "アンジュルム"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付「COUNTDOWN JAPAN 24/25」(2024/12/29 幕張メッセ国際展示場)"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/86c09edf0c7ed17291ae643726f56888e987ea76.webp",
+      "price": "定価 ￥1,200（税抜価格 ￥1,091）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アンドロイドは夢を見るか？",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom",
+                "編曲": "Erik Lidbom",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "光のうた",
+              "duration": "05:13",
+              "credits": {
+                "作詞": "堂島孝平",
+                "作曲": "堂島孝平",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "アンドロイドは夢を見るか？",
+              "duration": "04:08",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom",
+                "編曲": "Erik Lidbom",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "光のうた",
+              "duration": "05:13",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "堂島孝平",
+                "作曲": "堂島孝平",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50840"
+        }
+      ],
+      "note": "トレーディングカードソロ9種＋集合1種よりランダムにて1枚封入(アンドロイドは夢を見るか？ Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/c6992c3c50009617110dc859064620c0d15fd16a.webp",
+      "price": "定価 ￥1,200（税抜価格 ￥1,091）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アンドロイドは夢を見るか？",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom",
+                "編曲": "Erik Lidbom",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "光のうた",
+              "duration": "05:13",
+              "credits": {
+                "作詞": "堂島孝平",
+                "作曲": "堂島孝平",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "アンドロイドは夢を見るか？",
+              "duration": "04:08",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom",
+                "編曲": "Erik Lidbom",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "光のうた",
+              "duration": "05:13",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "堂島孝平",
+                "作曲": "堂島孝平",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50841"
+        }
+      ],
+      "note": "トレーディングカードソロ9種＋集合1種よりランダムにて1枚封入(光のうた Ver.)※初回プレス分のみ"
+    }
+  ]
+}

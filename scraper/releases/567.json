@@ -1,0 +1,109 @@
+{
+  "id": 567,
+  "url": "/release/567/",
+  "title": "愛あらば IT'S ALL RIGHT",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2004.1.21",
+  "label": "zetima",
+  "images": [
+    "/upload/images/0c9acbeb561bc6f448a618310ec693c47a24a3b6.webp",
+    "/upload/images/b4fb11aedaae59ec2089d5108d48f5b862f5cb72.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回盤】",
+      "image": "/upload/images/0c9acbeb561bc6f448a618310ec693c47a24a3b6.webp",
+      "price": "定価 ￥1,320（税抜価格 ￥1,200）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛あらば IT'S ALL RIGHT",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "出来る女",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "愛あらば IT'S ALL RIGHT",
+              "duration": "04:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5260"
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/b4fb11aedaae59ec2089d5108d48f5b862f5cb72.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛あらば IT'S ALL RIGHT",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "出来る女",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "愛あらば IT'S ALL RIGHT",
+              "duration": "04:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5261"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1833,
+  "url": "/release/1833/",
+  "title": "シングルV「WANT！ 」",
+  "category": "DVDシングルV",
+  "artist": "Berryz工房",
+  "releaseDate": "2012.12.26",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/upload/images/006884a5ac4bb9b45964683c1e1fd63ab30fcc11.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "WANT！",
+              "duration": "05:24",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "WANT！",
+              "duration": "05:30",
+              "suffix": "(Another Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "WANT！メイキング映像",
+              "duration": "11:30",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "PKBP-5147"
+        }
+      ]
+    }
+  ]
+}

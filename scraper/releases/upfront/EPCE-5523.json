@@ -1,0 +1,81 @@
+{
+  "code": "EPCE-5523",
+  "url": "/release/detail/EPCE-5523/",
+  "source": "upfront",
+  "title": "やったろうぜ！",
+  "category": "CDシングル",
+  "artist": "音楽ガッタス",
+  "releaseDate": "2007/12/05",
+  "label": "zetima",
+  "images": [
+    "/images/7bb164b1032dbb6dd2dba1b04c5702c74a5e2fb9.jpg",
+    "/images/13b3459addfdc8dbaf8d1ec528048036432c5b91.jpg"
+  ],
+  "editions": [
+    {
+      "name": "(DVD付き)",
+      "image": "/images/7bb164b1032dbb6dd2dba1b04c5702c74a5e2fb9.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5523",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "やったろうぜ！",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 2,
+              "title": "栄えろ羽ばたけ ガッタス ブリリャンチス H.P.",
+              "duration": "03:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "やったろうぜ！(Instrumental)",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": "/images/13b3459addfdc8dbaf8d1ec528048036432c5b91.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5525",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "やったろうぜ！(Close-up Ver.)",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

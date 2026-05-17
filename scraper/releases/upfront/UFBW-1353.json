@@ -1,0 +1,73 @@
+{
+  "code": "UFBW-1353",
+  "url": "/release/detail/UFBW-1353/",
+  "source": "upfront",
+  "title": "不器用",
+  "category": "DVDミニアルバム",
+  "artist": "LoVendoЯ",
+  "releaseDate": "2014/04/23",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/5e1d74af69ba71afceb31b64839fb84178189652.jpg"
+  ],
+  "editions": [
+    {
+      "name": "CD付き",
+      "image": "/images/5e1d74af69ba71afceb31b64839fb84178189652.jpg",
+      "price": "￥2,750 (税抜価格 ￥2,500)",
+      "discs": [
+        {
+          "type": "DVDミニアルバム",
+          "catalogNo": "UFBW-1353",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "不器用(Music Video)",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "飯田茉椰",
+                "作曲": "石井健太郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "むせび泣く(Music Video)",
+              "duration": "05:29",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "魚住有希"
+              }
+            },
+            {
+              "index": 3,
+              "title": "人生マニアック(LIVE@LIQUDROOM 2013.12.26)",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "多辺早希",
+                "作曲": "青谷夢"
+              }
+            },
+            {
+              "index": 4,
+              "title": "思うがままを信じて(LIVE@LIQUDROOM 2013.12.26)",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "多辺早希",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 5,
+              "title": "BINGO(LIVE@LIQUDROOM 2013.12.26)",
+              "duration": "07:13",
+              "credits": {
+                "作詞": "唐沢美帆",
+                "作曲": "原一博"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "code": "UFBW-1183",
+  "url": "/release/detail/UFBW-1183/",
+  "source": "upfront",
+  "title": "ハロプロ！TIME Vol.14",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012/08/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/c6ab9419b6a800589cc2ec5d5d351c36984a2a97.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/c6ab9419b6a800589cc2ec5d5d351c36984a2a97.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1183",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "中島TIMEぶらり江ノ島！！℃-ute3人旅",
+              "duration": "30:00"
+            },
+            {
+              "index": 2,
+              "title": "真野TIME「ドキドキベイビー」のMV撮影現場を自分撮り",
+              "duration": "05:06"
+            },
+            {
+              "index": 3,
+              "title": "菅谷TIME「Be 元気＜成せば成るっ！＞」MV撮影現場でメンバー撮り",
+              "duration": "08:53"
+            },
+            {
+              "index": 4,
+              "title": "Buono!TIMEライブリハーサルに密着",
+              "duration": "11:04"
+            },
+            {
+              "index": 5,
+              "title": "Buono!TIMEライブリハーサル未公開映像",
+              "duration": "20:05"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

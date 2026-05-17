@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1539",
+  "url": "/release/detail/UFDL-1539/",
+  "source": "upfront",
+  "title": "流星ボーイ(Chika ver)Short Size",
+  "category": "配信",
+  "artist": "Chika",
+  "releaseDate": "2024/06/10",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/48610d9b95a698828e067d6c22b4703e6c1c085f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/48610d9b95a698828e067d6c22b4703e6c1c085f.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1539",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "流星ボーイ(Chika ver)Short Size",
+              "duration": "02:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "S.KAWAI"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "id": 674,
+  "url": "/release/674/",
+  "title": "みかん",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2007.11.21",
+  "label": "zetima",
+  "images": [
+    "/upload/images/ba5b8d93a0e4561ce9d169ac803652dffc02ac4d.webp",
+    "/upload/images/64305f5eb077d61941473e375db9596a3dc8db35.webp",
+    "/upload/images/73dffbc3a92f495ac7f279d31670b8176df91ebc.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤 A】",
+      "image": "/upload/images/ba5b8d93a0e4561ce9d169ac803652dffc02ac4d.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "みかん",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ボン キュッ！ボン キュッ！BOMB GIRL",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "みかん",
+              "duration": "04:25",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5514"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "みかん",
+              "duration": "04:39",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+初回プレス分フォトカード9種+1種ランダム封入"
+    },
+    {
+      "name": "【初回生産限定盤 B】",
+      "image": "/upload/images/64305f5eb077d61941473e375db9596a3dc8db35.webp",
+      "price": "定価 ￥1,320（税抜価格 ￥1,200）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "みかん",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ボン キュッ！ボン キュッ！BOMB GIRL",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "みかん",
+              "duration": "04:25",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5516"
+        }
+      ],
+      "note": "ブックレット＋スペシャルパッケージ仕様+初回プレス分フォトカード9種+1種ランダム封入"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/73dffbc3a92f495ac7f279d31670b8176df91ebc.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "みかん",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ボン キュッ！ボン キュッ！BOMB GIRL",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "みかん",
+              "duration": "04:25",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5517"
+        }
+      ],
+      "note": "通常盤･初回仕様 初回プレス分フォトカード9種+1種ランダム封入"
+    }
+  ]
+}

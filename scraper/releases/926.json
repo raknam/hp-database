@@ -1,0 +1,225 @@
+{
+  "id": 926,
+  "url": "/release/926/",
+  "title": "SHERBET",
+  "category": "CDミニアルバム",
+  "artist": "Buono!",
+  "releaseDate": "2012.8.22",
+  "label": "zetima",
+  "images": [
+    "/upload/images/546d5f915ceec3db42a995f3b8cc9563d4b955ba.webp",
+    "/upload/images/2322f4f0b3a85fcaf141de0434a43060d3897752.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/upload/images/546d5f915ceec3db42a995f3b8cc9563d4b955ba.webp",
+      "price": "￥2,934（税抜価格 ￥2,667）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "FEVER",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "DECO*27",
+                "作曲": "DECO*27",
+                "編曲": "DECO*27 + Konnie-PLASMO'-Aoki",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "GO!GO!ゴーダ",
+              "duration": "01:52",
+              "credits": {
+                "作詞": "HA&AKIRASTAR",
+                "作曲": "HA&AKIRASTAR",
+                "編曲": "AKIRASTAR",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 3,
+              "title": "初恋サイダー",
+              "duration": "03:37",
+              "suffix": "(Album version)",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "しほり",
+                "編曲": "宮永治郎",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 4,
+              "title": "未来ドライブ",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "HA",
+                "作曲": "松井望＆HA",
+                "編曲": "Konnie-PLASMO'-Aoki",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 5,
+              "title": "BELIEVE★★★",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "HA",
+                "作曲": "HA",
+                "編曲": "Konnie-PLASMO'-Aoki",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 6,
+              "title": "夏の星空",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "HA",
+                "作曲": "松井望＆HA",
+                "編曲": "tasuku + Konnie-PLASMO'-Aoki",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Never gonna stop!",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "HA",
+                "作曲": "AKIRASTAR",
+                "編曲": "AKIRASTAR",
+                "歌": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5889"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Never gonna stop!",
+              "duration": "04:21",
+              "suffix": "(Close-up BUONO! Ver.-type.01-)",
+              "credits": {
+                "作詞": "HA",
+                "作曲": "AKIRASTAR",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "2012フランス公演密着ドキュメント",
+              "duration": "32:46",
+              "credits": {
+                "作詞": "NOBE/おのりく、三浦徳子/つんく/AKIRASTAR、C.P",
+                "作曲": "しほり、AKIRASTAR、つんく/HA、井上慎二郎、木之下慶行",
+                "出演": "Buono!"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/2322f4f0b3a85fcaf141de0434a43060d3897752.webp",
+      "price": "定価 ￥2,200（税抜価格 ￥2,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "FEVER",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "DECO*27",
+                "作曲": "DECO*27",
+                "編曲": "DECO*27 + Konnie-PLASMO'-Aoki",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "GO!GO!ゴーダ",
+              "duration": "01:52",
+              "credits": {
+                "作詞": "HA&AKIRASTAR",
+                "作曲": "HA&AKIRASTAR",
+                "編曲": "AKIRASTAR",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 3,
+              "title": "初恋サイダー",
+              "duration": "03:37",
+              "suffix": "(Album version)",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "しほり",
+                "編曲": "宮永治郎",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 4,
+              "title": "未来ドライブ",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "HA",
+                "作曲": "松井望＆HA",
+                "編曲": "Konnie-PLASMO'-Aoki",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 5,
+              "title": "BELIEVE★★★",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "HA",
+                "作曲": "HA",
+                "編曲": "Konnie-PLASMO'-Aoki",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 6,
+              "title": "夏の星空",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "HA",
+                "作曲": "松井望＆HA",
+                "編曲": "tasuku + Konnie-PLASMO'-Aoki",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Never gonna stop!",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "HA",
+                "作曲": "AKIRASTAR",
+                "編曲": "AKIRASTAR",
+                "歌": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5891"
+        }
+      ],
+      "note": "フォトカード付(集合1種)"
+    }
+  ]
+}

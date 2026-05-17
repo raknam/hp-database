@@ -1,0 +1,305 @@
+{
+  "id": 1238,
+  "url": "/release/1238/",
+  "title": "チョトマテクダサイ！",
+  "category": "CDシングル",
+  "artist": "スマイレージ",
+  "releaseDate": "2012.2.1",
+  "label": "hachama",
+  "images": [
+    "/upload/images/279f8c49a99e05e8418fb41b3d8e64c0edbf64dd.webp",
+    "/upload/images/223d1ad45f188274a9c273694cdd9af5bb1a2239.webp",
+    "/upload/images/2a4784bfeff048b6011cb1ef351b17ee47dce556.webp",
+    "/upload/images/35314811e72f4b2b4028362264c7de2a48cf4779.webp",
+    "/upload/images/e3a5df4d10ab07f6d06d085688ca571a72962034.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/279f8c49a99e05e8418fb41b3d8e64c0edbf64dd.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "チョトマテクダサイ！",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "チャンス到来！",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "チョトマテクダサイ！",
+              "duration": "04:05",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50204"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "チョトマテクダサイ！",
+              "duration": "04:17",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/223d1ad45f188274a9c273694cdd9af5bb1a2239.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "チョトマテクダサイ！",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "チャンス到来！",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "チョトマテクダサイ！",
+              "duration": "04:05",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50206"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "チョトマテクダサイ！",
+              "duration": "04:17",
+              "suffix": "(みんな集合 Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/2a4784bfeff048b6011cb1ef351b17ee47dce556.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "チョトマテクダサイ！",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "チャンス到来！",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "チョトマテクダサイ！",
+              "duration": "04:05",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50208"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "チョトマテクダサイ！",
+              "duration": "04:17",
+              "suffix": "(Dance Shot Ver.II)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤D】",
+      "image": "/upload/images/35314811e72f4b2b4028362264c7de2a48cf4779.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "チョトマテクダサイ！",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "スマイレージ シングルス 激アツリミックス",
+              "duration": "05:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "チョトマテクダサイ！",
+              "duration": "04:05",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50210"
+        }
+      ],
+      "note": "イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/e3a5df4d10ab07f6d06d085688ca571a72962034.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "チョトマテクダサイ！",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "涙GIRL",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "チョトマテクダサイ！",
+              "duration": "04:05",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50211"
+        }
+      ]
+    }
+  ]
+}

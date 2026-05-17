@@ -1,0 +1,102 @@
+{
+  "code": "EPCE-5292",
+  "url": "/release/detail/EPCE-5292/",
+  "source": "upfront",
+  "title": "YOUR SONG ～青春宣誓～",
+  "category": "CDシングル",
+  "artist": "松浦亜弥",
+  "releaseDate": "2004/07/14",
+  "label": "zetima",
+  "images": [
+    "/images/ee37b0a6c1476b445f771052362e1fc026b7f468.jpg",
+    "/images/2170ae06e4703dfe39f4c263894cc856c292d56a.jpg"
+  ],
+  "editions": [
+    {
+      "name": "初回盤",
+      "image": "/images/ee37b0a6c1476b445f771052362e1fc026b7f468.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5292",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "YOUR SONG ～青春宣誓～",
+              "duration": "05:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一/鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "シャイニング デイ",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "YOUR SONG ～青春宣誓～(Instrumental)",
+              "duration": "05:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一/鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/images/2170ae06e4703dfe39f4c263894cc856c292d56a.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5293",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "YOUR SONG ～青春宣誓～",
+              "duration": "05:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一/鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "シャイニング デイ",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "YOUR SONG ～青春宣誓～(Instrumental)",
+              "duration": "05:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一/鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

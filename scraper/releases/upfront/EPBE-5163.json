@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5163",
+  "url": "/release/detail/EPBE-5163/",
+  "source": "upfront",
+  "title": "シングルV「ロボキッス」",
+  "category": "DVDシングルV",
+  "artist": "W",
+  "releaseDate": "2004/11/17",
+  "label": "zetima",
+  "images": [
+    "/images/2462c9353bc7df89d9e25f93f98f20cc13cee74d.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/2462c9353bc7df89d9e25f93f98f20cc13cee74d.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5163",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ロボキッス",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ロボキッス(HAPPY Ver.)",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "07:10"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

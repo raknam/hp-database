@@ -1,0 +1,113 @@
+{
+  "code": "HKBN-52003",
+  "url": "/release/detail/HKBN-52003/",
+  "source": "upfront",
+  "title": "Aloha Feeling 〜Oahu〜",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2004/04/28",
+  "label": "Pacific Heaven",
+  "images": [
+    "/images/nowprinting.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/nowprinting.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKBN-52003",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Kanaka Wai Wai",
+              "duration": "04:46",
+              "credits": {
+                "作曲": "JohnAlmeida"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Pineapple Mango",
+              "duration": "02:53",
+              "credits": {
+                "作曲": "DanielHo"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Dreams of Eternity",
+              "duration": "03:15",
+              "credits": {
+                "作曲": "DanielHo"
+              }
+            },
+            {
+              "index": 4,
+              "title": "A Ho'i Ho'i Mai",
+              "duration": "03:27",
+              "credits": {
+                "作曲": "Traditional"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Manoa Showers",
+              "duration": "03:28",
+              "credits": {
+                "作曲": "DanielHo"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Pearly Shells",
+              "duration": "02:44",
+              "credits": {
+                "作曲": "Traditional"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Waimea Valley",
+              "duration": "03:32",
+              "credits": {
+                "作曲": "DanielHo"
+              }
+            },
+            {
+              "index": 8,
+              "title": "After the Rain",
+              "duration": "02:18",
+              "credits": {
+                "作曲": "DanielHo"
+              }
+            },
+            {
+              "index": 9,
+              "title": "Hawaii Ponoi",
+              "duration": "02:06",
+              "credits": {
+                "作曲": "HenryBerger"
+              }
+            },
+            {
+              "index": 10,
+              "title": "Aloha Oe",
+              "duration": "03:58",
+              "credits": {
+                "作曲": "QueenLydiaLiliuokalani"
+              }
+            },
+            {
+              "index": 11,
+              "title": "Pacific Heaven ラインナップ",
+              "duration": "00:34"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

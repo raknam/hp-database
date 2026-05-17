@@ -1,0 +1,88 @@
+{
+  "code": "UFDL-1517",
+  "url": "/release/detail/UFDL-1517/",
+  "source": "upfront",
+  "title": "Ding Dong/ロマンティックなんてガラじゃない(Special Edition)",
+  "category": "配信",
+  "artist": "佐藤優樹",
+  "releaseDate": "2023/03/29",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/a4646bf89f2ee825bfebd447202563b42d97ffab.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/a4646bf89f2ee825bfebd447202563b42d97ffab.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1517",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Ding Dong",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "徳田光希",
+                "編曲": "徳田光希"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ロマンティックなんてガラじゃない",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "zopp",
+                "作曲": "Shusui/Anders Dannvik",
+                "編曲": "Anders Dannvik"
+              }
+            },
+            {
+              "index": 3,
+              "title": "愛のサバイバー",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Jean Luc Ponpon/星部ショウ",
+                "編曲": "大久保 薫"
+              }
+            },
+            {
+              "index": 4,
+              "title": "夢に出てこないでよ",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "zopp",
+                "作曲": "Shusui/Anders Dannvik",
+                "編曲": "Anders Dannvik"
+              }
+            },
+            {
+              "index": 5,
+              "title": "プラスティック・ジェネレーション",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "めんま"
+              }
+            },
+            {
+              "index": 6,
+              "title": "グリーン・フラワー",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "平川達也",
+                "編曲": "清水哲平"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "code": "EPCE-5800",
+  "url": "/release/detail/EPCE-5800/",
+  "source": "upfront",
+  "title": "この地球の平和を本気で願ってるんだよ!",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2011/09/14",
+  "label": "zetima",
+  "images": [
+    "/images/c5a1de946420a9338d47dd28f7b12e8d4b600817.jpg",
+    "/images/7747d6f9d19c94370c243ccc8322a595d30463d5.jpg",
+    "/images/e32942aab86d58946c4de611e1140e70cb86d40e.jpg",
+    "/images/ee2072168719de5f99127a207a8280333c3f10d5.jpg",
+    "/images/fc22903e851569c72cf32d2cf63e6eb74f54d397.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/c5a1de946420a9338d47dd28f7b12e8d4b600817.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5800",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "この地球の平和を本気で願ってるんだよ！",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "彼と一緒にお店がしたい！",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "この地球の平和を本気で願ってるんだよ！(Instrumental)",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "彼と一緒にお店がしたい！(Instrumental)",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/7747d6f9d19c94370c243ccc8322a595d30463d5.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5802",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "この地球の平和を本気で願ってるんだよ！(Close-up Ver.)",
+              "duration": "05:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/images/e32942aab86d58946c4de611e1140e70cb86d40e.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5804",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "この地球の平和を本気で願ってるんだよ！",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "彼と一緒にお店がしたい！",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "この地球の平和を本気で願ってるんだよ！(Instrumental)",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "彼と一緒にお店がしたい！(Instrumental)",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/ee2072168719de5f99127a207a8280333c3f10d5.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5806",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "彼と一緒にお店がしたい！(Close-up Ver.)",
+              "duration": "05:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【高橋愛卒業記念盤】",
+      "image": "/images/fc22903e851569c72cf32d2cf63e6eb74f54d397.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5807",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "この地球の平和を本気で願ってるんだよ！",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "彼と一緒にお店がしたい！",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "この地球の平和を本気で願ってるんだよ！(Instrumental)",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "彼と一緒にお店がしたい！(Instrumental)",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5270",
+  "url": "/release/detail/EPCE-5270/",
+  "source": "upfront",
+  "title": "DO MY BEST",
+  "category": "CDシングル",
+  "artist": "中澤裕子",
+  "releaseDate": "2004/05/26",
+  "label": "zetima",
+  "images": [
+    "/images/3d8e6d4da452c34f7d2a1dacbb712643a27a2367.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/3d8e6d4da452c34f7d2a1dacbb712643a27a2367.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5270",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "DO MY BEST",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "きっと どこかに赤い糸",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "DO MY BEST(Instrumental)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

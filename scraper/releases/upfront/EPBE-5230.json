@@ -1,0 +1,88 @@
+{
+  "code": "EPBE-5230",
+  "url": "/release/detail/EPBE-5230/",
+  "source": "upfront",
+  "title": "アロハロ！ 田中れいな DVD",
+  "category": "DVD",
+  "artist": "田中れいな",
+  "releaseDate": "2007/02/14",
+  "label": "zetima",
+  "images": [
+    "/images/2c834705a15e853fb0a5b1761af88cfb56ad7f79.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/2c834705a15e853fb0a5b1761af88cfb56ad7f79.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5230",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "00:27"
+            },
+            {
+              "index": 2,
+              "title": "Surf Shop",
+              "duration": "11:51"
+            },
+            {
+              "index": 3,
+              "title": "Lunch",
+              "duration": "04:58"
+            },
+            {
+              "index": 4,
+              "title": "Beach",
+              "duration": "03:58"
+            },
+            {
+              "index": 5,
+              "title": "Shave Ice",
+              "duration": "04:06"
+            },
+            {
+              "index": 6,
+              "title": "Sun Set",
+              "duration": "02:44"
+            },
+            {
+              "index": 7,
+              "title": "Shark Tour",
+              "duration": "07:21"
+            },
+            {
+              "index": 8,
+              "title": "Jet Ski",
+              "duration": "02:48"
+            },
+            {
+              "index": 9,
+              "title": "Sea",
+              "duration": "02:48"
+            },
+            {
+              "index": 10,
+              "title": "Move&Rest",
+              "duration": "03:18"
+            },
+            {
+              "index": 11,
+              "title": "Last Talk",
+              "duration": "09:09"
+            },
+            {
+              "index": 12,
+              "title": "Still Making",
+              "duration": "12:34"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 1711,
+  "url": "/release/1711/",
+  "title": "シングルV「Bravo☆Bravo」",
+  "category": "DVDシングルV",
+  "artist": "Buono!",
+  "releaseDate": "2009.12.22",
+  "label": "ポニーキャニオン",
+  "images": [
+    "/upload/images/297b067b5d15e016f4efe38ac5df5cd2453f9317.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "シングルV「Bravo☆Bravo」",
+              "duration": "00:00",
+              "credits": {
+                "出演": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "PCBP-51949"
+        }
+      ]
+    }
+  ]
+}

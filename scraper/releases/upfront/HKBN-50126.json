@@ -1,0 +1,82 @@
+{
+  "code": "HKBN-50126",
+  "url": "/release/detail/HKBN-50126/",
+  "source": "upfront",
+  "title": "真野恵里菜シングルVクリップス①",
+  "category": "DVD",
+  "artist": "真野恵里菜",
+  "releaseDate": "2010/03/03",
+  "label": "hachama",
+  "images": [
+    "/images/f42350630502a3623b53d86d867213bf28f1f832.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f42350630502a3623b53d86d867213bf28f1f832.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKBN-50126",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "乙女の祈り",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN"
+              }
+            },
+            {
+              "index": 2,
+              "title": "はじめての経験",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN"
+              }
+            },
+            {
+              "index": 3,
+              "title": "世界は サマー・パーティ",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN"
+              }
+            },
+            {
+              "index": 4,
+              "title": "この胸のときめきを",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "畠山俊昭"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Love & Peace ＝ パラダイス",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "経塚泰誠"
+              }
+            },
+            {
+              "index": 6,
+              "title": "春の嵐",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

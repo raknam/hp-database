@@ -1,0 +1,270 @@
+{
+  "code": "HKCN-50818",
+  "url": "/release/detail/HKCN-50818/",
+  "source": "upfront",
+  "title": "初恋、花冷え/悠々閑々 gonna be alright!!",
+  "category": "CDシングル",
+  "artist": "アンジュルム",
+  "releaseDate": "2024/11/13",
+  "label": "hachama",
+  "images": [
+    "/images/11bde2f4f06d2bbfa5324d26fdd66d0c9f1c3900.jpg",
+    "/images/c696b506f07df7a0bbda894f93774edcb9a001ba.jpg",
+    "/images/2710eee6948359a59a661092aeed409627b108c9.jpg",
+    "/images/5386616d86400e5af28991b195839684e17964a5.jpg",
+    "/images/cff13d8b433e23e1f64e61c9bd5453f7624eeb84.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/11bde2f4f06d2bbfa5324d26fdd66d0c9f1c3900.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50818",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "初恋、花冷え",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "悠々閑々 gonna be alright!!",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "炭竃智弘",
+                "編曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 3,
+              "title": "初恋、花冷え(Instrumental)",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "悠々閑々 gonna be alright!!(Instrumental)",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "炭竃智弘",
+                "編曲": "炭竃智弘"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/c696b506f07df7a0bbda894f93774edcb9a001ba.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKCN-50820",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "初恋、花冷え(Music Video)",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "初恋、花冷え(Dance Shot Ver.)",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "初恋、花冷え(メイキング映像)",
+              "duration": "14:57"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/images/2710eee6948359a59a661092aeed409627b108c9.jpg",
+      "price": "￥3,960 (税抜価格 ￥3,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50822",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "初恋、花冷え",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "悠々閑々 gonna be alright!!",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "炭竃智弘",
+                "編曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 3,
+              "title": "初恋、花冷え(Instrumental)",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "悠々閑々 gonna be alright!!(Instrumental)",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "炭竃智弘",
+                "編曲": "炭竃智弘"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/5386616d86400e5af28991b195839684e17964a5.jpg",
+      "price": "￥1,200 (税抜価格 ￥1,091)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKCN-50824",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "悠々閑々 gonna be alright!!(Music Video)",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 2,
+              "title": "悠々閑々 gonna be alright!!(Dance Shot Ver.)",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 3,
+              "title": "悠々閑々 gonna be alright!!(メイキング映像)",
+              "duration": "15:02"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/cff13d8b433e23e1f64e61c9bd5453f7624eeb84.jpg",
+      "price": "￥1,200 (税抜価格 ￥1,091)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50825",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "初恋、花冷え",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "悠々閑々 gonna be alright!!",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "炭竃智弘",
+                "編曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 3,
+              "title": "うれしいのにね、泣けちゃうわ【Additional Track】",
+              "duration": "03:11",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "初恋、花冷え(Instrumental)",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 5,
+              "title": "悠々閑々 gonna be alright!!(Instrumental)",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "炭竃智弘",
+                "編曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 6,
+              "title": "うれしいのにね、泣けちゃうわ(Instrumental)",
+              "duration": "03:11",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

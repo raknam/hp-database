@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-5345",
+  "url": "/release/detail/EPCE-5345/",
+  "source": "upfront",
+  "title": "都合のいい女・ほんとにほんとに御苦労さん",
+  "category": "CDシングル",
+  "artist": "犬神サーカス団",
+  "releaseDate": "2004/12/15",
+  "label": "zetima",
+  "images": [
+    "/images/51fb5d3bdffdd75ba464b060230f86c0995fadc4.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/51fb5d3bdffdd75ba464b060230f86c0995fadc4.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5345",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "都合のいい女",
+              "duration": "03:08",
+              "credits": {
+                "作詞": "犬神明",
+                "作曲": "犬神明",
+                "編曲": "犬神サーカス団"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ほんとにほんとに御苦労さん",
+              "duration": "03:02",
+              "credits": {
+                "作詞": "野村俊夫",
+                "作曲": "倉若晴生",
+                "編曲": "犬神サーカス団"
+              }
+            },
+            {
+              "index": 3,
+              "title": "愛の亡霊",
+              "duration": "05:32",
+              "credits": {
+                "作詞": "犬神明",
+                "作曲": "犬神明",
+                "編曲": "犬神サーカス団"
+              }
+            },
+            {
+              "index": 4,
+              "title": "需要供給の法則",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "犬神明",
+                "作曲": "犬神明",
+                "編曲": "犬神サーカス団"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

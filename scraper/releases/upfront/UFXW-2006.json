@@ -1,0 +1,58 @@
+{
+  "code": "UFXW-2006",
+  "url": "/release/detail/UFXW-2006/",
+  "source": "upfront",
+  "title": "Greeting 〜室田瑞希〜",
+  "category": "BD",
+  "artist": "室田瑞希",
+  "releaseDate": "2015/07/28",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/f253108fe79feab8b47c0b421d4b329c91e5f7c3.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f253108fe79feab8b47c0b421d4b329c91e5f7c3.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "UFXW-2006",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Morning Train",
+              "duration": "13:48"
+            },
+            {
+              "index": 2,
+              "title": "Greeting to you",
+              "duration": "12:02"
+            },
+            {
+              "index": 3,
+              "title": "Flower Field",
+              "duration": "16:59"
+            },
+            {
+              "index": 4,
+              "title": "Interview",
+              "duration": "02:35"
+            },
+            {
+              "index": 5,
+              "title": "Little Extra",
+              "duration": "02:47"
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "02:44"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": 2609,
+  "url": "/release/2609/",
+  "title": "22歳の私",
+  "category": "CDシングル",
+  "artist": "安倍なつみ",
+  "releaseDate": "2003.8.13",
+  "label": "hachama",
+  "images": [
+    "/upload/images/3b4baa428088133ec96c48f22d72097a93b0a245.webp",
+    "/upload/images/fa6926dae8fb223958501b8150554def10f99339.webp"
+  ],
+  "editions": [
+    {
+      "name": "初回限定盤",
+      "image": "/upload/images/3b4baa428088133ec96c48f22d72097a93b0a245.webp",
+      "price": "定価 ￥1,320（税抜価格 ￥1,200）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "22歳の私",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄",
+                "歌": "安倍なつみ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "夕焼け空",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "安倍なつみ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "22歳の私",
+              "duration": "04:56",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄",
+                "歌": "安倍なつみ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50012"
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/upload/images/fa6926dae8fb223958501b8150554def10f99339.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "22歳の私",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄",
+                "歌": "安倍なつみ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "夕焼け空",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "安倍なつみ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "22歳の私",
+              "duration": "04:56",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄",
+                "歌": "安倍なつみ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50013"
+        }
+      ]
+    }
+  ]
+}

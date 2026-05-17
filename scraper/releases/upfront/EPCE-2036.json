@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-2036",
+  "url": "/release/detail/EPCE-2036/",
+  "source": "upfront",
+  "title": "聞かせてよ愛の言葉を〜Parlez-Moi D'amour〜",
+  "category": "CDシングル",
+  "artist": "佐々木秀実",
+  "releaseDate": "2008/03/19",
+  "label": "地中海レーベル",
+  "images": [
+    "/images/627559fa38326f7584302938a8795d528aef62fe.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/627559fa38326f7584302938a8795d528aef62fe.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-2036",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "聞かせてよ愛の言葉を(フランス語＆日本語Ver.)",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "Jean(F)Lenoir/訳詞:菅美沙緒",
+                "作曲": "Jean(F)Lenoir",
+                "編曲": "美野春樹"
+              }
+            },
+            {
+              "index": 2,
+              "title": "聞かせてよ愛の言葉を(アルバム・フランス語Ver.)",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "Jean(F)Lenoir",
+                "作曲": "Jean(F)Lenoir",
+                "編曲": "美野春樹"
+              }
+            },
+            {
+              "index": 3,
+              "title": "聞かせてよ愛の言葉を(日本語Ver.)",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "Jean(F)Lenoir/訳詞:菅美沙緒",
+                "作曲": "Jean(F)Lenoir",
+                "編曲": "美野春樹"
+              }
+            },
+            {
+              "index": 4,
+              "title": "聞かせてよ愛の言葉を(Instrumental)",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "Jean(F)Lenoir",
+                "作曲": "Jean(F)Lenoir",
+                "編曲": "美野春樹"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

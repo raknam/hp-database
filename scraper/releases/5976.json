@@ -1,0 +1,145 @@
+{
+  "id": 5976,
+  "url": "/release/5976/",
+  "title": "TANPOPO 1",
+  "category": "アナログアルバム",
+  "artist": "タンポポ",
+  "releaseDate": "2019.4.1",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/02258ec8c419ad9e5ea4db29356e70d6cbe1a5b9.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "ANALOG",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ラストキッス",
+              "duration": "04:05",
+              "suffix": "(single version)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄",
+                "歌": "タンポポ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "わかってないじゃない",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "タンポポ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "センチメンタル南向き",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野伸",
+                "歌": "タンポポ"
+              }
+            },
+            {
+              "index": 1,
+              "title": "Motto",
+              "duration": "04:50",
+              "suffix": "(album mix)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野伸",
+                "歌": "タンポポ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "誕生日の朝",
+              "duration": "05:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄",
+                "歌": "タンポポ"
+              }
+            }
+          ],
+          "catalogNo": "UFWT-9011"
+        },
+        {
+          "type": "ANALOG",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "片想い",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "タンポポ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ONE STEP",
+              "duration": "05:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄",
+                "歌": "タンポポ"
+              }
+            },
+            {
+              "index": 1,
+              "title": "たんぽぽ",
+              "duration": "05:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄",
+                "歌": "タンポポ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "スキ",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄",
+                "歌": "タンポポ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ラストキッス",
+              "duration": "03:54",
+              "suffix": "(album version)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄",
+                "歌": "タンポポ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

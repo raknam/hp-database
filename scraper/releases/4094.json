@@ -1,0 +1,461 @@
+{
+  "id": 4094,
+  "url": "/release/4094/",
+  "title": "Wonderful World/Ça va ? Ça va ?",
+  "category": "CDシングル",
+  "artist": "Juice=Juice",
+  "releaseDate": "2015.4.8",
+  "label": "hachama",
+  "images": [
+    "/upload/images/34750d2f36f06555fec66c8e887279e9ebe52e9b.webp",
+    "/upload/images/18ae19e08cceba0dad6a375c37144f0399889769.webp",
+    "/upload/images/08bfa9e162eb77b25b69825bd0e43d6dbaf181d9.webp",
+    "/upload/images/89f38c0d296dd87a03f0dfc5033dcb5bbf6145d0.webp",
+    "/upload/images/08f79b7485592ce06e4859002afe4b9bc1601ec2.webp",
+    "/upload/images/b6a16bbe8c6c407c93bce05c8dd5b6d50570b99e.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/34750d2f36f06555fec66c8e887279e9ebe52e9b.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Wonderful World",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン",
+                "編曲": "gaokalab",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Ça va ? Ça va ?",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "川辺ヒロシ・上田禎",
+                "編曲": "CMJK",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Wonderful World",
+              "duration": "04:14",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン",
+                "編曲": "gaokalab",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Ça va ? Ça va ?",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "川辺ヒロシ・上田禎",
+                "編曲": "CMJK",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50407"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Wonderful World",
+              "duration": "04:53",
+              "suffix": "[Music Video]",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン",
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/18ae19e08cceba0dad6a375c37144f0399889769.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Ça va ? Ça va ?",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "川辺ヒロシ・上田禎",
+                "編曲": "CMJK",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Wonderful World",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン",
+                "編曲": "gaokalab",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Ça va ? Ça va ?",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "川辺ヒロシ・上田禎",
+                "編曲": "CMJK",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Wonderful World",
+              "duration": "04:14",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン",
+                "編曲": "gaokalab",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50409"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Ça va ? Ça va ?",
+              "duration": "04:41",
+              "suffix": "[Music Video]",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "川辺ヒロシ・上田禎",
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/08bfa9e162eb77b25b69825bd0e43d6dbaf181d9.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Wonderful World",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン",
+                "編曲": "gaokalab",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Ça va ? Ça va ?",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "川辺ヒロシ・上田禎",
+                "編曲": "CMJK",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Wonderful World",
+              "duration": "04:14",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン",
+                "編曲": "gaokalab",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Ça va ? Ça va ?",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "川辺ヒロシ・上田禎",
+                "編曲": "CMJK",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50411"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Wonderful World",
+              "duration": "04:19",
+              "suffix": "[Dance Shot Ver.]",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Wonderful World",
+              "duration": "11:29",
+              "suffix": "[ジャケット・MV撮影メイキング＆オフショット映像]",
+              "credits": {
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤D】",
+      "image": "/upload/images/89f38c0d296dd87a03f0dfc5033dcb5bbf6145d0.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Ça va ? Ça va ?",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "川辺ヒロシ・上田禎",
+                "編曲": "CMJK",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Wonderful World",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン",
+                "編曲": "gaokalab",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Ça va ? Ça va ?",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "川辺ヒロシ・上田禎",
+                "編曲": "CMJK",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Wonderful World",
+              "duration": "04:14",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン",
+                "編曲": "gaokalab",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50413"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Ça va ? Ça va ?",
+              "duration": "03:50",
+              "suffix": "[Dance Shot Ver.]",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "川辺ヒロシ・上田禎",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Ça va ? Ça va ?",
+              "duration": "10:38",
+              "suffix": "[ジャケット・MV撮影メイキング＆オフショット映像]",
+              "credits": {
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/08f79b7485592ce06e4859002afe4b9bc1601ec2.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Wonderful World",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン",
+                "編曲": "gaokalab",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Ça va ? Ça va ?",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "川辺ヒロシ・上田禎",
+                "編曲": "CMJK",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Wonderful World",
+              "duration": "04:14",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン",
+                "編曲": "gaokalab",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Ça va ? Ça va ?",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "川辺ヒロシ・上田禎",
+                "編曲": "CMJK",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50415"
+        }
+      ],
+      "note": "トレカサイズ生写真 ソロ5種＋集合1種よりランダムにて1枚封入(Wonderful World Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/b6a16bbe8c6c407c93bce05c8dd5b6d50570b99e.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Ça va ? Ça va ?",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "川辺ヒロシ・上田禎",
+                "編曲": "CMJK",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Wonderful World",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン",
+                "編曲": "gaokalab",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Ça va ? Ça va ?",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "川辺ヒロシ・上田禎",
+                "編曲": "CMJK",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Wonderful World",
+              "duration": "04:14",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン",
+                "編曲": "gaokalab",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50416"
+        }
+      ],
+      "note": "トレカサイズ生写真 ソロ5種＋集合1種よりランダムにて1枚封入(?a va ? ?a va ? (サヴァサヴァ) Ver.)※初回プレス分のみ"
+    }
+  ]
+}

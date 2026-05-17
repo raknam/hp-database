@@ -1,0 +1,98 @@
+{
+  "code": "UFCW-1110",
+  "url": "/release/detail/UFCW-1110/",
+  "source": "upfront",
+  "title": "＃ビタスイ",
+  "category": "CDミニアルバム",
+  "artist": "Bitter ＆ Sweet",
+  "releaseDate": "2015/12/23",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/be04b3ded8f0c69699cd2fe5f37d8ae5a7924ca2.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/be04b3ded8f0c69699cd2fe5f37d8ae5a7924ca2.jpg",
+      "price": "￥2,037 (税抜価格 ￥1,852)",
+      "discs": [
+        {
+          "type": "CDミニアルバム",
+          "catalogNo": "UFCW-1110",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Rolling Days(B&S Edition)",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "Mari-Joe",
+                "作曲": "安岡洋一郎",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 2,
+              "title": "オレンジライン",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 3,
+              "title": "真夜中のLonely",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "泣いて 泣いて 恋してる",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "唐沢美帆",
+                "作曲": "加藤裕介",
+                "編曲": "山下洋介"
+              }
+            },
+            {
+              "index": 5,
+              "title": "バイバイメトロ",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "炭竃智弘",
+                "編曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 6,
+              "title": "DREAM GIRL",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "アベショー",
+                "作曲": "中島卓偉",
+                "編曲": "Team MF"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ハレルヤ",
+              "duration": "04:47",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

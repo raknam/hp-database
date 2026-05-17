@@ -1,0 +1,98 @@
+{
+  "code": "EPBE-5196",
+  "url": "/release/detail/EPBE-5196/",
+  "source": "upfront",
+  "title": "アロハロ！紺野あさ美DVD",
+  "category": "DVD",
+  "artist": "紺野あさ美",
+  "releaseDate": "2006/04/12",
+  "label": "zetima",
+  "images": [
+    "/images/4bd518dfc0f2ebeada48e6975d5892b275e0c768.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/4bd518dfc0f2ebeada48e6975d5892b275e0c768.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5196",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "00:22"
+            },
+            {
+              "index": 2,
+              "title": "Eggs'n Things",
+              "duration": "05:19"
+            },
+            {
+              "index": 3,
+              "title": "Shopping",
+              "duration": "11:59"
+            },
+            {
+              "index": 4,
+              "title": "Zoo",
+              "duration": "08:21"
+            },
+            {
+              "index": 5,
+              "title": "Park",
+              "duration": "00:00"
+            },
+            {
+              "index": 6,
+              "title": "Room",
+              "duration": "03:42"
+            },
+            {
+              "index": 7,
+              "title": "Beach",
+              "duration": "03:19"
+            },
+            {
+              "index": 8,
+              "title": "Lunch",
+              "duration": "02:16"
+            },
+            {
+              "index": 9,
+              "title": "Poolside",
+              "duration": "04:47"
+            },
+            {
+              "index": 10,
+              "title": "Bumper Tube",
+              "duration": "03:28"
+            },
+            {
+              "index": 11,
+              "title": "Wake Board",
+              "duration": "03:03"
+            },
+            {
+              "index": 12,
+              "title": "Sunset",
+              "duration": "06:33"
+            },
+            {
+              "index": 13,
+              "title": "Making",
+              "duration": "05:01"
+            },
+            {
+              "index": 14,
+              "title": "Self Shoot",
+              "duration": "03:31"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": 467,
+  "url": "/release/467/",
+  "title": "夏休み",
+  "category": "DVD",
+  "artist": "鈴木愛理",
+  "releaseDate": "2010.8.25",
+  "label": "zetima",
+  "images": [
+    "/upload/images/cfddbdf1787174f701e20f6dc0663352b6c1ba05.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "07:41",
+              "credits": {
+                "出演": "鈴木愛理(℃-ute)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "体育館",
+              "duration": "02:28",
+              "credits": {
+                "出演": "鈴木愛理(℃-ute)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "屋上",
+              "duration": "02:03",
+              "credits": {
+                "出演": "鈴木愛理(℃-ute)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ビーチ",
+              "duration": "11:31",
+              "credits": {
+                "出演": "鈴木愛理(℃-ute)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "駅",
+              "duration": "03:18",
+              "credits": {
+                "出演": "鈴木愛理(℃-ute)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "「夏休み」メイキング",
+              "duration": "04:06",
+              "credits": {
+                "出演": "鈴木愛理(℃-ute)"
+              }
+            },
+            {
+              "index": 7,
+              "title": "「登校日」メイキング",
+              "duration": "23:16",
+              "credits": {
+                "出演": "鈴木愛理(℃-ute)"
+              }
+            },
+            {
+              "index": 8,
+              "title": "エンドロール",
+              "duration": "04:08",
+              "credits": {
+                "出演": "鈴木愛理(℃-ute)"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5386"
+        }
+      ]
+    }
+  ]
+}

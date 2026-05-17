@@ -1,0 +1,75 @@
+{
+  "id": 2309,
+  "url": "/release/2309/",
+  "title": "KArin",
+  "category": "DVD",
+  "artist": "宮本佳林",
+  "releaseDate": "2014.7.16",
+  "label": "hachama",
+  "images": [
+    "/upload/images/159b2a8a0faab0f7eb7ecb925e948bbf28a67c68.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "01:13",
+              "credits": {
+                "出演": "宮本佳林"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Monday Morning",
+              "duration": "07:33",
+              "credits": {
+                "出演": "宮本佳林"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Summer Beach",
+              "duration": "11:00",
+              "credits": {
+                "出演": "宮本佳林"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Sunset Island",
+              "duration": "09:49",
+              "credits": {
+                "出演": "宮本佳林"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Making of 「佳林」",
+              "duration": "23:30",
+              "credits": {
+                "出演": "宮本佳林"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "01:35",
+              "credits": {
+                "出演": "宮本佳林"
+              }
+            }
+          ],
+          "catalogNo": "HKBN-50186"
+        }
+      ]
+    }
+  ]
+}

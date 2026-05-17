@@ -1,0 +1,83 @@
+{
+  "id": 3467,
+  "url": "/release/3467/",
+  "title": "Love Love Love",
+  "category": "DVD",
+  "artist": "高橋愛",
+  "releaseDate": "2011.9.21",
+  "label": "zetima",
+  "images": [
+    "/upload/images/a989125a45f1142ac629077e56fbc346cc455ea2.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Ai Meets One",
+              "duration": "04:40",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Dancer in the Desert",
+              "duration": "02:46",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Route 66",
+              "duration": "20:18",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Beach of West Coast",
+              "duration": "11:09",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Sweet Time",
+              "duration": "13:27",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Making of 「愛愛愛」",
+              "duration": "19:28",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Ending",
+              "duration": "05:09",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5418"
+        }
+      ]
+    }
+  ]
+}

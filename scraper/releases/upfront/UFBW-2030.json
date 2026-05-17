@@ -1,0 +1,58 @@
+{
+  "code": "UFBW-2030",
+  "url": "/release/detail/UFBW-2030/",
+  "source": "upfront",
+  "title": "a foggy doll",
+  "category": "DVD",
+  "artist": "矢島舞美",
+  "releaseDate": "2011/08/29",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/ef154749991852a721b98bbeb48f6f62a93bc5a0.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/ef154749991852a721b98bbeb48f6f62a93bc5a0.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2030",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "a foggy doll",
+              "duration": "13:29"
+            },
+            {
+              "index": 2,
+              "title": "solid beauty",
+              "duration": "11:08"
+            },
+            {
+              "index": 3,
+              "title": "green garden",
+              "duration": "08:26"
+            },
+            {
+              "index": 4,
+              "title": "a garage doll",
+              "duration": "05:38"
+            },
+            {
+              "index": 5,
+              "title": "not a doll",
+              "duration": "02:37"
+            },
+            {
+              "index": 6,
+              "title": "Interview",
+              "duration": "10:12"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

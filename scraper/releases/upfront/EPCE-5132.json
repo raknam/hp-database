@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5132",
+  "url": "/release/detail/EPCE-5132/",
+  "source": "upfront",
+  "title": "ミニハムずの愛の唄",
+  "category": "CDシングル",
+  "artist": "ミニハムず",
+  "releaseDate": "2001/12/05",
+  "label": "zetima",
+  "images": [
+    "/images/362bfb009c6d96d5d55b67f6b9f9fa651befc5d0.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/362bfb009c6d96d5d55b67f6b9f9fa651befc5d0.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5132",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ミニハムずの愛の唄",
+              "duration": "03:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "渡部チェル"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ミニハムずんたかたった！",
+              "duration": "02:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "渡部チェル"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ミニハムずの愛の唄(オリジナル・カラオケ)",
+              "duration": "03:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "渡部チェル"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

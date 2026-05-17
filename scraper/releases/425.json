@@ -1,0 +1,123 @@
+{
+  "id": 425,
+  "url": "/release/425/",
+  "title": "アロハロ！3 モーニング娘。DVD",
+  "category": "DVD",
+  "artist": "モーニング娘。",
+  "releaseDate": "2008.12.24",
+  "label": "zetima",
+  "images": [
+    "/upload/images/e2c3c2f1431eed0fa1f35be3ff85b974a5f23b3c.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ビーチフラッグ",
+              "duration": "10:30",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ビーチバレー",
+              "duration": "08:20",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "プール",
+              "duration": "06:22",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 4,
+              "title": "1日目終了",
+              "duration": "02:43",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 5,
+              "title": "イルカとふれあいツアー",
+              "duration": "10:19",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 6,
+              "title": "世界にひとつのハワイアンジュエリーツアー",
+              "duration": "10:25",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 7,
+              "title": "波乗りツアー",
+              "duration": "09:18",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 8,
+              "title": "パワースポットツアー",
+              "duration": "09:28",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 9,
+              "title": "絶叫ツアー",
+              "duration": "08:59",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 10,
+              "title": "パーティークッキングツアー",
+              "duration": "12:03",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 11,
+              "title": "バーベキュー",
+              "duration": "09:52",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 12,
+              "title": "エンディング",
+              "duration": "02:16",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5314"
+        }
+      ]
+    }
+  ]
+}

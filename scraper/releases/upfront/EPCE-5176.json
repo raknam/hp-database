@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5176",
+  "url": "/release/detail/EPCE-5176/",
+  "source": "upfront",
+  "title": "The 美学",
+  "category": "CDシングル",
+  "artist": "松浦亜弥",
+  "releaseDate": "2002/09/19",
+  "label": "zetima",
+  "images": [
+    "/images/32b4f84e730e2b6378f2b91a4d28502526f6ef6b.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/32b4f84e730e2b6378f2b91a4d28502526f6ef6b.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5176",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "The 美学",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "I know",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野伸"
+              }
+            },
+            {
+              "index": 3,
+              "title": "The 美学(Instrumental)",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

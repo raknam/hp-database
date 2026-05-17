@@ -1,0 +1,92 @@
+{
+  "code": "PKBP-5110",
+  "url": "/release/detail/PKBP-5110/",
+  "source": "upfront",
+  "title": "ベリキュー！Vol.1",
+  "category": "DVD",
+  "artist": "Berryz工房×℃-ute",
+  "releaseDate": "2009/05/27",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/d95884a8c540fc9adb3dbc83ad42c61e652f94ea.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d95884a8c540fc9adb3dbc83ad42c61e652f94ea.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5110",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "キャッチdeベリQ！",
+              "duration": "03:18"
+            },
+            {
+              "index": 2,
+              "title": "グッズdeベリQ！",
+              "duration": "03:08"
+            },
+            {
+              "index": 3,
+              "title": "2番deベリQ！",
+              "duration": "03:39"
+            },
+            {
+              "index": 4,
+              "title": "ポーズdeベリQ！",
+              "duration": "03:11"
+            },
+            {
+              "index": 5,
+              "title": "イラストdeベリQ！",
+              "duration": "03:56"
+            },
+            {
+              "index": 6,
+              "title": "Berryz工房＆℃-ute 合同コンサートのリハーサルに密着",
+              "duration": "05:49"
+            },
+            {
+              "index": 7,
+              "title": "Berryz工房＆℃-ute 初の合同コンサートに密着！",
+              "duration": "15:06"
+            },
+            {
+              "index": 8,
+              "title": "料理deベリQ！(シーザーサラダ)",
+              "duration": "06:33"
+            },
+            {
+              "index": 9,
+              "title": "料理deベリQ！(穴きゅう巻き)",
+              "duration": "05:21"
+            },
+            {
+              "index": 10,
+              "title": "料理deベリQ！(他人丼)",
+              "duration": "07:14"
+            },
+            {
+              "index": 11,
+              "title": "料理deベリQ！(チンジャオロース)",
+              "duration": "11:09"
+            },
+            {
+              "index": 12,
+              "title": "ベリキュー！版「歌ドキッ！」ひと夏の経験",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "千家和也",
+                "作曲": "都倉俊一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

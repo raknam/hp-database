@@ -1,0 +1,130 @@
+{
+  "code": "EPCE-5889",
+  "url": "/release/detail/EPCE-5889/",
+  "source": "upfront",
+  "title": "SHERBET",
+  "category": "CDミニアルバム",
+  "artist": "Buono!",
+  "releaseDate": "2012/08/22",
+  "label": "zetima",
+  "images": [
+    "/images/546d5f915ceec3db42a995f3b8cc9563d4b955ba.jpg",
+    "/images/2322f4f0b3a85fcaf141de0434a43060d3897752.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/546d5f915ceec3db42a995f3b8cc9563d4b955ba.jpg",
+      "price": "￥2,934 (税抜価格 ￥2,667)",
+      "discs": [
+        {
+          "type": "CDミニアルバム",
+          "catalogNo": "EPCE-5889",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "FEVER",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "DECO*27",
+                "作曲": "DECO*27",
+                "編曲": "DECO*27 + Konnie-PLASMO'-Aoki"
+              }
+            },
+            {
+              "index": 2,
+              "title": "GO!GO!ゴーダ",
+              "duration": "01:52",
+              "credits": {
+                "作詞": "HA&AKIRASTAR",
+                "作曲": "HA&AKIRASTAR",
+                "編曲": "AKIRASTAR"
+              }
+            },
+            {
+              "index": 3,
+              "title": "初恋サイダー(Album version)",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "しほり",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "未来ドライブ",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "HA",
+                "作曲": "松井望＆HA",
+                "編曲": "Konnie-PLASMO'-Aoki"
+              }
+            },
+            {
+              "index": 5,
+              "title": "BELIEVE★★★",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "HA",
+                "作曲": "HA",
+                "編曲": "Konnie-PLASMO'-Aoki"
+              }
+            },
+            {
+              "index": 6,
+              "title": "夏の星空",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "HA",
+                "作曲": "松井望＆HA",
+                "編曲": "tasuku + Konnie-PLASMO'-Aoki"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Never gonna stop!",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "HA",
+                "作曲": "AKIRASTAR",
+                "編曲": "AKIRASTAR"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/2322f4f0b3a85fcaf141de0434a43060d3897752.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5891",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Never gonna stop!(Close-up BUONO! Ver.-type.01-)",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "HA",
+                "作曲": "AKIRASTAR"
+              }
+            },
+            {
+              "index": 2,
+              "title": "2012フランス公演密着ドキュメント",
+              "duration": "32:46",
+              "credits": {
+                "作詞": "NOBE/おのりく、三浦徳子/つんく/AKIRASTAR、C.P",
+                "作曲": "しほり、AKIRASTAR、つんく/HA、井上慎二郎、木之下慶行"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

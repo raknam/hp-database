@@ -1,0 +1,95 @@
+{
+  "code": "EPCE-5271",
+  "url": "/release/detail/EPCE-5271/",
+  "source": "upfront",
+  "title": "ハロー！プロジェクト ラジオドラマ vol.3",
+  "category": "CDアルバム",
+  "artist": "V.A.",
+  "releaseDate": "2004/03/31",
+  "label": "zetima",
+  "images": [
+    "/images/9e549c64f7c531b97ad106384aa33e43c51ac2d1.jpg"
+  ],
+  "editions": [
+    {
+      "name": "初回盤",
+      "image": "/images/9e549c64f7c531b97ad106384aa33e43c51ac2d1.jpg",
+      "price": "￥3,080 (税抜価格 ￥2,800)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5271",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "温泉行きのバスに揺られて",
+              "duration": "20:23",
+              "credits": {
+                "作詞": "原作:大江丈晴",
+                "作曲": "脚本:楠野一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ああサクラバシ",
+              "duration": "23:13",
+              "credits": {
+                "作詞": "原作:澤下大樹",
+                "作曲": "脚本:楠野一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "クレープのいる街",
+              "duration": "22:24",
+              "credits": {
+                "作詞": "原作:掛川浩司",
+                "作曲": "脚本:楠野一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": null,
+      "price": "￥1,980 (税抜価格 ￥1,800)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5272",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "温泉行きのバスに揺られて",
+              "duration": "20:23",
+              "credits": {
+                "作詞": "原作:大江丈晴",
+                "作曲": "脚本:楠野一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ああサクラバシ",
+              "duration": "23:13",
+              "credits": {
+                "作詞": "原作:澤下大樹",
+                "作曲": "脚本:楠野一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "クレープのいる街",
+              "duration": "22:24",
+              "credits": {
+                "作詞": "原作:掛川浩司",
+                "作曲": "脚本:楠野一郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "code": "EPDE-3001",
+  "url": "/release/detail/EPDE-3001/",
+  "source": "upfront",
+  "title": "泣かせないで",
+  "category": "CDシングル",
+  "artist": "京壮亮",
+  "releaseDate": "1998/05/21",
+  "label": "zetima",
+  "images": [
+    "/images/d075b8814dda89a0a1c53253a899e897d91bcdb8.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d075b8814dda89a0a1c53253a899e897d91bcdb8.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-3001",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "泣かせないで",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "建石一",
+                "作曲": "聖川湧",
+                "編曲": "前田俊明"
+              }
+            },
+            {
+              "index": 2,
+              "title": "涙は愛のあかし",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "建石一",
+                "作曲": "聖川湧",
+                "編曲": "前田俊明"
+              }
+            },
+            {
+              "index": 3,
+              "title": "泣かせないで(オリジナル・カラオケ)",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "建石一",
+                "作曲": "聖川湧",
+                "編曲": "前田俊明"
+              }
+            },
+            {
+              "index": 4,
+              "title": "涙は愛のあかし(オリジナル・カラオケ)",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "建石一",
+                "作曲": "聖川湧",
+                "編曲": "前田俊明"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": null,
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "カセットテープシングル",
+          "catalogNo": "EPSE-3001",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "泣かせないで",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "建石一",
+                "作曲": "聖川湧",
+                "編曲": "前田俊明"
+              }
+            },
+            {
+              "index": 2,
+              "title": "涙は愛のあかし",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "建石一",
+                "作曲": "聖川湧",
+                "編曲": "前田俊明"
+              }
+            },
+            {
+              "index": 3,
+              "title": "泣かせないで(オリジナル・カラオケ)",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "建石一",
+                "作曲": "聖川湧",
+                "編曲": "前田俊明"
+              }
+            },
+            {
+              "index": 4,
+              "title": "涙は愛のあかし(オリジナル・カラオケ)",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "建石一",
+                "作曲": "聖川湧",
+                "編曲": "前田俊明"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

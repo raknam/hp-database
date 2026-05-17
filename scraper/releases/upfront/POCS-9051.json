@@ -1,0 +1,100 @@
+{
+  "code": "POCS-9051",
+  "url": "/release/detail/POCS-9051/",
+  "source": "upfront",
+  "title": "URAHARA テンプテーション / いいじゃん",
+  "category": "CDシングル",
+  "artist": "吉川友",
+  "releaseDate": "2014/06/25",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/f028a524a4ec749ba0bd45eb6a7990ac42de3a46.jpg",
+    "/images/053f62f1c900e32a7e2ea578c0488356613b5ed3.jpg"
+  ],
+  "editions": [
+    {
+      "name": "初回生産限定盤(DVD付き)",
+      "image": "/images/f028a524a4ec749ba0bd45eb6a7990ac42de3a46.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "POCS-9051",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "URAHARA テンプテーション",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 2,
+              "title": "いいじゃん",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 3,
+              "title": "URAHARA テンプテーション (Instrumental)",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 4,
+              "title": "いいじゃん(Instrumental)",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/images/053f62f1c900e32a7e2ea578c0488356613b5ed3.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "POCS-1158",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "URAHARA テンプテーション(Music Video)",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo"
+              }
+            },
+            {
+              "index": 2,
+              "title": "いいじゃん(Music Video)",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

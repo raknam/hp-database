@@ -1,0 +1,49 @@
+{
+  "id": 2218,
+  "url": "/release/2218/",
+  "title": "ロマンティック 浮かれモード/LOVE涙色",
+  "category": "CDシングル",
+  "artist": "岡井千聖",
+  "releaseDate": "2011.1.25",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/1dc6e4b4ccd94cc9ef77296cb61d5ed0f165eb19.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ロマンティック 浮かれモード",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "上杉洋史",
+                "歌": "岡井千聖(℃-ute)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "LOVE涙色",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "渡部チェル",
+                "歌": "岡井千聖(℃-ute)"
+              }
+            }
+          ],
+          "catalogNo": "UWKS-001"
+        }
+      ]
+    }
+  ]
+}

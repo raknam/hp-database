@@ -1,0 +1,78 @@
+{
+  "code": "EPCE-5028",
+  "url": "/release/detail/EPCE-5028/",
+  "source": "upfront",
+  "title": "Magic of Love",
+  "category": "CDシングル",
+  "artist": "太陽とシスコムーン",
+  "releaseDate": "1999/09/29",
+  "label": "zetima",
+  "images": [
+    "/images/95387cc43cb9ad51a2720c713deb4edf0cdcd999.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/95387cc43cb9ad51a2720c713deb4edf0cdcd999.jpg",
+      "price": "￥1,282 (税抜価格 ￥1,165)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5028",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Magic of Love",
+              "duration": "05:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "編曲:村山晋一郎/ｽﾄﾘﾝｸﾞｽｱﾚﾝｼﾞ:村山達哉"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Versus",
+              "duration": "05:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "KoichiMatsumoto&ToshiyukiMatsumoto"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Everyday Everywherecrazy dance remix Remixed by E.S.P.",
+              "duration": "06:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "E.S.P."
+              }
+            },
+            {
+              "index": 4,
+              "title": "Everyday Everywheresugee reggae remix Remixed by Summer Soul",
+              "duration": "09:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "SummerSoul"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Magic of Love(Instrumental)",
+              "duration": "05:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "編曲:村山晋一郎/ｽﾄﾘﾝｸﾞｽｱﾚﾝｼﾞ:村山達哉"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

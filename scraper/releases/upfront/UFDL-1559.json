@@ -1,0 +1,78 @@
+{
+  "code": "UFDL-1559",
+  "url": "/release/detail/UFDL-1559/",
+  "source": "upfront",
+  "title": "夏のイナズマ/ガオガオガオ(Special Edition)",
+  "category": "配信",
+  "artist": "ロージークロニクル",
+  "releaseDate": "2025/07/23",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/2292c36d7b6a0bf40ea26e3e75ee9290b214fb7d.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/2292c36d7b6a0bf40ea26e3e75ee9290b214fb7d.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1559",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夏のイナズマ",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ガオガオガオ",
+              "duration": "03:04",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO",
+                "編曲": "大沢圭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "薔薇より美しい人生",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "ありぼぼ",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ダイスキだけど付き合えない",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "渡部チェル"
+              }
+            },
+            {
+              "index": 5,
+              "title": "女で地球は回ってる",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

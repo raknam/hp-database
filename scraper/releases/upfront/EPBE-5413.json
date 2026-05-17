@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5413",
+  "url": "/release/detail/EPBE-5413/",
+  "source": "upfront",
+  "title": "シングルV「この地球の平和を本気で願ってるんだよ!/彼と一緒にお店がしたい!」",
+  "category": "DVDシングルV",
+  "artist": "モーニング娘。",
+  "releaseDate": "2011/09/21",
+  "label": "zetima",
+  "images": [
+    "/images/fd36c7e24579aec2cae353129047cabf33d8db0b.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/fd36c7e24579aec2cae353129047cabf33d8db0b.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5413",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "この地球の平和を本気で願ってるんだよ！",
+              "duration": "05:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "彼と一緒にお店がしたい！",
+              "duration": "04:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "01:09:26"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "code": "UFWT-1008",
+  "url": "/release/detail/UFWT-1008/",
+  "source": "upfront",
+  "title": "弱い男の固い意志",
+  "category": "CDアルバム",
+  "artist": "KAN",
+  "releaseDate": "2010/10/27",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/4466ce76e6f13928895726d24aa391cd854443bd.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/4466ce76e6f13928895726d24aa391cd854443bd.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "UFWT-1008",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ラジコン",
+              "duration": "02:19",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "小林信吾/KAN"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Cover Girl",
+              "duration": "05:52",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "小林信吾/KAN"
+              }
+            },
+            {
+              "index": 3,
+              "title": "星空がcrying",
+              "duration": "05:18",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "小林信吾/KAN"
+              }
+            },
+            {
+              "index": 4,
+              "title": "いつもまじめに君のこと",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "小林信吾/KAN"
+              }
+            },
+            {
+              "index": 5,
+              "title": "甘海老",
+              "duration": "05:58",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "小林信吾/KAN"
+              }
+            },
+            {
+              "index": 6,
+              "title": "STARS",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "小林信吾/KAN"
+              }
+            },
+            {
+              "index": 7,
+              "title": "焼肉でもいきましょうよ",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "小林信吾/KAN"
+              }
+            },
+            {
+              "index": 8,
+              "title": "秋、多摩川にて",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "小林信吾/KAN"
+              }
+            },
+            {
+              "index": 9,
+              "title": "明るいだけのLove Song",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "小林信吾/KAN"
+              }
+            },
+            {
+              "index": 10,
+              "title": "朝日橋",
+              "duration": "02:35",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

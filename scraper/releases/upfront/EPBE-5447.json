@@ -1,0 +1,58 @@
+{
+  "code": "EPBE-5447",
+  "url": "/release/detail/EPBE-5447/",
+  "source": "upfront",
+  "title": "ステーシーズ 少女再殺歌劇",
+  "category": "DVD",
+  "artist": "モーニング娘。",
+  "releaseDate": "2012/09/12",
+  "label": "zetima",
+  "images": [
+    "/images/fa902de0239f1af566bc79a1c9ae24828061c3c8.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/fa902de0239f1af566bc79a1c9ae24828061c3c8.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5447",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "PROLOGUE ステーシー",
+              "duration": "10:59"
+            },
+            {
+              "index": 2,
+              "title": "EpisodeII 詠子と渋川",
+              "duration": "18:03"
+            },
+            {
+              "index": 3,
+              "title": "EpisodeIII モモと有田",
+              "duration": "38:44"
+            },
+            {
+              "index": 4,
+              "title": "EpisodeIV ドリューと祐助",
+              "duration": "38:27"
+            },
+            {
+              "index": 5,
+              "title": "エピローグ",
+              "duration": "12:55"
+            },
+            {
+              "index": 6,
+              "title": "バックステージ映像、ステーシーズアドリブ全員分収録！",
+              "duration": "22:14"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

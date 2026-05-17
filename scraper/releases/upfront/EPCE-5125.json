@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5125",
+  "url": "/release/detail/EPCE-5125/",
+  "source": "upfront",
+  "title": "なんでやねん 心配せんでもええ",
+  "category": "CDシングル",
+  "artist": "7HOUSE",
+  "releaseDate": "2001/11/07",
+  "label": "zetima",
+  "images": [
+    "/images/039260076a6cfc0468f6270fb3f881ec88bf8d3b.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/039260076a6cfc0468f6270fb3f881ec88bf8d3b.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5125",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "なんでやねん 心配せんでもええ",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一＆セブンHOUSE"
+              }
+            },
+            {
+              "index": 2,
+              "title": "追伸",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "ケンジ",
+                "作曲": "ヒロキ",
+                "編曲": "セブンHOUSE"
+              }
+            },
+            {
+              "index": 3,
+              "title": "なんでやねん 心配せんでもええ(Instrumental)",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一＆セブンHOUSE"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

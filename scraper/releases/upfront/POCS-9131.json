@@ -1,0 +1,179 @@
+{
+  "code": "POCS-9131",
+  "url": "/release/detail/POCS-9131/",
+  "source": "upfront",
+  "title": "歯をくいしばれっっ！/チャーミング勝負世代",
+  "category": "CDシングル",
+  "artist": "吉川友",
+  "releaseDate": "2016/06/01",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/764bb101e3000a2fe398c57d83178c329c78a763.jpg",
+    "/images/633dd4f8860275ecbd27ebc2d848b7baa6fe5cc4.jpg",
+    "/images/d04d57b9e8942425f4535c0248219982da474114.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/764bb101e3000a2fe398c57d83178c329c78a763.jpg",
+      "price": "￥2,444 (税抜価格 ￥2,222)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "POCS-9131",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "歯をくいしばれっっ！",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "編曲": "サクライケンタ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "チャーミング勝負世代",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "理姫",
+                "作曲": "奥脇達也",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 3,
+              "title": "歯をくいしばれっっ！(Instrumental)",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "編曲": "サクライケンタ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "チャーミング勝負世代(Instrumental)",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "理姫",
+                "作曲": "奥脇達也",
+                "編曲": "michitomo"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/633dd4f8860275ecbd27ebc2d848b7baa6fe5cc4.jpg",
+      "price": "￥1,324 (税抜価格 ￥1,204)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "POCS-9132",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "歯をくいしばれっっ！(Music Video)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子"
+              }
+            },
+            {
+              "index": 2,
+              "title": "チャーミング勝負世代(Music Video)",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "理姫",
+                "作曲": "奥脇達也"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Music Video メイキング映像",
+              "duration": "14:20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/d04d57b9e8942425f4535c0248219982da474114.jpg",
+      "price": "￥1,019 (税抜価格 ￥926)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "POCS-1442",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "歯をくいしばれっっ！",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "編曲": "サクライケンタ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "チャーミング勝負世代",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "理姫",
+                "作曲": "奥脇達也",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Maneiro!",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "KOJI oba"
+              }
+            },
+            {
+              "index": 4,
+              "title": "歯をくいしばれっっ！(Instrumental)",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "編曲": "サクライケンタ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "チャーミング勝負世代(Instrumental)",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "理姫",
+                "作曲": "奥脇達也",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Maneiro!(Instrumental)",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "KOJI oba"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

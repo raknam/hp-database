@@ -1,0 +1,565 @@
+{
+  "id": 5016,
+  "url": "/release/5016/",
+  "title": "夢幻クライマックス/愛はまるで静電気/Singing〜あの頃のように〜",
+  "category": "CDシングル",
+  "artist": "℃-ute",
+  "releaseDate": "2016.11.2",
+  "label": "zetima",
+  "images": [
+    "/upload/images/5cc87c7bc6a7d0a6f119668edd6865cee459329f.webp",
+    "/upload/images/7915900aed2266da5c6808112fda9886e6a88c15.webp",
+    "/upload/images/c604c7cc0fd4af3e4ed9a1ac0137f55186be88cf.webp",
+    "/upload/images/eb01efa09e24bd8b8a969ab7f115afa12399452c.webp",
+    "/upload/images/63ec964476fe9c3591cc70a451577ec54b0f96be.webp",
+    "/upload/images/a3034e64688a4a0a6f41fc24e55c8d49d5685734.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/5cc87c7bc6a7d0a6f119668edd6865cee459329f.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夢幻クライマックス",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "編曲": "大久保薫",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "愛はまるで静電気",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Singing〜あの頃のように〜",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "夢幻クライマックス",
+              "duration": "04:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "編曲": "大久保薫",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "愛はまるで静電気",
+              "duration": "04:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Singing〜あの頃のように〜",
+              "duration": "04:29",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7249"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夢幻クライマックス",
+              "duration": "04:29",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "出演": "℃-ute"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/7915900aed2266da5c6808112fda9886e6a88c15.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夢幻クライマックス",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "編曲": "大久保薫",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "愛はまるで静電気",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Singing〜あの頃のように〜",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "夢幻クライマックス",
+              "duration": "04:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "編曲": "大久保薫",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "愛はまるで静電気",
+              "duration": "04:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Singing〜あの頃のように〜",
+              "duration": "04:29",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7251"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛はまるで静電気",
+              "duration": "05:01",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "℃-ute"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/c604c7cc0fd4af3e4ed9a1ac0137f55186be88cf.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夢幻クライマックス",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "編曲": "大久保薫",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "愛はまるで静電気",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Singing〜あの頃のように〜",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "夢幻クライマックス",
+              "duration": "04:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "編曲": "大久保薫",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "愛はまるで静電気",
+              "duration": "04:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Singing〜あの頃のように〜",
+              "duration": "04:29",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7253"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Singing〜あの頃のように〜",
+              "duration": "05:30",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/eb01efa09e24bd8b8a969ab7f115afa12399452c.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夢幻クライマックス",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "編曲": "大久保薫",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "愛はまるで静電気",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Singing〜あの頃のように〜",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "夢幻クライマックス",
+              "duration": "04:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "編曲": "大久保薫",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "愛はまるで静電気",
+              "duration": "04:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Singing〜あの頃のように〜",
+              "duration": "04:29",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7255"
+        }
+      ],
+      "note": "トレーディングカード ソロ5種+集合1種よりランダムにて1枚封入(夢幻クライマックス Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/63ec964476fe9c3591cc70a451577ec54b0f96be.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夢幻クライマックス",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "編曲": "大久保薫",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "愛はまるで静電気",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Singing〜あの頃のように〜",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "夢幻クライマックス",
+              "duration": "04:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "編曲": "大久保薫",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "愛はまるで静電気",
+              "duration": "04:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Singing〜あの頃のように〜",
+              "duration": "04:29",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7256"
+        }
+      ],
+      "note": "トレーディングカード ソロ5種+集合1種よりランダムにて1枚封入(愛はまるで静電気 Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/upload/images/a3034e64688a4a0a6f41fc24e55c8d49d5685734.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夢幻クライマックス",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "編曲": "大久保薫",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "愛はまるで静電気",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Singing〜あの頃のように〜",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "夢幻クライマックス",
+              "duration": "04:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "編曲": "大久保薫",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "愛はまるで静電気",
+              "duration": "04:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Singing〜あの頃のように〜",
+              "duration": "04:29",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7257"
+        }
+      ],
+      "note": "トレーディングカード ソロ5種+集合1種よりランダムにて1枚封入(Singing〜あの頃のように〜 Ver.)※初回プレス分のみ"
+    }
+  ]
+}

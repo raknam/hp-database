@@ -1,0 +1,67 @@
+{
+  "id": 1104,
+  "url": "/release/1104/",
+  "title": "気分てんかん",
+  "category": "BD",
+  "artist": "鈴木愛理",
+  "releaseDate": "2011.8.31",
+  "label": "zetima",
+  "images": [
+    "/upload/images/cfcab6ee56324de24d59b8f2ae1226a3f7360269.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "At Palace",
+              "duration": "14:03",
+              "credits": {
+                "出演": "鈴木愛理(℃-ute)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Beach Side",
+              "duration": "11:04",
+              "credits": {
+                "出演": "鈴木愛理(℃-ute)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Early Afternoon",
+              "duration": "16:29",
+              "credits": {
+                "出演": "鈴木愛理(℃-ute)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Making of OASIS",
+              "duration": "14:37",
+              "credits": {
+                "出演": "鈴木愛理(℃-ute)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "02:04",
+              "credits": {
+                "出演": "鈴木愛理(℃-ute)"
+              }
+            }
+          ],
+          "catalogNo": "EPXE-5011"
+        }
+      ]
+    }
+  ]
+}

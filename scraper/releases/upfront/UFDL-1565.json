@@ -1,0 +1,37 @@
+{
+  "code": "UFDL-1565",
+  "url": "/release/detail/UFDL-1565/",
+  "source": "upfront",
+  "title": "戦争を知らない子供たち",
+  "category": "配信",
+  "artist": "ハロプロ西日本",
+  "releaseDate": "2025/08/23",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/c51bb565f1bbbd1214119949e341e9fbb986684f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/c51bb565f1bbbd1214119949e341e9fbb986684f.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1565",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "戦争を知らない子供たち",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "きたやまおさむ",
+                "作曲": "杉田二郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "id": 3611,
+  "url": "/release/3611/",
+  "title": "なんにも言わずに I LOVE YOU",
+  "category": "CDシングル",
+  "artist": "美勇伝",
+  "releaseDate": "2008.4.23",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/upload/images/b0b7232b3af71082d8752e888d9c956db8046041.webp",
+    "/upload/images/d83d7c34f57f5b9c0ef9db390a07cc03b3239f13.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/upload/images/b0b7232b3af71082d8752e888d9c956db8046041.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "なんにも言わずに I LOVE YOU",
+              "duration": "05:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "上杉洋史",
+                "歌": "美勇伝"
+              }
+            },
+            {
+              "index": 2,
+              "title": "思い出は彼方",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳",
+                "歌": "石川梨華"
+              }
+            },
+            {
+              "index": 3,
+              "title": "あの夏の夜",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "三好絵梨香"
+              }
+            },
+            {
+              "index": 4,
+              "title": "最後の夏休み",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河合英嗣",
+                "歌": "岡田唯"
+              }
+            },
+            {
+              "index": 5,
+              "title": "なんにも言わずに I LOVE YOU",
+              "duration": "05:43",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "上杉洋史",
+                "歌": "美勇伝"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5116"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "なんにも言わずに I LOVE YOU",
+              "duration": "06:36",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "美勇伝"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付き"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/d83d7c34f57f5b9c0ef9db390a07cc03b3239f13.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "なんにも言わずに I LOVE YOU",
+              "duration": "05:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "上杉洋史",
+                "歌": "美勇伝"
+              }
+            },
+            {
+              "index": 2,
+              "title": "思い出は彼方",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳",
+                "歌": "石川梨華"
+              }
+            },
+            {
+              "index": 3,
+              "title": "あの夏の夜",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "三好絵梨香"
+              }
+            },
+            {
+              "index": 4,
+              "title": "最後の夏休み",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河合英嗣",
+                "歌": "岡田唯"
+              }
+            },
+            {
+              "index": 5,
+              "title": "なんにも言わずに I LOVE YOU",
+              "duration": "05:43",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "上杉洋史",
+                "歌": "美勇伝"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5118"
+        }
+      ]
+    }
+  ]
+}

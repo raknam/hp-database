@@ -1,0 +1,53 @@
+{
+  "code": "HKBN-50180",
+  "url": "/release/detail/HKBN-50180/",
+  "source": "upfront",
+  "title": "Behind of Photobook まのちゃん〜Dear Friends〜",
+  "category": "DVD",
+  "artist": "真野恵里菜",
+  "releaseDate": "2013/10/23",
+  "label": "hachama",
+  "images": [
+    "/images/9bc5a84128b085f5049d43333f8a07dc980c6cf9.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/9bc5a84128b085f5049d43333f8a07dc980c6cf9.jpg",
+      "price": "￥4,400 (税抜価格 ￥4,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKBN-50180",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "00:26"
+            },
+            {
+              "index": 2,
+              "title": "Behind of Photobook",
+              "duration": "25:50"
+            },
+            {
+              "index": 3,
+              "title": "Making Movie Day1",
+              "duration": "18:55"
+            },
+            {
+              "index": 4,
+              "title": "Making Movie Day2",
+              "duration": "11:40"
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "00:51"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

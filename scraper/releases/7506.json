@@ -1,0 +1,582 @@
+{
+  "id": 7506,
+  "url": "/release/7506/",
+  "title": "四の五の言わず颯と別れてあげた/盛れ！ミ・アモーレ",
+  "category": "CDシングル",
+  "artist": "Juice=Juice",
+  "releaseDate": "2025.10.8",
+  "label": "hachama",
+  "images": [
+    "/upload/images/c53b7b2de2e0dc662649d24692382202a82bebb6.webp",
+    "/upload/images/791c692caf055a2c6ebd82819d3a45d64564486f.webp",
+    "/upload/images/415e639c45f785e1df90747bc700437128119ec3.webp",
+    "/upload/images/2eae081a5bc6eca380aa9291555b0e339972e166.webp",
+    "/upload/images/c10e8f798bb8e2d49d78223a01164657292e7cc7.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/c53b7b2de2e0dc662649d24692382202a82bebb6.webp",
+      "price": "￥2,090（税抜価格 ￥1,900）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "四の五の言わず颯と別れてあげた",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "KOUGA",
+                "編曲": "荒幡亮平",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "盛れ！ミ・アモーレ",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "四の五の言わず颯と別れてあげた",
+              "duration": "03:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "KOUGA",
+                "編曲": "荒幡亮平",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "盛れ！ミ・アモーレ",
+              "duration": "03:50",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50852"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "四の五の言わず颯と別れてあげた",
+              "duration": "04:28",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "KOUGA",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "四の五の言わず颯と別れてあげた",
+              "duration": "03:44",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "KOUGA",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "四の五の言わず颯と別れてあげた",
+              "duration": "14:40",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/791c692caf055a2c6ebd82819d3a45d64564486f.webp",
+      "price": "￥2,090（税抜価格 ￥1,900）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "四の五の言わず颯と別れてあげた",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "KOUGA",
+                "編曲": "荒幡亮平",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "盛れ！ミ・アモーレ",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "四の五の言わず颯と別れてあげた",
+              "duration": "03:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "KOUGA",
+                "編曲": "荒幡亮平",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "盛れ！ミ・アモーレ",
+              "duration": "03:50",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50854"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "盛れ！ミ・アモーレ",
+              "duration": "04:51",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "盛れ！ミ・アモーレ",
+              "duration": "04:02",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "盛れ！ミ・アモーレ",
+              "duration": "10:45",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付"
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/upload/images/415e639c45f785e1df90747bc700437128119ec3.webp",
+      "price": "￥5,500（税抜価格 ￥5,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "四の五の言わず颯と別れてあげた",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "KOUGA",
+                "編曲": "荒幡亮平",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "盛れ！ミ・アモーレ",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "四の五の言わず颯と別れてあげた",
+              "duration": "03:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "KOUGA",
+                "編曲": "荒幡亮平",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "盛れ！ミ・アモーレ",
+              "duration": "03:50",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50856"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Crimson OPENING",
+              "duration": "01:50",
+              "credits": {
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "愛のダイビング",
+              "duration": "03:22",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Ça va ? Ça va ? (サヴァサヴァ)",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "川辺ヒロシ/上田禎",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ロマンスの途中",
+              "duration": "05:08",
+              "suffix": "(2023 10th Juice Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "今夜はHearty Party",
+              "duration": "04:51",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "POPPIN' LOVE",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Andreas Carlsson/Julie Yu/Erik Lidbom",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 7,
+              "title": "イジワルしないで 抱きしめてよ",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 8,
+              "title": "STAGE～アガッてみな～",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "徳田光希",
+                "作曲": "徳田光希",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 9,
+              "title": "KEEP ON 上昇志向！！",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 10,
+              "title": "Wonderful World",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 11,
+              "title": "Azure OPENING",
+              "duration": "01:49",
+              "credits": {
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 12,
+              "title": "好きって言ってよ",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 13,
+              "title": "背伸び",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 14,
+              "title": "FUNKY FLUSHIN'",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "吉田美奈子",
+                "作曲": "山下達郎",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 15,
+              "title": "Borderline",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 16,
+              "title": "私が言う前に抱きしめなきゃね",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 17,
+              "title": "Never Never Surrender",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 18,
+              "title": "地団駄ダンス",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "BLACC HOLE/NOBB-D",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 19,
+              "title": "ボン・ヴォヤージュ～想いの軌跡～",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "Shusui/Josef Melin",
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付「Juice=Juice Concert Tour 2025 ～Crimson≠Azure～」(2025/5/31 日本特殊陶業市民会館ビレッジホール)"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/2eae081a5bc6eca380aa9291555b0e339972e166.webp",
+      "price": "定価 ￥1,200（税抜価格 ￥1,091）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "四の五の言わず颯と別れてあげた",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "KOUGA",
+                "編曲": "荒幡亮平",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "盛れ！ミ・アモーレ",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "四の五の言わず颯と別れてあげた",
+              "duration": "03:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "KOUGA",
+                "編曲": "荒幡亮平",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "盛れ！ミ・アモーレ",
+              "duration": "03:50",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50858"
+        }
+      ],
+      "note": "トレーディングカードソロ11種＋集合1種よりランダムにて1枚封入(四の五の言わず颯と別れてあげた Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/c10e8f798bb8e2d49d78223a01164657292e7cc7.webp",
+      "price": "定価 ￥1,200（税抜価格 ￥1,091）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "四の五の言わず颯と別れてあげた",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "KOUGA",
+                "編曲": "荒幡亮平",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "盛れ！ミ・アモーレ",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "四の五の言わず颯と別れてあげた",
+              "duration": "03:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "KOUGA",
+                "編曲": "荒幡亮平",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "盛れ！ミ・アモーレ",
+              "duration": "03:50",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50859"
+        }
+      ],
+      "note": "トレーディングカードソロ11種＋集合1種よりランダムにて1枚封入(盛れ！ミ・アモーレ Ver.)※初回プレス分のみ"
+    }
+  ]
+}

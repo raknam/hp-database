@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5113",
+  "url": "/release/detail/EPCE-5113/",
+  "source": "upfront",
+  "title": "ダンシング！夏祭り",
+  "category": "CDシングル",
+  "artist": "10人祭",
+  "releaseDate": "2001/07/04",
+  "label": "zetima",
+  "images": [
+    "/images/f83cfa889f0a4bb01d3c3c5ec35fc7eede09fa2f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f83cfa889f0a4bb01d3c3c5ec35fc7eede09fa2f.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5113",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ダンシング！夏祭り",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 2,
+              "title": "HELLO!また会おうね(10人祭 version)",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ダンシング！夏祭り(Instrumental)",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

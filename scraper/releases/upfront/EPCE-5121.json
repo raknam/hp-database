@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5121",
+  "url": "/release/detail/EPCE-5121/",
+  "source": "upfront",
+  "title": "恋人は心の応援団",
+  "category": "CDシングル",
+  "artist": "カントリー娘｡に石川梨華(モーニング娘｡)",
+  "releaseDate": "2001/10/17",
+  "label": "zetima",
+  "images": [
+    "/images/a210167505a29a5b91d1880a22981574b73ac6b1.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/a210167505a29a5b91d1880a22981574b73ac6b1.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5121",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋人は心の応援団",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋人は心の応援団(Hyper Dance Version)",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "川名卓馬"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋人は心の応援団(Instrumental)",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

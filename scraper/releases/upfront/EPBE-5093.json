@@ -1,0 +1,53 @@
+{
+  "code": "EPBE-5093",
+  "url": "/release/detail/EPBE-5093/",
+  "source": "upfront",
+  "title": "シングルV「晴れ 雨 のち スキ ♡」",
+  "category": "DVDシングルV",
+  "artist": "モーニング娘。さくら組",
+  "releaseDate": "2003/10/16",
+  "label": "zetima",
+  "images": [
+    "/images/6a84f90d240c693d3cdf5c72298446b00a756b76.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/6a84f90d240c693d3cdf5c72298446b00a756b76.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5093",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "晴れ 雨 のち スキ ♡",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "晴れ 雨 のち スキ ♡(Close-up Ver.)",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "05:18"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "id": 646,
+  "url": "/release/646/",
+  "title": "②mini〜生きるという力〜",
+  "category": "CDアルバム",
+  "artist": "℃-ute",
+  "releaseDate": "2007.4.18",
+  "label": "zetima",
+  "images": [
+    "/upload/images/3b30cea17c8bfa787add98cdac87577a23b8e4a8.webp",
+    "/upload/images/4c80193e6dd2ad940dfab8740d7cf16af7fba57c.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/upload/images/3b30cea17c8bfa787add98cdac87577a23b8e4a8.webp",
+      "price": "￥2,934（税抜価格 ￥2,667）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "That's the POWER",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "僕らの輝き",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小倉健二",
+                "歌": "梅田えりか・岡井千聖・有原栞菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ディスコ クイーン",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "田中直",
+                "歌": "中島早貴・萩原舞"
+              }
+            },
+            {
+              "index": 4,
+              "title": "通学ベクトル☂",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "鈴木愛理"
+              }
+            },
+            {
+              "index": 5,
+              "title": "夏DOKI リップスティック",
+              "duration": "03:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳",
+                "歌": "矢島舞美"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5462"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "JUMP",
+              "duration": "04:22",
+              "suffix": "[Close-up Live Ver. at Nihon Seinenkan]",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ジャケット撮影メイキング",
+              "duration": "13:13",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/4c80193e6dd2ad940dfab8740d7cf16af7fba57c.webp",
+      "price": "定価 ￥2,200（税抜価格 ￥2,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "That's the POWER",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "僕らの輝き",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小倉健二",
+                "歌": "梅田えりか・岡井千聖・有原栞菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ディスコ クイーン",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "田中直",
+                "歌": "中島早貴・萩原舞"
+              }
+            },
+            {
+              "index": 4,
+              "title": "通学ベクトル☂",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "鈴木愛理"
+              }
+            },
+            {
+              "index": 5,
+              "title": "夏DOKI リップスティック",
+              "duration": "03:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳",
+                "歌": "矢島舞美"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5464"
+        }
+      ],
+      "note": "通常盤･初回仕様 ℃-uteフォトカード1種封入"
+    }
+  ]
+}

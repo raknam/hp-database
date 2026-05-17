@@ -1,0 +1,88 @@
+{
+  "code": "PKCP-5062",
+  "url": "/release/detail/PKCP-5062/",
+  "source": "upfront",
+  "title": "スッペシャル！ベストミニ 〜2、5枚目の彼〜",
+  "category": "CDアルバム",
+  "artist": "Berryz工房",
+  "releaseDate": "2005/12/07",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/7ad928e62026127515054a73046d2447ae7504be.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7ad928e62026127515054a73046d2447ae7504be.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "PKCP-5062",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ギャグ100回分愛してください",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ありがとう！おともだち。",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 3,
+              "title": "スッペシャルジェネレ〜ション",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "馬飼野康二"
+              }
+            },
+            {
+              "index": 4,
+              "title": "21時までのシンデレラ",
+              "duration": "03:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ピリリと行こう！",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 6,
+              "title": "あなたなしでは生きてゆけない",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

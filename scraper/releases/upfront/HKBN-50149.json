@@ -1,0 +1,53 @@
+{
+  "code": "HKBN-50149",
+  "url": "/release/detail/HKBN-50149/",
+  "source": "upfront",
+  "title": "From Days",
+  "category": "DVD",
+  "artist": "真野恵里菜",
+  "releaseDate": "2011/06/22",
+  "label": "hachama",
+  "images": [
+    "/images/075b1dc35824ed7cd0f32c0b94b8fd7c4db27b16.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/075b1dc35824ed7cd0f32c0b94b8fd7c4db27b16.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKBN-50149",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Blue Beach",
+              "duration": "15:00"
+            },
+            {
+              "index": 2,
+              "title": "Interview & Message",
+              "duration": "12:15"
+            },
+            {
+              "index": 3,
+              "title": "One of Days",
+              "duration": "08:04"
+            },
+            {
+              "index": 4,
+              "title": "Making of 「MANO DAYS〜二十歳の初恋〜」",
+              "duration": "11:27"
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "03:27"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

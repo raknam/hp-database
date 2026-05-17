@@ -1,0 +1,109 @@
+{
+  "id": 2742,
+  "url": "/release/2742/",
+  "title": "奇跡の香りダンス。",
+  "category": "CDシングル",
+  "artist": "松浦亜弥",
+  "releaseDate": "2004.1.28",
+  "label": "zetima",
+  "images": [
+    "/upload/images/6dac20938cd25ffce3b0ce5ce682153c1c95206c.webp",
+    "/upload/images/d709224f9752c53b433566ddb9ecf0dacf1ad56c.webp"
+  ],
+  "editions": [
+    {
+      "name": "初回盤",
+      "image": "/upload/images/6dac20938cd25ffce3b0ce5ce682153c1c95206c.webp",
+      "price": "定価 ￥1,320（税抜価格 ￥1,200）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "奇跡の香りダンス。",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "松浦亜弥"
+              }
+            },
+            {
+              "index": 2,
+              "title": "宇宙でLa Ta Ta",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野伸",
+                "歌": "松浦亜弥with稲葉貴子"
+              }
+            },
+            {
+              "index": 3,
+              "title": "奇跡の香りダンス。",
+              "duration": "04:27",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "松浦亜弥"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5262"
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/upload/images/d709224f9752c53b433566ddb9ecf0dacf1ad56c.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "奇跡の香りダンス。",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "松浦亜弥"
+              }
+            },
+            {
+              "index": 2,
+              "title": "宇宙でLa Ta Ta",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野伸",
+                "歌": "松浦亜弥with稲葉貴子"
+              }
+            },
+            {
+              "index": 3,
+              "title": "奇跡の香りダンス。",
+              "duration": "04:27",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "松浦亜弥"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5263"
+        }
+      ]
+    }
+  ]
+}

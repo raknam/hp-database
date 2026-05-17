@@ -1,0 +1,67 @@
+{
+  "id": 5093,
+  "url": "/release/5093/",
+  "title": "Greeting〜広瀬彩海・井上玲音〜",
+  "category": "BD",
+  "artist": "広瀬彩海/井上玲音",
+  "releaseDate": "2016.9.15",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/46e5166810f0cd7ef6ffc65e95ba13d53f511b2c.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Monday Morning",
+              "duration": "17:51",
+              "credits": {
+                "出演": "広瀬彩海・井上玲音(こぶしファクトリー)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Best Friends",
+              "duration": "29:10",
+              "credits": {
+                "出演": "広瀬彩海・井上玲音(こぶしファクトリー)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Rainy Park",
+              "duration": "09:03",
+              "credits": {
+                "出演": "広瀬彩海・井上玲音(こぶしファクトリー)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Making",
+              "duration": "13:57",
+              "credits": {
+                "出演": "広瀬彩海・井上玲音(こぶしファクトリー)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "02:09",
+              "credits": {
+                "出演": "広瀬彩海・井上玲音(こぶしファクトリー)"
+              }
+            }
+          ],
+          "catalogNo": "UFXW-2015"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 3913,
+  "url": "/release/3913/",
+  "title": "シングルV「壊れない愛がほしいの・GET UP！ラッパー・BE ALL RIGHT！」",
+  "category": "DVDシングルV",
+  "artist": "7AIR･SALT5･11WATER",
+  "releaseDate": "2003.7.9",
+  "label": "zetima",
+  "images": [
+    "/upload/images/d724f13b859ce49e27f6b1036dedfd35e545c7aa.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "壊れない愛がほしいの",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "出演": "7AIR"
+              }
+            },
+            {
+              "index": 2,
+              "title": "GET UP!ラッパー",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "出演": "SALT5"
+              }
+            },
+            {
+              "index": 3,
+              "title": "BE ALL RIGHT!",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "出演": "11WATER"
+              }
+            },
+            {
+              "index": 4,
+              "title": "メイキング＆コメント",
+              "duration": "09:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "7AIR"
+              }
+            },
+            {
+              "index": 5,
+              "title": "メイキング＆コメント",
+              "duration": "09:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "SALT5"
+              }
+            },
+            {
+              "index": 6,
+              "title": "メイキング＆コメント",
+              "duration": "10:08",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "11WATER"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5081"
+        }
+      ]
+    }
+  ]
+}

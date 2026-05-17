@@ -1,0 +1,109 @@
+{
+  "id": 2614,
+  "url": "/release/2614/",
+  "title": "恋のテレフォンGOAL",
+  "category": "CDシングル",
+  "artist": "安倍なつみ",
+  "releaseDate": "2004.8.11",
+  "label": "hachama",
+  "images": [
+    "/upload/images/c6ac0915939ac890094d62d41326f97a447f7aed.webp",
+    "/upload/images/31e2c97033cc70d1456d06fa73bdd7c2345c3557.webp"
+  ],
+  "editions": [
+    {
+      "name": "初回盤",
+      "image": "/upload/images/c6ac0915939ac890094d62d41326f97a447f7aed.webp",
+      "price": "定価 ￥1,320（税抜価格 ￥1,200）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋のテレフォンGOAL",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "安倍なつみ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "OLの事情",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "中野定博",
+                "歌": "安倍なつみ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋のテレフォンGOAL",
+              "duration": "03:27",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "安倍なつみ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50019"
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/upload/images/31e2c97033cc70d1456d06fa73bdd7c2345c3557.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋のテレフォンGOAL",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "安倍なつみ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "OLの事情",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "中野定博",
+                "歌": "安倍なつみ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋のテレフォンGOAL",
+              "duration": "03:27",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "安倍なつみ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50020"
+        }
+      ]
+    }
+  ]
+}

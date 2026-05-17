@@ -1,0 +1,42 @@
+{
+  "code": "TGBS-4984",
+  "url": "/release/detail/TGBS-4984/",
+  "source": "upfront",
+  "title": "シングルV「オトナになるって難しい！！！」",
+  "category": "DVDシングルV",
+  "artist": "スマイレージ",
+  "releaseDate": "2010/04/14",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/3055b33630fa806d2be7a5a0ed182a709000e06f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/3055b33630fa806d2be7a5a0ed182a709000e06f.jpg",
+      "price": "￥1,257 (税抜価格 ￥1,143)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "TGBS-4984",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オトナになるって難しい！！！(MUSIC CLIP)",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "メイキング映像",
+              "duration": "12:10"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

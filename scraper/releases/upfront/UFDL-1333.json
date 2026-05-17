@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1333",
+  "url": "/release/detail/UFDL-1333/",
+  "source": "upfront",
+  "title": "Miss変換 !!",
+  "category": "配信",
+  "artist": "工藤遥&佐藤優樹(モーニング娘。'17)",
+  "releaseDate": "2017/05/19",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/76aa8e18bfb16c47e5fc48fced9175dc71e7535c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/76aa8e18bfb16c47e5fc48fced9175dc71e7535c.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1333",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Miss変換 ！！",
+              "duration": "02:20",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "吉田隆/渡部チェル",
+                "編曲": "渡部チェル"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": 4934,
+  "url": "/release/4934/",
+  "title": "Take It Early",
+  "category": "BD",
+  "artist": "植村あかり",
+  "releaseDate": "2016.8.17",
+  "label": "hachama",
+  "images": [
+    "/upload/images/8ce9f1b5353a01f8d0ef2f1d8fcd368f0bd486b5.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Happy Plan",
+              "duration": "09:01",
+              "credits": {
+                "出演": "植村あかり"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Secret Beach",
+              "duration": "16:17",
+              "credits": {
+                "出演": "植村あかり"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Favorite Route",
+              "duration": "10:38",
+              "credits": {
+                "出演": "植村あかり"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Making of 「AKARI Ⅱ」",
+              "duration": "12:26",
+              "credits": {
+                "出演": "植村あかり"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "01:47",
+              "credits": {
+                "出演": "植村あかり"
+              }
+            }
+          ],
+          "catalogNo": "HKXN-50049"
+        }
+      ]
+    }
+  ]
+}

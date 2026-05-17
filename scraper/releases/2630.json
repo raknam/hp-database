@@ -1,0 +1,61 @@
+{
+  "id": 2630,
+  "url": "/release/2630/",
+  "title": "息を重ねましょう",
+  "category": "CDシングル",
+  "artist": "安倍なつみ",
+  "releaseDate": "2007.10.24",
+  "label": "hachama",
+  "images": [
+    "/upload/images/1e30ee5871ad723c7dec24b30c877425c2f00d3e.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "息を重ねましょう",
+              "duration": "05:09",
+              "credits": {
+                "作詞": "久保田洋司",
+                "作曲": "her0ism",
+                "編曲": "her0ism",
+                "歌": "安倍なつみ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "小説の中の二人",
+              "duration": "03:28",
+              "credits": {
+                "作詞": "久保田洋司",
+                "作曲": "her0ism",
+                "編曲": "小西貴雄",
+                "歌": "安倍なつみ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "息を重ねましょう",
+              "duration": "05:09",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "久保田洋司",
+                "作曲": "her0ism",
+                "編曲": "her0ism",
+                "歌": "安倍なつみ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50060"
+        }
+      ]
+    }
+  ]
+}

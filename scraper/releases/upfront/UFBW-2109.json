@@ -1,0 +1,68 @@
+{
+  "code": "UFBW-2109",
+  "url": "/release/detail/UFBW-2109/",
+  "source": "upfront",
+  "title": "Hello! Project Station Archives Vol.2 『清水佐紀×矢島舞美 対談 2009〜2015』",
+  "category": "DVD",
+  "artist": "清水佐紀×矢島舞美",
+  "releaseDate": "2015/06/03",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/a31fc77ff893a4a20c4f05ffe844a658c342cc49.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/a31fc77ff893a4a20c4f05ffe844a658c342cc49.jpg",
+      "price": "￥2,750 (税抜価格 ￥2,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2109",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "2009年",
+              "duration": "12:11"
+            },
+            {
+              "index": 2,
+              "title": "2010年",
+              "duration": "11:40"
+            },
+            {
+              "index": 3,
+              "title": "2011年",
+              "duration": "17:21"
+            },
+            {
+              "index": 4,
+              "title": "2012年",
+              "duration": "15:43"
+            },
+            {
+              "index": 5,
+              "title": "2013年",
+              "duration": "24:09"
+            },
+            {
+              "index": 6,
+              "title": "2014年",
+              "duration": "20:59"
+            },
+            {
+              "index": 7,
+              "title": "2015年",
+              "duration": "18:52"
+            },
+            {
+              "index": 8,
+              "title": "Ending",
+              "duration": "04:44"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

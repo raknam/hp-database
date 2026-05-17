@@ -1,0 +1,38 @@
+{
+  "id": 5404,
+  "url": "/release/5404/",
+  "title": "ありがた迷惑物語",
+  "category": "配信",
+  "artist": "ハロプロ研修生",
+  "releaseDate": "2017.9.8",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/f16f4c00fe5fbe30097c1d7fd945b097f7985764.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ありがた迷惑物語",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "ハロプロ研修生"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1364"
+        }
+      ]
+    }
+  ]
+}

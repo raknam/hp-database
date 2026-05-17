@@ -1,0 +1,133 @@
+{
+  "id": 1738,
+  "url": "/release/1738/",
+  "title": "Our Songs",
+  "category": "CDシングル",
+  "artist": "Buono!",
+  "releaseDate": "2010.2.3",
+  "label": "ポニーキャニオン",
+  "images": [
+    "/upload/images/eefc289d31f5547b28466bbd55ca4e67096b12ed.webp",
+    "/upload/images/2bc341212b966a2f7263a35fe9c12ca2df185667.webp"
+  ],
+  "editions": [
+    {
+      "name": "初回限定盤",
+      "image": "/upload/images/eefc289d31f5547b28466bbd55ca4e67096b12ed.webp",
+      "price": "定価 ￥1,650（税抜価格 ￥1,500）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Our Songs",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "MIRACLE HAPPY LOVE SONG",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "C.Piece",
+                "作曲": "AKIRASTAR",
+                "編曲": "AKIRASTAR",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Our Songs",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 4,
+              "title": "MIRACLE HAPPY LOVE SONG",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "C.Piece",
+                "作曲": "AKIRASTAR",
+                "編曲": "AKIRASTAR",
+                "歌": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "PCCA-03076"
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/upload/images/2bc341212b966a2f7263a35fe9c12ca2df185667.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Our Songs",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "MIRACLE HAPPY LOVE SONG",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "C.Piece",
+                "作曲": "AKIRASTAR",
+                "編曲": "AKIRASTAR",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Our Songs",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 4,
+              "title": "MIRACLE HAPPY LOVE SONG",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "C.Piece",
+                "作曲": "AKIRASTAR",
+                "編曲": "AKIRASTAR",
+                "歌": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "PCCA-70268"
+        }
+      ]
+    }
+  ]
+}

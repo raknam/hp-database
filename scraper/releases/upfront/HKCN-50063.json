@@ -1,0 +1,68 @@
+{
+  "code": "HKCN-50063",
+  "url": "/release/detail/HKCN-50063/",
+  "source": "upfront",
+  "title": "アナタニアイタイ",
+  "category": "CDシングル",
+  "artist": "Kenny",
+  "releaseDate": "2008/02/20",
+  "label": "hachama",
+  "images": [
+    "/images/f481f075b60824402492b0b3545dabd2dc611757.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f481f075b60824402492b0b3545dabd2dc611757.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50063",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アナタニアイタイ",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "みかみ麗緒",
+                "作曲": "重永亮介",
+                "編曲": "MOTOG3"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Carry On the Peace",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "MaikoofM.Y",
+                "作曲": "KIYOTSURUMI&JOEYCARBONE",
+                "編曲": "MOTOG3"
+              }
+            },
+            {
+              "index": 3,
+              "title": "アナタニアイタイ(Instrumental)",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "みかみ麗緒",
+                "作曲": "重永亮介",
+                "編曲": "MOTOG3"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Carry On the Peace(Instrumental)",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "MaikoofM.Y",
+                "作曲": "KIYOTSURUMI&JOEYCARBONE",
+                "編曲": "MOTOG3"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

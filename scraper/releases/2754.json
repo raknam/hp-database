@@ -1,0 +1,61 @@
+{
+  "id": 2754,
+  "url": "/release/2754/",
+  "title": "砂を噛むように…NAMIDA",
+  "category": "CDシングル",
+  "artist": "松浦亜弥",
+  "releaseDate": "2006.2.1",
+  "label": "zetima",
+  "images": [
+    "/upload/images/de82099d0e1d189a35cd4eea3d405151d06073c5.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "砂を噛むように…NAMIDA",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "森村メラ",
+                "作曲": "JoeyCarbone＆KyokoNitta",
+                "編曲": "たいせー&小西貴雄/ｽﾄﾘﾝｸﾞｽｱﾚﾝｼﾞ:服部隆之",
+                "歌": "松浦亜弥"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ハピネス",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "森村メラ",
+                "作曲": "JoeyCarbone＆DennisBelfield",
+                "編曲": "朝井泰生",
+                "歌": "松浦亜弥"
+              }
+            },
+            {
+              "index": 3,
+              "title": "砂を噛むように…NAMIDA",
+              "duration": "04:11",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "森村メラ",
+                "作曲": "JoeyCarbone＆KyokoNitta",
+                "編曲": "たいせー&小西貴雄/ｽﾄﾘﾝｸﾞｽｱﾚﾝｼﾞ:服部隆之",
+                "歌": "松浦亜弥"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5385"
+        }
+      ]
+    }
+  ]
+}

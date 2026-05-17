@@ -1,0 +1,63 @@
+{
+  "code": "PKBP-5112",
+  "url": "/release/detail/PKBP-5112/",
+  "source": "upfront",
+  "title": "アロハロ！ Berryz工房 DVD",
+  "category": "DVD",
+  "artist": "Berryz工房",
+  "releaseDate": "2009/06/10",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/d1449f974a9bcacef9cea923da91a47162d2e6f0.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d1449f974a9bcacef9cea923da91a47162d2e6f0.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5112",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "01:05"
+            },
+            {
+              "index": 2,
+              "title": "UKULELE",
+              "duration": "13:10"
+            },
+            {
+              "index": 3,
+              "title": "LUNCH",
+              "duration": "09:00"
+            },
+            {
+              "index": 4,
+              "title": "Kualoa Ranch Hawaii",
+              "duration": "15:54"
+            },
+            {
+              "index": 5,
+              "title": "SHOPPING",
+              "duration": "23:54"
+            },
+            {
+              "index": 6,
+              "title": "BEACH",
+              "duration": "21:45"
+            },
+            {
+              "index": 7,
+              "title": "ENDING",
+              "duration": "06:46"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

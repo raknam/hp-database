@@ -1,0 +1,118 @@
+{
+  "code": "EPBE-5362",
+  "url": "/release/detail/EPBE-5362/",
+  "source": "upfront",
+  "title": "よろセン！Vol.6",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2009/11/25",
+  "label": "zetima",
+  "images": [
+    "/images/76df51aab268117c8017650b564daef6e8754e44.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/76df51aab268117c8017650b564daef6e8754e44.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5362",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ペット 1日目",
+              "duration": "07:05"
+            },
+            {
+              "index": 2,
+              "title": "ペット 2日目",
+              "duration": "03:40"
+            },
+            {
+              "index": 3,
+              "title": "ペット 3日目",
+              "duration": "03:39"
+            },
+            {
+              "index": 4,
+              "title": "ペット 4日目",
+              "duration": "06:53"
+            },
+            {
+              "index": 5,
+              "title": "ペット 5日目",
+              "duration": "03:56"
+            },
+            {
+              "index": 6,
+              "title": "ペット 6日目",
+              "duration": "03:30"
+            },
+            {
+              "index": 7,
+              "title": "全国駅弁グルメ 1日目",
+              "duration": "03:11"
+            },
+            {
+              "index": 8,
+              "title": "全国駅弁グルメ 2日目",
+              "duration": "03:18"
+            },
+            {
+              "index": 9,
+              "title": "全国駅弁グルメ 3日目",
+              "duration": "03:05"
+            },
+            {
+              "index": 10,
+              "title": "全国駅弁グルメ 4日目",
+              "duration": "03:09"
+            },
+            {
+              "index": 11,
+              "title": "全国駅弁グルメ 5日目",
+              "duration": "04:48"
+            },
+            {
+              "index": 12,
+              "title": "鉄道 1日目",
+              "duration": "03:05"
+            },
+            {
+              "index": 13,
+              "title": "鉄道 2日目",
+              "duration": "03:15"
+            },
+            {
+              "index": 14,
+              "title": "鉄道 3日目",
+              "duration": "06:01"
+            },
+            {
+              "index": 15,
+              "title": "鉄道 4日目",
+              "duration": "04:40"
+            },
+            {
+              "index": 16,
+              "title": "光井愛佳 ペット",
+              "duration": "02:32"
+            },
+            {
+              "index": 17,
+              "title": "ジュンジュン 全国駅弁グルメ",
+              "duration": "06:15"
+            },
+            {
+              "index": 18,
+              "title": "道重さゆみ 鉄道",
+              "duration": "04:26"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

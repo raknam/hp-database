@@ -1,0 +1,179 @@
+{
+  "code": "EPCE-5458",
+  "url": "/release/detail/EPCE-5458/",
+  "source": "upfront",
+  "title": "SEXY 8 BEAT",
+  "category": "CDアルバム",
+  "artist": "モーニング娘。",
+  "releaseDate": "2007/03/21",
+  "label": "zetima",
+  "images": [
+    "/images/be870d53d647927739ea00f6562ec1155f49e15e.jpg",
+    "/images/b925fc80e6bc6d68c05d5c26a0c58a5dd6f5ddf4.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/be870d53d647927739ea00f6562ec1155f49e15e.jpg",
+      "price": "￥3,960 (税抜価格 ￥3,600)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5458",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "元気+",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "歩いてる(ALBUM EDIT)",
+              "duration": "05:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 3,
+              "title": "未来の太陽",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "笑顔YESヌード(ALBUM MIX)",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "松井 寛"
+              }
+            },
+            {
+              "index": 5,
+              "title": "春 ビューティフル エブリデイ",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 6,
+              "title": "SEXY BOY〜そよ風に寄り添って〜",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Ambitious!野心的でいいじゃん",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            },
+            {
+              "index": 8,
+              "title": "その出会いのために",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 9,
+              "title": "シャニムニ パラダイス",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "守尾 崇"
+              }
+            },
+            {
+              "index": 10,
+              "title": "宝の箱",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 11,
+              "title": "BE ポジティブ！",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "松井 寛"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/b925fc80e6bc6d68c05d5c26a0c58a5dd6f5ddf4.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5460",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "笑顔YESヌード(Close-up Ver.)",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Ambitious!野心的でいいじゃん",
+              "duration": "03:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Do it! Now",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

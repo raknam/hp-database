@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1480",
+  "url": "/release/detail/UFDL-1480/",
+  "source": "upfront",
+  "title": "およげ！たいやきくん",
+  "category": "配信",
+  "artist": "たいやき たべたの なんで？(高橋愛/田中れいな/夏焼雅)",
+  "releaseDate": "2021/06/21",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/41cbe2e089aaa45bdb6cee37252eade165e39380.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/41cbe2e089aaa45bdb6cee37252eade165e39380.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1480",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "およげ！たいやきくん",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "高田ひろお",
+                "作曲": "佐瀬寿一",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

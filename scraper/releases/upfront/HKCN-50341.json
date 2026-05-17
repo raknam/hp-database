@@ -1,0 +1,88 @@
+{
+  "code": "HKCN-50341",
+  "url": "/release/detail/HKCN-50341/",
+  "source": "upfront",
+  "title": "信じるものに救われる/すべての悲しみにさよならするために/追憶",
+  "category": "CDシングル",
+  "artist": "エリック・フクサキ",
+  "releaseDate": "2014/04/09",
+  "label": "hachama",
+  "images": [
+    "/images/9afca84ae5c86eae38c77bc8d6759fb6daaf69a9.jpg"
+  ],
+  "editions": [
+    {
+      "name": "DVD付き",
+      "image": "/images/9afca84ae5c86eae38c77bc8d6759fb6daaf69a9.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50341",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "信じるものに救われる",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "谷村有美",
+                "作曲": "谷村有美",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "すべての悲しみにさよならするために",
+              "duration": "07:58",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 3,
+              "title": "追憶",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "根本要",
+                "編曲": "渡部チェル"
+              }
+            },
+            {
+              "index": 4,
+              "title": "信じるものに救われる(Instrumental)",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "谷村有美",
+                "作曲": "谷村有美",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 5,
+              "title": "すべての悲しみにさよならするために(Instrumental)",
+              "duration": "07:58",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 6,
+              "title": "追憶(Instrumental)",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "根本要",
+                "編曲": "渡部チェル"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

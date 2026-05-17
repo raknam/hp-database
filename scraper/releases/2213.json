@@ -1,0 +1,96 @@
+{
+  "id": 2213,
+  "url": "/release/2213/",
+  "title": "レディーマーメイド/エイヤサ！ブラザー/海岸清掃男子",
+  "category": "CDシングル",
+  "artist": "ダイヤレディー／メロウクアッド／HI-FIN",
+  "releaseDate": "2013.8.7",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/4fccf81c87ff6136dd8453b9ca153dadfd2dd856.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "レディーマーメイド/ダイヤレディー",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "中島卓偉",
+                "編曲": "木之下慶行",
+                "歌": "ダイヤレディー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "エイヤサ！ブラザー/メロウクアッド",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "多喜紅葉・楠木エミリ",
+                "編曲": "Buzz Coen",
+                "歌": "メロウクアッド"
+              }
+            },
+            {
+              "index": 3,
+              "title": "海岸清掃男子/HI-FIN",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "加藤裕介",
+                "編曲": "加藤裕介",
+                "歌": "HI-FIN"
+              }
+            },
+            {
+              "index": 4,
+              "title": "レディーマーメイド",
+              "duration": "04:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "中島卓偉",
+                "編曲": "木之下慶行",
+                "歌": "ダイヤレディー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "エイヤサ！ブラザー",
+              "duration": "03:40",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "多喜紅葉・楠木エミリ",
+                "編曲": "Buzz Coen",
+                "歌": "メロウクアッド"
+              }
+            },
+            {
+              "index": 6,
+              "title": "海岸清掃男子",
+              "duration": "04:03",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "加藤裕介",
+                "編曲": "加藤裕介",
+                "歌": "HI-FIN"
+              }
+            }
+          ],
+          "catalogNo": "UFCW-1068"
+        }
+      ]
+    }
+  ]
+}

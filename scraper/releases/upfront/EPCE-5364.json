@@ -1,0 +1,102 @@
+{
+  "code": "EPCE-5364",
+  "url": "/release/detail/EPCE-5364/",
+  "source": "upfront",
+  "title": "大阪 恋の歌",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2005/04/27",
+  "label": "zetima",
+  "images": [
+    "/images/b03e31861c769bf89a57c01a1914171ac9c42949.jpg",
+    "/images/7418244e56b12d352ac8d2e022f5b235dbd27199.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回盤】",
+      "image": "/images/b03e31861c769bf89a57c01a1914171ac9c42949.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5364",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "大阪 恋の歌",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "NATURE IS GOOD!",
+              "duration": "03:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋 諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "大阪 恋の歌(Instrumental)",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/7418244e56b12d352ac8d2e022f5b235dbd27199.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5365",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "大阪 恋の歌",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "NATURE IS GOOD!",
+              "duration": "03:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋 諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "大阪 恋の歌(Instrumental)",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

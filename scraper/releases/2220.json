@@ -1,0 +1,35 @@
+{
+  "id": 2220,
+  "url": "/release/2220/",
+  "title": "モーニング娘。in ピンチランナー",
+  "category": "VHS",
+  "artist": "モーニング娘。",
+  "releaseDate": "2000.6.21",
+  "label": "東映ビデオ",
+  "images": [
+    "/upload/images/d6937844f76acd5aef0efaef0a37d6a7042950c7.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "VHS",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "モーニング娘。in ピンチランナー",
+              "duration": "00:00",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "VCZM-02599"
+        }
+      ]
+    }
+  ]
+}

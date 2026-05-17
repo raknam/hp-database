@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5357",
+  "url": "/release/detail/EPBE-5357/",
+  "source": "upfront",
+  "title": "シングルV「気まぐれプリンセス」",
+  "category": "DVDシングルV",
+  "artist": "モーニング娘。",
+  "releaseDate": "2009/11/04",
+  "label": "zetima",
+  "images": [
+    "/images/3324de12e78417cd5e9776737951da0dafd7e7da.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/3324de12e78417cd5e9776737951da0dafd7e7da.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5357",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "気まぐれプリンセス",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "気まぐれプリンセス(Green Dance Ver.)",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "20:13"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

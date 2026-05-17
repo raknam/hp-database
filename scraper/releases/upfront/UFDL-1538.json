@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1538",
+  "url": "/release/detail/UFDL-1538/",
+  "source": "upfront",
+  "title": "私がオバさんになっても",
+  "category": "配信",
+  "artist": "新沼希空",
+  "releaseDate": "2024/06/11",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/b9a817119cd0d09c42d8bbb061063634dddd365e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/b9a817119cd0d09c42d8bbb061063634dddd365e.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1538",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "私がオバさんになっても",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "斉藤英夫",
+                "編曲": "Carlos K."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

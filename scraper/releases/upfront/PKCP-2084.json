@@ -1,0 +1,68 @@
+{
+  "code": "PKCP-2084",
+  "url": "/release/detail/PKCP-2084/",
+  "source": "upfront",
+  "title": "人生雨のち時々晴れ/坂道のむこう",
+  "category": "CDシングル",
+  "artist": "堀内孝雄",
+  "releaseDate": "2015/03/18",
+  "label": "ライスミュージック",
+  "images": [
+    "/images/e22825e4d5ac017e9a47565e0c66ea3e954cd4d2.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/e22825e4d5ac017e9a47565e0c66ea3e954cd4d2.jpg",
+      "price": "￥1,257 (税抜価格 ￥1,143)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-2084",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "人生雨のち時々晴れ",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 2,
+              "title": "坂道のむこう",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 3,
+              "title": "人生雨のち時々晴れ(オリジナル・カラオケ)",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 4,
+              "title": "坂道のむこう(オリジナル・カラオケ)",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

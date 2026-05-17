@@ -1,0 +1,47 @@
+{
+  "id": 2178,
+  "url": "/release/2178/",
+  "title": "BS-TBS サマーパーティー2012「赤坂ダンスダンスダンス」",
+  "category": "DVD",
+  "artist": "モーニング娘。9期・10期",
+  "releaseDate": "2012.11.9",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/b28ebfa1fa257d473337cc6819afbaab36bdb2a3.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "1回目公演",
+              "duration": "01:27:52",
+              "credits": {
+                "作詞": "つんく/石原和三郎",
+                "作曲": "つんく/納所弁次郎",
+                "出演": "モーニング娘。9期・10期"
+              }
+            },
+            {
+              "index": 2,
+              "title": "2回目公演",
+              "duration": "01:22:12",
+              "credits": {
+                "作詞": "つんく/COWCOW",
+                "作曲": "つんく/COWCOW、樋口太陽",
+                "出演": "モーニング娘。9期・10期"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-2071"
+        }
+      ]
+    }
+  ]
+}

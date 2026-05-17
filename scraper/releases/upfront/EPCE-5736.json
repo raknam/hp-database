@@ -1,0 +1,125 @@
+{
+  "code": "EPCE-5736",
+  "url": "/release/detail/EPCE-5736/",
+  "source": "upfront",
+  "title": "会いたいロンリークリスマス",
+  "category": "CDシングル",
+  "artist": "℃-ute",
+  "releaseDate": "2010/12/01",
+  "label": "zetima",
+  "images": [
+    "/images/7cdffbe55d5a764787c138c7d5e03b7400875cc1.jpg",
+    "/images/5aec2205da23d75b6ea4c6047537b715417e9a2c.jpg",
+    "/images/8b3ba31d37ed3ba732014cbb7de75ab228c70e03.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/7cdffbe55d5a764787c138c7d5e03b7400875cc1.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5736",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "会いたいロンリークリスマス",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青春！無限パワー",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "藤澤慶昌"
+              }
+            },
+            {
+              "index": 3,
+              "title": "会いたいロンリークリスマス(Instrumental)",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/5aec2205da23d75b6ea4c6047537b715417e9a2c.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5738",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "会いたいロンリークリスマス(Christmas House Ver.)",
+              "duration": "05:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/8b3ba31d37ed3ba732014cbb7de75ab228c70e03.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5740",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "会いたいロンリークリスマス",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青春！無限パワー",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "藤澤慶昌"
+              }
+            },
+            {
+              "index": 3,
+              "title": "会いたいロンリークリスマス(Instrumental)",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

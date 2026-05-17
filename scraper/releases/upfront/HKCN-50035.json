@@ -1,0 +1,77 @@
+{
+  "code": "HKCN-50035",
+  "url": "/release/detail/HKCN-50035/",
+  "source": "upfront",
+  "title": "ザ・ストレス",
+  "category": "CDシングル",
+  "artist": "安倍なつみ",
+  "releaseDate": "2006/06/28",
+  "label": "hachama",
+  "images": [
+    "/images/f51d6c66fa66ac60705a912459428d1f806f91a1.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f51d6c66fa66ac60705a912459428d1f806f91a1.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50035",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ザ・ストレス",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "斉藤英夫",
+                "編曲": "上野圭市/ホーンアレンジ:竹上良成"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ザ・ストレス(危機Version)",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "斉藤英夫",
+                "編曲": "土肥真生"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ザ・ストレス(shakabone HIDE Remix)",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "斉藤英夫",
+                "編曲": "shakaboneHIDE"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ザ・ストレス(アカペラVersion)",
+              "duration": "00:40",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "斉藤英夫"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ザ・ストレス(オリジナルカラオケ)",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "斉藤英夫",
+                "編曲": "上野圭市/ホーンアレンジ:竹上良成"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

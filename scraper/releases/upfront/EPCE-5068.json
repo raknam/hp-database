@@ -1,0 +1,138 @@
+{
+  "code": "EPCE-5068",
+  "url": "/release/detail/EPCE-5068/",
+  "source": "upfront",
+  "title": "2nd STAGE",
+  "category": "CDアルバム",
+  "artist": "T&Cボンバ－",
+  "releaseDate": "2000/09/27",
+  "label": "zetima",
+  "images": [
+    "/images/3fb10c679028c236be0310c01876b0bd43ea0f18.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/3fb10c679028c236be0310c01876b0bd43ea0f18.jpg",
+      "price": "￥3,204 (税抜価格 ￥2,913)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5068",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "HEY!真昼の蜃気楼",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "松原憲"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Be My LOVE",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野伸"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Don't Stop恋愛中",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野伸"
+              }
+            },
+            {
+              "index": 4,
+              "title": "愛の回数",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 5,
+              "title": "またやっちゃった〜渋谷でALLの日〜",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 6,
+              "title": "丸い太陽(4人ver.)",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄&下町兄弟"
+              }
+            },
+            {
+              "index": 7,
+              "title": "愛する人へ",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "松原憲"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Office Love",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ゴーゴー東京",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 10,
+              "title": "かわいい男性",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 11,
+              "title": "YES!しあわせ",
+              "duration": "05:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "SATOSHIHIDAKA/StringsArrangement:村山達哉"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

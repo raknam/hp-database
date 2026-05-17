@@ -1,0 +1,78 @@
+{
+  "code": "UFBW-1059",
+  "url": "/release/detail/UFBW-1059/",
+  "source": "upfront",
+  "title": "美女学 Vol.6",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2011/02/01",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/afae0befcd523835d21ebdee141666eb73e57a33.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/afae0befcd523835d21ebdee141666eb73e57a33.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1059",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "水族館で海の生き物の飼育を学ぶ",
+              "duration": "05:49"
+            },
+            {
+              "index": 2,
+              "title": "エサを作る作業を学ぶ！",
+              "duration": "02:11"
+            },
+            {
+              "index": 3,
+              "title": "エサのやり方を学ぶ！",
+              "duration": "04:58"
+            },
+            {
+              "index": 4,
+              "title": "動物とふれあい生態を学ぶ！",
+              "duration": "04:41"
+            },
+            {
+              "index": 5,
+              "title": "白イルカを学ぶ！",
+              "duration": "07:22"
+            },
+            {
+              "index": 6,
+              "title": "Lesson3 エサのやり方を学ぶ！",
+              "duration": "11:04"
+            },
+            {
+              "index": 7,
+              "title": "Lesson1 流行スイーツを学ぶ！",
+              "duration": "15:17"
+            },
+            {
+              "index": 8,
+              "title": "Lesson2 家庭でも簡単に作れるふわとろ生ドーナッツ作りに挑戦",
+              "duration": "16:14"
+            },
+            {
+              "index": 9,
+              "title": "Lesson3 野菜スイーツを学ぶ！",
+              "duration": "12:14"
+            },
+            {
+              "index": 10,
+              "title": "八景島で課外授業 反省会",
+              "duration": "02:57"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

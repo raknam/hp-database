@@ -1,0 +1,77 @@
+{
+  "code": "PKBP-5115",
+  "url": "/release/detail/PKBP-5115/",
+  "source": "upfront",
+  "title": "ベリキュー！Vol.3",
+  "category": "DVD",
+  "artist": "℃-ute",
+  "releaseDate": "2009/06/24",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/0fb325e5cde3bc7c81cb4af9791419a3c5681777.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/0fb325e5cde3bc7c81cb4af9791419a3c5681777.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5115",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "料理deベリQ！「粉もん」3品勝負(モダン焼き)",
+              "duration": "07:28"
+            },
+            {
+              "index": 2,
+              "title": "料理deベリQ！「粉もん」3品勝負(クレープ)",
+              "duration": "07:43"
+            },
+            {
+              "index": 3,
+              "title": "料理deベリQ！「粉もん」3品勝負(チヂミ)",
+              "duration": "06:48"
+            },
+            {
+              "index": 4,
+              "title": "℃-ute「江戸の手毬唄Ⅱ」ジャケット撮影",
+              "duration": "03:13"
+            },
+            {
+              "index": 5,
+              "title": "℃-ute「江戸の手毬唄Ⅱ」PV撮影",
+              "duration": "03:46"
+            },
+            {
+              "index": 6,
+              "title": "敗者Berryz工房 恐怖の罰ゲーム決行(清水佐紀・嗣永桃子)",
+              "duration": "11:41"
+            },
+            {
+              "index": 7,
+              "title": "敗者Berryz工房 恐怖の罰ゲーム決行(徳永千奈美・須藤茉麻・菅谷梨沙子)",
+              "duration": "12:08"
+            },
+            {
+              "index": 8,
+              "title": "敗者Berryz工房 恐怖の罰ゲーム決行(夏焼雅・熊井友理奈)",
+              "duration": "10:19"
+            },
+            {
+              "index": 9,
+              "title": "ベリキュー！版「歌ドキッ！」渚のはいから人魚",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "康珍化",
+                "作曲": "馬飼野康二"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

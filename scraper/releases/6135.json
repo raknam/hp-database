@@ -1,0 +1,39 @@
+{
+  "id": 6135,
+  "url": "/release/6135/",
+  "title": "ナインティーンの蜃気楼('19 Summer Ver.)",
+  "category": "配信",
+  "artist": "つばきファクトリー",
+  "releaseDate": "2019.8.24",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/f16f4c00fe5fbe30097c1d7fd945b097f7985764.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ナインティーンの蜃気楼",
+              "duration": "03:49",
+              "suffix": "('19 Summer Ver.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "編曲": "鈴木俊介",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1440"
+        }
+      ]
+    }
+  ]
+}

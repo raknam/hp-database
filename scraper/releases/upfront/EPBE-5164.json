@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5164",
+  "url": "/release/detail/EPBE-5164/",
+  "source": "upfront",
+  "title": "シングルV「THE マンパワー!!!」",
+  "category": "DVDシングルV",
+  "artist": "モーニング娘。",
+  "releaseDate": "2005/01/19",
+  "label": "zetima",
+  "images": [
+    "/images/4f2b7162230808cdc8341bc8a23538b8c83ed57f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/4f2b7162230808cdc8341bc8a23538b8c83ed57f.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5164",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "THE マンパワー！！！",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "THE マンパワー！！！(Another Edition)",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "15:57"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

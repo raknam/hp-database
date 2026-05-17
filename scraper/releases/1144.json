@@ -1,0 +1,67 @@
+{
+  "id": 1144,
+  "url": "/release/1144/",
+  "title": "シングルV「16歳の恋なんて」",
+  "category": "DVDシングルV",
+  "artist": "安倍なつみ＆矢島舞美",
+  "releaseDate": "2008.2.6",
+  "label": "hachama",
+  "images": [
+    "/upload/images/05d6c6f50ee2d431ae73fd132731cce1ce1f95eb.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "16歳の恋なんて",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "出演": "安倍なつみ&矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "16歳の恋なんて",
+              "duration": "04:27",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "出演": "安倍なつみ&矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "11:26",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "出演": "安倍なつみ&矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "スペシャルエンドロール",
+              "duration": "04:13",
+              "credits": {
+                "作曲": "KAN",
+                "出演": "安倍なつみ&矢島舞美(℃-ute)"
+              }
+            }
+          ],
+          "catalogNo": "HKBN-50095"
+        }
+      ]
+    }
+  ]
+}

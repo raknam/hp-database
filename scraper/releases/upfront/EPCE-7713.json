@@ -1,0 +1,250 @@
+{
+  "code": "EPCE-7713",
+  "url": "/release/detail/EPCE-7713/",
+  "source": "upfront",
+  "title": "運命 CHACHACHACHA～N/ウチらの地元は地球じゃん！",
+  "category": "CDシングル",
+  "artist": "OCHA NORMA",
+  "releaseDate": "2022/11/30",
+  "label": "zetima",
+  "images": [
+    "/images/a9deff37640236edacc2c4206e8706d531b9ac06.jpg",
+    "/images/d30a6b4ca5109284a6029afa8e0e01e304edb42d.jpg",
+    "/images/ab2c0b51eedae3d5b0eef4b5e2f50063d41bdec0.jpg",
+    "/images/d71f957533aac22ed89b2135e9ba041ab4306503.jpg",
+    "/images/788eb8fa479c74fb782fd1c5477497a8ea3ad512.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/a9deff37640236edacc2c4206e8706d531b9ac06.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7713",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "運命 CHACHACHACHA～N",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "YUZURU KUSUGO/柴山慧",
+                "作曲": "YUZURU KUSUGO/柴山慧",
+                "編曲": "YUZURU KUSUGO/柴山慧"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ウチらの地元は地球じゃん！",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "運命 CHACHACHACHA～N(Instrumental)",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "YUZURU KUSUGO/柴山慧",
+                "作曲": "YUZURU KUSUGO/柴山慧",
+                "編曲": "YUZURU KUSUGO/柴山慧"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ウチらの地元は地球じゃん！(Instrumental)",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/d30a6b4ca5109284a6029afa8e0e01e304edb42d.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7715",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "運命 CHACHACHACHA～N(Music Video)",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "YUZURU KUSUGO/柴山慧",
+                "作曲": "YUZURU KUSUGO/柴山慧"
+              }
+            },
+            {
+              "index": 2,
+              "title": "運命 CHACHACHACHA～N(Dance Shot Ver.)",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "YUZURU KUSUGO/柴山慧",
+                "作曲": "YUZURU KUSUGO/柴山慧"
+              }
+            },
+            {
+              "index": 3,
+              "title": "運命 CHACHACHACHA～N(メイキング映像)",
+              "duration": "20:52"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/images/ab2c0b51eedae3d5b0eef4b5e2f50063d41bdec0.jpg",
+      "price": "￥3,500 (税抜価格 ￥3,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7717",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "運命 CHACHACHACHA～N",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "YUZURU KUSUGO/柴山慧",
+                "作曲": "YUZURU KUSUGO/柴山慧",
+                "編曲": "YUZURU KUSUGO/柴山慧"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ウチらの地元は地球じゃん！",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "運命 CHACHACHACHA～N(Instrumental)",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "YUZURU KUSUGO/柴山慧",
+                "作曲": "YUZURU KUSUGO/柴山慧",
+                "編曲": "YUZURU KUSUGO/柴山慧"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ウチらの地元は地球じゃん！(Instrumental)",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/d71f957533aac22ed89b2135e9ba041ab4306503.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7719",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ウチらの地元は地球じゃん！(Music Video)",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ウチらの地元は地球じゃん！(Dance Shot Ver.)",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ウチらの地元は地球じゃん！(メイキング映像)",
+              "duration": "20:27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/788eb8fa479c74fb782fd1c5477497a8ea3ad512.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7720",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "運命 CHACHACHACHA～N",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "YUZURU KUSUGO/柴山慧",
+                "作曲": "YUZURU KUSUGO/柴山慧",
+                "編曲": "YUZURU KUSUGO/柴山慧"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ウチらの地元は地球じゃん！",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "運命 CHACHACHACHA～N(Instrumental)",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "YUZURU KUSUGO/柴山慧",
+                "作曲": "YUZURU KUSUGO/柴山慧",
+                "編曲": "YUZURU KUSUGO/柴山慧"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ウチらの地元は地球じゃん！(Instrumental)",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

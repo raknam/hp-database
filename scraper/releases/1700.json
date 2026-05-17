@@ -1,0 +1,62 @@
+{
+  "id": 1700,
+  "url": "/release/1700/",
+  "title": "シングルV「ガチンコでいこう!」",
+  "category": "DVDシングルV",
+  "artist": "Buono!",
+  "releaseDate": "2008.9.3",
+  "label": "ポニーキャニオン",
+  "images": [
+    "/upload/images/5b436b077fc0748d07458a5498662db62960b81b.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ガチンコでいこう！",
+              "duration": "00:00",
+              "suffix": "(Music Clip)",
+              "credits": {
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ガチンコでいこう！",
+              "duration": "00:00",
+              "suffix": "(Close Up Version)",
+              "credits": {
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ガチンコでいこう！",
+              "duration": "00:00",
+              "suffix": "(Dance Shot Version)",
+              "credits": {
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 4,
+              "title": "PV撮影メイキングPart.2",
+              "duration": "00:00",
+              "credits": {
+                "出演": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "PCBP-51920"
+        }
+      ]
+    }
+  ]
+}

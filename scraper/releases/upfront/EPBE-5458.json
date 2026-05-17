@@ -1,0 +1,68 @@
+{
+  "code": "EPBE-5458",
+  "url": "/release/detail/EPBE-5458/",
+  "source": "upfront",
+  "title": "アロハロ！6 モーニング娘。DVD",
+  "category": "DVD",
+  "artist": "モーニング娘。",
+  "releaseDate": "2012/12/26",
+  "label": "zetima",
+  "images": [
+    "/images/d962695dd72ef2b41baee2ff65c4a31659bb5433.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d962695dd72ef2b41baee2ff65c4a31659bb5433.jpg",
+      "price": "￥4,400 (税抜価格 ￥4,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5458",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "03:12"
+            },
+            {
+              "index": 2,
+              "title": "Water Shooter Battle",
+              "duration": "13:47"
+            },
+            {
+              "index": 3,
+              "title": "What is it？Game1",
+              "duration": "06:39"
+            },
+            {
+              "index": 4,
+              "title": "Images by the Sea",
+              "duration": "10:56"
+            },
+            {
+              "index": 5,
+              "title": "Mission Musume。",
+              "duration": "16:07"
+            },
+            {
+              "index": 6,
+              "title": "What is it？Game2",
+              "duration": "05:45"
+            },
+            {
+              "index": 7,
+              "title": "Images by the Pool",
+              "duration": "09:57"
+            },
+            {
+              "index": 8,
+              "title": "Ending",
+              "duration": "16:43"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

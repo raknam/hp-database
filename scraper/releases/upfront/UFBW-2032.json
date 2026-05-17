@@ -1,0 +1,112 @@
+{
+  "code": "UFBW-2032",
+  "url": "/release/detail/UFBW-2032/",
+  "source": "upfront",
+  "title": "Imagine classic",
+  "category": "DVD",
+  "artist": "矢島舞美",
+  "releaseDate": "2011/11/11",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/3ea77e94c51e2fa3b83c533c2f8f39071bf7c16c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/3ea77e94c51e2fa3b83c533c2f8f39071bf7c16c.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2032",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "00:25"
+            },
+            {
+              "index": 2,
+              "title": "気分爽快",
+              "duration": "03:01",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "黒沢健一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "After dance",
+              "duration": "00:36",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "黒沢健一"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Image of 3",
+              "duration": "03:48"
+            },
+            {
+              "index": 5,
+              "title": "宇宙でLa Ta Ta",
+              "duration": "03:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "After dance",
+              "duration": "00:54"
+            },
+            {
+              "index": 7,
+              "title": "Image of 5",
+              "duration": "05:28"
+            },
+            {
+              "index": 8,
+              "title": "スイートホリック",
+              "duration": "02:53",
+              "credits": {
+                "作詞": "BULGE",
+                "作曲": "BULGE"
+              }
+            },
+            {
+              "index": 9,
+              "title": "Interview",
+              "duration": "04:33"
+            },
+            {
+              "index": 10,
+              "title": "Image of 5",
+              "duration": "07:50"
+            },
+            {
+              "index": 11,
+              "title": "Dance Lesson",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "BULGE、森高千里",
+                "作曲": "BULGE、黒沢健一"
+              }
+            },
+            {
+              "index": 12,
+              "title": "Making of Imagine Classic",
+              "duration": "14:26",
+              "credits": {
+                "作詞": "森高千里、BULGE、つんく",
+                "作曲": "黒沢健一、BULGE、つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "code": "UFBW-2097",
+  "url": "/release/detail/UFBW-2097/",
+  "source": "upfront",
+  "title": "“中島早貴 写真集「N20」”メイキングDVD〜特別編集版〜",
+  "category": "DVD",
+  "artist": "中島早貴",
+  "releaseDate": "2014/03/05",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/b9ba5e4bc54de790bdd3845e2d2cb361dbf6b0dc.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/b9ba5e4bc54de790bdd3845e2d2cb361dbf6b0dc.jpg",
+      "price": "￥2,750 (税抜価格 ￥2,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2097",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Chapter1",
+              "duration": "03:29"
+            },
+            {
+              "index": 2,
+              "title": "Chapter2",
+              "duration": "05:27"
+            },
+            {
+              "index": 3,
+              "title": "Chapter3",
+              "duration": "05:59"
+            },
+            {
+              "index": 4,
+              "title": "Chapter4",
+              "duration": "02:38"
+            },
+            {
+              "index": 5,
+              "title": "Chapter5",
+              "duration": "05:57"
+            },
+            {
+              "index": 6,
+              "title": "Chapter1",
+              "duration": "08:36"
+            },
+            {
+              "index": 7,
+              "title": "Chapter2",
+              "duration": "05:07"
+            },
+            {
+              "index": 8,
+              "title": "Chapter3",
+              "duration": "04:40"
+            },
+            {
+              "index": 9,
+              "title": "Chapter4",
+              "duration": "03:40"
+            },
+            {
+              "index": 10,
+              "title": "Chapter5",
+              "duration": "03:32"
+            },
+            {
+              "index": 11,
+              "title": "Chapter6",
+              "duration": "02:39"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

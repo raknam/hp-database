@@ -1,0 +1,55 @@
+{
+  "code": "HKBN-50132",
+  "url": "/release/detail/HKBN-50132/",
+  "source": "upfront",
+  "title": "シングルV「○○ がんばらなくてもええねんで！！」",
+  "category": "DVDシングルV",
+  "artist": "スマイレージ",
+  "releaseDate": "2010/08/04",
+  "label": "hachama",
+  "images": [
+    "/images/6f9c4cd9ac2aa39b1a397a443a47c5d196d3a36c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/6f9c4cd9ac2aa39b1a397a443a47c5d196d3a36c.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "HKBN-50132",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "○○ がんばらなくてもいいんだよ！！",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "○○ がんばらなくてもええねんで！！(AnotherVer.)",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "12:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

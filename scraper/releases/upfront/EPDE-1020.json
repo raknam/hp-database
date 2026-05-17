@@ -1,0 +1,132 @@
+{
+  "code": "EPDE-1020",
+  "url": "/release/detail/EPDE-1020/",
+  "source": "upfront",
+  "title": "Memory 青春の光",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2005/03/02",
+  "label": "zetima",
+  "images": [
+    "/images/e9a56c2a9747373cfe1e3b7303caa0ee15005ff3.jpg",
+    "/images/c24c5d4abd12028e2d1d7fa18fc2e6c7a734c35d.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/e9a56c2a9747373cfe1e3b7303caa0ee15005ff3.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5316",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Memory 青春の光",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Happy Night",
+              "duration": "05:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Never Forget",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Memory 青春の光(Instrumental)",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Memory 青春の光(99.4.18 Live Version)",
+              "duration": "05:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": "/images/c24c5d4abd12028e2d1d7fa18fc2e6c7a734c35d.jpg",
+      "price": "￥1,175 (税抜価格 ￥1,068)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1020",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Memory 青春の光",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Happy Night",
+              "duration": "05:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Never Forget",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Memory 青春の光(オリジナルカラオケ)",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

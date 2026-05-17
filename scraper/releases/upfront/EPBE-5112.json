@@ -1,0 +1,82 @@
+{
+  "code": "EPBE-5112",
+  "url": "/release/detail/EPBE-5112/",
+  "source": "upfront",
+  "title": "シングルV｢さくら満開/友情〜心のブスにはならねぇ！〜｣",
+  "category": "DVDシングルV",
+  "artist": "モーニング娘。さくら組・おとめ組",
+  "releaseDate": "2004/03/24",
+  "label": "zetima",
+  "images": [
+    "/images/63d266e3143ca4a8c0b775d2ce98c63f16c93e87.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/63d266e3143ca4a8c0b775d2ce98c63f16c93e87.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5112",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "さくら満開",
+              "duration": "06:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "友情 〜心のブスにはならねぇ！〜",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "さくら満開(さくら撫子Ver.)",
+              "duration": "06:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "友情 〜心のブスにはならねぇ！〜(Oi! Oi! Ver.)",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "さくら満開",
+              "duration": "06:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "友情 〜心のブスにはならねぇ！〜",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

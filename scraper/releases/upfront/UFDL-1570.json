@@ -1,0 +1,68 @@
+{
+  "code": "UFDL-1570",
+  "url": "/release/detail/UFDL-1570/",
+  "source": "upfront",
+  "title": "立ち向かえGo way/Super Happy Lucky Special Day(Special Edition)",
+  "category": "配信",
+  "artist": "小関舞×森戸知沙希",
+  "releaseDate": "2025/12/17",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/2d2a701491d724f53a3a9a9449108b812d7f2e44.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/2d2a701491d724f53a3a9a9449108b812d7f2e44.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1570",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "立ち向かえGo way",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Super Happy Lucky Special Day",
+              "duration": "03:24",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Happy Charge",
+              "duration": "03:06",
+              "credits": {
+                "作詞": "nozomi*",
+                "作曲": "Julie Yu/Carlos Okabe",
+                "編曲": "Carlos Okabe"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Where I belong～あの頃のまま～",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "富永美杜",
+                "作曲": "山木隆一郎",
+                "編曲": "山木隆一郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

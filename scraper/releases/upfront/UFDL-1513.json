@@ -1,0 +1,68 @@
+{
+  "code": "UFDL-1513",
+  "url": "/release/detail/UFDL-1513/",
+  "source": "upfront",
+  "title": "運命 CHACHACHACHA～N/ウチらの地元は地球じゃん！(Special Edition)",
+  "category": "配信",
+  "artist": "OCHA NORMA",
+  "releaseDate": "2022/11/30",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/3dfed6dca2ccb37b4dde0a3003ccf0289c25a116.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/3dfed6dca2ccb37b4dde0a3003ccf0289c25a116.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1513",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "運命 CHACHACHACHA～N",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "YUZURU KUSUGO/柴山慧",
+                "作曲": "YUZURU KUSUGO/柴山慧",
+                "編曲": "YUZURU KUSUGO/柴山慧"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ウチらの地元は地球じゃん！",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Go Your Way",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "渡辺泰司",
+                "編曲": "渡辺泰司"
+              }
+            },
+            {
+              "index": 4,
+              "title": "素肌は熱帯夜",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "早川響介",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

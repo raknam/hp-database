@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5198",
+  "url": "/release/detail/EPCE-5198/",
+  "source": "upfront",
+  "title": "モーニング娘。のひょっこりひょうたん島",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2003/02/19",
+  "label": "zetima",
+  "images": [
+    "/images/94d42308737f9fd67262efb50ffc2f1d50086395.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/94d42308737f9fd67262efb50ffc2f1d50086395.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5198",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "モーニング娘。のひょっこりひょうたん島",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "井上ひさし/山元護久",
+                "作曲": "宇野誠一郎",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 2,
+              "title": "宝石箱",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "モーニング娘。のひょっこりひょうたん島(Instrumental)",
+              "duration": "03:22",
+              "credits": {
+                "作詞": "井上ひさし/山元護久",
+                "作曲": "宇野誠一郎",
+                "編曲": "小西貴雄"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "code": "PKCP-5309",
+  "url": "/release/detail/PKCP-5309/",
+  "source": "upfront",
+  "title": "幸せになりたい。/写真には残らないシュート",
+  "category": "CDシングル",
+  "artist": "Bitter ＆ Sweet",
+  "releaseDate": "2017/05/17",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/7c0b18605cc72fd31abac1a2e30d5b05c89c3c17.jpg",
+    "/images/eae96abf6e71665eda83abae6180a31664760a6f.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/7c0b18605cc72fd31abac1a2e30d5b05c89c3c17.jpg",
+      "price": "￥1,834 (税抜価格 ￥1,667)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5309",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "幸せになりたい。",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "近藤ひさし",
+                "作曲": "小林章太郎",
+                "編曲": "小林章太郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "写真には残らないシュート",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "近藤ひさし",
+                "作曲": "星部ショウ",
+                "編曲": "楠野功太郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "贈りものには愛がある",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "幸せになりたい。(Instrumental)",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "近藤ひさし",
+                "作曲": "小林章太郎",
+                "編曲": "小林章太郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "写真には残らないシュート(Instrumental)",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "近藤ひさし",
+                "作曲": "星部ショウ",
+                "編曲": "楠野功太郎"
+              }
+            },
+            {
+              "index": 6,
+              "title": "贈りものには愛がある (Instrumental)",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/eae96abf6e71665eda83abae6180a31664760a6f.jpg",
+      "price": "￥1,121 (税抜価格 ￥1,019)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKCP-5311",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "幸せになりたい。(Music Video)",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "近藤ひさし",
+                "作曲": "小林章太郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "写真には残らないシュート(Music Video)",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "近藤ひさし",
+                "作曲": "星部ショウ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

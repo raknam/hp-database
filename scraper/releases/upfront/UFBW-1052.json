@@ -1,0 +1,53 @@
+{
+  "code": "UFBW-1052",
+  "url": "/release/detail/UFBW-1052/",
+  "source": "upfront",
+  "title": "みっつぃー",
+  "category": "DVD",
+  "artist": "光井愛佳",
+  "releaseDate": "2011/01/25",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/cf49840d9e6170e6315ff92fc6c134cce4864a63.jpg"
+  ],
+  "editions": [
+    {
+      "name": "Aika Mitsui 1st DVD",
+      "image": "/images/cf49840d9e6170e6315ff92fc6c134cce4864a63.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1052",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Image movie 1",
+              "duration": "21:09"
+            },
+            {
+              "index": 2,
+              "title": "Interview",
+              "duration": "10:19"
+            },
+            {
+              "index": 3,
+              "title": "Image movie 2",
+              "duration": "13:01"
+            },
+            {
+              "index": 4,
+              "title": "Interview & Image",
+              "duration": "10:37"
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "00:00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

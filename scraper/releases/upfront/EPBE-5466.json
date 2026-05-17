@@ -1,0 +1,53 @@
+{
+  "code": "EPBE-5466",
+  "url": "/release/detail/EPBE-5466/",
+  "source": "upfront",
+  "title": "MIZUKI in Guam",
+  "category": "DVD",
+  "artist": "譜久村聖",
+  "releaseDate": "2013/05/22",
+  "label": "zetima",
+  "images": [
+    "/images/45f3c245f204faaeb88da861cf086c033c372e8e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/45f3c245f204faaeb88da861cf086c033c372e8e.jpg",
+      "price": "￥4,400 (税抜価格 ￥4,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5466",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Arrival",
+              "duration": "08:05"
+            },
+            {
+              "index": 2,
+              "title": "Blue Sky Blue Water",
+              "duration": "17:01"
+            },
+            {
+              "index": 3,
+              "title": "Sunset Hill",
+              "duration": "10:27"
+            },
+            {
+              "index": 4,
+              "title": "Making of 「MIZUKI」",
+              "duration": "17:11"
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "01:13"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

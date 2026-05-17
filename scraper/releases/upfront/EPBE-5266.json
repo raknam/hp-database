@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5266",
+  "url": "/release/detail/EPBE-5266/",
+  "source": "upfront",
+  "title": "シングルV「都会っ子 純情」",
+  "category": "DVDシングルV",
+  "artist": "℃-ute",
+  "releaseDate": "2007/10/31",
+  "label": "zetima",
+  "images": [
+    "/images/9153c08412535e6e40892481c5265e9f7bf31fc1.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/9153c08412535e6e40892481c5265e9f7bf31fc1.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5266",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "都会っ子 純情",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "都会っ子 純情(Dance Shot Ver.)",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "16:49"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

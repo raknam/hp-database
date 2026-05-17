@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5159",
+  "url": "/release/detail/EPCE-5159/",
+  "source": "upfront",
+  "title": "ムラサキシキブ",
+  "category": "CDシングル",
+  "artist": "平家みちよ",
+  "releaseDate": "2002/06/05",
+  "label": "zetima",
+  "images": [
+    "/images/60b627927e5f029a507360c6cb45d06d8df56c9a.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/60b627927e5f029a507360c6cb45d06d8df56c9a.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5159",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ムラサキシキブ",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "松原憲"
+              }
+            },
+            {
+              "index": 2,
+              "title": "夢の話",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "松尾和博"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ムラサキシキブ(Instrumental)",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "松原憲"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

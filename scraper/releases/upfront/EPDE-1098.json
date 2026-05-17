@@ -1,0 +1,121 @@
+{
+  "code": "EPDE-1098",
+  "url": "/release/detail/EPDE-1098/",
+  "source": "upfront",
+  "title": "元気でいてね",
+  "category": "CDシングル",
+  "artist": "栁澤純子",
+  "releaseDate": "2002/04/24",
+  "label": "zetima",
+  "images": [
+    "/images/a0b661278a7e2e9e752e9eadede2c7b4b8641604.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/a0b661278a7e2e9e752e9eadede2c7b4b8641604.jpg",
+      "price": "￥1,175 (税抜価格 ￥1,068)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1098",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "元気でいてね",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "杉紀彦",
+                "作曲": "浜圭介",
+                "編曲": "川口真"
+              }
+            },
+            {
+              "index": 2,
+              "title": "くちびる",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "杉紀彦",
+                "作曲": "浜圭介",
+                "編曲": "川口真"
+              }
+            },
+            {
+              "index": 3,
+              "title": "元気でいてね(オリジナル・カラオケ)",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "杉紀彦",
+                "作曲": "浜圭介",
+                "編曲": "川口真"
+              }
+            },
+            {
+              "index": 4,
+              "title": "くちびる(オリジナル・カラオケ)",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "杉紀彦",
+                "作曲": "浜圭介",
+                "編曲": "川口真"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": null,
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "カセットテープシングル",
+          "catalogNo": "EPSE-1098",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "元気でいてね",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "杉紀彦",
+                "作曲": "浜圭介",
+                "編曲": "川口真"
+              }
+            },
+            {
+              "index": 2,
+              "title": "くちびる",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "杉紀彦",
+                "作曲": "浜圭介",
+                "編曲": "川口真"
+              }
+            },
+            {
+              "index": 3,
+              "title": "元気でいてね(オリジナル・カラオケ)",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "杉紀彦",
+                "作曲": "浜圭介",
+                "編曲": "川口真"
+              }
+            },
+            {
+              "index": 4,
+              "title": "くちびる(オリジナル・カラオケ)",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "杉紀彦",
+                "作曲": "浜圭介",
+                "編曲": "川口真"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "code": "UFBW-2105",
+  "url": "/release/detail/UFBW-2105/",
+  "source": "upfront",
+  "title": "The Season",
+  "category": "DVD",
+  "artist": "和田彩花",
+  "releaseDate": "2014/08/01",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/0d707cb8073c813d689334c77723b33bf543c99b.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/0d707cb8073c813d689334c77723b33bf543c99b.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2105",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Season of Flowers",
+              "duration": "18:21"
+            },
+            {
+              "index": 2,
+              "title": "Season of Woods",
+              "duration": "13:47"
+            },
+            {
+              "index": 3,
+              "title": "Season of Field",
+              "duration": "14:27"
+            },
+            {
+              "index": 4,
+              "title": "Ending",
+              "duration": "03:26"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

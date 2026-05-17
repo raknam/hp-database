@@ -1,0 +1,435 @@
+{
+  "id": 6853,
+  "url": "/release/6853/",
+  "title": "全部賭けてGO!!/イニミニマニモ～恋のライバル宣言～",
+  "category": "CDシングル",
+  "artist": "Juice=Juice",
+  "releaseDate": "2022.11.23",
+  "label": "hachama",
+  "images": [
+    "/upload/images/aca82bb2da7856d9859629bd43eb34ae47c5f57b.webp",
+    "/upload/images/8e9859b4c346a31569a915f16f1afa1415809931.webp",
+    "/upload/images/7e7c1a60e7f07ce6a7ec17610e754a54ae2d073b.webp",
+    "/upload/images/0e060e9ba425bb818a684d17cf883b15de6560eb.webp",
+    "/upload/images/8183a417a8386cb0c600e7ccca0de546d7fe98ad.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/aca82bb2da7856d9859629bd43eb34ae47c5f57b.webp",
+      "price": "￥2,090（税抜価格 ￥1,900）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "全部賭けてGO!!",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "徳田光希",
+                "編曲": "徳田光希",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "イニミニマニモ～恋のライバル宣言～",
+              "duration": "03:22",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Johan Alkenas/Joacim Persson/Lisa Desmond",
+                "編曲": "Joacim Persson/Johan Alkenas",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "全部賭けてGO!!",
+              "duration": "03:28",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "徳田光希",
+                "編曲": "徳田光希",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "イニミニマニモ～恋のライバル宣言～",
+              "duration": "03:22",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Johan Alkenas/Joacim Persson/Lisa Desmond",
+                "編曲": "Joacim Persson/Johan Alkenas",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50742"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "全部賭けてGO!!",
+              "duration": "04:05",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "徳田光希",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "全部賭けてGO!!",
+              "duration": "03:36",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "徳田光希",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "全部賭けてGO!!",
+              "duration": "15:03",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD(「全部賭けてGO!!」MV＋Dance Shot Ver.＋メイキング映像)付"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/8e9859b4c346a31569a915f16f1afa1415809931.webp",
+      "price": "￥2,090（税抜価格 ￥1,900）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "全部賭けてGO!!",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "徳田光希",
+                "編曲": "徳田光希",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "イニミニマニモ～恋のライバル宣言～",
+              "duration": "03:22",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Johan Alkenas/Joacim Persson/Lisa Desmond",
+                "編曲": "Joacim Persson/Johan Alkenas",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "全部賭けてGO!!",
+              "duration": "03:28",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "徳田光希",
+                "編曲": "徳田光希",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "イニミニマニモ～恋のライバル宣言～",
+              "duration": "03:22",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Johan Alkenas/Joacim Persson/Lisa Desmond",
+                "編曲": "Joacim Persson/Johan Alkenas",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50744"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "イニミニマニモ～恋のライバル宣言～",
+              "duration": "04:18",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Johan Alkenas/Joacim Persson/Lisa Desmond",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "イニミニマニモ～恋のライバル宣言～",
+              "duration": "03:33",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Johan Alkenas/Joacim Persson/Lisa Desmond",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "イニミニマニモ～恋のライバル宣言～",
+              "duration": "12:12",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD(「イニミニマニモ～恋のライバル宣言～」MV＋Dance Shot Ver.＋メイキング映像)付"
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/upload/images/7e7c1a60e7f07ce6a7ec17610e754a54ae2d073b.webp",
+      "price": "￥2,090（税抜価格 ￥1,900）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "全部賭けてGO!!",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "徳田光希",
+                "編曲": "徳田光希",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "イニミニマニモ～恋のライバル宣言～",
+              "duration": "03:22",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Johan Alkenas/Joacim Persson/Lisa Desmond",
+                "編曲": "Joacim Persson/Johan Alkenas",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "全部賭けてGO!!",
+              "duration": "03:28",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "徳田光希",
+                "編曲": "徳田光希",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "イニミニマニモ～恋のライバル宣言～",
+              "duration": "03:22",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Johan Alkenas/Joacim Persson/Lisa Desmond",
+                "編曲": "Joacim Persson/Johan Alkenas",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50746"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "全部賭けてGO!!",
+              "duration": "03:38",
+              "suffix": "(feat. 石山咲良、遠藤彩加里Ver.)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "徳田光希",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "イニミニマニモ～恋のライバル宣言～",
+              "duration": "03:32",
+              "suffix": "(feat. 石山咲良、遠藤彩加里Ver.)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Johan Alkenas/Joacim Persson/Lisa Desmond",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "全部賭けてGO!!",
+              "duration": "04:57",
+              "suffix": "(メイキング映像 feat. 石山咲良、遠藤彩加里Ver.)",
+              "credits": {
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "イニミニマニモ～恋のライバル宣言～",
+              "duration": "03:40",
+              "suffix": "(メイキング映像 feat. 石山咲良、遠藤彩加里Ver.)",
+              "credits": {
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD(新曲2曲の新メンバーフィーチャーVer.＋メイキング映像)付"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/0e060e9ba425bb818a684d17cf883b15de6560eb.webp",
+      "price": "定価 ￥1,200（税抜価格 ￥1,091）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "全部賭けてGO!!",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "徳田光希",
+                "編曲": "徳田光希",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "イニミニマニモ～恋のライバル宣言～",
+              "duration": "03:22",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Johan Alkenas/Joacim Persson/Lisa Desmond",
+                "編曲": "Joacim Persson/Johan Alkenas",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "全部賭けてGO!!",
+              "duration": "03:28",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "徳田光希",
+                "編曲": "徳田光希",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "イニミニマニモ～恋のライバル宣言～",
+              "duration": "03:22",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Johan Alkenas/Joacim Persson/Lisa Desmond",
+                "編曲": "Joacim Persson/Johan Alkenas",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50748"
+        }
+      ],
+      "note": "トレーディングカードソロ10種＋キラ仕様集合1種よりランダムにて1枚封入(全部賭けてGO!! Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/8183a417a8386cb0c600e7ccca0de546d7fe98ad.webp",
+      "price": "定価 ￥1,200（税抜価格 ￥1,091）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "全部賭けてGO!!",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "徳田光希",
+                "編曲": "徳田光希",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "イニミニマニモ～恋のライバル宣言～",
+              "duration": "03:22",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Johan Alkenas/Joacim Persson/Lisa Desmond",
+                "編曲": "Joacim Persson/Johan Alkenas",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "全部賭けてGO!!",
+              "duration": "03:28",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "徳田光希",
+                "編曲": "徳田光希",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "イニミニマニモ～恋のライバル宣言～",
+              "duration": "03:22",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Johan Alkenas/Joacim Persson/Lisa Desmond",
+                "編曲": "Joacim Persson/Johan Alkenas",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50749"
+        }
+      ],
+      "note": "トレーディングカードソロ10種＋キラ仕様集合1種よりランダムにて1枚封入(イニミニマニモ～恋のライバル宣言～ Ver.)※初回プレス分のみ"
+    }
+  ]
+}

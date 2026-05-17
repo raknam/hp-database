@@ -1,0 +1,379 @@
+{
+  "code": "EPCE-7347",
+  "url": "/release/detail/EPCE-7347/",
+  "source": "upfront",
+  "title": "就活センセーション/笑って/ハナモヨウ",
+  "category": "CDシングル",
+  "artist": "つばきファクトリー",
+  "releaseDate": "2017/07/26",
+  "label": "zetima",
+  "images": [
+    "/images/df1a432b3eafd868b48fdbc66d42e501c3bd3887.jpg",
+    "/images/7e736dd3fc89312a751e66a25e5a01d556b3f8c7.jpg",
+    "/images/b48b3766ba518e362071ee11f37623e62d1c34c5.jpg",
+    "/images/ace540e36d423336f0692274bf95c783e1d1a6c6.jpg",
+    "/images/f577203c0c2b1e38610fbc97cbf8b979273157f1.jpg",
+    "/images/189e1070588b03e7500ae8d2014f06309ffabd4f.jpg",
+    "/images/9e8b0c79ea1097b9532fb0e53880122cf9875780.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/df1a432b3eafd868b48fdbc66d42e501c3bd3887.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7347",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "就活センセーション",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 2,
+              "title": "笑って",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "津野米咲",
+                "作曲": "津野米咲",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ハナモヨウ",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "就活センセーション(Instrumental)",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 5,
+              "title": "笑って(Instrumental)",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "津野米咲",
+                "作曲": "津野米咲",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ハナモヨウ(Instrumental)",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/7e736dd3fc89312a751e66a25e5a01d556b3f8c7.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7349",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "就活センセーション(Music Video)",
+              "duration": "05:31",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/images/b48b3766ba518e362071ee11f37623e62d1c34c5.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7351",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "就活センセーション",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 2,
+              "title": "笑って",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "津野米咲",
+                "作曲": "津野米咲",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ハナモヨウ",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "就活センセーション(Instrumental)",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 5,
+              "title": "笑って(Instrumental)",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "津野米咲",
+                "作曲": "津野米咲",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ハナモヨウ(Instrumental)",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/images/ace540e36d423336f0692274bf95c783e1d1a6c6.jpg",
+      "price": "￥1,980 (税抜価格 ￥1,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7353",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "笑って(Music Video)",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "津野米咲",
+                "作曲": "津野米咲"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/f577203c0c2b1e38610fbc97cbf8b979273157f1.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7355",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "就活センセーション",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 2,
+              "title": "笑って",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "津野米咲",
+                "作曲": "津野米咲",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ハナモヨウ",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "就活センセーション(Instrumental)",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 5,
+              "title": "笑って(Instrumental)",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "津野米咲",
+                "作曲": "津野米咲",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ハナモヨウ(Instrumental)",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/189e1070588b03e7500ae8d2014f06309ffabd4f.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7356",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ハナモヨウ(Music Video)",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "KOUGA"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/images/9e8b0c79ea1097b9532fb0e53880122cf9875780.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7357",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "就活センセーション",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 2,
+              "title": "笑って",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "津野米咲",
+                "作曲": "津野米咲",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ハナモヨウ",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "就活センセーション(Instrumental)",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 5,
+              "title": "笑って(Instrumental)",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "津野米咲",
+                "作曲": "津野米咲",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ハナモヨウ(Instrumental)",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

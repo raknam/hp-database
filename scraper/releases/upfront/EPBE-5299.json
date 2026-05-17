@@ -1,0 +1,52 @@
+{
+  "code": "EPBE-5299",
+  "url": "/release/detail/EPBE-5299/",
+  "source": "upfront",
+  "title": "シングルV「パパンケーキ」",
+  "category": "DVDシングルV",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "releaseDate": "2008/07/30",
+  "label": "zetima",
+  "images": [
+    "/images/fe7c55d7b0e6d1fe4517f6df4075c0bd7cffc925.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/fe7c55d7b0e6d1fe4517f6df4075c0bd7cffc925.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5299",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "パパンケーキ",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "FIREWORKS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "月島きらりのワンポイントダンスレッスン",
+              "duration": "02:25"
+            },
+            {
+              "index": 3,
+              "title": "パパンケーキ(Dance Shot Ver.)",
+              "duration": "04:18"
+            },
+            {
+              "index": 4,
+              "title": "メイキング映像",
+              "duration": "06:36"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

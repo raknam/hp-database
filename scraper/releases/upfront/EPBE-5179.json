@@ -1,0 +1,98 @@
+{
+  "code": "EPBE-5179",
+  "url": "/release/detail/EPBE-5179/",
+  "source": "upfront",
+  "title": "闘え！！サイボーグしばた3",
+  "category": "DVD",
+  "artist": "メロン記念日",
+  "releaseDate": "2005/09/28",
+  "label": "zetima",
+  "images": [
+    "/images/f1ea977cdf8ccbdacb6b23da5566b9c165f7b38d.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f1ea977cdf8ccbdacb6b23da5566b9c165f7b38d.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5179",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ふりだし",
+              "duration": "01:26"
+            },
+            {
+              "index": 2,
+              "title": "あらすじ",
+              "duration": "16:52"
+            },
+            {
+              "index": 3,
+              "title": "再々始動！？不滅のマッドサイエンティストたち",
+              "duration": "14:50"
+            },
+            {
+              "index": 4,
+              "title": "だまってワシについて来い！？",
+              "duration": "09:57"
+            },
+            {
+              "index": 5,
+              "title": "うわさのセクシーベーカリー！？",
+              "duration": "12:58"
+            },
+            {
+              "index": 6,
+              "title": "悪魔のようなあいつ！？",
+              "duration": "14:45"
+            },
+            {
+              "index": 7,
+              "title": "戦慄のローレライ！？",
+              "duration": "12:32"
+            },
+            {
+              "index": 8,
+              "title": "しばたよ永遠にっ…",
+              "duration": "19:01"
+            },
+            {
+              "index": 9,
+              "title": "(しばたよ永遠にっ…続き)",
+              "duration": "01:13"
+            },
+            {
+              "index": 10,
+              "title": "一回休み〔CM・特報映像集〕",
+              "duration": "00:59"
+            },
+            {
+              "index": 11,
+              "title": "(一回休み〔CM・特報映像集〕続き)",
+              "duration": "00:43"
+            },
+            {
+              "index": 12,
+              "title": "(一回休み〔CM・特報映像集〕続き)",
+              "duration": "00:51"
+            },
+            {
+              "index": 13,
+              "title": "(一回休み〔CM・特報映像集〕続き)",
+              "duration": "00:51"
+            },
+            {
+              "index": 14,
+              "title": "あがり〔メイキング映像〕",
+              "duration": "18:20"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

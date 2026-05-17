@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5496",
+  "url": "/release/detail/EPCE-5496/",
+  "source": "upfront",
+  "title": "お願い魅惑のターゲット",
+  "category": "CDシングル",
+  "artist": "メロン記念日",
+  "releaseDate": "2007/09/05",
+  "label": "zetima",
+  "images": [
+    "/images/39f7e086ab120e7c9c29dfbcad884d7da51947d3.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/39f7e086ab120e7c9c29dfbcad884d7da51947d3.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5496",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "お願い魅惑のターゲット 〜マンゴープリン Mix〜",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "上田ケンジ",
+                "作曲": "田中秀典",
+                "編曲": "たいせい"
+              }
+            },
+            {
+              "index": 2,
+              "title": "お願い魅惑のターゲット オリジナルnew ver.",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "上田ケンジ",
+                "作曲": "田中秀典",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "お願い魅惑のターゲット オリジナルnew ver.(Instrumental)",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "上田ケンジ",
+                "作曲": "田中秀典",
+                "編曲": "宮永治郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

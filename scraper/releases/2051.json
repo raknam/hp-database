@@ -1,0 +1,26 @@
+{
+  "id": 2051,
+  "url": "/release/2051/",
+  "title": "ももプレ♡",
+  "category": "DVD",
+  "artist": "嗣永桃子",
+  "releaseDate": "2011.3.4",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/a04b9ea81350f6d7baaf3ca746619ca8f0bb4dc3.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [],
+          "catalogNo": "UFBW-1069"
+        }
+      ]
+    }
+  ]
+}

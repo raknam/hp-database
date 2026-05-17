@@ -1,0 +1,250 @@
+{
+  "code": "HKCN-50785",
+  "url": "/release/detail/HKCN-50785/",
+  "source": "upfront",
+  "title": "RED LINE/ライフ イズ ビューティフル！",
+  "category": "CDシングル",
+  "artist": "アンジュルム",
+  "releaseDate": "2023/12/13",
+  "label": "hachama",
+  "images": [
+    "/images/91b35edb4f340873b490c864eb5cf8b922ec71a6.jpg",
+    "/images/40f1fb9a282e3c2a498daa3607ae489bcd5aadf7.jpg",
+    "/images/065b94cc3fe703a074091c251c7ad200956ee588.jpg",
+    "/images/0e92b5a9cd4addeccaf19a7f6d135d71ac2a3678.jpg",
+    "/images/c8d31d3903f9ae957726357901865123d0a72181.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/91b35edb4f340873b490c864eb5cf8b922ec71a6.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50785",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "RED LINE",
+              "duration": "03:26",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "浜田ピエール裕介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ライフ イズ ビューティフル！",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "炭竃智弘",
+                "編曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 3,
+              "title": "RED LINE(Instrumental)",
+              "duration": "03:26",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "浜田ピエール裕介"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ライフ イズ ビューティフル！(Instrumental)",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "炭竃智弘",
+                "編曲": "炭竃智弘"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/40f1fb9a282e3c2a498daa3607ae489bcd5aadf7.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKCN-50787",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "RED LINE(Music Video)",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい"
+              }
+            },
+            {
+              "index": 2,
+              "title": "RED LINE(Dance Shot Ver.)",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい"
+              }
+            },
+            {
+              "index": 2,
+              "title": "RED LINE(メイキング映像)",
+              "duration": "14:31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/images/065b94cc3fe703a074091c251c7ad200956ee588.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50789",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "RED LINE",
+              "duration": "03:26",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "浜田ピエール裕介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ライフ イズ ビューティフル！",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "炭竃智弘",
+                "編曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 3,
+              "title": "RED LINE(Instrumental)",
+              "duration": "03:26",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "浜田ピエール裕介"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ライフ イズ ビューティフル！(Instrumental)",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "炭竃智弘",
+                "編曲": "炭竃智弘"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/0e92b5a9cd4addeccaf19a7f6d135d71ac2a3678.jpg",
+      "price": "￥1,200 (税抜価格 ￥1,091)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKCN-50791",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ライフ イズ ビューティフル！(Music Video)",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ライフ イズ ビューティフル！(Dance Shot Ver.)",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ライフ イズ ビューティフル！(メイキング映像)",
+              "duration": "14:29"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/c8d31d3903f9ae957726357901865123d0a72181.jpg",
+      "price": "￥1,200 (税抜価格 ￥1,091)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50792",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "RED LINE",
+              "duration": "03:26",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "浜田ピエール裕介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ライフ イズ ビューティフル！",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "炭竃智弘",
+                "編曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 3,
+              "title": "RED LINE(Instrumental)",
+              "duration": "03:26",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "浜田ピエール裕介"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ライフ イズ ビューティフル！(Instrumental)",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "炭竃智弘",
+                "編曲": "炭竃智弘"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

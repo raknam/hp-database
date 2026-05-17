@@ -1,0 +1,58 @@
+{
+  "code": "UFCW-1066",
+  "url": "/release/detail/UFCW-1066/",
+  "source": "upfront",
+  "title": "天まで登れ！",
+  "category": "CDシングル",
+  "artist": "ハロプロ研修生feat.Juice=Juice",
+  "releaseDate": "2013/06/12",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/9dc18afae06a26258660c81f705e8a568b7c8a07.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/9dc18afae06a26258660c81f705e8a568b7c8a07.jpg",
+      "price": "￥838 (税抜価格 ￥762)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "UFCW-1066",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "天まで登れ！",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎、ブラスアレンジ:鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "天まで登れ！",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎、ブラスアレンジ:鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "天まで登れ！(Instrumental)",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎、ブラスアレンジ:鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

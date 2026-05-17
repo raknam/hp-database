@@ -1,0 +1,61 @@
+{
+  "code": "UFBW-1264",
+  "url": "/release/detail/UFBW-1264/",
+  "source": "upfront",
+  "title": "ハロー!SATOYAMAライフ Vol.10",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2013/07/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/2e3376b9d0fcfbe935473f53d4f9e73366983f58.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/2e3376b9d0fcfbe935473f53d4f9e73366983f58.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1264",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "里山課外授業 わら草履作りを体験！",
+              "duration": "10:27"
+            },
+            {
+              "index": 2,
+              "title": "里山課外授業 郷土料理作りを学ぶ！",
+              "duration": "14:33"
+            },
+            {
+              "index": 3,
+              "title": "SATOYAMA movement バスツアー in 常陸太田市に密着！",
+              "duration": "21:54"
+            },
+            {
+              "index": 4,
+              "title": "スマイレージ「寒いね。」MV撮影に密着！",
+              "duration": "13:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "モーニング娘。田中れいな卒業発表＆バンドメンバー初お披露目！",
+              "duration": "10:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

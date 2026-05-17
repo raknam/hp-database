@@ -1,0 +1,73 @@
+{
+  "id": 5160,
+  "url": "/release/5160/",
+  "title": "リアル☆リトル☆ガール/彼女になりたいっ!!!(ハロプロ研修生北海道 Ver.)",
+  "category": "CDシングル",
+  "artist": "ハロプロ研修生北海道",
+  "releaseDate": "2017.7.5",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/aefe7c63a9bad1214474f106ea65819d3e4681d3.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "リアル☆リトル☆ガール",
+              "duration": "03:28",
+              "credits": {
+                "作詞": "城太郎",
+                "作曲": "星部ショウ",
+                "編曲": "高橋諭一",
+                "歌": "ハロプロ研修生北海道"
+              }
+            },
+            {
+              "index": 2,
+              "title": "彼女になりたいっ！！！(ハロプロ研修生北海道Ver.)",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "ハロプロ研修生北海道"
+              }
+            },
+            {
+              "index": 3,
+              "title": "リアル☆リトル☆ガール",
+              "duration": "03:28",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "城太郎",
+                "作曲": "星部ショウ",
+                "編曲": "高橋諭一",
+                "歌": "ハロプロ研修生北海道"
+              }
+            },
+            {
+              "index": 4,
+              "title": "彼女になりたいっ！！！(ハロプロ研修生北海道Ver.)",
+              "duration": "04:08",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "ハロプロ研修生北海道"
+              }
+            }
+          ],
+          "catalogNo": "UFCW-1120"
+        }
+      ]
+    }
+  ]
+}

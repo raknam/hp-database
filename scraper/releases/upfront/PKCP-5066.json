@@ -1,0 +1,58 @@
+{
+  "code": "PKCP-5066",
+  "url": "/release/detail/PKCP-5066/",
+  "source": "upfront",
+  "title": "ガラスのパンプス",
+  "category": "CDシングル",
+  "artist": "後藤真希",
+  "releaseDate": "2006/06/07",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/8e02bd9a927bdbde7905043dbc625e1d41a04d00.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/8e02bd9a927bdbde7905043dbc625e1d41a04d00.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5066",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ガラスのパンプス",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "LOVE缶コーヒー",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ガラスのパンプス(Instrumental)",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

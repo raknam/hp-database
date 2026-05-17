@@ -1,0 +1,53 @@
+{
+  "code": "UFBW-1061",
+  "url": "/release/detail/UFBW-1061/",
+  "source": "upfront",
+  "title": "Le Soleil",
+  "category": "DVD",
+  "artist": "菅谷梨沙子",
+  "releaseDate": "2011/02/15",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/05995db735514b4cc21e8a2d58dda9174a15d535.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/05995db735514b4cc21e8a2d58dda9174a15d535.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1061",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening〜Scene1",
+              "duration": "23:42"
+            },
+            {
+              "index": 2,
+              "title": "Scene2",
+              "duration": "16:21"
+            },
+            {
+              "index": 3,
+              "title": "Scene3",
+              "duration": "08:13"
+            },
+            {
+              "index": 4,
+              "title": "蝉",
+              "duration": "04:40"
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "01:02"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

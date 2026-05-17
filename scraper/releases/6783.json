@@ -1,0 +1,72 @@
+{
+  "id": 6783,
+  "url": "/release/6783/",
+  "title": "恋のクラウチングスタート/お祭りデビューだぜ！(Special Edition)",
+  "category": "配信",
+  "artist": "OCHA NORMA",
+  "releaseDate": "2022.7.13",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/90f4e39e333a0989b0a9b7e5cfd34c7ba1b7a9b5.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋のクラウチングスタート",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "お祭りデビューだぜ！",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘/星部ショウ",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "デート前夜狂想曲",
+              "duration": "03:00",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/ha-j",
+                "編曲": "ha-j",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ラーメン大好き小泉さんの唄",
+              "duration": "04:06",
+              "suffix": "(Single Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "シャ乱Q",
+                "編曲": "平田祥一郎",
+                "歌": "OCHA NORMA"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1504"
+        }
+      ]
+    }
+  ]
+}

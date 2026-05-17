@@ -1,0 +1,48 @@
+{
+  "code": "UFDL-1426",
+  "url": "/release/detail/UFDL-1426/",
+  "source": "upfront",
+  "title": "恋する！さかなヘン",
+  "category": "配信",
+  "artist": "矢島舞美、中島早貴、高木紗友希(Juice=Juice)、岡田万里奈(LoVendoЯ)、岸本ゆめの(つばきファクトリー)",
+  "releaseDate": "2019/03/30",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/1a677a88f7947ee8d9e6a0f3420c318c34737f60.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/1a677a88f7947ee8d9e6a0f3420c318c34737f60.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1426",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋する！さかなヘン",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "桑原永江",
+                "作曲": "松浦雄太",
+                "編曲": "松浦雄太"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋する！さかなヘン(Instrumental)",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "桑原永江",
+                "作曲": "松浦雄太",
+                "編曲": "松浦雄太"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

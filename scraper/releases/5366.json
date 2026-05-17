@@ -1,0 +1,38 @@
+{
+  "id": 5366,
+  "url": "/release/5366/",
+  "title": "如雨露",
+  "category": "配信",
+  "artist": "Juice=Juice",
+  "releaseDate": "2017.6.16",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/f16f4c00fe5fbe30097c1d7fd945b097f7985764.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "如雨露",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "YUKO",
+                "編曲": "大久保薫",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1344"
+        }
+      ]
+    }
+  ]
+}

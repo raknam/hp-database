@@ -1,0 +1,61 @@
+{
+  "id": 2787,
+  "url": "/release/2787/",
+  "title": "さぁ！ 恋人になろう",
+  "category": "CDシングル",
+  "artist": "メロン記念日",
+  "releaseDate": "2002.2.14",
+  "label": "zetima",
+  "images": [
+    "/upload/images/714b81ec631aa92fd5e319e925ed8c8ceffc5ec2.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "さぁ！ 恋人になろう",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "つんく＆新堂敦士",
+                "作曲": "新堂敦士",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "メロン記念日"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ガールズパワー・愛するパワー",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "新堂敦士",
+                "作曲": "新堂敦士",
+                "編曲": "小西貴雄",
+                "歌": "メロン記念日"
+              }
+            },
+            {
+              "index": 3,
+              "title": "さぁ！ 恋人になろう",
+              "duration": "04:29",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく＆新堂敦士",
+                "作曲": "新堂敦士",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "メロン記念日"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5142"
+        }
+      ]
+    }
+  ]
+}

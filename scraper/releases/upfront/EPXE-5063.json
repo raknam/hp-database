@@ -1,0 +1,58 @@
+{
+  "code": "EPXE-5063",
+  "url": "/release/detail/EPXE-5063/",
+  "source": "upfront",
+  "title": "sixteen",
+  "category": "BD",
+  "artist": "鞘師里保",
+  "releaseDate": "2015/04/08",
+  "label": "zetima",
+  "images": [
+    "/images/9257b31dad89c50cd6bdf6c826d8ce77c21eb9d4.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/9257b31dad89c50cd6bdf6c826d8ce77c21eb9d4.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5063",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "One Sunday Morning",
+              "duration": "10:06"
+            },
+            {
+              "index": 2,
+              "title": "One Early Morning",
+              "duration": "07:05"
+            },
+            {
+              "index": 3,
+              "title": "One Beautiful Day",
+              "duration": "11:13"
+            },
+            {
+              "index": 4,
+              "title": "the voice of Riho Sayashi",
+              "duration": "07:46"
+            },
+            {
+              "index": 5,
+              "title": "Making of PHOTOBOOK",
+              "duration": "11:33"
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "02:35"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

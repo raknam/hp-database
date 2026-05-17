@@ -1,0 +1,73 @@
+{
+  "id": 2821,
+  "url": "/release/2821/",
+  "title": "上海の風",
+  "category": "CDシングル",
+  "artist": "中澤裕子",
+  "releaseDate": "2000.7.12",
+  "label": "zetima",
+  "images": [
+    "/upload/images/edd74a9295a4e76170992a6f4bd488708101557f.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "上海の風",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "中澤裕子"
+              }
+            },
+            {
+              "index": 2,
+              "title": "雨よ",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "上杉洋史",
+                "歌": "中澤裕子"
+              }
+            },
+            {
+              "index": 3,
+              "title": "上海の風",
+              "duration": "04:41",
+              "suffix": "(オリジナル・カラオケ)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "中澤裕子"
+              }
+            },
+            {
+              "index": 4,
+              "title": "雨よ",
+              "duration": "04:41",
+              "suffix": "(オリジナル・カラオケ)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "上杉洋史",
+                "歌": "中澤裕子"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5066"
+        }
+      ]
+    }
+  ]
+}

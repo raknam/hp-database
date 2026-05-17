@@ -1,0 +1,53 @@
+{
+  "code": "UFBW-2087",
+  "url": "/release/detail/UFBW-2087/",
+  "source": "upfront",
+  "title": "ホワイト",
+  "category": "DVD",
+  "artist": "徳永千奈美",
+  "releaseDate": "2013/09/07",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/b346754bc8cbcaac6177b3458b66d381746adb53.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/b346754bc8cbcaac6177b3458b66d381746adb53.jpg",
+      "price": "￥3,457 (税抜価格 ￥3,143)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2087",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Light of the forest",
+              "duration": "12:12"
+            },
+            {
+              "index": 2,
+              "title": "Wind of the sea",
+              "duration": "15:27"
+            },
+            {
+              "index": 3,
+              "title": "Sunset over the sea",
+              "duration": "10:48"
+            },
+            {
+              "index": 4,
+              "title": "Sea breeze",
+              "duration": "10:40"
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "01:11"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

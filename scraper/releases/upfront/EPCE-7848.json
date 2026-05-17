@@ -1,0 +1,250 @@
+{
+  "code": "EPCE-7848",
+  "url": "/release/detail/EPCE-7848/",
+  "source": "upfront",
+  "title": "なんだかセンチメンタルな時の歌/最KIYOU",
+  "category": "CDシングル",
+  "artist": "モーニング娘。'24",
+  "releaseDate": "2024/08/14",
+  "label": "zetima",
+  "images": [
+    "/images/36b4a330f9f92f041996c5443f00b2569f85b0e3.jpg",
+    "/images/a91b8fd24f3306ff6b3ee9f4bab18e6ae34dc4db.jpg",
+    "/images/9a029f44ac33512aa15b1e312e65713676f4d14c.jpg",
+    "/images/aaedf23e6cf17066a3bccba235885d06475fcba4.jpg",
+    "/images/d5c846421c4401c608ddc06755a481f39b373a94.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/36b4a330f9f92f041996c5443f00b2569f85b0e3.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7848",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "なんだかセンチメンタルな時の歌",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "神谷礼"
+              }
+            },
+            {
+              "index": 2,
+              "title": "最KIYOU",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "なんだかセンチメンタルな時の歌(Instrumental)",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "神谷礼"
+              }
+            },
+            {
+              "index": 4,
+              "title": "最KIYOU(Instrumental)",
+              "duration": "04:47",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/a91b8fd24f3306ff6b3ee9f4bab18e6ae34dc4db.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7850",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "なんだかセンチメンタルな時の歌(Music Video)",
+              "duration": "05:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "なんだかセンチメンタルな時の歌(Dance Shot Ver.)",
+              "duration": "04:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "なんだかセンチメンタルな時の歌(メイキング映像)",
+              "duration": "13:13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/images/9a029f44ac33512aa15b1e312e65713676f4d14c.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7852",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "なんだかセンチメンタルな時の歌",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "神谷礼"
+              }
+            },
+            {
+              "index": 2,
+              "title": "最KIYOU",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "なんだかセンチメンタルな時の歌(Instrumental)",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "神谷礼"
+              }
+            },
+            {
+              "index": 4,
+              "title": "最KIYOU(Instrumental)",
+              "duration": "04:47",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/aaedf23e6cf17066a3bccba235885d06475fcba4.jpg",
+      "price": "￥1,200 (税抜価格 ￥1,091)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7854",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "最KIYOU(Music Video)",
+              "duration": "05:17",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "最KIYOU(Dance Shot Ver.)",
+              "duration": "04:47",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "最KIYOU(メイキング映像)",
+              "duration": "14:53"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/d5c846421c4401c608ddc06755a481f39b373a94.jpg",
+      "price": "￥1,200 (税抜価格 ￥1,091)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7855",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "なんだかセンチメンタルな時の歌",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "神谷礼"
+              }
+            },
+            {
+              "index": 2,
+              "title": "最KIYOU",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "なんだかセンチメンタルな時の歌(Instrumental)",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "神谷礼"
+              }
+            },
+            {
+              "index": 4,
+              "title": "最KIYOU(Instrumental)",
+              "duration": "04:47",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "code": "PKCP-2090",
+  "url": "/release/detail/PKCP-2090/",
+  "source": "upfront",
+  "title": "空蝉の家/聖橋の夕陽",
+  "category": "CDシングル",
+  "artist": "堀内孝雄",
+  "releaseDate": "2017/01/25",
+  "label": "ライスミュージック",
+  "images": [
+    "/images/8a8a3fa217f2f4b1d2d5ab8512826f37d545ef99.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/8a8a3fa217f2f4b1d2d5ab8512826f37d545ef99.jpg",
+      "price": "￥1,324 (税抜価格 ￥1,204)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-2090",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "空蝉の家",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "田久保真見",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 2,
+              "title": "聖橋の夕陽",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "石原信一",
+                "作曲": "堀内孝雄",
+                "編曲": "和田春彦"
+              }
+            },
+            {
+              "index": 3,
+              "title": "空蝉の家(オリジナル・カラオケ)",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "田久保真見",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 4,
+              "title": "聖橋の夕陽(オリジナル・カラオケ)",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "石原信一",
+                "作曲": "堀内孝雄",
+                "編曲": "和田春彦"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": 2079,
+  "url": "/release/2079/",
+  "title": "ハロプロ！TIME Vol.16",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012.9.7",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/a336c214775a2cccba411208d480837781af2648.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "田中TIME",
+              "duration": "07:13",
+              "suffix": "「恋愛ハンター」リーダー新垣里沙最後のMV撮影",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "道重TIME",
+              "duration": "06:35",
+              "suffix": "ガールズトーク",
+              "credits": {
+                "出演": "新垣里沙・道重さゆみ(モーニング娘。)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "新垣TIME",
+              "duration": "14:50",
+              "suffix": "卒業ソングのMV撮影に密着！！",
+              "credits": {
+                "出演": "新垣里沙"
+              }
+            },
+            {
+              "index": 4,
+              "title": "新垣里沙＆光井愛佳卒業コンサートに密着①",
+              "duration": "21:53",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 5,
+              "title": "新垣里沙＆光井愛佳卒業コンサートに密着②",
+              "duration": "20:30",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1185"
+        }
+      ]
+    }
+  ]
+}

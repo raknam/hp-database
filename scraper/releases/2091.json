@@ -1,0 +1,67 @@
+{
+  "id": 2091,
+  "url": "/release/2091/",
+  "title": "ハロー!SATOYAMAライフ Vol.4",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2013.4.9",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/fc6c0772814a556a7cdadcd3bb8b7ad721e8a4bb.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "スイカにネットをかける＆収穫した野菜を出荷する",
+              "duration": "13:13",
+              "credits": {
+                "出演": "徳永千奈美(Berryz工房)/中島早貴(℃-ute)/光井愛佳"
+              }
+            },
+            {
+              "index": 2,
+              "title": "スマイレージ「好きよ、純情反抗期。」MV撮影現場に密着",
+              "duration": "11:19",
+              "credits": {
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ないしょの話 和田×福田",
+              "duration": "03:09",
+              "credits": {
+                "出演": "和田彩花・福田花音(スマイレージ)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "「Hello!Project誕生15周年記念ライブ2012夏」スペシャル",
+              "duration": "19:00",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 5,
+              "title": "「Hello!Project誕生15周年記念ライブ2012夏」スペシャル未公開映像",
+              "duration": "23:53",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1242"
+        }
+      ]
+    }
+  ]
+}

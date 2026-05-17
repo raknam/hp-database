@@ -1,0 +1,116 @@
+{
+  "id": 2345,
+  "url": "/release/2345/",
+  "title": "The Girls Live Vol.1",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2014.9.3",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/269a2037c85bf33f93f142c1a44bdbf61ca7954e.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "イジワルしないで 抱きしめてよ",
+              "duration": "11:04",
+              "suffix": "【名物企画 衣装コーディネート】",
+              "credits": {
+                "出演": "Juice=Juice/衣装コーディネーター:飯窪春菜(モーニング娘。'14)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "What is LOVE?",
+              "duration": "08:25",
+              "suffix": "【名物企画 衣装コーディネート】",
+              "credits": {
+                "出演": "モーニング娘。'14/衣装コーディネーター:夏焼雅(Berryz工房)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "都会の一人暮らし",
+              "duration": "11:22",
+              "suffix": "【名物企画 衣装コーディネート】",
+              "credits": {
+                "出演": "℃-ute/衣装コーディネーター:菅谷梨沙子(Berryz工房)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "アジアン セレブレイション",
+              "duration": "09:48",
+              "suffix": "【名物企画 衣装コーディネート】",
+              "credits": {
+                "出演": "Berryz工房/衣装コーディネーター:萩原舞(℃-ute)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "旅立ちの春が来た",
+              "duration": "09:51",
+              "suffix": "【名物企画 衣装コーディネート】",
+              "credits": {
+                "出演": "スマイレージ/衣装コーディネーター:清水佐紀(Berryz工房)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "笑顔の君は太陽さ",
+              "duration": "04:41",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "出演": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 7,
+              "title": "君の代わりは居やしない",
+              "duration": "04:31",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "出演": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 8,
+              "title": "大人なのよ！",
+              "duration": "04:55",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ロマンスの途中",
+              "duration": "04:59",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 10,
+              "title": "Hello! Project 2014 WINTER @中野サンプラザ",
+              "duration": "06:30",
+              "credits": {
+                "出演": "Hello! Project"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1380"
+        }
+      ]
+    }
+  ]
+}

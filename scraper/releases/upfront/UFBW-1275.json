@@ -1,0 +1,64 @@
+{
+  "code": "UFBW-1275",
+  "url": "/release/detail/UFBW-1275/",
+  "source": "upfront",
+  "title": "ほたる祭りの日",
+  "category": "DVD",
+  "artist": "ジュリン",
+  "releaseDate": "2013/09/04",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/7baaa431ee9888c80a74b2dbafcf4748d7e00a78.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7baaa431ee9888c80a74b2dbafcf4748d7e00a78.jpg",
+      "price": "￥1,257 (税抜価格 ￥1,143)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1275",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ほたる祭りの日(Music Video)",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "角田崇徳"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ほたる祭りの日(木の下 Ver.)",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "角田崇徳"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ほたる祭りの日(カラオケ Ver.)",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "角田崇徳"
+              }
+            },
+            {
+              "index": 4,
+              "title": "メイキング映像",
+              "duration": "11:00",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "角田崇徳"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

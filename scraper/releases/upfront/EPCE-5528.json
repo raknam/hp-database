@@ -1,0 +1,177 @@
+{
+  "code": "EPCE-5528",
+  "url": "/release/detail/EPCE-5528/",
+  "source": "upfront",
+  "title": "きらりん☆ランド",
+  "category": "CDアルバム",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "releaseDate": "2007/12/19",
+  "label": "zetima",
+  "images": [
+    "/images/086ab3c1926066ea6542ace891058b424c1014a7.jpg",
+    "/images/d17b08a62a380c35f17dbd8ddbd5901968f9010f.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【完全生産限定盤】",
+      "image": "/images/086ab3c1926066ea6542ace891058b424c1014a7.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5528",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ハッピー☆彡",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "BOUNCEBACK",
+                "作曲": "BOUNCEBACK",
+                "編曲": "BOUNCEBACK"
+              }
+            },
+            {
+              "index": 2,
+              "title": "チャンス！",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "織田哲郎",
+                "編曲": "家原正樹"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Olala",
+              "duration": "03:09",
+              "credits": {
+                "作詞": "小山哉枝・田代智一",
+                "作曲": "田代智一",
+                "編曲": "安岡洋一郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ヒマワリ",
+              "duration": "03:22",
+              "credits": {
+                "作詞": "西村ちさと",
+                "作曲": "齋藤真也",
+                "編曲": "齋藤真也"
+              }
+            },
+            {
+              "index": 5,
+              "title": "こんにちぱ",
+              "duration": "03:06",
+              "credits": {
+                "作詞": "YumYum",
+                "作曲": "MenMen",
+                "編曲": "MenMen"
+              }
+            },
+            {
+              "index": 6,
+              "title": "very! berry! strawberry!",
+              "duration": "03:25",
+              "credits": {
+                "作詞": "実ノ里",
+                "作曲": "斎藤悠弥",
+                "編曲": "斎藤悠弥"
+              }
+            },
+            {
+              "index": 7,
+              "title": "はなをぷーん",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "YumYum",
+                "作曲": "MenMen",
+                "編曲": "宮永治郎/MenMen"
+              }
+            },
+            {
+              "index": 8,
+              "title": "恋の魔法はハビビのビ！",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "すやまちえこ+吉田勝弥",
+                "作曲": "吉田勝弥",
+                "編曲": "吉田勝弥"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ふたりはNS",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "YumYum",
+                "作曲": "MenMen",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 10,
+              "title": "ラムタラ",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "斎藤悠弥",
+                "編曲": "斎藤悠弥"
+              }
+            },
+            {
+              "index": 11,
+              "title": "幸せクローバー",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "実ノ里",
+                "作曲": "斎藤悠弥",
+                "編曲": "斎藤悠弥"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/d17b08a62a380c35f17dbd8ddbd5901968f9010f.jpg",
+      "price": "￥2,934 (税抜価格 ￥2,667)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5530",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ハッピー☆彡(Happy Lip Ver.)",
+              "duration": "04:04"
+            },
+            {
+              "index": 2,
+              "title": "ハッピー☆彡(Live Ver.)2007.5.6さいたまスーパーアリーナ モーニング娘。'16娘。コンサートツアー2007春～SEXY8ビート～ より収録",
+              "duration": "02:52"
+            },
+            {
+              "index": 3,
+              "title": "はなをぷーん(Close-up Ver.)",
+              "duration": "04:28"
+            },
+            {
+              "index": 4,
+              "title": "ふたりはNS(Live Ver.)2007.7.29さいたまスーパーアリーナHello! Project 2007 Summer 10th アニバーサリー大感謝祭 ～ハロ☆プロ夏祭り～ より収録",
+              "duration": "03:00"
+            },
+            {
+              "index": 5,
+              "title": "チャンス！(Close-up Ver.)",
+              "duration": "03:50"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

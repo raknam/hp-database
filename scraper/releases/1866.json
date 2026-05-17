@@ -1,0 +1,126 @@
+{
+  "id": 1866,
+  "url": "/release/1866/",
+  "title": "付き合ってるのに片思い",
+  "category": "CDシングル",
+  "artist": "Berryz工房",
+  "releaseDate": "2007.11.28",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/upload/images/9d2b3ce1c962f3eeb6449342147fe2243c35020f.webp",
+    "/upload/images/5a06480f5bb18b48622abf5072930ce682fda7a3.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/upload/images/9d2b3ce1c962f3eeb6449342147fe2243c35020f.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "付き合ってるのに片思い",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "我ら！Berryz仮面",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "付き合ってるのに片思い",
+              "duration": "03:54",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5106"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "付き合ってるのに片思い",
+              "duration": "04:07",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/5a06480f5bb18b48622abf5072930ce682fda7a3.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "付き合ってるのに片思い",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "我ら！Berryz仮面",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "付き合ってるのに片思い",
+              "duration": "03:54",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5108"
+        }
+      ]
+    }
+  ]
+}

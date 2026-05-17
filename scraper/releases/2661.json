@@ -1,0 +1,71 @@
+{
+  "id": 2661,
+  "url": "/release/2661/",
+  "title": "アイドルをさがせ！ヒストリーPart1 ～ハロプロメンバー総出演！～",
+  "category": "VHS",
+  "artist": "V.A.",
+  "releaseDate": "2002.1.17",
+  "label": "hachama",
+  "images": [
+    "/upload/images/cbcd1e20953855206eabcc4bc1cf449a32ac2ecc.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "VHS",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "00:22",
+              "credits": {
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "Hello! Project LIVE in 名古屋レインボーホール",
+              "duration": "11:13",
+              "suffix": "BACK STAGE 完全密着(1999年8月)",
+              "credits": {
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 3,
+              "title": "モーニング娘。主演映画「ピンチランナー」 撮影現場完全密着",
+              "duration": "24:17",
+              "suffix": "(2000年3月)",
+              "credits": {
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "カントリー娘。りんね 緊張の初ステージ",
+              "duration": "07:29",
+              "suffix": "(1999年8月1日)",
+              "credits": {
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 5,
+              "title": "Hello! Project LIVE 2000 BACK STAGE 完全密着",
+              "duration": "13:49",
+              "suffix": "(2000年1月)",
+              "credits": {
+                "歌": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "HKVN-10002"
+        }
+      ]
+    }
+  ]
+}

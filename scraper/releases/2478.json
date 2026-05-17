@@ -1,0 +1,223 @@
+{
+  "id": 2478,
+  "url": "/release/2478/",
+  "title": "世界はサマー・パーティ",
+  "category": "CDシングル",
+  "artist": "真野恵里菜",
+  "releaseDate": "2009.7.29",
+  "label": "hachama",
+  "images": [
+    "/upload/images/26cb5d71e900188ff9e4c0687cef1b0efce2c98d.webp",
+    "/upload/images/786c4480293183cac704399982d73a039e3045f1.webp",
+    "/upload/images/6e67fd8f0a87e6ece4b4bf05565f21f86b04bfcd.webp",
+    "/upload/images/7ca42b85d12b6d780e3eb5a2a7a21004939ad36a.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/26cb5d71e900188ff9e4c0687cef1b0efce2c98d.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "世界は サマー・パーティ",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "佐々倉有吾",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ジャスミンティー",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "小西貴雄",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "世界は サマー・パーティ",
+              "duration": "04:10",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "佐々倉有吾",
+                "歌": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50084"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "世界は サマー・パーティ",
+              "duration": "04:25",
+              "suffix": "(Piano Ver.)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "出演": "真野恵里菜"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付き"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/786c4480293183cac704399982d73a039e3045f1.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "世界は サマー・パーティ",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "佐々倉有吾",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ジャスミンティー",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "小西貴雄",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "世界は サマー・パーティ",
+              "duration": "04:10",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "佐々倉有吾",
+                "歌": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50086"
+        }
+      ],
+      "note": "DVD付き"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/6e67fd8f0a87e6ece4b4bf05565f21f86b04bfcd.webp",
+      "price": "￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "世界は サマー・パーティ",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "佐々倉有吾",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ジャスミンティー",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "小西貴雄",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "世界は サマー・パーティ",
+              "duration": "04:10",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "佐々倉有吾",
+                "歌": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50088"
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/7ca42b85d12b6d780e3eb5a2a7a21004939ad36a.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "世界は サマー・パーティ",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "佐々倉有吾",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ジャスミンティー",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "小西貴雄",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "世界は サマー・パーティ",
+              "duration": "04:10",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "佐々倉有吾",
+                "歌": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50089"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "id": 448,
+  "url": "/release/448/",
+  "title": "よろセン！Vol.5",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2009.11.25",
+  "label": "zetima",
+  "images": [
+    "/upload/images/3fa8303fd9994bde0aa7573a4963d588667b4a18.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "大相撲 1日目",
+              "duration": "03:30",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "大相撲 2日目",
+              "duration": "03:33",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 3,
+              "title": "大相撲 3日目",
+              "duration": "04:33",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "大相撲 4日目",
+              "duration": "03:40",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 5,
+              "title": "大相撲 5日目(テスト)",
+              "duration": "03:40",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 6,
+              "title": "ゲーム 1日目",
+              "duration": "07:12",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 7,
+              "title": "ゲーム 2日目",
+              "duration": "03:18",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 8,
+              "title": "ゲーム 3日目",
+              "duration": "10:38",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 9,
+              "title": "スイーツ 1日目",
+              "duration": "03:37",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 10,
+              "title": "スイーツ 2日目",
+              "duration": "03:38",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 11,
+              "title": "スイーツ 3日目",
+              "duration": "03:38",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 12,
+              "title": "スイーツ 4日目",
+              "duration": "04:33",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 13,
+              "title": "スイーツ 5日目",
+              "duration": "04:42",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 14,
+              "title": "久住小春 大相撲",
+              "duration": "02:55",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 15,
+              "title": "夏焼雅 ゲーム",
+              "duration": "02:45",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 16,
+              "title": "嗣永桃子 最新家電",
+              "duration": "03:50",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 17,
+              "title": "梅田えりか スイーツ",
+              "duration": "05:50",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5361"
+        }
+      ]
+    }
+  ]
+}

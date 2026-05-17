@@ -1,0 +1,379 @@
+{
+  "code": "HKCN-50580",
+  "url": "/release/detail/HKCN-50580/",
+  "source": "upfront",
+  "title": "微炭酸/ポツリと/Good bye & Good luck！",
+  "category": "CDシングル",
+  "artist": "Juice=Juice",
+  "releaseDate": "2019/02/13",
+  "label": "hachama",
+  "images": [
+    "/images/a5b4a295d0d4d505be2ff56812ff480f18e9d25a.jpg",
+    "/images/a7bfb1700214197701f7f18044c499de1efd890a.jpg",
+    "/images/9c5887cd66bfbbf627763db005fc0869af90c582.jpg",
+    "/images/5de9bffffb821accf33e60493b7ed1e0f4893484.jpg",
+    "/images/8c2231611fadba34a41dd09e7d5c0a3f84690ddf.jpg",
+    "/images/c2df01c704a11cc3cb41c917ffd9026f4676e3de.jpg",
+    "/images/34ef2eec1541ff70bfde7a77383de1fc7ef154bb.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/a5b4a295d0d4d505be2ff56812ff480f18e9d25a.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50580",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "微炭酸",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ポツリと",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "浜田ピエール裕介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Good bye & Good luck！",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KOUGA",
+                "編曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 4,
+              "title": "微炭酸(Instrumental)",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ポツリと(Instrumental)",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "浜田ピエール裕介"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Good bye & Good luck！(Instrumental)",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KOUGA",
+                "編曲": "炭竃智弘"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/a7bfb1700214197701f7f18044c499de1efd890a.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50582",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "微炭酸(Music Video)",
+              "duration": "05:30",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/images/9c5887cd66bfbbf627763db005fc0869af90c582.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50584",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "微炭酸",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ポツリと",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "浜田ピエール裕介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Good bye & Good luck！",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KOUGA",
+                "編曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 4,
+              "title": "微炭酸(Instrumental)",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ポツリと(Instrumental)",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "浜田ピエール裕介"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Good bye & Good luck！(Instrumental)",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KOUGA",
+                "編曲": "炭竃智弘"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/images/5de9bffffb821accf33e60493b7ed1e0f4893484.jpg",
+      "price": "￥1,980 (税抜価格 ￥1,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50586",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ポツリと(Music Video)",
+              "duration": "05:24",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/8c2231611fadba34a41dd09e7d5c0a3f84690ddf.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50588",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "微炭酸",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ポツリと",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "浜田ピエール裕介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Good bye & Good luck！",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KOUGA",
+                "編曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 4,
+              "title": "微炭酸(Instrumental)",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ポツリと(Instrumental)",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "浜田ピエール裕介"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Good bye & Good luck！(Instrumental)",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KOUGA",
+                "編曲": "炭竃智弘"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/c2df01c704a11cc3cb41c917ffd9026f4676e3de.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50589",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Good bye & Good luck！(Music Video)",
+              "duration": "05:24",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KOUGA"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/images/34ef2eec1541ff70bfde7a77383de1fc7ef154bb.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50590",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "微炭酸",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ポツリと",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "浜田ピエール裕介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Good bye & Good luck！",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KOUGA",
+                "編曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 4,
+              "title": "微炭酸(Instrumental)",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ポツリと(Instrumental)",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "浜田ピエール裕介"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Good bye & Good luck！(Instrumental)",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KOUGA",
+                "編曲": "炭竃智弘"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

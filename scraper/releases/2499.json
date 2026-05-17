@@ -1,0 +1,174 @@
+{
+  "id": 2499,
+  "url": "/release/2499/",
+  "title": "春の嵐",
+  "category": "CDシングル",
+  "artist": "真野恵里菜",
+  "releaseDate": "2010.2.24",
+  "label": "hachama",
+  "images": [
+    "/upload/images/7dafcbd93144d5ab0c81eb4c4c9edf66a3fc5768.webp",
+    "/upload/images/23c964f3e4a3139fe313d2e9e42f0e624f0113f2.webp",
+    "/upload/images/b617d4fc54e629a90ef5942be3990b003d5ddd86.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/7dafcbd93144d5ab0c81eb4c4c9edf66a3fc5768.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "春の嵐",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ハロー！ エスパ－！ ハロー！",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "春の嵐",
+              "duration": "04:10",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50105"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "春の嵐",
+              "duration": "04:26",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく",
+                "出演": "真野恵里菜"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付き"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/23c964f3e4a3139fe313d2e9e42f0e624f0113f2.webp",
+      "price": "￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "春の嵐",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ハロー！ エスパ－！ ハロー！",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "春の嵐",
+              "duration": "04:10",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50107"
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/b617d4fc54e629a90ef5942be3990b003d5ddd86.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "春の嵐",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ハロー！ エスパ－！ ハロー！",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "春の嵐",
+              "duration": "04:10",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50108"
+        }
+      ]
+    }
+  ]
+}

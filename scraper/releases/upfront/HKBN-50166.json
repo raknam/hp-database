@@ -1,0 +1,58 @@
+{
+  "code": "HKBN-50166",
+  "url": "/release/detail/HKBN-50166/",
+  "source": "upfront",
+  "title": "UP TO DATE",
+  "category": "DVD",
+  "artist": "真野恵里菜",
+  "releaseDate": "2012/06/06",
+  "label": "hachama",
+  "images": [
+    "/images/5ce0bc3bcc310e1793d0e9bdf4435118a7db15a4.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/5ce0bc3bcc310e1793d0e9bdf4435118a7db15a4.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKBN-50166",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "00:20"
+            },
+            {
+              "index": 2,
+              "title": "Beautiful Date",
+              "duration": "05:03"
+            },
+            {
+              "index": 3,
+              "title": "Another date with Erina",
+              "duration": "17:29"
+            },
+            {
+              "index": 4,
+              "title": "Date under the sky",
+              "duration": "17:54"
+            },
+            {
+              "index": 5,
+              "title": "Making of 「MANO DATE」",
+              "duration": "12:19"
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "01:54"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

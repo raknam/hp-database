@@ -1,0 +1,68 @@
+{
+  "code": "EPJE-5050",
+  "url": "/release/detail/EPJE-5050/",
+  "source": "upfront",
+  "title": "恋のダンスサイト",
+  "category": "アナログシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2000/02/09",
+  "label": "zetima",
+  "images": [
+    "/images/d40d9c1af3be29f1c8a175778ada7aa722c67374.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d40d9c1af3be29f1c8a175778ada7aa722c67374.jpg",
+      "price": "￥1,495 (税抜価格 ￥1,359)",
+      "discs": [
+        {
+          "type": "アナログシングル",
+          "catalogNo": "EPJE-5050",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋のダンスサイト(Original)",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋のダンスサイト(Groove That Soul Remix)",
+              "duration": "08:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "SATOSHI HIDAKA(GTS)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋のダンスサイト(M．I．D． KH－R CLUB MIX)",
+              "duration": "05:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "DJ K. HASEGAWA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "恋のダンスサイト(PANDART SASANOOOHA Remix)",
+              "duration": "06:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "PANDART SASANOOOHA"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

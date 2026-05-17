@@ -1,0 +1,53 @@
+{
+  "code": "UFBW-1054",
+  "url": "/release/detail/UFBW-1054/",
+  "source": "upfront",
+  "title": "ちっさー",
+  "category": "DVD",
+  "artist": "岡井千聖",
+  "releaseDate": "2010/12/24",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/c68a6b2b08cab8a58291a3c46dbb66bdc1d1e3f1.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/c68a6b2b08cab8a58291a3c46dbb66bdc1d1e3f1.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1054",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "03:39"
+            },
+            {
+              "index": 2,
+              "title": "Image movie",
+              "duration": "21:41"
+            },
+            {
+              "index": 3,
+              "title": "Image movie",
+              "duration": "15:31"
+            },
+            {
+              "index": 4,
+              "title": "Interview",
+              "duration": "12:02"
+            },
+            {
+              "index": 5,
+              "title": "Endroll",
+              "duration": "01:07"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

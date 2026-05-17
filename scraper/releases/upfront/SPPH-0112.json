@@ -1,0 +1,98 @@
+{
+  "code": "SPPH-0112",
+  "url": "/release/detail/SPPH-0112/",
+  "source": "upfront",
+  "title": "C'est La Vie (セ・ラ・ヴィ)",
+  "category": "CDアルバム",
+  "artist": "Temiyan",
+  "releaseDate": "2006/11/08",
+  "label": "Pacific Heaven",
+  "images": [
+    "/images/2a4327a232b8fd7fc6e707dd0d7fa91ec9341ae1.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/2a4327a232b8fd7fc6e707dd0d7fa91ec9341ae1.jpg",
+      "price": "￥1,980 (税抜価格 ￥1,800)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "SPPH-0112",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "1972 teenageの空は",
+              "duration": "05:29",
+              "credits": {
+                "作詞": "Temiyan",
+                "作曲": "Temiyan",
+                "編曲": "Temiyan"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Pong pong pong",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "Temiyan",
+                "作曲": "Temiyan",
+                "編曲": "友常正巳"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Pupulei pua",
+              "duration": "03:22",
+              "credits": {
+                "作詞": "Temiyan",
+                "作曲": "Temiyan",
+                "編曲": "友常正巳"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Surf Hero Yonosuke forever",
+              "duration": "04:44",
+              "credits": {
+                "作詞": "北原照久/Temiyan",
+                "作曲": "Temiyan",
+                "編曲": "友常正巳"
+              }
+            },
+            {
+              "index": 5,
+              "title": "泣いてもいいかい Shonan Wedding Song",
+              "duration": "04:51",
+              "credits": {
+                "作詞": "Temiyan",
+                "作曲": "Temiyan",
+                "編曲": "友常正巳"
+              }
+            },
+            {
+              "index": 6,
+              "title": "生きてゆくこと",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "Temiyan",
+                "作曲": "Temiyan",
+                "編曲": "友常正巳"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Piko Walk",
+              "duration": "02:20",
+              "credits": {
+                "作詞": "友常正巳/Temiyan",
+                "作曲": "友常正巳/Temiyan",
+                "編曲": "友常正巳"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

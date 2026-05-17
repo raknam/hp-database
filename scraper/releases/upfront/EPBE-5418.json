@@ -1,0 +1,63 @@
+{
+  "code": "EPBE-5418",
+  "url": "/release/detail/EPBE-5418/",
+  "source": "upfront",
+  "title": "Love Love Love",
+  "category": "DVD",
+  "artist": "高橋愛",
+  "releaseDate": "2011/09/21",
+  "label": "zetima",
+  "images": [
+    "/images/a989125a45f1142ac629077e56fbc346cc455ea2.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/a989125a45f1142ac629077e56fbc346cc455ea2.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5418",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Ai Meets One",
+              "duration": "04:40"
+            },
+            {
+              "index": 2,
+              "title": "Dancer in the Desert",
+              "duration": "02:46"
+            },
+            {
+              "index": 3,
+              "title": "Route 66",
+              "duration": "20:18"
+            },
+            {
+              "index": 4,
+              "title": "Beach of West Coast",
+              "duration": "11:09"
+            },
+            {
+              "index": 5,
+              "title": "Sweet Time",
+              "duration": "13:27"
+            },
+            {
+              "index": 6,
+              "title": "Making of 「愛愛愛」",
+              "duration": "19:28"
+            },
+            {
+              "index": 7,
+              "title": "Ending",
+              "duration": "05:09"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

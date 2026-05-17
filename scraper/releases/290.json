@@ -1,0 +1,35 @@
+{
+  "id": 290,
+  "url": "/release/290/",
+  "title": "モーニング刑事。〜抱いてHOLD ON ME！〜",
+  "category": "DVD",
+  "artist": "モーニング娘。",
+  "releaseDate": "2000.12.8",
+  "label": "東映ビデオ",
+  "images": [
+    "/upload/images/52fd138bf0601e96b55b538100148e4fe59aed13.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "モーニング刑事。〜抱いてHOLD ON ME!〜",
+              "duration": "00:00",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "DSZD-8001"
+        }
+      ]
+    }
+  ]
+}

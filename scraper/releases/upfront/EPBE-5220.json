@@ -1,0 +1,88 @@
+{
+  "code": "EPBE-5220",
+  "url": "/release/detail/EPBE-5220/",
+  "source": "upfront",
+  "title": "GyaO オリジナルドラマ 道徳女子短大エコ研 第ニ話「東京脱出」",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2006/12/06",
+  "label": "zetima",
+  "images": [
+    "/images/df71f4518af45b2edafe28796b52475dab73f355.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/df71f4518af45b2edafe28796b52475dab73f355.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5220",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "打ち合わせ",
+              "duration": "02:25"
+            },
+            {
+              "index": 2,
+              "title": "2人の新入部員",
+              "duration": "09:46"
+            },
+            {
+              "index": 3,
+              "title": "エコの話",
+              "duration": "02:39"
+            },
+            {
+              "index": 4,
+              "title": "それぞれの夜",
+              "duration": "03:15"
+            },
+            {
+              "index": 5,
+              "title": "貯水率20％",
+              "duration": "04:07"
+            },
+            {
+              "index": 6,
+              "title": "レストルーム",
+              "duration": "02:13"
+            },
+            {
+              "index": 7,
+              "title": "麗子の家",
+              "duration": "01:33"
+            },
+            {
+              "index": 8,
+              "title": "喫茶店",
+              "duration": "05:27"
+            },
+            {
+              "index": 9,
+              "title": "中澤家",
+              "duration": "01:40"
+            },
+            {
+              "index": 10,
+              "title": "東京脱出",
+              "duration": "05:30"
+            },
+            {
+              "index": 11,
+              "title": "2人だけの夜",
+              "duration": "04:08"
+            },
+            {
+              "index": 12,
+              "title": "澤田由梨",
+              "duration": "00:55"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

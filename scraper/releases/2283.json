@@ -1,0 +1,438 @@
+{
+  "id": 2283,
+  "url": "/release/2283/",
+  "title": "The Power/悲しきヘブン (Single Version)",
+  "category": "CDシングル",
+  "artist": "℃-ute",
+  "releaseDate": "2014.7.16",
+  "label": "zetima",
+  "images": [
+    "/upload/images/3e4a21c8d97914fec1fb5d96108d89d0333f78fd.webp",
+    "/upload/images/0919fcb417d57719b31cfaaabc6253e4f16a9c48.webp",
+    "/upload/images/5ab66c29a04153c4d83370bd404d0a8262965f53.webp",
+    "/upload/images/e3a4bd8eb72ca6fd48f65819c7c85ac62de9ffd7.webp",
+    "/upload/images/1a5a69afb007a8eb121fb458190bfe0b219bbd44.webp",
+    "/upload/images/d5c1986f9cf20e3810d8ac5682f47fa3df762552.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/3e4a21c8d97914fec1fb5d96108d89d0333f78fd.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "The Power",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "KOH",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "悲しきヘブン (Single Version)",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "The Power",
+              "duration": "04:03",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "KOH",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "悲しきヘブン (Single Version)",
+              "duration": "04:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7049"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "The Power",
+              "duration": "04:31",
+              "suffix": "(Music Video)",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/0919fcb417d57719b31cfaaabc6253e4f16a9c48.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "悲しきヘブン (Single Version)",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "The Power",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "KOH",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "悲しきヘブン (Single Version)",
+              "duration": "04:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "The Power",
+              "duration": "04:03",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "KOH",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7051"
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/5ab66c29a04153c4d83370bd404d0a8262965f53.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "The Power",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "KOH",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "悲しきヘブン (Single Version)",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "The Power",
+              "duration": "04:03",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "KOH",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "悲しきヘブン (Single Version)",
+              "duration": "04:02",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7053"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "The Power(Dance Shot Ver.)",
+              "duration": "04:09",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ThePower",
+              "duration": "12:50",
+              "suffix": "(ジャケット・MV撮影メイキング映像)",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤D】",
+      "image": "/upload/images/e3a4bd8eb72ca6fd48f65819c7c85ac62de9ffd7.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "悲しきヘブン (Single Version)",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "The Power",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "KOH",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "悲しきヘブン (Single Version)",
+              "duration": "04:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "The Power",
+              "duration": "04:03",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "KOH",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7055"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "悲しきヘブン (Single Version)",
+              "duration": "04:15",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "悲しきヘブン (Single Version)",
+              "duration": "10:45",
+              "suffix": "(ジャケット・MV撮影メイキング映像)",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/1a5a69afb007a8eb121fb458190bfe0b219bbd44.webp",
+      "price": "￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "The Power",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "KOH",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "悲しきヘブン (Single Version)",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "The Power",
+              "duration": "04:03",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "KOH",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "悲しきヘブン (Single Version)",
+              "duration": "04:02",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7057"
+        }
+      ],
+      "note": "トレーディングカードソロ5種+集合1種よりランダムにて1枚封入(The Power)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/d5c1986f9cf20e3810d8ac5682f47fa3df762552.webp",
+      "price": "￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "悲しきヘブン (Single Version)",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "The Power",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "KOH",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "悲しきヘブン (Single Version)",
+              "duration": "04:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "The Power",
+              "duration": "04:03",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "KOH",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7058"
+        }
+      ],
+      "note": "トレーディングカードソロ5種+集合1種よりランダムにて1枚封入(悲しきヘブン (Single Version))※初回プレス分のみ"
+    }
+  ]
+}

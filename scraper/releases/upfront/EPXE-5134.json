@@ -1,0 +1,68 @@
+{
+  "code": "EPXE-5134",
+  "url": "/release/detail/EPXE-5134/",
+  "source": "upfront",
+  "title": "First REINA YOKOYAMA",
+  "category": "BD",
+  "artist": "横山玲奈",
+  "releaseDate": "2018/07/04",
+  "label": "zetima",
+  "images": [
+    "/images/195ebfa419d6cd2a1d7251b16d06a6070b04b64c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/195ebfa419d6cd2a1d7251b16d06a6070b04b64c.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5134",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "In the park",
+              "duration": "08:20"
+            },
+            {
+              "index": 2,
+              "title": "At the beach",
+              "duration": "14:58"
+            },
+            {
+              "index": 3,
+              "title": "Take a walk",
+              "duration": "03:59"
+            },
+            {
+              "index": 4,
+              "title": "Let's paddleboard",
+              "duration": "07:44"
+            },
+            {
+              "index": 5,
+              "title": "Sunset",
+              "duration": "09:03"
+            },
+            {
+              "index": 6,
+              "title": "Making of 「First REINA YOKOYAMA」",
+              "duration": "05:02"
+            },
+            {
+              "index": 7,
+              "title": "Making of 「This is REINA」",
+              "duration": "08:01"
+            },
+            {
+              "index": 8,
+              "title": "Ending",
+              "duration": "02:21"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

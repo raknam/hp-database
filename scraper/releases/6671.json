@@ -1,0 +1,513 @@
+{
+  "id": 6671,
+  "url": "/release/6671/",
+  "title": "英雄～笑って！ショパン先輩～/ハムカツ黙示録",
+  "category": "CDシングル",
+  "artist": "BEYOOOOONDS",
+  "releaseDate": "2022.3.2",
+  "label": "zetima",
+  "images": [
+    "/upload/images/324da941dd299b8d6d46150db333d105c02010ae.webp",
+    "/upload/images/79d69074f389e6a8dd17e2bdffdc6e2e38135d63.webp",
+    "/upload/images/a3484189d5e9841ad7f61499d7a0bb62528e3f9c.webp",
+    "/upload/images/132ebd15784fa379e6b9e8189de7f5bbe71e65e4.webp",
+    "/upload/images/30dc324ece3505a68150d7b990b4c72e8a6a8eec.webp",
+    "/upload/images/955c74b4970cf44ff130a63efd1dfc3b624086a2.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/324da941dd299b8d6d46150db333d105c02010ae.webp",
+      "price": "￥2,090（税抜価格 ￥1,900）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "英雄～笑って！ショパン先輩～",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "FREDERIC FRANCOIS CHOPIN",
+                "編曲": "加藤裕介/星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ハムカツ黙示録",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "英雄～笑って！ショパン先輩～",
+              "duration": "04:43",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "FREDERIC FRANCOIS CHOPIN",
+                "編曲": "加藤裕介/星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ハムカツ黙示録",
+              "duration": "03:38",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7665"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "英雄～笑って！ショパン先輩～",
+              "duration": "05:40",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "FREDERIC FRANCOIS CHOPIN",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "英雄～笑って！ショパン先輩～",
+              "duration": "04:47",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "FREDERIC FRANCOIS CHOPIN",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "英雄～笑って！ショパン先輩～",
+              "duration": "18:43",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "BEYOOOOONDS"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/79d69074f389e6a8dd17e2bdffdc6e2e38135d63.webp",
+      "price": "￥2,090（税抜価格 ￥1,900）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "英雄～笑って！ショパン先輩～",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "FREDERIC FRANCOIS CHOPIN",
+                "編曲": "加藤裕介/星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ハムカツ黙示録",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "英雄～笑って！ショパン先輩～",
+              "duration": "04:43",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "FREDERIC FRANCOIS CHOPIN",
+                "編曲": "加藤裕介/星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ハムカツ黙示録",
+              "duration": "03:38",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7667"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ハムカツ黙示録",
+              "duration": "04:12",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ハムカツ黙示録",
+              "duration": "03:42",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ハムカツ黙示録",
+              "duration": "19:09",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "BEYOOOOONDS"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付"
+    },
+    {
+      "name": "【初回生産限定盤SP1】",
+      "image": "/upload/images/a3484189d5e9841ad7f61499d7a0bb62528e3f9c.webp",
+      "price": "￥2,200（税抜価格 ￥2,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "英雄～笑って！ショパン先輩～",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "FREDERIC FRANCOIS CHOPIN",
+                "編曲": "加藤裕介/星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ハムカツ黙示録",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "フレフレ・エブリデイ",
+              "duration": "04:13",
+              "suffix": "【Additional Track】",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "英雄～笑って！ショパン先輩～",
+              "duration": "04:43",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "FREDERIC FRANCOIS CHOPIN",
+                "編曲": "加藤裕介/星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ハムカツ黙示録",
+              "duration": "03:38",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 6,
+              "title": "フレフレ・エブリデイ",
+              "duration": "04:13",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7669"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "英雄～笑って！ショパン先輩～",
+              "duration": "04:45",
+              "suffix": "(Music Video ぐるぐるピアノ Ver.)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "FREDERIC FRANCOIS CHOPIN",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ハムカツ黙示録",
+              "duration": "06:07",
+              "suffix": "(Music Video 厚切りハムカツ Ver.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "フレフレ・エブリデイ",
+              "duration": "04:24",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付"
+    },
+    {
+      "name": "【初回生産限定盤SP2】",
+      "image": "/upload/images/132ebd15784fa379e6b9e8189de7f5bbe71e65e4.webp",
+      "price": "￥1,540（税抜価格 ￥1,400）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "英雄～笑って！ショパン先輩～",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "FREDERIC FRANCOIS CHOPIN",
+                "編曲": "加藤裕介/星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ハムカツ黙示録",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "英雄～笑って！ショパン先輩～",
+              "duration": "04:43",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "FREDERIC FRANCOIS CHOPIN",
+                "編曲": "加藤裕介/星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ハムカツ黙示録",
+              "duration": "03:38",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7671"
+        }
+      ],
+      "note": "「ハムカツ黙示録」フリーアングルぐるっと動画ダウンロードカード12種より1種ランダム封入"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/30dc324ece3505a68150d7b990b4c72e8a6a8eec.webp",
+      "price": "定価 ￥1,200（税抜価格 ￥1,091）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "英雄～笑って！ショパン先輩～",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "FREDERIC FRANCOIS CHOPIN",
+                "編曲": "加藤裕介/星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ハムカツ黙示録",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "英雄～笑って！ショパン先輩～",
+              "duration": "04:43",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "FREDERIC FRANCOIS CHOPIN",
+                "編曲": "加藤裕介/星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ハムカツ黙示録",
+              "duration": "03:38",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7672"
+        }
+      ],
+      "note": "トレーディングカードソロ12種＋キラ仕様集合1種よりランダムにて1枚封入(英雄～笑って！ショパン先輩～ Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/955c74b4970cf44ff130a63efd1dfc3b624086a2.webp",
+      "price": "定価 ￥1,200（税抜価格 ￥1,091）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "英雄～笑って！ショパン先輩～",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "FREDERIC FRANCOIS CHOPIN",
+                "編曲": "加藤裕介/星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ハムカツ黙示録",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "英雄～笑って！ショパン先輩～",
+              "duration": "04:43",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "FREDERIC FRANCOIS CHOPIN",
+                "編曲": "加藤裕介/星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ハムカツ黙示録",
+              "duration": "03:38",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7673"
+        }
+      ],
+      "note": "トレーディングカードソロ12種＋キラ仕様集合1種よりランダムにて1枚封入(ハムカツ黙示録 Ver.)※初回プレス分のみ"
+    }
+  ]
+}

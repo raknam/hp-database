@@ -1,0 +1,136 @@
+{
+  "id": 2036,
+  "url": "/release/2036/",
+  "title": "ハロー！チャンネル the DVD Vol.2",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2010.12.17",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/8255663feb974769f2b8fac9b0154921c898c16b.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "旅館の女将・仲居修行編",
+              "duration": "19:59",
+              "credits": {
+                "出演": "高橋愛・矢島舞美"
+              }
+            },
+            {
+              "index": 2,
+              "title": "築地で青果市場体験編",
+              "duration": "15:05",
+              "credits": {
+                "出演": "菅谷梨沙子・鈴木愛理・真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "TSUTAYAでお仕事編",
+              "duration": "10:20",
+              "credits": {
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "109で！ファッション店員編",
+              "duration": "14:58",
+              "credits": {
+                "出演": "清水佐紀・徳永千奈美・夏焼雅"
+              }
+            },
+            {
+              "index": 5,
+              "title": "「ドン臭女王決定！体力診断」",
+              "duration": "19:54",
+              "credits": {
+                "出演": "道重さゆみ・ジュンジュン・嗣永桃子・熊井友理奈・萩原舞・福田花音"
+              }
+            },
+            {
+              "index": 6,
+              "title": "「つんく♂かりふわ堂 お好み焼き新メニュー開発！」",
+              "duration": "20:11",
+              "credits": {
+                "出演": "光井愛佳・須藤茉麻・中島早貴・真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1030"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「亀井絵里の梅干しランキング」",
+              "duration": "19:58",
+              "credits": {
+                "出演": "亀井絵里"
+              }
+            },
+            {
+              "index": 2,
+              "title": "「衣裳でみるハロプロの歴史」",
+              "duration": "05:00",
+              "credits": {
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "「真野恵里菜デート@中野」",
+              "duration": "04:49",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 4,
+              "title": "田中れいなの「漢気一直線！」",
+              "duration": "15:55",
+              "credits": {
+                "出演": "田中れいな"
+              }
+            },
+            {
+              "index": 5,
+              "title": "「チャレンジャー岡井千聖のあくなき闘い！！」",
+              "duration": "15:15",
+              "credits": {
+                "出演": "岡井千聖"
+              }
+            },
+            {
+              "index": 6,
+              "title": "「卒業企画1」",
+              "duration": "29:23",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 7,
+              "title": "「卒業企画2」",
+              "duration": "09:44",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

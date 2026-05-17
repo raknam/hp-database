@@ -1,0 +1,48 @@
+{
+  "code": "UFBW-1349",
+  "url": "/release/detail/UFBW-1349/",
+  "source": "upfront",
+  "title": "ハロー!SATOYAMAライフ Vol.29",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2014/06/25",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/49aa78a5da73d8f67d4f96611f336d81b09acbd3.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/49aa78a5da73d8f67d4f96611f336d81b09acbd3.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1349",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "日帰り鎌倉 里山旅1",
+              "duration": "19:23"
+            },
+            {
+              "index": 2,
+              "title": "日帰り鎌倉里山旅2",
+              "duration": "08:35"
+            },
+            {
+              "index": 3,
+              "title": "日帰り鎌倉里山旅3",
+              "duration": "19:56"
+            },
+            {
+              "index": 4,
+              "title": "日帰り鎌倉里山旅4",
+              "duration": "23:46"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

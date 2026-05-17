@@ -1,0 +1,78 @@
+{
+  "code": "UFDL-1554",
+  "url": "/release/detail/UFDL-1554/",
+  "source": "upfront",
+  "title": "ロングラブレター/アニバーサリーはいらない(Special Edition)",
+  "category": "配信",
+  "artist": "譜久村聖",
+  "releaseDate": "2025/04/23",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/ee9dab2550a8d735e8d6f78470d13a456d10c827.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/ee9dab2550a8d735e8d6f78470d13a456d10c827.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1554",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ロングラブレター",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "miwaflower",
+                "作曲": "miwaflower/Toshiya Hosokawa/DJ Georgia",
+                "編曲": "Toshiya Hosokawa/DJ Georgia"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アニバーサリーはいらない",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "suiu",
+                "編曲": "Ryo Kakuta"
+              }
+            },
+            {
+              "index": 3,
+              "title": "エキストラ",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 4,
+              "title": "私のためのハイヒール",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "星部ショウ",
+                "編曲": "清水信之"
+              }
+            },
+            {
+              "index": 5,
+              "title": "窓辺のダンデライオン",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "木下龍平",
+                "編曲": "木下龍平"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

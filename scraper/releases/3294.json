@@ -1,0 +1,74 @@
+{
+  "id": 3294,
+  "url": "/release/3294/",
+  "title": "丸い太陽ｰwinter ver.ｰ",
+  "category": "CDシングル",
+  "artist": "太陽とシスコムーン",
+  "releaseDate": "1999.12.8",
+  "label": "zetima",
+  "images": [
+    "/upload/images/e9d86d0a4f5c605a57ffdc1b8297c7ca5ed4a050.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "丸い太陽-winter ver.-",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄&下町兄弟",
+                "歌": "太陽とシスコムーン"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Magic of Love",
+              "duration": "05:39",
+              "suffix": "(T.Y.P.remix)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "T．Y．P．",
+                "歌": "太陽とシスコムーン"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Magic of Love",
+              "duration": "04:55",
+              "suffix": "(Masters of funk remix)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "CPMMARVIN",
+                "歌": "太陽とシスコムーン"
+              }
+            },
+            {
+              "index": 4,
+              "title": "丸い太陽-winter ver.-",
+              "duration": "04:58",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄&下町兄弟",
+                "歌": "太陽とシスコムーン"
+              }
+            }
+          ],
+          "catalogNo": "EPDE-1065"
+        }
+      ]
+    }
+  ]
+}

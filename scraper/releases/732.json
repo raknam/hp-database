@@ -1,0 +1,127 @@
+{
+  "id": 732,
+  "url": "/release/732/",
+  "title": "暑中お見舞い申し上げます",
+  "category": "CDシングル",
+  "artist": "℃-ute",
+  "releaseDate": "2009.7.1",
+  "label": "zetima",
+  "images": [
+    "/upload/images/c7d302c608a095024efcb573cbd07fca2f94392b.webp",
+    "/upload/images/775354409da13b7115a74ef90eed705987639b17.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/upload/images/c7d302c608a095024efcb573cbd07fca2f94392b.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "暑中お見舞い申し上げます",
+              "duration": "02:58",
+              "credits": {
+                "作詞": "喜多條忠",
+                "作曲": "佐瀬寿一",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "「残暑 お見舞い 申し上げます。」",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "はたけ",
+                "編曲": "板垣祐介",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "暑中お見舞い申し上げます",
+              "duration": "02:58",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "喜多條忠",
+                "作曲": "佐瀬寿一",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5642"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "暑中お見舞い申し上げます",
+              "duration": "03:14",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "喜多條忠",
+                "作曲": "佐瀬寿一",
+                "出演": "℃-ute"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/775354409da13b7115a74ef90eed705987639b17.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "暑中お見舞い申し上げます",
+              "duration": "02:58",
+              "credits": {
+                "作詞": "喜多條忠",
+                "作曲": "佐瀬寿一",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "「残暑 お見舞い 申し上げます。」",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "はたけ",
+                "編曲": "板垣祐介",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "暑中お見舞い申し上げます",
+              "duration": "02:58",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "喜多條忠",
+                "作曲": "佐瀬寿一",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5644"
+        }
+      ],
+      "note": "通常盤･初回仕様 イベント抽選シリアルナンバーカード封入"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": 5652,
+  "url": "/release/5652/",
+  "title": "ハンコウキ！／Ice day Party",
+  "category": "CDシングル",
+  "artist": "ハロプロ研修生北海道 feat.稲場愛香",
+  "releaseDate": "2018.7.11",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/56e16b83c7365a5472547c5f5c7babe302a1a6f0.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ハンコウキ！",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "michitomo",
+                "歌": "ハロプロ研修生北海道 feat.稲場愛香"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Ice day Party",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "An-Ayano",
+                "作曲": "高野智恵美",
+                "編曲": "高野智恵美",
+                "歌": "ハロプロ研修生北海道 feat.稲場愛香"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ハンコウキ！",
+              "duration": "04:03",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "michitomo",
+                "歌": "ハロプロ研修生北海道 feat.稲場愛香"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Ice day Party",
+              "duration": "04:10",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "An-Ayano",
+                "作曲": "高野智恵美",
+                "編曲": "高野智恵美",
+                "歌": "ハロプロ研修生北海道 feat.稲場愛香"
+              }
+            }
+          ],
+          "catalogNo": "UFCW-1131"
+        }
+      ]
+    }
+  ]
+}

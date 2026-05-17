@@ -1,0 +1,52 @@
+{
+  "code": "EPBE-5319",
+  "url": "/release/detail/EPBE-5319/",
+  "source": "upfront",
+  "title": "シングルV「はぴ☆はぴ サンデー！」",
+  "category": "DVDシングルV",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "releaseDate": "2009/02/11",
+  "label": "zetima",
+  "images": [
+    "/images/1f5dbb37af59feba095d71d91800917222a9acd0.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/1f5dbb37af59feba095d71d91800917222a9acd0.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5319",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "はぴ☆はぴ サンデー！",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "月島きらりのワンポイントダンスレッスン",
+              "duration": "02:08"
+            },
+            {
+              "index": 3,
+              "title": "はぴ☆はぴ サンデー！(Dance Shot Ver.)",
+              "duration": "03:53"
+            },
+            {
+              "index": 4,
+              "title": "メイキング映像",
+              "duration": "06:27"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

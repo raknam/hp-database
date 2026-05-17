@@ -1,0 +1,63 @@
+{
+  "code": "UFBW-1069",
+  "url": "/release/detail/UFBW-1069/",
+  "source": "upfront",
+  "title": "ももプレ♡",
+  "category": "DVD",
+  "artist": "嗣永桃子",
+  "releaseDate": "2011/03/04",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/a04b9ea81350f6d7baaf3ca746619ca8f0bb4dc3.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/a04b9ea81350f6d7baaf3ca746619ca8f0bb4dc3.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1069",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "16:44"
+            },
+            {
+              "index": 2,
+              "title": "テニスウェアー",
+              "duration": "10:12"
+            },
+            {
+              "index": 3,
+              "title": "制服",
+              "duration": "10:46"
+            },
+            {
+              "index": 4,
+              "title": "ゴスロリ",
+              "duration": "12:10"
+            },
+            {
+              "index": 5,
+              "title": "メイド",
+              "duration": "11:09"
+            },
+            {
+              "index": 6,
+              "title": "チャイナドレス",
+              "duration": "07:23"
+            },
+            {
+              "index": 7,
+              "title": "エンディング",
+              "duration": "04:50"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

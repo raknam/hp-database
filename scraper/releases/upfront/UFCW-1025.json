@@ -1,0 +1,58 @@
+{
+  "code": "UFCW-1025",
+  "url": "/release/detail/UFCW-1025/",
+  "source": "upfront",
+  "title": "Going my ↑",
+  "category": "CDシングル",
+  "artist": "アップアップガールズ（仮）",
+  "releaseDate": "2012/03/31",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/efdd4898c36a9b2fbd8557a4d52455f615cf9ea3.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/efdd4898c36a9b2fbd8557a4d52455f615cf9ea3.jpg",
+      "price": "￥1,047 (税抜価格 ￥952)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "UFCW-1025",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Going my ↑",
+              "duration": "05:14",
+              "credits": {
+                "作詞": "大華奈央香",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 2,
+              "title": "お願い魅惑のターゲット",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "上田ケンジ",
+                "作曲": "田中秀典",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Going my ↑(Instrumental)",
+              "duration": "05:14",
+              "credits": {
+                "作詞": "大華奈央香",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

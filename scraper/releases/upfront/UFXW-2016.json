@@ -1,0 +1,43 @@
+{
+  "code": "UFXW-2016",
+  "url": "/release/detail/UFXW-2016/",
+  "source": "upfront",
+  "title": "Behind of Photobook〜さくら模様〜",
+  "category": "BD",
+  "artist": "小田さくら",
+  "releaseDate": "2016/11/29",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/eb9c01be59d13e5b935cb99ca628a61db58f1c82.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/eb9c01be59d13e5b935cb99ca628a61db58f1c82.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "UFXW-2016",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Day 1",
+              "duration": "14:25"
+            },
+            {
+              "index": 2,
+              "title": "Day 2",
+              "duration": "14:23"
+            },
+            {
+              "index": 3,
+              "title": "Interview with Sakura Oda",
+              "duration": "21:25"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

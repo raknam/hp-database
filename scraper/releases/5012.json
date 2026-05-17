@@ -1,0 +1,702 @@
+{
+  "id": 5012,
+  "url": "/release/5012/",
+  "title": "Buono! Festa 2016",
+  "category": "BD",
+  "artist": "Buono!",
+  "releaseDate": "2016.11.23",
+  "label": "zetima",
+  "images": [
+    "/upload/images/4a39f2d0c313c4bde16d2caeaf3013b9b311775e.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ロックの聖地",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "諸星ハッピー",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "MC",
+              "duration": "00:12",
+              "credits": {
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 3,
+              "title": "We are Buono!〜Buono!のテーマ♡",
+              "duration": "02:50",
+              "credits": {
+                "作詞": "AKIRASTAR",
+                "作曲": "AKIRASTAR",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ロッタラ ロッタラ",
+              "duration": "05:19",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "井上慎二郎",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Independent Girl〜独立女子であるために",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "木之下慶行",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 6,
+              "title": "雑草のうた",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "井上慎二郎",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 7,
+              "title": "JUICY HE@RT",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "おのりく",
+                "作曲": "HA",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 8,
+              "title": "MC",
+              "duration": "05:12",
+              "credits": {
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ソラシド〜ねえねえ〜",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "津野米咲",
+                "作曲": "津野米咲",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 10,
+              "title": "ガチンコでいこう！",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "ムラマツテツヤ",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 11,
+              "title": "マイラブ",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "井上慎二郎",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 12,
+              "title": "Kiss!Kiss!Kiss!",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "井上慎二郎",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 13,
+              "title": "MC",
+              "duration": "02:52",
+              "credits": {
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 14,
+              "title": "うらはら",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "FLAT5th Yoshiaki Okamoto",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 15,
+              "title": "君がいれば",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "Gajin",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 16,
+              "title": "You're My Friend",
+              "duration": "05:39",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "AKIRASTAR",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 17,
+              "title": "VTR",
+              "duration": "06:29",
+              "credits": {
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 18,
+              "title": "泣き虫少年",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "AKIRASTAR",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 19,
+              "title": "カタオモイ。",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "AKIRASTAR",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 20,
+              "title": "初恋サイダー",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "しほり",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 21,
+              "title": "MC",
+              "duration": "00:22",
+              "credits": {
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 22,
+              "title": "Bravo☆Bravo",
+              "duration": "04:51",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 23,
+              "title": "じゃなきゃもったいないっ！",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "小林哲也",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 24,
+              "title": "れでぃぱんさぁ",
+              "duration": "03:24",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "杉浦“ラフィン”誠一郎",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 25,
+              "title": "MY BOY",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 26,
+              "title": "恋愛♥ライダー",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "AKIRASTAR",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 27,
+              "title": "ロックの神様",
+              "duration": "04:28",
+              "suffix": "【ENCORE】",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "AKIRASTAR",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 28,
+              "title": "MC",
+              "duration": "04:34",
+              "suffix": "【ENCORE】",
+              "credits": {
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 29,
+              "title": "ワープ！",
+              "duration": "03:43",
+              "suffix": "【ENCORE】",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "木之下慶行",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 30,
+              "title": "タビダチの歌",
+              "duration": "09:22",
+              "suffix": "【ENCORE】",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "Gajin",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 1,
+              "title": "PINK CRES. VTR",
+              "duration": "04:19",
+              "credits": {
+                "出演": "PINKCRES."
+              }
+            },
+            {
+              "index": 2,
+              "title": "Warning〜未来警報〜 → ウワノソラ",
+              "duration": "04:47",
+              "credits": {
+                "出演": "PINK CRES."
+              }
+            },
+            {
+              "index": 3,
+              "title": "MC",
+              "duration": "04:39",
+              "credits": {
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Summer Wonderland",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "MEROA/SHIZ",
+                "作曲": "MEROA",
+                "出演": "PINK CRES."
+              }
+            },
+            {
+              "index": 5,
+              "title": "恋泥棒",
+              "duration": "03:41",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "村カワ基成",
+                "出演": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "MC",
+              "duration": "02:17",
+              "credits": {
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 7,
+              "title": "どーだっていいの",
+              "duration": "03:00",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "出演": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 8,
+              "title": "愛おしくってごめんね",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介",
+                "出演": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 9,
+              "title": "都会っ子 純情",
+              "duration": "03:08",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 10,
+              "title": "MC",
+              "duration": "01:39",
+              "credits": {
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 11,
+              "title": "人生はSTEP!",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "石井浩平",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 12,
+              "title": "Kiss me 愛してる",
+              "duration": "03:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 13,
+              "title": "Danceでバコーン！",
+              "duration": "02:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 14,
+              "title": "ホントのじぶん",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "木之下慶行",
+                "出演": "矢島舞美/中島早貴/岡井千聖/萩原舞/山木梨沙/森戸知沙希/小関舞/梁川奈々美/船木結"
+              }
+            }
+          ],
+          "catalogNo": "EPXE-5092"
+        },
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING 〜 ロックの聖地",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "諸星ハッピー",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "We are Buono!〜Buono!のテーマ♡",
+              "duration": "03:05",
+              "credits": {
+                "作詞": "AKIRASTAR",
+                "作曲": "AKIRASTAR",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ロッタラ ロッタラ",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "井上慎二郎",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Independent Girl〜独立女子であるために",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "木之下慶行",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 5,
+              "title": "雑草のうた",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "井上慎二郎",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 6,
+              "title": "JUICY HE@RT",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "おのりく",
+                "作曲": "HA",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ソラシド〜ねえねえ〜",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "津野米咲",
+                "作曲": "津野米咲",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 8,
+              "title": "ガチンコでいこう！",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "ムラマツテツヤ",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 9,
+              "title": "マイラブ",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "井上慎二郎",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 10,
+              "title": "Kiss!Kiss!Kiss!",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "井上慎二郎",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 11,
+              "title": "うらはら",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "FLAT5th Yoshiaki Okamoto",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 12,
+              "title": "君がいれば",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "Gajin",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 13,
+              "title": "You're My Friend",
+              "duration": "05:44",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "AKIRASTAR",
+                "歌": "Buono!"
+              }
+            }
+          ]
+        },
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "泣き虫少年",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "AKIRASTAR",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "カタオモイ。",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "AKIRASTAR",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 3,
+              "title": "初恋サイダー",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "しほり",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Bravo☆Bravo",
+              "duration": "05:08",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 5,
+              "title": "じゃなきゃもったいないっ！",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "小林哲也",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 6,
+              "title": "れでぃぱんさぁ",
+              "duration": "03:25",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "杉浦“ラフィン”誠一郎",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 7,
+              "title": "MY BOY",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 8,
+              "title": "恋愛♥ライダー",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "AKIRASTAR",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ロックの神様",
+              "duration": "04:40",
+              "suffix": "【ENCORE】",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "AKIRASTAR",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 10,
+              "title": "ワープ！",
+              "duration": "03:43",
+              "suffix": "【ENCORE】",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "木之下慶行",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 11,
+              "title": "タビダチの歌",
+              "duration": "07:19",
+              "suffix": "【ENCORE】",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "Gajin",
+                "歌": "Buono!"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

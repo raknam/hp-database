@@ -1,0 +1,58 @@
+{
+  "code": "SPRE-9005",
+  "url": "/release/detail/SPRE-9005/",
+  "source": "upfront",
+  "title": "徹底的運命",
+  "category": "CDシングル",
+  "artist": "シェキドル",
+  "releaseDate": "2001/04/13",
+  "label": "SPREE RECORD",
+  "images": [
+    "/images/daeafccfe74d6d8e071851f1390b5d260fa51cc0.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/daeafccfe74d6d8e071851f1390b5d260fa51cc0.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "SPRE-9005",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "徹底的運命",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "つんく&セブンHOUSE"
+              }
+            },
+            {
+              "index": 2,
+              "title": "徹底的運命-Destiny Version-",
+              "duration": "03:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "徹底的運命(Instrumental)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "つんく＆セブンHOUSE"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

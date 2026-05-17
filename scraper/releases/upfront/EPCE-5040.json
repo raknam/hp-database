@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-5040",
+  "url": "/release/detail/EPCE-5040/",
+  "source": "upfront",
+  "title": "いつか王子様が",
+  "category": "CDシングル",
+  "artist": "加藤紀子",
+  "releaseDate": "2000/02/19",
+  "label": "地中海レーベル",
+  "images": [
+    "/images/d19b3ca7e4d2dfff7f35b640b49e40cc8cca292e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d19b3ca7e4d2dfff7f35b640b49e40cc8cca292e.jpg",
+      "price": "￥1,282 (税抜価格 ￥1,165)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5040",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "いつか王子様が",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "小西康陽",
+                "作曲": "小西康陽",
+                "編曲": "小西康陽"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ジャズる心〈French/Hot Mix Version〉LE COEUR QUI JAZZE",
+              "duration": "02:49",
+              "credits": {
+                "作詞": "RobertGall",
+                "作曲": "AlainGoraguer",
+                "編曲": "岡村みどり"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ジャズる心〈Japanese/Cool Mix Version〉",
+              "duration": "02:44",
+              "credits": {
+                "作詞": "日本語詞:加藤紀子&ﾛﾍﾞ-ﾙ・ｷﾞｬﾙ",
+                "作曲": "アラン・ゴラゲ－ル",
+                "編曲": "岡村みどり"
+              }
+            },
+            {
+              "index": 4,
+              "title": "いつか王子様が(Instrumental)",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "小西康陽",
+                "作曲": "小西康陽",
+                "編曲": "小西康陽"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

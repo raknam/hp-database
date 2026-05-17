@@ -1,0 +1,71 @@
+{
+  "id": 7645,
+  "url": "/release/7645/",
+  "title": "Misery ～愛の天秤～/なんとかなるでしょ(Special Edition)",
+  "category": "配信",
+  "artist": "ロージークロニクル",
+  "releaseDate": "2026.3.18",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/e0605cbb9e600421923149698590eb45c24d2653.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Misery ～愛の天秤～",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "ロージークロニクル"
+              }
+            },
+            {
+              "index": 2,
+              "title": "なんとかなるでしょ",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "炭竃智弘",
+                "歌": "ロージークロニクル"
+              }
+            },
+            {
+              "index": 3,
+              "title": "記念日未満",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "馬瀬みさき",
+                "歌": "ロージークロニクル"
+              }
+            },
+            {
+              "index": 4,
+              "title": "バラ色アンソロージー",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "馬瀬みさき",
+                "編曲": "馬瀬みさき",
+                "歌": "ロージークロニクル"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1583"
+        }
+      ]
+    }
+  ]
+}

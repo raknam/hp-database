@@ -1,0 +1,116 @@
+{
+  "code": "UFBW-1643",
+  "url": "/release/detail/UFBW-1643/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.63",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2020/01/22",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/22fad1246c8ef5a2e5e98cba93a2c17998edcf2e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/22fad1246c8ef5a2e5e98cba93a2c17998edcf2e.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1643",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "冬キャンプ",
+              "duration": "07:49"
+            },
+            {
+              "index": 2,
+              "title": "冷え性対策",
+              "duration": "06:28"
+            },
+            {
+              "index": 3,
+              "title": "作詞術",
+              "duration": "11:21"
+            },
+            {
+              "index": 4,
+              "title": "ハロプロ開運スペシャル①",
+              "duration": "11:52"
+            },
+            {
+              "index": 5,
+              "title": "ハロプロ開運スペシャル②",
+              "duration": "11:17"
+            },
+            {
+              "index": 6,
+              "title": "自由な国だから【スタジオライブ集】",
+              "duration": "05:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 7,
+              "title": "46億年LOVE【スタジオライブ集】",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "林田健司"
+              }
+            },
+            {
+              "index": 8,
+              "title": "如雨露【スタジオライブ集】",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "YUKO"
+              }
+            },
+            {
+              "index": 9,
+              "title": "消せやしないキモチ【スタジオライブ集】",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 10,
+              "title": "表面張力～Surface Tension～【スタジオライブ集】",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "チーム飛松/児玉雨子",
+                "作曲": "チーム飛松/白戸佑輔"
+              }
+            },
+            {
+              "index": 11,
+              "title": "可能性のコンチェルト【スタジオライブ集】",
+              "duration": "03:25",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "n-buna"
+              }
+            },
+            {
+              "index": 12,
+              "title": "眼鏡の男の子【スタジオライブ集】",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

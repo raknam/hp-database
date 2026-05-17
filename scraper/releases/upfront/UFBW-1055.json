@@ -1,0 +1,88 @@
+{
+  "code": "UFBW-1055",
+  "url": "/release/detail/UFBW-1055/",
+  "source": "upfront",
+  "title": "ハロハロ! 〜Memories〜モーニング娘。 亀井絵里・道重さゆみ・田中れいな -Making DVD Special Edition-",
+  "category": "DVD",
+  "artist": "道重さゆみ・亀井絵里・田中れいな",
+  "releaseDate": "2010/12/14",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/97a83dfcec8e1d1b44baf0c7f3bc7c97abd95166.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/97a83dfcec8e1d1b44baf0c7f3bc7c97abd95166.jpg",
+      "price": "￥2,750 (税抜価格 ￥2,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1055",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "#01",
+              "duration": "02:37"
+            },
+            {
+              "index": 2,
+              "title": "#02",
+              "duration": "10:47"
+            },
+            {
+              "index": 3,
+              "title": "#03",
+              "duration": "03:39"
+            },
+            {
+              "index": 4,
+              "title": "#04",
+              "duration": "06:42"
+            },
+            {
+              "index": 5,
+              "title": "#05",
+              "duration": "02:57"
+            },
+            {
+              "index": 6,
+              "title": "#06",
+              "duration": "02:48"
+            },
+            {
+              "index": 7,
+              "title": "#07",
+              "duration": "03:15"
+            },
+            {
+              "index": 8,
+              "title": "#08",
+              "duration": "02:41"
+            },
+            {
+              "index": 9,
+              "title": "#09",
+              "duration": "04:21"
+            },
+            {
+              "index": 10,
+              "title": "#10",
+              "duration": "01:22"
+            },
+            {
+              "index": 11,
+              "title": "#11",
+              "duration": "03:55"
+            },
+            {
+              "index": 12,
+              "title": "#12",
+              "duration": "02:34"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

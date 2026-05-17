@@ -1,0 +1,48 @@
+{
+  "code": "UFDL-1421",
+  "url": "/release/detail/UFDL-1421/",
+  "source": "upfront",
+  "title": "可哀想なオンナ",
+  "category": "配信シングル",
+  "artist": "吉川友にぱいぱいでか美",
+  "releaseDate": "2019/03/02",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/3e87073a3c311b10c015d700edc52c9507a9d3dd.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/3e87073a3c311b10c015d700edc52c9507a9d3dd.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信シングル",
+          "catalogNo": "UFDL-1421",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "可哀想なオンナ",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "でか美",
+                "作曲": "でか美",
+                "編曲": "michitomo/かずぼーい"
+              }
+            },
+            {
+              "index": 2,
+              "title": "可哀想なオンナ(Instrumental)",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "でか美",
+                "作曲": "でか美",
+                "編曲": "michitomo/かずぼーい"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

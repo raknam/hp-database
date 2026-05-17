@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5192",
+  "url": "/release/detail/EPBE-5192/",
+  "source": "upfront",
+  "title": "シングルV「砂を噛むように…NAMIDA」",
+  "category": "DVDシングルV",
+  "artist": "松浦亜弥",
+  "releaseDate": "2006/02/08",
+  "label": "zetima",
+  "images": [
+    "/images/042ae61c3934198e5e79d912a4eb69ad772398af.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/042ae61c3934198e5e79d912a4eb69ad772398af.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5192",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "砂を噛むように…NAMIDA",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "森村メラ",
+                "作曲": "Joey Carbone &Kyoko Nitta"
+              }
+            },
+            {
+              "index": 2,
+              "title": "砂を噛むように…NAMIDA(Close-up Ver.)",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "森村メラ",
+                "作曲": "Joey Carbone &Kyoko Nitta"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "08:43"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 6581,
+  "url": "/release/6581/",
+  "title": "SHAKA SHAKA #2 LOVE カラフルライフ編",
+  "category": "配信",
+  "artist": "アンジュルム",
+  "releaseDate": "2021.9.1",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/a9fa72dd881fd99f18cf56679cd821e4408f6237.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "SHAKA SHAKA #2 LOVE カラフルライフ編",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1483"
+        }
+      ]
+    }
+  ]
+}

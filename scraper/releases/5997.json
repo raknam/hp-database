@@ -1,0 +1,377 @@
+{
+  "id": 5997,
+  "url": "/release/5997/",
+  "title": "「ひとりで生きられそう」って それってねえ、褒めているの？/25歳永遠説",
+  "category": "CDシングル",
+  "artist": "Juice=Juice",
+  "releaseDate": "2019.6.5",
+  "label": "hachama",
+  "images": [
+    "/upload/images/d99f378913989868975af3786e2718dbf0fa9c24.webp",
+    "/upload/images/4937fde239569a8e878213770690a02356adf785.webp",
+    "/upload/images/cdbc4cb008cd635314395fe69b2223373db4f7fb.webp",
+    "/upload/images/1861dc160a47d2006197342c24b3a749089761af.webp",
+    "/upload/images/b9097b79d00a9c96bcbb685287a02cce5f9b4b53.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/d99f378913989868975af3786e2718dbf0fa9c24.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「ひとりで生きられそう」って それってねえ、褒めているの？",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "25歳永遠説",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "「ひとりで生きられそう」って それってねえ、褒めているの？",
+              "duration": "03:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "25歳永遠説",
+              "duration": "04:18",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50610"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「ひとりで生きられそう」って それってねえ、褒めているの？",
+              "duration": "04:28",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/4937fde239569a8e878213770690a02356adf785.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「ひとりで生きられそう」って それってねえ、褒めているの？",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "25歳永遠説",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "「ひとりで生きられそう」って それってねえ、褒めているの？",
+              "duration": "03:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "25歳永遠説",
+              "duration": "04:18",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50612"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "25歳永遠説",
+              "duration": "07:55",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "KOUGA",
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/upload/images/cdbc4cb008cd635314395fe69b2223373db4f7fb.webp",
+      "price": "￥1,870（税抜価格 ￥1,700）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「ひとりで生きられそう」って それってねえ、褒めているの？",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "25歳永遠説",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "「ひとりで生きられそう」って それってねえ、褒めているの？",
+              "duration": "03:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "25歳永遠説",
+              "duration": "04:18",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50616"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「ひとりで生きられそう」って それってねえ、褒めているの？",
+              "duration": "03:40",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "25歳永遠説",
+              "duration": "04:29",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "KOUGA",
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選応募券封入"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/1861dc160a47d2006197342c24b3a749089761af.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「ひとりで生きられそう」って それってねえ、褒めているの？",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "25歳永遠説",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "「ひとりで生きられそう」って それってねえ、褒めているの？",
+              "duration": "03:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "25歳永遠説",
+              "duration": "04:18",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50618"
+        }
+      ],
+      "note": "トレーディングカードソロ7種+集合1種よりランダムにて1枚封入(「ひとりで生きられそう」って それってねえ、褒めているの？ Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/b9097b79d00a9c96bcbb685287a02cce5f9b4b53.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「ひとりで生きられそう」って それってねえ、褒めているの？",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "25歳永遠説",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "「ひとりで生きられそう」って それってねえ、褒めているの？",
+              "duration": "03:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "25歳永遠説",
+              "duration": "04:18",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50619"
+        }
+      ],
+      "note": "トレーディングカードソロ7種+集合1種よりランダムにて1枚封入(25歳永遠説 Ver.)※初回プレス分のみ"
+    }
+  ]
+}

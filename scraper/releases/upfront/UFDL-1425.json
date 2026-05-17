@@ -1,0 +1,78 @@
+{
+  "code": "UFDL-1425",
+  "url": "/release/detail/UFDL-1425/",
+  "source": "upfront",
+  "title": "ちょい悪デビル",
+  "category": "配信",
+  "artist": "W",
+  "releaseDate": "2019/03/30",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/13eef730deee5b67c4870b2370d08fc7af910d9c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/13eef730deee5b67c4870b2370d08fc7af910d9c.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1425",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ちょい悪デビル",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン",
+                "編曲": "イイジマケン"
+              }
+            },
+            {
+              "index": 2,
+              "title": "どうにもとまらない",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "阿久悠",
+                "作曲": "都倉俊一",
+                "編曲": "矢野博康"
+              }
+            },
+            {
+              "index": 3,
+              "title": "春咲小紅",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "糸井重里",
+                "作曲": "矢野顕子",
+                "編曲": "河野伸"
+              }
+            },
+            {
+              "index": 4,
+              "title": "個人授業",
+              "duration": "03:28",
+              "credits": {
+                "作詞": "阿久悠",
+                "作曲": "都倉俊一",
+                "編曲": "野村義男"
+              }
+            },
+            {
+              "index": 5,
+              "title": "うちにかぎってそんなことはないはず",
+              "duration": "03:03",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "直枝政太郎",
+                "編曲": "ARCHIBOLD"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

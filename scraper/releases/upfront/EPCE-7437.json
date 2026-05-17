@@ -1,0 +1,127 @@
+{
+  "code": "EPCE-7437",
+  "url": "/release/detail/EPCE-7437/",
+  "source": "upfront",
+  "title": "la RiSCOPERTA",
+  "category": "CDアルバム",
+  "artist": "KAN",
+  "releaseDate": "2018/10/10",
+  "label": "zetima",
+  "images": [
+    "/images/f0392683f726e33410613e85248a756b35517859.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f0392683f726e33410613e85248a756b35517859.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-7437",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "l'Addestramento dell'Arrangiamento",
+              "duration": "02:30",
+              "credits": {
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 2,
+              "title": "カレーライス",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 3,
+              "title": "50年後も",
+              "duration": "04:44",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Happy Time Happy Song",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 5,
+              "title": "永遠",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Back in the U.S.S.R.",
+              "duration": "02:43",
+              "credits": {
+                "作詞": "John Lennon / Paul McCartney",
+                "作曲": "John Lennon / Paul McCartney",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 7,
+              "title": "サンクト・ペテルブルグ",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Lullabye(Goodnight, My Angel)",
+              "duration": "03:28",
+              "credits": {
+                "作詞": "Billy Joel",
+                "作曲": "Billy Joel",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 9,
+              "title": "君はうるさい",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 10,
+              "title": "今年もこうして二人でクリスマスを祝う",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

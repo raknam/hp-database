@@ -1,0 +1,91 @@
+{
+  "id": 1123,
+  "url": "/release/1123/",
+  "title": "アロハロ！6 モーニング娘。Blu-ray Disc",
+  "category": "BD",
+  "artist": "モーニング娘。",
+  "releaseDate": "2012.12.26",
+  "label": "zetima",
+  "images": [
+    "/upload/images/eff9ba428b2f1c3a9695c90cc58069443d04f35a.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "03:12",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Water Shooter Battle",
+              "duration": "13:47",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "What is it？Game1",
+              "duration": "06:39",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Images by the Sea",
+              "duration": "10:56",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Mission Musume。",
+              "duration": "16:07",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 6,
+              "title": "What is it？Game2",
+              "duration": "05:45",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Images by the Pool",
+              "duration": "09:57",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Ending",
+              "duration": "16:43",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPXE-5034"
+        }
+      ]
+    }
+  ]
+}

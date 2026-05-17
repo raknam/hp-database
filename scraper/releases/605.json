@@ -1,0 +1,111 @@
+{
+  "id": 605,
+  "url": "/release/605/",
+  "title": "色っぽい じれったい",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2005.7.27",
+  "label": "zetima",
+  "images": [
+    "/upload/images/2d045ee3ed9c3c0425825377faa7c51fc6c3b679.webp",
+    "/upload/images/11e0ee721b88b21be592bf07920243465d268012.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/upload/images/2d045ee3ed9c3c0425825377faa7c51fc6c3b679.webp",
+      "price": "定価 ￥1,320（税抜価格 ￥1,200）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "色っぽい じれったい",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "愛と太陽に包まれて",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "色っぽい じれったい",
+              "duration": "04:19",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5371"
+        }
+      ],
+      "note": "スペシャルパッケージ仕様、モーニング娘。フォトカード5種封入"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/11e0ee721b88b21be592bf07920243465d268012.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "色っぽい じれったい",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "愛と太陽に包まれて",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "色っぽい じれったい",
+              "duration": "04:19",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5372"
+        }
+      ],
+      "note": "通常盤･初回仕様 モーニング娘。フォトカード1種封入"
+    }
+  ]
+}

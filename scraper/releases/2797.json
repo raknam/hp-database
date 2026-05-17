@@ -1,0 +1,61 @@
+{
+  "id": 2797,
+  "url": "/release/2797/",
+  "title": "シャンパンの恋",
+  "category": "CDシングル",
+  "artist": "メロン記念日",
+  "releaseDate": "2004.10.27",
+  "label": "zetima",
+  "images": [
+    "/upload/images/4a2c76769d5e350d8a4986a97cf670f556a56803.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "シャンパンの恋",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "今井千尋",
+                "編曲": "鈴木俊介",
+                "歌": "メロン記念日"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋の仕組み。",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "メロン記念日"
+              }
+            },
+            {
+              "index": 3,
+              "title": "シャンパンの恋",
+              "duration": "05:02",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "今井千尋",
+                "編曲": "鈴木俊介",
+                "歌": "メロン記念日"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5334"
+        }
+      ]
+    }
+  ]
+}

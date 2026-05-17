@@ -1,0 +1,107 @@
+{
+  "id": 3460,
+  "url": "/release/3460/",
+  "title": "アロハロ！高橋愛DVD",
+  "category": "DVD",
+  "artist": "高橋愛",
+  "releaseDate": "2003.12.17",
+  "label": "zetima",
+  "images": [
+    "/upload/images/55571848082bafe868b20e58e70acdfab4a1b361.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "08:06 インラインスケートでアロハ！！",
+              "duration": "01:59",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            },
+            {
+              "index": 2,
+              "title": "09:20 バギーに初挑戦！！",
+              "duration": "07:30",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            },
+            {
+              "index": 3,
+              "title": "10:48 ビーチとお友達",
+              "duration": "03:37",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            },
+            {
+              "index": 4,
+              "title": "12:04 お昼ごはんです！！",
+              "duration": "04:07",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            },
+            {
+              "index": 5,
+              "title": "12:54 ショッピング！！",
+              "duration": "05:29",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            },
+            {
+              "index": 6,
+              "title": "14:16 アシカと遊ぼう！！",
+              "duration": "04:36",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            },
+            {
+              "index": 7,
+              "title": "15:05 プールはきもちいー♥",
+              "duration": "03:21",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            },
+            {
+              "index": 8,
+              "title": "16:00 ハンモックでお昼寝です",
+              "duration": "02:20",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            },
+            {
+              "index": 9,
+              "title": "17:41 夕景のクルーズ",
+              "duration": "05:59",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            },
+            {
+              "index": 10,
+              "title": "写真集メイキング",
+              "duration": "17:25",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5103"
+        }
+      ]
+    }
+  ]
+}

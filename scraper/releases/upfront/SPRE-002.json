@@ -1,0 +1,58 @@
+{
+  "code": "SPRE-002",
+  "url": "/release/detail/SPRE-002/",
+  "source": "upfront",
+  "title": "二人の北海道",
+  "category": "CDシングル",
+  "artist": "カントリー娘。",
+  "releaseDate": "1999/07/23",
+  "label": "SPREE RECORD",
+  "images": [
+    "/images/6cdd20b0ec0ab51d6fe8416530b7c6c12b592ef4.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/6cdd20b0ec0ab51d6fe8416530b7c6c12b592ef4.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "SPRE-002",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "二人の北海道",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 2,
+              "title": "モーニング牛乳",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "つんく/ラップ詞:下町兄弟",
+                "作曲": "つんく",
+                "編曲": "下町兄弟"
+              }
+            },
+            {
+              "index": 3,
+              "title": "二人の北海道(Instrumental)",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

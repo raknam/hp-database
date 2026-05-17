@@ -1,0 +1,148 @@
+{
+  "code": "EPCE-5342",
+  "url": "/release/detail/EPCE-5342/",
+  "source": "upfront",
+  "title": "THE 二枚目",
+  "category": "CDアルバム",
+  "artist": "メロン記念日",
+  "releaseDate": "2004/12/01",
+  "label": "zetima",
+  "images": [
+    "/images/13c2ef9a6c15fbecf86e2d67cf5c32e877fb3e11.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/13c2ef9a6c15fbecf86e2d67cf5c32e877fb3e11.jpg",
+      "price": "￥3,204 (税抜価格 ￥2,913)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5342",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "シャンパンの恋",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "今井千尋",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "涙の太陽",
+              "duration": "02:41",
+              "credits": {
+                "作詞": "助川和子",
+                "作曲": "中島安敏",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 3,
+              "title": "刹那さ Ranking",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "たいせー",
+                "編曲": "たいせー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "チャンス of LOVE",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 5,
+              "title": "キライ、スキ スキ スキ ホント、ウソ ウソ ウソ",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "はたけ",
+                "編曲": "矢野博康"
+              }
+            },
+            {
+              "index": 6,
+              "title": "かわいい彼",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "守尾崇"
+              }
+            },
+            {
+              "index": 7,
+              "title": "レモンタルト",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "今井千尋",
+                "作曲": "今井千尋",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 8,
+              "title": "MI DA RA 摩天楼",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 9,
+              "title": "愛してはいけない…",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "牧穂エミ",
+                "作曲": "はたけ",
+                "編曲": "K-Muto"
+              }
+            },
+            {
+              "index": 10,
+              "title": "ラストシーン",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "まこと",
+                "作曲": "はたけ",
+                "編曲": "K-Muto"
+              }
+            },
+            {
+              "index": 11,
+              "title": "努力・系・美人",
+              "duration": "03:22",
+              "credits": {
+                "作詞": "さいとういんこ",
+                "作曲": "たいせー",
+                "編曲": "矢野博康"
+              }
+            },
+            {
+              "index": 12,
+              "title": "THE 二枚目 ～ON MY WAY～",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "まこと/つんく",
+                "作曲": "たいせー",
+                "編曲": "小西貴雄"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

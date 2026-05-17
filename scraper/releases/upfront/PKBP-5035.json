@@ -1,0 +1,51 @@
+{
+  "code": "PKBP-5035",
+  "url": "/release/detail/PKBP-5035/",
+  "source": "upfront",
+  "title": "シングルV「21時までのシンデレラ」",
+  "category": "DVDシングルV",
+  "artist": "Berryz工房",
+  "releaseDate": "2005/08/17",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/3a12bc3fcc566ac73eea45f0907c3f6e3d0148fd.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/3a12bc3fcc566ac73eea45f0907c3f6e3d0148fd.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "PKBP-5035",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "21時までのシンデレラ",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "21時までのシンデレラ(Dance Shot Ver.)",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "11:54"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

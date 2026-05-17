@@ -1,0 +1,75 @@
+{
+  "id": 2151,
+  "url": "/release/2151/",
+  "title": "矢島舞美写真集「タビオト」”メイキングDVD〜特別編集版〜",
+  "category": "DVD",
+  "artist": "矢島舞美",
+  "releaseDate": "2012.1.30",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/1e04bde948d5835be2be654d2f758eeb4d001fcd.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "一人旅",
+              "duration": "05:23",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "民宿",
+              "duration": "05:41",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "アルバム作り",
+              "duration": "05:13",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "海",
+              "duration": "10:47",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "最終日",
+              "duration": "09:25",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "スタジオ撮影",
+              "duration": "13:40",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-2039"
+        }
+      ]
+    }
+  ]
+}

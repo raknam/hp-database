@@ -1,0 +1,50 @@
+{
+  "id": 2016,
+  "url": "/release/2016/",
+  "title": "まっさらブルージーンズ",
+  "category": "CDシングル",
+  "artist": "℃-ute",
+  "releaseDate": "2006.5.6",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/092c6a15ad76b5291d4ab3a06f1125e083627881.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "まっさらブルージンズ",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "まっさらブルージーンズ",
+              "duration": "04:04",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "TGCS-3334"
+        }
+      ]
+    }
+  ]
+}

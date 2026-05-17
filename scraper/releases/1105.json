@@ -1,0 +1,59 @@
+{
+  "id": 1105,
+  "url": "/release/1105/",
+  "title": "夏カラダ",
+  "category": "BD",
+  "artist": "鈴木愛理",
+  "releaseDate": "2011.9.7",
+  "label": "zetima",
+  "images": [
+    "/upload/images/f1a0945a1e168bf8777df0f120cab1a06912e8b6.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "登校日",
+              "duration": "16:06",
+              "credits": {
+                "出演": "鈴木愛理(℃-ute)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "土曜日",
+              "duration": "16:58",
+              "credits": {
+                "出演": "鈴木愛理(℃-ute)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "帰り道",
+              "duration": "14:46",
+              "credits": {
+                "出演": "鈴木愛理(℃-ute)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Making of 「巡る春」",
+              "duration": "16:43",
+              "credits": {
+                "出演": "鈴木愛理(℃-ute)"
+              }
+            }
+          ],
+          "catalogNo": "EPXE-5012"
+        }
+      ]
+    }
+  ]
+}

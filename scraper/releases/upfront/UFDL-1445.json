@@ -1,0 +1,68 @@
+{
+  "code": "UFDL-1445",
+  "url": "/release/detail/UFDL-1445/",
+  "source": "upfront",
+  "title": "SAYUMINGLANDOLL～希望～ オリジナルサウンドトラック2",
+  "category": "配信",
+  "artist": "道重さゆみ",
+  "releaseDate": "2020/01/11",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/8501885f58a5a5aafa3c0fbd20d26b9830709efd.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/8501885f58a5a5aafa3c0fbd20d26b9830709efd.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1445",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "AGE1-ROOM",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "瞬間Watcher",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "K2-Dee",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "笑顔の君は太陽さ(SAYUMINGLANDOLL～希望～ Ver.)",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 4,
+              "title": "オレンジブルー",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "K2-Dee",
+                "編曲": "江上浩太郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

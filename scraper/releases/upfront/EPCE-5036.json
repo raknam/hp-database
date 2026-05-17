@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5036",
+  "url": "/release/detail/EPCE-5036/",
+  "source": "upfront",
+  "title": "TOUCH ME",
+  "category": "CDシングル",
+  "artist": "TSUNKU",
+  "releaseDate": "1999/11/03",
+  "label": "zetima",
+  "images": [
+    "/images/e220047ee3925b6d3e7f53d0890a6e083b6e114b.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/e220047ee3925b6d3e7f53d0890a6e083b6e114b.jpg",
+      "price": "￥1,282 (税抜価格 ￥1,165)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5036",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "TOUCH ME ＃1",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "松原憲"
+              }
+            },
+            {
+              "index": 2,
+              "title": "TOUCH ME ＃2",
+              "duration": "05:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山木隆一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "TOUCH ME ＃4",
+              "duration": "04:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野伸"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

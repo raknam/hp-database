@@ -1,0 +1,83 @@
+{
+  "id": 2047,
+  "url": "/release/2047/",
+  "title": "陽だまり",
+  "category": "DVD",
+  "artist": "中島早貴",
+  "releaseDate": "2011.2.4",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/03531e45c266f9b3847d04a7564531034157a40e.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "01:15",
+              "credits": {
+                "出演": "中島早貴(℃-ute)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "School girl",
+              "duration": "12:56",
+              "credits": {
+                "出演": "中島早貴(℃-ute)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "at Caf?",
+              "duration": "10:43",
+              "credits": {
+                "出演": "中島早貴(℃-ute)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "in the Room",
+              "duration": "11:16",
+              "credits": {
+                "出演": "中島早貴(℃-ute)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Interview",
+              "duration": "10:44",
+              "credits": {
+                "出演": "中島早貴(℃-ute)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Making",
+              "duration": "04:39",
+              "credits": {
+                "出演": "中島早貴(℃-ute)"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Ending",
+              "duration": "00:46",
+              "credits": {
+                "出演": "中島早貴(℃-ute)"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1057"
+        }
+      ]
+    }
+  ]
+}

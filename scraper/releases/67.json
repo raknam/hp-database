@@ -1,0 +1,67 @@
+{
+  "id": 67,
+  "url": "/release/67/",
+  "title": "Blue Wind",
+  "category": "DVD",
+  "artist": "矢島舞美",
+  "releaseDate": "2014.4.9",
+  "label": "zetima",
+  "images": [
+    "/upload/images/0a03e04abae5d3e7f8fda5597a95559fc876a7b4.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "My Town",
+              "duration": "06:37",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Blue Wind",
+              "duration": "13:11",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Home Work",
+              "duration": "12:57",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Making of 「PURE EYES」",
+              "duration": "18:05",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "01:06",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5479"
+        }
+      ]
+    }
+  ]
+}

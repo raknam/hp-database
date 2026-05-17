@@ -1,0 +1,128 @@
+{
+  "code": "EPBE-5009",
+  "url": "/release/detail/EPBE-5009/",
+  "source": "upfront",
+  "title": "映像 ザ・モーニング娘。 ベスト10",
+  "category": "DVD",
+  "artist": "モーニング娘。",
+  "releaseDate": "2000/06/13",
+  "label": "zetima",
+  "images": [
+    "/images/bd912eea5857cad1c24ca60ca1f5301563d316ab.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/bd912eea5857cad1c24ca60ca1f5301563d316ab.jpg",
+      "price": "￥4,950 (税抜価格 ￥4,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5009",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛の種",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "サエキけんぞう",
+                "作曲": "桜井鉄太郎",
+                "編曲": "桜井鉄太郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "モーニングコーヒー",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "桜井鉄太郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "サマーナイトタウン",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 4,
+              "title": "抱いてHOLD ON ME!",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Memory青春の光",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 6,
+              "title": "真夏の光線",
+              "duration": "05:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野 伸"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ふるさと",
+              "duration": "05:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 8,
+              "title": "LOVEマシーン",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 9,
+              "title": "恋のダンスサイト",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 10,
+              "title": "ハッピーサマーウェディング",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン(horn arrangement by 川松"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

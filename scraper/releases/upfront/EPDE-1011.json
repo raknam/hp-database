@@ -1,0 +1,58 @@
+{
+  "code": "EPDE-1011",
+  "url": "/release/detail/EPDE-1011/",
+  "source": "upfront",
+  "title": "冷たい月",
+  "category": "CDシングル",
+  "artist": "森高千里",
+  "releaseDate": "1998/10/01",
+  "label": "zetima",
+  "images": [
+    "/images/c90e7d56fe2279aa6e1fb1dd3ff484a6ecd4c7c5.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/c90e7d56fe2279aa6e1fb1dd3ff484a6ecd4c7c5.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1011",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "冷たい月日本テレビ開局45周年記念｢パリ・オランジュリー美術館展｣テーマ曲",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "高橋諭一",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "危険な舗道(5 Version)",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "森高千里",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "冷たい月(Instrumental)",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "高橋諭一",
+                "編曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

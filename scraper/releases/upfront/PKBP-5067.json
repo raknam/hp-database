@@ -1,0 +1,83 @@
+{
+  "code": "PKBP-5067",
+  "url": "/release/detail/PKBP-5067/",
+  "source": "upfront",
+  "title": "アロハロ！ 石川梨華 DVD",
+  "category": "DVD",
+  "artist": "石川梨華",
+  "releaseDate": "2007/03/07",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/6e3902afbc33b15e30d9edcc8e1d5a5d244e86be.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/6e3902afbc33b15e30d9edcc8e1d5a5d244e86be.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5067",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Jewelry",
+              "duration": "07:40"
+            },
+            {
+              "index": 2,
+              "title": "Drink",
+              "duration": "07:31"
+            },
+            {
+              "index": 3,
+              "title": "Beach Ⅰ",
+              "duration": "01:56"
+            },
+            {
+              "index": 4,
+              "title": "Nail",
+              "duration": "10:00"
+            },
+            {
+              "index": 5,
+              "title": "Tennis",
+              "duration": "06:00"
+            },
+            {
+              "index": 6,
+              "title": "Surfing",
+              "duration": "08:59"
+            },
+            {
+              "index": 7,
+              "title": "Beach Ⅱ",
+              "duration": "02:00"
+            },
+            {
+              "index": 8,
+              "title": "Rei-Fura",
+              "duration": "06:54"
+            },
+            {
+              "index": 9,
+              "title": "Dinner",
+              "duration": "15:00"
+            },
+            {
+              "index": 10,
+              "title": "TV-SPOT [15sec.](おまけ 美勇伝ライブツアー2006秋 美勇伝説Ⅲ ～愛すCREAMとMyプリン～)",
+              "duration": "00:15"
+            },
+            {
+              "index": 11,
+              "title": "TV-SPOT [30sec.](おまけ 美勇伝ライブツアー2006秋 美勇伝説Ⅲ ～愛すCREAMとMyプリン～)",
+              "duration": "00:30"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

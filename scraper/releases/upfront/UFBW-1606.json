@@ -1,0 +1,84 @@
+{
+  "code": "UFBW-1606",
+  "url": "/release/detail/UFBW-1606/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.48",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2018/10/10",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/29b3a6fb11291e6102ec7c865c5e1df05b9fa7c4.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/29b3a6fb11291e6102ec7c865c5e1df05b9fa7c4.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1606",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「Hello! Project Documentary」和田彩花(アンジュルム)/♪ドンデンガエシ",
+              "duration": "16:59"
+            },
+            {
+              "index": 2,
+              "title": "「モーニング娘。'17 未来会議」(前編)/邪魔しないで Here We Go！",
+              "duration": "09:13"
+            },
+            {
+              "index": 3,
+              "title": "「モーニング娘。'17 未来会議」(後編)",
+              "duration": "12:51"
+            },
+            {
+              "index": 4,
+              "title": "メチャキュン・サマー( ´ ▽ ` )ﾉ 【スタジオライブ集】",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo"
+              }
+            },
+            {
+              "index": 5,
+              "title": "片隅【スタジオライブ集】",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "泉まくら",
+                "作曲": "泉まくら/nagaco"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ぶっぱなせ！ Baby, I Love Ya！【スタジオライブ集】",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一"
+              }
+            },
+            {
+              "index": 7,
+              "title": "アンバランス アンバランス【スタジオライブ集】",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "マシコタツロウ",
+                "作曲": "マシコタツロウ"
+              }
+            },
+            {
+              "index": 8,
+              "title": "モーニング娘。'17「弩級のゴーサイン」MV撮影密着【未公開映像】",
+              "duration": "03:29"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

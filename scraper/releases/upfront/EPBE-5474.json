@@ -1,0 +1,64 @@
+{
+  "code": "EPBE-5474",
+  "url": "/release/detail/EPBE-5474/",
+  "source": "upfront",
+  "title": "さらけだす",
+  "category": "DVD",
+  "artist": "中島卓偉",
+  "releaseDate": "2014/01/29",
+  "label": "zetima",
+  "images": [
+    "/images/498001b2ba15da2793265336b2826af2bcd16a1e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/498001b2ba15da2793265336b2826af2bcd16a1e.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5474",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "さらけだす(Music Video)",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 2,
+              "title": "イノヴェイター(Live at Shibuya CLUB QUATTRO 2013.11.13)",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 3,
+              "title": "POWER TO THE MUSIC(Live at Shibuya CLUB QUATTRO 2013.11.13)",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 4,
+              "title": "FREE FOR FREE(Live at Shibuya CLUB QUATTRO 2013.11.13)",
+              "duration": "05:46",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

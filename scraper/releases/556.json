@@ -1,0 +1,61 @@
+{
+  "id": 556,
+  "url": "/release/556/",
+  "title": "ここにいるぜぇ!",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2002.10.30",
+  "label": "zetima",
+  "images": [
+    "/upload/images/c622f4f4a55cc944416a600ed8135772fb6f937b.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ここにいるぜぇ！",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行 ストリングスアレンジ:弦 一徹",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "純LOVER",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ここにいるぜぇ！",
+              "duration": "04:26",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行 ストリングスアレンジ:弦 一徹",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5182"
+        }
+      ]
+    }
+  ]
+}

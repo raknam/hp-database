@@ -1,0 +1,68 @@
+{
+  "code": "UFDL-1506",
+  "url": "/release/detail/UFDL-1506/",
+  "source": "upfront",
+  "title": "SAYUMINGLANDOLL～未来～ オリジナルサウンドトラック2",
+  "category": "配信",
+  "artist": "道重さゆみ",
+  "releaseDate": "2022/08/16",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/9369397645715b0e45f5c78b73e6230f63c98768.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/9369397645715b0e45f5c78b73e6230f63c98768.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1506",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "月に帰らないうさぎちゃん",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "君だけの十字架",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "K2-Dee",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ミラーボール・ホリック",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "K2-Dee",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 4,
+              "title": "形而上的熱視線",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "K2-Dee",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

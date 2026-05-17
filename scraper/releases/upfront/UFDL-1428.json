@@ -1,0 +1,48 @@
+{
+  "code": "UFDL-1428",
+  "url": "/release/detail/UFDL-1428/",
+  "source": "upfront",
+  "title": "恋",
+  "category": "配信シングル",
+  "artist": "吉川友",
+  "releaseDate": "2019/05/01",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/c541050c688f5b59e27a856ced5dbaad778f4311.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/c541050c688f5b59e27a856ced5dbaad778f4311.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信シングル",
+          "catalogNo": "UFDL-1428",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "理姫",
+                "作曲": "奥脇達也",
+                "編曲": "松井ジャーマンJr./michitomo"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋(Instrumental)",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "理姫",
+                "作曲": "奥脇達也",
+                "編曲": "松井ジャーマンJr./michitomo"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

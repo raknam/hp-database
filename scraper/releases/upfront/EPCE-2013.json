@@ -1,0 +1,148 @@
+{
+  "code": "EPCE-2013",
+  "url": "/release/detail/EPCE-2013/",
+  "source": "upfront",
+  "title": "パリ・ジュテーム",
+  "category": "CDアルバム",
+  "artist": "相田翔子",
+  "releaseDate": "2003/01/29",
+  "label": "地中海レーベル",
+  "images": [
+    "/images/cd1dafe1db5e5afde7f648e5e28e745d66575faa.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/cd1dafe1db5e5afde7f648e5e28e745d66575faa.jpg",
+      "price": "￥2,934 (税抜価格 ￥2,667)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-2013",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋は水色(L'AMOUR EST BLEU)",
+              "duration": "03:16",
+              "credits": {
+                "作詞": "PierreCour",
+                "作曲": "AndrePopp",
+                "編曲": "前野知常"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アネマ・エ・コーレ(ANEMA E CORE)",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "TitoMONLIO",
+                "作曲": "SalvatoreD'ESPOSITO",
+                "編曲": "前野知常"
+              }
+            },
+            {
+              "index": 3,
+              "title": "パリ・ジュテーム(PARIS, JE T'AIME D'AMOUR)",
+              "duration": "03:28",
+              "credits": {
+                "作詞": "CliffordGrey",
+                "作曲": "VictorSchertzinger",
+                "編曲": "前野知常"
+              }
+            },
+            {
+              "index": 4,
+              "title": "マミー・ブルー(MAMY BLUE)",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "HubertGiraud",
+                "作曲": "HubertGiraud",
+                "編曲": "前野知常"
+              }
+            },
+            {
+              "index": 5,
+              "title": "悲しき雨音(EN ECOUTANT LA PLUIE)",
+              "duration": "02:30",
+              "credits": {
+                "作詞": "JohnGummoe",
+                "作曲": "JohnGummoe",
+                "編曲": "前野知常"
+              }
+            },
+            {
+              "index": 6,
+              "title": "涙の日曜日(BELLA DA MORIRE)",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "AlbertoSalerno",
+                "作曲": "RenatoPareti",
+                "編曲": "前野知常"
+              }
+            },
+            {
+              "index": 7,
+              "title": "愛のめざめ(HO CAPITO CHE TIAMO)",
+              "duration": "02:57",
+              "credits": {
+                "作詞": "LuigiTenco",
+                "作曲": "LuigiTenco",
+                "編曲": "前野知常"
+              }
+            },
+            {
+              "index": 8,
+              "title": "ヴィーナスたちの風景(VENUS DES ABRIBUS)",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "GUIGNOT,ERISABETH",
+                "作曲": "PERRIER,DOMINIQUEBERNHEIM,FRANCOIS",
+                "編曲": "前野知常"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ピノキオ(PINOCCHIO)",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "MireilleGERARD",
+                "作曲": "ChristianRUIZ",
+                "編曲": "前野知常"
+              }
+            },
+            {
+              "index": 10,
+              "title": "Blue Lagoon",
+              "duration": "05:08",
+              "credits": {
+                "作詞": "相田翔子",
+                "作曲": "相田翔子",
+                "編曲": "前野知常"
+              }
+            },
+            {
+              "index": 11,
+              "title": "君だけを愛して(IO CHE AMO SOLO TE)",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "SergioEndrigo",
+                "作曲": "SergioEndrigo",
+                "編曲": "前野知常"
+              }
+            },
+            {
+              "index": 12,
+              "title": "愛の物語(MOS MOTS D'AMOUR)",
+              "duration": "03:03",
+              "credits": {
+                "作詞": "JeanDabadie",
+                "作曲": "MichelPolnareff",
+                "編曲": "前野知常"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

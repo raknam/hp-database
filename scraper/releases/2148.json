@@ -1,0 +1,75 @@
+{
+  "id": 2148,
+  "url": "/release/2148/",
+  "title": "IMP. GIRL",
+  "category": "DVD",
+  "artist": "岡井千聖",
+  "releaseDate": "2011.12.8",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/30c04ff3fc5a2fd5542e7cf59052ec396ad0fb10.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "00:48",
+              "credits": {
+                "出演": "岡井千聖(℃-ute)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Sea side",
+              "duration": "08:56",
+              "credits": {
+                "出演": "岡井千聖(℃-ute)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Beach",
+              "duration": "12:12",
+              "credits": {
+                "出演": "岡井千聖(℃-ute)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Break",
+              "duration": "21:16",
+              "credits": {
+                "出演": "岡井千聖(℃-ute)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Pink on white",
+              "duration": "13:49",
+              "credits": {
+                "出演": "岡井千聖(℃-ute)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "01:09",
+              "credits": {
+                "出演": "岡井千聖(℃-ute)"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-2035"
+        }
+      ]
+    }
+  ]
+}

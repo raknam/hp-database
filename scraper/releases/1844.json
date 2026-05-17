@@ -1,0 +1,61 @@
+{
+  "id": 1844,
+  "url": "/release/1844/",
+  "title": "恋の呪縛",
+  "category": "CDシングル",
+  "artist": "Berryz工房",
+  "releaseDate": "2004.11.10",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/upload/images/8a4af49ce6e4b679e3504d05a79fa666d173b00d.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋の呪縛",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "パッション E-CHA E-CHA",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋の呪縛",
+              "duration": "04:19",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5045"
+        }
+      ]
+    }
+  ]
+}

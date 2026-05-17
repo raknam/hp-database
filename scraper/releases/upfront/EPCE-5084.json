@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5084",
+  "url": "/release/detail/EPCE-5084/",
+  "source": "upfront",
+  "title": "恋愛レボリューション21",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2000/12/13",
+  "label": "zetima",
+  "images": [
+    "/images/c3b600b75ba7fbea8c0da43a30e63df363e62ba2.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/c3b600b75ba7fbea8c0da43a30e63df363e62ba2.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5084",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋愛レボリューション21",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 2,
+              "title": "インスピレーション！",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介 (brass arrangement by 小林正弘)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋愛レボリューション21(Instrumental)",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

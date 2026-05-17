@@ -1,0 +1,48 @@
+{
+  "code": "UFBW-2102",
+  "url": "/release/detail/UFBW-2102/",
+  "source": "upfront",
+  "title": "Greeting〜金澤朋子〜",
+  "category": "DVD",
+  "artist": "金澤朋子",
+  "releaseDate": "2014/06/26",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/1e75636a583413f8e38acd3c3d65a12334e0ffcc.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/1e75636a583413f8e38acd3c3d65a12334e0ffcc.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2102",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Bayside",
+              "duration": "14:18"
+            },
+            {
+              "index": 2,
+              "title": "Interview with Tomoko Kanazawa",
+              "duration": "17:05"
+            },
+            {
+              "index": 3,
+              "title": "Sunset river",
+              "duration": "18:01"
+            },
+            {
+              "index": 4,
+              "title": "Ending",
+              "duration": "00:49"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "code": "EPCE-5026",
+  "url": "/release/detail/EPCE-5026/",
+  "source": "upfront",
+  "title": "first",
+  "category": "CDアルバム",
+  "artist": "Rose of Rose",
+  "releaseDate": "1999/09/08",
+  "label": "zetima",
+  "images": [
+    "/images/668554951d5f7cbda0b67f4cc7d7431e4b96796b.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/668554951d5f7cbda0b67f4cc7d7431e4b96796b.jpg",
+      "price": "￥3,204 (税抜価格 ￥2,913)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5026",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Sweet",
+              "duration": "05:17",
+              "credits": {
+                "作詞": "Ryoko",
+                "作曲": "Hatake",
+                "編曲": "Rose of Rose"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Squeeze me!",
+              "duration": "02:15",
+              "credits": {
+                "作詞": "Ryoko",
+                "作曲": "Hatake",
+                "編曲": "Rose of Rose"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Any more",
+              "duration": "05:58",
+              "credits": {
+                "作詞": "Ryoko",
+                "作曲": "Hatake",
+                "編曲": "Rose of Rose"
+              }
+            },
+            {
+              "index": 4,
+              "title": "記憶",
+              "duration": "04:51",
+              "credits": {
+                "作詞": "Ryoko",
+                "作曲": "Hatake",
+                "編曲": "Rose of Rose"
+              }
+            },
+            {
+              "index": 5,
+              "title": "DRUNKER",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "Ryoko",
+                "作曲": "Hatake",
+                "編曲": "Rose of Rose"
+              }
+            },
+            {
+              "index": 6,
+              "title": "白い月",
+              "duration": "05:11",
+              "credits": {
+                "作詞": "Ryoko",
+                "作曲": "Hatake",
+                "編曲": "Rose of Rose"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Theme",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "Rose of Rose",
+                "作曲": "Rose of Rose",
+                "編曲": "Rose of Rose"
+              }
+            },
+            {
+              "index": 8,
+              "title": "What is Heaven?",
+              "duration": "05:14",
+              "credits": {
+                "作詞": "Ryoko",
+                "作曲": "Hatake",
+                "編曲": "Rose of Rose"
+              }
+            },
+            {
+              "index": 9,
+              "title": "Behind",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "Ryoko",
+                "作曲": "Higuchi",
+                "編曲": "Rose of Rose"
+              }
+            },
+            {
+              "index": 10,
+              "title": "笛吹き男",
+              "duration": "02:45",
+              "credits": {
+                "作詞": "Ryoko",
+                "作曲": "Hatake",
+                "編曲": "Rose of Rose"
+              }
+            },
+            {
+              "index": 11,
+              "title": "Hello",
+              "duration": "01:35",
+              "credits": {
+                "作詞": "Ryoko",
+                "作曲": "Hatake",
+                "編曲": "Rose of Rose"
+              }
+            },
+            {
+              "index": 12,
+              "title": "Shine",
+              "duration": "05:16",
+              "credits": {
+                "作詞": "Ryoko",
+                "作曲": "Samejima",
+                "編曲": "Rose of Rose"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

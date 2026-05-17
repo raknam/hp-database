@@ -1,0 +1,78 @@
+{
+  "code": "HKBN-50006",
+  "url": "/release/detail/HKBN-50006/",
+  "source": "upfront",
+  "title": "ナマタマゴ",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2002/05/15",
+  "label": "hachama",
+  "images": [
+    "/images/85f1002b2095457a0e72a81fb619dd23c3d137bb.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/85f1002b2095457a0e72a81fb619dd23c3d137bb.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKBN-50006",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ナマタマゴ背景音楽 Main",
+              "duration": "34:27",
+              "credits": {
+                "作曲": "辻陽"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ナマタマゴ背景音楽 Sass",
+              "duration": "06:46",
+              "credits": {
+                "作曲": "辻陽"
+              }
+            },
+            {
+              "index": 3,
+              "title": "映画ナマタマゴテーマ Mー1",
+              "duration": "02:06",
+              "credits": {
+                "作曲": "辻陽"
+              }
+            },
+            {
+              "index": 4,
+              "title": "映画ナマタマゴテーマ Mー2",
+              "duration": "06:29",
+              "credits": {
+                "作曲": "辻陽"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Air(G線上のアリア)",
+              "duration": "10:11",
+              "credits": {
+                "作曲": "J.S.バッハ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "奇跡の雨",
+              "duration": "01:28",
+              "credits": {
+                "作詞": "ケンジ＆つんく",
+                "作曲": "つんく",
+                "編曲": "ｾﾌﾞﾝHOUSE&高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

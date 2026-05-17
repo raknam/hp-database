@@ -1,0 +1,38 @@
+{
+  "id": 7654,
+  "url": "/release/7654/",
+  "title": "FireWorks",
+  "category": "配信",
+  "artist": "つばきファクトリー",
+  "releaseDate": "2026.3.21",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/a84a14c7515f43804058ee1682d76c60921b3ff4.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "FireWorks",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE",
+                "編曲": "草野将史",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1584"
+        }
+      ]
+    }
+  ]
+}

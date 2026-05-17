@@ -1,0 +1,58 @@
+{
+  "code": "UFBW-2036",
+  "url": "/release/detail/UFBW-2036/",
+  "source": "upfront",
+  "title": "one day in autumn",
+  "category": "DVD",
+  "artist": "熊井友理奈",
+  "releaseDate": "2011/12/22",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/07bd5d1dc0f0bd825abda33af746778c38456d13.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/07bd5d1dc0f0bd825abda33af746778c38456d13.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2036",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Autumn road",
+              "duration": "09:32"
+            },
+            {
+              "index": 2,
+              "title": "Green Garden",
+              "duration": "11:02"
+            },
+            {
+              "index": 3,
+              "title": "Terrace",
+              "duration": "09:30"
+            },
+            {
+              "index": 4,
+              "title": "Light softly with Voice",
+              "duration": "10:23"
+            },
+            {
+              "index": 5,
+              "title": "Sunset",
+              "duration": "08:05"
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "01:32"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

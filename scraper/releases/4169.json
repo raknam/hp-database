@@ -1,0 +1,67 @@
+{
+  "id": 4169,
+  "url": "/release/4169/",
+  "title": "Greeting 〜牧野真莉愛〜",
+  "category": "BD",
+  "artist": "牧野真莉愛",
+  "releaseDate": "2015.3.24",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/63eca6841439a345b3b8a0836ac09cdd87f12e0e.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Green Field",
+              "duration": "13:58",
+              "credits": {
+                "出演": "牧野真莉愛"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Ballpark",
+              "duration": "15:02",
+              "credits": {
+                "出演": "牧野真莉愛"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Greeting to You",
+              "duration": "10:39",
+              "credits": {
+                "出演": "牧野真莉愛"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Time of sunset",
+              "duration": "09:07",
+              "credits": {
+                "出演": "牧野真莉愛"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "01:51",
+              "credits": {
+                "出演": "牧野真莉愛"
+              }
+            }
+          ],
+          "catalogNo": "UFXW-2004"
+        }
+      ]
+    }
+  ]
+}

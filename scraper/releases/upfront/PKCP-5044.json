@@ -1,0 +1,58 @@
+{
+  "code": "PKCP-5044",
+  "url": "/release/detail/PKCP-5044/",
+  "source": "upfront",
+  "title": "ハピネス 〜幸福歓迎！〜",
+  "category": "CDシングル",
+  "artist": "Berryz工房",
+  "releaseDate": "2004/08/25",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/f814c064c7ac9fdd2d023d75b671e4b41a0823af.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f814c064c7ac9fdd2d023d75b671e4b41a0823af.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5044",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ハピネス 〜幸福歓迎！〜",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "守尾崇"
+              }
+            },
+            {
+              "index": 2,
+              "title": "友情 純情 oh 青春(映画「Promise Land 〜クローバーズの大冒険〜」主題歌)",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ハピネス〜幸福歓迎！〜(Instrumental)",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "守尾崇"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

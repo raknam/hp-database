@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1561",
+  "url": "/release/detail/UFDL-1561/",
+  "source": "upfront",
+  "title": "シークレットサマー",
+  "category": "配信",
+  "artist": "つばきファクトリー",
+  "releaseDate": "2025/07/20",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/127a00bd3402c85aa29596bd1bd412db71f3d85f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/127a00bd3402c85aa29596bd1bd412db71f3d85f.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1561",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "シークレットサマー",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "渡辺和紀",
+                "編曲": "渡辺和紀"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

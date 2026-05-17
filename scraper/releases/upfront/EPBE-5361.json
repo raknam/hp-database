@@ -1,0 +1,113 @@
+{
+  "code": "EPBE-5361",
+  "url": "/release/detail/EPBE-5361/",
+  "source": "upfront",
+  "title": "よろセン！Vol.5",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2009/11/25",
+  "label": "zetima",
+  "images": [
+    "/images/3fa8303fd9994bde0aa7573a4963d588667b4a18.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/3fa8303fd9994bde0aa7573a4963d588667b4a18.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5361",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "大相撲 1日目",
+              "duration": "03:30"
+            },
+            {
+              "index": 2,
+              "title": "大相撲 2日目",
+              "duration": "03:33"
+            },
+            {
+              "index": 3,
+              "title": "大相撲 3日目",
+              "duration": "04:33"
+            },
+            {
+              "index": 4,
+              "title": "大相撲 4日目",
+              "duration": "03:40"
+            },
+            {
+              "index": 5,
+              "title": "大相撲 5日目(テスト)",
+              "duration": "03:40"
+            },
+            {
+              "index": 6,
+              "title": "ゲーム 1日目",
+              "duration": "07:12"
+            },
+            {
+              "index": 7,
+              "title": "ゲーム 2日目",
+              "duration": "03:18"
+            },
+            {
+              "index": 8,
+              "title": "ゲーム 3日目",
+              "duration": "10:38"
+            },
+            {
+              "index": 9,
+              "title": "スイーツ 1日目",
+              "duration": "03:37"
+            },
+            {
+              "index": 10,
+              "title": "スイーツ 2日目",
+              "duration": "03:38"
+            },
+            {
+              "index": 11,
+              "title": "スイーツ 3日目",
+              "duration": "03:38"
+            },
+            {
+              "index": 12,
+              "title": "スイーツ 4日目",
+              "duration": "04:33"
+            },
+            {
+              "index": 13,
+              "title": "スイーツ 5日目",
+              "duration": "04:42"
+            },
+            {
+              "index": 14,
+              "title": "久住小春 大相撲",
+              "duration": "02:55"
+            },
+            {
+              "index": 15,
+              "title": "夏焼雅 ゲーム",
+              "duration": "02:45"
+            },
+            {
+              "index": 16,
+              "title": "嗣永桃子 最新家電",
+              "duration": "03:50"
+            },
+            {
+              "index": 17,
+              "title": "梅田えりか スイーツ",
+              "duration": "05:50"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 3181,
+  "url": "/release/3181/",
+  "title": "愛は勝つ",
+  "category": "CDシングル",
+  "artist": "がんばろうニッポン 愛は勝つ シンガーズ",
+  "releaseDate": "2011.6.22",
+  "label": "zetima",
+  "images": [
+    "/upload/images/0a41bf9fb712a41f247f9f3f36a11f8cb58ce5cd.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛は勝つ",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN/矢代恒彦",
+                "歌": "がんばろうニッポン 愛は勝つ シンガーズ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "愛は勝つ",
+              "duration": "04:16",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN/矢代恒彦",
+                "歌": "がんばろうニッポン 愛は勝つ シンガーズ"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5796"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛は勝つ",
+              "duration": "08:32",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "出演": "がんばろうニッポン 愛は勝つ シンガーズ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "レコーディング＆4/9横浜チャリティーイベント風景",
+              "duration": "04:24",
+              "credits": {
+                "出演": "がんばろうニッポン 愛は勝つ シンガーズ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

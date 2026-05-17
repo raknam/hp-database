@@ -1,0 +1,60 @@
+{
+  "id": 2424,
+  "url": "/release/2424/",
+  "title": "演劇女子部 S/mileage's JUKEBOX-MUSICAL 『SMILE FANTASY!』",
+  "category": "CDシングル",
+  "artist": "スマイレージ",
+  "releaseDate": "2014.12.10",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/c1df37946b6c45098cfaf0bd949005d129b6c2d1.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "叙情組曲「スマイルファンタジー」",
+              "duration": "10:17",
+              "credits": {
+                "作詞": "末満健一",
+                "作曲": "和田俊輔",
+                "編曲": "和田俊輔",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ONE DAY",
+              "duration": "04:54",
+              "credits": {
+                "作詞": "末満健一",
+                "作曲": "和田俊輔",
+                "編曲": "和田俊輔",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "か〜てぃんこ〜るんるん",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "末満健一",
+                "作曲": "和田俊輔",
+                "編曲": "和田俊輔",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "UFCW-1087"
+        }
+      ]
+    }
+  ]
+}

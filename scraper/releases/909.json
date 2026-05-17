@@ -1,0 +1,553 @@
+{
+  "id": 909,
+  "url": "/release/909/",
+  "title": "One・Two・Three/The 摩天楼 ショー",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2012.7.4",
+  "label": "zetima",
+  "images": [
+    "/upload/images/6857aa8911093865f55b414439156b8611cdfb01.webp",
+    "/upload/images/1bebf9ffa468b78c6d07c32082588a6106df6bb9.webp",
+    "/upload/images/0c83831511ad8caf1be3ddd9741f090870d3bd19.webp",
+    "/upload/images/e5df186aa23e61eaf7a25eaa92b62c9191cf94c4.webp",
+    "/upload/images/9075fbbd18089ca53dfbdc918f9b4bfb897541c9.webp",
+    "/upload/images/b22f3752c1709496341512f77144ab317ac506c3.webp",
+    "/upload/images/d45479609a88dda318c4950cffa51b76e7008c74.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/6857aa8911093865f55b414439156b8611cdfb01.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "One・Two・Three",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "The 摩天楼ショー",
+              "duration": "05:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "私の時代！",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。ロッキーズ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "One・Two・Three",
+              "duration": "04:23",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 5,
+              "title": "The 摩天楼ショー",
+              "duration": "05:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5872"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "One・Two・Three",
+              "duration": "04:40",
+              "suffix": "(Another Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/1bebf9ffa468b78c6d07c32082588a6106df6bb9.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "One・Two・Three",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "The 摩天楼ショー",
+              "duration": "05:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "私の時代！",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。ロッキーズ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "One・Two・Three",
+              "duration": "04:23",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 5,
+              "title": "The 摩天楼ショー",
+              "duration": "05:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5874"
+        }
+      ],
+      "note": "イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/0c83831511ad8caf1be3ddd9741f090870d3bd19.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "One・Two・Three",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "The 摩天楼ショー",
+              "duration": "05:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "アイサレタイノニ…",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。Q期"
+              }
+            },
+            {
+              "index": 4,
+              "title": "One・Two・Three",
+              "duration": "04:23",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 5,
+              "title": "The 摩天楼ショー",
+              "duration": "05:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5875"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "The 摩天楼ショー",
+              "duration": "05:32",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤D】",
+      "image": "/upload/images/e5df186aa23e61eaf7a25eaa92b62c9191cf94c4.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "One・Two・Three",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "The 摩天楼ショー",
+              "duration": "05:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "アイサレタイノニ…",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。Q期"
+              }
+            },
+            {
+              "index": 4,
+              "title": "One・Two・Three",
+              "duration": "04:23",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 5,
+              "title": "The 摩天楼ショー",
+              "duration": "05:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5877"
+        }
+      ],
+      "note": "イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤E】",
+      "image": "/upload/images/9075fbbd18089ca53dfbdc918f9b4bfb897541c9.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "One・Two・Three",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "The 摩天楼ショー",
+              "duration": "05:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "青春ど真ん中",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。天気組"
+              }
+            },
+            {
+              "index": 4,
+              "title": "One・Two・Three",
+              "duration": "04:23",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 5,
+              "title": "The 摩天楼ショー",
+              "duration": "05:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5878"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "One・Two・Three",
+              "duration": "04:40",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤F】",
+      "image": "/upload/images/b22f3752c1709496341512f77144ab317ac506c3.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "One・Two・Three",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "The 摩天楼ショー",
+              "duration": "05:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "青春ど真ん中",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。天気組"
+              }
+            },
+            {
+              "index": 4,
+              "title": "One・Two・Three",
+              "duration": "04:23",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 5,
+              "title": "The 摩天楼ショー",
+              "duration": "05:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5880"
+        }
+      ],
+      "note": "イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/d45479609a88dda318c4950cffa51b76e7008c74.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "One・Two・Three",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "The 摩天楼ショー",
+              "duration": "05:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "One・Two・Three",
+              "duration": "04:23",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 4,
+              "title": "The 摩天楼ショー",
+              "duration": "05:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5881"
+        }
+      ]
+    }
+  ]
+}

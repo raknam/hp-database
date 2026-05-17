@@ -1,0 +1,659 @@
+{
+  "id": 7056,
+  "url": "/release/7056/",
+  "title": "Juicetory",
+  "category": "CDアルバム",
+  "artist": "Juice=Juice",
+  "releaseDate": "2023.10.11",
+  "label": "hachama",
+  "images": [
+    "/upload/images/bf73c411bda2a278883768dbbffd19f4a050de61.webp",
+    "/upload/images/19434ab15940f5fb0f5c5d3338ec48300103a13b.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/upload/images/bf73c411bda2a278883768dbbffd19f4a050de61.webp",
+      "price": "￥7,700（税抜価格 ￥7,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ロマンスの途中",
+              "duration": "05:08",
+              "suffix": "(2023 10th Juice Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "私が言う前に抱きしめなきゃね(2023)",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "イジワルしないで 抱きしめてよ(2023)",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "初めてを経験中(2023)",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA/ブラスアレンジ：鈴木俊介",
+                "歌": "有澤一華・入江里咲・江端妃咲・石山咲良・遠藤彩加里・川嶋美楓"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ブラックバタフライ(2023)",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "植村あかり・段原瑠々・井上玲音・工藤由愛・松永里愛"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Wonderful World",
+              "duration": "04:21",
+              "suffix": "(2023 10th Juice Ver.)",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 7,
+              "title": "CHOICE & CHANCE(2023)",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Magic of Love(2023)",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "村山晋一郎",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 9,
+              "title": "カラダだけが大人になったんじゃない(2023)",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 10,
+              "title": "Never Never Surrender(2023)",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 11,
+              "title": "微炭酸(2023)",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 12,
+              "title": "「ひとりで生きられそう」って それってねえ、褒めているの？(2023)",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 13,
+              "title": "ポップミュージック(2023)",
+              "duration": "05:18",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 14,
+              "title": "ボン・ヴォヤージュ～想いの軌跡～",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50774"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "01:11",
+              "credits": {
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "STAGE～アガッてみな～",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "徳田光希",
+                "作曲": "徳田光希",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "カラダだけが大人になったんじゃない",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "「ひとりで生きられそう」って それってねえ、褒めているの？",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "MC",
+              "duration": "02:52",
+              "credits": {
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "TOKYOグライダー",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "唐沢美帆",
+                "作曲": "星部ショウ",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 7,
+              "title": "好きって言ってよ",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 8,
+              "title": "イジワルしないで 抱きしめてよ",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 9,
+              "title": "G.O.A.T.",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "Shusui/Andreas Ohrn /Henrik Smith",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 10,
+              "title": "ポツリと",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 11,
+              "title": "MC",
+              "duration": "01:20",
+              "credits": {
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 12,
+              "title": "アレコレしたい！",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "有澤一華・入江里咲・江端妃咲・石山咲良・遠藤彩加里"
+              }
+            },
+            {
+              "index": 13,
+              "title": "愛・愛・傘",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 14,
+              "title": "風に吹かれて",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "植村あかり・段原瑠々・井上玲音・工藤由愛・松永里愛"
+              }
+            },
+            {
+              "index": 15,
+              "title": "全部賭けてGO!!",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "徳田光希",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 16,
+              "title": "MC",
+              "duration": "00:22",
+              "credits": {
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 17,
+              "title": "イニミニマニモ～恋のライバル宣言～",
+              "duration": "03:24",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Johan Alkenas/Joacim Persson/Lisa Desmond",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 18,
+              "title": "Vivid Midnight",
+              "duration": "04:05",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "SEION/Tasco/Tenzo",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 19,
+              "title": "POPPIN' LOVE",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Andreas Carlsson/Julie Yu/Erik Lidbom",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 20,
+              "title": "生まれたてのBaby Love",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "masaaki asada",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 21,
+              "title": "MC",
+              "duration": "00:56",
+              "credits": {
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 22,
+              "title": "Never Never Surrender",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 23,
+              "title": "CHOICE & CHANCE",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 24,
+              "title": "Borderline",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 25,
+              "title": "KEEP ON 上昇志向！！",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 26,
+              "title": "この世界は捨てたもんじゃない",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "中村瑛彦",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 27,
+              "title": "Wonderful World",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 28,
+              "title": "Feel！感じるよ",
+              "duration": "04:16",
+              "suffix": "【ENCORE】",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "中村瑛彦",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 29,
+              "title": "MC",
+              "duration": "13:30",
+              "suffix": "【ENCORE】",
+              "credits": {
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 30,
+              "title": "未来へ、さあ走り出せ！",
+              "duration": "07:42",
+              "suffix": "【ENCORE】",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "KOJI oba",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 31,
+              "title": "バックステージ映像",
+              "duration": "21:16",
+              "credits": {
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "CD+BD(Juice=Juice CONCERT TOUR ～final: nouvelle vague～(2月28日 日本武道館))+7インチサイズジャケット仕様"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/19434ab15940f5fb0f5c5d3338ec48300103a13b.webp",
+      "price": "定価 ￥3,300（税抜価格 ￥3,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ロマンスの途中",
+              "duration": "05:08",
+              "suffix": "(2023 10th Juice Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "私が言う前に抱きしめなきゃね(2023)",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "イジワルしないで 抱きしめてよ(2023)",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "初めてを経験中(2023)",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA/ブラスアレンジ：鈴木俊介",
+                "歌": "有澤一華・入江里咲・江端妃咲・石山咲良・遠藤彩加里・川嶋美楓"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ブラックバタフライ(2023)",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "植村あかり・段原瑠々・井上玲音・工藤由愛・松永里愛"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Wonderful World",
+              "duration": "04:21",
+              "suffix": "(2023 10th Juice Ver.)",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 7,
+              "title": "CHOICE & CHANCE(2023)",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Magic of Love(2023)",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "村山晋一郎",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 9,
+              "title": "カラダだけが大人になったんじゃない(2023)",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 10,
+              "title": "Never Never Surrender(2023)",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 11,
+              "title": "微炭酸(2023)",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 12,
+              "title": "「ひとりで生きられそう」って それってねえ、褒めているの？(2023)",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 13,
+              "title": "ポップミュージック(2023)",
+              "duration": "05:18",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 14,
+              "title": "ボン・ヴォヤージュ～想いの軌跡～",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50776"
+        }
+      ],
+      "note": "CD+紙ジャケ仕様"
+    }
+  ]
+}

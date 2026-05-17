@@ -1,0 +1,246 @@
+{
+  "code": "HKCN-50333",
+  "url": "/release/detail/HKCN-50333/",
+  "source": "upfront",
+  "title": "ええか！？/「良い奴」",
+  "category": "CDシングル",
+  "artist": "スマイレージ",
+  "releaseDate": "2013/12/18",
+  "label": "hachama",
+  "images": [
+    "/images/2e15e731549944800b7f2f4892faa69f97e4cbc7.jpg",
+    "/images/31d1bfa7615b3c6b00f5f88325c64f84f7b135d5.jpg",
+    "/images/3b032a31374e4c34d3a5acc64abc4375e3dae510.jpg",
+    "/images/9fb06a2860e10b5831885db3ae878b713125e460.jpg",
+    "/images/f46669dbf514508113fa6eafa4ba7ecd5caa15a1.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/2e15e731549944800b7f2f4892faa69f97e4cbc7.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50333",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ええか！？",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "近藤圭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "「良い奴」",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ええか！？(Instrumental)",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "近藤圭一"
+              }
+            },
+            {
+              "index": 4,
+              "title": "「良い奴」(Instrumental)",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/31d1bfa7615b3c6b00f5f88325c64f84f7b135d5.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50335",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ええか！？(Music Video)",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "「良い奴」(Close-up Ver.)",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ええか！？(MakingFilm)",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/images/3b032a31374e4c34d3a5acc64abc4375e3dae510.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50337",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ええか！？",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "近藤圭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "「良い奴」",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ええか！？(Instrumental)",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "近藤圭一"
+              }
+            },
+            {
+              "index": 4,
+              "title": "「良い奴」(Instrumental)",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤D】",
+      "image": "/images/9fb06a2860e10b5831885db3ae878b713125e460.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50339",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「良い奴」(Music Video)",
+              "duration": "04:44"
+            },
+            {
+              "index": 2,
+              "title": "ええか！？(Close-upVer.)",
+              "duration": "03:56"
+            },
+            {
+              "index": 3,
+              "title": "「良い奴」(Making Film)",
+              "duration": "05:27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/f46669dbf514508113fa6eafa4ba7ecd5caa15a1.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50340",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ええか！？",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "近藤圭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "「良い奴」",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ええか！？(Instrumental)",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "近藤圭一"
+              }
+            },
+            {
+              "index": 4,
+              "title": "「良い奴」(Instrumental)",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

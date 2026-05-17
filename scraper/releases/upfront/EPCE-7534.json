@@ -1,0 +1,88 @@
+{
+  "code": "EPCE-7534",
+  "url": "/release/detail/EPCE-7534/",
+  "source": "upfront",
+  "title": "悪友",
+  "category": "CDシングル",
+  "artist": "上々軍団",
+  "releaseDate": "2019/10/30",
+  "label": "zetima",
+  "images": [
+    "/images/c56314fae32add1e652818b107b14703e4a96774.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/c56314fae32add1e652818b107b14703e4a96774.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7534",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "悪友",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "鈴木啓太/さわやか五郎",
+                "作曲": "さわやか五郎",
+                "編曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 2,
+              "title": "生誕",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "さわやか五郎/鈴木啓太",
+                "作曲": "さわやか五郎",
+                "編曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 3,
+              "title": "家族",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "鈴木啓太/さわやか五郎",
+                "作曲": "さわやか五郎",
+                "編曲": "中島卓偉/荒幡亮平"
+              }
+            },
+            {
+              "index": 4,
+              "title": "悪友(Instrumental)",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "鈴木啓太/さわやか五郎",
+                "作曲": "さわやか五郎",
+                "編曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 5,
+              "title": "生誕(Instrumental)",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "さわやか五郎/鈴木啓太",
+                "作曲": "さわやか五郎",
+                "編曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 6,
+              "title": "家族(Instrumental)",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "鈴木啓太/さわやか五郎",
+                "作曲": "さわやか五郎",
+                "編曲": "中島卓偉/荒幡亮平"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

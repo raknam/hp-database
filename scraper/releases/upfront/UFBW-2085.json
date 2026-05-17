@@ -1,0 +1,131 @@
+{
+  "code": "UFBW-2085",
+  "url": "/release/detail/UFBW-2085/",
+  "source": "upfront",
+  "title": "ハロー！チャンネル the DVD Vol.12",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2013/06/12",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/48e03d0e9881cca41d125cb8dc4e8e4c60f6f16a.jpg"
+  ],
+  "editions": [
+    {
+      "name": "＜Disc1＞",
+      "image": "/images/48e03d0e9881cca41d125cb8dc4e8e4c60f6f16a.jpg",
+      "price": "￥5,170 (税抜価格 ￥4,700)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2085",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "モーニング娘。6期の絆",
+              "duration": "08:36"
+            },
+            {
+              "index": 2,
+              "title": "田中れいな×HC ラストインタビュー",
+              "duration": "03:56"
+            },
+            {
+              "index": 3,
+              "title": "祝・高校＆中学卒業＆そうじゃない人も…スマイレージ全員で卒業旅行に行っちゃいました！",
+              "duration": "07:18"
+            },
+            {
+              "index": 4,
+              "title": "℃-ute合気道を学ぶ！",
+              "duration": "10:58"
+            },
+            {
+              "index": 5,
+              "title": "はじめまして！Juice=Juiceです！",
+              "duration": "14:56"
+            },
+            {
+              "index": 6,
+              "title": "ヘビ年記念！？ ヘビに会いに行く！",
+              "duration": "09:27"
+            },
+            {
+              "index": 7,
+              "title": "ハロー！ワーク お仕事体験1ハロプロショップ名古屋大須店へようこそ！",
+              "duration": "07:39"
+            },
+            {
+              "index": 8,
+              "title": "ハロー！ワーク お仕事体験2ハロプロショップ東京秋葉原店へようこそ！",
+              "duration": "12:57"
+            },
+            {
+              "index": 9,
+              "title": "抹茶ーず in 宇治 Part-2",
+              "duration": "19:12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "＜Disc2＞",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2086",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "世界にひとつだけの…オリジナルバングル作りに挑戦！前編",
+              "duration": "11:53"
+            },
+            {
+              "index": 2,
+              "title": "野球アイドル誕生！？ 実践編",
+              "duration": "13:40"
+            },
+            {
+              "index": 3,
+              "title": "DANCE! DANCE! WORLD! 第4回 タップダンス",
+              "duration": "09:54"
+            },
+            {
+              "index": 4,
+              "title": "Show My Selfmake 第3回",
+              "duration": "08:26"
+            },
+            {
+              "index": 5,
+              "title": "Forest For Rest SATOYAMAへ行こう！ SATOYAMA movement in YOKOHAMA",
+              "duration": "04:13"
+            },
+            {
+              "index": 6,
+              "title": "あこがれ対談 Part-1",
+              "duration": "11:50"
+            },
+            {
+              "index": 7,
+              "title": "あこがれ対談 Part-2",
+              "duration": "08:57"
+            },
+            {
+              "index": 8,
+              "title": "女子禁制♂ 菅谷梨沙子♀のお悩み相談",
+              "duration": "06:33"
+            },
+            {
+              "index": 9,
+              "title": "嗣永桃子のアイドル100万ボルト at 東武動物公園",
+              "duration": "10:52"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

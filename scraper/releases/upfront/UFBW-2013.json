@@ -1,0 +1,78 @@
+{
+  "code": "UFBW-2013",
+  "url": "/release/detail/UFBW-2013/",
+  "source": "upfront",
+  "title": "“亀井絵里写真集「えりりん」”メイキングDVD〜特別編集版〜",
+  "category": "DVD",
+  "artist": "亀井絵里",
+  "releaseDate": "2010/11/22",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/nowprinting.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/nowprinting.jpg",
+      "price": "￥2,750 (税抜価格 ￥2,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2013",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "00:17"
+            },
+            {
+              "index": 2,
+              "title": "プール",
+              "duration": "04:08"
+            },
+            {
+              "index": 3,
+              "title": "キャンパス",
+              "duration": "08:11"
+            },
+            {
+              "index": 4,
+              "title": "テニス",
+              "duration": "04:42"
+            },
+            {
+              "index": 5,
+              "title": "エクササイズ",
+              "duration": "00:54"
+            },
+            {
+              "index": 6,
+              "title": "就職活動",
+              "duration": "03:16"
+            },
+            {
+              "index": 7,
+              "title": "カラオケ",
+              "duration": "03:50"
+            },
+            {
+              "index": 8,
+              "title": "アルバイト",
+              "duration": "05:15"
+            },
+            {
+              "index": 9,
+              "title": "合宿",
+              "duration": "13:18"
+            },
+            {
+              "index": 10,
+              "title": "ビーチ",
+              "duration": "11:00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

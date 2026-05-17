@@ -1,0 +1,72 @@
+{
+  "id": 2077,
+  "url": "/release/2077/",
+  "title": "ハロプロ！TIME Vol.14",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012.8.9",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/c6ab9419b6a800589cc2ec5d5d351c36984a2a97.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "中島TIME",
+              "duration": "30:00",
+              "suffix": "ぶらり江ノ島！！℃-ute3人旅",
+              "credits": {
+                "出演": "矢島舞美・中島早貴・岡井千聖(℃-ute)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "真野TIME",
+              "duration": "05:06",
+              "suffix": "「ドキドキベイビー」のMV撮影現場を自分撮り",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "菅谷TIME",
+              "duration": "08:53",
+              "suffix": "「Be 元気＜成せば成るっ！＞」MV撮影現場でメンバー撮り",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Buono!TIME",
+              "duration": "11:04",
+              "suffix": "ライブリハーサルに密着",
+              "credits": {
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Buono!TIME",
+              "duration": "20:05",
+              "suffix": "ライブリハーサル未公開映像",
+              "credits": {
+                "出演": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1183"
+        }
+      ]
+    }
+  ]
+}

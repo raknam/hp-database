@@ -1,0 +1,75 @@
+{
+  "id": 518,
+  "url": "/release/518/",
+  "title": "ひゃっっほ〜い♪( ?θ`)ノ",
+  "category": "DVD",
+  "artist": "鞘師里保",
+  "releaseDate": "2012.9.26",
+  "label": "zetima",
+  "images": [
+    "/upload/images/59cdfa21c37855fb9b8ed6e7e1f2e3d6a3e88a0a.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "帰り道",
+              "duration": "10:49",
+              "credits": {
+                "出演": "鞘師里保(モーニング娘。)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "雨の休日",
+              "duration": "10:07",
+              "credits": {
+                "出演": "鞘師里保(モーニング娘。)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "買い物",
+              "duration": "04:50",
+              "credits": {
+                "出演": "鞘師里保(モーニング娘。)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "夏休み",
+              "duration": "09:33",
+              "credits": {
+                "出演": "鞘師里保(モーニング娘。)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "写真集「アンドゥトゥア」メイキング",
+              "duration": "16:48",
+              "credits": {
+                "出演": "鞘師里保(モーニング娘。)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "エンディング",
+              "duration": "01:26",
+              "credits": {
+                "出演": "鞘師里保(モーニング娘。)"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5448"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "code": "EPBE-5126",
+  "url": "/release/detail/EPBE-5126/",
+  "source": "upfront",
+  "title": "切 腹",
+  "category": "DVD",
+  "artist": "犬神サーカス団",
+  "releaseDate": "2004/06/09",
+  "label": "zetima",
+  "images": [
+    "/images/88b874766e45820fc0e3e538ab1125a6881d9fde.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/88b874766e45820fc0e3e538ab1125a6881d9fde.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5126",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "メニュー",
+              "duration": "00:00"
+            },
+            {
+              "index": 2,
+              "title": "怪談！首つりの森",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "犬神明",
+                "作曲": "犬神明",
+                "編曲": "犬神サーカス団"
+              }
+            },
+            {
+              "index": 3,
+              "title": "黄泉の国",
+              "duration": "05:12",
+              "credits": {
+                "作詞": "犬神明",
+                "作曲": "犬神明",
+                "編曲": "犬神サーカス団"
+              }
+            },
+            {
+              "index": 4,
+              "title": "洗脳",
+              "duration": "05:41",
+              "credits": {
+                "作詞": "犬神明",
+                "作曲": "犬神明",
+                "編曲": "犬神サーカス団"
+              }
+            },
+            {
+              "index": 5,
+              "title": "鎮魂歌～レクイエム～",
+              "duration": "06:55",
+              "credits": {
+                "作詞": "犬神明",
+                "作曲": "犬神明",
+                "編曲": "犬神サーカス団"
+              }
+            },
+            {
+              "index": 6,
+              "title": "最後のアイドル",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "犬神明",
+                "作曲": "犬神明",
+                "編曲": "犬神サーカス団"
+              }
+            },
+            {
+              "index": 7,
+              "title": "命みぢかし恋せよ人類！",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "犬神明",
+                "作曲": "犬神明",
+                "編曲": "犬神サーカス団"
+              }
+            },
+            {
+              "index": 8,
+              "title": "最初の扉",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "犬神明",
+                "作曲": "犬神明",
+                "編曲": "犬神サーカス団"
+              }
+            },
+            {
+              "index": 9,
+              "title": "三つの扉",
+              "duration": "12:18",
+              "credits": {
+                "作詞": "犬神明",
+                "作曲": "犬神明",
+                "編曲": "犬神サーカス団"
+              }
+            },
+            {
+              "index": 10,
+              "title": "「三つの扉」メイキング",
+              "duration": "06:48"
+            },
+            {
+              "index": 11,
+              "title": "THE 盗撮！",
+              "duration": "08:11"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

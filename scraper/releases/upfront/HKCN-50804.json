@@ -1,0 +1,471 @@
+{
+  "code": "HKCN-50804",
+  "url": "/release/detail/HKCN-50804/",
+  "source": "upfront",
+  "title": "Spancall",
+  "category": "CDアルバム",
+  "artist": "宮本佳林",
+  "releaseDate": "2024/05/22",
+  "label": "hachama",
+  "images": [
+    "/images/44bef0fa1528a4494ccaa71820b66bbcbe7a6b22.jpg",
+    "/images/adcc2d5f049219df974927cb68c6d002000ada0f.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/44bef0fa1528a4494ccaa71820b66bbcbe7a6b22.jpg",
+      "price": "￥7,700 (税抜価格 ￥7,000)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "HKCN-50804",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ポラリス・コンパス",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "依田伸隆",
+                "編曲": "荒幡亮平"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ソリスト・ダンス",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/ヒロイズム",
+                "編曲": "ヒロイズム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "バンビーナ・バンビーノ",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "渡辺和紀",
+                "編曲": "戸嶋友祐"
+              }
+            },
+            {
+              "index": 4,
+              "title": "アンフェアな事情",
+              "duration": "02:48",
+              "credits": {
+                "作詞": "常楽寺澪",
+                "作曲": "ArmySlick/YUU for YOU/Yu-ki Kokubo",
+                "編曲": "ArmySlick/YUU for YOU"
+              }
+            },
+            {
+              "index": 5,
+              "title": "BAD",
+              "duration": "02:57",
+              "credits": {
+                "作詞": "常楽寺澪",
+                "作曲": "石黑剛/常楽寺澪",
+                "編曲": "石黑剛"
+              }
+            },
+            {
+              "index": 6,
+              "title": "レインステーション",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Karrinator/Suhyun Kim",
+                "編曲": "Karrinator"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Love Gravity",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "春和文",
+                "作曲": "Shusui/ha-j",
+                "編曲": "ha-j"
+              }
+            },
+            {
+              "index": 8,
+              "title": "パラレルハート",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "ヘリP/下野隼",
+                "作曲": "ヘリP/下野隼",
+                "編曲": "ヘリP/下野隼"
+              }
+            },
+            {
+              "index": 9,
+              "title": "Lonely Bus",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 10,
+              "title": "C＼C(シンデレラ＼コンプレックス)'24 宮本佳林 Solo Ver.",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "戸嶋友祐"
+              }
+            },
+            {
+              "index": 11,
+              "title": "ヴァンパイア",
+              "duration": "02:59",
+              "credits": {
+                "作詞": "DECO*27",
+                "作曲": "DECO*27",
+                "編曲": "戸嶋友祐"
+              }
+            },
+            {
+              "index": 12,
+              "title": "愛しあわなきゃもったいない！",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "敬也 -amazuti-",
+                "作曲": "渡辺未来",
+                "編曲": "渡辺未来"
+              }
+            },
+            {
+              "index": 13,
+              "title": "Beautiful Song",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "YUU for YOU/Ryosuke Matsuzaki",
+                "編曲": "YUU for YOU"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/adcc2d5f049219df974927cb68c6d002000ada0f.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKCN-50806",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:46"
+            },
+            {
+              "index": 2,
+              "title": "バンビーナ・バンビーノ",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "渡辺和紀"
+              }
+            },
+            {
+              "index": 3,
+              "title": "BAD",
+              "duration": "02:58",
+              "credits": {
+                "作詞": "常楽寺澪",
+                "作曲": "石黑剛/常楽寺澪"
+              }
+            },
+            {
+              "index": 4,
+              "title": "MC",
+              "duration": "01:07"
+            },
+            {
+              "index": 5,
+              "title": "カリーナノッテ",
+              "duration": "01:24",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "依田伸隆(10GAUGE)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "最高視感度",
+              "duration": "01:12",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "依田伸隆(10GAUGE)"
+              }
+            },
+            {
+              "index": 7,
+              "title": "兎tocome",
+              "duration": "01:25",
+              "credits": {
+                "作詞": "竹屋なかこ/児玉雨子",
+                "作曲": "依田伸隆(10GAUGE)"
+              }
+            },
+            {
+              "index": 8,
+              "title": "リバース",
+              "duration": "01:29",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "依田伸隆(10GAUGE)"
+              }
+            },
+            {
+              "index": 9,
+              "title": "カリーナノッテ polaris mix",
+              "duration": "01:54",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "依田伸隆(10GAUGE)"
+              }
+            },
+            {
+              "index": 10,
+              "title": "Beautiful Song",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "YUU for YOU/Ryosuke Matsuzaki"
+              }
+            },
+            {
+              "index": 11,
+              "title": "氷点下",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい"
+              }
+            },
+            {
+              "index": 12,
+              "title": "天まで登れ！",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 13,
+              "title": "少女K",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "桑原静香",
+                "作曲": "宮崎歩"
+              }
+            },
+            {
+              "index": 14,
+              "title": "Lonely Bus",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 15,
+              "title": "イイオンナごっこ",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい"
+              }
+            },
+            {
+              "index": 16,
+              "title": "MC",
+              "duration": "01:25"
+            },
+            {
+              "index": 17,
+              "title": "ズキュンLOVE",
+              "duration": "00:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 18,
+              "title": "ミニモニ。ジャンケンぴょん！",
+              "duration": "00:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 19,
+              "title": "ガタメキラ",
+              "duration": "00:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 20,
+              "title": "有頂天LOVE",
+              "duration": "01:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 21,
+              "title": "ロマンスの途中",
+              "duration": "02:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 22,
+              "title": "私が言う前に抱きしめなきゃね",
+              "duration": "01:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 23,
+              "title": "大人の事情",
+              "duration": "01:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 24,
+              "title": "愛のダイビング",
+              "duration": "02:23",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 25,
+              "title": "銀色のテレパシー",
+              "duration": "01:55",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 26,
+              "title": "プラトニック・プラネット",
+              "duration": "01:49",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 27,
+              "title": "Wonderful World",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン"
+              }
+            },
+            {
+              "index": 28,
+              "title": "どうして僕らにはやる気がないのか(2021)",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "永井葉子",
+                "作曲": "田仲圭太"
+              }
+            },
+            {
+              "index": 29,
+              "title": "自分ファースト",
+              "duration": "05:09",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 30,
+              "title": "ソリスト・ダンス",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/ヒロイズム"
+              }
+            },
+            {
+              "index": 31,
+              "title": "夜明けまでのララバイ",
+              "duration": "05:10",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Caroline Gustavsson/Chris Meyer"
+              }
+            },
+            {
+              "index": 32,
+              "title": "私がオバさんになっても【ENCORE】",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "斉藤英夫"
+              }
+            },
+            {
+              "index": 33,
+              "title": "パラレルハート【ENCORE】",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "ヘリP/下野隼",
+                "作曲": "ヘリP/下野隼"
+              }
+            },
+            {
+              "index": 34,
+              "title": "MC【ENCORE】",
+              "duration": "02:06"
+            },
+            {
+              "index": 35,
+              "title": "なんてったって I Love You【ENCORE】",
+              "duration": "05:39",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "武田将弥"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

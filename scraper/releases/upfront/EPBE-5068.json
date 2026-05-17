@@ -1,0 +1,53 @@
+{
+  "code": "EPBE-5068",
+  "url": "/release/detail/EPBE-5068/",
+  "source": "upfront",
+  "title": "シングルV「ロックンロール県庁所在地～おぼえちゃいなシリーズ～」",
+  "category": "DVD",
+  "artist": "ミニモニ｡",
+  "releaseDate": "2003/05/08",
+  "label": "zetima",
+  "images": [
+    "/images/nowprinting.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/nowprinting.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5068",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ロックンロール県庁所在地～おぼえちゃいなシリーズ～",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "森高千里",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ロックンロール県庁所在地～おぼえちゃいなシリーズ～(レッスンビデオ)",
+              "duration": "03:03",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "森高千里",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "06:24"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

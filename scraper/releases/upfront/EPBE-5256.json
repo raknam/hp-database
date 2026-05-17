@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5256",
+  "url": "/release/detail/EPBE-5256/",
+  "source": "upfront",
+  "title": "シングルV「はなをぷーん/ふたりはNS」",
+  "category": "DVDシングルV",
+  "artist": "きら☆ぴか",
+  "releaseDate": "2007/08/08",
+  "label": "zetima",
+  "images": [
+    "/images/3e4595c3ad4aa90680e33b19dea11fae23220708.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/3e4595c3ad4aa90680e33b19dea11fae23220708.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5256",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "はなをぷーん",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "YumYum",
+                "作曲": "MenMen"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ふたりはNS",
+              "duration": "04:44",
+              "credits": {
+                "作詞": "YumYum",
+                "作曲": "MenMen"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "12:05"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

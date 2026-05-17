@@ -1,0 +1,73 @@
+{
+  "id": 2842,
+  "url": "/release/2842/",
+  "title": "カラスの女房",
+  "category": "CDシングル",
+  "artist": "中澤裕子",
+  "releaseDate": "1998.8.5",
+  "label": "zetima",
+  "images": [
+    "/upload/images/a51565a97e701613444104b4cc90a0c9a726b2ac.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "カラスの女房",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二",
+                "歌": "中澤裕子"
+              }
+            },
+            {
+              "index": 2,
+              "title": "音無橋",
+              "duration": "05:10",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "堀内孝雄",
+                "編曲": "今泉敏郎",
+                "歌": "中澤裕子"
+              }
+            },
+            {
+              "index": 3,
+              "title": "カラスの女房",
+              "duration": "03:42",
+              "suffix": "(オリジナル・カラオケ)",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二",
+                "歌": "中澤裕子"
+              }
+            },
+            {
+              "index": 4,
+              "title": "音無橋",
+              "duration": "05:10",
+              "suffix": "(オリジナル・カラオケ)",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "堀内孝雄",
+                "編曲": "今泉敏郎",
+                "歌": "中澤裕子"
+              }
+            }
+          ],
+          "catalogNo": "EPDE-1006"
+        }
+      ]
+    }
+  ]
+}

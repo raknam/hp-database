@@ -1,0 +1,140 @@
+{
+  "code": "EPCE-5273",
+  "url": "/release/detail/EPCE-5273/",
+  "source": "upfront",
+  "title": "ハロー！プロジェクト ラジオドラマ vol.4",
+  "category": "CDアルバム",
+  "artist": "V.A.",
+  "releaseDate": "2004/06/09",
+  "label": "zetima",
+  "images": [
+    "/images/1fd76e0cd15a89c3a2a6f9efec05d3f49950af21.jpg",
+    "/images/87556821fc08f23163e9489f8a476e6977e6080d.jpg"
+  ],
+  "editions": [
+    {
+      "name": "初回盤、2枚組 ＜DISC 1＞",
+      "image": "/images/1fd76e0cd15a89c3a2a6f9efec05d3f49950af21.jpg",
+      "price": "￥3,190 (税抜価格 ￥2,900)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5273",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "第九話 【ごっちん×2】",
+              "duration": "22:10",
+              "credits": {
+                "作詞": "原作:阿部裕樹",
+                "作曲": "脚本:楠野一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "第十話 【EMA】",
+              "duration": "20:34",
+              "credits": {
+                "作詞": "原作:平田治",
+                "作曲": "脚本:楠野一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "初回盤、2枚組 ＜DISC 2＞",
+      "image": "/images/87556821fc08f23163e9489f8a476e6977e6080d.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5274",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "第十一話 【THE☆BENGTOYAH】",
+              "duration": "20:11",
+              "credits": {
+                "作詞": "原案:つんく♂",
+                "作曲": "脚本:楠野一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "第十二話 【パンテオンの床】",
+              "duration": "23:43",
+              "credits": {
+                "作詞": "原作:宮路康大",
+                "作曲": "脚本:楠野一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "通常盤、2枚組 ＜DISC 1＞",
+      "image": null,
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5290",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "第九話 【ごっちん×2】",
+              "duration": "22:10",
+              "credits": {
+                "作詞": "原作:阿部裕樹",
+                "作曲": "脚本:楠野一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "第十話 【EMA】",
+              "duration": "20:34",
+              "credits": {
+                "作詞": "原作:平田治",
+                "作曲": "脚本:楠野一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "通常盤、2枚組 ＜DISC 2＞",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5291",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "第十一話 【THE☆BENGTOYAH】",
+              "duration": "20:11",
+              "credits": {
+                "作詞": "原案:つんく♂",
+                "作曲": "脚本:楠野一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "第十二話 【パンテオンの床】",
+              "duration": "23:43",
+              "credits": {
+                "作詞": "原作:宮路康大",
+                "作曲": "脚本:楠野一郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

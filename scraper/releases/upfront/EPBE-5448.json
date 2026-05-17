@@ -1,0 +1,58 @@
+{
+  "code": "EPBE-5448",
+  "url": "/release/detail/EPBE-5448/",
+  "source": "upfront",
+  "title": "ひゃっっほ〜い♪( ?θ`)ノ",
+  "category": "DVD",
+  "artist": "鞘師里保",
+  "releaseDate": "2012/09/26",
+  "label": "zetima",
+  "images": [
+    "/images/59cdfa21c37855fb9b8ed6e7e1f2e3d6a3e88a0a.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/59cdfa21c37855fb9b8ed6e7e1f2e3d6a3e88a0a.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5448",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "帰り道",
+              "duration": "10:49"
+            },
+            {
+              "index": 2,
+              "title": "雨の休日",
+              "duration": "10:07"
+            },
+            {
+              "index": 3,
+              "title": "買い物",
+              "duration": "04:50"
+            },
+            {
+              "index": 4,
+              "title": "夏休み",
+              "duration": "09:33"
+            },
+            {
+              "index": 5,
+              "title": "写真集「アンドゥトゥア」メイキング",
+              "duration": "16:48"
+            },
+            {
+              "index": 6,
+              "title": "エンディング",
+              "duration": "01:26"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

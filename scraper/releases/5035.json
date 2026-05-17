@@ -1,0 +1,687 @@
+{
+  "id": 5035,
+  "url": "/release/5035/",
+  "title": "初恋サンライズ/Just Try!/うるわしのカメリア",
+  "category": "CDシングル",
+  "artist": "つばきファクトリー",
+  "releaseDate": "2017.2.22",
+  "label": "zetima",
+  "images": [
+    "/upload/images/40c7724786b73d91d07100ffceea69d63629258b.webp",
+    "/upload/images/14fdc63faec43b102da5fd322ef2fc82bb727fc8.webp",
+    "/upload/images/9f37fd507bd66cb36d486562fdbc8f2d9b5ceeaf.webp",
+    "/upload/images/c37cae6c910317bfe87d63056993250eaaadbe3d.webp",
+    "/upload/images/05854498cffe219077329fb35b874de6f2f71e8f.webp",
+    "/upload/images/25d9e609215572313e95460cc5f91397c1ddeb8e.webp",
+    "/upload/images/17e4f62dfd4cbe76a775b3e625b70898de84db18.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/40c7724786b73d91d07100ffceea69d63629258b.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "初恋サンライズ",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "山田祐輔",
+                "編曲": "近藤圭一",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Just Try!",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "うるわしのカメリア",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介",
+                "編曲": "加藤裕介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "初恋サンライズ",
+              "duration": "03:59",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "山田祐輔",
+                "編曲": "近藤圭一",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Just Try!",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "うるわしのカメリア",
+              "duration": "03:23",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介",
+                "編曲": "加藤裕介",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7274"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "初恋サンライズ",
+              "duration": "04:44",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "山田祐輔",
+                "出演": "つばきファクトリー"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/14fdc63faec43b102da5fd322ef2fc82bb727fc8.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "初恋サンライズ",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "山田祐輔",
+                "編曲": "近藤圭一",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Just Try!",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "うるわしのカメリア",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介",
+                "編曲": "加藤裕介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "初恋サンライズ",
+              "duration": "03:59",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "山田祐輔",
+                "編曲": "近藤圭一",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Just Try!",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "うるわしのカメリア",
+              "duration": "03:23",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介",
+                "編曲": "加藤裕介",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7276"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Just Try!",
+              "duration": "05:30",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "つばきファクトリー"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/9f37fd507bd66cb36d486562fdbc8f2d9b5ceeaf.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "初恋サンライズ",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "山田祐輔",
+                "編曲": "近藤圭一",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Just Try!",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "うるわしのカメリア",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介",
+                "編曲": "加藤裕介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "初恋サンライズ",
+              "duration": "03:59",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "山田祐輔",
+                "編曲": "近藤圭一",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Just Try!",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "うるわしのカメリア",
+              "duration": "03:23",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介",
+                "編曲": "加藤裕介",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7278"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "うるわしのカメリア",
+              "duration": "04:00",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介",
+                "出演": "つばきファクトリー"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/c37cae6c910317bfe87d63056993250eaaadbe3d.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "初恋サンライズ",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "山田祐輔",
+                "編曲": "近藤圭一",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Just Try!",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "うるわしのカメリア",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介",
+                "編曲": "加藤裕介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "初恋サンライズ",
+              "duration": "03:59",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "山田祐輔",
+                "編曲": "近藤圭一",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Just Try!",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "うるわしのカメリア",
+              "duration": "03:23",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介",
+                "編曲": "加藤裕介",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7280"
+        }
+      ],
+      "note": "トレーディングカードサイズ生写真9種+集合1種よりランダムにて1枚封入(初恋サンライズ Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/05854498cffe219077329fb35b874de6f2f71e8f.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "初恋サンライズ",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "山田祐輔",
+                "編曲": "近藤圭一",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Just Try!",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "うるわしのカメリア",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介",
+                "編曲": "加藤裕介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "初恋サンライズ",
+              "duration": "03:59",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "山田祐輔",
+                "編曲": "近藤圭一",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Just Try!",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "うるわしのカメリア",
+              "duration": "03:23",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介",
+                "編曲": "加藤裕介",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7281"
+        }
+      ],
+      "note": "トレーディングカードサイズ生写真9種+集合1種よりランダムにて1枚封入(Just Try! Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/upload/images/25d9e609215572313e95460cc5f91397c1ddeb8e.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "初恋サンライズ",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "山田祐輔",
+                "編曲": "近藤圭一",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Just Try!",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "うるわしのカメリア",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介",
+                "編曲": "加藤裕介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "初恋サンライズ",
+              "duration": "03:59",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "山田祐輔",
+                "編曲": "近藤圭一",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Just Try!",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "うるわしのカメリア",
+              "duration": "03:23",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介",
+                "編曲": "加藤裕介",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7282"
+        }
+      ],
+      "note": "トレーディングカードサイズ生写真9種+集合1種よりランダムにて1枚封入(うるわしのカメリア Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/upload/images/17e4f62dfd4cbe76a775b3e625b70898de84db18.webp",
+      "price": "￥1,980（税抜価格 ￥1,800）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "初恋サンライズ",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "山田祐輔",
+                "編曲": "近藤圭一",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Just Try!",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "うるわしのカメリア",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介",
+                "編曲": "加藤裕介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "初恋サンライズ",
+              "duration": "03:59",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "山田祐輔",
+                "編曲": "近藤圭一",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Just Try!",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "うるわしのカメリア",
+              "duration": "03:23",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介",
+                "編曲": "加藤裕介",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7304"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "初恋サンライズ",
+              "duration": "04:09",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "山田祐輔",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Just Try!",
+              "duration": "05:00",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "うるわしのカメリア",
+              "duration": "03:32",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介",
+                "出演": "つばきファクトリー"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    }
+  ]
+}

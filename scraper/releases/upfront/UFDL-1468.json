@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1468",
+  "url": "/release/detail/UFDL-1468/",
+  "source": "upfront",
+  "title": "SHAKA SHAKA TO LOVE",
+  "category": "配信",
+  "artist": "アンジュルム",
+  "releaseDate": "2020/12/24",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/19667109d578492d9f6686a58984bbf06e2895d3.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/19667109d578492d9f6686a58984bbf06e2895d3.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1468",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "SHAKA SHAKA TO LOVE",
+              "duration": "03:24",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

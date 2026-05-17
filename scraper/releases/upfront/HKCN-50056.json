@@ -1,0 +1,68 @@
+{
+  "code": "HKCN-50056",
+  "url": "/release/detail/HKCN-50056/",
+  "source": "upfront",
+  "title": "好いとうばい",
+  "category": "CDシングル",
+  "artist": "豚骨ピストンズ",
+  "releaseDate": "2007/11/21",
+  "label": "hachama",
+  "images": [
+    "/images/37a288260d111013b8cc71163a69c1c9a162f053.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/37a288260d111013b8cc71163a69c1c9a162f053.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50056",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "好いとうばい",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "山﨑徹",
+                "作曲": "山﨑徹",
+                "編曲": "豚骨ピストンズ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "メリクリアケオメ",
+              "duration": "05:31",
+              "credits": {
+                "作詞": "山﨑徹",
+                "作曲": "山﨑徹",
+                "編曲": "豚骨ピストンズ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "好いとうばい(Instrumental)",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "山﨑徹",
+                "作曲": "山﨑徹",
+                "編曲": "豚骨ピストンズ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "メリクリアケオメ(Instrumental)",
+              "duration": "05:31",
+              "credits": {
+                "作詞": "山﨑徹",
+                "作曲": "山﨑徹",
+                "編曲": "豚骨ピストンズ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

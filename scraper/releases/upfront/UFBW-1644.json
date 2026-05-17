@@ -1,0 +1,111 @@
+{
+  "code": "UFBW-1644",
+  "url": "/release/detail/UFBW-1644/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.64",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2020/02/12",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/ecef49b511d910c287b7b1021ae0f50e4bf4d9ef.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/ecef49b511d910c287b7b1021ae0f50e4bf4d9ef.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1644",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "哲学",
+              "duration": "07:55"
+            },
+            {
+              "index": 2,
+              "title": "チョコレート",
+              "duration": "11:08"
+            },
+            {
+              "index": 3,
+              "title": "元号",
+              "duration": "07:43"
+            },
+            {
+              "index": 4,
+              "title": "マンホール",
+              "duration": "09:43"
+            },
+            {
+              "index": 5,
+              "title": "みかん【スタジオライブ集】",
+              "duration": "06:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Y字路の途中【スタジオライブ集】",
+              "duration": "06:38",
+              "credits": {
+                "作詞": "大橋莉子",
+                "作曲": "大橋莉子"
+              }
+            },
+            {
+              "index": 7,
+              "title": "タデ食う虫もLike it!【スタジオライブ集】",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一"
+              }
+            },
+            {
+              "index": 8,
+              "title": "微炭酸【スタジオライブ集】",
+              "duration": "06:05",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ポツリと【スタジオライブ集】",
+              "duration": "05:41",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 10,
+              "title": "三回目のデート神話【スタジオライブ集】",
+              "duration": "06:37",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 11,
+              "title": "文化祭実行委員長の恋【スタジオライブ集】",
+              "duration": "07:21",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "code": "HKCN-50037",
+  "url": "/release/detail/HKCN-50037/",
+  "source": "upfront",
+  "title": "Thanks!",
+  "category": "CDシングル",
+  "artist": "GAM",
+  "releaseDate": "2006/09/13",
+  "label": "hachama",
+  "images": [
+    "/images/8d30380cb8e4d8924ad038f830875aab28271743.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/8d30380cb8e4d8924ad038f830875aab28271743.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50037",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Thanks!",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "西田昌史"
+              }
+            },
+            {
+              "index": 2,
+              "title": "蜃気楼ロマンス",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "橋本由香利"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Thanks!(Instrumental)",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "西田昌史"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

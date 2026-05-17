@@ -1,0 +1,58 @@
+{
+  "code": "UFBW-1148",
+  "url": "/release/detail/UFBW-1148/",
+  "source": "upfront",
+  "title": "ハロプロ！TIME Vol.6",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012/03/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/81bf915e94b7b983fcd4b0bba75da19e27a5e007.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/81bf915e94b7b983fcd4b0bba75da19e27a5e007.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1148",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "熊井TIME京都 抹茶スイーツ巡り日帰りの旅①",
+              "duration": "15:07"
+            },
+            {
+              "index": 2,
+              "title": "熊井TIME京都 抹茶スイーツ巡り日帰りの旅②",
+              "duration": "18:02"
+            },
+            {
+              "index": 3,
+              "title": "夏焼TIME「夏ダカラ！」MV撮影でメンバー撮り！",
+              "duration": "05:59"
+            },
+            {
+              "index": 4,
+              "title": "真野TIMEガールズトーク＆絶品！韓国料理を堪能",
+              "duration": "15:32"
+            },
+            {
+              "index": 5,
+              "title": "中島TIMEカーヴィーダンスでエクササイズ！",
+              "duration": "03:12"
+            },
+            {
+              "index": 6,
+              "title": "矢島TIME人気焼き肉店でメンバーと食べ放題！",
+              "duration": "14:26"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

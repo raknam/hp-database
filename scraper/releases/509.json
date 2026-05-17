@@ -1,0 +1,110 @@
+{
+  "id": 509,
+  "url": "/release/509/",
+  "title": "アロハロ！2 ℃-ute DVD",
+  "category": "DVD",
+  "artist": "℃-ute",
+  "releaseDate": "2012.7.11",
+  "label": "zetima",
+  "images": [
+    "/upload/images/00296286b21b3f6ddc0d97c0237582f9d11e66be.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "01:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Pancake",
+              "duration": "06:54",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Image in house",
+              "duration": "20:34",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Jump Contest",
+              "duration": "21:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Image at beach",
+              "duration": "20:06",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Battle",
+              "duration": "09:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Ranch",
+              "duration": "14:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Interview with image",
+              "duration": "11:16",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 9,
+              "title": "君は自転車 私は電車で帰宅",
+              "duration": "06:16",
+              "suffix": "Sunset Ver.",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5439"
+        }
+      ]
+    }
+  ]
+}

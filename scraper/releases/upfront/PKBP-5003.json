@@ -1,0 +1,53 @@
+{
+  "code": "PKBP-5003",
+  "url": "/release/detail/PKBP-5003/",
+  "source": "upfront",
+  "title": "シングルV「サン・トワ・マミー/君といつまで",
+  "category": "DVDシングルV",
+  "artist": "後藤真希",
+  "releaseDate": "2003/02/05",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/ae49df0be7799ce2f97c40c042ffaf5fc3033854.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/ae49df0be7799ce2f97c40c042ffaf5fc3033854.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "PKBP-5003",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "サン・トワ・マミー",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "岩谷時子",
+                "作曲": "サルバトーレ・アダモ",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "君といつまでも",
+              "duration": "03:26",
+              "credits": {
+                "作詞": "岩谷時子",
+                "作曲": "弾厚作",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像入り",
+              "duration": "03:47"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

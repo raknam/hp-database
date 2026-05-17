@@ -1,0 +1,56 @@
+{
+  "id": 2721,
+  "url": "/release/2721/",
+  "title": "シングルV「チョコレート魂」",
+  "category": "DVDシングルV",
+  "artist": "松浦亜弥",
+  "releaseDate": "2009.2.25",
+  "label": "zetima",
+  "images": [
+    "/upload/images/acd6ffbae3dd35c47fbd1bbdecb3f26a62623d57.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "チョコレート魂",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "山沢大洋",
+                "出演": "松浦亜弥"
+              }
+            },
+            {
+              "index": 2,
+              "title": "チョコレート魂",
+              "duration": "05:02",
+              "suffix": "(Sweet Ayaya Ver.)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "山沢大洋",
+                "出演": "松浦亜弥"
+              }
+            },
+            {
+              "index": 3,
+              "title": "PVメイキング映像",
+              "duration": "05:19",
+              "credits": {
+                "出演": "松浦亜弥"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5320"
+        }
+      ]
+    }
+  ]
+}

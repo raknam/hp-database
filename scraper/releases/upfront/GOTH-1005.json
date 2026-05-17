@@ -1,0 +1,68 @@
+{
+  "code": "GOTH-1005",
+  "url": "/release/detail/GOTH-1005/",
+  "source": "upfront",
+  "title": "ALICE",
+  "category": "CDミニアルバム",
+  "artist": "GaGaalinG",
+  "releaseDate": "2008/11/05",
+  "label": "GOTHUALL",
+  "images": [
+    "/images/79b437d172497772585e89477c59968e86abcbdc.jpg"
+  ],
+  "editions": [
+    {
+      "name": "DVD付",
+      "image": "/images/79b437d172497772585e89477c59968e86abcbdc.jpg",
+      "price": "￥1,980 (税抜価格 ￥1,800)",
+      "discs": [
+        {
+          "type": "CDミニアルバム",
+          "catalogNo": "GOTH-1005",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "CHANCE",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "GaGaalinG",
+                "作曲": "GaGaalinG",
+                "編曲": "GaGaalinG"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ALICE",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "GaGaalinG",
+                "作曲": "GaGaalinG",
+                "編曲": "GaGaalinG"
+              }
+            },
+            {
+              "index": 3,
+              "title": "こわれもの",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "GaGaalinG",
+                "作曲": "GaGaalinG",
+                "編曲": "GaGaalinG"
+              }
+            },
+            {
+              "index": 4,
+              "title": "DESTINY",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "GaGaalinG",
+                "作曲": "GaGaalinG",
+                "編曲": "GaGaalinG"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

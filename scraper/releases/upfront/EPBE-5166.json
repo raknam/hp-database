@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5166",
+  "url": "/release/detail/EPBE-5166/",
+  "source": "upfront",
+  "title": "シングルV「ずっと 好きでいいですか」",
+  "category": "DVDシングルV",
+  "artist": "松浦亜弥",
+  "releaseDate": "2005/03/02",
+  "label": "zetima",
+  "images": [
+    "/images/e8bbb9a48c8fe65f7a6071b8253e886b80fccb3b.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/e8bbb9a48c8fe65f7a6071b8253e886b80fccb3b.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5166",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ずっと 好きでいいですか",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "今井千尋"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ずっと 好きでいいですか(Another Edition)",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "今井千尋"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "08:02"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

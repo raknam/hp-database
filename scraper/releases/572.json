@@ -1,0 +1,109 @@
+{
+  "id": 572,
+  "url": "/release/572/",
+  "title": "浪漫 〜MY DEAR BOY〜",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2004.5.12",
+  "label": "zetima",
+  "images": [
+    "/upload/images/e6214dcea832f515c34e436e97db75b31302137f.webp",
+    "/upload/images/cd6a3bfccb7e4f7cddf878e14dcba7bdf9c1494a.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回盤】",
+      "image": "/upload/images/e6214dcea832f515c34e436e97db75b31302137f.webp",
+      "price": "定価 ￥1,320（税抜価格 ￥1,200）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "浪漫 〜MY DEAR BOY〜",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ファインエモーション！",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "浪漫 〜MY DEAR BOY〜",
+              "duration": "03:54",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5286"
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/cd6a3bfccb7e4f7cddf878e14dcba7bdf9c1494a.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "浪漫 〜MY DEAR BOY〜",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ファインエモーション！",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "浪漫 〜MY DEAR BOY〜",
+              "duration": "03:54",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5287"
+        }
+      ]
+    }
+  ]
+}

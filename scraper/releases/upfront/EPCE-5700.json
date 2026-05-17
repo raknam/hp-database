@@ -1,0 +1,211 @@
+{
+  "code": "EPCE-5700",
+  "url": "/release/detail/EPCE-5700/",
+  "source": "upfront",
+  "title": "カンチガイもハナハダしい私の人生",
+  "category": "CDアルバム",
+  "artist": "KAN",
+  "releaseDate": "2010/03/10",
+  "label": "zetima",
+  "images": [
+    "/images/7bf422526ba58fc2d8a34e25662e070e1c281672.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7bf422526ba58fc2d8a34e25662e070e1c281672.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5700",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "REGIKOSTAR ～レジ子スターの刺激～",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 2,
+              "title": "小学3年生",
+              "duration": "06:28",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ピーナッツ",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 4,
+              "title": "バイバイバイ (studio recording)",
+              "duration": "05:31",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 5,
+              "title": "青春の風",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ordinary days",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 7,
+              "title": "オー・ルヴォワール・パリ",
+              "duration": "06:07",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 8,
+              "title": "よければ一緒に (full size)",
+              "duration": "08:03",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 9,
+              "title": "予定どおりに偶然に (with ASKA)",
+              "duration": "06:51",
+              "credits": {
+                "作詞": "ASKAKAN",
+                "作曲": "ASKAKAN",
+                "編曲": "KAN"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5701",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "CHAPTER 01 2009.12.26 3:15pm",
+              "duration": "03:16"
+            },
+            {
+              "index": 2,
+              "title": "CHAPTER 02 2009.12.26 7:55pm",
+              "duration": "01:29"
+            },
+            {
+              "index": 3,
+              "title": "CHAPTER 03 2009.12.26 9:20pm",
+              "duration": "01:12"
+            },
+            {
+              "index": 4,
+              "title": "CHAPTER 04 2009.12.27 0:30pm",
+              "duration": "01:14"
+            },
+            {
+              "index": 5,
+              "title": "CHAPTER 05 2009.12.27 1:45pm",
+              "duration": "04:06"
+            },
+            {
+              "index": 6,
+              "title": "CHAPTER 06 2009.12.27 7:00pm",
+              "duration": "05:18"
+            },
+            {
+              "index": 7,
+              "title": "CHAPTER 07 2009.12.28 0:00am",
+              "duration": "02:40"
+            },
+            {
+              "index": 8,
+              "title": "CHAPTER 08 2009.12.28 3:15am",
+              "duration": "00:53"
+            },
+            {
+              "index": 9,
+              "title": "CHAPTER 09 2010.1.17 3:00pm",
+              "duration": "01:30"
+            },
+            {
+              "index": 10,
+              "title": "CHAPTER 10 2010.1.17 5:30pm",
+              "duration": "05:42"
+            },
+            {
+              "index": 11,
+              "title": "CHAPTER 11 2010.1.17 7:30pm",
+              "duration": "03:46"
+            },
+            {
+              "index": 12,
+              "title": "CHAPTER 12 2010.1.17 9:45pm",
+              "duration": "01:41"
+            },
+            {
+              "index": 13,
+              "title": "CHAPTER 13 2010.1.17 11:00pm",
+              "duration": "02:28"
+            },
+            {
+              "index": 14,
+              "title": "CHAPTER 14 2010.1.5 10:00am",
+              "duration": "03:54"
+            },
+            {
+              "index": 15,
+              "title": "CHAPTER 15 よければ一緒に studio live",
+              "duration": "08:09"
+            },
+            {
+              "index": 16,
+              "title": "CHAPTER 16 ENDING",
+              "duration": "01:09"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

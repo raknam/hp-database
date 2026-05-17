@@ -1,0 +1,96 @@
+{
+  "code": "EPCE-5241",
+  "url": "/release/detail/EPCE-5241/",
+  "source": "upfront",
+  "title": "ハロー！プロジェクト ラジオドラマ vol.1",
+  "category": "CDアルバム",
+  "artist": "V.A.",
+  "releaseDate": "2003/10/29",
+  "label": "zetima",
+  "images": [
+    "/images/7e917945e2e727a227812b02f6a3bb4b1b1eef57.jpg",
+    "/images/57d88303a371bb4122a2492d7119fd7411c420a5.jpg"
+  ],
+  "editions": [
+    {
+      "name": "初回盤",
+      "image": "/images/7e917945e2e727a227812b02f6a3bb4b1b1eef57.jpg",
+      "price": "￥3,080 (税抜価格 ￥2,800)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5241",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "なにもない街",
+              "duration": "21:41",
+              "credits": {
+                "作詞": "原作:長岡洋平",
+                "作曲": "脚本:楠野一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "たぬきと亀",
+              "duration": "24:19",
+              "credits": {
+                "作詞": "原作:八重樫知宏",
+                "作曲": "脚本:楠野一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "雨やどり",
+              "duration": "24:50",
+              "credits": {
+                "作詞": "原作:佐藤功",
+                "作曲": "脚本:楠野一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/images/57d88303a371bb4122a2492d7119fd7411c420a5.jpg",
+      "price": "￥1,980 (税抜価格 ￥1,800)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5242",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "なにもない街",
+              "duration": "21:41",
+              "credits": {
+                "作詞": "原作:長岡洋平",
+                "作曲": "脚本:楠野一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "たぬきと亀",
+              "duration": "24:19",
+              "credits": {
+                "作詞": "原作:八重樫知宏",
+                "作曲": "脚本:楠野一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "雨やどり",
+              "duration": "24:50",
+              "credits": {
+                "作詞": "原作:佐藤功",
+                "作曲": "脚本:楠野一郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

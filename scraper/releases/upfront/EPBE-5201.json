@@ -1,0 +1,60 @@
+{
+  "code": "EPBE-5201",
+  "url": "/release/detail/EPBE-5201/",
+  "source": "upfront",
+  "title": "シングルV「恋☆カナ」",
+  "category": "DVDシングルV",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "releaseDate": "2006/07/26",
+  "label": "zetima",
+  "images": [
+    "/images/d90bb9def9564e96ae5cfd2a7b96dd3d228074cb.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d90bb9def9564e96ae5cfd2a7b96dd3d228074cb.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5201",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋☆カナ",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "古屋真",
+                "作曲": "織田哲郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋☆カナ(アニメ Ver.)",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "古屋真",
+                "作曲": "織田哲郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋☆カナ(Dance Shot Ver.)",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "古屋真",
+                "作曲": "織田哲郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "メイキング映像",
+              "duration": "07:58"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

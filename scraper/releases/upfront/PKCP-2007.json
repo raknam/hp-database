@@ -1,0 +1,78 @@
+{
+  "code": "PKCP-2007",
+  "url": "/release/detail/PKCP-2007/",
+  "source": "upfront",
+  "title": "自由",
+  "category": "CDシングル",
+  "artist": "布施明",
+  "releaseDate": "2004/12/29",
+  "label": "ライスミュージック",
+  "images": [
+    "/images/bede1772eebf26aabbeacc0b075a718817d728ed.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/bede1772eebf26aabbeacc0b075a718817d728ed.jpg",
+      "price": "￥1,257 (税抜価格 ￥1,143)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-2007",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "自由",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "松山千春",
+                "作曲": "松山千春",
+                "編曲": "若草恵"
+              }
+            },
+            {
+              "index": 2,
+              "title": "君を守る",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "布施明",
+                "作曲": "布施明",
+                "編曲": "中島慶久"
+              }
+            },
+            {
+              "index": 3,
+              "title": "自由(オリジナル・カラオケ)",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "松山千春",
+                "作曲": "松山千春",
+                "編曲": "若草恵"
+              }
+            },
+            {
+              "index": 4,
+              "title": "君を守る(オリジナル・カラオケ)",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "布施明",
+                "作曲": "布施明",
+                "編曲": "中島慶久"
+              }
+            },
+            {
+              "index": 5,
+              "title": "自由(女性キー・カラオケ)",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "松山千春",
+                "作曲": "松山千春",
+                "編曲": "若草恵"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

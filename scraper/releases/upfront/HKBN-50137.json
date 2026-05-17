@@ -1,0 +1,58 @@
+{
+  "code": "HKBN-50137",
+  "url": "/release/detail/HKBN-50137/",
+  "source": "upfront",
+  "title": "夏海",
+  "category": "DVD",
+  "artist": "安倍なつみ",
+  "releaseDate": "2010/11/03",
+  "label": "hachama",
+  "images": [
+    "/images/451269f5bbdb690b79fbf76aa63e974e723f0d1a.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/451269f5bbdb690b79fbf76aa63e974e723f0d1a.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKBN-50137",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "06:59"
+            },
+            {
+              "index": 2,
+              "title": "ガーデン",
+              "duration": "05:06"
+            },
+            {
+              "index": 3,
+              "title": "海辺",
+              "duration": "09:26"
+            },
+            {
+              "index": 4,
+              "title": "インタビュー",
+              "duration": "10:38"
+            },
+            {
+              "index": 5,
+              "title": "Making of 『夏 美』",
+              "duration": "24:03"
+            },
+            {
+              "index": 6,
+              "title": "Endroll",
+              "duration": "02:53"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

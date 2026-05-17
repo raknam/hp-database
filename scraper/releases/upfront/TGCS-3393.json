@@ -1,0 +1,48 @@
+{
+  "code": "TGCS-3393",
+  "url": "/release/detail/TGCS-3393/",
+  "source": "upfront",
+  "title": "即 抱きしめて",
+  "category": "CDシングル",
+  "artist": "℃-ute",
+  "releaseDate": "2006/06/03",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/af5ea1017a7945e16bfe313a8ca8cd67c7697206.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/af5ea1017a7945e16bfe313a8ca8cd67c7697206.jpg",
+      "price": "￥838 (税抜価格 ￥762)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "TGCS-3393",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "即 抱きしめて",
+              "duration": "03:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "即 抱きしめて(Instrumental)",
+              "duration": "03:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

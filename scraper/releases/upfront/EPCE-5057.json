@@ -1,0 +1,66 @@
+{
+  "code": "EPCE-5057",
+  "url": "/release/detail/EPCE-5057/",
+  "source": "upfront",
+  "title": "今夜だけきっと/ナチュラル〜抱きしめてこのままで〜",
+  "category": "CDシングル",
+  "artist": "スタ－ダスト☆レビュー / スタ－ダスト☆レビュー with 翔子",
+  "releaseDate": "2000/05/17",
+  "label": "zetima",
+  "images": [
+    "/images/nowprinting.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/nowprinting.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5057",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "今夜だけきっと",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "根本要/手島昭",
+                "作曲": "根本要"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ナチュラル〜抱きしめてこのままで〜",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "まこと/つんく",
+                "作曲": "根本要",
+                "編曲": "光田健一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "今夜だけきっと(Instrumental)",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "根本要/手島昭",
+                "作曲": "根本要"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ナチュラル〜抱きしめてこのままで〜(Instrumental)",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "まこと/つんく",
+                "作曲": "根本要",
+                "編曲": "光田健一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

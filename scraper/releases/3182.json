@@ -1,0 +1,139 @@
+{
+  "id": 3182,
+  "url": "/release/3182/",
+  "title": "アロハロ！紺野あさ美DVD",
+  "category": "DVD",
+  "artist": "紺野あさ美",
+  "releaseDate": "2006.4.12",
+  "label": "zetima",
+  "images": [
+    "/upload/images/4bd518dfc0f2ebeada48e6975d5892b275e0c768.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "00:22",
+              "credits": {
+                "出演": "紺野あさ美"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Eggs'n Things",
+              "duration": "05:19",
+              "credits": {
+                "出演": "紺野あさ美"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Shopping",
+              "duration": "11:59",
+              "credits": {
+                "出演": "紺野あさ美"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Zoo",
+              "duration": "08:21",
+              "credits": {
+                "出演": "紺野あさ美"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Park",
+              "duration": "00:00",
+              "credits": {
+                "出演": "紺野あさ美"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Room",
+              "duration": "03:42",
+              "credits": {
+                "出演": "紺野あさ美"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Beach",
+              "duration": "03:19",
+              "credits": {
+                "出演": "紺野あさ美"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Lunch",
+              "duration": "02:16",
+              "credits": {
+                "出演": "紺野あさ美"
+              }
+            },
+            {
+              "index": 9,
+              "title": "Poolside",
+              "duration": "04:47",
+              "credits": {
+                "出演": "紺野あさ美"
+              }
+            },
+            {
+              "index": 10,
+              "title": "Bumper Tube",
+              "duration": "03:28",
+              "credits": {
+                "出演": "紺野あさ美"
+              }
+            },
+            {
+              "index": 11,
+              "title": "Wake Board",
+              "duration": "03:03",
+              "credits": {
+                "出演": "紺野あさ美"
+              }
+            },
+            {
+              "index": 12,
+              "title": "Sunset",
+              "duration": "06:33",
+              "credits": {
+                "出演": "紺野あさ美"
+              }
+            },
+            {
+              "index": 13,
+              "title": "Making",
+              "duration": "05:01",
+              "credits": {
+                "出演": "紺野あさ美"
+              }
+            },
+            {
+              "index": 14,
+              "title": "Self Shoot",
+              "duration": "03:31",
+              "credits": {
+                "出演": "紺野あさ美"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5196"
+        }
+      ]
+    }
+  ]
+}

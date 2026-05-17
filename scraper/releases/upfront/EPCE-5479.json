@@ -1,0 +1,128 @@
+{
+  "code": "EPCE-5479",
+  "url": "/release/detail/EPCE-5479/",
+  "source": "upfront",
+  "title": "MAKE OVER",
+  "category": "CDアルバム",
+  "artist": "MAKE",
+  "releaseDate": "2007/06/06",
+  "label": "zetima",
+  "images": [
+    "/images/6a42a6a551a66fae0eb428f575cca5d2212b398c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/6a42a6a551a66fae0eb428f575cca5d2212b398c.jpg",
+      "price": "￥3,080 (税抜価格 ￥2,800)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5479",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ブルーライトヨコハマ",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "橋本淳",
+                "作曲": "筒美京平",
+                "編曲": "KenRangkuty"
+              }
+            },
+            {
+              "index": 2,
+              "title": "小指の思い出",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "有馬三恵子",
+                "作曲": "鈴木淳",
+                "編曲": "KenRangkuty"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ただいとしい",
+              "duration": "05:22",
+              "credits": {
+                "作詞": "阿久悠",
+                "作曲": "喜多嶋修",
+                "編曲": "KenRangkuty"
+              }
+            },
+            {
+              "index": 4,
+              "title": "コーヒー・ルンバ",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "JOSEMANZOPERRONI/訳詞:中沢清二",
+                "作曲": "JOSEMANZOPERRONI",
+                "編曲": "KenRangkuty"
+              }
+            },
+            {
+              "index": 5,
+              "title": "蘇州夜曲",
+              "duration": "04:51",
+              "credits": {
+                "作詞": "西條八十",
+                "作曲": "服部良一",
+                "編曲": "KenRangkuty"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ゆうべの秘密",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "タマイチコ",
+                "作曲": "中洲朗",
+                "編曲": "KenRangkuty"
+              }
+            },
+            {
+              "index": 7,
+              "title": "サン・トワ・マミー",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "SALVATOREADAMO/訳詞:岩谷時子",
+                "作曲": "SALVATOREADAMO",
+                "編曲": "KenRangkuty"
+              }
+            },
+            {
+              "index": 8,
+              "title": "あなたはワルね",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "阿久悠",
+                "作曲": "喜多嶋修",
+                "編曲": "KenRangkuty"
+              }
+            },
+            {
+              "index": 9,
+              "title": "わたしの城下町",
+              "duration": "03:33",
+              "credits": {
+                "作詞": "安井かずみ",
+                "作曲": "平尾昌晃",
+                "編曲": "KenRangkuty"
+              }
+            },
+            {
+              "index": 10,
+              "title": "何日君再来",
+              "duration": "05:19",
+              "credits": {
+                "作詞": "LINBEI・XUEANLIU/訳詞:長田恒雄",
+                "作曲": "LINBEI・XUEANLIU",
+                "編曲": "KenRangkuty"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

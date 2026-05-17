@@ -1,0 +1,51 @@
+{
+  "code": "PKBP-5020",
+  "url": "/release/detail/PKBP-5020/",
+  "source": "upfront",
+  "title": "シングルV「横浜蜃気楼」",
+  "category": "DVDシングルV",
+  "artist": "後藤真希",
+  "releaseDate": "2004/07/07",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/468039c0694e44cc55667b49a149ef62fb24b1dc.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/468039c0694e44cc55667b49a149ef62fb24b1dc.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "PKBP-5020",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "横浜蜃気楼",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "はたけ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "横浜蜃気楼(Close-up Ver.)",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "はたけ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "06:08"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

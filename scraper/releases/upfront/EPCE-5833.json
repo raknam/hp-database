@@ -1,0 +1,87 @@
+{
+  "code": "EPCE-5833",
+  "url": "/release/detail/EPCE-5833/",
+  "source": "upfront",
+  "title": "初恋サイダー/DEEP MIND",
+  "category": "CDシングル",
+  "artist": "Buono!",
+  "releaseDate": "2012/01/18",
+  "label": "zetima",
+  "images": [
+    "/images/9940228b19addef1f853640c0d2e2192d7e58d0f.jpg",
+    "/images/63025e6271f02ea5fbbcf2aaeaa08d927a337ad1.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/9940228b19addef1f853640c0d2e2192d7e58d0f.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5833",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "初恋サイダー",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "しほり",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "DEEP MIND",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "おのりく",
+                "作曲": "AKIRASTAR",
+                "編曲": "AKIRASTAR"
+              }
+            },
+            {
+              "index": 3,
+              "title": "初恋サイダー(Instrumental)",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "しほり",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "DEEP MIND(Instrumental)",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "おのりく",
+                "作曲": "AKIRASTAR",
+                "編曲": "AKIRASTAR"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/63025e6271f02ea5fbbcf2aaeaa08d927a337ad1.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5835",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "初恋サイダー(Close-up BUONO! Ver.)",
+              "duration": "03:46"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 2084,
+  "url": "/release/2084/",
+  "title": "ハロプロ！TIME Vol.20",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012.11.9",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/8715893a33f29c76cacaa31d0acd64cf0125d464.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夏焼TIME",
+              "duration": "21:24",
+              "suffix": "東京下町デート①",
+              "credits": {
+                "出演": "須藤茉麻・夏焼雅(Berryz工房)/岡井千聖(℃-ute)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "夏焼TIME",
+              "duration": "16:08",
+              "suffix": "東京下町デート②",
+              "credits": {
+                "出演": "須藤茉麻・夏焼雅(Berryz工房)/岡井千聖(℃-ute)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "℃-uteTIME",
+              "duration": "04:53",
+              "suffix": "超ハイテンションのハワイファンクラブツアー",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "清水TIME",
+              "duration": "16:08",
+              "suffix": "物件巡りで憧れの一人暮らし実現！？①",
+              "credits": {
+                "出演": "清水佐紀・徳永千奈美(Berryz工房)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "清水TIME",
+              "duration": "12:21",
+              "suffix": "物件巡りで憧れの一人暮らし実現！？②",
+              "credits": {
+                "出演": "清水佐紀・徳永千奈美(Berryz工房)"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1194"
+        }
+      ]
+    }
+  ]
+}

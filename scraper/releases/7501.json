@@ -1,0 +1,38 @@
+{
+  "id": 7501,
+  "url": "/release/7501/",
+  "title": "シークレットサマー",
+  "category": "配信",
+  "artist": "つばきファクトリー",
+  "releaseDate": "2025.7.20",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/127a00bd3402c85aa29596bd1bd412db71f3d85f.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "シークレットサマー",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "渡辺和紀",
+                "編曲": "渡辺和紀",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1561"
+        }
+      ]
+    }
+  ]
+}

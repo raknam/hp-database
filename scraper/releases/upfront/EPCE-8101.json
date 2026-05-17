@@ -1,0 +1,75 @@
+{
+  "code": "EPCE-8101",
+  "url": "/release/detail/EPCE-8101/",
+  "source": "upfront",
+  "title": "ダントツで愛して/タイトル未定(曲順未定)",
+  "category": "CDシングル",
+  "artist": "OCHA NORMA",
+  "releaseDate": "2026/07/08",
+  "label": "zetima",
+  "images": [
+    "/images/nowprinting.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/nowprinting.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-8101",
+          "tracks": []
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": null,
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-8103",
+          "tracks": []
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": null,
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-8105",
+          "tracks": []
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": null,
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-8107",
+          "tracks": []
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": null,
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-8108",
+          "tracks": []
+        }
+      ]
+    }
+  ]
+}

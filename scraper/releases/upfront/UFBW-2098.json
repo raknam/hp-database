@@ -1,0 +1,58 @@
+{
+  "code": "UFBW-2098",
+  "url": "/release/detail/UFBW-2098/",
+  "source": "upfront",
+  "title": "Greeting 〜宮本佳林〜",
+  "category": "DVD",
+  "artist": "宮本佳林",
+  "releaseDate": "2014/03/03",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/bb7eb6397bc2d88fe73e86d3bdef182b46e8929b.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/bb7eb6397bc2d88fe73e86d3bdef182b46e8929b.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2098",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Cold Morning",
+              "duration": "13:27"
+            },
+            {
+              "index": 2,
+              "title": "Warm Living Room",
+              "duration": "11:20"
+            },
+            {
+              "index": 3,
+              "title": "My Garden",
+              "duration": "06:04"
+            },
+            {
+              "index": 4,
+              "title": "Interview with Karin Miyamoto",
+              "duration": "12:00"
+            },
+            {
+              "index": 5,
+              "title": "Time Goes On",
+              "duration": "06:56"
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "00:51"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

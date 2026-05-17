@@ -1,0 +1,39 @@
+{
+  "id": 6285,
+  "url": "/release/6285/",
+  "title": "君だけじゃないさ...friends(アコースティックVer.)",
+  "category": "配信",
+  "artist": "室田瑞希",
+  "releaseDate": "2020.3.23",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/f16f4c00fe5fbe30097c1d7fd945b097f7985764.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "君だけじゃないさ...friends",
+              "duration": "03:46",
+              "suffix": "(アコースティックVer.)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "室田瑞希(アンジュルム)"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1455"
+        }
+      ]
+    }
+  ]
+}

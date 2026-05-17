@@ -1,0 +1,73 @@
+{
+  "id": 2836,
+  "url": "/release/2836/",
+  "title": "元気のない日の子守唄/長良川の晴れ",
+  "category": "CDシングル",
+  "artist": "中澤裕子",
+  "releaseDate": "2004.2.11",
+  "label": "zetima",
+  "images": [
+    "/upload/images/a2211d42c0b05df9010efdb94c6a761a0bd0795b.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "元気のない日の子守唄",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "上田紅葉",
+                "作曲": "川口真",
+                "編曲": "高橋諭一",
+                "歌": "中澤裕子"
+              }
+            },
+            {
+              "index": 2,
+              "title": "長良川の晴れ",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄",
+                "歌": "中澤裕子"
+              }
+            },
+            {
+              "index": 3,
+              "title": "元気のない日の子守唄",
+              "duration": "04:34",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "上田紅葉",
+                "作曲": "川口真",
+                "編曲": "高橋諭一",
+                "歌": "中澤裕子"
+              }
+            },
+            {
+              "index": 4,
+              "title": "長良川の晴れ",
+              "duration": "04:56",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄",
+                "歌": "中澤裕子"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5264"
+        }
+      ]
+    }
+  ]
+}

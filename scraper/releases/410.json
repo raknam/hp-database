@@ -1,0 +1,52 @@
+{
+  "id": 410,
+  "url": "/release/410/",
+  "title": "シングルV「C＼C(シンデレラ＼コンプレックス)」",
+  "category": "DVDシングルV",
+  "artist": "High-King",
+  "releaseDate": "2008.6.25",
+  "label": "zetima",
+  "images": [
+    "/upload/images/c9002c1435ac0be6e4c5ea5cb2c97ceeb5ab34ac.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "C＼C(シンデレラ＼コンプレックス)",
+              "duration": "00:00",
+              "credits": {
+                "出演": "High-King"
+              }
+            },
+            {
+              "index": 2,
+              "title": "C＼C(シンデレラ＼コンプレックス)",
+              "duration": "00:00",
+              "suffix": "Close-up Ver.",
+              "credits": {
+                "出演": "High-King"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "00:00",
+              "credits": {
+                "出演": "High-King"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5294"
+        }
+      ]
+    }
+  ]
+}

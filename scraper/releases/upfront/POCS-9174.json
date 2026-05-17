@@ -1,0 +1,169 @@
+{
+  "code": "POCS-9174",
+  "url": "/release/detail/POCS-9174/",
+  "source": "upfront",
+  "title": "DISTORTION / ときめいたのにスルー",
+  "category": "CDシングル",
+  "artist": "吉川友",
+  "releaseDate": "2018/01/17",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/99945b5127e83ec90f416ce7e9ac48f9cf342f09.jpg",
+    "/images/74bafff4cb88e8cb1683ee0660cf341b357e666e.jpg",
+    "/images/49e000ae3cf502ed171bbc1e0d8ad2ec514e779a.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/99945b5127e83ec90f416ce7e9ac48f9cf342f09.jpg",
+      "price": "￥2,444 (税抜価格 ￥2,222)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "POCS-9174",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "DISTORTION",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "理姫",
+                "作曲": "奥脇達也",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ときめいたのにスルー",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "編曲": "サクライケンタ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "DISTORTION(Instrumental)",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "理姫",
+                "作曲": "奥脇達也",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ときめいたのにスルー(Instrumental)",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "編曲": "サクライケンタ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/74bafff4cb88e8cb1683ee0660cf341b357e666e.jpg",
+      "price": "￥1,324 (税抜価格 ￥1,204)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "POCS-9175",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "DISTORTION(Music Video)",
+              "duration": "05:05",
+              "credits": {
+                "作詞": "理姫",
+                "作曲": "奥脇達也"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ときめいたのにスルー(Music Video)",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "10:09"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/49e000ae3cf502ed171bbc1e0d8ad2ec514e779a.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "POCS-1668",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "DISTORTION",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "理姫",
+                "作曲": "奥脇達也",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ときめいたのにスルー",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "編曲": "サクライケンタ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "華麗なる大変身",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "かずぼーい"
+              }
+            },
+            {
+              "index": 4,
+              "title": "DISTORTION(Instrumental)",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "理姫",
+                "作曲": "奥脇達也",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ときめいたのにスルー(Instrumental)",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "編曲": "サクライケンタ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

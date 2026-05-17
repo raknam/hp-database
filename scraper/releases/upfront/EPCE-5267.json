@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-5267",
+  "url": "/release/detail/EPCE-5267/",
+  "source": "upfront",
+  "title": "さくら満開",
+  "category": "CDシングル",
+  "artist": "モーニング娘。さくら組",
+  "releaseDate": "2004/02/25",
+  "label": "zetima",
+  "images": [
+    "/images/4d5be78b43766c224f29241511106f93b8ebed0e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/4d5be78b43766c224f29241511106f93b8ebed0e.jpg",
+      "price": "￥1,430 (税抜価格 ￥1,300)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5267",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "さくら満開",
+              "duration": "06:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Say Yeah!-もっとミラクルナイト-(モーニング娘。さくら組Version)",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "守尾 崇"
+              }
+            },
+            {
+              "index": 3,
+              "title": "抱いて HOLD ON ME!(モーニング娘。さくら組Version)",
+              "duration": "02:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 4,
+              "title": "さくら満開(Instrumental)",
+              "duration": "06:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

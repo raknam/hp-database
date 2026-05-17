@@ -1,0 +1,38 @@
+{
+  "id": 3328,
+  "url": "/release/3328/",
+  "title": "ザ・ビデオ ちょこっとLOVE",
+  "category": "VHS",
+  "artist": "プッチモニ",
+  "releaseDate": "2000.1.19",
+  "label": "zetima",
+  "images": [
+    "/upload/images/a31214826c49b2ed4285ee2bde70ccfa06c4218d.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "VHS",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ちょこっとLOVE",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "松原憲",
+                "歌": "プッチモニ"
+              }
+            }
+          ],
+          "catalogNo": "EPVE-5006"
+        }
+      ]
+    }
+  ]
+}

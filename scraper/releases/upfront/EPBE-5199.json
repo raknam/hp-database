@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5199",
+  "url": "/release/detail/EPBE-5199/",
+  "source": "upfront",
+  "title": "シングルV｢Ambitious！野心的でいいじゃん｣",
+  "category": "DVDシングルV",
+  "artist": "モーニング娘。",
+  "releaseDate": "2006/06/28",
+  "label": "zetima",
+  "images": [
+    "/images/2954db4271c46d53b2e81870d749b3aeb879e2bd.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/2954db4271c46d53b2e81870d749b3aeb879e2bd.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5199",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Ambitious！野心的でいいじゃん",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Ambitious！野心的でいいじゃん(Dance Shot Ver.)",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "12:59"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

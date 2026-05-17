@@ -1,0 +1,78 @@
+{
+  "code": "PKCP-2067",
+  "url": "/release/detail/PKCP-2067/",
+  "source": "upfront",
+  "title": "お嬢様ルンバ(DVD付)",
+  "category": "CDシングル",
+  "artist": "加川明",
+  "releaseDate": "2011/01/26",
+  "label": "ライスミュージック",
+  "images": [
+    "/images/fdf794c9d9f08ade0991446fad736d90210300ae.jpg"
+  ],
+  "editions": [
+    {
+      "name": "DVD付き",
+      "image": "/images/fdf794c9d9f08ade0991446fad736d90210300ae.jpg",
+      "price": "￥1,572 (税抜価格 ￥1,429)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-2067",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "お嬢様ルンバ",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "上田紅葉",
+                "作曲": "馬飼野康二",
+                "編曲": "馬飼野康二"
+              }
+            },
+            {
+              "index": 2,
+              "title": "町内のしきりババア",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "加川明",
+                "作曲": "加川明",
+                "編曲": "馬飼野康二"
+              }
+            },
+            {
+              "index": 3,
+              "title": "お嬢様ルンバ(オリジナル・カラオケ)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "上田紅葉",
+                "作曲": "馬飼野康二",
+                "編曲": "馬飼野康二"
+              }
+            },
+            {
+              "index": 4,
+              "title": "お嬢様ルンバ(セリフ入りカラオケ)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "上田紅葉",
+                "作曲": "馬飼野康二",
+                "編曲": "馬飼野康二"
+              }
+            },
+            {
+              "index": 5,
+              "title": "町内のしきりババア(オリジナル・カラオケ)",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "加川明",
+                "作曲": "加川明",
+                "編曲": "馬飼野康二"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

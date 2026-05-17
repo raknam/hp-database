@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-5078",
+  "url": "/release/detail/EPCE-5078/",
+  "source": "upfront",
+  "title": "ミニモニ。ジャンケンぴょん！/春夏秋冬だいすっき！",
+  "category": "CDシングル",
+  "artist": "ミニモニ｡",
+  "releaseDate": "2001/01/17",
+  "label": "zetima",
+  "images": [
+    "/images/209d841693b78ec039b8f89e787f0d77f27e0dae.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/209d841693b78ec039b8f89e787f0d77f27e0dae.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5078",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ミニモニ。ジャンケンぴょん！",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 2,
+              "title": "春夏秋冬だいすっき！",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "永井ルイ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ミニモニ。ジャンケンぴょん！(オリジナル・カラオケ)",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 4,
+              "title": "春夏秋冬だいすっき！(オリジナル・カラオケ)",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "永井ルイ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

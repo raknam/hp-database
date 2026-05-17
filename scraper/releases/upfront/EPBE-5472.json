@@ -1,0 +1,63 @@
+{
+  "code": "EPBE-5472",
+  "url": "/release/detail/EPBE-5472/",
+  "source": "upfront",
+  "title": "私のKeyを知ってますか",
+  "category": "DVD",
+  "artist": "鈴木愛理",
+  "releaseDate": "2013/09/25",
+  "label": "zetima",
+  "images": [
+    "/images/0db035cd70e205af6aabd55ef85f611925ad005c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/0db035cd70e205af6aabd55ef85f611925ad005c.jpg",
+      "price": "￥4,400 (税抜価格 ￥4,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5472",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Far From Home",
+              "duration": "01:01"
+            },
+            {
+              "index": 2,
+              "title": "Sound of Wood",
+              "duration": "04:35"
+            },
+            {
+              "index": 3,
+              "title": "Wind and Ocean",
+              "duration": "11:03"
+            },
+            {
+              "index": 4,
+              "title": "Town with Hill",
+              "duration": "09:06"
+            },
+            {
+              "index": 5,
+              "title": "Till the day come back",
+              "duration": "00:54"
+            },
+            {
+              "index": 6,
+              "title": "Making of 「泳がない夏」",
+              "duration": "28:44"
+            },
+            {
+              "index": 7,
+              "title": "Endroll",
+              "duration": "01:17"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

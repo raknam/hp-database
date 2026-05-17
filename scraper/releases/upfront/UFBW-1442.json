@@ -1,0 +1,38 @@
+{
+  "code": "UFBW-1442",
+  "url": "/release/detail/UFBW-1442/",
+  "source": "upfront",
+  "title": "道重カメラ 特別編",
+  "category": "DVD",
+  "artist": "モーニング娘。'14",
+  "releaseDate": "2015/04/25",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/d0ec54ce3b615d609d6ecd18c71d106ea33fdba9.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d0ec54ce3b615d609d6ecd18c71d106ea33fdba9.jpg",
+      "price": "￥3,565 (税抜価格 ￥3,241)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1442",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "道重カメラ",
+              "duration": "44:49"
+            },
+            {
+              "index": 2,
+              "title": "道重カメラ未公開 特典映像",
+              "duration": "59:36"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

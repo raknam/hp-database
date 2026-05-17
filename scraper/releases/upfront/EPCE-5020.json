@@ -1,0 +1,78 @@
+{
+  "code": "EPCE-5020",
+  "url": "/release/detail/EPCE-5020/",
+  "source": "upfront",
+  "title": "LOVE～抱き合って～ / LOVE～since 1999～",
+  "category": "CDシングル",
+  "artist": "つんくwith7HOUSE",
+  "releaseDate": "1999/04/28",
+  "label": "zetima",
+  "images": [
+    "/images/37d01003c48eb5758e7b959d0939362f7cdfb811.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/37d01003c48eb5758e7b959d0939362f7cdfb811.jpg",
+      "price": "￥1,282 (税抜価格 ￥1,165)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5020",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "LOVE～抱き合って～フジTV系ドラマ｢セミダブル｣サブテーマ",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "松原憲"
+              }
+            },
+            {
+              "index": 2,
+              "title": "LOVE～since 1999～フジTV系ドラマ｢セミダブル｣主題歌",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 3,
+              "title": "LOVE～抱き合って～(AcousticVersion)フジTV系ドラマ｢セミダブル｣サブテーマ",
+              "duration": "05:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 4,
+              "title": "LOVE～抱き合って～(Instrumental)",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "松原憲"
+              }
+            },
+            {
+              "index": 5,
+              "title": "LOVE～since 1999～(Instrumental)",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

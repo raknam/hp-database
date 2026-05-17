@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5219",
+  "url": "/release/detail/EPCE-5219/",
+  "source": "upfront",
+  "title": "浮気なハニーパイ",
+  "category": "CDシングル",
+  "artist": "カントリー娘｡に紺野と藤本(モーニング娘｡)",
+  "releaseDate": "2003/07/24",
+  "label": "zetima",
+  "images": [
+    "/images/e9e1a5fa6a7c051646f498fe805cd3974d9f72bc.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/e9e1a5fa6a7c051646f498fe805cd3974d9f72bc.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5219",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "浮気なハニーパイ",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "守尾崇"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋がステキな季節(2003Version)",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "浮気なハニーパイ(Instrumental)",
+              "duration": "03:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "守尾崇"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

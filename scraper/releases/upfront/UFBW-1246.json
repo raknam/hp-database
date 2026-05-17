@@ -1,0 +1,65 @@
+{
+  "code": "UFBW-1246",
+  "url": "/release/detail/UFBW-1246/",
+  "source": "upfront",
+  "title": "ハロー!SATOYAMAライフ Vol.8",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2013/06/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/68ee0a1e3459e65b9463e54b8d6dbd07ddd18263.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/68ee0a1e3459e65b9463e54b8d6dbd07ddd18263.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1246",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ウッドデッキ作りにチャレンジ 1日目",
+              "duration": "30:21"
+            },
+            {
+              "index": 2,
+              "title": "ウッドデッキ作りにチャレンジ 2日目",
+              "duration": "19:14"
+            },
+            {
+              "index": 3,
+              "title": "モーニング娘。「ワクテカ Take a chance」MV撮影に密着",
+              "duration": "15:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ピーベリー「キャベツ白書」MV撮影に密着",
+              "duration": "08:01",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "角田崇徳/Wolfgang Amadeus Mozart(PD)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "DIY♡・「フォレフォレ 〜Forest For Rest〜」MV撮影現場に密着",
+              "duration": "07:06",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "MEG.ME"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

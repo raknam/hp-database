@@ -1,0 +1,109 @@
+{
+  "id": 2735,
+  "url": "/release/2735/",
+  "title": "ね〜え？",
+  "category": "CDシングル",
+  "artist": "松浦亜弥",
+  "releaseDate": "2003.3.12",
+  "label": "zetima",
+  "images": [
+    "/upload/images/8ce60927e1ad6cc9c8e052739bce92b6a75d31ab.webp",
+    "/upload/images/4e38021fb84f0417d556d356dbdb9582811c6b94.webp"
+  ],
+  "editions": [
+    {
+      "name": "初回盤",
+      "image": "/upload/images/8ce60927e1ad6cc9c8e052739bce92b6a75d31ab.webp",
+      "price": "定価 ￥1,320（税抜価格 ￥1,200）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ね〜え？",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西康陽",
+                "歌": "松浦亜弥"
+              }
+            },
+            {
+              "index": 2,
+              "title": "女の友情問題",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "松浦亜弥"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ね〜え？",
+              "duration": "03:28",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西康陽",
+                "歌": "松浦亜弥"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5203"
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/upload/images/4e38021fb84f0417d556d356dbdb9582811c6b94.webp",
+      "price": "定価 ￥1,068（税抜価格 ￥971）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ね〜え？",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西康陽",
+                "歌": "松浦亜弥"
+              }
+            },
+            {
+              "index": 2,
+              "title": "女の友情問題",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "松浦亜弥"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ね〜え？",
+              "duration": "03:28",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西康陽",
+                "歌": "松浦亜弥"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5204"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5149",
+  "url": "/release/detail/EPBE-5149/",
+  "source": "upfront",
+  "title": "シングルV「涙が止まらない放課後」",
+  "category": "DVDシングルV",
+  "artist": "モーニング娘。",
+  "releaseDate": "2004/11/03",
+  "label": "zetima",
+  "images": [
+    "/images/b142e66dd27e51c31f7bbc4051a62ddafb4a8ad5.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/b142e66dd27e51c31f7bbc4051a62ddafb4a8ad5.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5149",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "涙が止まらない放課後",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "涙が止まらない放課後(ゆれる放課後 Ver.)",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "15:02"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

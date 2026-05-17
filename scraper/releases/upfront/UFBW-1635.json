@@ -1,0 +1,107 @@
+{
+  "code": "UFBW-1635",
+  "url": "/release/detail/UFBW-1635/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.59",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2019/09/11",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/7fb903e166802ce6464b48d940ddf561423a5181.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7fb903e166802ce6464b48d940ddf561423a5181.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1635",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "職業体験～水族館～",
+              "duration": "11:40"
+            },
+            {
+              "index": 2,
+              "title": "盲導犬",
+              "duration": "09:31"
+            },
+            {
+              "index": 3,
+              "title": "職業体験～樹木医～",
+              "duration": "07:46"
+            },
+            {
+              "index": 4,
+              "title": "暑さ対策",
+              "duration": "11:51"
+            },
+            {
+              "index": 5,
+              "title": "スマホ写真テクニック",
+              "duration": "11:32"
+            },
+            {
+              "index": 6,
+              "title": "有頂天LOVE【スタジオライブ集】",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 7,
+              "title": "泣けないぜ・・・共感詐欺【スタジオライブ集】",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい"
+              }
+            },
+            {
+              "index": 8,
+              "title": "未来へ、さあ走り出せ！【スタジオライブ集】",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "KOJI oba"
+              }
+            },
+            {
+              "index": 9,
+              "title": "書いては消しての “I Love You”【スタジオライブ集】",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一"
+              }
+            },
+            {
+              "index": 10,
+              "title": "小生意気ガール【スタジオライブ集】",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "ジンツチハシ"
+              }
+            },
+            {
+              "index": 11,
+              "title": "急がば回れ【スタジオライブ集】",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "イイジマケン/炭竃智弘"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

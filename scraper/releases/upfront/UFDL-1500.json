@@ -1,0 +1,78 @@
+{
+  "code": "UFDL-1500",
+  "url": "/release/detail/UFDL-1500/",
+  "source": "upfront",
+  "title": "なんてったって I Love You/ハウリング(Special Edition)",
+  "category": "配信",
+  "artist": "宮本佳林",
+  "releaseDate": "2022/06/22",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/99bf26e894842278e81ac4737d7ecfc79f206d58.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/99bf26e894842278e81ac4737d7ecfc79f206d58.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1500",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "なんてったって I Love You",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "武田将弥",
+                "編曲": "椿山日南子"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ハウリング",
+              "duration": "03:25",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "上田起士",
+                "編曲": "ArmySlick"
+              }
+            },
+            {
+              "index": 3,
+              "title": "少女K",
+              "duration": "03:08",
+              "credits": {
+                "作詞": "桑原静香",
+                "作曲": "宮崎歩",
+                "編曲": "宮崎歩"
+              }
+            },
+            {
+              "index": 4,
+              "title": "どうして僕らにはやる気がないのか(2019)",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "永井葉子",
+                "作曲": "田仲圭太",
+                "編曲": "SCRAMBLES"
+              }
+            },
+            {
+              "index": 5,
+              "title": "氷点下(2019)",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "浜田ピエール裕介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

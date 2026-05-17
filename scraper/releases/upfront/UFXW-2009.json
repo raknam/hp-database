@@ -1,0 +1,48 @@
+{
+  "code": "UFXW-2009",
+  "url": "/release/detail/UFXW-2009/",
+  "source": "upfront",
+  "title": "Greeting〜高木紗友希〜",
+  "category": "BD",
+  "artist": "高木紗友希",
+  "releaseDate": "2015/12/19",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/b1e770e71d99548f8dea2a761ba30a1e35737ecd.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/b1e770e71d99548f8dea2a761ba30a1e35737ecd.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "UFXW-2009",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Favorite place",
+              "duration": "13:55"
+            },
+            {
+              "index": 2,
+              "title": "Dance & Interview with SAYUKI TAKAGI",
+              "duration": "21:13"
+            },
+            {
+              "index": 3,
+              "title": "Sunset beach",
+              "duration": "13:36"
+            },
+            {
+              "index": 4,
+              "title": "Ending",
+              "duration": "00:40"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

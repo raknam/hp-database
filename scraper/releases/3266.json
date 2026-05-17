@@ -1,0 +1,75 @@
+{
+  "id": 3266,
+  "url": "/release/3266/",
+  "title": "モーニング娘。高橋愛＆新垣里沙 リアルエチュード「高橋さん家と新垣さん家 ゲスト：金剛地武志編」",
+  "category": "DVD",
+  "artist": "高橋愛&新垣里沙",
+  "releaseDate": "2011.7.8",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/ab5f88a5020fcc41e2e64d58273677fc6cfee688.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "03:11",
+              "credits": {
+                "出演": "高橋愛＆新垣里沙"
+              }
+            },
+            {
+              "index": 2,
+              "title": "実話 高橋愛 編",
+              "duration": "17:33",
+              "credits": {
+                "出演": "高橋愛＆新垣里沙"
+              }
+            },
+            {
+              "index": 3,
+              "title": "実話 新垣里沙 編",
+              "duration": "20:52",
+              "credits": {
+                "出演": "高橋愛＆新垣里沙"
+              }
+            },
+            {
+              "index": 4,
+              "title": "実話 金剛地武志 編",
+              "duration": "10:17",
+              "credits": {
+                "出演": "高橋愛＆新垣里沙"
+              }
+            },
+            {
+              "index": 5,
+              "title": "金剛地武志 新垣里沙 編",
+              "duration": "15:19",
+              "credits": {
+                "出演": "高橋愛＆新垣里沙"
+              }
+            },
+            {
+              "index": 6,
+              "title": "金剛地武志 高橋愛 編",
+              "duration": "17:11",
+              "credits": {
+                "出演": "高橋愛＆新垣里沙"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-2017"
+        }
+      ]
+    }
+  ]
+}

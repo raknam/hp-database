@@ -1,0 +1,51 @@
+{
+  "code": "PKBP-5139",
+  "url": "/release/detail/PKBP-5139/",
+  "source": "upfront",
+  "title": "シングルV「愛の弾丸 」",
+  "category": "DVDシングルV",
+  "artist": "Berryz工房",
+  "releaseDate": "2011/06/22",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/d85bd5df0234bca5964cf52da7e432779d65a53e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d85bd5df0234bca5964cf52da7e432779d65a53e.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "PKBP-5139",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛の弾丸",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "愛の弾丸(Another Dance Shot Ver.)",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "23:15"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

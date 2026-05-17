@@ -1,0 +1,111 @@
+{
+  "id": 672,
+  "url": "/release/672/",
+  "title": "勝利のBIG WAVE!!!",
+  "category": "CDシングル",
+  "artist": "アテナ＆ロビケロッツ",
+  "releaseDate": "2007.11.14",
+  "label": "zetima",
+  "images": [
+    "/upload/images/8e911e8a7c6fa5a3fda1e5f5c5a86901e56bb96c.webp",
+    "/upload/images/7dd705727363d8bfa4e26743f08d8a86479404a3.webp"
+  ],
+  "editions": [
+    {
+      "name": "初回生産限定盤",
+      "image": "/upload/images/8e911e8a7c6fa5a3fda1e5f5c5a86901e56bb96c.webp",
+      "price": "定価 ￥1,320（税抜価格 ￥1,200）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "勝利のBIG WAVE!!!",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "yozuca*",
+                "作曲": "yozuca*",
+                "編曲": "池田森",
+                "歌": "アテナ&ロビケロッツ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "本気メキメキ♥トキメキメキ",
+              "duration": "02:48",
+              "credits": {
+                "作詞": "meg rock",
+                "作曲": "黒須克彦",
+                "編曲": "加藤大祐",
+                "歌": "アテナ&ロビケロッツ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "勝利のBIG WAVE!!!",
+              "duration": "03:14",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "yozuca*",
+                "作曲": "yozuca*",
+                "編曲": "池田森",
+                "歌": "アテナ&ロビケロッツ"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5512"
+        }
+      ],
+      "note": "【初回生産限定盤】ブックレット付"
+    },
+    {
+      "name": "通常盤",
+      "image": "/upload/images/7dd705727363d8bfa4e26743f08d8a86479404a3.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "勝利のBIG WAVE!!!",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "yozuca*",
+                "作曲": "yozuca*",
+                "編曲": "池田森",
+                "歌": "アテナ&ロビケロッツ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "本気メキメキ♥トキメキメキ",
+              "duration": "02:48",
+              "credits": {
+                "作詞": "meg rock",
+                "作曲": "黒須克彦",
+                "編曲": "加藤大祐",
+                "歌": "アテナ&ロビケロッツ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "勝利のBIG WAVE!!!",
+              "duration": "03:14",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "yozuca*",
+                "作曲": "yozuca*",
+                "編曲": "池田森",
+                "歌": "アテナ&ロビケロッツ"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5513"
+        }
+      ],
+      "note": "【通常盤･初回仕様】フォトカード1種封入"
+    }
+  ]
+}

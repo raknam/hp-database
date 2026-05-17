@@ -1,0 +1,111 @@
+{
+  "code": "UFBW-1637",
+  "url": "/release/detail/UFBW-1637/",
+  "source": "upfront",
+  "title": "アンジュルム和田彩花ソロスペシャルライブ",
+  "category": "DVD",
+  "artist": "和田彩花",
+  "releaseDate": "2019/10/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/e05c62b8b4319c746788189bf44f788ae73bfbca.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/e05c62b8b4319c746788189bf44f788ae73bfbca.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1637",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:59"
+            },
+            {
+              "index": 2,
+              "title": "人生、すなわちパンタ・レイ",
+              "duration": "02:56",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "オトナになるって難しい！！！",
+              "duration": "03:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "天真爛漫",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "MC",
+              "duration": "06:24"
+            },
+            {
+              "index": 6,
+              "title": "「良い奴」",
+              "duration": "03:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 7,
+              "title": "エイティーン エモーション",
+              "duration": "02:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Uraha=Lover",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい"
+              }
+            },
+            {
+              "index": 9,
+              "title": "MC",
+              "duration": "09:50"
+            },
+            {
+              "index": 10,
+              "title": "わたしの夢見た 15年",
+              "duration": "05:53",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 11,
+              "title": "エンディングコメント",
+              "duration": "02:52"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "code": "PKCP-5301",
+  "url": "/release/detail/PKCP-5301/",
+  "source": "upfront",
+  "title": "どうしよう、わたし/一期一会",
+  "category": "CDシングル",
+  "artist": "チャオ ベッラ チンクエッティ",
+  "releaseDate": "2016/01/27",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/0f08215677ba16699d0a2cd25f9a50fc208ece9b.jpg",
+    "/images/c30eeaab8b744882f1fbe8cebd3564fff28d0547.jpg",
+    "/images/4a9494fe92962b850e03139dde11166bdbe53d4b.jpg",
+    "/images/4ce2373cebd1a8b9e8a7eb58a3cb186179f81563.jpg",
+    "/images/ba7e11bb1a716b7808bb0ac9d93506920fd61fc0.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/0f08215677ba16699d0a2cd25f9a50fc208ece9b.jpg",
+      "price": "￥2,037 (税抜価格 ￥1,852)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5301",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "どうしよう、わたし",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "AKIRA",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "一期一会",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "中島卓偉",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "どうしよう、わたし(Instrumental)",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "AKIRA",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "一期一会(Instrumental)",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "中島卓偉",
+                "編曲": "宮永治郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/c30eeaab8b744882f1fbe8cebd3564fff28d0547.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKCP-5303",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "どうしよう、わたし(Music Video)",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "AKIRA"
+              }
+            },
+            {
+              "index": 1,
+              "title": "一期一会(Music Video)",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "中島卓偉"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/4a9494fe92962b850e03139dde11166bdbe53d4b.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5304",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "どうしよう、わたし",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "AKIRA",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "一期一会",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "中島卓偉",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "愛のドタン場第6感に嫌な予感！？悲しみに暮れる...ロビンVer.",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "Mt.3",
+                "編曲": "Mt.3"
+              }
+            },
+            {
+              "index": 4,
+              "title": "どうしよう、わたし(Instrumental)",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "AKIRA",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 5,
+              "title": "一期一会(Instrumental)",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "中島卓偉",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 6,
+              "title": "愛のドタン場(Instrumental)",
+              "duration": "03:33",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "Mt.3",
+                "編曲": "Mt.3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/images/4ce2373cebd1a8b9e8a7eb58a3cb186179f81563.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5305",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "どうしよう、わたし",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "AKIRA",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "一期一会",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "中島卓偉",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "愛のドタン場好きだから信じてた！？涙に揺れる...ごとぅーVer.",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "Mt.3",
+                "編曲": "Mt.3"
+              }
+            },
+            {
+              "index": 4,
+              "title": "どうしよう、わたし(Instrumental)",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "AKIRA",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 5,
+              "title": "一期一会(Instrumental)",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "中島卓偉",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 6,
+              "title": "愛のドタン場(Instrumental)",
+              "duration": "03:33",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "Mt.3",
+                "編曲": "Mt.3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤D】",
+      "image": "/images/ba7e11bb1a716b7808bb0ac9d93506920fd61fc0.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5306",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "どうしよう、わたし",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "AKIRA",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "一期一会",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "中島卓偉",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "愛のドタン場壊れそうなガラスのハート！？悩める女子...はしもんVer.",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "Mt.3",
+                "編曲": "Mt.3"
+              }
+            },
+            {
+              "index": 4,
+              "title": "どうしよう、わたし(Instrumental)",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "AKIRA",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 5,
+              "title": "一期一会(Instrumental)",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "中島卓偉",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 6,
+              "title": "愛のドタン場(Instrumental)",
+              "duration": "03:33",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "Mt.3",
+                "編曲": "Mt.3"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

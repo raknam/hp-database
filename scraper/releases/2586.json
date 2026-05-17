@@ -1,0 +1,67 @@
+{
+  "id": 2586,
+  "url": "/release/2586/",
+  "title": "シングルV「スイートホリック」",
+  "category": "DVDシングルV",
+  "artist": "安倍なつみ",
+  "releaseDate": "2006.4.19",
+  "label": "hachama",
+  "images": [
+    "/upload/images/1d5fee141faf40c367244529e3e532199d7788f0.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "スイートホリック",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "BULGE",
+                "作曲": "BULGE",
+                "出演": "安倍なつみ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "スイートホリック",
+              "duration": "04:28",
+              "suffix": "(Edit Ver.)",
+              "credits": {
+                "作詞": "BULGE",
+                "作曲": "BULGE",
+                "出演": "安倍なつみ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "スイートホリック",
+              "duration": "04:29",
+              "suffix": "(Sweet Ver.)",
+              "credits": {
+                "作詞": "BULGE",
+                "作曲": "BULGE",
+                "出演": "安倍なつみ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "メイキング映像",
+              "duration": "07:17",
+              "credits": {
+                "出演": "安倍なつみ"
+              }
+            }
+          ],
+          "catalogNo": "HKBN-50062"
+        }
+      ]
+    }
+  ]
+}

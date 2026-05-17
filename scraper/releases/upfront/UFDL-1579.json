@@ -1,0 +1,37 @@
+{
+  "code": "UFDL-1579",
+  "url": "/release/detail/UFDL-1579/",
+  "source": "upfront",
+  "title": "初恋サイダー - From THE FIRST TAKE",
+  "category": "配信",
+  "artist": "鈴木愛理",
+  "releaseDate": "2026/02/26",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/542103fbe7f6435625b79fddb9a299f8cf08799e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/542103fbe7f6435625b79fddb9a299f8cf08799e.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1579",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "初恋サイダー - From THE FIRST TAKE",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "しほり"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "code": "EPDE-1100",
+  "url": "/release/detail/EPDE-1100/",
+  "source": "upfront",
+  "title": "DO MY BEST",
+  "category": "CDシングル",
+  "artist": "布施明",
+  "releaseDate": "2002/05/22",
+  "label": "zetima",
+  "images": [
+    "/images/1be8bf30e9914f6414be0da35b17f64f6c6ddc59.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/1be8bf30e9914f6414be0da35b17f64f6c6ddc59.jpg",
+      "price": "￥1,175 (税抜価格 ￥1,068)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1100",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "DO MY BEST",
+              "duration": "05:15",
+              "credits": {
+                "作詞": "布施明",
+                "作曲": "布施明",
+                "編曲": "芳野藤丸"
+              }
+            },
+            {
+              "index": 2,
+              "title": "あなたの為に生きて ーI'm still standingー",
+              "duration": "05:21",
+              "credits": {
+                "作詞": "布施明",
+                "作曲": "野田晴稔",
+                "編曲": "芳野藤丸"
+              }
+            },
+            {
+              "index": 3,
+              "title": "DO MY BEST(オリジナル・カラオケ)",
+              "duration": "05:14",
+              "credits": {
+                "作詞": "布施明",
+                "作曲": "布施明",
+                "編曲": "芳野藤丸"
+              }
+            },
+            {
+              "index": 4,
+              "title": "あなたの為に生きて ーI'm still standingー(オリジナル・カラオケ)",
+              "duration": "05:21",
+              "credits": {
+                "作詞": "布施明",
+                "作曲": "野田晴稔",
+                "編曲": "芳野藤丸"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

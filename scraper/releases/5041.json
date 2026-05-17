@@ -1,0 +1,71 @@
+{
+  "id": 5041,
+  "url": "/release/5041/",
+  "title": "演劇女子部「ネガポジポジ」オリジナルサウンドトラック",
+  "category": "CDシングル",
+  "artist": "つばきファクトリー/ハロプロ研修生",
+  "releaseDate": "2016.12.7",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/38797853364205d9516a973e2d7f632c7953861f.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ネガポジポジ",
+              "duration": "02:26",
+              "credits": {
+                "作詞": "江本純子",
+                "作曲": "SOUNDKIDS",
+                "編曲": "岡出莉菜・遠藤浩二",
+                "歌": "演劇女子部"
+              }
+            },
+            {
+              "index": 2,
+              "title": "いままで生きてきてどうこう",
+              "duration": "02:38",
+              "credits": {
+                "作詞": "江本純子",
+                "作曲": "SOUNDKIDS",
+                "編曲": "岡出莉菜・遠藤浩二",
+                "歌": "演劇女子部"
+              }
+            },
+            {
+              "index": 3,
+              "title": "てんぷら食べたい",
+              "duration": "02:06",
+              "credits": {
+                "作詞": "江本純子",
+                "作曲": "SOUNDKIDS",
+                "編曲": "遠藤浩二・栗本修",
+                "歌": "演劇女子部"
+              }
+            },
+            {
+              "index": 4,
+              "title": "居間はだめ",
+              "duration": "01:45",
+              "credits": {
+                "作詞": "江本純子",
+                "作曲": "SOUNDKIDS",
+                "編曲": "遠藤浩二・栗本修",
+                "歌": "演劇女子部"
+              }
+            }
+          ],
+          "catalogNo": "UFCW-1118"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "id": 3225,
+  "url": "/release/3225/",
+  "title": "Welcome to Pacific Heaven World 2003",
+  "category": "CDアルバム",
+  "artist": "V.A.",
+  "releaseDate": "2003.6.16",
+  "label": "Pacific Heaven",
+  "images": [
+    "/resources/images/foundation/release-placeholder.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "E Kailua E",
+              "duration": "03:14",
+              "suffix": "「Local Boy/JUSTIN」",
+              "credits": {
+                "作詞": "Justin",
+                "作曲": "Justin",
+                "編曲": "Justin",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "Alika",
+              "duration": "02:59",
+              "suffix": "「Aloha From Kanilau/Kanilau」",
+              "credits": {
+                "作詞": "Traditional",
+                "作曲": "Traditional",
+                "編曲": "RolandChang",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 3,
+              "title": "Kona Winds",
+              "duration": "03:11",
+              "suffix": "「KAPONO-Hawaii-/Henry Kapono」",
+              "credits": {
+                "作詞": "HenryKapono",
+                "作曲": "YukihideTakekawa",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "Za Za Za",
+              "duration": "04:04",
+              "suffix": "(アイランド・バージョン)「湘南アンソロジー/Temiyan」",
+              "credits": {
+                "作詞": "宮手健雄/佐藤龍一",
+                "作曲": "宮手健雄/佐藤龍一",
+                "編曲": "原田芳宏",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 5,
+              "title": "This Local Boy",
+              "duration": "04:16",
+              "suffix": "「Local Boy/JUSTIN」",
+              "credits": {
+                "作詞": "Justin",
+                "作曲": "Justin",
+                "編曲": "Justin",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 6,
+              "title": "Friends",
+              "duration": "02:56",
+              "suffix": "「KAPONO-Hawaii-/Henry Kapono」",
+              "credits": {
+                "作詞": "HenryKapono",
+                "作曲": "HenryKapono",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 7,
+              "title": "I JUST CALLED TO SAY I LOVE YOU",
+              "duration": "04:00",
+              "suffix": "SHAKA!/Kawika」",
+              "credits": {
+                "作詞": "StevieWonder",
+                "作曲": "StevieWonder",
+                "編曲": "Kawika-BobSt.John&",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 8,
+              "title": "鎌倉物語",
+              "duration": "04:05",
+              "suffix": "「湘南アンソロジー/Temiyan」",
+              "credits": {
+                "作詞": "桑田佳祐",
+                "作曲": "桑田佳祐",
+                "編曲": "RikkiL.",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 9,
+              "title": "Lia",
+              "duration": "04:16",
+              "suffix": "「オーシャン･ブリーズ/ダニエル･ホー」",
+              "credits": {
+                "作曲": "DanielHo",
+                "編曲": "HAVA",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 10,
+              "title": "気分爽快/アンドリア",
+              "duration": "03:54",
+              "suffix": "「アロハの贈りもの/ヴァイヒ」",
+              "credits": {
+                "作詞": "森高千里英語詞:アンドリア",
+                "作曲": "黒沢健一",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 11,
+              "title": "砂のベッド",
+              "duration": "04:24",
+              "suffix": "「サウス･カレンダー/Temiyan」",
+              "credits": {
+                "作詞": "宮手健雄",
+                "作曲": "宮手健雄",
+                "編曲": "アンドリア＆",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 12,
+              "title": "Pupu A'o 'Ewa 「エモーショナル・アイランズ/V.A.」",
+              "duration": "03:39",
+              "suffix": "「エモｰショナル･アイランズ/V.A.」",
+              "credits": {
+                "作曲": "Traditional",
+                "編曲": "テリー・ブラウン",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 13,
+              "title": "Living in Paradise",
+              "duration": "03:27",
+              "suffix": "「ボイス･オブ･パラダイス//V.A.」",
+              "credits": {
+                "作詞": "FaithRivera&DanielHo",
+                "作曲": "DanielHo",
+                "編曲": "宮手健雄・友常まさ彌",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 14,
+              "title": "Kanaka Wai Wai",
+              "duration": "04:45",
+              "suffix": "「レインボー･アイランズ/V.A.」",
+              "credits": {
+                "作曲": "JohnAlmeida",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 15,
+              "title": "PILI KAUA",
+              "duration": "03:10",
+              "suffix": "「ハロー！ヴァイヒ/ヴァイヒ」",
+              "credits": {
+                "作詞": "S.TetuanuiKaonohi",
+                "作曲": "S.TetuanuiKaonohi",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 16,
+              "title": "Aloha Oe",
+              "duration": "03:46",
+              "suffix": "「ヘブンリー･アイランズ/V.A.」",
+              "credits": {
+                "作曲": "QueenLydiaLiluokalani",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 17,
+              "title": "浜昼顔の咲く丘で",
+              "duration": "04:00",
+              "suffix": "「海菜(カイナ)/Temiyan」",
+              "credits": {
+                "作詞": "宮手健雄",
+                "作曲": "宮手健雄",
+                "編曲": "HAVA",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 18,
+              "title": "Saving Forever",
+              "duration": "04:31",
+              "suffix": "「ボイス･オブ･パラダイス//V.A.」",
+              "credits": {
+                "作詞": "DanielHo&LehuaKalima",
+                "作曲": "DanielHo",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 19,
+              "title": "Hawaii Aloha",
+              "duration": "03:35",
+              "suffix": "「オフ・ショア/ダニエル･ホー」",
+              "credits": {
+                "作曲": "JamesMcGranahan",
+                "歌": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "CHK-0001"
+        }
+      ]
+    }
+  ]
+}

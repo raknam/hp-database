@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5167",
+  "url": "/release/detail/EPBE-5167/",
+  "source": "upfront",
+  "title": "シングルV「恋のフーガ」",
+  "category": "DVDシングルV",
+  "artist": "W",
+  "releaseDate": "2005/02/23",
+  "label": "zetima",
+  "images": [
+    "/images/c3a81ee4ade97e91d6e544430be8aa38d81b4798.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/c3a81ee4ade97e91d6e544430be8aa38d81b4798.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5167",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋のフーガ",
+              "duration": "02:37",
+              "credits": {
+                "作詞": "なかにし礼",
+                "作曲": "すぎやまこういち"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋のフーガ(Dance-Shot Ver.)",
+              "duration": "02:39",
+              "credits": {
+                "作詞": "なかにし礼",
+                "作曲": "すぎやまこういち"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "12:14"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

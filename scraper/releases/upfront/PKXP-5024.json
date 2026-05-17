@@ -1,0 +1,83 @@
+{
+  "code": "PKXP-5024",
+  "url": "/release/detail/PKXP-5024/",
+  "source": "upfront",
+  "title": "おふももち in 沖縄",
+  "category": "BD",
+  "artist": "嗣永桃子",
+  "releaseDate": "2017/06/21",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/96fe09b7edf4079a64a09f801f1602f1db81835e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/96fe09b7edf4079a64a09f801f1602f1db81835e.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "PKXP-5024",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "01:32"
+            },
+            {
+              "index": 2,
+              "title": "公設市場",
+              "duration": "03:31"
+            },
+            {
+              "index": 3,
+              "title": "琉球村",
+              "duration": "05:48"
+            },
+            {
+              "index": 4,
+              "title": "ピリリと行こう！",
+              "duration": "03:04"
+            },
+            {
+              "index": 5,
+              "title": "ビーチ",
+              "duration": "02:10"
+            },
+            {
+              "index": 6,
+              "title": "スペシャルタイム",
+              "duration": "03:21"
+            },
+            {
+              "index": 7,
+              "title": "Taco Time",
+              "duration": "11:21"
+            },
+            {
+              "index": 8,
+              "title": "沖縄の夕陽",
+              "duration": "01:27"
+            },
+            {
+              "index": 9,
+              "title": "Making of 「おふももち in 沖縄」",
+              "duration": "10:44"
+            },
+            {
+              "index": 10,
+              "title": "Making of 「ももち」",
+              "duration": "15:54"
+            },
+            {
+              "index": 11,
+              "title": "エンディング",
+              "duration": "05:56"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

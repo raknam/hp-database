@@ -1,0 +1,51 @@
+{
+  "code": "PKBP-5037",
+  "url": "/release/detail/PKBP-5037/",
+  "source": "upfront",
+  "title": "シングルV「クレナイの季節」",
+  "category": "DVDシングルV",
+  "artist": "美勇伝",
+  "releaseDate": "2005/10/13",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/bc2434c91cec7a10bd0d978a52b35ddf15c13fc3.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/bc2434c91cec7a10bd0d978a52b35ddf15c13fc3.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "PKBP-5037",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "クレナイの季節",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "クレナイの季節(Dance Shot Ver.)",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "12:35"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": 3630,
+  "url": "/release/3630/",
+  "title": "置き手紙",
+  "category": "CDシングル",
+  "artist": "藤本美貴",
+  "releaseDate": "2008.4.23",
+  "label": "ライスミュージック",
+  "images": [
+    "/upload/images/4ae807ab05ee203b484da76dcc1a08625249a5e6.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "置き手紙",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "いではく",
+                "作曲": "杉本眞人",
+                "編曲": "YooHaeJoon",
+                "歌": "藤本美貴"
+              }
+            },
+            {
+              "index": 2,
+              "title": "遠い恋人",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "YooHaeJoon",
+                "編曲": "YooHaeJoon",
+                "歌": "藤本美貴"
+              }
+            },
+            {
+              "index": 3,
+              "title": "置き手紙",
+              "duration": "04:35",
+              "suffix": "(オリジナル・カラオケ)",
+              "credits": {
+                "作詞": "いではく",
+                "作曲": "杉本眞人",
+                "編曲": "YooHaeJoon",
+                "歌": "藤本美貴"
+              }
+            },
+            {
+              "index": 4,
+              "title": "置き手紙",
+              "duration": "04:34",
+              "suffix": "(男性キー・カラオケ)",
+              "credits": {
+                "作詞": "いではく",
+                "作曲": "杉本眞人",
+                "編曲": "YooHaeJoon",
+                "歌": "藤本美貴"
+              }
+            },
+            {
+              "index": 5,
+              "title": "遠い恋人",
+              "duration": "04:34",
+              "suffix": "(オリジナル・カラオケ)",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "YooHaeJoon",
+                "編曲": "YooHaeJoon",
+                "歌": "藤本美貴"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-2036"
+        }
+      ]
+    }
+  ]
+}

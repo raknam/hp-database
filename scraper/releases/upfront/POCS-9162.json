@@ -1,0 +1,176 @@
+{
+  "code": "POCS-9162",
+  "url": "/release/detail/POCS-9162/",
+  "source": "upfront",
+  "title": "さよなら、スタンダード",
+  "category": "CDシングル",
+  "artist": "吉川友",
+  "releaseDate": "2017/05/24",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/252c51cc9ea120871ecdf449d3edfe2ef29e19a0.jpg",
+    "/images/3f46b1b4ccac62127fc533075747947dc04f20d3.jpg",
+    "/images/f0c13cf31ae6b8d731311cf46de77261738cfb07.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/252c51cc9ea120871ecdf449d3edfe2ef29e19a0.jpg",
+      "price": "￥1,731 (税抜価格 ￥1,574)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "POCS-9162",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "さよなら、スタンダード",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "編曲": "サクライケンタ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アンバランス アンバランス",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "マシコタツロウ",
+                "作曲": "マシコタツロウ",
+                "編曲": "溝渕大智"
+              }
+            },
+            {
+              "index": 3,
+              "title": "さよなら、スタンダード(Instrumental)",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "編曲": "サクライケンタ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "アンバランス アンバランス(Instrumental)",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "マシコタツロウ",
+                "作曲": "マシコタツロウ",
+                "編曲": "溝渕大智"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/3f46b1b4ccac62127fc533075747947dc04f20d3.jpg",
+      "price": "￥1,731 (税抜価格 ￥1,574)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "POCS-9163",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "さよなら、スタンダード",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "編曲": "サクライケンタ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アンバランス アンバランス",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "マシコタツロウ",
+                "作曲": "マシコタツロウ",
+                "編曲": "溝渕大智"
+              }
+            },
+            {
+              "index": 3,
+              "title": "さよなら、スタンダード(Instrumental)",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "編曲": "サクライケンタ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "アンバランス アンバランス(Instrumental)",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "マシコタツロウ",
+                "作曲": "マシコタツロウ",
+                "編曲": "溝渕大智"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/f0c13cf31ae6b8d731311cf46de77261738cfb07.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "POCS-1592",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "さよなら、スタンダード",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "編曲": "サクライケンタ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アンバランス アンバランス",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "マシコタツロウ",
+                "作曲": "マシコタツロウ",
+                "編曲": "溝渕大智"
+              }
+            },
+            {
+              "index": 3,
+              "title": "さよなら、スタンダード(Instrumental)",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "編曲": "サクライケンタ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "アンバランス アンバランス(Instrumental)",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "マシコタツロウ",
+                "作曲": "マシコタツロウ",
+                "編曲": "溝渕大智"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

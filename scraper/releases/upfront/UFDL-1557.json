@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1557",
+  "url": "/release/detail/UFDL-1557/",
+  "source": "upfront",
+  "title": "Ruby",
+  "category": "配信",
+  "artist": "鈴木愛理",
+  "releaseDate": "2025/05/14",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/4971705d3b21b9481bcfc9fde630eaa97dd489af.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/4971705d3b21b9481bcfc9fde630eaa97dd489af.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1557",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Ruby",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "株式会社バンク・オブ・イノベーション",
+                "作曲": "株式会社バンク・オブ・イノベーション",
+                "編曲": "株式会社バンク・オブ・イノベーション"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

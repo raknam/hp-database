@@ -1,0 +1,38 @@
+{
+  "code": "EPBE-5214",
+  "url": "/release/detail/EPBE-5214/",
+  "source": "upfront",
+  "title": "ハロプロアワー Vol.2",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2006/11/22",
+  "label": "zetima",
+  "images": [
+    "/images/6f2875ec8e8aa7618153d04c1627527f2203b0f2.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/6f2875ec8e8aa7618153d04c1627527f2203b0f2.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5214",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "♯3",
+              "duration": "32:33"
+            },
+            {
+              "index": 2,
+              "title": "♯4",
+              "duration": "29:57"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

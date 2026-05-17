@@ -1,0 +1,144 @@
+{
+  "id": 6090,
+  "url": "/release/6090/",
+  "title": "The Girls Live Vol.60",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2019.10.9",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/275edf481dd0d71cd2836ad6ab3273f428a17bf4.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "飴細工",
+              "duration": "10:47",
+              "credits": {
+                "出演": "須藤茉麻/譜久村聖(モーニング娘。'18)/野村みな美・和田桜子(こぶしファクトリー)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ボルダフィット",
+              "duration": "09:26",
+              "credits": {
+                "出演": "野村みな美・浜浦彩乃・和田桜子(こぶしファクトリー)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "江戸風鈴",
+              "duration": "09:42",
+              "credits": {
+                "出演": "和田彩花・川村文乃(アンジュルム)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "話し方",
+              "duration": "13:42",
+              "credits": {
+                "出演": "須藤茉麻/牧野真莉愛(モーニング娘。'18)・宮本佳林(Juice=Juice)・秋山眞緒(つばきファクトリー)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "書道",
+              "duration": "06:41",
+              "credits": {
+                "出演": "竹内朱莉・上國料萌衣・笠原桃奈(アンジュルム)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Are you Happy?",
+              "duration": "04:22",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 7,
+              "title": "君だけじゃないさ...friends(2018アコースティックVer.)",
+              "duration": "03:47",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Uraha=Lover",
+              "duration": "04:31",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ハッピークラッカー",
+              "duration": "03:29",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 10,
+              "title": "雪のプラネタリウム",
+              "duration": "03:41",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "KOUGA",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 11,
+              "title": "純情cm(センチメートル)",
+              "duration": "04:33",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "大橋莉子",
+                "作曲": "大橋莉子",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 12,
+              "title": "DISTANCE",
+              "duration": "03:52",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "Ryosuke Imai",
+                "作曲": "Ryosuke Imai/Tasuku Maeda",
+                "出演": "鈴木愛理"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1636"
+        }
+      ]
+    }
+  ]
+}

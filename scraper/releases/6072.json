@@ -1,0 +1,626 @@
+{
+  "id": 6072,
+  "url": "/release/6072/",
+  "title": "Hello! Project 20th Anniversary!! Hello! Project ひなフェス 2019 【モーニング娘。'19 プレミアム】",
+  "category": "BD",
+  "artist": "V.A.",
+  "releaseDate": "2019.8.14",
+  "label": "zetima",
+  "images": [
+    "/upload/images/5115814e8fda0fd659a24c2e87e10ef42a49dc24.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:26",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "青春Night",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'19"
+              }
+            },
+            {
+              "index": 3,
+              "title": "MC",
+              "duration": "01:07",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "I surrender 愛されど愛",
+              "duration": "03:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'19"
+              }
+            },
+            {
+              "index": 5,
+              "title": "MC",
+              "duration": "01:37",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 6,
+              "title": "目立ってDo Dance",
+              "duration": "03:15",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Jean Luc Ponpon/星部ショウ/鈴木秋則",
+                "出演": "ハロプロ研修生"
+              }
+            },
+            {
+              "index": 7,
+              "title": "都営大江戸線の六本木駅で抱きしめて",
+              "duration": "03:06",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "CHICA#TETSU"
+              }
+            },
+            {
+              "index": 8,
+              "title": "GIRL ZONE",
+              "duration": "03:28",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "出演": "雨ノ森 川海"
+              }
+            },
+            {
+              "index": 9,
+              "title": "MC",
+              "duration": "01:25",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 10,
+              "title": "アツイ！",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 11,
+              "title": "ふわり、恋時計",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 12,
+              "title": "MC",
+              "duration": "02:02",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 13,
+              "title": "春恋歌",
+              "duration": "03:17",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "鈴木秋則",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 14,
+              "title": "今夜だけ浮かれたかった",
+              "duration": "02:43",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 15,
+              "title": "革命チックKISS",
+              "duration": "02:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 16,
+              "title": "MC",
+              "duration": "01:26",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 17,
+              "title": "書いては消しての “I Love You”",
+              "duration": "03:28",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "出演": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 18,
+              "title": "浮気なハニーパイ",
+              "duration": "02:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 19,
+              "title": "Oh No 懊悩",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 20,
+              "title": "MC",
+              "duration": "00:46",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 21,
+              "title": "ハルウララ",
+              "duration": "03:09",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "原田雄一",
+                "出演": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 22,
+              "title": "サンバ！こぶしジャネイロ",
+              "duration": "02:24",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 23,
+              "title": "桜ナイトフィーバー",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 24,
+              "title": "MC",
+              "duration": "01:45",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 25,
+              "title": "愛して 愛して 後一分",
+              "duration": "02:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "和田桜子"
+              }
+            },
+            {
+              "index": 26,
+              "title": "グルグルJUMP",
+              "duration": "02:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "毎日楽しく過ごし隊！(横山玲奈・竹内朱莉・上國料萌衣・太田遥香・宮本佳林・一岡伶奈)"
+              }
+            },
+            {
+              "index": 27,
+              "title": "Fiesta! Fiesta!",
+              "duration": "04:44",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "エリック・フクサキ",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 28,
+              "title": "MC",
+              "duration": "01:25",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 29,
+              "title": "微炭酸",
+              "duration": "03:16",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 30,
+              "title": "Borderline",
+              "duration": "03:03",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 31,
+              "title": "恋はアッチャアッチャ",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 32,
+              "title": "MC",
+              "duration": "00:27",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 33,
+              "title": "泣けないぜ・・・共感詐欺",
+              "duration": "03:07",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 34,
+              "title": "大器晩成",
+              "duration": "03:22",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 35,
+              "title": "MC",
+              "duration": "01:30",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 36,
+              "title": "BRAND NEW MORNING",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Jean Luc Ponpon & 星部ショウ",
+                "出演": "Juice=Juice/こぶしファクトリー"
+              }
+            },
+            {
+              "index": 37,
+              "title": "女が目立って なぜイケナイ",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "カントリー・ガールズ/つばきファクトリー"
+              }
+            },
+            {
+              "index": 38,
+              "title": "What is LOVE?",
+              "duration": "03:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "アンジュルム/BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 39,
+              "title": "MC",
+              "duration": "00:32",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 40,
+              "title": "ジェラシー ジェラシー",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：U.M.E.D.Y.",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'19"
+              }
+            },
+            {
+              "index": 41,
+              "title": "恋してみたくて",
+              "duration": "03:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'19"
+              }
+            },
+            {
+              "index": 42,
+              "title": "泡沫サタデーナイト！",
+              "duration": "02:47",
+              "credits": {
+                "作詞": "津野米咲",
+                "作曲": "津野米咲",
+                "出演": "モーニング娘。'19"
+              }
+            },
+            {
+              "index": 43,
+              "title": "わがまま 気のまま 愛のジョーク",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'19"
+              }
+            },
+            {
+              "index": 44,
+              "title": "MC",
+              "duration": "02:29",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 45,
+              "title": "恋愛レボリュ－ション21",
+              "duration": "06:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "EPXE-5158"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋はアッチャアッチャ",
+              "duration": "02:52",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "MC",
+              "duration": "00:32",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 3,
+              "title": "マナーモード",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "炭竃智弘",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "桜ナイトフィーバー",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 5,
+              "title": "MC",
+              "duration": "01:11",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 6,
+              "title": "ブギウギLOVE",
+              "duration": "02:15",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "出演": "平井美葉"
+              }
+            },
+            {
+              "index": 7,
+              "title": "最高ミュージック",
+              "duration": "02:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "COOOOOUNGERME。(森戸知沙希・中西香菜・川村文乃・小関舞・里吉うたの)"
+              }
+            },
+            {
+              "index": 8,
+              "title": "MC",
+              "duration": "00:44",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 9,
+              "title": "タチアガール",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "カントリー・ガールズ/こぶしファクトリー"
+              }
+            },
+            {
+              "index": 10,
+              "title": "キソクタダシクウツクシク",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "亜伊林",
+                "作曲": "星部ショウ",
+                "出演": "つばきファクトリー/BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 11,
+              "title": "旅立ちの春が来た",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'19/Juice=Juice"
+              }
+            },
+            {
+              "index": 12,
+              "title": "MC",
+              "duration": "00:30",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 13,
+              "title": "I 無双 Strong！",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "加藤裕介",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 14,
+              "title": "有頂天LOVE",
+              "duration": "02:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 15,
+              "title": "夢見た 15年",
+              "duration": "03:16",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "イイジマケン",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 16,
+              "title": "46億年LOVE",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "林田健司",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 17,
+              "title": "MC",
+              "duration": "02:03",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 18,
+              "title": "夢見る 15歳",
+              "duration": "05:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "V.A."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

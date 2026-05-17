@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5141",
+  "url": "/release/detail/EPCE-5141/",
+  "source": "upfront",
+  "title": "♡桃色片想い♡",
+  "category": "CDシングル",
+  "artist": "松浦亜弥",
+  "releaseDate": "2002/02/06",
+  "label": "zetima",
+  "images": [
+    "/images/7dea032be1743ca5a6feee2bb7a408398aa5ca7d.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7dea032be1743ca5a6feee2bb7a408398aa5ca7d.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5141",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "♡桃色片想い♡",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "遠距離の恋愛",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "松尾和博"
+              }
+            },
+            {
+              "index": 3,
+              "title": "♡桃色片想い♡(Instrumental)",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

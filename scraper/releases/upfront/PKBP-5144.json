@@ -1,0 +1,48 @@
+{
+  "code": "PKBP-5144",
+  "url": "/release/detail/PKBP-5144/",
+  "source": "upfront",
+  "title": "ももち はたち",
+  "category": "DVD",
+  "artist": "嗣永桃子",
+  "releaseDate": "2012/04/25",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/fd32157f520231505eb229eb91b974f6dd201a34.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/fd32157f520231505eb229eb91b974f6dd201a34.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5144",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "up and calm",
+              "duration": "20:13"
+            },
+            {
+              "index": 2,
+              "title": "Interview with Image",
+              "duration": "23:14"
+            },
+            {
+              "index": 3,
+              "title": "Making of photo book 「はたち ももち」",
+              "duration": "15:16"
+            },
+            {
+              "index": 4,
+              "title": "Ending",
+              "duration": "00:39"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

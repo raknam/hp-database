@@ -1,0 +1,51 @@
+{
+  "code": "PKBP-5055",
+  "url": "/release/detail/PKBP-5055/",
+  "source": "upfront",
+  "title": "シングルV「SOME BOYS！ TOUCH」",
+  "category": "DVDシングルV",
+  "artist": "後藤真希",
+  "releaseDate": "2006/10/25",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/67544b92fcd7e11c90ecb207cd0032aea57b64e8.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/67544b92fcd7e11c90ecb207cd0032aea57b64e8.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "PKBP-5055",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "SOME BOYS! TOUCH",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "SOME BOYS! TOUCH(Dance Shot Ver.)",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "07:18"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

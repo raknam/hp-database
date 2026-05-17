@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5684",
+  "url": "/release/detail/EPCE-5684/",
+  "source": "upfront",
+  "title": "よければ一緒に",
+  "category": "CDシングル",
+  "artist": "KAN",
+  "releaseDate": "2010/02/10",
+  "label": "zetima",
+  "images": [
+    "/images/fe6757c2d2930d258f211f664ad9a41ff54647b6.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/fe6757c2d2930d258f211f664ad9a41ff54647b6.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5684",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "よければ一緒に",
+              "duration": "06:48",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 2,
+              "title": "バイバイバイ(Live)",
+              "duration": "05:27",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 3,
+              "title": "よければ一緒に(Instrumental)",
+              "duration": "06:48",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

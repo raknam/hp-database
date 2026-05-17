@@ -1,0 +1,67 @@
+{
+  "id": 2118,
+  "url": "/release/2118/",
+  "title": "ハロー!SATOYAMAライフ Vol.19",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2013.12.2",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/c83010654abe16ae588ea8ce8fcdadda6fc41934.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "収穫した綿でタオルを作ろう！",
+              "duration": "35:39",
+              "credits": {
+                "出演": "飯窪春菜(モーニング娘。)/須藤茉麻(Berryz工房)/矢島舞美・中島早貴(℃-ute)/福田花音(スマイレージ)/宮崎由加(Juice=Juice)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "モーニング娘。「ブレインストーミング」MV撮影に密着！",
+              "duration": "15:30",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "モーニング娘。2作連続1位！ファン感謝イベントNews",
+              "duration": "02:11",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Juice＝Juice「私が言う前に抱きしめなきゃね」MV撮影に密着！",
+              "duration": "14:24",
+              "credits": {
+                "出演": "Juice＝Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "田﨑あさひ「サクラ時計」MV撮影に密着！",
+              "duration": "03:41",
+              "credits": {
+                "出演": "田﨑あさひ"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1310"
+        }
+      ]
+    }
+  ]
+}

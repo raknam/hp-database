@@ -1,0 +1,58 @@
+{
+  "code": "EPDE-1037",
+  "url": "/release/detail/EPDE-1037/",
+  "source": "upfront",
+  "title": "たんぽぽ",
+  "category": "CDシングル",
+  "artist": "タンポポ",
+  "releaseDate": "1999/06/16",
+  "label": "zetima",
+  "images": [
+    "/images/8f7c5a48037eec165d540fe1938f7a75886d1794.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/8f7c5a48037eec165d540fe1938f7a75886d1794.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1037",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "たんぽぽ (Single Version)",
+              "duration": "05:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 2,
+              "title": "A Rainy Day",
+              "duration": "03:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山内薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "たんぽぽ (Instrumental)",
+              "duration": "05:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

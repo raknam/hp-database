@@ -1,0 +1,123 @@
+{
+  "id": 3102,
+  "url": "/release/3102/",
+  "title": "アロハロ！矢口真里＆辻希美DVD",
+  "category": "DVD",
+  "artist": "矢口真里･辻希美",
+  "releaseDate": "2006.11.22",
+  "label": "zetima",
+  "images": [
+    "/upload/images/e3caffb5edcdc7ddb41372776b0e81f8ecd819d7.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "00:30",
+              "credits": {
+                "出演": "矢口真里・辻希美"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Shopping",
+              "duration": "07:09",
+              "credits": {
+                "出演": "矢口真里・辻希美"
+              }
+            },
+            {
+              "index": 3,
+              "title": "デザート",
+              "duration": "07:08",
+              "credits": {
+                "出演": "矢口真里・辻希美"
+              }
+            },
+            {
+              "index": 4,
+              "title": "お散歩",
+              "duration": "04:27",
+              "credits": {
+                "出演": "矢口真里・辻希美"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Shopping Part2",
+              "duration": "03:22",
+              "credits": {
+                "出演": "矢口真里・辻希美"
+              }
+            },
+            {
+              "index": 6,
+              "title": "一日の終わり",
+              "duration": "05:22",
+              "credits": {
+                "出演": "矢口真里・辻希美"
+              }
+            },
+            {
+              "index": 7,
+              "title": "1人旅",
+              "duration": "26:14",
+              "credits": {
+                "出演": "矢口真里・辻希美"
+              }
+            },
+            {
+              "index": 8,
+              "title": "移動中",
+              "duration": "06:31",
+              "credits": {
+                "出演": "矢口真里・辻希美"
+              }
+            },
+            {
+              "index": 9,
+              "title": "プール",
+              "duration": "06:07",
+              "credits": {
+                "出演": "矢口真里・辻希美"
+              }
+            },
+            {
+              "index": 10,
+              "title": "パワーボート",
+              "duration": "03:06",
+              "credits": {
+                "出演": "矢口真里・辻希美"
+              }
+            },
+            {
+              "index": 11,
+              "title": "バンパーチューブ",
+              "duration": "03:51",
+              "credits": {
+                "出演": "矢口真里・辻希美"
+              }
+            },
+            {
+              "index": 12,
+              "title": "旅の終わり",
+              "duration": "09:38",
+              "credits": {
+                "出演": "矢口真里・辻希美"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5215"
+        }
+      ]
+    }
+  ]
+}

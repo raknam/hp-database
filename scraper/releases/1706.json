@@ -1,0 +1,35 @@
+{
+  "id": 1706,
+  "url": "/release/1706/",
+  "title": "シングルV「MY BOY」",
+  "category": "DVDシングルV",
+  "artist": "Buono!",
+  "releaseDate": "2009.5.13",
+  "label": "ポニーキャニオン",
+  "images": [
+    "/upload/images/b06024d467a70711006d7d8bb9f396a50f94e174.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "シングルV「MY BOY」",
+              "duration": "00:00",
+              "credits": {
+                "出演": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "PCBP-51928"
+        }
+      ]
+    }
+  ]
+}

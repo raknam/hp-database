@@ -1,0 +1,67 @@
+{
+  "id": 2112,
+  "url": "/release/2112/",
+  "title": "ハロー!SATOYAMAライフ Vol.16",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2013.10.9",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/fbcca9331d84f0a5044ee57acb1ec2bb39f91390.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "2日目の朝！山形を満喫",
+              "duration": "15:12",
+              "credits": {
+                "出演": "矢島舞美・中島早貴(℃-ute)/宮崎由加(Juice=Juice)/光井愛佳"
+              }
+            },
+            {
+              "index": 2,
+              "title": "最上川下り＆草木染めを体験",
+              "duration": "11:46",
+              "credits": {
+                "出演": "矢島舞美・中島早貴(℃-ute)/宮崎由加(Juice=Juice)/光井愛佳"
+              }
+            },
+            {
+              "index": 3,
+              "title": "板そばを食べよう＆商品PR写真対決",
+              "duration": "28:07",
+              "credits": {
+                "出演": "矢島舞美・中島早貴(℃-ute)/宮崎由加(Juice=Juice)/光井愛佳"
+              }
+            },
+            {
+              "index": 4,
+              "title": "あんかけポッサムご飯",
+              "duration": "11:20",
+              "credits": {
+                "出演": "鞘師里保(モーニング娘。)/和田彩花(スマイレージ)/光井愛佳"
+              }
+            },
+            {
+              "index": 5,
+              "title": "和の野菜ソースつけ麺",
+              "duration": "08:19",
+              "credits": {
+                "出演": "鞘師里保(モーニング娘。)/和田彩花(スマイレージ)/光井愛佳"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1279"
+        }
+      ]
+    }
+  ]
+}

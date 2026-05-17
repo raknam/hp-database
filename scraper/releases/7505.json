@@ -1,0 +1,38 @@
+{
+  "id": 7505,
+  "url": "/release/7505/",
+  "title": "ShyなDestiny",
+  "category": "配信",
+  "artist": "林仁愛",
+  "releaseDate": "2025.8.5",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/dae9acfca0f4e3ce083a878426bdd141d7f567aa.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ShyなDestiny",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "BOI(バンク・オブ・イノベーション)",
+                "作曲": "BOI(バンク・オブ・イノベーション)",
+                "編曲": "BOI(バンク・オブ・イノベーション)",
+                "歌": "林仁愛(ハロプロ研修生)"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1563"
+        }
+      ]
+    }
+  ]
+}

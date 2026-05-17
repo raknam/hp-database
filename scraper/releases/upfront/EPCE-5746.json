@@ -1,0 +1,138 @@
+{
+  "code": "EPCE-5746",
+  "url": "/release/detail/EPCE-5746/",
+  "source": "upfront",
+  "title": "SOLA",
+  "category": "CDアルバム",
+  "artist": "スターダスト☆レビュー",
+  "releaseDate": "2011/02/23",
+  "label": "zetima",
+  "images": [
+    "/images/9eaccba160ca237e8f32875b7f0c0b288f76698b.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/9eaccba160ca237e8f32875b7f0c0b288f76698b.jpg",
+      "price": "￥1,885 (税抜価格 ￥1,714)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5746",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "木蘭の涙",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "山田ひろし",
+                "作曲": "柿沼清史",
+                "編曲": "三谷泰弘"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Lovers In The Sky",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "根本要・寺田正美",
+                "作曲": "根本要",
+                "編曲": "三谷泰弘"
+              }
+            },
+            {
+              "index": 3,
+              "title": "翼にのせて",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "林紀勝",
+                "作曲": "三谷泰弘",
+                "編曲": "三谷泰弘"
+              }
+            },
+            {
+              "index": 4,
+              "title": "午後のロマンス",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "根本要/林紀勝",
+                "作曲": "根本要",
+                "編曲": "三谷泰弘"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Rock'n ' Roll Blues",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "三谷泰弘",
+                "作曲": "三谷泰弘",
+                "編曲": "三谷泰弘"
+              }
+            },
+            {
+              "index": 6,
+              "title": "少年",
+              "duration": "05:29",
+              "credits": {
+                "作詞": "山田ひろし",
+                "作曲": "根本要",
+                "編曲": "三谷泰弘"
+              }
+            },
+            {
+              "index": 7,
+              "title": "もう一度抱きしめて",
+              "duration": "04:44",
+              "credits": {
+                "作詞": "林紀勝",
+                "作曲": "三谷泰弘",
+                "編曲": "三谷泰弘"
+              }
+            },
+            {
+              "index": 8,
+              "title": "想い出にたりない",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "根本要/林紀勝",
+                "作曲": "根本要",
+                "編曲": "三谷泰弘"
+              }
+            },
+            {
+              "index": 9,
+              "title": "Dreaming Again",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "Linda Hennrick",
+                "作曲": "Yasuhiro Mitan",
+                "編曲": "三谷泰弘"
+              }
+            },
+            {
+              "index": 10,
+              "title": "Simple Song",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "三谷泰弘",
+                "作曲": "三谷泰弘",
+                "編曲": "三谷泰弘"
+              }
+            },
+            {
+              "index": 11,
+              "title": "もう一度抱きしめて(Live Version)",
+              "duration": "05:19",
+              "credits": {
+                "作詞": "林紀勝",
+                "作曲": "三谷泰弘",
+                "編曲": "スターダスト・レビュー"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

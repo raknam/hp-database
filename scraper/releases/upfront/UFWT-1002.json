@@ -1,0 +1,128 @@
+{
+  "code": "UFWT-1002",
+  "url": "/release/detail/UFWT-1002/",
+  "source": "upfront",
+  "title": "NO-NO-YESMAN",
+  "category": "CDアルバム",
+  "artist": "KAN",
+  "releaseDate": "2010/10/27",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/91ab19e41bbde70140b780e04fd47127f12f9221.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/91ab19e41bbde70140b780e04fd47127f12f9221.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "UFWT-1002",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "今夜はかえさないよ",
+              "duration": "03:01",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 2,
+              "title": "僕は泣く",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "KAN/長島理生",
+                "作曲": "KAN",
+                "編曲": "KAN/松本晃彦"
+              }
+            },
+            {
+              "index": 3,
+              "title": "STYLISTIC",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "KAN/松尾由紀夫",
+                "作曲": "KAN",
+                "編曲": "KAN/松本晃彦"
+              }
+            },
+            {
+              "index": 4,
+              "title": "きみを想う夜",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "松尾由紀夫",
+                "作曲": "KAN",
+                "編曲": "KAN/松本晃彦"
+              }
+            },
+            {
+              "index": 5,
+              "title": "SILENT SIREN",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "長島理生",
+                "作曲": "KAN",
+                "編曲": "松本晃彦"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ONE NIGHT KISS",
+              "duration": "03:24",
+              "credits": {
+                "作詞": "川村真澄",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 7,
+              "title": "BRACKET",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "長島理生",
+                "作曲": "KAN",
+                "編曲": "KAN/松本晃彦"
+              }
+            },
+            {
+              "index": 8,
+              "title": "NOーNOーYESMAN",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN/松本晃彦"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ALL I KNOW～僕にわかることは～",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "蓮田ひろか",
+                "作曲": "KAN",
+                "編曲": "KAN/松本晃彦"
+              }
+            },
+            {
+              "index": 10,
+              "title": "僕のGENUINE KISS",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN/松本晃彦"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

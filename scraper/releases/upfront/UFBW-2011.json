@@ -1,0 +1,98 @@
+{
+  "code": "UFBW-2011",
+  "url": "/release/detail/UFBW-2011/",
+  "source": "upfront",
+  "title": "徳永千奈美写真集「Chinami」”メイキングDVD 〜特別編集版〜",
+  "category": "DVD",
+  "artist": "徳永千奈美",
+  "releaseDate": "2009/11/06",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/nowprinting.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/nowprinting.jpg",
+      "price": "￥2,750 (税抜価格 ￥2,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2011",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "01:09"
+            },
+            {
+              "index": 2,
+              "title": "パイナップル畑",
+              "duration": "09:51"
+            },
+            {
+              "index": 3,
+              "title": "自転車",
+              "duration": "02:34"
+            },
+            {
+              "index": 4,
+              "title": "Lunch Time",
+              "duration": "02:26"
+            },
+            {
+              "index": 5,
+              "title": "ショッピング",
+              "duration": "02:34"
+            },
+            {
+              "index": 6,
+              "title": "芝生",
+              "duration": "05:08"
+            },
+            {
+              "index": 7,
+              "title": "Sunset",
+              "duration": "04:44"
+            },
+            {
+              "index": 8,
+              "title": "プールサイド",
+              "duration": "03:27"
+            },
+            {
+              "index": 9,
+              "title": "プール",
+              "duration": "04:17"
+            },
+            {
+              "index": 10,
+              "title": "犬",
+              "duration": "03:16"
+            },
+            {
+              "index": 11,
+              "title": "対決",
+              "duration": "02:16"
+            },
+            {
+              "index": 12,
+              "title": "部屋",
+              "duration": "05:03"
+            },
+            {
+              "index": 13,
+              "title": "ビーチ",
+              "duration": "04:47"
+            },
+            {
+              "index": 14,
+              "title": "パドルサーフィン",
+              "duration": "08:26"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "id": 3259,
+  "url": "/release/3259/",
+  "title": "cool sounds from the Go Jazz Vault Tully's #1",
+  "category": "CDアルバム",
+  "artist": "V.A.",
+  "releaseDate": "2007.8.7",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/resources/images/foundation/release-placeholder.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "That's My Girl",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "AlecWilder/WilliamEngvick",
+                "作曲": "AlecWilder/WilliamEngvick",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "Look What I Found",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "D.Hazeltine",
+                "作曲": "D.Hazeltine",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 3,
+              "title": "Theme For Ernie",
+              "duration": "05:56",
+              "credits": {
+                "作詞": "F.Lacey",
+                "作曲": "F.Lacey",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "For All Times Sake",
+              "duration": "04:54",
+              "credits": {
+                "作詞": "M.Petrucciani",
+                "作曲": "M.Petrucciani",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 5,
+              "title": "While We're Young",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "AlecWilder/BillEngvick/MortyPalitz",
+                "作曲": "AlecWilder/BillEngvick/MortyPalitz",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 6,
+              "title": "On Green Dolphin Street",
+              "duration": "07:15",
+              "credits": {
+                "作詞": "N.Washington/B.Kaper",
+                "作曲": "N.Washington/B.Kaper",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 7,
+              "title": "You Must Believe In Spring",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "M.Bergman,A.Bergman/J.Demy/M.Legrand",
+                "作曲": "M.Bergman,A.Bergman/J.Demy/M.Legrand",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 8,
+              "title": "Rain Rain",
+              "duration": "06:18",
+              "credits": {
+                "作詞": "AlecWilder/MarshallBarer",
+                "作曲": "AlecWilder/MarshallBarer",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 9,
+              "title": "Face",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "BenSidran",
+                "作曲": "BenSidran",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 10,
+              "title": "Prisoner Of Love",
+              "duration": "09:02",
+              "credits": {
+                "作詞": "RussColombo/ClarenceGaskill/LeoRobin",
+                "作曲": "RussColombo/ClarenceGaskill/LeoRobin",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 11,
+              "title": "Lady Sings The Blues",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "AlecWilder/WilliamEngvick",
+                "作曲": "AlecWilder/WilliamEngvick",
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 12,
+              "title": "In The Wee Small Hours",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "D.Mann/B.Hilliard",
+                "作曲": "D.Mann/B.Hilliard",
+                "歌": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "TGCS-4353"
+        }
+      ]
+    }
+  ]
+}

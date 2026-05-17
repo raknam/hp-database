@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1508",
+  "url": "/release/detail/UFDL-1508/",
+  "source": "upfront",
+  "title": "サマーナイトタウン",
+  "category": "配信",
+  "artist": "田中れいな×佐藤優樹",
+  "releaseDate": "2022/08/13",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/a1f77d291509993e18c6ca883ec63a7d1c44df7a.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/a1f77d291509993e18c6ca883ec63a7d1c44df7a.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1508",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "サマーナイトタウン",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 610,
+  "url": "/tsubakifactory/runo_yofu/",
+  "slug": "runo_yofu",
+  "group": "tsubakifactory",
+  "nameJa": "豫風瑠乃",
+  "nameEn": "Runo Yofu",
+  "nameKana": "ヨフウ ルノ",
+  "images": [
+    "/upload/images/c5db05aeb0380e14b190f3304caebb4793d993e10fc64ae90e311047930eb559.webp",
+    "/upload/images/591db32c26d999c4815f1e3ff0bdabcab4ffcb1a.webp",
+    "/upload/images/cc6ea8fe87a759c3983ccfbe4b04047485cd4e2b455f3f328ba850966c41eb77.webp",
+    "/upload/images/93bbdf759e54d724cf6556224f82dc555ddad1950351e8ae09d3f21ace32d182.webp"
+  ],
+  "color": {
+    "name": "マスタード",
+    "hex": "#ffcd00"
+  },
+  "details": {
+    "生年月日": "2007年12月20日",
+    "血液型": "O型",
+    "出身地": "大阪府",
+    "趣味": "音楽鑑賞、カラオケ、アニメ・漫画をみること",
+    "好きな音楽ジャンル": "J-POP、VOCALOID",
+    "好きなスポーツ": "スノーボード",
+    "座右の銘": "ヒーローは遅れてでもやってくる",
+    "アンバサダー": "2025年10月～ 「さかなの日」応援隊",
+    "ハロー！プロジェクト加入": "2021年7月7日 (つばきファクトリー加入日)"
+  }
+}

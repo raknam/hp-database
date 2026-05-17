@@ -1,0 +1,82 @@
+{
+  "code": "EPCE-5502",
+  "url": "/release/detail/EPCE-5502/",
+  "source": "upfront",
+  "title": "都会っ子 純情",
+  "category": "CDシングル",
+  "artist": "℃-ute",
+  "releaseDate": "2007/10/17",
+  "label": "zetima",
+  "images": [
+    "/images/d07314ca0822dd0bc0eb2881eac89d3fb815f5c4.jpg",
+    "/images/b9e98272ec8ed87a8385fc48da8101a865f73317.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/d07314ca0822dd0bc0eb2881eac89d3fb815f5c4.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5502",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "都会っ子 純情",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "私立共学",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "都会っ子 純情(Instrumental)",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/b9e98272ec8ed87a8385fc48da8101a865f73317.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5504",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "インタビュー",
+              "duration": "16:11"
+            },
+            {
+              "index": 2,
+              "title": "Cutie Circuit 2007 〜MAGICAL CUTIE TOUR〜 ダイジェスト めぐる恋の季節",
+              "duration": "03:28"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

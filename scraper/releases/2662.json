@@ -1,0 +1,80 @@
+{
+  "id": 2662,
+  "url": "/release/2662/",
+  "title": "アイドルをさがせ！ヒストリーPart2 ～ハロプロメンバー総出演！～",
+  "category": "VHS",
+  "artist": "V.A.",
+  "releaseDate": "2002.1.17",
+  "label": "hachama",
+  "images": [
+    "/upload/images/45db6996aaebcbeecc4cb0fbd00363d52be09f86.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "VHS",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "00:22",
+              "credits": {
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "モーニング娘。追加メンバー 緊張の初ステージ",
+              "duration": "17:00",
+              "suffix": "(2000年5月)",
+              "credits": {
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 3,
+              "title": "モーニング娘。CM撮影 舞台裏完全密着",
+              "duration": "09:26",
+              "suffix": "(2000年6月)",
+              "credits": {
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "カントリー娘。石川梨華(モーニング娘。) 結成から初活動まで完全密着",
+              "duration": "15:39",
+              "suffix": "(2001年3月)",
+              "credits": {
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 5,
+              "title": "中澤裕子 ミニモニ。CM撮影 舞台裏完全密着",
+              "duration": "09:30",
+              "suffix": "(2000年12月)",
+              "credits": {
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 6,
+              "title": "中澤裕子 卒業ライブ BACK STAGE 完全密着",
+              "duration": "07:54",
+              "suffix": "(2001年4月15日)",
+              "credits": {
+                "歌": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "HKVN-10003"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "code": "EPCE-7749",
+  "url": "/release/detail/EPCE-7749/",
+  "source": "upfront",
+  "title": "求めよ…運命の旅人算/夢さえ描けない夜空には",
+  "category": "CDシングル",
+  "artist": "BEYOOOOONDS",
+  "releaseDate": "2023/04/12",
+  "label": "zetima",
+  "images": [
+    "/images/d578f44ca48186aded580e66d2335a7594254f57.jpg",
+    "/images/b7f6db91d397dffe7fa33f01a9d68f84f304600c.jpg",
+    "/images/915af3244a49823af8842e9a628b916e19883e7a.jpg",
+    "/images/07c02366e57f44eae00f66f12dd2924a7c34dd9b.jpg",
+    "/images/553e20ebc231cacedeba0741064aaec94fa9dfe4.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/d578f44ca48186aded580e66d2335a7594254f57.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7749",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "求めよ…運命の旅人算",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "夢さえ描けない夜空には",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "加藤裕介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "求めよ…運命の旅人算(Instrumental)",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "夢さえ描けない夜空には(Instrumental)",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "加藤裕介"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/b7f6db91d397dffe7fa33f01a9d68f84f304600c.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7751",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "求めよ…運命の旅人算(Music Video)",
+              "duration": "05:16",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "求めよ…運命の旅人算(Dance Shot Ver.)",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "求めよ…運命の旅人算(メイキング映像)",
+              "duration": "16:57"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/images/915af3244a49823af8842e9a628b916e19883e7a.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7753",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "求めよ…運命の旅人算",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "夢さえ描けない夜空には",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "加藤裕介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "求めよ…運命の旅人算(Instrumental)",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "夢さえ描けない夜空には(Instrumental)",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "加藤裕介"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/07c02366e57f44eae00f66f12dd2924a7c34dd9b.jpg",
+      "price": "￥1,200 (税抜価格 ￥1,091)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7755",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夢さえ描けない夜空には(Music Video)",
+              "duration": "05:13",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "夢さえ描けない夜空には(Dance Shot Ver.)",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "夢さえ描けない夜空には(メイキング映像)",
+              "duration": "15:58"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/553e20ebc231cacedeba0741064aaec94fa9dfe4.jpg",
+      "price": "￥1,200 (税抜価格 ￥1,091)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7756",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "求めよ…運命の旅人算",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "夢さえ描けない夜空には",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "加藤裕介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "求めよ…運命の旅人算(Instrumental)",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "夢さえ描けない夜空には(Instrumental)",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "加藤裕介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "code": "EPXE-5015",
+  "url": "/release/detail/EPXE-5015/",
+  "source": "upfront",
+  "title": "Love Love Love",
+  "category": "BD",
+  "artist": "高橋愛",
+  "releaseDate": "2011/10/19",
+  "label": "zetima",
+  "images": [
+    "/images/08ce56354241c4e2ed4a6146c2e64567862c5965.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/08ce56354241c4e2ed4a6146c2e64567862c5965.jpg",
+      "price": "￥6,285 (税抜価格 ￥5,714)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5015",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Ai Meets One",
+              "duration": "04:42"
+            },
+            {
+              "index": 2,
+              "title": "Dancer in the Desert",
+              "duration": "02:46"
+            },
+            {
+              "index": 3,
+              "title": "Route 66",
+              "duration": "20:19"
+            },
+            {
+              "index": 4,
+              "title": "Beach of West Coast",
+              "duration": "11:10"
+            },
+            {
+              "index": 5,
+              "title": "Sweet Time",
+              "duration": "13:25"
+            },
+            {
+              "index": 6,
+              "title": "Making of 「愛愛愛」",
+              "duration": "19:29"
+            },
+            {
+              "index": 7,
+              "title": "Ending",
+              "duration": "04:59"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

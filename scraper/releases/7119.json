@@ -1,0 +1,38 @@
+{
+  "id": 7119,
+  "url": "/release/7119/",
+  "title": "BE",
+  "category": "配信",
+  "artist": "岸本ゆめの",
+  "releaseDate": "2023.11.7",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/c943aa7abb794ebcf34176e86d998ace33f10af8.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "BE",
+              "duration": "05:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一",
+                "歌": "岸本ゆめの(つばきファクトリー)"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1522"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "code": "HKXN-50074",
+  "url": "/release/detail/HKXN-50074/",
+  "source": "upfront",
+  "title": "わたしのあしおと",
+  "category": "BD",
+  "artist": "梁川奈々美",
+  "releaseDate": "2019/02/27",
+  "label": "hachama",
+  "images": [
+    "/images/81081fb8f1764f6ae9e0b4e75f1e9f88444a580f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/81081fb8f1764f6ae9e0b4e75f1e9f88444a580f.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKXN-50074",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "わたしのあしおと",
+              "duration": "00:48"
+            },
+            {
+              "index": 2,
+              "title": "寒い朝",
+              "duration": "06:12"
+            },
+            {
+              "index": 3,
+              "title": "散策",
+              "duration": "03:14"
+            },
+            {
+              "index": 4,
+              "title": "焼き芋",
+              "duration": "03:11"
+            },
+            {
+              "index": 5,
+              "title": "掃除",
+              "duration": "02:14"
+            },
+            {
+              "index": 6,
+              "title": "料理",
+              "duration": "02:40"
+            },
+            {
+              "index": 7,
+              "title": "ココア",
+              "duration": "03:27"
+            },
+            {
+              "index": 8,
+              "title": "牧場",
+              "duration": "05:01"
+            },
+            {
+              "index": 9,
+              "title": "タオル",
+              "duration": "02:07"
+            },
+            {
+              "index": 10,
+              "title": "暖炉",
+              "duration": "02:43"
+            },
+            {
+              "index": 11,
+              "title": "パジャマ",
+              "duration": "02:44"
+            },
+            {
+              "index": 12,
+              "title": "ラストメッセージ",
+              "duration": "05:00"
+            },
+            {
+              "index": 13,
+              "title": "The making of 「わたしのあしおと」",
+              "duration": "16:34"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

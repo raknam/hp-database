@@ -1,0 +1,650 @@
+{
+  "id": 6542,
+  "url": "/release/6542/",
+  "title": "Hello! Project ひなフェス 2021【モーニング娘。'21/アンジュルム プレミアム】",
+  "category": "BD",
+  "artist": "V.A.",
+  "releaseDate": "2021.8.25",
+  "label": "zetima",
+  "images": [
+    "/upload/images/a92f1a1db8a3d486edd459eb17d2de5b9d9d8ef3.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "01:02",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "ギューされたいだけなのに",
+              "duration": "02:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 3,
+              "title": "MC",
+              "duration": "01:48",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "恋愛Destiny〜本音を論じたい〜",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ロマンスに目覚める妄想女子の歌",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 6,
+              "title": "MC",
+              "duration": "02:21",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 7,
+              "title": "やっちゃえ！GO！GO！",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "中谷信行",
+                "作曲": "中谷信行",
+                "出演": "ハロプロ研修生"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Oh No 懊悩",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "ハロプロ研修生ユニット"
+              }
+            },
+            {
+              "index": 9,
+              "title": "激辛LOVE",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "Barry Blue/Paul Greedus/日本語詞：星部ショウ",
+                "作曲": "Barry Blue/Paul Greedus",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 10,
+              "title": "こんなハズジャナカッター！",
+              "duration": "02:57",
+              "credits": {
+                "作詞": "星部ショウ/野沢トオル",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 11,
+              "title": "MC",
+              "duration": "01:20",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 12,
+              "title": "ビタミンME",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 13,
+              "title": "三回目のデート神話",
+              "duration": "03:26",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 14,
+              "title": "MC",
+              "duration": "01:43",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 15,
+              "title": "笑って",
+              "duration": "02:59",
+              "credits": {
+                "作詞": "津野米咲",
+                "作曲": "津野米咲",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 16,
+              "title": "My Darling ～Do you love me?～",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 17,
+              "title": "MC",
+              "duration": "02:15",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 18,
+              "title": "The 美学",
+              "duration": "02:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "小田さくら・為永幸音"
+              }
+            },
+            {
+              "index": 19,
+              "title": "晴れ 雨 のち スキ ♡",
+              "duration": "02:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "羽賀朱音・一岡伶奈・島倉りか"
+              }
+            },
+            {
+              "index": 20,
+              "title": "春ビューティフルエブリデイ",
+              "duration": "03:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "譜久村聖"
+              }
+            },
+            {
+              "index": 21,
+              "title": "DOWN TOWN",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "伊藤銀次",
+                "作曲": "山下達郎",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 22,
+              "title": "MC",
+              "duration": "02:19",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 23,
+              "title": "好きって言ってよ",
+              "duration": "03:04",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 24,
+              "title": "如雨露",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "YUKO",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 25,
+              "title": "限りあるMoment",
+              "duration": "04:51",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "オオヤギヒロオ",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 26,
+              "title": "MC",
+              "duration": "01:27",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 27,
+              "title": "ミラー・ミラー",
+              "duration": "03:02",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/Anders Dannvik/Kalle Persson",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 28,
+              "title": "臥薪嘗胆",
+              "duration": "02:45",
+              "credits": {
+                "作詞": "gridoor",
+                "作曲": "星部ショウ",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 29,
+              "title": "MC",
+              "duration": "01:26",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 30,
+              "title": "AS FOR ONE DAY",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice/つばきファクトリー"
+              }
+            },
+            {
+              "index": 31,
+              "title": "Are you Happy?",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "アンジュルム/BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 32,
+              "title": "MC",
+              "duration": "01:06",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 33,
+              "title": "The 摩天楼ショー",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 34,
+              "title": "このまま！",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 35,
+              "title": "純情エビデンス",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 36,
+              "title": "ナルシス カマってちゃん協奏曲第5番",
+              "duration": "03:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 37,
+              "title": "MC",
+              "duration": "00:07",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 38,
+              "title": "わがまま 気のまま 愛のジョーク",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 39,
+              "title": "MC",
+              "duration": "01:23",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 40,
+              "title": "Be Alive",
+              "duration": "07:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 1,
+              "title": "バックステージ映像",
+              "duration": "14:57",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "EPXE-5193"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:56",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "限りあるMoment",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "オオヤギヒロオ",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "MC",
+              "duration": "00:57",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "出すぎた杭は打たれない",
+              "duration": "03:07",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "魚住有希",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ミラー・ミラー",
+              "duration": "03:05",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/Anders Dannvik/Kalle Persson",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "MC",
+              "duration": "01:21",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 7,
+              "title": "Fantasyが始まる",
+              "duration": "02:45",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "佐々木莉佳子"
+              }
+            },
+            {
+              "index": 8,
+              "title": "夢幻クライマックス",
+              "duration": "03:03",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "出演": "笠原桃奈・小野田紗栞"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ちょこっとLOVE",
+              "duration": "03:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "加賀楓・横山玲奈・山﨑愛生"
+              }
+            },
+            {
+              "index": 10,
+              "title": "恋愛Destiny〜本音を論じたい〜",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 11,
+              "title": "ギューされたいだけなのに",
+              "duration": "02:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 12,
+              "title": "このまま！",
+              "duration": "02:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 13,
+              "title": "MC",
+              "duration": "01:18",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 14,
+              "title": "泣けないぜ・・・共感詐欺",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "出演": "つばきファクトリー/BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 15,
+              "title": "糸島Distance",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "Mari-Joe",
+                "作曲": "星部ショウ",
+                "出演": "モーニング娘。'21/Juice=Juice"
+              }
+            },
+            {
+              "index": 16,
+              "title": "MC",
+              "duration": "00:51",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 17,
+              "title": "大器晩成",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 18,
+              "title": "カクゴして！",
+              "duration": "03:14",
+              "credits": {
+                "作詞": "THE☆FUNKS",
+                "作曲": "THE☆FUNKS",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 19,
+              "title": "MC",
+              "duration": "03:45",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 20,
+              "title": "人生、すなわちパンタ・レイ",
+              "duration": "02:33",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 21,
+              "title": "夢見る 15歳",
+              "duration": "02:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 22,
+              "title": "46億年LOVE",
+              "duration": "02:30",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "林田健司",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 23,
+              "title": "MC",
+              "duration": "01:57",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 24,
+              "title": "ドンデンガエシ",
+              "duration": "06:38",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "宇宙慧",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 1,
+              "title": "バックステージ映像",
+              "duration": "12:43",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

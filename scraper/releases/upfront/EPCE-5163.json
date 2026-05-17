@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5163",
+  "url": "/release/detail/EPCE-5163/",
+  "source": "upfront",
+  "title": "幸せきょうりゅう音頭",
+  "category": "CDシングル",
+  "artist": "おどる♡11",
+  "releaseDate": "2002/07/03",
+  "label": "zetima",
+  "images": [
+    "/images/91f2d49cdfa267e1cd4864170c2a1da7b0bff6ec.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/91f2d49cdfa267e1cd4864170c2a1da7b0bff6ec.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5163",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "幸せきょうりゅう音頭",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 2,
+              "title": "よくある親子のセレナーデ(おどる♡11 Version)",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "SHO-1"
+              }
+            },
+            {
+              "index": 3,
+              "title": "幸せきょうりゅう音頭(Instrumental)",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

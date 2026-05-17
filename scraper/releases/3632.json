@@ -1,0 +1,107 @@
+{
+  "id": 3632,
+  "url": "/release/3632/",
+  "title": "Rika Ishikawa MOST CRISIS！ in Hawaii",
+  "category": "DVD",
+  "artist": "石川梨華",
+  "releaseDate": "2009.2.11",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/upload/images/d0534ce51bd675d7042c40342ced233af2908f83.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "01:15",
+              "credits": {
+                "出演": "石川梨華"
+              }
+            },
+            {
+              "index": 2,
+              "title": "BIKE",
+              "duration": "13:05",
+              "credits": {
+                "出演": "石川梨華"
+              }
+            },
+            {
+              "index": 3,
+              "title": "MOUNTAIN",
+              "duration": "05:08",
+              "credits": {
+                "出演": "石川梨華"
+              }
+            },
+            {
+              "index": 4,
+              "title": "SKY TOUR",
+              "duration": "12:35",
+              "credits": {
+                "出演": "石川梨華"
+              }
+            },
+            {
+              "index": 5,
+              "title": "MOST CRISIS",
+              "duration": "03:14",
+              "credits": {
+                "出演": "石川梨華"
+              }
+            },
+            {
+              "index": 6,
+              "title": "SHOPPING",
+              "duration": "03:47",
+              "credits": {
+                "出演": "石川梨華"
+              }
+            },
+            {
+              "index": 7,
+              "title": "BATHING BEAUTY",
+              "duration": "03:49",
+              "credits": {
+                "出演": "石川梨華"
+              }
+            },
+            {
+              "index": 8,
+              "title": "MAKING",
+              "duration": "08:25",
+              "credits": {
+                "出演": "石川梨華"
+              }
+            },
+            {
+              "index": 9,
+              "title": "SPA",
+              "duration": "03:57",
+              "credits": {
+                "出演": "石川梨華"
+              }
+            },
+            {
+              "index": 10,
+              "title": "ENDING",
+              "duration": "05:02",
+              "credits": {
+                "出演": "石川梨華"
+              }
+            }
+          ],
+          "catalogNo": "PKBP-5107"
+        }
+      ]
+    }
+  ]
+}

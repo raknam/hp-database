@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-5231",
+  "url": "/release/detail/EPCE-5231/",
+  "source": "upfront",
+  "title": "チ・ワ・ワ ～愛のpower～",
+  "category": "CDシングル",
+  "artist": "スパーク",
+  "releaseDate": "2003/09/18",
+  "label": "zetima",
+  "images": [
+    "/images/bedeb057a9385ce8f1929d7351cb579e09a518ac.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/bedeb057a9385ce8f1929d7351cb579e09a518ac.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5231",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "チ・ワ・ワ 〜愛のpower〜",
+              "duration": "03:04",
+              "credits": {
+                "作詞": "LOUISOLIVEIRAANDRAYGILBERT",
+                "作曲": "LOUISOLIVEIRAANDRAYGILBERT",
+                "編曲": "はたけ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "しあわせ探し",
+              "duration": "02:54",
+              "credits": {
+                "作詞": "カモ",
+                "作曲": "はたけ",
+                "編曲": "はたけ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋はシュビドゥバ(独唱×2)",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "カモ",
+                "作曲": "はたけ",
+                "編曲": "はたけ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "チ・ワ・ワ 〜愛のpower〜(カラオケ)",
+              "duration": "03:04",
+              "credits": {
+                "作詞": "LOUISOLIVEIRAANDRAYGILBERT",
+                "作曲": "LOUISOLIVEIRAANDRAYGILBERT",
+                "編曲": "はたけ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

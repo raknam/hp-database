@@ -1,0 +1,101 @@
+{
+  "code": "UFWT-9015",
+  "url": "/release/detail/UFWT-9015/",
+  "source": "upfront",
+  "title": "1st 超ベリーズ",
+  "category": "アナログアルバム",
+  "artist": "Berryz工房",
+  "releaseDate": "2019/05/01",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/fd8f59288e6199cfaba588e6bac10b0eb705e73e.jpg"
+  ],
+  "editions": [
+    {
+      "name": "＜Disc1＞",
+      "image": "/images/fd8f59288e6199cfaba588e6bac10b0eb705e73e.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "アナログアルバム",
+          "catalogNo": "UFWT-9015",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "あなたなしでは生きてゆけない",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ピリリと行こう！",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "日直〜芸能人の会話〜",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "田中直"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "＜Disc2＞",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "アナログアルバム",
+          "catalogNo": "UFWT-9016",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ファイティングポーズはダテじゃない！",
+              "duration": "03:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋はひっぱりだこ",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "蝉",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

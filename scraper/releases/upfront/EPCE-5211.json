@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5211",
+  "url": "/release/detail/EPCE-5211/",
+  "source": "upfront",
+  "title": "GET ALONG WITH YOU",
+  "category": "CDシングル",
+  "artist": "中澤裕子",
+  "releaseDate": "2003/05/21",
+  "label": "zetima",
+  "images": [
+    "/images/18fa35e3af4056867f027f3de594bfd21f33cff7.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/18fa35e3af4056867f027f3de594bfd21f33cff7.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5211",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "GET ALONG WITH YOU",
+              "duration": "04:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "渡部チェル"
+              }
+            },
+            {
+              "index": 2,
+              "title": "東京発 最終",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 3,
+              "title": "GET ALONG WITH YOU(Instrumental)",
+              "duration": "04:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "渡部チェル"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

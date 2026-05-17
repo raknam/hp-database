@@ -1,0 +1,58 @@
+{
+  "code": "EPBE-5076",
+  "url": "/release/detail/EPBE-5076/",
+  "source": "upfront",
+  "title": "シングルV 「ミニモ二。数え歌～お風呂ば～じょん」 「ミニモ二。数え歌～デートば～じょん～」",
+  "category": "DVDシングルV",
+  "artist": "ミニモニ｡",
+  "releaseDate": "2003/06/11",
+  "label": "zetima",
+  "images": [
+    "/images/7e3e707804ad50663cbab85dc1ab457fd65ec83d.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7e3e707804ad50663cbab85dc1ab457fd65ec83d.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5076",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ミニモ二。数え歌～お風呂ば～じょん～",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ミニモ二。数え歌～デートば～じょん～",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

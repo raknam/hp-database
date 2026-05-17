@@ -1,0 +1,196 @@
+{
+  "code": "EPCE-7889",
+  "url": "/release/detail/EPCE-7889/",
+  "source": "upfront",
+  "title": "愛だろ、やっぱ！/泣いてOVER",
+  "category": "CDシングル",
+  "artist": "竹内朱莉",
+  "releaseDate": "2024/12/25",
+  "label": "zetima",
+  "images": [
+    "/images/237d8e02c40c74f745d3702e444cf3bc56498c45.jpg",
+    "/images/c8b4ff092ee49b5c1f9694de6ed36ee1850d44b4.jpg",
+    "/images/d7d4f9d3f2c683e20b3e0673fa4aae4209e04f0a.jpg",
+    "/images/c146a78152a15a075604675b65cf4eeaa226eb1c.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/237d8e02c40c74f745d3702e444cf3bc56498c45.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7889",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛だろ、やっぱ！",
+              "duration": "03:34",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "早川響介",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "泣いてOVER",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "下地悠",
+                "作曲": "Erik Lidbom",
+                "編曲": "Erik Lidbom"
+              }
+            },
+            {
+              "index": 3,
+              "title": "愛だろ、やっぱ！(Instrumental)",
+              "duration": "03:34",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "早川響介",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 4,
+              "title": "泣いてOVER(Instrumental)",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "下地悠",
+                "作曲": "Erik Lidbom",
+                "編曲": "Erik Lidbom"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/c8b4ff092ee49b5c1f9694de6ed36ee1850d44b4.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7891",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛だろ、やっぱ！(Music Video)",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "早川響介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "愛だろ、やっぱ！(Dance Shot Ver.)",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "早川響介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "愛だろ、やっぱ！(メイキング映像)",
+              "duration": "12:11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/d7d4f9d3f2c683e20b3e0673fa4aae4209e04f0a.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7893",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛だろ、やっぱ！",
+              "duration": "03:34",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "早川響介",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "泣いてOVER",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "下地悠",
+                "作曲": "Erik Lidbom",
+                "編曲": "Erik Lidbom"
+              }
+            },
+            {
+              "index": 3,
+              "title": "愛だろ、やっぱ！(Instrumental)",
+              "duration": "03:34",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "早川響介",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 4,
+              "title": "泣いてOVER(Instrumental)",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "下地悠",
+                "作曲": "Erik Lidbom",
+                "編曲": "Erik Lidbom"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/c146a78152a15a075604675b65cf4eeaa226eb1c.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7894",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "泣いてOVER(Music Video)",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "下地悠",
+                "作曲": "Erik Lidbom"
+              }
+            },
+            {
+              "index": 2,
+              "title": "泣いてOVER(Dance Shot Ver.)",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "下地悠",
+                "作曲": "Erik Lidbom"
+              }
+            },
+            {
+              "index": 3,
+              "title": "泣いてOVER(メイキング映像)",
+              "duration": "12:09"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5150",
+  "url": "/release/detail/EPBE-5150/",
+  "source": "upfront",
+  "title": "シングルV「恋愛戦隊シツレンジャー」",
+  "category": "DVDシングルV",
+  "artist": "後浦なつみ",
+  "releaseDate": "2004/10/27",
+  "label": "zetima",
+  "images": [
+    "/images/5be71561fe8a90abf52a40ba50c9408d0ae105f5.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/5be71561fe8a90abf52a40ba50c9408d0ae105f5.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5150",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋愛戦隊シツレンジャー",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "LOVE LIKE CRAZY",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "11:11"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

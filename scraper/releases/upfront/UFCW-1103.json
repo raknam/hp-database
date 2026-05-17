@@ -1,0 +1,88 @@
+{
+  "code": "UFCW-1103",
+  "url": "/release/detail/UFCW-1103/",
+  "source": "upfront",
+  "title": "演劇女子部 ミュージカル「TRIANGLE-トライアングル-」オリジナルサウンドトラック",
+  "category": "CDアルバム",
+  "artist": "モーニング娘。'15",
+  "releaseDate": "2015/07/15",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/412edca63a3eaf4be94acbd79755ebcae4d40f4c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/412edca63a3eaf4be94acbd79755ebcae4d40f4c.jpg",
+      "price": "￥1,528 (税抜価格 ￥1,389)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "UFCW-1103",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "トライアングル アルファ",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "塩田泰造",
+                "作曲": "市川淳",
+                "編曲": "市川淳"
+              }
+            },
+            {
+              "index": 2,
+              "title": "サクラの恋",
+              "duration": "02:38",
+              "credits": {
+                "作詞": "塩田泰造",
+                "作曲": "市川淳",
+                "編曲": "市川淳"
+              }
+            },
+            {
+              "index": 3,
+              "title": "うらやましがりやのダイス",
+              "duration": "01:34",
+              "credits": {
+                "作詞": "塩田泰造",
+                "作曲": "市川淳",
+                "編曲": "市川淳"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ローズウッドの告白",
+              "duration": "02:13",
+              "credits": {
+                "作詞": "塩田泰造",
+                "作曲": "市川淳",
+                "編曲": "市川淳"
+              }
+            },
+            {
+              "index": 5,
+              "title": "触れればココロがあふれだす",
+              "duration": "01:29",
+              "credits": {
+                "作詞": "塩田泰造",
+                "作曲": "市川淳",
+                "編曲": "市川淳"
+              }
+            },
+            {
+              "index": 6,
+              "title": "手をはなさない",
+              "duration": "01:55",
+              "credits": {
+                "作詞": "塩田泰造",
+                "作曲": "市川淳",
+                "編曲": "市川淳"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

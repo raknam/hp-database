@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5302",
+  "url": "/release/detail/EPBE-5302/",
+  "source": "upfront",
+  "title": "シングルV「Come Together」",
+  "category": "DVD",
+  "artist": "音楽ガッタス",
+  "releaseDate": "2008/09/24",
+  "label": "zetima",
+  "images": [
+    "/images/80e49d25920952641d8fdc27352ca2c307825583.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/80e49d25920952641d8fdc27352ca2c307825583.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5302",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Come Together",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Come Together(Close-up Ver.)",
+              "duration": "04:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "11:03"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

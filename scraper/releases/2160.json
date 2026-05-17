@@ -1,0 +1,26 @@
+{
+  "id": 2160,
+  "url": "/release/2160/",
+  "title": "Lily",
+  "category": "DVD",
+  "artist": "熊井友理奈",
+  "releaseDate": "2012.4.18",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/1420164140b772bd01b1d2d713756cbfdf9e191d.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [],
+          "catalogNo": "UFBW-2050"
+        }
+      ]
+    }
+  ]
+}

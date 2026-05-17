@@ -1,0 +1,2342 @@
+{
+  "morningmusume": [
+    {
+      "slug": "sayumi_michishige",
+      "group": "morningmusume",
+      "nameJa": "道重さゆみ",
+      "nameKana": "ミチシゲ サユミ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/474e42fec88b99b2d4f1e56e54e214290c962580.jpg",
+      "details": {
+        "生年月日": "1989年7月13日",
+        "血液型": "A型",
+        "出身地": "山口県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424052525",
+      "lastSeen": "20141120215305"
+    },
+    {
+      "slug": "mizuki_fukumura",
+      "group": "morningmusume",
+      "nameJa": "譜久村聖",
+      "nameKana": "フクムラ ミズキ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/6af0fb11a62ddb8e0774b047519535d6ddd80ef4.jpg",
+      "details": {
+        "生年月日": "1996年10月30日",
+        "血液型": "O型",
+        "出身地": "東京都"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424052525",
+      "lastSeen": "20231124091226"
+    },
+    {
+      "slug": "erina_ikuta",
+      "group": "morningmusume",
+      "nameJa": "生田衣梨奈",
+      "nameKana": "イクタ エリナ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/da1a10b79aad842b68d920d0912544f0542cdb59.jpg",
+      "details": {
+        "生年月日": "1997年7月7日",
+        "血液型": "A型",
+        "出身地": "福岡県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424052525",
+      "lastSeen": "20241209183604"
+    },
+    {
+      "slug": "riho_sayashi",
+      "group": "morningmusume",
+      "nameJa": "鞘師里保",
+      "nameKana": "サヤシ リホ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/0370203add996ff480d2dbaf4397923138a14eba.jpg",
+      "details": {
+        "生年月日": "1998年5月28日",
+        "血液型": "AB型",
+        "出身地": "広島県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424052525",
+      "lastSeen": "20150923063017"
+    },
+    {
+      "slug": "kanonn_suzuki",
+      "group": "morningmusume",
+      "nameJa": "鈴木香音",
+      "nameKana": "スズキ カノン",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/9af285f4a812646c82aaef2ad9a84001e795149f.jpg",
+      "details": {
+        "生年月日": "1998年8月5日",
+        "血液型": "B型",
+        "出身地": "愛知県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424052525",
+      "lastSeen": "20160511025855"
+    },
+    {
+      "slug": "haruna_iikubo",
+      "group": "morningmusume",
+      "nameJa": "飯窪春菜",
+      "nameKana": "イイクボ ハルナ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/ac4e11705e7fc27b034412896d3d264a2f56834f.jpg",
+      "details": {
+        "生年月日": "1994年11月7日",
+        "血液型": "O型",
+        "出身地": "東京都"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424052525",
+      "lastSeen": "20181217001945"
+    },
+    {
+      "slug": "ayumi_ishida",
+      "group": "morningmusume",
+      "nameJa": "石田亜佑美",
+      "nameKana": "イシダ アユミ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/c924c8454f13e6c7a932246018cf015ab18ac0d9.jpg",
+      "details": {
+        "生年月日": "1997年1月7日",
+        "血液型": "O型",
+        "出身地": "宮城県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424052525",
+      "lastSeen": "20241206140946"
+    },
+    {
+      "slug": "masaki_satou",
+      "group": "morningmusume",
+      "nameJa": "佐藤優樹",
+      "nameKana": "サトウ マサキ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/250653f86d22c4a268e7aff56cb2dc6df8cbf935.jpg",
+      "details": {
+        "生年月日": "1999年5月7日",
+        "血液型": "A型",
+        "出身地": "北海道"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424052525",
+      "lastSeen": "20211213072944"
+    },
+    {
+      "slug": "haruka_kudou",
+      "group": "morningmusume",
+      "nameJa": "工藤遥",
+      "nameKana": "クドウ ハルカ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/9a5aa33197cdd4b591836c6b14dc0921e42e6712.jpg",
+      "details": {
+        "生年月日": "1999年10月27日",
+        "血液型": "A型",
+        "出身地": "埼玉県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424052525",
+      "lastSeen": "20171107014623"
+    },
+    {
+      "slug": "haruna_ogata",
+      "group": "morningmusume",
+      "nameJa": "尾形春水",
+      "nameKana": "オガタ ハルナ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/0a89ff71044d7b7c83f0aae57fcd6191c93182f5.jpg",
+      "details": {
+        "生年月日": "1999年2月15日",
+        "血液型": "A型",
+        "出身地": "大阪府"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20150106223923",
+      "lastSeen": "20180615005427"
+    },
+    {
+      "slug": "akane_haga",
+      "group": "morningmusume",
+      "nameJa": "羽賀朱音",
+      "nameKana": "ハガ アカネ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/9ee13584578baae8e243cca8a5f8acb716495196.jpg",
+      "details": {
+        "生年月日": "2002年3月7日",
+        "血液型": "O型",
+        "出身地": "長野県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20150106223923",
+      "lastSeen": "20241209183604"
+    },
+    {
+      "slug": "kaede_kaga",
+      "group": "morningmusume",
+      "nameJa": "加賀楓",
+      "nameKana": "カガ カエデ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/cce20ac4cc458cff8477fbdfc67b1d4e67b6617b.jpg",
+      "details": {
+        "生年月日": "1999年11月30日",
+        "血液型": "A型",
+        "出身地": "東京都"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20170101232318",
+      "lastSeen": "20221209225823"
+    },
+    {
+      "slug": "reina_yokoyama",
+      "group": "morningmusume",
+      "nameJa": "横山玲奈",
+      "nameKana": "ヨコヤマ レイナ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/b68b6f024dd89f88f850ef9ad3eb724eff57f49b.jpg",
+      "details": {
+        "生年月日": "2001年2月22日",
+        "血液型": "不明",
+        "出身地": "埼玉県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20170101232318",
+      "lastSeen": "20241209183604"
+    },
+    {
+      "slug": "chisaki_morito_m",
+      "group": "morningmusume",
+      "nameJa": "森戸知沙希",
+      "nameKana": "モリト チサキ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/59c0de490d2c7100bfb377bfd3e08891ab1a3a3d.jpg",
+      "details": {
+        "生年月日": "2000年2月19日",
+        "血液型": "A型",
+        "出身地": "栃木県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20170723085202",
+      "lastSeen": "20220620000004"
+    },
+    {
+      "slug": "rio_kitagawa",
+      "group": "morningmusume",
+      "nameJa": "北川莉央",
+      "nameKana": "キタガワ リオ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/8424ec8e8feda5787b9c853a32e4ad4fc312bab4.jpg",
+      "details": {
+        "生年月日": "2004年3月16日",
+        "血液型": "O型",
+        "出身地": "東京都"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20190809071831",
+      "lastSeen": "20241209183604"
+    }
+  ],
+  "angerme": [
+    {
+      "slug": "ayaka_wada",
+      "group": "angerme",
+      "nameJa": "和田彩花",
+      "nameKana": "ワダ アヤカ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/9837d023a3e003c24d02ae9bb75bd00496611d87.jpg",
+      "details": {
+        "生年月日": "1994年8月1日",
+        "血液型": "A型",
+        "出身地": "群馬県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20141217165853",
+      "lastSeen": "20190615040645"
+    },
+    {
+      "slug": "kanonn_fukuda",
+      "group": "angerme",
+      "nameJa": "福田花音",
+      "nameKana": "フクダ カノン",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/66ee79578119b9f6fd18da71b3d185906f615e64.jpg",
+      "details": {
+        "生年月日": "1995年3月12日",
+        "血液型": "A型",
+        "出身地": "埼玉県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20141217165853",
+      "lastSeen": "20151117090701"
+    },
+    {
+      "slug": "kana_nakanishi",
+      "group": "angerme",
+      "nameJa": "中西香菜",
+      "nameKana": "ナカニシ カナ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/e5956567e3bdb3072ea71b95f524e34a79b01c45.jpg",
+      "details": {
+        "生年月日": "1997年6月4日",
+        "血液型": "A型",
+        "出身地": "大阪府"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20141217165853",
+      "lastSeen": "20191202100858"
+    },
+    {
+      "slug": "akari_takeuchi",
+      "group": "angerme",
+      "nameJa": "竹内朱莉",
+      "nameKana": "タケウチ アカリ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/cb2da10756569013261d896ec34e8306ac565330.jpg",
+      "details": {
+        "生年月日": "1997年11月23日",
+        "血液型": "O型",
+        "出身地": "埼玉県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20141217165853",
+      "lastSeen": "20230621004833"
+    },
+    {
+      "slug": "rina_katsuta",
+      "group": "angerme",
+      "nameJa": "勝田里奈",
+      "nameKana": "カツタ リナ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/f60b1320f8b913572d49a97052a5c26617d1605b.jpg",
+      "details": {
+        "生年月日": "1998年4月6日",
+        "血液型": "A型",
+        "出身地": "東京都"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20141217165853",
+      "lastSeen": "20190814092241"
+    },
+    {
+      "slug": "meimi_tamura",
+      "group": "angerme",
+      "nameJa": "田村芽実",
+      "nameKana": "タムラ メイミ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/ece4ffa08c6bc29b6f67a059655230f765741cf4.jpg",
+      "details": {
+        "生年月日": "1998年10月30日",
+        "血液型": "O型",
+        "出身地": "群馬県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20141217165853",
+      "lastSeen": "20160519175222"
+    },
+    {
+      "slug": "mizuki_murota",
+      "group": "angerme",
+      "nameJa": "室田瑞希",
+      "nameKana": "ムロタ ミズキ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/1da3f03d09cb880a8f480669014ac59f74a76c72.jpg",
+      "details": {
+        "生年月日": "1998年6月12日",
+        "血液型": "AB型",
+        "出身地": "千葉県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20141217165853",
+      "lastSeen": "20200131165648"
+    },
+    {
+      "slug": "maho_aikawa",
+      "group": "angerme",
+      "nameJa": "相川茉穂",
+      "nameKana": "アイカワマホ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/6faec760fe830cde1b0b8cc166958032432a9656.jpg",
+      "details": {
+        "生年月日": "1999年3月26日",
+        "血液型": "A型",
+        "出身地": "神奈川県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20141217165853",
+      "lastSeen": "20171119034323"
+    },
+    {
+      "slug": "rikako_sasaki",
+      "group": "angerme",
+      "nameJa": "佐々木莉佳子",
+      "nameKana": "ササキ リカコ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/fd21ccf2d435b046dde3b74d88fe406b019c233e.jpg",
+      "details": {
+        "生年月日": "2001年5月28日",
+        "血液型": "A型",
+        "出身地": "宮城県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20141217165853",
+      "lastSeen": "20240605054713"
+    },
+    {
+      "slug": "moe_kamikokuryo",
+      "group": "angerme",
+      "nameJa": "上國料萌衣",
+      "nameKana": "カミコクリョウ モエ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/14816f02dea162745c4aa4dc716b7d48998ad12e.jpg",
+      "details": {
+        "生年月日": "1999年10月24日",
+        "血液型": "O型",
+        "出身地": "熊本県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20160111061107",
+      "lastSeen": "20241204150618"
+    },
+    {
+      "slug": "momona_kasahara",
+      "group": "angerme",
+      "nameJa": "笠原桃奈",
+      "nameKana": "カサハラ モモナ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/8819a75928e9983f27997beac7197d36f04eab89.jpg",
+      "details": {
+        "生年月日": "2003年10月22日",
+        "血液型": "A型",
+        "出身地": "神奈川県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20160801150641",
+      "lastSeen": "20211115065922"
+    },
+    {
+      "slug": "musubu_funaki_a",
+      "group": "angerme",
+      "nameJa": "船木結",
+      "nameKana": "フナキ ムスブ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/356d81bec23da838e18ef54cb75d7574d3d0fa46.jpg",
+      "details": {
+        "生年月日": "2002年5月10日",
+        "血液型": "O型",
+        "出身地": "大阪府"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20170715131231",
+      "lastSeen": "20201202212733"
+    },
+    {
+      "slug": "ayano_kawamura",
+      "group": "angerme",
+      "nameJa": "川村文乃",
+      "nameKana": "カワムラ アヤノ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/e885564a08ce9b538c0c88edf6e36e784f041070.jpg",
+      "details": {
+        "生年月日": "1999年7月7日",
+        "血液型": "A型",
+        "出身地": "高知県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20170715131231",
+      "lastSeen": "20241127015306"
+    },
+    {
+      "slug": "haruka_oota",
+      "group": "angerme",
+      "nameJa": "太田遥香",
+      "nameKana": "オオタ ハルカ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/309975c064c792e7719ca19c3f4124902bfed13f.jpg",
+      "details": {
+        "生年月日": "2003年10月21日",
+        "血液型": "B型",
+        "出身地": "北海道"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20181128020817",
+      "lastSeen": "20200922201329"
+    }
+  ],
+  "berryzkobo": [
+    {
+      "slug": "saki_shimizu",
+      "group": "berryzkobo",
+      "nameJa": "清水佐紀",
+      "nameKana": "シミズ サキ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/457b702ac19b6abc0bff7dd668a07fa204c599ef.jpg",
+      "details": {
+        "生年月日": "1991年11月22日",
+        "血液型": "O型",
+        "出身地": "神奈川県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424045138",
+      "lastSeen": "20150302080525"
+    },
+    {
+      "slug": "momoko_tsugunaga",
+      "group": "berryzkobo",
+      "nameJa": "嗣永桃子",
+      "nameKana": "ツグナガ モモコ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/b5b825a105a473a0c0e1550ddedc579012fa5d72.jpg",
+      "details": {
+        "生年月日": "1992年3月6日",
+        "血液型": "O型",
+        "出身地": "アイドル王国 千葉地方"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424045138",
+      "lastSeen": "20150302080525"
+    },
+    {
+      "slug": "chinami_tokunaga",
+      "group": "berryzkobo",
+      "nameJa": "徳永千奈美",
+      "nameKana": "トクナガ チナミ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/5603e2cf659ac7f19990592d2f6e6914d23b85d9.jpg",
+      "details": {
+        "生年月日": "1992年5月22日",
+        "血液型": "O型",
+        "出身地": "神奈川県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424045138",
+      "lastSeen": "20150302080525"
+    },
+    {
+      "slug": "maasa_sudou",
+      "group": "berryzkobo",
+      "nameJa": "須藤茉麻",
+      "nameKana": "スドウ マアサ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/fc521852fb19eb9bc202d8faceea40dd1e49f1c5.jpg",
+      "details": {
+        "生年月日": "1992年7月3日",
+        "血液型": "O型",
+        "出身地": "東京都"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424045138",
+      "lastSeen": "20150302080525"
+    },
+    {
+      "slug": "miyabi_natsuyaki",
+      "group": "berryzkobo",
+      "nameJa": "夏焼雅",
+      "nameKana": "ナツヤキ ミヤビ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/b725abe2c198dd83718118e25a5cf22054fef7b8.jpg",
+      "details": {
+        "生年月日": "1992年8月25日",
+        "血液型": "O型",
+        "出身地": "埼玉県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424045138",
+      "lastSeen": "20150302080525"
+    },
+    {
+      "slug": "yurina_kumai",
+      "group": "berryzkobo",
+      "nameJa": "熊井友理奈",
+      "nameKana": "クマイ ユリナ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/f45e21d31639d1d9fdbac853f839665d651fc044.jpg",
+      "details": {
+        "生年月日": "1993年8月3日",
+        "血液型": "B型",
+        "出身地": "神奈川県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424045138",
+      "lastSeen": "20150302080525"
+    },
+    {
+      "slug": "risako_sugaya",
+      "group": "berryzkobo",
+      "nameJa": "菅谷梨沙子",
+      "nameKana": "スガヤリサコ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/2459aab4842c02b44fe4295a17bd8c191c915f7c.jpg",
+      "details": {
+        "生年月日": "1994年4月4日",
+        "血液型": "A型",
+        "出身地": "神奈川県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424045138",
+      "lastSeen": "20150302080525"
+    }
+  ],
+  "beyooooonds": [
+    {
+      "slug": "reina_ichioka",
+      "group": "beyooooonds",
+      "nameJa": "一岡伶奈",
+      "nameKana": "イチオカ レイナ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/23b41071a2681e41c37b2358c696ca99cf116761.jpg",
+      "details": {
+        "生年月日": "1999年2月25日",
+        "血液型": "A型",
+        "出身地": "東京都"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20181122092157",
+      "lastSeen": "20240224093249"
+    },
+    {
+      "slug": "rika_shimakura",
+      "group": "beyooooonds",
+      "nameJa": "島倉りか",
+      "nameKana": "シマクラ リカ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/8857069cd3ab2d4f52dc5b29a3bde554ea75f867.jpg",
+      "details": {
+        "生年月日": "2000年8月20日",
+        "血液型": "A型",
+        "出身地": "東京都"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20181122092157",
+      "lastSeen": "20241218114516"
+    },
+    {
+      "slug": "shiori_nishida",
+      "group": "beyooooonds",
+      "nameJa": "西田汐里",
+      "nameKana": "ニシダ シオリ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/b7b5d3d39fdf05e471fe1793043531092d6b7f8c.jpg",
+      "details": {
+        "生年月日": "2003年6月7日",
+        "血液型": "B型",
+        "出身地": "京都府"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20181122092157",
+      "lastSeen": "20241218114516"
+    },
+    {
+      "slug": "saya_eguchi",
+      "group": "beyooooonds",
+      "nameJa": "江口紗耶",
+      "nameKana": "エグチ サヤ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/a9ac1966d58bcc9bd13b0d798786ffa753d83f79.jpg",
+      "details": {
+        "生年月日": "2003年8月1日",
+        "血液型": "O型",
+        "出身地": "兵庫県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20181122092157",
+      "lastSeen": "20241218114516"
+    },
+    {
+      "slug": "kurumi_takase",
+      "group": "beyooooonds",
+      "nameJa": "高瀬くるみ",
+      "nameKana": "タカセ クルミ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/e6eb47390478dd63d93e3478d03d32c1d219a398.jpg",
+      "details": {
+        "生年月日": "1999年3月16日",
+        "血液型": "A型",
+        "出身地": "栃木県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20181122092157",
+      "lastSeen": "20241218114516"
+    },
+    {
+      "slug": "kokoro_maeda",
+      "group": "beyooooonds",
+      "nameJa": "前田こころ",
+      "nameKana": "マエダ ココロ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/f039477f6592e53a98a70c643cf6c71a77e8461c.jpg",
+      "details": {
+        "生年月日": "2002年6月23日",
+        "血液型": "A型",
+        "出身地": "埼玉県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20181122092157",
+      "lastSeen": "20241218114516"
+    },
+    {
+      "slug": "yuhane_yamazaki",
+      "group": "beyooooonds",
+      "nameJa": "山﨑夢羽",
+      "nameKana": "ヤマザキ ユハネ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/3ed461320ee569793e2f74c3fd46b6f4bb57144c.jpg",
+      "details": {
+        "生年月日": "2002年11月5日",
+        "血液型": "AB型",
+        "出身地": "愛知県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20181122092157",
+      "lastSeen": "20240624164723"
+    },
+    {
+      "slug": "minami_okamura",
+      "group": "beyooooonds",
+      "nameJa": "岡村美波",
+      "nameKana": "オカムラ ミナミ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/16603cd37e4e76325f47597906e3988a7699aa91.jpg",
+      "details": {
+        "生年月日": "2004年10月20日",
+        "血液型": "O型",
+        "出身地": "大阪府"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20181122092157",
+      "lastSeen": "20241218114516"
+    },
+    {
+      "slug": "momohime_kiyono",
+      "group": "beyooooonds",
+      "nameJa": "清野桃々姫",
+      "nameKana": "キヨノ モモヒメ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/f9236e91fd42f516f59ad283a48f560d0f015c78.jpg",
+      "details": {
+        "生年月日": "2004年12月22日",
+        "血液型": "A型",
+        "出身地": "東京都"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20181122092157",
+      "lastSeen": "20241218114516"
+    },
+    {
+      "slug": "miyo_hirai",
+      "group": "beyooooonds",
+      "nameJa": "平井美葉",
+      "nameKana": "ヒライ ミヨ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/790b673073b2cd6d8bc1e1a8b461d2ba50fa033f.jpg",
+      "details": {
+        "生年月日": "1999年12月11日",
+        "血液型": "A型",
+        "出身地": "東京都"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20181226132225",
+      "lastSeen": "20241218114516"
+    },
+    {
+      "slug": "honoka_kobayashi",
+      "group": "beyooooonds",
+      "nameJa": "小林萌花",
+      "nameKana": "コバヤシ ホノカ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/70bbb47cdc626c062fd73a99e9471ec8ee711be6.jpg",
+      "details": {
+        "生年月日": "2000年8月16日",
+        "血液型": "不明",
+        "出身地": "東京都"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20181226132225",
+      "lastSeen": "20241218114516"
+    },
+    {
+      "slug": "utano_satoyoshi",
+      "group": "beyooooonds",
+      "nameJa": "里吉うたの",
+      "nameKana": "サトヨシ ウタノ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/d283136a93dee82ce7330399a9f5bbf0ac443190.jpg",
+      "details": {
+        "生年月日": "2000年9月22日",
+        "血液型": "A型",
+        "出身地": "東京都"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20181226132225",
+      "lastSeen": "20241218114516"
+    }
+  ],
+  "c-ute": [
+    {
+      "slug": "maimi_yajima",
+      "group": "c-ute",
+      "nameJa": "矢島舞美",
+      "nameKana": "ヤジマ マイミ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/740dd0df6e7b0a313099b016a1eec1e22894a19f.jpg",
+      "details": {
+        "生年月日": "1992年2月7日",
+        "血液型": "O型",
+        "出身地": "埼玉県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424052238",
+      "lastSeen": "20170521163759"
+    },
+    {
+      "slug": "saki_nakajima",
+      "group": "c-ute",
+      "nameJa": "中島早貴",
+      "nameKana": "ナカジマ サキ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/701023f816f6d65af9e6998697b83f919fd3634e.jpg",
+      "details": {
+        "生年月日": "1994年2月5日",
+        "血液型": "O型",
+        "出身地": "埼玉県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424052238",
+      "lastSeen": "20170521163759"
+    },
+    {
+      "slug": "airi_suzuki",
+      "group": "c-ute",
+      "nameJa": "鈴木愛理",
+      "nameKana": "スズキ アイリ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/7228794743f0da6ea014de8f0e98bffb53640d70.jpg",
+      "details": {
+        "生年月日": "1994年4月12日",
+        "血液型": "B型",
+        "出身地": "千葉県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424052238",
+      "lastSeen": "20170521163759"
+    },
+    {
+      "slug": "chisato_okai",
+      "group": "c-ute",
+      "nameJa": "岡井千聖",
+      "nameKana": "オカイ チサト",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/e7132a08b1f59955da2380643933c1789c6fd3bc.jpg",
+      "details": {
+        "生年月日": "1994年6月21日",
+        "血液型": "A型",
+        "出身地": "埼玉県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424052238",
+      "lastSeen": "20170521163759"
+    },
+    {
+      "slug": "mai_hagiwara",
+      "group": "c-ute",
+      "nameJa": "萩原舞",
+      "nameKana": "ハギワラ マイ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/2fec3feecff1360f4f493e98998e33d13e02b870.jpg",
+      "details": {
+        "生年月日": "1996年2月7日",
+        "血液型": "AB型",
+        "出身地": "埼玉県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424052238",
+      "lastSeen": "20170521163759"
+    }
+  ],
+  "helloprokenshusei": [
+    {
+      "slug": "nanami_tanabe",
+      "group": "helloprokenshusei",
+      "nameJa": "田辺奈菜美",
+      "nameKana": "タナベ ナナミ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/8b6025b4510e9cc12f0d29272493db106ecb44d0.jpg",
+      "details": {
+        "生年月日": "1999年11月10日",
+        "血液型": "A型",
+        "出身地": "神奈川県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424060848",
+      "lastSeen": "20141010085535"
+    },
+    {
+      "slug": "kurumi_yoshihashi",
+      "group": "helloprokenshusei",
+      "nameJa": "吉橋くるみ",
+      "nameKana": "ヨシハシ クルミ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/3ba651aa889dc0c269679723ecedd9c8d1aaf7df.jpg",
+      "details": {
+        "生年月日": "1999年9月22日",
+        "血液型": "A型",
+        "出身地": "千葉県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424060848",
+      "lastSeen": "20141010085535"
+    },
+    {
+      "slug": "ayano_hamaura",
+      "group": "helloprokenshusei",
+      "nameJa": "浜浦彩乃",
+      "nameKana": "ハマウラ アヤノ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/14adff553e7d513ac20717da959cf260e3a59196.jpg",
+      "details": {
+        "生年月日": "2000年4月26日",
+        "血液型": "-",
+        "出身地": "埼玉県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424060848",
+      "lastSeen": "20150416042009"
+    },
+    {
+      "slug": "natsumi_taguchi",
+      "group": "helloprokenshusei",
+      "nameJa": "田口夏実",
+      "nameKana": "タグチ ナツミ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/8d1faf0c1da2c32a00edcd2216048f40ad08aa66.jpg",
+      "details": {
+        "生年月日": "2000年7月21日",
+        "血液型": "A型",
+        "出身地": "埼玉県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424060848",
+      "lastSeen": "20150416042009"
+    },
+    {
+      "slug": "rena_ogawa",
+      "group": "helloprokenshusei",
+      "nameJa": "小川麗奈",
+      "nameKana": "オガワ レナ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/5e50db6e4d3e9e02e58a064650f6d8f2589c283f.jpg",
+      "details": {
+        "生年月日": "2000年3月27日",
+        "血液型": "A型",
+        "出身地": "栃木県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424060848",
+      "lastSeen": "20150416042009"
+    },
+    {
+      "slug": "fuyuka_kosuga",
+      "group": "helloprokenshusei",
+      "nameJa": "小数賀芙由香",
+      "nameKana": "コスガ フユカ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/ae214f044733195e35689aeff7b6c9a0201d8ad8.jpg",
+      "details": {
+        "生年月日": "1997年11月19日",
+        "血液型": "O型",
+        "出身地": "神奈川県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424060848",
+      "lastSeen": "20140424060848"
+    },
+    {
+      "slug": "riko_yamagishi",
+      "group": "helloprokenshusei",
+      "nameJa": "山岸理子",
+      "nameKana": "ヤマギシ リコ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/3658f403803bdee756a69247a2bf31aefae8c80d.jpg",
+      "details": {
+        "生年月日": "1998年11月24日",
+        "血液型": "B型",
+        "出身地": "千葉県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424060848",
+      "lastSeen": "20150416042009"
+    },
+    {
+      "slug": "minami_nomura",
+      "group": "helloprokenshusei",
+      "nameJa": "野村みな美",
+      "nameKana": "ノムラ ミナミ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/dc4fa5b6cfb1f8f5e56a622aa84e38711a45ae55.jpg",
+      "details": {
+        "生年月日": "2000年2月10日",
+        "血液型": "B型",
+        "出身地": "東京都"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424060848",
+      "lastSeen": "20150416042009"
+    },
+    {
+      "slug": "yumeno_kishimoto",
+      "group": "helloprokenshusei",
+      "nameJa": "岸本ゆめの",
+      "nameKana": "キシモト ユメノ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/34c991faa02ecdeab44eec4edb6f33062bd67c5d.jpg",
+      "details": {
+        "生年月日": "2000年4月1日",
+        "血液型": "B型",
+        "出身地": "大阪府"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424060848",
+      "lastSeen": "20150416042009"
+    },
+    {
+      "slug": "maria_makino",
+      "group": "helloprokenshusei",
+      "nameJa": "牧野真莉愛",
+      "nameKana": "マキノ マリア",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/6b86b038642cff49d53806918ac94f7261f17dbc.jpg",
+      "details": {
+        "生年月日": "2001年2月2日",
+        "血液型": "A型",
+        "出身地": "愛知県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424060848",
+      "lastSeen": "20140901103519"
+    },
+    {
+      "slug": "sakurako_wada",
+      "group": "helloprokenshusei",
+      "nameJa": "和田桜子",
+      "nameKana": "ワダ サクラコ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/e25bb2c172cf573b96ede2f0d76af37a5d7e3300.jpg",
+      "details": {
+        "生年月日": "2001年3月8日",
+        "血液型": "Ｂ型",
+        "出身地": "愛知県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424060848",
+      "lastSeen": "20150416042009"
+    },
+    {
+      "slug": "karen_tanaka",
+      "group": "helloprokenshusei",
+      "nameJa": "田中可恋",
+      "nameKana": "タナカ カレン",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/7090bb17cc67195920c4067c39db11f74aef0e36.jpg",
+      "details": {
+        "生年月日": "1997年12月24日",
+        "血液型": "A型",
+        "出身地": "愛知県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424060848",
+      "lastSeen": "20140728034354"
+    },
+    {
+      "slug": "manaka_inaba",
+      "group": "helloprokenshusei",
+      "nameJa": "稲場愛香",
+      "nameKana": "イナバ マナカ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/e0ac81dba62d43f1d03ac97f298b44127abe6e50.jpg",
+      "details": {
+        "生年月日": "1997年12月27日",
+        "血液型": "B型",
+        "出身地": "北海道"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424060848",
+      "lastSeen": "20141207152026"
+    },
+    {
+      "slug": "kana_mikame",
+      "group": "helloprokenshusei",
+      "nameJa": "三瓶海南",
+      "nameKana": "ミカメ カナ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/765d3fe5823db4ab6a59d238f89c655d74289060.jpg",
+      "details": {
+        "生年月日": "1998年8月28日",
+        "血液型": "A型",
+        "出身地": "愛知県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424060848",
+      "lastSeen": "20150113120617"
+    },
+    {
+      "slug": "rio_fujii",
+      "group": "helloprokenshusei",
+      "nameJa": "藤井梨央",
+      "nameKana": "フジイ リオ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/6d567d7c940f3acc28f01a28f2f34c44a32bb782.jpg",
+      "details": {
+        "生年月日": "1999年3月4日",
+        "血液型": "B型",
+        "出身地": "愛知県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424060848",
+      "lastSeen": "20150416042009"
+    },
+    {
+      "slug": "hikaru_inoue",
+      "group": "helloprokenshusei",
+      "nameJa": "井上ひかる",
+      "nameKana": "イノウエ ヒカル",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/fd520be2f80942daeafabd3c73c9126e7023a488.jpg",
+      "details": {
+        "生年月日": "2000年8月31日",
+        "血液型": "Ｂ型",
+        "出身地": "三重県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424060848",
+      "lastSeen": "20180105214722"
+    },
+    {
+      "slug": "risa_yamaki",
+      "group": "helloprokenshusei",
+      "nameJa": "山木梨沙",
+      "nameKana": "ヤマキ リサ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/fa4a17bb48883b110a8d2bed29cc1d32128f0990.jpg",
+      "details": {
+        "生年月日": "1997年10月14日",
+        "血液型": "B型",
+        "出身地": "東京都"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424060848",
+      "lastSeen": "20141207152026"
+    },
+    {
+      "slug": "yumei_yokogawa",
+      "group": "helloprokenshusei",
+      "nameJa": "横川夢衣",
+      "nameKana": "ヨコガワ ユメイ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/d6387771f20bde26e39e4ec571c533332ccc1a5b.jpg",
+      "details": {
+        "生年月日": "1999年3月14日",
+        "血液型": "A型",
+        "出身地": "京都府"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424060848",
+      "lastSeen": "20160630194117"
+    },
+    {
+      "slug": "kisora_niinuma",
+      "group": "helloprokenshusei",
+      "nameJa": "新沼希空",
+      "nameKana": "ニイヌマ キソラ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/46c39694b2927ff9588601d4d5a0909e7b8ba4e2.jpg",
+      "details": {
+        "生年月日": "1999年10月20日",
+        "血液型": "O型",
+        "出身地": "愛知県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424060848",
+      "lastSeen": "20150416042009"
+    },
+    {
+      "slug": "hirona_oura",
+      "group": "helloprokenshusei",
+      "nameJa": "大浦央菜",
+      "nameKana": "オオウラ ヒロナ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/de50eb4f70216ad4a5ee9789dc79bcaeda088cca.jpg",
+      "details": {
+        "生年月日": "2000年9月10日",
+        "血液型": "A型",
+        "出身地": "東京都"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424060848",
+      "lastSeen": "20140728034354"
+    },
+    {
+      "slug": "ruru_danbara",
+      "group": "helloprokenshusei",
+      "nameJa": "段原瑠々",
+      "nameKana": "ダンバラ ルル",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/903b21a1e10b1b97e6859cf474783e8a03ce81a9.jpg",
+      "details": {
+        "生年月日": "2001年5月7日",
+        "血液型": "A型",
+        "出身地": "広島県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140424060848",
+      "lastSeen": "20170626200223"
+    },
+    {
+      "slug": "miu_takemura",
+      "group": "helloprokenshusei",
+      "nameJa": "竹村未羽",
+      "nameKana": "タケムラ ミウ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/071d2b0ab891e4df2b2e513fefcb53df37ffadb7.jpg",
+      "details": {
+        "生年月日": "2001年4月28日",
+        "血液型": "O型",
+        "出身地": "岐阜県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140728034354",
+      "lastSeen": "20160315221732"
+    },
+    {
+      "slug": "kana_saitou",
+      "group": "helloprokenshusei",
+      "nameJa": "斎藤夏奈",
+      "nameKana": "サイトウ カナ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/027d6a67343aee0960b953ae9d242b21dc868777.jpg",
+      "details": {
+        "生年月日": "2001年8月26日",
+        "血液型": "不明",
+        "出身地": "埼玉県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140728034354",
+      "lastSeen": "20150416042009"
+    },
+    {
+      "slug": "nagisa_hashimoto",
+      "group": "helloprokenshusei",
+      "nameJa": "橋本渚",
+      "nameKana": "ハシモト ナギサ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/e81b3340d9867863d4cb5fef21eeb0be2f6f0a08.jpg",
+      "details": {
+        "生年月日": "1997年7月3日",
+        "血液型": "AB型",
+        "出身地": "神奈川県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20150312014559",
+      "lastSeen": "20160630194117"
+    },
+    {
+      "slug": "kizuki_horie",
+      "group": "helloprokenshusei",
+      "nameJa": "堀江葵月",
+      "nameKana": "ホリエ キヅキ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/1990764aae620e05c088ae58e89f856a29b7b46b.jpg",
+      "details": {
+        "生年月日": "1998年5月14日",
+        "血液型": "不明",
+        "出身地": "東京都"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20150312014559",
+      "lastSeen": "20180804200509"
+    },
+    {
+      "slug": "ayaka_hirose",
+      "group": "helloprokenshusei",
+      "nameJa": "広瀬彩海",
+      "nameKana": "ヒロセ アヤカ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/ced1f0ab7e86f4708c855aeba18ee770c313dab8.jpg",
+      "details": {
+        "生年月日": "1999年8月4日",
+        "血液型": "O型",
+        "出身地": "神奈川県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20150312014559",
+      "lastSeen": "20150416042009"
+    },
+    {
+      "slug": "rei_inoue",
+      "group": "helloprokenshusei",
+      "nameJa": "井上玲音",
+      "nameKana": "イノウエ　レイ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/47f39a4e7807ac3690244cd1f85dff8fa12e13e4.jpg",
+      "details": {
+        "生年月日": "2001年7月17日",
+        "血液型": "O型",
+        "出身地": "東京都"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20150312014559",
+      "lastSeen": "20150416042009"
+    },
+    {
+      "slug": "kiki_asakura",
+      "group": "helloprokenshusei",
+      "nameJa": "浅倉樹々",
+      "nameKana": "アサクラ キキ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/1cb862cbc20cc333818c5465b1be78676a86c5fc.jpg",
+      "details": {
+        "生年月日": "2000年9月3日",
+        "血液型": "AB型",
+        "出身地": "千葉県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20150312020822",
+      "lastSeen": "20150416042009"
+    },
+    {
+      "slug": "onoda_saori",
+      "group": "helloprokenshusei",
+      "nameJa": "小野田紗栞",
+      "nameKana": "オノダ サオリ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/465250dc042aa7dabe5411ffb1726278323a1994.jpg",
+      "details": {
+        "生年月日": "2001年12月17日",
+        "血液型": "O型",
+        "出身地": "静岡市"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20150312020822",
+      "lastSeen": "20160630194117"
+    },
+    {
+      "slug": "risa_ogata",
+      "group": "helloprokenshusei",
+      "nameJa": "小片リサ",
+      "nameKana": "オガタ リサ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/9df86d88e1c3af89dfdae06795f517452772db9f.jpg",
+      "details": {
+        "生年月日": "1998年11月5日",
+        "血液型": "A型",
+        "出身地": "東京都"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20150312020822",
+      "lastSeen": "20150416042009"
+    },
+    {
+      "slug": "shimano_momoko",
+      "group": "helloprokenshusei",
+      "nameJa": "島野萌々子",
+      "nameKana": "シマノ モモコ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/ba1853e25ad9fc1584545157795a8cc196745b3f.jpg",
+      "details": {
+        "生年月日": "1999年5月31日",
+        "血液型": "Ｏ型",
+        "出身地": "埼玉県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20150312020822",
+      "lastSeen": "20160630194117"
+    },
+    {
+      "slug": "ami_tanimoto",
+      "group": "helloprokenshusei",
+      "nameJa": "谷本安美",
+      "nameKana": "タニモト アミ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/38805d0787dbbb0d44267842f5db44d9c54048bb.jpg",
+      "details": {
+        "生年月日": "1999年11月16日",
+        "血液型": "B型",
+        "出身地": "北海道"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20150312020822",
+      "lastSeen": "20150416042009"
+    },
+    {
+      "slug": "mizuho_ono",
+      "group": "helloprokenshusei",
+      "nameJa": "小野瑞歩",
+      "nameKana": "オノ ミズホ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/56f76f44dcbde35405630c5de47c959118ccf063.jpg",
+      "details": {
+        "生年月日": "2000年9月29日",
+        "血液型": "O型",
+        "出身地": "東京都"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20150617000929",
+      "lastSeen": "20160630194117"
+    },
+    {
+      "slug": "rion_nakano",
+      "group": "helloprokenshusei",
+      "nameJa": "仲野りおん",
+      "nameKana": "ナカノ リオン",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/42bf0d243319884048d949910e6ac3abc69af193.jpg",
+      "details": {
+        "生年月日": "2001年9月5日",
+        "血液型": "A型",
+        "出身地": "埼玉県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20150617000929",
+      "lastSeen": "20160630194117"
+    },
+    {
+      "slug": "nanami_yanagawa",
+      "group": "helloprokenshusei",
+      "nameJa": "梁川奈々美",
+      "nameKana": "ヤナガワ ナナミ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/d200ad5fbdffbcfe62fda28f6da2f4b497868e7e.jpg",
+      "details": {
+        "生年月日": "2002年1月6日",
+        "血液型": "A型",
+        "出身地": "神奈川県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20150617000929",
+      "lastSeen": "20151221073815"
+    },
+    {
+      "slug": "mao_akiyama",
+      "group": "helloprokenshusei",
+      "nameJa": "秋山眞緒",
+      "nameKana": "アキヤマ マオ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/81ac77e2a25fc37bc4e65c0130914cce94853ec6.jpg",
+      "details": {
+        "生年月日": "2002年7月29日",
+        "血液型": "B型",
+        "出身地": "大阪府"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20150617000929",
+      "lastSeen": "20160630194117"
+    },
+    {
+      "slug": "mizuki_kanatu",
+      "group": "helloprokenshusei",
+      "nameJa": "金津美月",
+      "nameKana": "カナツ ミヅキ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/61f335a12355313bd08291a7900ac20101d46ec5.jpg",
+      "details": {
+        "生年月日": "2002年10月9日",
+        "血液型": "O型",
+        "出身地": "東京都"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20150617000929",
+      "lastSeen": "20180804200509"
+    },
+    {
+      "slug": "honoka_okamoto",
+      "group": "helloprokenshusei",
+      "nameJa": "岡本帆乃花",
+      "nameKana": "オカモト ホノカ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/40369729adbf051d01d59f604a1ab1ac836d71b7.jpg",
+      "details": {
+        "生年月日": "2004年2月28日",
+        "血液型": "不明",
+        "出身地": "愛知県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20150617000929",
+      "lastSeen": "20151105232743"
+    },
+    {
+      "slug": "kurumi_noguchi",
+      "group": "helloprokenshusei",
+      "nameJa": "野口胡桃",
+      "nameKana": "ノグチ クルミ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/6bebb1a8519b5774c7514f84965d3ccdf39c07a3.jpg",
+      "details": {
+        "生年月日": "2001年8月29日",
+        "血液型": "A型",
+        "出身地": "大阪府"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20160226165240",
+      "lastSeen": "20180915115327"
+    },
+    {
+      "slug": "kotomi_ono",
+      "group": "helloprokenshusei",
+      "nameJa": "小野琴己",
+      "nameKana": "オノ コトミ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/b521fe0e789997ca1d8d553bb04141ddd8238e63.jpg",
+      "details": {
+        "生年月日": "2002年10月7日",
+        "血液型": "B型",
+        "出身地": "東京都"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20160226165240",
+      "lastSeen": "20190721063456"
+    },
+    {
+      "slug": "sakiko_kodama",
+      "group": "helloprokenshusei",
+      "nameJa": "児玉咲子",
+      "nameKana": "コダマ サキコ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/f00695b714f979fedf82d042a341b9745213727b.jpg",
+      "details": {
+        "生年月日": "2003年3月29日",
+        "血液型": "A型",
+        "出身地": "三重県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20160226165240",
+      "lastSeen": "20190106135646"
+    },
+    {
+      "slug": "kirara_yonemura",
+      "group": "helloprokenshusei",
+      "nameJa": "米村姫良々",
+      "nameKana": "ヨネムラ キララ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/725324e7551d0b4a4ada5df9a823ad26f7086b59.jpg",
+      "details": {
+        "生年月日": "2004年4月30日",
+        "血液型": "A型",
+        "出身地": "愛知県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20160226165240",
+      "lastSeen": "20211212062137"
+    },
+    {
+      "slug": "marie_yoshida",
+      "group": "helloprokenshusei",
+      "nameJa": "吉田真理恵",
+      "nameKana": "ヨシダ マリエ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/d12b0ffc83d9678d4cbf577669005bb099a2b685.jpg",
+      "details": {
+        "生年月日": "2003年4月29日",
+        "血液型": "A型",
+        "出身地": "東京都"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20161021014816",
+      "lastSeen": "20161226152504"
+    },
+    {
+      "slug": "rin_hashisako",
+      "group": "helloprokenshusei",
+      "nameJa": "橋迫鈴",
+      "nameKana": "ハシサコ リン",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/3d5d6a531740cb7eacff3a24be0832fbe2fa7774.jpg",
+      "details": {
+        "生年月日": "2005年10月6日",
+        "血液型": "O型",
+        "出身地": "愛知県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20161021014816",
+      "lastSeen": "20190614233421"
+    },
+    {
+      "slug": "marina_hibi",
+      "group": "helloprokenshusei",
+      "nameJa": "日比麻里那",
+      "nameKana": "ヒビ マリナ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/d1ca03a687dbde8307246b3d41561cd80360de88.jpg",
+      "details": {
+        "生年月日": "2002年12月17日",
+        "血液型": "AB型",
+        "出身地": "大阪府"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20170316003122",
+      "lastSeen": "20180915115327"
+    },
+    {
+      "slug": "rena_doi",
+      "group": "helloprokenshusei",
+      "nameJa": "土居麗菜",
+      "nameKana": "ドイ レナ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/2fc80d0539c7ccb3960be6e3e3befea87e970501.jpg",
+      "details": {
+        "生年月日": "2004年9月1日",
+        "血液型": "A型",
+        "出身地": "大阪府"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20170316003122",
+      "lastSeen": "20180915115327"
+    },
+    {
+      "slug": "riai_matsunaga",
+      "group": "helloprokenshusei",
+      "nameJa": "松永里愛",
+      "nameKana": "マツナガ リアイ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/262a13bf7dae5690399252772ce5c2c9a054dc69.jpg",
+      "details": {
+        "生年月日": "2005年7月7日",
+        "血液型": "不明",
+        "出身地": "大阪府"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20170316003122",
+      "lastSeen": "20190520011437"
+    },
+    {
+      "slug": "ichigo_yamada",
+      "group": "helloprokenshusei",
+      "nameJa": "山田苺",
+      "nameKana": "ヤマダ イチゴ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/54a29921498ffea5dfc9babdce5db03c136aedd9.jpg",
+      "details": {
+        "生年月日": "2005年7月15日",
+        "血液型": "O型",
+        "出身地": "静岡県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20170316003122",
+      "lastSeen": "20210417040655"
+    },
+    {
+      "slug": "natsume_nakayama",
+      "group": "helloprokenshusei",
+      "nameJa": "中山夏月姫",
+      "nameKana": "ナカヤマ ナツメ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/402e42bcf0bf773e39226ad2b39c7fdda79af3d8.jpg",
+      "details": {
+        "生年月日": "2005年7月20日",
+        "血液型": "A型",
+        "出身地": "石川県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20170316003122",
+      "lastSeen": "20211212062137"
+    },
+    {
+      "slug": "shion_tamenaga",
+      "group": "helloprokenshusei",
+      "nameJa": "為永幸音",
+      "nameKana": "タメナガ シオン",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/f127aa69085797a0a652517cc2a73af6a64f5b78.jpg",
+      "details": {
+        "生年月日": "2004年2月9日",
+        "血液型": "不明",
+        "出身地": "長野県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20180604123753",
+      "lastSeen": "20201101021311"
+    },
+    {
+      "slug": "nanami_kubota",
+      "group": "helloprokenshusei",
+      "nameJa": "窪田七海",
+      "nameKana": "クボタ ナナミ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/a6df8638e2204adee402fe67a060f4c4ec21f915.jpg",
+      "details": {
+        "生年月日": "2004年7月23日",
+        "血液型": "A型",
+        "出身地": "千葉県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20180604123753",
+      "lastSeen": "20211212062137"
+    },
+    {
+      "slug": "anna_shuttou",
+      "group": "helloprokenshusei",
+      "nameJa": "出頭杏奈",
+      "nameKana": "シュットウ アンナ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/ad23cb2c896104454f337193e105085de7cb6f4b.jpg",
+      "details": {
+        "生年月日": "2005年3月8日",
+        "血液型": "O型",
+        "出身地": "千葉県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20180604123753",
+      "lastSeen": "20190721063456"
+    },
+    {
+      "slug": "ruru_kanemitsu",
+      "group": "helloprokenshusei",
+      "nameJa": "金光留々",
+      "nameKana": "カネミツ ルル",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/6f9ae832485ee47b500fbfc822ba8f742851d4f9.jpg",
+      "details": {
+        "生年月日": "2005年9月2日",
+        "血液型": "O型",
+        "出身地": "東京都"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20180604123753",
+      "lastSeen": "20191228002016"
+    },
+    {
+      "slug": "yuriya_matsubara",
+      "group": "helloprokenshusei",
+      "nameJa": "松原ユリヤ",
+      "nameKana": "マツバラ ユリヤ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/9321c17236d4271ff11ae14181b99c64ab60e473.jpg",
+      "details": {
+        "生年月日": "2008年2月26日",
+        "血液型": "A型",
+        "出身地": "東京都"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20180604123753",
+      "lastSeen": "20220315082854"
+    },
+    {
+      "slug": "madoka_saitou",
+      "group": "helloprokenshusei",
+      "nameJa": "斉藤円香",
+      "nameKana": "サイトウ マドカ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/60590ca048670bb4f993ffa8e2231afbd7714db4.jpg",
+      "details": {
+        "生年月日": "2002年10月28日",
+        "血液型": "O型",
+        "出身地": "埼玉県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20181206081231",
+      "lastSeen": "20211212062137"
+    },
+    {
+      "slug": "mei_kusunoki",
+      "group": "helloprokenshusei",
+      "nameJa": "楠萌生",
+      "nameKana": "クスノキ メイ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/e04399f36edac14950c4583664075f6f08cb6cf0.jpg",
+      "details": {
+        "生年月日": "2004年11月10日",
+        "血液型": "B型",
+        "出身地": "大阪府"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20181206081231",
+      "lastSeen": "20190330131538"
+    },
+    {
+      "slug": "karin_onoda",
+      "group": "helloprokenshusei",
+      "nameJa": "小野田華凛",
+      "nameKana": "オノダ カリン",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/1d53f8d3d0c692c0d863ba9c7c1c2a0016580ba9.jpg",
+      "details": {
+        "生年月日": "2008年1月23日",
+        "血液型": "不明",
+        "出身地": "東京都"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20181206081231",
+      "lastSeen": "20240613042911"
+    },
+    {
+      "slug": "ruri_hiromoto",
+      "group": "helloprokenshusei",
+      "nameJa": "広本瑠璃",
+      "nameKana": "ヒロモト ルリ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/e0c16ada54c50b0470e952ca46bc3bc6d735c7f7.jpg",
+      "details": {
+        "生年月日": "2003年6月18日",
+        "血液型": "B型",
+        "出身地": "広島県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20190910150622",
+      "lastSeen": "20210427103259"
+    },
+    {
+      "slug": "honoka_hashida",
+      "group": "helloprokenshusei",
+      "nameJa": "橋田歩果",
+      "nameKana": "ハシダ ホノカ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/e648516e10f6bb3fc619e3f5616adacb61929870.jpg",
+      "details": {
+        "生年月日": "2005年10月17日",
+        "血液型": "B型",
+        "出身地": "東京都"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20190910150622",
+      "lastSeen": "20240613042911"
+    },
+    {
+      "slug": "miku_nishizaki",
+      "group": "helloprokenshusei",
+      "nameJa": "西﨑美空",
+      "nameKana": "ニシザキ ミク",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/cb1efb41dd60263ed57f125f9e536285cac2eabd.jpg",
+      "details": {
+        "生年月日": "2006年4月17日",
+        "血液型": "O型",
+        "出身地": "岡山県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20190910150622",
+      "lastSeen": "20211212062137"
+    },
+    {
+      "slug": "yuki_hirayama",
+      "group": "helloprokenshusei",
+      "nameJa": "平山遊季",
+      "nameKana": "ヒラヤマ ユキ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/cf3b248ec2f482e51757adadee097d6e1933ebfe.jpg",
+      "details": {
+        "生年月日": "2006年7月25日",
+        "血液型": "A型",
+        "出身地": "神奈川県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20190910150622",
+      "lastSeen": "20211224174323"
+    },
+    {
+      "slug": "momo_kitahara",
+      "group": "helloprokenshusei",
+      "nameJa": "北原もも",
+      "nameKana": "キタハラ モモ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/fc6102d0d762c461e4c6582d51ecdd86df19225e.jpg",
+      "details": {
+        "生年月日": "2006年8月30日",
+        "血液型": "A型",
+        "出身地": "東京都"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20190910150622",
+      "lastSeen": "20211212062137"
+    },
+    {
+      "slug": "kisaki_ebata",
+      "group": "helloprokenshusei",
+      "nameJa": "江端妃咲",
+      "nameKana": "エバタ キサキ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/db609618855a9af757f8ec076bb51b853a6a1980.jpg",
+      "details": {
+        "生年月日": "2007年1月30日",
+        "血液型": "A型",
+        "出身地": "京都府"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20190910150622",
+      "lastSeen": "20210427103259"
+    },
+    {
+      "slug": "runo_yofuu",
+      "group": "helloprokenshusei",
+      "nameJa": "豫風瑠乃",
+      "nameKana": "ヨフウ ルノ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/7c845ffae13918732aa6af27d3a68a46e05e98b6.jpg",
+      "details": {
+        "生年月日": "2007年12月20日",
+        "血液型": "O型",
+        "出身地": "大阪府"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20190910150622",
+      "lastSeen": "20210427103259"
+    },
+    {
+      "slug": "hasumi_uemura",
+      "group": "helloprokenshusei",
+      "nameJa": "植村葉純",
+      "nameKana": "ウエムラ ハスミ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/d8ddaa5947f8c53a18f7c22172027ce84a417daf.jpg",
+      "details": {
+        "生年月日": "2008年2月25日",
+        "血液型": "不明",
+        "出身地": "大阪府"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20190910150622",
+      "lastSeen": "20240613042911"
+    },
+    {
+      "slug": "ayana_murakoshi",
+      "group": "helloprokenshusei",
+      "nameJa": "村越彩菜",
+      "nameKana": "ムラコシ アヤナ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/82d8c916b1e4b9a65ea8b199092f938e4bfabed3.jpg",
+      "details": {
+        "生年月日": "2008年2月11日",
+        "血液型": "B型",
+        "出身地": "千葉県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20190910150622",
+      "lastSeen": "20240613042911"
+    },
+    {
+      "slug": "ichika_arisawa",
+      "group": "helloprokenshusei",
+      "nameJa": "有澤一華",
+      "nameKana": "アリサワ イチカ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/fef3d009daf66db1dbf8503a3960b9622bc7e27b.jpg",
+      "details": {
+        "生年月日": "2003年12月23日",
+        "血液型": "O型",
+        "出身地": "大阪府"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20210126215002",
+      "lastSeen": "20210427103259"
+    },
+    {
+      "slug": "sakura_ishiyama",
+      "group": "helloprokenshusei",
+      "nameJa": "石山咲良",
+      "nameKana": "イシヤマ サクラ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/5371c09991be107571f8b08377733edd1b265526.jpg",
+      "details": {
+        "生年月日": "2004年2月22日",
+        "血液型": "B型",
+        "出身地": "東京都"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20210126215002",
+      "lastSeen": "20220626231418"
+    },
+    {
+      "slug": "hinoha_yoshida",
+      "group": "helloprokenshusei",
+      "nameJa": "吉田姫杷",
+      "nameKana": "ヨシダ ヒノハ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/98cdddd9962d402ebf32435ec2b78c2d49b1d8cf.jpg",
+      "details": {
+        "生年月日": "2007年7月8日",
+        "血液型": "AB型",
+        "出身地": "埼玉県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20210907064620",
+      "lastSeen": "20240613042911"
+    },
+    {
+      "slug": "mifu_kawashima",
+      "group": "helloprokenshusei",
+      "nameJa": "川嶋美楓",
+      "nameKana": "カワシマ ミフ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/2ec9cdfe70306673c5377b4472b28364a4d82344.jpg",
+      "details": {
+        "生年月日": "2007年12月13日",
+        "血液型": "AB型",
+        "出身地": "京都府"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20210907064620",
+      "lastSeen": "20230328100831"
+    },
+    {
+      "slug": "hana_goto",
+      "group": "helloprokenshusei",
+      "nameJa": "後藤花",
+      "nameKana": "ゴトウ ハナ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/f5ec08d43f740d339345a8f9662ef4fac65b1fa6.jpg",
+      "details": {
+        "生年月日": "2008年6月5日",
+        "血液型": "O型",
+        "出身地": "埼玉県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20220228091942",
+      "lastSeen": "20230328100831"
+    },
+    {
+      "slug": "karin_maeshima",
+      "group": "helloprokenshusei",
+      "nameJa": "前島花凛",
+      "nameKana": "マエシマ カリン",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/c38eea8b5f0b1c9681dbfee93fc95d940b06f8f6.jpg",
+      "details": {
+        "生年月日": "2009年8月22日",
+        "血液型": "O型",
+        "出身地": "大阪府"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20220228091942",
+      "lastSeen": "20220315082854"
+    },
+    {
+      "slug": "yukiho_shimoitani",
+      "group": "helloprokenshusei",
+      "nameJa": "下井谷幸穂",
+      "nameKana": "シモイタニ ユキホ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/e778e7bb9736d1fe74b142f02dddd9940b6b562d.jpg",
+      "details": {
+        "生年月日": "2006年8月4日",
+        "血液型": "O型",
+        "出身地": "岡山県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20220809034721",
+      "lastSeen": "20230328100831"
+    },
+    {
+      "slug": "rena_kamimura",
+      "group": "helloprokenshusei",
+      "nameJa": "上村麗菜",
+      "nameKana": "カミムラ レナ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/ef2b395f33cee969e0698f593a07b59b5361a3fe.jpg",
+      "details": {
+        "生年月日": "2009年6月15日",
+        "血液型": "A型",
+        "出身地": "鹿児島県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20220809034721",
+      "lastSeen": "20240613042911"
+    },
+    {
+      "slug": "soara_kawano",
+      "group": "helloprokenshusei",
+      "nameJa": "河野空愛",
+      "nameKana": "カワノ ソアラ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/5aa055da98a63faefc5251f64b9d9a9ecc914189.jpg",
+      "details": {
+        "生年月日": "2006年10月6日",
+        "血液型": "B型",
+        "出身地": "福岡県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20230328100831",
+      "lastSeen": "20240903052157"
+    },
+    {
+      "slug": "toa_makino",
+      "group": "helloprokenshusei",
+      "nameJa": "牧野永愛",
+      "nameKana": "マキノ トア",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/05dbf7b56e81294da496567d0d5d6973c295988a.jpg",
+      "details": {
+        "生年月日": "2009年12月26日",
+        "血液型": "O型",
+        "出身地": "大阪府"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20230328100831",
+      "lastSeen": "20241210142702"
+    },
+    {
+      "slug": "niina_hayashi",
+      "group": "helloprokenshusei",
+      "nameJa": "林仁愛",
+      "nameKana": "ハヤシ ニイナ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/0a6df0ac2a5d09136a70a1548bcf934b8f583c84.jpg",
+      "details": {
+        "生年月日": "2011年6月10日",
+        "血液型": "A型",
+        "出身地": "愛知県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20230328100831",
+      "lastSeen": "20241210142702"
+    },
+    {
+      "slug": "hana_shimakawa",
+      "group": "helloprokenshusei",
+      "nameJa": "島川波菜",
+      "nameKana": "シマカワ ハナ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/318205a05bef887d6cc50c22999ba48ce4d175ed.jpg",
+      "details": {
+        "生年月日": "2008年4月18日",
+        "血液型": "A型",
+        "出身地": "神奈川県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20240207121907",
+      "lastSeen": "20240613042911"
+    },
+    {
+      "slug": "yurika_asano",
+      "group": "helloprokenshusei",
+      "nameJa": "浅野優莉花",
+      "nameKana": "アサノ ユリカ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/b81c2d7903f46f2ce21a9c2beb1b1040d4617413.jpg",
+      "details": {
+        "生年月日": "2009年7月31日",
+        "血液型": "O型",
+        "出身地": "神奈川県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20240207121907",
+      "lastSeen": "20241210142702"
+    },
+    {
+      "slug": "itsuki_nishimura",
+      "group": "helloprokenshusei",
+      "nameJa": "西村乙輝",
+      "nameKana": "ニシムラ イツキ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/539f87b2a13e79ebfd6393d341dc2c42a45d20da.jpg",
+      "details": {
+        "生年月日": "2010年10月15日",
+        "血液型": "A型",
+        "出身地": "神奈川県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20240207121907",
+      "lastSeen": "20241210142702"
+    },
+    {
+      "slug": "yume_soma",
+      "group": "helloprokenshusei",
+      "nameJa": "相馬優芽",
+      "nameKana": "ソウマ ユメ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/2142a795620c03ca2df1c38576c623951ebecde5.jpg",
+      "details": {
+        "生年月日": "2011年2月4日",
+        "血液型": "O型",
+        "出身地": "埼玉県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20240207121907",
+      "lastSeen": "20240613042911"
+    },
+    {
+      "slug": "meisa_sugihara",
+      "group": "helloprokenshusei",
+      "nameJa": "杉原明紗",
+      "nameKana": "スギハラ メイサ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/ed453aea3185c8ed3985cf0017880c0c7d802085.jpg",
+      "details": {
+        "生年月日": "2011年12月20日",
+        "血液型": "不明",
+        "出身地": "兵庫県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20240207121907",
+      "lastSeen": "20241210142702"
+    }
+  ],
+  "juicejuice": [
+    {
+      "slug": "yuka_miyazaki",
+      "group": "juicejuice",
+      "nameJa": "宮崎由加",
+      "nameKana": "ミヤザキ ユカ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/6201bfb14e3cb8376e4e048b4dc91f2776931c26.jpg",
+      "details": {
+        "生年月日": "1994年4月2日",
+        "血液型": "O型",
+        "出身地": "石川県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140702141532",
+      "lastSeen": "20190615053204"
+    },
+    {
+      "slug": "tomoko_kanazawa",
+      "group": "juicejuice",
+      "nameJa": "金澤朋子",
+      "nameKana": "カナザワ トモコ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/9ac502dd3dbe8032ec288899ee0378a1539a3948.jpg",
+      "details": {
+        "生年月日": "1995年7月2日",
+        "血液型": "B型",
+        "出身地": "埼玉県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140702141532",
+      "lastSeen": "20211111123430"
+    },
+    {
+      "slug": "sayuki_takagi",
+      "group": "juicejuice",
+      "nameJa": "高木紗友希",
+      "nameKana": "タカギ サユキ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/fd3110e9836268895c378053fd01c33526d2fee6.jpg",
+      "details": {
+        "生年月日": "1997年4月21日",
+        "血液型": "A型",
+        "出身地": "千葉県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140702141532",
+      "lastSeen": "20210211151756"
+    },
+    {
+      "slug": "karinn_miyamoto",
+      "group": "juicejuice",
+      "nameJa": "宮本佳林",
+      "nameKana": "ミヤモト カリン",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/d505203d10f2f88dfd060c273ce50814ec2e955d.jpg",
+      "details": {
+        "生年月日": "1998年12月1日",
+        "血液型": "O型",
+        "出身地": "千葉県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140702141532",
+      "lastSeen": "20171222233025"
+    },
+    {
+      "slug": "akari_uemura",
+      "group": "juicejuice",
+      "nameJa": "植村あかり",
+      "nameKana": "ウエムラ アカリ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/bf2f3149c25f5c896f00e9ea1968ae70adba8fc3.jpg",
+      "details": {
+        "生年月日": "1998年12月30日",
+        "血液型": "O型",
+        "出身地": "大阪府"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20140702141532",
+      "lastSeen": "20240615105316"
+    }
+  ],
+  "ochanorma": [
+    {
+      "slug": "kanami_ishiguri",
+      "group": "ochanorma",
+      "nameJa": "石栗奏美",
+      "nameKana": "イシグリ カナミ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/7e81acb3550cdfabfe2db154ca2217765486faa4.jpg",
+      "details": {
+        "生年月日": "2004年4月20日",
+        "血液型": "A型",
+        "出身地": "北海道"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20211224041404",
+      "lastSeen": "20241204051020"
+    },
+    {
+      "slug": "sumire_tashiro",
+      "group": "ochanorma",
+      "nameJa": "田代すみれ",
+      "nameKana": "タシロ スミレ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/6717ea2f4527442876217b8ccb79a64c06932bc6.jpg",
+      "details": {
+        "生年月日": "2005年6月16日",
+        "血液型": "不明",
+        "出身地": "神奈川県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20211224041404",
+      "lastSeen": "20241204051020"
+    }
+  ],
+  "tsubakifactory": [
+    {
+      "slug": "shiori_yagi",
+      "group": "tsubakifactory",
+      "nameJa": "八木栞",
+      "nameKana": "ヤギ シオリ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/df5aaff88d56948cf9fd52a51e99373f065e4db0.jpg",
+      "details": {
+        "生年月日": "2003年9月19日",
+        "血液型": "O型",
+        "出身地": "愛知県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20210711092255",
+      "lastSeen": "20241213145423"
+    }
+  ],
+  "countrygirls": [
+    {
+      "slug": "uta_shimamura",
+      "group": "countrygirls",
+      "nameJa": "島村嬉唄",
+      "nameKana": "シマムラ ウタ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/a9206017f8c0a296c1ac4939b20ca373edb9a3e3.jpg",
+      "details": {
+        "生年月日": "2000年6月24日",
+        "血液型": "O型",
+        "出身地": "神奈川県"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20141231233159",
+      "lastSeen": "20150517051725"
+    },
+    {
+      "slug": "mai_ozeki",
+      "group": "countrygirls",
+      "nameJa": "小関舞",
+      "nameKana": "オゼキ マイ",
+      "thumbnail": "http://cdn.helloproject.com/img/artist/m/b378f6eb3373e9f368e5da7c86cdf0bca02782b1.jpg",
+      "details": {
+        "生年月日": "2002年2月10日",
+        "血液型": "O型",
+        "出身地": "東京都"
+      },
+      "source": "helloproject",
+      "era": "html",
+      "firstSeen": "20141231233159",
+      "lastSeen": "20191226045404"
+    }
+  ]
+}

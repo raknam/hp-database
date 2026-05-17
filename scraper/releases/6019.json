@@ -1,0 +1,71 @@
+{
+  "id": 6019,
+  "url": "/release/6019/",
+  "title": "演劇女子部「不思議の国のアリスたち」オリジナルサウンドトラック",
+  "category": "CDアルバム",
+  "artist": "BEYOOOOONDS",
+  "releaseDate": "2019.5.29",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/efa705addaad668676ade556bd008a83306fade1.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "不思議の国のアリスたち",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "太田善也",
+                "作曲": "和田俊輔",
+                "編曲": "岩永真奈",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "みんなライバル",
+              "duration": "02:28",
+              "credits": {
+                "作詞": "太田善也",
+                "作曲": "和田俊輔",
+                "編曲": "岩永真奈",
+                "歌": "CHICA#TETSU & 雨ノ森 川海"
+              }
+            },
+            {
+              "index": 3,
+              "title": "私のフィロソフィー",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "太田善也",
+                "作曲": "和田俊輔",
+                "編曲": "岩永真奈",
+                "歌": "CHICA#TETSU"
+              }
+            },
+            {
+              "index": 4,
+              "title": "続いてる",
+              "duration": "03:02",
+              "credits": {
+                "作詞": "太田善也",
+                "作曲": "和田俊輔",
+                "編曲": "岩永真奈",
+                "歌": "雨ノ森 川海"
+              }
+            }
+          ],
+          "catalogNo": "UFCW-1140"
+        }
+      ]
+    }
+  ]
+}

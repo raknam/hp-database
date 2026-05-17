@@ -1,0 +1,38 @@
+{
+  "id": 7540,
+  "url": "/release/7540/",
+  "title": "あるべきキミであれ",
+  "category": "配信",
+  "artist": "ハロプロ研修生",
+  "releaseDate": "2025.9.7",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/b6e2049b7dc391866e78aaca55336c4302cabd1c.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "あるべきキミであれ",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中村瑛彦",
+                "歌": "ハロプロ研修生"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1566"
+        }
+      ]
+    }
+  ]
+}

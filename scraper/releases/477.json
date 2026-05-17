@@ -1,0 +1,56 @@
+{
+  "id": 477,
+  "url": "/release/477/",
+  "title": "シングルV「雑草のうた」",
+  "category": "DVDシングルV",
+  "artist": "Buono!",
+  "releaseDate": "2011.2.23",
+  "label": "zetima",
+  "images": [
+    "/upload/images/e1fc0ebb4fc4ae3dda1582bbfefa554379a074b7.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "雑草のうた",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "井上慎二郎",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "雑草のうた",
+              "duration": "04:01",
+              "suffix": "(Live at the Garage Ver.)",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "井上慎二郎",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "10:49",
+              "credits": {
+                "出演": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5399"
+        }
+      ]
+    }
+  ]
+}

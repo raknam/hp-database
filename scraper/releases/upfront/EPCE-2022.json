@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-2022",
+  "url": "/release/detail/EPCE-2022/",
+  "source": "upfront",
+  "title": "鴎かもめ 〜グラロス〜",
+  "category": "CDシングル",
+  "artist": "内藤やす子",
+  "releaseDate": "2004/02/04",
+  "label": "地中海レーベル",
+  "images": [
+    "/images/eb7aa56eccfe820a23d01649de59d073fb3e3738.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/eb7aa56eccfe820a23d01649de59d073fb3e3738.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-2022",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "鴎かもめ〜グラロス〜",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "松井五郎",
+                "作曲": "都志見隆",
+                "編曲": "船山基紀"
+              }
+            },
+            {
+              "index": 2,
+              "title": "風の鈴 〜ラ・クロシェット〜",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "松井五郎",
+                "作曲": "上野義雄",
+                "編曲": "船山基紀"
+              }
+            },
+            {
+              "index": 3,
+              "title": "鴎かもめ〜グラロス〜(オリジナル・カラオケ)",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "松井五郎",
+                "作曲": "都志見隆",
+                "編曲": "船山基紀"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

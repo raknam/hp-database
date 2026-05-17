@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5117",
+  "url": "/release/detail/EPCE-5117/",
+  "source": "upfront",
+  "title": "LOVE涙色",
+  "category": "CDシングル",
+  "artist": "松浦亜弥",
+  "releaseDate": "2001/09/05",
+  "label": "zetima",
+  "images": [
+    "/images/31f69f530b80627fb6c72bf45081f4cc0a2fa0d1.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/31f69f530b80627fb6c72bf45081f4cc0a2fa0d1.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5117",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "LOVE涙色",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "渡部チェル"
+              }
+            },
+            {
+              "index": 2,
+              "title": "○○-女子校生の主張-",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "LOVE涙色(Instrumental)",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "渡部チェル"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

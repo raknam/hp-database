@@ -1,0 +1,380 @@
+{
+  "id": 1956,
+  "url": "/release/1956/",
+  "title": "cha cha SING",
+  "category": "CDシングル",
+  "artist": "Berryz工房",
+  "releaseDate": "2012.7.25",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/upload/images/263290562e132a654f5d4633587fa1568d8c41ee.webp",
+    "/upload/images/0eab80cebeb2d854bf8a24195f4dcbc38ca9695e.webp",
+    "/upload/images/2713f1503af69a3aa7c2d9668909dc0ba8c342b4.webp",
+    "/upload/images/54194dde24514cb3f842e81bd5e99d053381e122.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/263290562e132a654f5d4633587fa1568d8c41ee.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "cha cha SING",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "Mukek Jongmankhong/日本語詞：つんく",
+                "作曲": "Sudsan Wongsamut",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Loving you Too much",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "Apisit Opasimlikit/日本語詞：つんく",
+                "作曲": "Thana Lawasut",
+                "編曲": "鈴木Daichi秀行/Rapアレンジ：U.M.E.D.Y.",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ももち！許してにゃん♡体操",
+              "duration": "02:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一",
+                "歌": "ももち(嗣永桃子 feat. Berryz工房)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "cha cha SING",
+              "duration": "04:33",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "Mukek Jongmankhong/日本語詞：つんく",
+                "作曲": "Sudsan Wongsamut",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Loving you Too much",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "Apisit Opasimlikit/日本語詞：つんく",
+                "作曲": "Thana Lawasut",
+                "編曲": "鈴木Daichi秀行/Rapアレンジ：U.M.E.D.Y.",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ももち！許してにゃん♡体操",
+              "duration": "02:41",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一",
+                "歌": "ももち(嗣永桃子 feat. Berryz工房)"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5210"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "cha cha SING",
+              "duration": "04:51",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "Mukek Jongmankhong/日本語詞：つんく",
+                "作曲": "Sudsan Wongsamut",
+                "出演": "Berryz工房"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/0eab80cebeb2d854bf8a24195f4dcbc38ca9695e.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "cha cha SING",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "Mukek Jongmankhong/日本語詞：つんく",
+                "作曲": "Sudsan Wongsamut",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Loving you Too much",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "Apisit Opasimlikit/日本語詞：つんく",
+                "作曲": "Thana Lawasut",
+                "編曲": "鈴木Daichi秀行/Rapアレンジ：U.M.E.D.Y.",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ももち！許してにゃん♡体操",
+              "duration": "02:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一",
+                "歌": "ももち(嗣永桃子 feat. Berryz工房)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "cha cha SING",
+              "duration": "04:33",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "Mukek Jongmankhong/日本語詞:つんく",
+                "作曲": "Sudsan Wongsamut",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Loving you Too much",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "Apisit Opasimlikit/日本語詞:つんく",
+                "作曲": "Thana Lawasut",
+                "編曲": "鈴木Daichi秀行/Rapアレンジ:U.M.E.D.Y.",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ももち！許してにゃん♡体操",
+              "duration": "02:41",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一",
+                "歌": "ももち(嗣永桃子 feat. Berryz工房)"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5212"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "cha cha SING",
+              "duration": "04:50",
+              "suffix": "(Close-up Berryz工房 Ver.)",
+              "credits": {
+                "作詞": "Mukek Jongmankhong/日本語詞：つんく",
+                "作曲": "Sudsan Wongsamut",
+                "出演": "Berryz工房"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/2713f1503af69a3aa7c2d9668909dc0ba8c342b4.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "cha cha SING",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "Mukek Jongmankhong/日本語詞：つんく",
+                "作曲": "Sudsan Wongsamut",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Loving you Too much",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "Apisit Opasimlikit/日本語詞：つんく",
+                "作曲": "Thana Lawasut",
+                "編曲": "鈴木Daichi秀行/Rapアレンジ：U.M.E.D.Y.",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ももち！許してにゃん♡体操",
+              "duration": "02:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一",
+                "歌": "ももち(嗣永桃子 feat. Berryz工房)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "cha cha SING",
+              "duration": "04:33",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "Mukek Jongmankhong/日本語詞：つんく",
+                "作曲": "Sudsan Wongsamut",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Loving you Too much",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "Apisit Opasimlikit/日本語詞：つんく",
+                "作曲": "Thana Lawasut",
+                "編曲": "鈴木Daichi秀行/Rapアレンジ：U.M.E.D.Y.",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ももち！許してにゃん♡体操",
+              "duration": "02:41",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一",
+                "歌": "ももち(嗣永桃子 feat. Berryz工房)"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5214"
+        }
+      ],
+      "note": "イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/54194dde24514cb3f842e81bd5e99d053381e122.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "cha cha SING",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "Mukek Jongmankhong/日本語詞：つんく",
+                "作曲": "Sudsan Wongsamut",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Loving you Too much",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "Apisit Opasimlikit/日本語詞：つんく",
+                "作曲": "Thana Lawasut",
+                "編曲": "鈴木Daichi秀行/Rapアレンジ：U.M.E.D.Y.",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ももち！許してにゃん♡体操",
+              "duration": "02:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一",
+                "歌": "ももち(嗣永桃子 feat. Berryz工房)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "cha cha SING",
+              "duration": "04:33",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "Mukek Jongmankhong/日本語詞：つんく",
+                "作曲": "Sudsan Wongsamut",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Loving you Too much",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "Apisit Opasimlikit/日本語詞：つんく",
+                "作曲": "Thana Lawasut",
+                "編曲": "鈴木Daichi秀行/Rapアレンジ：U.M.E.D.Y.",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ももち！許してにゃん♡体操",
+              "duration": "02:41",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一",
+                "歌": "ももち(嗣永桃子 feat. Berryz工房)"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5215"
+        }
+      ]
+    }
+  ]
+}

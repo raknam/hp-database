@@ -1,0 +1,93 @@
+{
+  "code": "UFBW-1602",
+  "url": "/release/detail/UFBW-1602/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.45",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2018/07/11",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/228f67e393e5a8b7aefe55ecb5a349c2d4dab751.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/228f67e393e5a8b7aefe55ecb5a349c2d4dab751.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1602",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "PICK UP MUSIC「インスタ映えする青春写真を撮ろう！」♪青春まんまんなか！/つばきファクトリー",
+              "duration": "15:03"
+            },
+            {
+              "index": 2,
+              "title": "PICK UP MUSIC「コレ！さえあればなんにもいらない」♪愛さえあればなんにもいらない/アンジュルム",
+              "duration": "13:42"
+            },
+            {
+              "index": 3,
+              "title": "PICK UP MUSIC「最新トラベルグッズ」♪初めてを経験中/Juice=Juice",
+              "duration": "14:52"
+            },
+            {
+              "index": 4,
+              "title": "ナミダイロノケツイ【スタジオライブ集】",
+              "duration": "04:51",
+              "credits": {
+                "作詞": "近藤薫",
+                "作曲": "近藤薫"
+              }
+            },
+            {
+              "index": 5,
+              "title": "独り占め【スタジオライブ集】",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "希望と青春のヒカリ【スタジオライブ集】",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "本上遼",
+                "作曲": "本上遼"
+              }
+            },
+            {
+              "index": 7,
+              "title": "FOREVER YOUNG【スタジオライブ集】",
+              "duration": "05:04",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo"
+              }
+            },
+            {
+              "index": 8,
+              "title": "いいじゃん【スタジオライブ集】",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo"
+              }
+            },
+            {
+              "index": 9,
+              "title": "インスタ映えする青春写真を撮ろう！より「橋を使ったインスタ映え写真」【未公開映像】",
+              "duration": "02:06"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

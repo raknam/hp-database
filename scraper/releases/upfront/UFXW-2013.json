@@ -1,0 +1,53 @@
+{
+  "code": "UFXW-2013",
+  "url": "/release/detail/UFXW-2013/",
+  "source": "upfront",
+  "title": "Greeting〜浜浦彩乃・和田桜子〜",
+  "category": "BD",
+  "artist": "浜浦彩乃/和田桜子",
+  "releaseDate": "2016/06/21",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/48e843a805fe0c20e2a732be1f96069acd48c126.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/48e843a805fe0c20e2a732be1f96069acd48c126.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "UFXW-2013",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opeing",
+              "duration": "01:07"
+            },
+            {
+              "index": 2,
+              "title": "New friends",
+              "duration": "20:16"
+            },
+            {
+              "index": 3,
+              "title": "After school & Interview",
+              "duration": "26:12"
+            },
+            {
+              "index": 4,
+              "title": "Girls sunset",
+              "duration": "08:24"
+            },
+            {
+              "index": 5,
+              "title": "Making",
+              "duration": "15:01"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "code": "EPCE-5024",
+  "url": "/release/detail/EPCE-5024/",
+  "source": "upfront",
+  "title": "ガレージ・オープニングソング集",
+  "category": "CDシングル",
+  "artist": "THE GARAGE",
+  "releaseDate": "1999/07/23",
+  "label": "zetima",
+  "images": [
+    "/images/36e72d99939bed659c8ba3ce5848cbcf77d024f4.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/36e72d99939bed659c8ba3ce5848cbcf77d024f4.jpg",
+      "price": "￥1,282 (税抜価格 ￥1,165)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5024",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "バン・バン・バン(4月度オ－プニング)",
+              "duration": "02:40",
+              "credits": {
+                "作詞": "かまやつひろし",
+                "作曲": "かまやつひろし",
+                "編曲": "高橋諭一とLH☆スターズ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "シーサイド・バウンド(5月度オープニング)",
+              "duration": "02:30",
+              "credits": {
+                "作詞": "橋本淳",
+                "作曲": "すぎやまこういち",
+                "編曲": "高橋諭一とLH☆スターズ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "神様お願い(6月度オープニング)",
+              "duration": "03:04",
+              "credits": {
+                "作詞": "松崎由治",
+                "作曲": "松崎由治",
+                "編曲": "高橋諭一とLH☆スターズ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "バン・バン・バン(Instrumental)",
+              "duration": "02:39",
+              "credits": {
+                "作詞": "かまやつひろし",
+                "作曲": "かまやつひろし",
+                "編曲": "高橋諭一とLH☆スターズ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "シーサイド・バウンド(Instrumental)",
+              "duration": "02:30",
+              "credits": {
+                "作詞": "橋本淳",
+                "作曲": "すぎやまこういち",
+                "編曲": "高橋諭一とLH☆スターズ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "神様お願い(Instrumental)",
+              "duration": "03:04",
+              "credits": {
+                "作詞": "松崎由治",
+                "作曲": "松崎由治",
+                "編曲": "高橋諭一とLH☆スターズ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

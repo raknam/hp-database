@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1407",
+  "url": "/release/detail/UFDL-1407/",
+  "source": "upfront",
+  "title": "ストレンジ フラワー",
+  "category": "配信",
+  "artist": "MALINA",
+  "releaseDate": "2018/08/27",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/aa82a0ff8af977835200537825aced466bad6bd8.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/aa82a0ff8af977835200537825aced466bad6bd8.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1407",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ストレンジ フラワー",
+              "duration": "05:19",
+              "credits": {
+                "作詞": "MALINA",
+                "作曲": "MALINA",
+                "編曲": "Jan Unit"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

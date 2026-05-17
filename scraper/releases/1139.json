@@ -1,0 +1,50 @@
+{
+  "id": 1139,
+  "url": "/release/1139/",
+  "title": "あすはデートなのに、今すぐ声が聞きたい",
+  "category": "CDシングル",
+  "artist": "スマイレージ",
+  "releaseDate": "2009.9.23",
+  "label": "Good Factory Records",
+  "images": [
+    "/upload/images/42d5986606df4514cc0064874f6756e6ddda4e89.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "あすはデートなのに、今すぐ声が聞きたい",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "あすはデートなのに、今すぐ声が聞きたい",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "GFCG-11602"
+        }
+      ]
+    }
+  ]
+}

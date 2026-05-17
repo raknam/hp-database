@@ -1,0 +1,58 @@
+{
+  "code": "HKVN-10003",
+  "url": "/release/detail/HKVN-10003/",
+  "source": "upfront",
+  "title": "アイドルをさがせ！ヒストリーPart2 ～ハロプロメンバー総出演！～",
+  "category": "VHS",
+  "artist": "V.A.",
+  "releaseDate": "2002/01/17",
+  "label": "hachama",
+  "images": [
+    "/images/45db6996aaebcbeecc4cb0fbd00363d52be09f86.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/45db6996aaebcbeecc4cb0fbd00363d52be09f86.jpg",
+      "price": "￥2,750 (税抜価格 ￥2,500)",
+      "discs": [
+        {
+          "type": "VHS",
+          "catalogNo": "HKVN-10003",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "00:22"
+            },
+            {
+              "index": 2,
+              "title": "モーニング娘。追加メンバー 緊張の初ステージ(2000年5月)",
+              "duration": "17:00"
+            },
+            {
+              "index": 3,
+              "title": "モーニング娘。CM撮影 舞台裏完全密着(2000年6月)",
+              "duration": "09:26"
+            },
+            {
+              "index": 4,
+              "title": "カントリー娘。石川梨華(モーニング娘。) 結成から初活動まで完全密着(2001年3月)",
+              "duration": "15:39"
+            },
+            {
+              "index": 5,
+              "title": "中澤裕子 ミニモニ。CM撮影 舞台裏完全密着(2000年12月)",
+              "duration": "09:30"
+            },
+            {
+              "index": 6,
+              "title": "中澤裕子 卒業ライブ BACK STAGE 完全密着(2001年4月15日)",
+              "duration": "07:54"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

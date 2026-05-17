@@ -1,0 +1,75 @@
+{
+  "id": 2379,
+  "url": "/release/2379/",
+  "title": "Simple",
+  "category": "DVD",
+  "artist": "工藤遥",
+  "releaseDate": "2014.10.22",
+  "label": "zetima",
+  "images": [
+    "/upload/images/b9b923d6fc6cd00b6c7724dd174ab87e3e3ac806.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Lunch",
+              "duration": "07:41",
+              "credits": {
+                "出演": "工藤 遥"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Sweet",
+              "duration": "03:48",
+              "credits": {
+                "出演": "工藤 遥"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Beach",
+              "duration": "11:13",
+              "credits": {
+                "出演": "工藤 遥"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Ryukyu",
+              "duration": "11:34",
+              "credits": {
+                "出演": "工藤 遥"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Making of Photobook",
+              "duration": "16:37",
+              "credits": {
+                "出演": "工藤 遥"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "01:15",
+              "credits": {
+                "出演": "工藤 遥"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5499"
+        }
+      ]
+    }
+  ]
+}

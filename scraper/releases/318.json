@@ -1,0 +1,60 @@
+{
+  "id": 318,
+  "url": "/release/318/",
+  "title": "シングルV「愛の園〜Touch My Heart!〜」",
+  "category": "DVDシングルV",
+  "artist": "モーニング娘。おとめ組",
+  "releaseDate": "2003.10.16",
+  "label": "zetima",
+  "images": [
+    "/upload/images/aa7494e80cea3050d931098ce83a40d34cfff435.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛の園〜Touch My Heart!〜",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "愛の園〜Touch My Heart!〜",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "05:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "出演": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5094"
+        }
+      ]
+    }
+  ]
+}

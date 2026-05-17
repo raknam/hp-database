@@ -1,0 +1,326 @@
+{
+  "id": 1223,
+  "url": "/release/1223/",
+  "title": "タチアガール",
+  "category": "CDシングル",
+  "artist": "スマイレージ",
+  "releaseDate": "2011.9.28",
+  "label": "hachama",
+  "images": [
+    "/upload/images/010d4039759c73d5c877c197efdd3ae66dc6e6dc.webp",
+    "/upload/images/c9073697ea256e9df39b1a1ed2eb6f44c4cc3140.webp",
+    "/upload/images/277957fe291c5571e9aaa3c94bcfbd4e9b0da5e0.webp",
+    "/upload/images/23c495d3030dfb70f85468bf39e1befb15c28fa9.webp",
+    "/upload/images/c3467dfeee05a190d2c18783ee5f3c332e1c4c85.webp",
+    "/upload/images/42af8bd2be3f8e1bd930b9e1887a13d4ca32dd13.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/010d4039759c73d5c877c197efdd3ae66dc6e6dc.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "タチアガール",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "スマイル音丼",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "オオバコウスケ",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "タチアガール",
+              "duration": "04:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50186"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "タチアガール",
+              "duration": "04:40",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/c9073697ea256e9df39b1a1ed2eb6f44c4cc3140.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "タチアガール",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "スマイル音丼",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "オオバコウスケ",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "タチアガール",
+              "duration": "04:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50188"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "タチアガール",
+              "duration": "04:40",
+              "suffix": "(悪ガキ Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "【初回生産限定盤B】DVD付＋イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/277957fe291c5571e9aaa3c94bcfbd4e9b0da5e0.webp",
+      "price": "定価 ￥1,047（税抜価格 ￥952）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "タチアガール",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ブギートレイン'11",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "タチアガール",
+              "duration": "04:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50190"
+        }
+      ],
+      "note": "イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤D】",
+      "image": "/upload/images/23c495d3030dfb70f85468bf39e1befb15c28fa9.webp",
+      "price": "定価 ￥1,047（税抜価格 ￥952）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "タチアガール",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "スマイレージ シングルス 激萌えリミックス",
+              "duration": "05:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "田中直",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "タチアガール",
+              "duration": "04:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50191"
+        }
+      ],
+      "note": "イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤E】",
+      "image": "/upload/images/c3467dfeee05a190d2c18783ee5f3c332e1c4c85.webp",
+      "price": "定価 ￥524（税抜価格 ￥476）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "タチアガール",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "タチアガール",
+              "duration": "04:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50192"
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/42af8bd2be3f8e1bd930b9e1887a13d4ca32dd13.webp",
+      "price": "定価 ￥1,047（税抜価格 ￥952）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "タチアガール",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "スマイル音丼",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "オオバコウスケ",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "タチアガール",
+              "duration": "04:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50193"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": 3914,
+  "url": "/release/3914/",
+  "title": "チュッ！夏パ〜ティ",
+  "category": "CDシングル",
+  "artist": "三人祭",
+  "releaseDate": "2001.7.4",
+  "label": "zetima",
+  "images": [
+    "/upload/images/743873bb6ec845c47789917a77a2c6c8b763de24.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "チュッ！夏パ〜ティ",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "三人祭"
+              }
+            },
+            {
+              "index": 2,
+              "title": "HELLO!また会おうね",
+              "duration": "03:29",
+              "suffix": "(三人祭 version)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "三人祭"
+              }
+            },
+            {
+              "index": 3,
+              "title": "チュッ！夏パ〜ティ",
+              "duration": "03:52",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "三人祭"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5111"
+        }
+      ]
+    }
+  ]
+}

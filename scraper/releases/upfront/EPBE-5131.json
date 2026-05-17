@@ -1,0 +1,113 @@
+{
+  "code": "EPBE-5131",
+  "url": "/release/detail/EPBE-5131/",
+  "source": "upfront",
+  "title": "ハロー！モーニング ミニモニ。四休さん",
+  "category": "DVD",
+  "artist": "ミニモニ｡",
+  "releaseDate": "2004/06/30",
+  "label": "zetima",
+  "images": [
+    "/images/776b98fd49ac5b8c604cedbdb7c6005d5aa32d25.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/776b98fd49ac5b8c604cedbdb7c6005d5aa32d25.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5131",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "修行 その一",
+              "duration": "07:19"
+            },
+            {
+              "index": 2,
+              "title": "修行 その弐",
+              "duration": "06:07"
+            },
+            {
+              "index": 3,
+              "title": "修行 その参",
+              "duration": "06:28"
+            },
+            {
+              "index": 4,
+              "title": "修行 その四",
+              "duration": "05:46"
+            },
+            {
+              "index": 5,
+              "title": "修行 その五",
+              "duration": "05:55"
+            },
+            {
+              "index": 6,
+              "title": "修行 その六",
+              "duration": "05:43"
+            },
+            {
+              "index": 7,
+              "title": "修行 その七",
+              "duration": "06:35"
+            },
+            {
+              "index": 8,
+              "title": "修行 その八",
+              "duration": "06:30"
+            },
+            {
+              "index": 9,
+              "title": "修行 その九",
+              "duration": "05:52"
+            },
+            {
+              "index": 10,
+              "title": "修行 その十",
+              "duration": "05:42"
+            },
+            {
+              "index": 11,
+              "title": "修行 その十一",
+              "duration": "08:42"
+            },
+            {
+              "index": 12,
+              "title": "修行 その十二",
+              "duration": "07:39"
+            },
+            {
+              "index": 13,
+              "title": "修行 その十三",
+              "duration": "06:43"
+            },
+            {
+              "index": 14,
+              "title": "修行 その十四",
+              "duration": "06:10"
+            },
+            {
+              "index": 15,
+              "title": "修行 その十五",
+              "duration": "05:49"
+            },
+            {
+              "index": 16,
+              "title": "修行 その十六",
+              "duration": "06:06"
+            },
+            {
+              "index": 17,
+              "title": "エンドロール",
+              "duration": "01:01"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

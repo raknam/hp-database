@@ -1,0 +1,35 @@
+{
+  "id": 2219,
+  "url": "/release/2219/",
+  "title": "モーニング刑事。〜抱いてHOLD ON ME！〜",
+  "category": "VHS",
+  "artist": "モーニング娘。",
+  "releaseDate": "2000.12.8",
+  "label": "東映ビデオ",
+  "images": [
+    "/upload/images/287bb9f0703b077f9d6774cc94737514e72ed480.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "VHS",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "モーニング刑事。〜抱いてHOLD ON ME!〜",
+              "duration": "00:00",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "VCTB-852"
+        }
+      ]
+    }
+  ]
+}

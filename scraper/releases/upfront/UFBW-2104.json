@@ -1,0 +1,58 @@
+{
+  "code": "UFBW-2104",
+  "url": "/release/detail/UFBW-2104/",
+  "source": "upfront",
+  "title": "Greeting 〜植村あかり〜",
+  "category": "DVD",
+  "artist": "植村あかり",
+  "releaseDate": "2014/07/19",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/f5879a055475a2437792de6ebc872b4e84e929c8.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f5879a055475a2437792de6ebc872b4e84e929c8.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2104",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "School Road",
+              "duration": "10:49"
+            },
+            {
+              "index": 2,
+              "title": "Summer breeze",
+              "duration": "10:30"
+            },
+            {
+              "index": 3,
+              "title": "Interview",
+              "duration": "09:36"
+            },
+            {
+              "index": 4,
+              "title": "Dress up to the Beach",
+              "duration": "13:04"
+            },
+            {
+              "index": 5,
+              "title": "Behind the shots",
+              "duration": "03:56"
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "02:14"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

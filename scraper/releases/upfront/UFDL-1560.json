@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1560",
+  "url": "/release/detail/UFDL-1560/",
+  "source": "upfront",
+  "title": "ゼロイチ",
+  "category": "配信",
+  "artist": "鈴木愛理",
+  "releaseDate": "2025/07/29",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/53f5c7c7ec9552163a188dcec1a8e0cd931c6016.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/53f5c7c7ec9552163a188dcec1a8e0cd931c6016.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1560",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ゼロイチ",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "Chica (2PRIME)",
+                "作曲": "Chica & YUKI FUNAKOSHI (2PRIME)",
+                "編曲": "Chica & YUKI FUNAKOSHI (2PRIME)"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

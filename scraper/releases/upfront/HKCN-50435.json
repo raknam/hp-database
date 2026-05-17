@@ -1,0 +1,78 @@
+{
+  "code": "HKCN-50435",
+  "url": "/release/detail/HKCN-50435/",
+  "source": "upfront",
+  "title": "Ai Yai Yai !/行かないでセニョリータ",
+  "category": "CDシングル",
+  "artist": "エリック・フクサキ",
+  "releaseDate": "2015/08/19",
+  "label": "hachama",
+  "images": [
+    "/images/46d3cb9849c3ae88ef04eea0adf046e60959c69f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/46d3cb9849c3ae88ef04eea0adf046e60959c69f.jpg",
+      "price": "￥1,731 (税抜価格 ￥1,574)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50435",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Ai Yai Yai !",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "エリック・フクサキ",
+                "編曲": "堀倉彰"
+              }
+            },
+            {
+              "index": 2,
+              "title": "行かないでセニョリータ",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "エリック・フクサキ",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Ai Yai Yai !(Al sueno en la distancia)",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "エリック・フクサキ",
+                "作曲": "エリック・フクサキ",
+                "編曲": "堀倉彰"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Ai Yai Yai !(Instrumental)",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "エリック・フクサキ",
+                "編曲": "堀倉彰"
+              }
+            },
+            {
+              "index": 5,
+              "title": "行かないでセニョリータ(Instrumental)",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "エリック・フクサキ",
+                "編曲": "宮永治郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

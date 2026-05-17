@@ -1,0 +1,101 @@
+{
+  "code": "HKCN-50007",
+  "url": "/release/detail/HKCN-50007/",
+  "source": "upfront",
+  "title": "ブギートレイン'03",
+  "category": "CDシングル",
+  "artist": "藤本美貴",
+  "releaseDate": "2003/02/05",
+  "label": "hachama",
+  "images": [
+    "/images/0d8508c5ab744f2597bf45b4c3a498e74e3bb562.jpg"
+  ],
+  "editions": [
+    {
+      "name": "初回盤",
+      "image": "/images/0d8508c5ab744f2597bf45b4c3a498e74e3bb562.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50007",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ブギ－トレイン'03",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "大切",
+              "duration": "03:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ブギ－トレイン'03(Instrumental)",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": null,
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50008",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ブギ－トレイン'03",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "大切",
+              "duration": "03:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ブギ－トレイン'03(Instrumental)",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

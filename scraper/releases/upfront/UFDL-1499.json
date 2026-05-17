@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1499",
+  "url": "/release/detail/UFDL-1499/",
+  "source": "upfront",
+  "title": "みかん",
+  "category": "配信",
+  "artist": "森戸知沙希",
+  "releaseDate": "2022/06/21",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/9e04c6499dd7229b2b903655226df96f7d6b3085.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/9e04c6499dd7229b2b903655226df96f7d6b3085.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1499",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "みかん",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

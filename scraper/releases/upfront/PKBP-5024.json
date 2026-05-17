@@ -1,0 +1,51 @@
+{
+  "code": "PKBP-5024",
+  "url": "/release/detail/PKBP-5024/",
+  "source": "upfront",
+  "title": "シングルV さよなら「友達にはなりたくないの」",
+  "category": "DVDシングルV",
+  "artist": "後藤真希",
+  "releaseDate": "2004/11/17",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/84b454304dd14b7ab4ad71229c15973a04f436ae.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/84b454304dd14b7ab4ad71229c15973a04f436ae.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "PKBP-5024",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "さよなら「友達にはなりたくないの」",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "たいせー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "さよなら「友達にはなりたくないの」(off shot Ver.)",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "たいせー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "05:14"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

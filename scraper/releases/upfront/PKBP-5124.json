@@ -1,0 +1,105 @@
+{
+  "code": "PKBP-5124",
+  "url": "/release/detail/PKBP-5124/",
+  "source": "upfront",
+  "title": "Berryz工房シングルVクリップス④",
+  "category": "DVD",
+  "artist": "Berryz工房",
+  "releaseDate": "2009/12/02",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/a41a063addf54e0825732673ff88a1f6fa230f3e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/a41a063addf54e0825732673ff88a1f6fa230f3e.jpg",
+      "price": "￥3,666 (税抜価格 ￥3,333)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5124",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "00:07"
+            },
+            {
+              "index": 2,
+              "title": "ジンギスカン",
+              "duration": "03:19",
+              "credits": {
+                "作詞": "Bernd Meinunger/訳詞：山本伊織",
+                "作曲": "Ralph Siegel"
+              }
+            },
+            {
+              "index": 3,
+              "title": "行け 行け モンキーダンス",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "MADAYADE",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "抱きしめて 抱きしめて",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "青春バスガイド",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ライバル",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 8,
+              "title": "私の未来のだんな様",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 9,
+              "title": "流星ボーイ",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

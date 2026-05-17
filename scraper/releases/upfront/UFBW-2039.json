@@ -1,0 +1,58 @@
+{
+  "code": "UFBW-2039",
+  "url": "/release/detail/UFBW-2039/",
+  "source": "upfront",
+  "title": "矢島舞美写真集「タビオト」”メイキングDVD〜特別編集版〜",
+  "category": "DVD",
+  "artist": "矢島舞美",
+  "releaseDate": "2012/01/30",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/1e04bde948d5835be2be654d2f758eeb4d001fcd.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/1e04bde948d5835be2be654d2f758eeb4d001fcd.jpg",
+      "price": "￥2,750 (税抜価格 ￥2,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2039",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "一人旅",
+              "duration": "05:23"
+            },
+            {
+              "index": 2,
+              "title": "民宿",
+              "duration": "05:41"
+            },
+            {
+              "index": 3,
+              "title": "アルバム作り",
+              "duration": "05:13"
+            },
+            {
+              "index": 4,
+              "title": "海",
+              "duration": "10:47"
+            },
+            {
+              "index": 5,
+              "title": "最終日",
+              "duration": "09:25"
+            },
+            {
+              "index": 6,
+              "title": "スタジオ撮影",
+              "duration": "13:40"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

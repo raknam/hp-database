@@ -1,0 +1,111 @@
+{
+  "id": 4954,
+  "url": "/release/4954/",
+  "title": "ソラシド〜ねえねえ〜",
+  "category": "DVD",
+  "artist": "Buono!",
+  "releaseDate": "2016.9.21",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/ebf5b98ec6ee26d214743ab0732fbe27b4e0ef77.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ソラシド〜ねえねえ〜",
+              "duration": "04:30",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "津野米咲",
+                "作曲": "津野米咲",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ソラシド〜ねえねえ〜",
+              "duration": "04:33",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "津野米咲",
+                "作曲": "津野米咲",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 1,
+              "title": "ロックの聖地",
+              "duration": "03:59",
+              "suffix": "(@Recording)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "諸星ハッピー",
+                "出演": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1514"
+        },
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ソラシド〜ねえねえ〜",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "津野米咲",
+                "作曲": "津野米咲",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ロックの聖地",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "諸星ハッピー",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ソラシド〜ねえねえ〜",
+              "duration": "04:15",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "津野米咲",
+                "作曲": "津野米咲",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ロックの聖地",
+              "duration": "03:56",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "諸星ハッピー",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

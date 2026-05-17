@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5293",
+  "url": "/release/detail/EPBE-5293/",
+  "source": "upfront",
+  "title": "シングルV「きずな」",
+  "category": "DVDシングルV",
+  "artist": "松浦亜弥",
+  "releaseDate": "2008/06/04",
+  "label": "zetima",
+  "images": [
+    "/images/5ddb5252735b1d2243523eb7e62f4f70a799372d.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/5ddb5252735b1d2243523eb7e62f4f70a799372d.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5293",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "きずな",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "湯川れい子",
+                "作曲": "宮川彬良"
+              }
+            },
+            {
+              "index": 2,
+              "title": "きずな(Close-up Ver.)",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "湯川れい子",
+                "作曲": "宮川彬良"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "05:04"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

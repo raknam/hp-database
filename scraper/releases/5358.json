@@ -1,0 +1,26 @@
+{
+  "id": 5358,
+  "url": "/release/5358/",
+  "title": "raindrop",
+  "category": "BD",
+  "artist": "船木結",
+  "releaseDate": "2017.9.27",
+  "label": "zetima",
+  "images": [
+    "/upload/images/badd81e787eef114d455fc816591a525ac5bedfe.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [],
+          "catalogNo": "EPXE-5124"
+        }
+      ]
+    }
+  ]
+}

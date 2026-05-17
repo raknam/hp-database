@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5367",
+  "url": "/release/detail/EPBE-5367/",
+  "source": "upfront",
+  "title": "シングルV「SHOCK！」",
+  "category": "DVDシングルV",
+  "artist": "℃-ute",
+  "releaseDate": "2010/01/13",
+  "label": "zetima",
+  "images": [
+    "/images/b056324334f1111d8ee6ba712009586b4ecd4aaf.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/b056324334f1111d8ee6ba712009586b4ecd4aaf.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5367",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "SHOCK!",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "SHOCK!(Close-up Ver.)",
+              "duration": "03:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "17:42"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

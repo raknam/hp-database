@@ -1,0 +1,306 @@
+{
+  "id": 1728,
+  "url": "/release/1728/",
+  "title": "Buono!2",
+  "category": "CDアルバム",
+  "artist": "Buono!",
+  "releaseDate": "2009.2.11",
+  "label": "ポニーキャニオン",
+  "images": [
+    "/upload/images/435ef3b66632f4a6026fcf6abc328c1b5b0e02f6.webp",
+    "/upload/images/9a1ccf6840e5bda0e0852f0490fcb3f9a275461c.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回限定盤】",
+      "image": "/upload/images/435ef3b66632f4a6026fcf6abc328c1b5b0e02f6.webp",
+      "price": "定価 ￥3,740（税抜価格 ￥3,400）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Early Bird",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "木之下慶行",
+                "編曲": "木之下慶行",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Kiss!Kiss!Kiss!",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "井上慎二郎",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 3,
+              "title": "キラキラ",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "AKIRASTAR",
+                "編曲": "AKIRASTAR",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 4,
+              "title": "消失点-Vanishing Point-",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "崎谷健次郎",
+                "編曲": "佐久間誠",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ロッタラ ロッタラ",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "井上慎二郎",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 6,
+              "title": "co・no・mi・chi",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく",
+                "編曲": "AKIRASTAR",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 7,
+              "title": "みんなだいすき",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "C.Piece",
+                "作曲": "AKIRASTAR",
+                "編曲": "安部潤",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 8,
+              "title": "I NEED YOU",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "AKIRASTAR",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ガチンコでいこう!",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "ムラマツテツヤ",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 10,
+              "title": "You're My Friend",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "AKIRASTAR",
+                "編曲": "AKIRASTAR",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 11,
+              "title": "OVER THE RAINBOW",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "GAJIN",
+                "編曲": "佐久間誠",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 12,
+              "title": "ゴール",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "AKIRASTAR",
+                "作曲": "AKIRASTAR",
+                "編曲": "AKIRASTAR",
+                "歌": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "PCCA-02839"
+        }
+      ],
+      "note": "【初回生産限定盤】DVD付"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/9a1ccf6840e5bda0e0852f0490fcb3f9a275461c.webp",
+      "price": "定価 ￥3,204（税抜価格 ￥2,913）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Early Bird",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "木之下慶行",
+                "編曲": "木之下慶行",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Kiss!Kiss!Kiss!",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "井上慎二郎",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 3,
+              "title": "キラキラ",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "AKIRASTAR",
+                "編曲": "AKIRASTAR",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 4,
+              "title": "消失点-Vanishing Point-",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "崎谷健次郎",
+                "編曲": "佐久間誠",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ロッタラ ロッタラ",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "井上慎二郎",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 6,
+              "title": "co・no・mi・chi",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく",
+                "編曲": "AKIRASTAR",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 7,
+              "title": "みんなだいすき",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "C.Piece",
+                "作曲": "AKIRASTAR",
+                "編曲": "安部潤",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 8,
+              "title": "I NEED YOU",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "AKIRASTAR",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ガチンコでいこう!",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "ムラマツテツヤ",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 10,
+              "title": "You're My Friend",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "AKIRASTAR",
+                "編曲": "AKIRASTAR",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 11,
+              "title": "OVER THE RAINBOW",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "GAJIN",
+                "編曲": "佐久間誠",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 12,
+              "title": "ゴール",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "AKIRASTAR",
+                "作曲": "AKIRASTAR",
+                "編曲": "AKIRASTAR",
+                "歌": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "PCCA-02840"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "code": "UFCW-1083",
+  "url": "/release/detail/UFCW-1083/",
+  "source": "upfront",
+  "title": "城太郎のひとり歌",
+  "category": "CDミニアルバム",
+  "artist": "城太郎",
+  "releaseDate": "2014/09/10",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/3c21b6d7383da52c9e6531793578c9efa31a15a2.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/3c21b6d7383da52c9e6531793578c9efa31a15a2.jpg",
+      "price": "￥1,222 (税抜価格 ￥1,111)",
+      "discs": [
+        {
+          "type": "CDミニアルバム",
+          "catalogNo": "UFCW-1083",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "城太郎より(語り)",
+              "duration": "00:30"
+            },
+            {
+              "index": 2,
+              "title": "まあるい笑顔",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "城太郎",
+                "作曲": "城太郎",
+                "編曲": "城太郎/岡正幸"
+              }
+            },
+            {
+              "index": 3,
+              "title": "僕は学級委員に恋をした",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "城太郎",
+                "作曲": "城太郎",
+                "編曲": "城太郎/岡正幸"
+              }
+            },
+            {
+              "index": 4,
+              "title": "No.4",
+              "duration": "02:54",
+              "credits": {
+                "作詞": "城太郎",
+                "作曲": "城太郎",
+                "編曲": "城太郎/岡正幸"
+              }
+            },
+            {
+              "index": 5,
+              "title": "銀牡丹",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "城太郎",
+                "作曲": "城太郎",
+                "編曲": "城太郎/岡正幸"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ねこのきもち",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "城太郎",
+                "作曲": "城太郎",
+                "編曲": "城太郎/岡正幸"
+              }
+            },
+            {
+              "index": 7,
+              "title": "社会の砂場",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "城太郎",
+                "作曲": "城太郎",
+                "編曲": "城太郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

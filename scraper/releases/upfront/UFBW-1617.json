@@ -1,0 +1,84 @@
+{
+  "code": "UFBW-1617",
+  "url": "/release/detail/UFBW-1617/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.52",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2019/02/13",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/faeb0e1dcdcea5e0a117940e37b1b2f0ccbd3b1a.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/faeb0e1dcdcea5e0a117940e37b1b2f0ccbd3b1a.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1617",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「工藤遥 卒業スペシャル」♪もしも･･･/工藤遥(モーニング娘。'17) ♪若いんだし！/モーニング娘。'17 ♪涙ッチ/モーニング娘。'17",
+              "duration": "23:09"
+            },
+            {
+              "index": 2,
+              "title": "「2018年 成人トーク～ハロプロの歴史 ぜんぶ振り返りますスペシャル～」",
+              "duration": "14:17"
+            },
+            {
+              "index": 3,
+              "title": "「ハロプロ政策会議2018」",
+              "duration": "11:55"
+            },
+            {
+              "index": 4,
+              "title": "七転び八起き【スタジオライブ集】",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Magic of Love(J=J 2015Ver.)【スタジオライブ集】",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "初恋サンライズ【スタジオライブ集】",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "山田祐輔"
+              }
+            },
+            {
+              "index": 7,
+              "title": "就活センセーション【スタジオライブ集】",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 8,
+              "title": "工藤遥 卒業スペシャルより 未公開インタビュー【未公開映像】",
+              "duration": "02:30"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

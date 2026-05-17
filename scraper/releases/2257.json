@@ -1,0 +1,75 @@
+{
+  "id": 2257,
+  "url": "/release/2257/",
+  "title": "新嘉坡",
+  "category": "DVD",
+  "artist": "鈴木愛理",
+  "releaseDate": "2014.6.25",
+  "label": "zetima",
+  "images": [
+    "/upload/images/ca5dba6bdd113dbd3ace2e13a6ab0b4b013d94ba.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Bay area",
+              "duration": "05:49",
+              "credits": {
+                "出演": "鈴木愛理"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Little India",
+              "duration": "07:53",
+              "credits": {
+                "出演": "鈴木愛理"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Beach",
+              "duration": "07:05",
+              "credits": {
+                "出演": "鈴木愛理"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Chinatown",
+              "duration": "10:24",
+              "credits": {
+                "出演": "鈴木愛理"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Making of 「共鳴」",
+              "duration": "18:30",
+              "credits": {
+                "出演": "鈴木愛理"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "02:04",
+              "credits": {
+                "出演": "鈴木愛理"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5485"
+        }
+      ]
+    }
+  ]
+}

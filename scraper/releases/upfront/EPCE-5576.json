@@ -1,0 +1,121 @@
+{
+  "code": "EPCE-5576",
+  "url": "/release/detail/EPCE-5576/",
+  "source": "upfront",
+  "title": "ペッパー警部",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2008/09/24",
+  "label": "zetima",
+  "images": [
+    "/images/e3a1f09933cbe731d48beed36a94cd92c8dcb5c5.jpg",
+    "/images/a7564937a0216843786a35018f7143eeca7f6a60.jpg",
+    "/images/1c6ab47011d78382df0e7e46f108d250539f9b1f.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/e3a1f09933cbe731d48beed36a94cd92c8dcb5c5.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5576",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ペッパー警部",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "阿久悠",
+                "作曲": "都倉俊一",
+                "編曲": "笹本安詞"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ロマンス",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "阿久悠",
+                "作曲": "筒美京平",
+                "編曲": "土肥真生"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ペッパー警部(Instrumental)",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "阿久悠",
+                "作曲": "都倉俊一",
+                "編曲": "笹本安詞"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤 B】",
+      "image": "/images/a7564937a0216843786a35018f7143eeca7f6a60.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5578",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ジャケット撮影メイキング&インタビュー ペッパー警部",
+              "duration": "20:48"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/1c6ab47011d78382df0e7e46f108d250539f9b1f.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5579",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ペッパー警部",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "阿久悠",
+                "作曲": "都倉俊一",
+                "編曲": "笹本安詞"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ロマンス",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "阿久悠",
+                "作曲": "筒美京平",
+                "編曲": "土肥真生"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ペッパー警部(Instrumental)",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "阿久悠",
+                "作曲": "都倉俊一",
+                "編曲": "笹本安詞"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

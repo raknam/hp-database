@@ -1,0 +1,181 @@
+{
+  "code": "EPBE-5001",
+  "url": "/release/detail/EPBE-5001/",
+  "source": "upfront",
+  "title": "5",
+  "category": "DVD",
+  "artist": "森高千里",
+  "releaseDate": "2000/12/20",
+  "label": "zetima",
+  "images": [
+    "/images/e066db3cc0419fbf34eebb5d1ce81f5655450650.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/e066db3cc0419fbf34eebb5d1ce81f5655450650.jpg",
+      "price": "￥3,520 (税抜価格 ￥3,200)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5001",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "パッパッパヤ -OPENING-",
+              "duration": "00:38",
+              "credits": {
+                "作曲": "森高千里"
+              }
+            },
+            {
+              "index": 2,
+              "title": "二人は恋人",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "斉藤英夫",
+                "編曲": "斉藤英夫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "休みの午後",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "斉藤英夫",
+                "編曲": "斉藤英夫"
+              }
+            },
+            {
+              "index": 4,
+              "title": "SO BLUE",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "伊秩弘将",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ララ サンシャイン",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "伊秩弘将",
+                "編曲": "ストリングスアレンジ高橋諭一"
+              }
+            },
+            {
+              "index": 6,
+              "title": "銀色の夢",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "伊秩弘将"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Let's Go!",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "伊秩弘将"
+              }
+            },
+            {
+              "index": 8,
+              "title": "SWEET CANDY",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 9,
+              "title": "Two of me -INTERLUDE-",
+              "duration": "01:23",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "森高千里",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 10,
+              "title": "ミラクルライト",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "細野晴臣",
+                "編曲": "細野晴臣"
+              }
+            },
+            {
+              "index": 11,
+              "title": "SNOW AGAIN",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 12,
+              "title": "電話",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 13,
+              "title": "東京ラッシュ",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "細野晴臣",
+                "作曲": "細野晴臣",
+                "編曲": "細野晴臣"
+              }
+            },
+            {
+              "index": 14,
+              "title": "海まで5分",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "久保田利伸",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 15,
+              "title": "二人は恋人(カラーバージョン)",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "斉藤英夫",
+                "編曲": "斉藤英夫"
+              }
+            },
+            {
+              "index": 16,
+              "title": "危険な舗道 -ENDING-",
+              "duration": "02:18",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "森高千里",
+                "編曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

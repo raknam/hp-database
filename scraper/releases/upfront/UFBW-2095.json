@@ -1,0 +1,68 @@
+{
+  "code": "UFBW-2095",
+  "url": "/release/detail/UFBW-2095/",
+  "source": "upfront",
+  "title": "BS-TBSサマーパーティー2013我らジャンヌ〜少女聖戦歌劇〜前夜祭",
+  "category": "DVD",
+  "artist": "Berryz工房/スマイレージ",
+  "releaseDate": "2014/02/13",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/742a1d935366c00153206d203873b81faa3fed4a.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/742a1d935366c00153206d203873b81faa3fed4a.jpg",
+      "price": "￥3,981 (税抜価格 ￥3,619)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2095",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "04:40"
+            },
+            {
+              "index": 2,
+              "title": "劇中曲コーナー1",
+              "duration": "11:36"
+            },
+            {
+              "index": 3,
+              "title": "トークコーナー1",
+              "duration": "05:49"
+            },
+            {
+              "index": 4,
+              "title": "実演コーナー",
+              "duration": "16:56"
+            },
+            {
+              "index": 5,
+              "title": "劇中曲コーナー2",
+              "duration": "15:22"
+            },
+            {
+              "index": 6,
+              "title": "トークコーナー2",
+              "duration": "08:59"
+            },
+            {
+              "index": 7,
+              "title": "劇中曲コーナー3",
+              "duration": "10:07"
+            },
+            {
+              "index": 8,
+              "title": "エンディング",
+              "duration": "09:54"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

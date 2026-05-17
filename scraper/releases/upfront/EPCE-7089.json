@@ -1,0 +1,305 @@
+{
+  "code": "EPCE-7089",
+  "url": "/release/detail/EPCE-7089/",
+  "source": "upfront",
+  "title": "青春小僧が泣いている/夕暮れは雨上がり/イマココカラ",
+  "category": "CDシングル",
+  "artist": "モーニング娘。'15",
+  "releaseDate": "2015/04/15",
+  "label": "zetima",
+  "images": [
+    "/images/0c32a5a24b6c6c1e0f2460c57215afb839e7c051.jpg",
+    "/images/42bad43da921df1b58eff6de44284f8e1713ce0e.jpg",
+    "/images/9e1964165e10088aa8bd6fa82f387dd6c53434bf.jpg",
+    "/images/b0542343184cffc98b069835276e6578e2d63391.jpg",
+    "/images/d4197f7b778b29af2b816175048da6dee4622b74.jpg",
+    "/images/21a5968db04cc0f6dbbdb268afbaf95690dc822e.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/0c32a5a24b6c6c1e0f2460c57215afb839e7c051.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7089",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "青春小僧が泣いている",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "夕暮れは雨上がり",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "イマココカラ",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "青木久美子",
+                "作曲": "高取ヒデアキ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 4,
+              "title": "青春小僧が泣いている(Instrumental)",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "夕暮れは雨上がり(Instrumental)",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 6,
+              "title": "イマココカラ(Instrumental)",
+              "duration": "03:15",
+              "credits": {
+                "作詞": "青木久美子",
+                "作曲": "高取ヒデアキ",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/42bad43da921df1b58eff6de44284f8e1713ce0e.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7091",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "青春小僧が泣いている(Music Video)",
+              "duration": "05:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/images/9e1964165e10088aa8bd6fa82f387dd6c53434bf.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7093",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "青春小僧が泣いている",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "夕暮れは雨上がり",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "イマココカラ",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "青木久美子",
+                "作曲": "高取ヒデアキ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 4,
+              "title": "青春小僧が泣いている(Instrumental)",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "夕暮れは雨上がり(Instrumental)",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 6,
+              "title": "イマココカラ(Instrumental)",
+              "duration": "03:15",
+              "credits": {
+                "作詞": "青木久美子",
+                "作曲": "高取ヒデアキ",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤D】",
+      "image": "/images/b0542343184cffc98b069835276e6578e2d63391.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7095",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夕暮れは雨上がり(Music Video)",
+              "duration": "05:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/d4197f7b778b29af2b816175048da6dee4622b74.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7097",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "青春小僧が泣いている",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "夕暮れは雨上がり",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "イマココカラ",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "青木久美子",
+                "作曲": "高取ヒデアキ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 4,
+              "title": "青春小僧が泣いている(Instrumental)",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "夕暮れは雨上がり(Instrumental)",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 6,
+              "title": "イマココカラ(Instrumental)",
+              "duration": "03:15",
+              "credits": {
+                "作詞": "青木久美子",
+                "作曲": "高取ヒデアキ",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/21a5968db04cc0f6dbbdb268afbaf95690dc822e.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7098",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "イマココカラ(Music Video)",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "青木久美子",
+                "作曲": "高取ヒデアキ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

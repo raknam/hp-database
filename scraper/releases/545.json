@@ -1,0 +1,61 @@
+{
+  "id": 545,
+  "url": "/release/545/",
+  "title": "ハッピーサマーウェディング",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2000.5.17",
+  "label": "zetima",
+  "images": [
+    "/upload/images/2656728fa48a0e0f5f446e364da865c2502a0096.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ハッピーサマーウェディング",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン (horn arrangement by 川松久",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "通学列車",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ハッピーサマーウェディング",
+              "duration": "04:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン (horn arrangement by 川松久",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5056"
+        }
+      ]
+    }
+  ]
+}

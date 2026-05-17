@@ -1,0 +1,67 @@
+{
+  "id": 1820,
+  "url": "/release/1820/",
+  "title": "アロハロ！2 Berryz工房DVD",
+  "category": "DVD",
+  "artist": "Berryz工房",
+  "releaseDate": "2010.11.17",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/upload/images/6343754d5a9bff3b8a0e5832d97127d42ac4ff42.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Short Story",
+              "duration": "05:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Image Movie",
+              "duration": "01:05:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Beach Party in Hawaii",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Ending",
+              "duration": "09:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "PKBP-5134"
+        }
+      ]
+    }
+  ]
+}

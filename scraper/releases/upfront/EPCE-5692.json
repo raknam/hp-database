@@ -1,0 +1,127 @@
+{
+  "code": "EPCE-5692",
+  "url": "/release/detail/EPCE-5692/",
+  "source": "upfront",
+  "title": "MELON'S NOT DEAD",
+  "category": "CDアルバム",
+  "artist": "メロン記念日",
+  "releaseDate": "2010/02/17",
+  "label": "zetima",
+  "images": [
+    "/images/99218848b5f93bc9dd2bf9792f84df571f247495.jpg"
+  ],
+  "editions": [
+    {
+      "name": "DVD付き",
+      "image": "/images/99218848b5f93bc9dd2bf9792f84df571f247495.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5692",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "メロン記念日のテーマ(Rock Ver.)",
+              "duration": "01:37",
+              "credits": {
+                "作曲": "つんく",
+                "編曲": "朝井泰生"
+              }
+            },
+            {
+              "index": 2,
+              "title": "DON'T SAY GOOD-BYE",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "ヒダカトオル",
+                "作曲": "BEAT CRUSADERS",
+                "編曲": "BEAT CRUSADERS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ピンチはチャンス バカになろうぜ！(Album Ver.)",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "ATSUSHI",
+                "作曲": "KATARU",
+                "編曲": "NEW ROTE'KA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "sweet suicide summer story",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "後藤まりこ",
+                "作曲": "ミドリ",
+                "編曲": "ミドリ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "青春・オン・ザ・ロード",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "加藤ひさし",
+                "作曲": "加藤ひさし",
+                "編曲": "THE COLLECTORS&吉田仁"
+              }
+            },
+            {
+              "index": 6,
+              "title": "メロンティー",
+              "duration": "03:22",
+              "credits": {
+                "作詞": "松本素生",
+                "作曲": "松本素生・中澤寛規",
+                "編曲": "GOING UNDER GROUND"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ロマンチックを突き抜けろ！〜Break it now〜",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "中山加奈子",
+                "作曲": "宮永治郎",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 8,
+              "title": "ALL AROUND ROCK",
+              "duration": "03:28",
+              "credits": {
+                "作詞": "MAGUMI",
+                "作曲": "杉本恭一",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 9,
+              "title": "愛だ！今すぐROCK ON!",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "新堂敦士",
+                "作曲": "新堂敦士",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 10,
+              "title": "ALWAYS LOVE YOU",
+              "duration": "05:19",
+              "credits": {
+                "作詞": "ヒダカトオル",
+                "作曲": "BEAT CRUSADERS",
+                "編曲": "BEAT CRUSADERS"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

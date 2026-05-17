@@ -1,0 +1,85 @@
+{
+  "id": 3293,
+  "url": "/release/3293/",
+  "title": "Magic of Love",
+  "category": "CDシングル",
+  "artist": "太陽とシスコムーン",
+  "releaseDate": "1999.9.29",
+  "label": "zetima",
+  "images": [
+    "/upload/images/95387cc43cb9ad51a2720c713deb4edf0cdcd999.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Magic of Love",
+              "duration": "05:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "編曲:村山晋一郎/ｽﾄﾘﾝｸﾞｽｱﾚﾝｼﾞ:村山達哉",
+                "歌": "太陽とシスコムーン"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Versus",
+              "duration": "05:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "KoichiMatsumoto&ToshiyukiMatsumoto",
+                "歌": "太陽とシスコムーン"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Everyday Everywhere",
+              "duration": "06:19",
+              "suffix": "crazy dance remix Remixed by E.S.P.",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "E.S.P.",
+                "歌": "太陽とシスコムーン"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Everyday Everywhere",
+              "duration": "09:06",
+              "suffix": "sugee reggae remix Remixed by Summer Soul",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "SummerSoul",
+                "歌": "太陽とシスコムーン"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Magic of Love",
+              "duration": "05:22",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "編曲:村山晋一郎/ｽﾄﾘﾝｸﾞｽｱﾚﾝｼﾞ:村山達哉",
+                "歌": "太陽とシスコムーン"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5028"
+        }
+      ]
+    }
+  ]
+}

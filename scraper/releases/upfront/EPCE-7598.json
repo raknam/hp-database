@@ -1,0 +1,128 @@
+{
+  "code": "EPCE-7598",
+  "url": "/release/detail/EPCE-7598/",
+  "source": "upfront",
+  "title": "２３歳",
+  "category": "CDアルバム",
+  "artist": "KAN",
+  "releaseDate": "2020/11/25",
+  "label": "zetima",
+  "images": [
+    "/images/6cbf1c6e4d0fc2382341138ebf359527f63acfb2.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/6cbf1c6e4d0fc2382341138ebf359527f63acfb2.jpg",
+      "price": "￥3,900 (税抜価格 ￥3,545)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-7598",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "る～る～る～",
+              "duration": "02:57",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 2,
+              "title": "２３歳",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ふたり",
+              "duration": "03:06",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 4,
+              "title": "君のマスクをはずしたい",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 5,
+              "title": "キセキ",
+              "duration": "05:24",
+              "credits": {
+                "作詞": "KAN＋",
+                "作曲": "KAN＋",
+                "編曲": "KAN＋"
+              }
+            },
+            {
+              "index": 6,
+              "title": "メモトキレナガール",
+              "duration": "03:34",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 7,
+              "title": "コタツ",
+              "duration": "05:45",
+              "credits": {
+                "作詞": "ヨースケ＠HOME/KAN",
+                "作曲": "ヨースケ＠HOME/KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 8,
+              "title": "ほっぺたにオリオン",
+              "duration": "02:40",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ポップミュージック",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 10,
+              "title": "エキストラ",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

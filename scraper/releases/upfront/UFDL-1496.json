@@ -1,0 +1,68 @@
+{
+  "code": "UFDL-1496",
+  "url": "/release/detail/UFDL-1496/",
+  "source": "upfront",
+  "title": "SAYUMINGLANDOLL～未来～ オリジナルサウンドトラック1",
+  "category": "配信",
+  "artist": "道重さゆみ",
+  "releaseDate": "2022/05/23",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/0974e8f1cad173c8167c9cd1fdcb251ea92ebb35.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/0974e8f1cad173c8167c9cd1fdcb251ea92ebb35.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1496",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ダイスキ・フロンティア",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "K2-Dee",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "少女予報",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Bunny Party",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "しばたありぼぼ",
+                "作曲": "こやまたくや",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 4,
+              "title": "バラッド バラッド",
+              "duration": "03:15",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "K2-Dee",
+                "編曲": "江上浩太郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

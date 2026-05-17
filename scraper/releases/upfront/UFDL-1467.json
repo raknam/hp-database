@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1467",
+  "url": "/release/detail/UFDL-1467/",
+  "source": "upfront",
+  "title": "真夜中のメリーゴーランド",
+  "category": "配信",
+  "artist": "鈴木愛理",
+  "releaseDate": "2020/12/21",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/b914672601775973aafd41221a5ed5f01a2aa2f2.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/b914672601775973aafd41221a5ed5f01a2aa2f2.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1467",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "真夜中のメリーゴーランド",
+              "duration": "05:04",
+              "credits": {
+                "作詞": "豊島こうき",
+                "作曲": "Amber’s",
+                "編曲": "福島拓人"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

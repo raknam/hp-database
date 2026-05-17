@@ -1,0 +1,91 @@
+{
+  "id": 4064,
+  "url": "/release/4064/",
+  "title": "Ways",
+  "category": "BD",
+  "artist": "矢島舞美",
+  "releaseDate": "2014.12.23",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/f44a801e611e881afbc6962cb5a58ad64fdf4d7e.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "opening",
+              "duration": "00:28",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "break of day",
+              "duration": "13:33",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "the beach in nago",
+              "duration": "09:50",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "daytime",
+              "duration": "12:30",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "the beach in uza",
+              "duration": "16:34",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "before sunset",
+              "duration": "11:09",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 7,
+              "title": "twilight",
+              "duration": "11:23",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 8,
+              "title": "ending",
+              "duration": "02:17",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            }
+          ],
+          "catalogNo": "UFXW-2001"
+        }
+      ]
+    }
+  ]
+}

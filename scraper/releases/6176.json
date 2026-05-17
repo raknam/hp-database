@@ -1,0 +1,38 @@
+{
+  "id": 6176,
+  "url": "/release/6176/",
+  "title": "どうして僕らにはやる気がないのか",
+  "category": "配信",
+  "artist": "宮本佳林",
+  "releaseDate": "2019.10.18",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/f16f4c00fe5fbe30097c1d7fd945b097f7985764.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "どうして僕らにはやる気がないのか",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "永井葉子",
+                "作曲": "田仲圭太",
+                "編曲": "SCRAMBLES",
+                "歌": "宮本佳林(Juice=Juice)"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1443"
+        }
+      ]
+    }
+  ]
+}

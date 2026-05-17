@@ -1,0 +1,68 @@
+{
+  "code": "UFDL-1547",
+  "url": "/release/detail/UFDL-1547/",
+  "source": "upfront",
+  "title": "Do-Did-Done/あゝ君に転生(Special Edition)",
+  "category": "配信",
+  "artist": "BEYOOOOONDS",
+  "releaseDate": "2025/01/29",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/018834aecf2c6ae9a549f642e3757d51b4c8137b.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/018834aecf2c6ae9a549f642e3757d51b4c8137b.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1547",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Do-Did-Done",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 2,
+              "title": "あゝ君に転生",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ディスコ・カーニバル",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Nicklas Eklund/Ida Pihlgren/Shun Kusakawa",
+                "編曲": "Nicklas Eklund"
+              }
+            },
+            {
+              "index": 4,
+              "title": "マイ・ファースト・ピアス",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

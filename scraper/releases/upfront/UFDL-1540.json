@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1540",
+  "url": "/release/detail/UFDL-1540/",
+  "source": "upfront",
+  "title": "君だけじゃないさ...friends (ひまわりVer.)",
+  "category": "配信",
+  "artist": "佐々木莉佳子",
+  "releaseDate": "2024/06/20",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/a46a62341ff17772a8dfd9604568b7b9d150fe4a.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/a46a62341ff17772a8dfd9604568b7b9d150fe4a.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1540",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "君だけじゃないさ...friends(ひまわりVer.)",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

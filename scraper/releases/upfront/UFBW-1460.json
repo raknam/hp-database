@@ -1,0 +1,114 @@
+{
+  "code": "UFBW-1460",
+  "url": "/release/detail/UFBW-1460/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.14",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2015/10/07",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/141d7aca6ecf15d05e7eb5182135200d18ef1fcc.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/141d7aca6ecf15d05e7eb5182135200d18ef1fcc.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1460",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "TIKI BUN【名物企画 衣装コーディネート】",
+              "duration": "13:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "初めてを経験中【名物企画 衣装コーディネート】",
+              "duration": "12:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Blossom〜だからね 絶対だよ。〜【名物企画 衣装コーディネート】",
+              "duration": "11:56",
+              "credits": {
+                "作詞": "本上遼",
+                "作曲": "本上遼"
+              }
+            },
+            {
+              "index": 4,
+              "title": "乙女の逆襲【名物企画 衣装コーディネート】",
+              "duration": "11:32",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "川辺ヒロシ・上田禎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Stonez!!【スタジオライブ集】",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "唐沢美帆",
+                "作曲": "阿久津健太郎"
+              }
+            },
+            {
+              "index": 6,
+              "title": "恋愛WARS【スタジオライブ集】",
+              "duration": "04:05",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo"
+              }
+            },
+            {
+              "index": 7,
+              "title": "全力で愛して…ねッ！【スタジオライブ集】",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "本上遼",
+                "作曲": "本上遼"
+              }
+            },
+            {
+              "index": 8,
+              "title": "大器晩成【スタジオライブ集】",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 9,
+              "title": "愛おしくってごめんね【スタジオライブ集】",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介"
+              }
+            },
+            {
+              "index": 10,
+              "title": "カントリー・ガールズ 初収録",
+              "duration": "05:50"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

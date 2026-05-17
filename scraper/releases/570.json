@@ -1,0 +1,74 @@
+{
+  "id": 570,
+  "url": "/release/570/",
+  "title": "友情〜心のブスにはならねぇ！〜",
+  "category": "CDシングル",
+  "artist": "モーニング娘。おとめ組",
+  "releaseDate": "2004.2.25",
+  "label": "zetima",
+  "images": [
+    "/upload/images/7dc930d8dfd5d8b9b34a89ffdbf26c0b6cf0dbbf.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "友情 〜心のブスにはならねぇ!〜",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。おとめ組"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Say Yeah!-もっとミラクルナイト-",
+              "duration": "03:57",
+              "suffix": "(モーニング娘。おとめ組Version)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "守尾 崇",
+                "歌": "モーニング娘。おとめ組"
+              }
+            },
+            {
+              "index": 3,
+              "title": "サマーナイトタウン",
+              "duration": "02:35",
+              "suffix": "(モーニング娘。おとめ組Version)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明",
+                "歌": "モーニング娘。おとめ組"
+              }
+            },
+            {
+              "index": 4,
+              "title": "友情 〜心のブスにはならねぇ!〜",
+              "duration": "04:09",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。おとめ組"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5268"
+        }
+      ]
+    }
+  ]
+}

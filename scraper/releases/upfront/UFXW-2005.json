@@ -1,0 +1,58 @@
+{
+  "code": "UFXW-2005",
+  "url": "/release/detail/UFXW-2005/",
+  "source": "upfront",
+  "title": "Greeting〜尾形春水〜",
+  "category": "BD",
+  "artist": "尾形春水",
+  "releaseDate": "2015/06/12",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/31d8f1503939cb3de331694cfd57a2969fa9635f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/31d8f1503939cb3de331694cfd57a2969fa9635f.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "UFXW-2005",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Morning Library",
+              "duration": "07:57"
+            },
+            {
+              "index": 2,
+              "title": "Greeting to you",
+              "duration": "19:28"
+            },
+            {
+              "index": 3,
+              "title": "Skate link",
+              "duration": "07:10"
+            },
+            {
+              "index": 4,
+              "title": "「時空を超え 宇宙を超え」skate performance",
+              "duration": "03:36"
+            },
+            {
+              "index": 5,
+              "title": "Behind the shots",
+              "duration": "03:53"
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "08:12"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

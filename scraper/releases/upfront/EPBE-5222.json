@@ -1,0 +1,38 @@
+{
+  "code": "EPBE-5222",
+  "url": "/release/detail/EPBE-5222/",
+  "source": "upfront",
+  "title": "ハロプロアワー Vol.3",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2006/12/27",
+  "label": "zetima",
+  "images": [
+    "/images/98ce243c804b0bcac90d235eaff78cd8c53f601c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/98ce243c804b0bcac90d235eaff78cd8c53f601c.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5222",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "♯5",
+              "duration": "30:57"
+            },
+            {
+              "index": 2,
+              "title": "♯6",
+              "duration": "31:15"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

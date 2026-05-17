@@ -1,0 +1,305 @@
+{
+  "code": "EPCE-7173",
+  "url": "/release/detail/EPCE-7173/",
+  "source": "upfront",
+  "title": "ブギウギLOVE/恋はマグネット/ランラルン〜あなたに夢中〜",
+  "category": "CDシングル",
+  "artist": "カントリー・ガールズ",
+  "releaseDate": "2016/03/09",
+  "label": "zetima",
+  "images": [
+    "/images/c0e381fc25d21dd412fa6392e615c7bc33936996.jpg",
+    "/images/3a602842df0b8fc4524de89d3b1baa49044e2e3b.jpg",
+    "/images/775df2901b1cedc082e61330b5f3d44a18647592.jpg",
+    "/images/ce782003e18a7005d791240ff7b8be4f940b94d5.jpg",
+    "/images/ae4e79b4422c2d803b3b5e90e9e8217b6b2d1a55.jpg",
+    "/images/5073a083f7a8b8fa1a8cecfff71f091591816218.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/c0e381fc25d21dd412fa6392e615c7bc33936996.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7173",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ブギウギLOVE",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "菊谷知樹/ブラスアレンジ:竹上良成"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋はマグネット",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "Yasushi Watanabe",
+                "編曲": "Yasushi Watanabe"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ランラルン〜あなたに夢中〜",
+              "duration": "02:55",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "Kern Jerome(PD)",
+                "編曲": "加藤裕介"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ブギウギLOVE(Instrumental)",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "菊谷知樹/ブラスアレンジ:竹上良成"
+              }
+            },
+            {
+              "index": 5,
+              "title": "恋はマグネット(Instrumental)",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "Yasushi Watanabe",
+                "編曲": "Yasushi Watanabe"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ランラルン〜あなたに夢中〜(Instrumental)",
+              "duration": "02:54",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "Kern Jerome(PD)",
+                "編曲": "加藤裕介"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/3a602842df0b8fc4524de89d3b1baa49044e2e3b.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7175",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ブギウギLOVE(Music Video)",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/images/775df2901b1cedc082e61330b5f3d44a18647592.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7177",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ブギウギLOVE",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "菊谷知樹/ブラスアレンジ:竹上良成"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋はマグネット",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "Yasushi Watanabe",
+                "編曲": "Yasushi Watanabe"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ランラルン〜あなたに夢中〜",
+              "duration": "02:55",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "Kern Jerome(PD)",
+                "編曲": "加藤裕介"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ブギウギLOVE(Instrumental)",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "菊谷知樹/ブラスアレンジ:竹上良成"
+              }
+            },
+            {
+              "index": 5,
+              "title": "恋はマグネット(Instrumental)",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "Yasushi Watanabe",
+                "編曲": "Yasushi Watanabe"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ランラルン〜あなたに夢中〜(Instrumental)",
+              "duration": "02:54",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "Kern Jerome(PD)",
+                "編曲": "加藤裕介"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/ce782003e18a7005d791240ff7b8be4f940b94d5.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7179",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋はマグネット(Music Video)",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "Yasushi Watanabe"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/ae4e79b4422c2d803b3b5e90e9e8217b6b2d1a55.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7181",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ブギウギLOVE",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "菊谷知樹/ブラスアレンジ:竹上良成"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋はマグネット",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "Yasushi Watanabe",
+                "編曲": "Yasushi Watanabe"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ランラルン〜あなたに夢中〜",
+              "duration": "02:55",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "Kern Jerome(PD)",
+                "編曲": "加藤裕介"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ブギウギLOVE(Instrumental)",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "菊谷知樹/ブラスアレンジ:竹上良成"
+              }
+            },
+            {
+              "index": 5,
+              "title": "恋はマグネット(Instrumental)",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "Yasushi Watanabe",
+                "編曲": "Yasushi Watanabe"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ランラルン〜あなたに夢中〜(Instrumental)",
+              "duration": "02:54",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "Kern Jerome(PD)",
+                "編曲": "加藤裕介"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/images/5073a083f7a8b8fa1a8cecfff71f091591816218.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7182",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ランラルン〜あなたに夢中〜(Music Video)",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "Kern Jerome(PD)"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

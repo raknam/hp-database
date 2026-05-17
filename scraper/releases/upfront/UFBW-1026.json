@@ -1,0 +1,91 @@
+{
+  "code": "UFBW-1026",
+  "url": "/release/detail/UFBW-1026/",
+  "source": "upfront",
+  "title": "ハロー！チャンネル the DVD",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2010/06/17",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/2ec834b5e885b44623c85af7db85665abcf55c6f.jpg"
+  ],
+  "editions": [
+    {
+      "name": "＜Disc1＞",
+      "image": "/images/2ec834b5e885b44623c85af7db85665abcf55c6f.jpg",
+      "price": "￥5,170 (税抜価格 ￥4,700)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1026",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "高橋愛×真野恵里菜 スペシャルグラビア撮影風",
+              "duration": "05:12"
+            },
+            {
+              "index": 2,
+              "title": "Hello! Project選抜！カラオケバトル",
+              "duration": "21:41"
+            },
+            {
+              "index": 3,
+              "title": "神田神宮で巫女修行編",
+              "duration": "14:32"
+            },
+            {
+              "index": 4,
+              "title": "水族館でお仕事編",
+              "duration": "00:00"
+            },
+            {
+              "index": 5,
+              "title": "タワレコでバイト編",
+              "duration": "00:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "＜Disc2＞",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1027",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "1万円！ファッショニスタ Battle",
+              "duration": "17:23"
+            },
+            {
+              "index": 2,
+              "title": "オリジナル中華で★3つ！！",
+              "duration": "15:37"
+            },
+            {
+              "index": 3,
+              "title": "長距離運転 お疲れ様です",
+              "duration": "13:07"
+            },
+            {
+              "index": 4,
+              "title": "チャレンジャー岡井千聖のあくなき闘い！！",
+              "duration": "14:26"
+            },
+            {
+              "index": 5,
+              "title": "祝 メジャーデビュースマイレージ徹底解剖",
+              "duration": "06:12"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

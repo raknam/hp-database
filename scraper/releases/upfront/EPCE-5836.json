@@ -1,0 +1,166 @@
+{
+  "code": "EPCE-5836",
+  "url": "/release/detail/EPCE-5836/",
+  "source": "upfront",
+  "title": "ピョコピョコ ウルトラ",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2012/01/25",
+  "label": "zetima",
+  "images": [
+    "/images/4ac27c3e005af899737c77435dba8e90f9c43244.jpg",
+    "/images/6ec56c979bcc463062d668ab933c8ea85bd3ae94.jpg",
+    "/images/64bfc2607628a8cc669ed01e424168870bf3d9f6.jpg",
+    "/images/67e6241449277a93e494b82a835a43a26077f714.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/4ac27c3e005af899737c77435dba8e90f9c43244.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5836",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ピョコピョコ ウルトラ",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "悲しき恋のメロディー",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ピョコピョコ ウルトラ(Instrumental)",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/6ec56c979bcc463062d668ab933c8ea85bd3ae94.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5838",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ピョコピョコ ウルトラ(Dance Shot Ver.)",
+              "duration": "05:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/images/64bfc2607628a8cc669ed01e424168870bf3d9f6.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5840",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ピョコピョコ ウルトラ",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "悲しき恋のメロディー",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ピョコピョコ ウルトラ(Instrumental)",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/67e6241449277a93e494b82a835a43a26077f714.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5842",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ピョコピョコ ウルトラ(Close-up Ver.)",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "10期インタビュー(飯窪春菜)",
+              "duration": "06:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "10期インタビュー(石田亜佑美)",
+              "duration": "07:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "id": 4321,
+  "url": "/release/4321/",
+  "title": "Hello! Project 2003 Winter 楽しんじゃってます!",
+  "category": "VHS",
+  "artist": "V.A.",
+  "releaseDate": "2003.3.19",
+  "label": "hachama",
+  "images": [
+    "/resources/images/foundation/release-placeholder.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "VHS",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "03:37",
+              "suffix": "ーBGMー",
+              "credits": {
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "がんばっちゃえ！",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "歌": "モ－ニング娘。とハロー！プロジェクト･キッズ＋後藤真希"
+              }
+            },
+            {
+              "index": 3,
+              "title": "コーナー①",
+              "duration": "04:31",
+              "suffix": "ーBGMー",
+              "credits": {
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "春が来た",
+              "duration": "02:38",
+              "credits": {
+                "作詞": "高野辰之",
+                "作曲": "岡野貞一",
+                "歌": "全員(except タンポポ・プッチモ二・ごまっとう・ハロー！ プロジェクト・キッズ)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "よさこい節",
+              "duration": "03:37",
+              "credits": {
+                "歌": "前田有紀"
+              }
+            },
+            {
+              "index": 6,
+              "title": "SHALL WE LOVE?",
+              "duration": "03:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "歌": "ごまっとう"
+              }
+            },
+            {
+              "index": 7,
+              "title": "BE HAPPY 恋のやじろべえ",
+              "duration": "03:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "歌": "タンポポ"
+              }
+            },
+            {
+              "index": 8,
+              "title": "WOW WOW WOW",
+              "duration": "02:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "歌": "プッチモ二"
+              }
+            },
+            {
+              "index": 9,
+              "title": "コーナー②",
+              "duration": "07:26",
+              "credits": {
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 10,
+              "title": "東京美人",
+              "duration": "02:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "歌": "中澤裕子"
+              }
+            },
+            {
+              "index": 11,
+              "title": "ブギ－トレイン'03",
+              "duration": "03:08",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "歌": "藤本美貴"
+              }
+            },
+            {
+              "index": 12,
+              "title": "赤いフリージア",
+              "duration": "03:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "歌": "メロン記念日"
+              }
+            },
+            {
+              "index": 13,
+              "title": "コーナー③",
+              "duration": "04:57",
+              "credits": {
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 14,
+              "title": "パイナップルパラダイス",
+              "duration": "01:24",
+              "credits": {
+                "作詞": "今井千尋",
+                "作曲": "つんく",
+                "歌": "稲葉貴子・飯田圭織・安倍なつみ・保田圭・松浦亜弥"
+              }
+            },
+            {
+              "index": 15,
+              "title": "Mr.Moonlight〜愛のビッグバンド〜",
+              "duration": "03:18",
+              "suffix": "(ハワイアンVersion)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "歌": "ココナッツ娘。"
+              }
+            },
+            {
+              "index": 16,
+              "title": "BYE BYE 最後の夜",
+              "duration": "02:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "歌": "カントリー娘。に石川梨華(モーニング娘。)"
+              }
+            },
+            {
+              "index": 17,
+              "title": "コーナー④",
+              "duration": "03:41",
+              "credits": {
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 18,
+              "title": "お菓子つくっておっかすぃ〜！",
+              "duration": "02:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "歌": "ミニモ二。"
+              }
+            },
+            {
+              "index": 19,
+              "title": "草原の人",
+              "duration": "03:28",
+              "credits": {
+                "作詞": "加藤和枝",
+                "作曲": "つんく",
+                "歌": "松浦亜弥"
+              }
+            },
+            {
+              "index": 20,
+              "title": "Yeah!めっちゃホリディ",
+              "duration": "02:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "歌": "松浦亜弥"
+              }
+            },
+            {
+              "index": 21,
+              "title": "The 美学",
+              "duration": "02:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "歌": "松浦亜弥"
+              }
+            },
+            {
+              "index": 22,
+              "title": "コーナー⑤",
+              "duration": "07:56",
+              "suffix": "ーBGMー",
+              "credits": {
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 23,
+              "title": "やる気！IT'S EASY",
+              "duration": "02:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "歌": "後藤真希"
+              }
+            },
+            {
+              "index": 24,
+              "title": "手を握って歩きたい",
+              "duration": "03:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "歌": "後藤真希"
+              }
+            },
+            {
+              "index": 25,
+              "title": "サン・トワ・マミー",
+              "duration": "03:26",
+              "credits": {
+                "作詞": "岩谷時子",
+                "作曲": "サルバトーレ・アダモ",
+                "歌": "後藤真希"
+              }
+            },
+            {
+              "index": 26,
+              "title": "ここにいるぜぇ！",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 27,
+              "title": "Do it! Now",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 28,
+              "title": "コーナー⑥",
+              "duration": "04:00",
+              "credits": {
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 29,
+              "title": "ザ☆ピ〜ス！",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 30,
+              "title": "I WISH",
+              "duration": "02:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 31,
+              "title": "そうだ！We're ALIVE",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 32,
+              "title": "コーナー⑦",
+              "duration": "03:05",
+              "credits": {
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 33,
+              "title": "恋愛レボリューション21",
+              "duration": "05:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "歌": "全員(exceptハロー！ プロジェクト・キッズ)"
+              }
+            },
+            {
+              "index": 34,
+              "title": "おまけ映像",
+              "duration": "09:33",
+              "credits": {
+                "歌": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "HKVN-50027"
+        }
+      ]
+    }
+  ]
+}

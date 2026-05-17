@@ -1,0 +1,88 @@
+{
+  "code": "UFCW-1138",
+  "url": "/release/detail/UFCW-1138/",
+  "source": "upfront",
+  "title": "Seasons",
+  "category": "CDミニアルバム",
+  "artist": "カントリー・ガールズ",
+  "releaseDate": "2019/03/06",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/641d5022ae6430b434ca91988f8d804a69a14dad.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/641d5022ae6430b434ca91988f8d804a69a14dad.jpg",
+      "price": "￥2,037 (税抜価格 ￥1,852)",
+      "discs": [
+        {
+          "type": "CDミニアルバム",
+          "catalogNo": "UFCW-1138",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "弱気女子退部届",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介",
+                "編曲": "加藤裕介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "小生意気ガール",
+              "duration": "03:24",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "ジンツチハシ",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "書いては消しての “I Love You”",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "鈴木智貴"
+              }
+            },
+            {
+              "index": 4,
+              "title": "待てないアフターファイブ",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "石井健太郎",
+                "編曲": "石井健太郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "傘をさす先輩",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 6,
+              "title": "愛おしくってごめんね('19 five girls version)",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介",
+                "編曲": "加藤裕介/A-bee"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

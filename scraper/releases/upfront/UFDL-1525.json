@@ -1,0 +1,78 @@
+{
+  "code": "UFDL-1525",
+  "url": "/release/detail/UFDL-1525/",
+  "source": "upfront",
+  "title": "映画の趣味が合うだけ/ちいさな世界(Special Edition)",
+  "category": "配信",
+  "artist": "小片リサ",
+  "releaseDate": "2023/12/06",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/fb966591b521c61479c0a62e4d9d16f68bbd4d7d.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/fb966591b521c61479c0a62e4d9d16f68bbd4d7d.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1525",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "映画の趣味が合うだけ",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "徳田光希",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ちいさな世界",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "裸の”Mew”",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Funk Uchino/Erik Lidbom",
+                "編曲": "Erik Lidbom"
+              }
+            },
+            {
+              "index": 4,
+              "title": "虹を超える",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "中村瑛彦/宮嶋淳子",
+                "作曲": "中村瑛彦",
+                "編曲": "中村瑛彦"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Happyを止めないで",
+              "duration": "03:15",
+              "credits": {
+                "作詞": "中島卓偉/児玉雨子",
+                "作曲": "中島卓偉",
+                "編曲": "浜田ピエール裕介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

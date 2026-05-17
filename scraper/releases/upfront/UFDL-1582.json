@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1582",
+  "url": "/release/detail/UFDL-1582/",
+  "source": "upfront",
+  "title": "純愛クラッシャー",
+  "category": "配信",
+  "artist": "つばきファクトリー",
+  "releaseDate": "2026/03/05",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/4279e54251d77a4a4010f77aeafdcba42d6b31bc.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/4279e54251d77a4a4010f77aeafdcba42d6b31bc.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1582",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "純愛クラッシャー",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "Erik Lidbom",
+                "編曲": "Erik Lidbom"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "code": "PKBP-5058",
+  "url": "/release/detail/PKBP-5058/",
+  "source": "upfront",
+  "title": "シングルV「胸さわぎスカーレット」",
+  "category": "DVDシングルV",
+  "artist": "Berryz工房",
+  "releaseDate": "2006/12/27",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/bd182cf063fe12fb5bbcfae64542ce4a487f931d.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/bd182cf063fe12fb5bbcfae64542ce4a487f931d.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "PKBP-5058",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "胸さわぎスカーレット",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "胸さわぎスカーレット(Dance Shot Ver.)",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "13:48"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

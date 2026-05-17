@@ -1,0 +1,50 @@
+{
+  "id": 5480,
+  "url": "/release/5480/",
+  "title": "五線譜のたすき",
+  "category": "配信シングル",
+  "artist": "モーニング娘。'17",
+  "releaseDate": "2017.11.30",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/5b894f8b1b7a76dd853ad181fd6f76c7394ee89d.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "五線譜のたすき",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "加藤裕介/星部ショウ",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 2,
+              "title": "五線譜のたすき",
+              "duration": "04:28",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "加藤裕介/星部ショウ",
+                "歌": "モーニング娘。'17"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1370"
+        }
+      ]
+    }
+  ]
+}

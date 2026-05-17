@@ -1,0 +1,920 @@
+{
+  "id": 6613,
+  "url": "/release/6613/",
+  "title": "プラスティック・ラブ/Familia/Future Smile",
+  "category": "CDシングル",
+  "artist": "Juice=Juice",
+  "releaseDate": "2021.12.22",
+  "label": "hachama",
+  "images": [
+    "/upload/images/0d92b5f1677ca33caeaff1c0534bf18aa8c44589.webp",
+    "/upload/images/f13b1e9ff331c30dbaa92d7dfa5352235e1bebf1.webp",
+    "/upload/images/73fd668cf1851edbba8cd2a6d8724904dc664b53.webp",
+    "/upload/images/0b4fa768d7a97a82216fc3fa5875791b580f1f77.webp",
+    "/upload/images/8025591ded21eace6676ddb497ed97f37fec3c08.webp",
+    "/upload/images/db8efbfe1e5d5b012c78c9bb2ddccb9e8126acd9.webp",
+    "/upload/images/5bc4ad2abc9b60b82892a575c3df5abd1ffcb68c.webp",
+    "/upload/images/e784fcdcc92a86a627d9bb35d62ec2ba5a4a8c66.webp",
+    "/upload/images/2c1a07b0cc9c9f2d1193712c9e22da73e565d4ee.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/0d92b5f1677ca33caeaff1c0534bf18aa8c44589.webp",
+      "price": "￥2,200（税抜価格 ￥2,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プラスティック・ラブ",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Anders Dannvik",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Familia",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "Shusui/Shim Zeyun/tsubomi",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Future Smile",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "プラスティック・ラブ",
+              "duration": "04:37",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Anders Dannvik",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Familia",
+              "duration": "03:42",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "Shusui/Shim Zeyun/tsubomi",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Future Smile",
+              "duration": "03:12",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50677"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プラスティック・ラブ",
+              "duration": "04:56",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "プラスティック・ラブ",
+              "duration": "04:40",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "プラスティック・ラブ メイキング映像",
+              "duration": "16:10",
+              "credits": {
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/f13b1e9ff331c30dbaa92d7dfa5352235e1bebf1.webp",
+      "price": "￥2,200（税抜価格 ￥2,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プラスティック・ラブ",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Anders Dannvik",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Familia",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "Shusui/Shim Zeyun/tsubomi",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Future Smile",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "プラスティック・ラブ",
+              "duration": "04:37",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Anders Dannvik",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Familia",
+              "duration": "03:42",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "Shusui/Shim Zeyun/tsubomi",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Future Smile",
+              "duration": "03:12",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50679"
+        }
+      ],
+      "note": "BD付"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/73fd668cf1851edbba8cd2a6d8724904dc664b53.webp",
+      "price": "￥2,200（税抜価格 ￥2,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プラスティック・ラブ",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Anders Dannvik",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Familia",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "Shusui/Shim Zeyun/tsubomi",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Future Smile",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "プラスティック・ラブ",
+              "duration": "04:37",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Anders Dannvik",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Familia",
+              "duration": "03:42",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "Shusui/Shim Zeyun/tsubomi",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Future Smile",
+              "duration": "03:12",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50681"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Future Smile",
+              "duration": "03:58",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Future Smile",
+              "duration": "03:16",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Future Smile メイキング映像",
+              "duration": "12:59",
+              "credits": {
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付"
+    },
+    {
+      "name": "【初回生産限定盤SP1】",
+      "image": "/upload/images/0b4fa768d7a97a82216fc3fa5875791b580f1f77.webp",
+      "price": "￥2,200（税抜価格 ￥2,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プラスティック・ラブ",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Anders Dannvik",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Familia",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "Shusui/Shim Zeyun/tsubomi",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Future Smile",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "プラスティック・ラブ",
+              "duration": "04:37",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Anders Dannvik",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Familia",
+              "duration": "03:42",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "Shusui/Shim Zeyun/tsubomi",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Future Smile",
+              "duration": "03:12",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50683"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "赤い日記帳",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "有澤一華"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋ならとっくに始まってる",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "入江里咲"
+              }
+            },
+            {
+              "index": 3,
+              "title": "My Days for You",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "中島卓偉",
+                "出演": "江端妃咲"
+              }
+            },
+            {
+              "index": 4,
+              "title": "オーディションオムニバス映像",
+              "duration": "21:11",
+              "credits": {
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付(新メンバー3名ソロ歌唱動画＋オーディションオムニバス映像)"
+    },
+    {
+      "name": "【初回生産限定盤SP2】",
+      "image": "/upload/images/8025591ded21eace6676ddb497ed97f37fec3c08.webp",
+      "price": "￥1,650（税抜価格 ￥1,500）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プラスティック・ラブ",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Anders Dannvik",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Familia",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "Shusui/Shim Zeyun/tsubomi",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Future Smile",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "プラスティック・ラブ",
+              "duration": "04:37",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Anders Dannvik",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Familia",
+              "duration": "03:42",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "Shusui/Shim Zeyun/tsubomi",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Future Smile",
+              "duration": "03:12",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50685"
+        }
+      ],
+      "note": "「Future Smile」フリーアングルぐるっと動画ダウンロードカード10種より1種ランダム封入"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/db8efbfe1e5d5b012c78c9bb2ddccb9e8126acd9.webp",
+      "price": "定価 ￥1,300（税抜価格 ￥1,182）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プラスティック・ラブ",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Anders Dannvik",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Familia",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "Shusui/Shim Zeyun/tsubomi",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Future Smile",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "プラスティック・ラブ",
+              "duration": "04:37",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Anders Dannvik",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Familia",
+              "duration": "03:42",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "Shusui/Shim Zeyun/tsubomi",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Future Smile",
+              "duration": "03:12",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50686"
+        }
+      ],
+      "note": "トレーディングカードソロ10種＋キラ仕様の集合1種よりランダムで1枚封入(プラスティック・ラブ Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/5bc4ad2abc9b60b82892a575c3df5abd1ffcb68c.webp",
+      "price": "定価 ￥1,300（税抜価格 ￥1,182）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プラスティック・ラブ",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Anders Dannvik",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Familia",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "Shusui/Shim Zeyun/tsubomi",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Future Smile",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "プラスティック・ラブ",
+              "duration": "04:37",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Anders Dannvik",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Familia",
+              "duration": "03:42",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "Shusui/Shim Zeyun/tsubomi",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Future Smile",
+              "duration": "03:12",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50687"
+        }
+      ],
+      "note": "トレーディングカードソロ10種＋キラ仕様の集合1種よりランダムで1枚封入(Familia Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/upload/images/e784fcdcc92a86a627d9bb35d62ec2ba5a4a8c66.webp",
+      "price": "定価 ￥1,300（税抜価格 ￥1,182）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プラスティック・ラブ",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Anders Dannvik",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Familia",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "Shusui/Shim Zeyun/tsubomi",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Future Smile",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "プラスティック・ラブ",
+              "duration": "04:37",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Anders Dannvik",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Familia",
+              "duration": "03:42",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "Shusui/Shim Zeyun/tsubomi",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Future Smile",
+              "duration": "03:12",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50688"
+        }
+      ],
+      "note": "トレーディングカードソロ10種＋キラ仕様の集合1種よりランダムで1枚封入(Future Smile Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【金澤朋子卒業記念盤】※ポニーキャニオンショッピングクラブ限定販売商品",
+      "image": "/upload/images/2c1a07b0cc9c9f2d1193712c9e22da73e565d4ee.webp",
+      "price": "￥2,200（税抜価格 ￥2,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プラスティック・ラブ",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Anders Dannvik",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Familia",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "Shusui/Shim Zeyun/tsubomi",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Future Smile",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "プラスティック・ラブ",
+              "duration": "04:37",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Anders Dannvik",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Familia",
+              "duration": "03:42",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "Shusui/Shim Zeyun/tsubomi",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Future Smile",
+              "duration": "03:12",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCP-50001"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プラスティック・ラブ",
+              "duration": "04:42",
+              "suffix": "(feat. 金澤朋子 Ver.)",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Familia",
+              "duration": "03:50",
+              "suffix": "(feat. 金澤朋子 Ver.)",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "Shusui/Shim Zeyun/tsubomi",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Future Smile",
+              "duration": "03:29",
+              "suffix": "(feat. 金澤朋子 Ver.)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin",
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付"
+    }
+  ]
+}

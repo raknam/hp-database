@@ -1,0 +1,48 @@
+{
+  "code": "UFDL-1466",
+  "url": "/release/detail/UFDL-1466/",
+  "source": "upfront",
+  "title": "TABOO",
+  "category": "配信",
+  "artist": "吉川友",
+  "releaseDate": "2020/12/10",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/aefca21f1cd9acae684b876667f4a844b15912ac.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/aefca21f1cd9acae684b876667f4a844b15912ac.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1466",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "TABOO",
+              "duration": "02:43",
+              "credits": {
+                "作詞": "サカノウエヨースケ",
+                "作曲": "michitomo/サカノウエヨースケ",
+                "編曲": "michitomo/サカノウエヨースケ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "TABOO(Instrumental)",
+              "duration": "02:43",
+              "credits": {
+                "作詞": "サカノウエヨースケ",
+                "作曲": "michitomo/サカノウエヨースケ",
+                "編曲": "michitomo/サカノウエヨースケ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

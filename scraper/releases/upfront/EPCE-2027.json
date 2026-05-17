@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-2027",
+  "url": "/release/detail/EPCE-2027/",
+  "source": "upfront",
+  "title": "雪が降る ～Tombe La Neige～",
+  "category": "CDシングル",
+  "artist": "因幡晃",
+  "releaseDate": "2004/11/10",
+  "label": "地中海レーベル",
+  "images": [
+    "/images/47aeecb826256192892d7be467cd59225a643da9.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/47aeecb826256192892d7be467cd59225a643da9.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-2027",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "雪が降る ～Tombe La Neige～",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "SALVATORE ADAMO/訳詞:安井かずみ",
+                "作曲": "SALVATORE ADAMO",
+                "編曲": "佐藤準(原編曲:Joseph De Boeck/Oscar Saintal)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "一緒に居ようこの冬は",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "因幡晃",
+                "作曲": "因幡晃",
+                "編曲": "佐藤準"
+              }
+            },
+            {
+              "index": 3,
+              "title": "雪が降る ～Tombe La Neige～",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "SALVATORE ADAMO",
+                "作曲": "SALVATORE ADAMO",
+                "編曲": "佐藤準(原編曲:Joseph De Boeck/Oscar Saintal)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "雪が降る(Instrumental)",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "SALVATORE ADAMO",
+                "作曲": "SALVATORE ADAMO",
+                "編曲": "佐藤準(原編曲:Joseph De Boeck/Oscar Saintal)"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

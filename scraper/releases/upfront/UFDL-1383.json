@@ -1,0 +1,68 @@
+{
+  "code": "UFDL-1383",
+  "url": "/release/detail/UFDL-1383/",
+  "source": "upfront",
+  "title": "何度も 何度も...",
+  "category": "配信シングル",
+  "artist": "チャオ ベッラ チンクエッティ",
+  "releaseDate": "2017/12/20",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/d0143ba44ce61497822dc4ef95028b6c5b480b64.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d0143ba44ce61497822dc4ef95028b6c5b480b64.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信シングル",
+          "catalogNo": "UFDL-1383",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "何度も 何度も...",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "夢野氏郷",
+                "作曲": "夢野氏郷",
+                "編曲": "夢野氏郷"
+              }
+            },
+            {
+              "index": 2,
+              "title": "LOVE！妄想ラプソディー♪",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "夢野氏郷",
+                "作曲": "夢野氏郷",
+                "編曲": "夢野氏郷"
+              }
+            },
+            {
+              "index": 3,
+              "title": "何度も 何度も...(Instrumental)",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "夢野氏郷",
+                "作曲": "夢野氏郷",
+                "編曲": "夢野氏郷"
+              }
+            },
+            {
+              "index": 4,
+              "title": "LOVE！妄想ラプソディー♪(Instrumental)",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "夢野氏郷",
+                "作曲": "夢野氏郷",
+                "編曲": "夢野氏郷"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

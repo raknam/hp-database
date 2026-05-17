@@ -1,0 +1,108 @@
+{
+  "code": "UFCW-1018",
+  "url": "/release/detail/UFCW-1018/",
+  "source": "upfront",
+  "title": "Chu Chu Chu",
+  "category": "CDシングル",
+  "artist": "Cabrells",
+  "releaseDate": "2011/09/29",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/65c452c968236cb49ed96a9edcb83fd575aa95e1.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/65c452c968236cb49ed96a9edcb83fd575aa95e1.jpg",
+      "price": "￥1,047 (税抜価格 ￥952)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "UFCW-1018",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Chu Chu Chu",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "KAN/ジョン・B/菅原龍平",
+                "作曲": "KAN",
+                "編曲": "Cabrells"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Chu Chu Chu(instrumental)",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "KAN、ジョン・B、菅原龍平",
+                "作曲": "KAN",
+                "編曲": "Cabrells"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ワインマン【enhanced】",
+              "duration": "00:13"
+            },
+            {
+              "index": 4,
+              "title": "クロスプレイ【enhanced】",
+              "duration": "00:13"
+            },
+            {
+              "index": 5,
+              "title": "カエルくん【enhanced】",
+              "duration": "00:13"
+            },
+            {
+              "index": 6,
+              "title": "クローバーの法則【enhanced】",
+              "duration": "00:13"
+            },
+            {
+              "index": 7,
+              "title": "Chu Chu Chu 飛行【enhanced】",
+              "duration": "00:13"
+            },
+            {
+              "index": 8,
+              "title": "30畳【enhanced】",
+              "duration": "00:13"
+            },
+            {
+              "index": 9,
+              "title": "1たす1【enhanced】",
+              "duration": "00:13"
+            },
+            {
+              "index": 10,
+              "title": "流れ星【enhanced】",
+              "duration": "00:13"
+            },
+            {
+              "index": 11,
+              "title": "怒りの本質【enhanced】",
+              "duration": "00:13"
+            },
+            {
+              "index": 12,
+              "title": "しっぽ【enhanced】",
+              "duration": "00:13"
+            },
+            {
+              "index": 13,
+              "title": "虫歯【enhanced】",
+              "duration": "00:13"
+            },
+            {
+              "index": 14,
+              "title": "ウタウタイ【enhanced】",
+              "duration": "00:13"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

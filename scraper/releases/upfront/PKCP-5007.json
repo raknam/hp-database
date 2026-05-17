@@ -1,0 +1,58 @@
+{
+  "code": "PKCP-5007",
+  "url": "/release/detail/PKCP-5007/",
+  "source": "upfront",
+  "title": "失恋LOVEソング",
+  "category": "CDシングル",
+  "artist": "市井紗耶香 in CUBIC-CROSS",
+  "releaseDate": "2002/07/17",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/944875b01501a636306a23da2fe3c5bc9d2ef36f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/944875b01501a636306a23da2fe3c5bc9d2ef36f.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5007",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "失恋LOVEソング",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "市井紗耶香",
+                "作曲": "たいせー",
+                "編曲": "たいせー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ずっとね",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "市井紗耶香",
+                "作曲": "たいせー",
+                "編曲": "たいせー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "失恋LOVEソング(Instrumental)",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "市井紗耶香",
+                "作曲": "たいせー",
+                "編曲": "たいせー"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

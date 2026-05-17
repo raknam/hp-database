@@ -1,0 +1,43 @@
+{
+  "id": 374,
+  "url": "/release/374/",
+  "title": "ハロプロアワー Vol.4",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2006.12.27",
+  "label": "zetima",
+  "images": [
+    "/upload/images/12dbbcb63fd5414e2f248dd4dafc10bbad9599a0.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "♯7",
+              "duration": "29:08",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "♯8",
+              "duration": "26:26",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5223"
+        }
+      ]
+    }
+  ]
+}

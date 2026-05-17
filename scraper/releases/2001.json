@@ -1,0 +1,107 @@
+{
+  "id": 2001,
+  "url": "/release/2001/",
+  "title": "アロハロ！3 Berryz工房 Blu-ray Disc",
+  "category": "BD",
+  "artist": "Berryz工房",
+  "releaseDate": "2013.7.24",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/upload/images/c6fa00599b7dab13b045ded62b5d8a9acf2d0849.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "03:17",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Berryz Home Alone",
+              "duration": "20:28",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Image in formal",
+              "duration": "09:21",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Making original CM",
+              "duration": "14:17",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Find it! Game",
+              "duration": "14:11",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Time Trial",
+              "duration": "04:57",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Images in casual",
+              "duration": "14:22",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Final result",
+              "duration": "04:28",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 9,
+              "title": "Ending",
+              "duration": "00:52",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 10,
+              "title": "Original CM",
+              "duration": "04:05",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "PKXP-5007"
+        }
+      ]
+    }
+  ]
+}

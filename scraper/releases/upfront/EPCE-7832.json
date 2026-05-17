@@ -1,0 +1,270 @@
+{
+  "code": "EPCE-7832",
+  "url": "/release/detail/EPCE-7832/",
+  "source": "upfront",
+  "title": "涙のTomorrow/Yes! 晴れ予報",
+  "category": "CDシングル",
+  "artist": "小関舞",
+  "releaseDate": "2024/04/24",
+  "label": "zetima",
+  "images": [
+    "/images/2809d0464bc73f02aef2fe9e1c1c2d8d94495d53.jpg",
+    "/images/974c61c20b1a53a13b3d722f75e4ef3b7208b230.jpg",
+    "/images/4b9229a6e36cbb79597e22dcc1f51072219dac91.jpg",
+    "/images/4c9a439648c8f42706cb26fa40975b24dba170eb.jpg",
+    "/images/4f1a499e78cedd800f8c67db818f20037c3aa3f8.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/2809d0464bc73f02aef2fe9e1c1c2d8d94495d53.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7832",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "涙のTomorrow",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "渡辺泰司",
+                "編曲": "渡辺泰司"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Yes! 晴れ予報",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "miwaflower",
+                "作曲": "miwaflower/SAMDELL",
+                "編曲": "SAMDELL"
+              }
+            },
+            {
+              "index": 3,
+              "title": "涙のTomorrow(Instrumental)",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "渡辺泰司",
+                "編曲": "渡辺泰司"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Yes! 晴れ予報(Instrumental)",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "miwaflower",
+                "作曲": "miwaflower/SAMDELL",
+                "編曲": "SAMDELL"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/974c61c20b1a53a13b3d722f75e4ef3b7208b230.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7834",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "涙のTomorrow(Music Video)",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "渡辺泰司"
+              }
+            },
+            {
+              "index": 2,
+              "title": "涙のTomorrow(Dance Shot Ver.)",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "渡辺泰司"
+              }
+            },
+            {
+              "index": 3,
+              "title": "涙のTomorrow(メイキング映像)",
+              "duration": "12:10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/4b9229a6e36cbb79597e22dcc1f51072219dac91.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7836",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "涙のTomorrow",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "渡辺泰司",
+                "編曲": "渡辺泰司"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Yes! 晴れ予報",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "miwaflower",
+                "作曲": "miwaflower/SAMDELL",
+                "編曲": "SAMDELL"
+              }
+            },
+            {
+              "index": 3,
+              "title": "涙のTomorrow(Instrumental)",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "渡辺泰司",
+                "編曲": "渡辺泰司"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Yes! 晴れ予報(Instrumental)",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "miwaflower",
+                "作曲": "miwaflower/SAMDELL",
+                "編曲": "SAMDELL"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/4c9a439648c8f42706cb26fa40975b24dba170eb.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7837",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Yes! 晴れ予報(Music Video)",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "miwaflower",
+                "作曲": "miwaflower/SAMDELL"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Yes! 晴れ予報(Dance Shot Ver.)",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "miwaflower",
+                "作曲": "miwaflower/SAMDELL"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Yes! 晴れ予報(メイキング映像)",
+              "duration": "12:17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/images/4f1a499e78cedd800f8c67db818f20037c3aa3f8.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7838",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "涙のTomorrow",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "渡辺泰司",
+                "編曲": "渡辺泰司"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Yes! 晴れ予報",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "miwaflower",
+                "作曲": "miwaflower/SAMDELL",
+                "編曲": "SAMDELL"
+              }
+            },
+            {
+              "index": 3,
+              "title": "お別れのKISS【Additional Track】",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "涙のTomorrow(Instrumental)",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "渡辺泰司",
+                "編曲": "渡辺泰司"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Yes! 晴れ予報(Instrumental)",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "miwaflower",
+                "作曲": "miwaflower/SAMDELL",
+                "編曲": "SAMDELL"
+              }
+            },
+            {
+              "index": 6,
+              "title": "お別れのKISS(Instrumental)",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "宮永治郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

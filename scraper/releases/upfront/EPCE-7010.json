@@ -1,0 +1,134 @@
+{
+  "code": "EPCE-7010",
+  "url": "/release/detail/EPCE-7010/",
+  "source": "upfront",
+  "title": "ゲッザファッカゥッ！！！！/誰もわかってくれない/BEAT&LOOSE",
+  "category": "CDシングル",
+  "artist": "中島卓偉",
+  "releaseDate": "2013/11/06",
+  "label": "zetima",
+  "images": [
+    "/images/bb12c9dc95f340fa9d05786ce602023f9995b9bf.jpg",
+    "/images/0d3ade4bcdce964aef497de76aab5d81a9f3af88.jpg",
+    "/images/f778f2ed75caf00c1cf2a5ee2182d2e12893a92b.jpg"
+  ],
+  "editions": [
+    {
+      "name": "初回生産限定盤A (DVD付き)",
+      "image": "/images/bb12c9dc95f340fa9d05786ce602023f9995b9bf.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7010",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ゲッザファッカゥッ！！！！ ＜Single Ver.＞",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 2,
+              "title": "誰もわかってくれない ＜Single Ver.＞",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 3,
+              "title": "BEAT&LOOSE ＜Single Ver.＞",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "初回生産限定盤B (DVD付き)",
+      "image": "/images/0d3ade4bcdce964aef497de76aab5d81a9f3af88.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7012",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ゲッザファッカゥッ！！！！(Music Video)",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 2,
+              "title": "BEAT&LOOSE(Music Video)",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/images/f778f2ed75caf00c1cf2a5ee2182d2e12893a92b.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7014",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ゲッザファッカゥッ！！！！ ＜Single Ver.＞",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 2,
+              "title": "誰もわかってくれない ＜Single Ver.＞",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 3,
+              "title": "BEAT&LOOSE ＜Single Ver.＞",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

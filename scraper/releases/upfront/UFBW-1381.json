@@ -1,0 +1,101 @@
+{
+  "code": "UFBW-1381",
+  "url": "/release/detail/UFBW-1381/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.2",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2014/09/17",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/d5e76d5586453257a0733ce0b3178baa1971e36f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d5e76d5586453257a0733ce0b3178baa1971e36f.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1381",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "心の叫びを歌にしてみた【名物企画 衣装コーディネート】",
+              "duration": "09:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Happy大作戦【名物企画 衣装コーディネート】",
+              "duration": "09:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "アレコレしたい！【名物企画 衣装コーディネート】",
+              "duration": "09:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "「良い奴」【名物企画 衣装コーディネート】",
+              "duration": "10:05",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Love take it all【スタジオライブ集】",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "裸の裸の裸のKISS【スタジオライブ集】",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 7,
+              "title": "アッパーカット！【スタジオライブ集】",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "PandaBoY",
+                "作曲": "PandaBoY"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Juice=Juice「アレコレしたい！」ミュージックビデオ撮影密着！！",
+              "duration": "02:28"
+            },
+            {
+              "index": 9,
+              "title": "「テレビ東京フェスティバル」Berryz工房スッペシャルステージ 野外ライブ＆舞台裏に密着",
+              "duration": "23:44"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

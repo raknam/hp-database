@@ -1,0 +1,120 @@
+{
+  "code": "UFBW-1645",
+  "url": "/release/detail/UFBW-1645/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.65",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2020/03/11",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/d45606d80d1f99ec7864c000322385e01dc1d42b.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d45606d80d1f99ec7864c000322385e01dc1d42b.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1645",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "古地図",
+              "duration": "11:25"
+            },
+            {
+              "index": 2,
+              "title": "東大式マジック",
+              "duration": "09:32"
+            },
+            {
+              "index": 3,
+              "title": "目の錯覚",
+              "duration": "08:05"
+            },
+            {
+              "index": 4,
+              "title": "作曲",
+              "duration": "07:40"
+            },
+            {
+              "index": 5,
+              "title": "I surrender 愛されど愛【スタジオライブ集】",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ジェラシー ジェラシー【スタジオライブ集】",
+              "duration": "06:18",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：U.M.E.D.Y.",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 7,
+              "title": "恋はアッチャアッチャ【スタジオライブ集】",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 8,
+              "title": "夢見た 15年【スタジオライブ集】",
+              "duration": "05:09",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "イイジマケン"
+              }
+            },
+            {
+              "index": 9,
+              "title": "Good bye & Good luck！【スタジオライブ集】",
+              "duration": "05:33",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KOUGA"
+              }
+            },
+            {
+              "index": 10,
+              "title": "待てないアフターファイブ【スタジオライブ集】",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "石井健太郎"
+              }
+            },
+            {
+              "index": 11,
+              "title": "ハルウララ【スタジオライブ集】",
+              "duration": "05:08",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "原田雄一"
+              }
+            },
+            {
+              "index": 12,
+              "title": "ふわり、恋時計【スタジオライブ集】",
+              "duration": "05:27",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

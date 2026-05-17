@@ -1,0 +1,53 @@
+{
+  "code": "UFBW-1328",
+  "url": "/release/detail/UFBW-1328/",
+  "source": "upfront",
+  "title": "ハロー!SATOYAMAライフ Vol.21",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2014/01/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/172ab4adf88398a6015c90b22effc5920c6965ad.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/172ab4adf88398a6015c90b22effc5920c6965ad.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1328",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "常陸太田市 里山第二弾バスツアー",
+              "duration": "08:20"
+            },
+            {
+              "index": 2,
+              "title": "夏野菜の種植え 収穫したほうれん草でオムレツランチ",
+              "duration": "21:08"
+            },
+            {
+              "index": 3,
+              "title": "Juice=Juiceメジャーデビューサプライズ発表 NEWS",
+              "duration": "01:50"
+            },
+            {
+              "index": 4,
+              "title": "里山ミーティング傑作選①",
+              "duration": "22:11"
+            },
+            {
+              "index": 5,
+              "title": "里山ミーティング傑作選②",
+              "duration": "16:58"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "code": "EPBE-5414",
+  "url": "/release/detail/EPBE-5414/",
+  "source": "upfront",
+  "title": "さやし りほ〜Greeting〜",
+  "category": "DVD",
+  "artist": "鞘師里保",
+  "releaseDate": "2011/08/31",
+  "label": "zetima",
+  "images": [
+    "/images/2cbca46bf2546e615b5340c6079bc9a425718398.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/2cbca46bf2546e615b5340c6079bc9a425718398.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5414",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Greeting & Interview",
+              "duration": "14:28"
+            },
+            {
+              "index": 2,
+              "title": "After School",
+              "duration": "09:35"
+            },
+            {
+              "index": 3,
+              "title": "Interview 2",
+              "duration": "04:43"
+            },
+            {
+              "index": 4,
+              "title": "Sunshine Girl",
+              "duration": "09:52"
+            },
+            {
+              "index": 5,
+              "title": "Interview 3",
+              "duration": "08:58"
+            },
+            {
+              "index": 6,
+              "title": "Making of 「さやしりほ」",
+              "duration": "14:39"
+            },
+            {
+              "index": 7,
+              "title": "Ending",
+              "duration": "02:23"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

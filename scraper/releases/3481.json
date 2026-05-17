@@ -1,0 +1,61 @@
+{
+  "id": 3481,
+  "url": "/release/3481/",
+  "title": "あぁ いいな！",
+  "category": "CDシングル",
+  "artist": "W",
+  "releaseDate": "2004.8.18",
+  "label": "zetima",
+  "images": [
+    "/upload/images/394c59088d26a14ba067c0eaf6d6082f5045f553.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "あぁ いいな！",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "W"
+              }
+            },
+            {
+              "index": 2,
+              "title": "乙女の携帯電話の秘密",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "W"
+              }
+            },
+            {
+              "index": 3,
+              "title": "あぁ いいな！",
+              "duration": "03:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "W"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5308"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": 2833,
+  "url": "/release/2833/",
+  "title": "二人暮し",
+  "category": "CDシングル",
+  "artist": "中澤裕子",
+  "releaseDate": "2001.8.1",
+  "label": "zetima",
+  "images": [
+    "/upload/images/133207685fedf16e380aa44c98c4d9d7dd7f1280.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "二人暮し",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "明石昌夫",
+                "歌": "中澤裕子"
+              }
+            },
+            {
+              "index": 2,
+              "title": "公園通りの喫茶店",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "米光亮",
+                "歌": "中澤裕子"
+              }
+            },
+            {
+              "index": 3,
+              "title": "二人暮し",
+              "duration": "04:39",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "明石昌夫",
+                "歌": "中澤裕子"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5115"
+        }
+      ]
+    }
+  ]
+}

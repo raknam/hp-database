@@ -1,0 +1,112 @@
+{
+  "id": 2146,
+  "url": "/release/2146/",
+  "title": "ハロー！チャンネル the DVD Vol.6",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2011.11.17",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/1e423bbbcd1e9ca9b6366a914add4f188c9ac053.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Hello!Channel Premium 卒業",
+              "duration": "19:20",
+              "credits": {
+                "出演": "高橋愛(モーニング娘。)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "シャ乱Qまこと プロデュース ハロプロ キャンプ大会",
+              "duration": "25:37",
+              "credits": {
+                "出演": "新垣里沙・鈴木香音(モーニング娘。)/徳永千奈美・須藤茉麻(Berryz工房)/岡井千聖(℃-ute)/前田憂佳(スマイレージ)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "青春18きっぷの旅 in 東海道線",
+              "duration": "14:28",
+              "credits": {
+                "出演": "菅谷梨沙子(Berryz工房)＆鈴木愛理(℃-ute)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "高橋愛が9期をプロデュース",
+              "duration": "19:12",
+              "credits": {
+                "出演": "高橋愛/譜久村聖/生田衣梨奈/鞘師里保/鈴木香音(モーニング娘。)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "モーニング娘。生田衣梨奈が℃-ute鈴木愛理にゴルフ対決を挑む！",
+              "duration": "18:24",
+              "credits": {
+                "出演": "生田衣梨奈(モーニング娘。)＆鈴木愛理(℃-ute)"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-2033"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "姉さん、事件です！！ホテルのお仕事",
+              "duration": "23:26",
+              "credits": {
+                "出演": "道重さゆみ(モーニング娘。)/熊井友理奈(Berryz工房)/矢島舞美・中島早貴(℃-ute)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "海の家の仕事にチャレンジ",
+              "duration": "21:02",
+              "credits": {
+                "出演": "新垣里沙(モーニング娘。)/夏焼雅(Berryz工房)/萩原舞(℃-ute)/真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "納涼！縁側！甚平 de 夏物語",
+              "duration": "13:06",
+              "credits": {
+                "出演": "田中れいな(モーニング娘。)/清水佐紀(Berryz工房)/鈴木愛理(℃-ute)/福田花音(スマイレージ)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "真野恵里菜のアイドル100万ボルト 鎌倉デート編",
+              "duration": "13:54",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 5,
+              "title": "寄居 星の王子さまPAをご案内",
+              "duration": "22:01",
+              "credits": {
+                "出演": "嗣永桃子(Berryz工房)＆矢島舞美(℃-ute)＆福田花音(スマイレージ)"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

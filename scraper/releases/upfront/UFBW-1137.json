@@ -1,0 +1,53 @@
+{
+  "code": "UFBW-1137",
+  "url": "/release/detail/UFBW-1137/",
+  "source": "upfront",
+  "title": "ハロプロ！TIME Vol.5",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012/02/01",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/4c4b7a852e8c6c53dea561b1ef92f1b438e6add6.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/4c4b7a852e8c6c53dea561b1ef92f1b438e6add6.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1137",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "10期メンバー発表！in日本武道館①",
+              "duration": "16:28"
+            },
+            {
+              "index": 2,
+              "title": "10期メンバー発表！in日本武道館②",
+              "duration": "13:40"
+            },
+            {
+              "index": 3,
+              "title": "高橋愛 卒業コンサート",
+              "duration": "16:26"
+            },
+            {
+              "index": 4,
+              "title": "新加入！！10期メンバー発表 コンサートの裏側",
+              "duration": "09:50"
+            },
+            {
+              "index": 5,
+              "title": "道重さゆみの歌詞でどーん♪",
+              "duration": "13:08"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

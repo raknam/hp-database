@@ -1,0 +1,67 @@
+{
+  "id": 4577,
+  "url": "/release/4577/",
+  "title": "Greeting〜山木梨沙〜",
+  "category": "BD",
+  "artist": "山木梨沙",
+  "releaseDate": "2015.12.11",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/7d4c81889cc7ee399b822be8e69ec284aa3a9dbb.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Country Road",
+              "duration": "10:49",
+              "credits": {
+                "出演": "山木梨沙"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Horse Yard",
+              "duration": "11:48",
+              "credits": {
+                "出演": "山木梨沙"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Interview with Risa Yamaki",
+              "duration": "16:16",
+              "credits": {
+                "出演": "山木梨沙"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Making",
+              "duration": "07:15",
+              "credits": {
+                "出演": "山木梨沙"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "03:53",
+              "credits": {
+                "出演": "山木梨沙"
+              }
+            }
+          ],
+          "catalogNo": "UFXW-2008"
+        }
+      ]
+    }
+  ]
+}

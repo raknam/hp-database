@@ -1,0 +1,74 @@
+{
+  "code": "EPCE-5417",
+  "url": "/release/detail/EPCE-5417/",
+  "source": "upfront",
+  "title": "ハロー！プロジェクト ラジオドラマ大阪編 Vol.3",
+  "category": "CDアルバム",
+  "artist": "V.A.",
+  "releaseDate": "2006/07/26",
+  "label": "zetima",
+  "images": [
+    "/images/0ce69834fd709937a8966d87858d8c35743acd2a.jpg"
+  ],
+  "editions": [
+    {
+      "name": "[Disc:1]",
+      "image": "/images/0ce69834fd709937a8966d87858d8c35743acd2a.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5417",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「真夜中の迷走タクシー」",
+              "duration": "47:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "＜特典＞ インタビュー",
+              "duration": "01:19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "[Disc:2]",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5418",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「ガール☆ドライバー」",
+              "duration": "48:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "＜特典＞ インタビュー",
+              "duration": "02:08"
+            },
+            {
+              "index": 3,
+              "title": "＜特典＞ NG集",
+              "duration": "02:33"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

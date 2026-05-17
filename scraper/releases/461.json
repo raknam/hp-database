@@ -1,0 +1,56 @@
+{
+  "id": 461,
+  "url": "/release/461/",
+  "title": "シングルV「キャンパスライフ〜生まれて来てよかった〜」",
+  "category": "DVDシングルV",
+  "artist": "℃-ute",
+  "releaseDate": "2010.5.12",
+  "label": "zetima",
+  "images": [
+    "/upload/images/534d0b5adc1d2ded478c18bc7e4883d730a2322b.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "キャンパスライフ〜生まれて来てよかった〜",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "キャンパスライフ〜生まれて来てよかった〜",
+              "duration": "03:49",
+              "suffix": "(Natural Lip Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "12:36",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5376"
+        }
+      ]
+    }
+  ]
+}

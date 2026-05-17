@@ -1,0 +1,138 @@
+{
+  "code": "EPCE-7456",
+  "url": "/release/detail/EPCE-7456/",
+  "source": "upfront",
+  "title": "楽団 (UHQCD)",
+  "category": "CDアルバム",
+  "artist": "スターダスト☆レビュー",
+  "releaseDate": "2018/11/21",
+  "label": "zetima",
+  "images": [
+    "/images/948ab2e8f459cb495caa2877993e28bcb933484d.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/948ab2e8f459cb495caa2877993e28bcb933484d.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-7456",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夢の翼",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "三谷泰弘",
+                "作曲": "三谷泰弘",
+                "編曲": "三谷泰弘"
+              }
+            },
+            {
+              "index": 2,
+              "title": "素敵なたくらみ",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "寺田正美/林紀勝",
+                "作曲": "三谷泰弘",
+                "編曲": "三谷泰弘"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Let's Call It \"Love\"",
+              "duration": "06:01",
+              "credits": {
+                "作詞": "三谷泰弘",
+                "作曲": "三谷泰弘",
+                "編曲": "三谷泰弘"
+              }
+            },
+            {
+              "index": 4,
+              "title": "恋人のままで～Autumn Love～",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "林紀勝",
+                "作曲": "根本要",
+                "編曲": "三谷泰弘"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Over The Rainbow",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "寺田正美/根本要",
+                "作曲": "根本要",
+                "編曲": "三谷泰弘"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Triangle Love",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "根本要/林紀勝",
+                "作曲": "根本要",
+                "編曲": "スターダスト・レビュー"
+              }
+            },
+            {
+              "index": 7,
+              "title": "クレイジー・ラブ",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "渡辺なつみ",
+                "作曲": "柿沼清史",
+                "編曲": "三谷泰弘"
+              }
+            },
+            {
+              "index": 8,
+              "title": "The Best Of My Life",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "根本要/林紀勝",
+                "作曲": "根本要",
+                "編曲": "スターダスト・レビュー"
+              }
+            },
+            {
+              "index": 9,
+              "title": "横顔",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "山田ひろし",
+                "作曲": "柿沼清史",
+                "編曲": "三谷泰弘"
+              }
+            },
+            {
+              "index": 10,
+              "title": "Candle On The Water",
+              "duration": "05:20",
+              "credits": {
+                "作詞": "三谷泰弘",
+                "作曲": "三谷泰弘",
+                "編曲": "三谷泰弘"
+              }
+            },
+            {
+              "index": 11,
+              "title": "クレイジー・ラブ(Live Version)",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "渡辺なつみ",
+                "作曲": "柿沼清史",
+                "編曲": "スターダスト・レビュー"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

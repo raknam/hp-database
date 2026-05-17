@@ -1,0 +1,75 @@
+{
+  "code": "UFBW-1609",
+  "url": "/release/detail/UFBW-1609/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.50",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2018/12/05",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/8a0a451a1a897456e3d0ea862e96f2ecca94f8cf.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/8a0a451a1a897456e3d0ea862e96f2ecca94f8cf.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1609",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「Hello! Project Documentary」譜久村聖(モーニング娘。’17) /♪弩級のゴーサイン",
+              "duration": "18:24"
+            },
+            {
+              "index": 2,
+              "title": "「Hello! Project Documentary」岸本ゆめの(つばきファクトリー) /♪17才 ♪独り占め ♪Just Try!",
+              "duration": "20:50"
+            },
+            {
+              "index": 3,
+              "title": "「Hello! Project Documentary」金澤朋子(Juice=Juice) /♪イジワルしないで 抱きしめてよ ♪背伸び",
+              "duration": "18:26"
+            },
+            {
+              "index": 4,
+              "title": "愛の種(20th Anniversary Ver.)【スタジオライブ集】",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "サエキけんぞう",
+                "作曲": "桜井鉄太郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "キレイ・カワイ・ミライ【スタジオライブ集】",
+              "duration": "04:44",
+              "credits": {
+                "作詞": "＆ STUDY",
+                "作曲": "原田雄一"
+              }
+            },
+            {
+              "index": 6,
+              "title": "きっかけはYOU!(Acoustic Version）【スタジオライブ集】",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "大華奈央香",
+                "作曲": "オオヤギヒロオ/大華奈央香"
+              }
+            },
+            {
+              "index": 7,
+              "title": "モーニング娘。'17「若いんだし！」MV撮影密着【未公開映像】",
+              "duration": "03:51"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

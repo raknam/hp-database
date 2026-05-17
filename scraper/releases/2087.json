@@ -1,0 +1,91 @@
+{
+  "id": 2087,
+  "url": "/release/2087/",
+  "title": "ハロー!SATOYAMAライフ Vol.1",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2013.2.27",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/c3f7d4d00aa048006c5a8aacd43c98966ca139fc.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "葉もの野菜の種をまく①",
+              "duration": "16:38",
+              "credits": {
+                "出演": "飯窪春菜・石田亜佑美(モ－ニング娘。)/中島早貴(℃-ute)/和田彩花・福田花音(スマイレージ)/光井愛佳"
+              }
+            },
+            {
+              "index": 2,
+              "title": "葉もの野菜の種をまく②",
+              "duration": "18:32",
+              "credits": {
+                "出演": "飯窪春菜・石田亜佑美(モ－ニング娘。)/中島早貴(℃-ute)/和田彩花・福田花音(スマイレージ)/光井愛佳"
+              }
+            },
+            {
+              "index": 3,
+              "title": "じゃがいもとゴーヤの種をまく",
+              "duration": "06:14",
+              "credits": {
+                "出演": "飯窪春菜・石田亜佑美(モ－ニング娘。)/中島早貴(℃-ute)/和田彩花・福田花音(スマイレージ)/光井愛佳"
+              }
+            },
+            {
+              "index": 4,
+              "title": "とうもろこしの種をまく",
+              "duration": "02:33",
+              "credits": {
+                "出演": "飯窪春菜(モ－ニング娘。)/矢島舞美・中島早貴(℃-ute)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ないしょの話 中島×飯窪",
+              "duration": "07:11",
+              "credits": {
+                "出演": "飯窪春菜(モ－ニング娘。)/中島早貴(℃-ute)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "畑で休めるイス作り①",
+              "duration": "20:51",
+              "credits": {
+                "出演": "石田亜佑美(モ－ニング娘。)/徳永千奈美・須藤茉麻(Berryz工房)/矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 7,
+              "title": "畑で休めるイス作り②",
+              "duration": "16:21",
+              "credits": {
+                "出演": "石田亜佑美(モ－ニング娘。)/徳永千奈美・須藤茉麻(Berryz工房)/矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Berryz工房×℃-ute「超HAPPY SONG」MV撮影に密着",
+              "duration": "12:29",
+              "credits": {
+                "出演": "Berryz工房×℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1234"
+        }
+      ]
+    }
+  ]
+}

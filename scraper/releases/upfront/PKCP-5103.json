@@ -1,0 +1,169 @@
+{
+  "code": "PKCP-5103",
+  "url": "/release/detail/PKCP-5103/",
+  "source": "upfront",
+  "title": "美勇伝 シングルベスト9 Vol.1 おまけつき",
+  "category": "CDアルバム",
+  "artist": "美勇伝",
+  "releaseDate": "2007/11/21",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/e7ae48c5d659b79ccb23dc16bf0c40ddca37fffe.jpg",
+    "/images/532ed31c186667b195dc5d4ecb7763103b573c78.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/e7ae48c5d659b79ccb23dc16bf0c40ddca37fffe.jpg",
+      "price": "￥3,960 (税抜価格 ￥3,600)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "PKCP-5103",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "FANTASY",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "じゃじゃ馬パラダイス",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "菊池知樹"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋する♡エンジェル♡ハート",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳"
+              }
+            },
+            {
+              "index": 4,
+              "title": "愛すクリ〜ムとMyプリン",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 5,
+              "title": "一切合切 あなたに∮あ・げ・る♪",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 6,
+              "title": "クレナイの季節",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "安部潤/平田祥一郎"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ひとりじめ",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 8,
+              "title": "紫陽花アイ愛物語",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "角田崇徳/斉藤未悠",
+                "作曲": "角田崇徳",
+                "編曲": "角田崇徳"
+              }
+            },
+            {
+              "index": 9,
+              "title": "カッチョイイゼ！JAPAN",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 10,
+              "title": "恋のヌケガラ",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "湯川れい子",
+                "作曲": "はたけ",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/532ed31c186667b195dc5d4ecb7763103b573c78.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKCP-5105",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛すクリ〜ムとMyプリン(Close-up[石川梨華] Ver.)",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "愛すクリ〜ムとMyプリン(Close-up[三好絵梨香] Ver.)",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "愛すクリ〜ムとMyプリン(Close-up[岡田 唯] Ver.)",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

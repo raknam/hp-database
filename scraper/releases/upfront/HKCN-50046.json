@@ -1,0 +1,81 @@
+{
+  "code": "HKCN-50046",
+  "url": "/release/detail/HKCN-50046/",
+  "source": "upfront",
+  "title": "LU LU LU",
+  "category": "CDシングル",
+  "artist": "GAM",
+  "releaseDate": "2007/03/21",
+  "label": "hachama",
+  "images": [
+    "/images/f3cfe1d48335c89dded68b622426e21517f754cf.jpg",
+    "/images/a6641d9e26bbf329e0ccc57a1082210bb6a5e168.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/f3cfe1d48335c89dded68b622426e21517f754cf.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50046",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "LU LU LU",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "FAMILY",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "LU LU LU(Instrumental)",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/a6641d9e26bbf329e0ccc57a1082210bb6a5e168.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50048",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "LU LU LU(Close-up Ver.\"White\")",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

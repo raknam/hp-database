@@ -1,0 +1,672 @@
+{
+  "id": 6541,
+  "url": "/release/6541/",
+  "title": "Hello! Project ひなフェス 2021【Juice=Juice/つばきファクトリー＆BEYOOOOONDS プレミアム】",
+  "category": "BD",
+  "artist": "V.A.",
+  "releaseDate": "2021.8.25",
+  "label": "zetima",
+  "images": [
+    "/upload/images/3b4f6efed8867907a956d5694d2b781f54df6a5c.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "01:01",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "Never Never Surrender",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "MC",
+              "duration": "01:42",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "DOWN TOWN",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "伊藤銀次",
+                "作曲": "山下達郎",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Borderline",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "MC",
+              "duration": "02:17",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 7,
+              "title": "アニマルランド",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "Shusui/Ryo Ito/kimny",
+                "作曲": "Shusui/Ryo Ito/kimny",
+                "出演": "ハロプロ研修生"
+              }
+            },
+            {
+              "index": 8,
+              "title": "ミステイク",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "中島卓偉",
+                "出演": "ハロプロ研修生ユニット"
+              }
+            },
+            {
+              "index": 9,
+              "title": "激辛LOVE",
+              "duration": "03:33",
+              "credits": {
+                "作詞": "Barry Blue/Paul Greedus/日本語詞：星部ショウ",
+                "作曲": "Barry Blue/Paul Greedus",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 10,
+              "title": "こんなハズジャナカッター！",
+              "duration": "02:58",
+              "credits": {
+                "作詞": "星部ショウ/野沢トオル",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 11,
+              "title": "MC",
+              "duration": "01:04",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 12,
+              "title": "Now Now Ningen",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 13,
+              "title": "三回目のデート神話",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 14,
+              "title": "MC",
+              "duration": "01:21",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 15,
+              "title": "笑って",
+              "duration": "02:59",
+              "credits": {
+                "作詞": "津野米咲",
+                "作曲": "津野米咲",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 16,
+              "title": "恋のUFOキャッチャー",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "ジンツチハシ",
+                "作曲": "ジンツチハシ",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 17,
+              "title": "MC",
+              "duration": "02:00",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 18,
+              "title": "Take off is now！",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "松永里愛・秋山眞緒・前田こころ"
+              }
+            },
+            {
+              "index": 19,
+              "title": "JUICY HE@RT",
+              "duration": "02:49",
+              "credits": {
+                "作詞": "おのりく",
+                "作曲": "HA",
+                "出演": "段原瑠々・小野瑞歩"
+              }
+            },
+            {
+              "index": 20,
+              "title": "Give me 愛",
+              "duration": "03:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "浅倉樹々"
+              }
+            },
+            {
+              "index": 21,
+              "title": "限りあるMoment",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "オオヤギヒロオ",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 22,
+              "title": "MC",
+              "duration": "01:25",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 23,
+              "title": "ミラー・ミラー",
+              "duration": "03:02",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/Anders Dannvik/Kalle Persson",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 24,
+              "title": "次々続々",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "平田祥一郎",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 25,
+              "title": "恋愛Destiny〜本音を論じたい〜",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 26,
+              "title": "MC",
+              "duration": "01:42",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 27,
+              "title": "純情エビデンス",
+              "duration": "03:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 28,
+              "title": "このまま！",
+              "duration": "02:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 29,
+              "title": "MC",
+              "duration": "01:10",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 30,
+              "title": "カラダだけが大人になったんじゃない",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "アンジュルム /つばきファクトリー"
+              }
+            },
+            {
+              "index": 31,
+              "title": "Va-Va-Voom",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/Josef Melin",
+                "出演": "モーニング娘。'21/BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 32,
+              "title": "MC",
+              "duration": "00:55",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 33,
+              "title": "「ひとりで生きられそう」って それってねえ、褒めているの？",
+              "duration": "03:34",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 34,
+              "title": "がんばれないよ",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 35,
+              "title": "MC",
+              "duration": "01:32",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 36,
+              "title": "プラトニック・プラネット",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "炭竃智弘",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 37,
+              "title": "CHOICE & CHANCE",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 38,
+              "title": "未来へ、さあ走り出せ！",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "KOJI oba",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 39,
+              "title": "MC",
+              "duration": "01:54",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 40,
+              "title": "ポップミュージック",
+              "duration": "07:28",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 1,
+              "title": "バックステージ映像",
+              "duration": "12:01",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "EPXE-5195"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:43",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "ニッポンノD・N・A！",
+              "duration": "03:06",
+              "credits": {
+                "作詞": "野沢トオル",
+                "作曲": "星部ショウ",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 3,
+              "title": "アツイ！",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "伸びしろ～Beyond the World～",
+              "duration": "05:55",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 5,
+              "title": "MC",
+              "duration": "02:59",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 6,
+              "title": "激辛LOVE",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "Barry Blue/Paul Greedus/日本語詞：星部ショウ",
+                "作曲": "Barry Blue/Paul Greedus",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Now Now Ningen",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 8,
+              "title": "こんなハズジャナカッター！",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "星部ショウ/野沢トオル",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 9,
+              "title": "DOWN TOWN",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "伊藤銀次",
+                "作曲": "山下達郎",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 10,
+              "title": "SEXY SEXY",
+              "duration": "03:08",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 11,
+              "title": "如雨露",
+              "duration": "03:08",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "YUKO",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 12,
+              "title": "MC",
+              "duration": "01:47",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 13,
+              "title": "女が目立って なぜイケナイ",
+              "duration": "02:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "江口紗耶"
+              }
+            },
+            {
+              "index": 14,
+              "title": "タンタンターン！",
+              "duration": "03:15",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "出演": "牧野真莉愛・川名凜・工藤由愛"
+              }
+            },
+            {
+              "index": 15,
+              "title": "次の角を曲がれ",
+              "duration": "02:59",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "出演": "西田汐里・山﨑夢羽"
+              }
+            },
+            {
+              "index": 16,
+              "title": "MC",
+              "duration": "01:42",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 17,
+              "title": "意識高い乙女のジレンマ",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "KOUGA",
+                "出演": "アンジュルム/Juice=Juice"
+              }
+            },
+            {
+              "index": 18,
+              "title": "眼鏡の男の子",
+              "duration": "05:11",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 19,
+              "title": "My Darling ～Do you love me?～",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 20,
+              "title": "I Need You ～夜空の観覧車～",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 21,
+              "title": "MC",
+              "duration": "04:01",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 22,
+              "title": "恋のUFOキャッチャー",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "ジンツチハシ",
+                "作曲": "ジンツチハシ",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 23,
+              "title": "今夜だけ浮かれたかった",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 24,
+              "title": "断捨ISM",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 25,
+              "title": "MC",
+              "duration": "01:44",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 26,
+              "title": "春恋歌",
+              "duration": "05:48",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "鈴木秋則",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 1,
+              "title": "バックステージ映像",
+              "duration": "15:32",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

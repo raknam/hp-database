@@ -1,0 +1,83 @@
+{
+  "id": 2150,
+  "url": "/release/2150/",
+  "title": "ももプレ♡2 〜怪盗モモセーヌ〜",
+  "category": "DVD",
+  "artist": "嗣永桃子",
+  "releaseDate": "2011.12.22",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/723235ade8d4d417ea7c43d1227f15ebc9e68d70.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ツグーヌ家の秘宝",
+              "duration": "08:17",
+              "credits": {
+                "出演": "嗣永桃子(Berryz工房)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "花売りの少女",
+              "duration": "08:11",
+              "credits": {
+                "出演": "嗣永桃子(Berryz工房)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイド",
+              "duration": "12:05",
+              "credits": {
+                "出演": "嗣永桃子(Berryz工房)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ナース",
+              "duration": "13:46",
+              "credits": {
+                "出演": "嗣永桃子(Berryz工房)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "サンタクロース",
+              "duration": "08:33",
+              "credits": {
+                "出演": "嗣永桃子(Berryz工房)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "NG集",
+              "duration": "01:40",
+              "credits": {
+                "出演": "嗣永桃子(Berryz工房)"
+              }
+            },
+            {
+              "index": 7,
+              "title": "メイキング",
+              "duration": "09:15",
+              "credits": {
+                "出演": "嗣永桃子(Berryz工房)"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-2037"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": 553,
+  "url": "/release/553/",
+  "title": "そうだ!We're ALIVE",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2002.2.20",
+  "label": "zetima",
+  "images": [
+    "/upload/images/d6a7b22cdfda73649722bc8b54175951bed7bc40.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "そうだ！We're ALIVE",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "モーニングコーヒー",
+              "duration": "04:29",
+              "suffix": "(2002version)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "そうだ！We're ALIVE",
+              "duration": "04:55",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5143"
+        }
+      ]
+    }
+  ]
+}

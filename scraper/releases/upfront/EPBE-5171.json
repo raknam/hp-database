@@ -1,0 +1,57 @@
+{
+  "code": "EPBE-5171",
+  "url": "/release/detail/EPBE-5171/",
+  "source": "upfront",
+  "title": "二人ゴト ～a close friend～ 総集編 Vol.4",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2005/04/27",
+  "label": "zetima",
+  "images": [
+    "/images/ebbc37011e7fbe66fdd1a2cb610bf869310fadca.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/ebbc37011e7fbe66fdd1a2cb610bf869310fadca.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5171",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "00:21"
+            },
+            {
+              "index": 2,
+              "title": "安倍なつみVS矢口真里～なっちとヤグチ～",
+              "duration": "18:44",
+              "credits": {
+                "作詞": "及川眠子",
+                "作曲": "尾関昌也"
+              }
+            },
+            {
+              "index": 3,
+              "title": "加護亜依VS紺野あさ美～あいぼんとこんこん～",
+              "duration": "17:56"
+            },
+            {
+              "index": 4,
+              "title": "吉澤ひとみVSアヤカVS里田まい～よしことアヤカとまいちん～",
+              "duration": "20:26"
+            },
+            {
+              "index": 5,
+              "title": "高橋愛VS新垣里沙～愛ちゃんと里沙ちゃん～",
+              "duration": "18:55"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

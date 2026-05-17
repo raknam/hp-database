@@ -1,0 +1,63 @@
+{
+  "code": "UFBW-1118",
+  "url": "/release/detail/UFBW-1118/",
+  "source": "upfront",
+  "title": "ハロプロ！TIME Vol.1",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2011/10/07",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/af23d2ab2644e6636d3042d0c4589287644637d8.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/af23d2ab2644e6636d3042d0c4589287644637d8.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1118",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "真野TIME「がんばろうニッポン 愛は勝つ」プロジェクト",
+              "duration": "07:19"
+            },
+            {
+              "index": 2,
+              "title": "前田TIME℃-ute＆スマイレージライブ",
+              "duration": "10:33"
+            },
+            {
+              "index": 3,
+              "title": "矢島TIME自宅で愛犬を紹介",
+              "duration": "08:18"
+            },
+            {
+              "index": 4,
+              "title": "新垣TIME9期メンバーと「歌詞でど〜ん」",
+              "duration": "12:41"
+            },
+            {
+              "index": 5,
+              "title": "福田TIME大阪のお好み焼き屋",
+              "duration": "06:44"
+            },
+            {
+              "index": 6,
+              "title": "嗣永TIME雑誌の撮影現場でご満悦",
+              "duration": "05:08"
+            },
+            {
+              "index": 7,
+              "title": "Berryz工房TIMEシアトル初上陸で大興奮",
+              "duration": "22:45"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

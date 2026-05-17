@@ -1,0 +1,83 @@
+{
+  "id": 2199,
+  "url": "/release/2199/",
+  "title": "Smiling sky",
+  "category": "DVD",
+  "artist": "矢島舞美",
+  "releaseDate": "2013.12.16",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/c80cf918d5fe519ba146a02c8d3913da29788dbf.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Sunrise",
+              "duration": "07:13",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "White",
+              "duration": "11:28",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Blue&Green",
+              "duration": "06:45",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Backlight",
+              "duration": "08:13",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Sunset",
+              "duration": "06:43",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Interviews",
+              "duration": "22:01",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Ending",
+              "duration": "00:49",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-2093"
+        }
+      ]
+    }
+  ]
+}

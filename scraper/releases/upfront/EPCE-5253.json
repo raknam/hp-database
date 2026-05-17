@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-5253",
+  "url": "/release/detail/EPCE-5253/",
+  "source": "upfront",
+  "title": "私は旅人…",
+  "category": "CDシングル",
+  "artist": "松下里美",
+  "releaseDate": "2004/01/28",
+  "label": "zetima",
+  "images": [
+    "/images/089bef21d967d3fa5004436ea69071dc08f35b85.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/089bef21d967d3fa5004436ea69071dc08f35b85.jpg",
+      "price": "￥1,210 (税抜価格 ￥1,100)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5253",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "私は旅人…",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "松下里美",
+                "作曲": "松下里美",
+                "編曲": "安藤治彦"
+              }
+            },
+            {
+              "index": 2,
+              "title": "母がいてくれたから",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "松下里美",
+                "作曲": "松下里美",
+                "編曲": "安藤治彦"
+              }
+            },
+            {
+              "index": 3,
+              "title": "私は旅人…(オリジナル・カラオケ)",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "松下里美",
+                "作曲": "松下里美",
+                "編曲": "安藤治彦"
+              }
+            },
+            {
+              "index": 4,
+              "title": "母がいてくれたから(オリジナル・カラオケ)",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "松下里美",
+                "作曲": "松下里美",
+                "編曲": "安藤治彦"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

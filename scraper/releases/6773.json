@@ -1,0 +1,49 @@
+{
+  "id": 6773,
+  "url": "/release/6773/",
+  "title": "Hello! 生まれた意味がきっとある/ザ☆ピ～ス！",
+  "category": "配信",
+  "artist": "HELLO KITTY",
+  "releaseDate": "2022.6.12",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/8c01ec832d9b9b2365e3409891d0e153fbda97f2.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Hello! 生まれた意味がきっとある",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "HELLO KITTY"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ザ☆ピ～ス！",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン/horn arrangement by川松久芳",
+                "歌": "HELLO KITTY"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1503"
+        }
+      ]
+    }
+  ]
+}

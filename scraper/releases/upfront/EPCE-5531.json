@@ -1,0 +1,81 @@
+{
+  "code": "EPCE-5531",
+  "url": "/release/detail/EPCE-5531/",
+  "source": "upfront",
+  "title": "LALALA 幸せの歌",
+  "category": "CDシングル",
+  "artist": "℃-ute",
+  "releaseDate": "2008/02/27",
+  "label": "zetima",
+  "images": [
+    "/images/c281b8a5ac033f032cea2c935a98c6133e698203.jpg",
+    "/images/c429d4924d56e1fc2aba9da6ca65bed0525a687f.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/c281b8a5ac033f032cea2c935a98c6133e698203.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5531",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "LALALA 幸せの歌",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "最高級のエンジョイGIRLS",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "LALALA 幸せの歌(Instrumental)",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/c429d4924d56e1fc2aba9da6ca65bed0525a687f.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5533",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "LALALA 幸せの歌(Dance Shot Ver.)",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

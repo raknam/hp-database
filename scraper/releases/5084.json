@@ -1,0 +1,116 @@
+{
+  "id": 5084,
+  "url": "/release/5084/",
+  "title": "BS-TBS 開局15周年特別企画 クールジャパン 〜道〜 「居合道＆朗読道(℃-ute)」",
+  "category": "DVD",
+  "artist": "℃-ute",
+  "releaseDate": "2016.3.9",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/869115c60e1d43a30dd8678dc70564c13151350a.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "居合道",
+              "duration": "57:23",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "オープニング",
+              "duration": "03:15",
+              "suffix": "(朗読道)",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "第一話「タクシーで尾行せよ」",
+              "duration": "06:36",
+              "suffix": "(朗読道)",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "第二話「ただいま聞き込み中」",
+              "duration": "09:18",
+              "suffix": "(朗読道)",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "第三話「怪盗を待ちながら」",
+              "duration": "10:35",
+              "suffix": "(朗読道)",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 6,
+              "title": "第四話「かつ丼食うか？」",
+              "duration": "08:48",
+              "suffix": "(朗読道)",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 7,
+              "title": "第五話「身代金誘拐」",
+              "duration": "12:42",
+              "suffix": "(朗読道)",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 8,
+              "title": "クイズコーナー",
+              "duration": "09:05",
+              "suffix": "(朗読道)",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 9,
+              "title": "最終話「キュートな刑事たち」",
+              "duration": "15:21",
+              "suffix": "(朗読道)",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 10,
+              "title": "エンディング",
+              "duration": "03:18",
+              "suffix": "(朗読道)",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-2112"
+        }
+      ]
+    }
+  ]
+}

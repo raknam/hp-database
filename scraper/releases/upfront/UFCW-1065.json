@@ -1,0 +1,48 @@
+{
+  "code": "UFCW-1065",
+  "url": "/release/detail/UFCW-1065/",
+  "source": "upfront",
+  "title": "五月雨美女がさ乱れる",
+  "category": "CDシングル",
+  "artist": "Juice=Juice",
+  "releaseDate": "2013/05/05",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/f1412bd29a2b0a52363e5126dfb924a955147b50.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f1412bd29a2b0a52363e5126dfb924a955147b50.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "UFCW-1065",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "五月雨美女がさ乱れる",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介ブラスアレンジ:鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "五月雨美女がさ乱れる(Instrumental)",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介ブラスアレンジ:鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

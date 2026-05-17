@@ -1,0 +1,68 @@
+{
+  "code": "PKCP-2042",
+  "url": "/release/detail/PKCP-2042/",
+  "source": "upfront",
+  "title": "人生半分/夢なかば",
+  "category": "CDシングル",
+  "artist": "湯原昌幸",
+  "releaseDate": "2008/12/10",
+  "label": "ライスミュージック",
+  "images": [
+    "/images/fe5bf0fb73deb12a7132bef0bb99aab7ed035493.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/fe5bf0fb73deb12a7132bef0bb99aab7ed035493.jpg",
+      "price": "￥1,257 (税抜価格 ￥1,143)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-2042",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "人生半分",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "杉本眞人",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "夢なかば",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "杉本眞人",
+                "編曲": "今泉敏郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "人生半分(オリジナル・カラオケ)",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "杉本眞人",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 4,
+              "title": "夢なかば(オリジナル・カラオケ)",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "杉本眞人",
+                "編曲": "今泉敏郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

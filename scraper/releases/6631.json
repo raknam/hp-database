@@ -1,0 +1,819 @@
+{
+  "id": 6631,
+  "url": "/release/6631/",
+  "title": "Teenage Solution/よしよししてほしいの/ビートの惑星",
+  "category": "CDシングル",
+  "artist": "モーニング娘。'21",
+  "releaseDate": "2021.12.8",
+  "label": "zetima",
+  "images": [
+    "/upload/images/fa479bec0e2c65412eeb393002e17c80c1169792.webp",
+    "/upload/images/38b53b0d50fb610d5f88a2efddeea88c7ad0ab11.webp",
+    "/upload/images/b2dd279030b9f1298533729f742f597ab9b3193a.webp",
+    "/upload/images/203f93477a42d4491c1c8d3cb583a9ed8aac8d65.webp",
+    "/upload/images/cd4cc470cf57e4a11ffa116390f61ff8b4e77c8b.webp",
+    "/upload/images/2791d5e152d9bb86215d25bb9b9aea2829338bb6.webp",
+    "/upload/images/845ee791b2b521edd47faddaa6a821c5b05a6e23.webp",
+    "/upload/images/0a7004af2113d826fe9db10c9bbc3494fce1372c.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/fa479bec0e2c65412eeb393002e17c80c1169792.webp",
+      "price": "￥2,200（税抜価格 ￥2,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Teenage Solution",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 2,
+              "title": "よしよししてほしいの",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ビートの惑星",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Teenage Solution",
+              "duration": "04:25",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 5,
+              "title": "よしよししてほしいの",
+              "duration": "03:56",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ビートの惑星",
+              "duration": "03:44",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom",
+                "歌": "モーニング娘。'21"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7649"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Teenage Solution",
+              "duration": "05:26",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Teenage Solution",
+              "duration": "04:36",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Teenage Solution",
+              "duration": "15:00",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "モーニング娘。'21"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/38b53b0d50fb610d5f88a2efddeea88c7ad0ab11.webp",
+      "price": "￥2,200（税抜価格 ￥2,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Teenage Solution",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 2,
+              "title": "よしよししてほしいの",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ビートの惑星",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Teenage Solution",
+              "duration": "04:25",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 5,
+              "title": "よしよししてほしいの",
+              "duration": "03:56",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ビートの惑星",
+              "duration": "03:44",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom",
+                "歌": "モーニング娘。'21"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7651"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "よしよししてほしいの",
+              "duration": "04:37",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 2,
+              "title": "よしよししてほしいの",
+              "duration": "04:02",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 3,
+              "title": "よしよししてほしいの",
+              "duration": "14:46",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "モーニング娘。'21"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/b2dd279030b9f1298533729f742f597ab9b3193a.webp",
+      "price": "￥2,200（税抜価格 ￥2,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Teenage Solution",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 2,
+              "title": "よしよししてほしいの",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ビートの惑星",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Teenage Solution",
+              "duration": "04:25",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 5,
+              "title": "よしよししてほしいの",
+              "duration": "03:56",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ビートの惑星",
+              "duration": "03:44",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom",
+                "歌": "モーニング娘。'21"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7653"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ビートの惑星",
+              "duration": "03:53",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "出演": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Teenage Solution",
+              "duration": "04:40",
+              "suffix": "(feat. 佐藤優樹Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 3,
+              "title": "よしよししてほしいの",
+              "duration": "04:13",
+              "suffix": "(feat. 佐藤優樹Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'21"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付"
+    },
+    {
+      "name": "【初回生産限定盤SP1】",
+      "image": "/upload/images/203f93477a42d4491c1c8d3cb583a9ed8aac8d65.webp",
+      "price": "￥2,200（税抜価格 ￥2,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Teenage Solution",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 2,
+              "title": "よしよししてほしいの",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ビートの惑星",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 4,
+              "title": "女子かしまし物語",
+              "duration": "05:18",
+              "suffix": "(モーニング娘。'21 Ver.)【Additional Track】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Teenage Solution",
+              "duration": "04:25",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 6,
+              "title": "よしよししてほしいの",
+              "duration": "03:56",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ビートの惑星",
+              "duration": "03:44",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 8,
+              "title": "女子かしまし物語",
+              "duration": "05:20",
+              "suffix": "(モーニング娘。'21 Ver.)(Instrumental)【Additional Track】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "モーニング娘。'21"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7655"
+        }
+      ],
+      "note": "28Pフォトブックレット+デジパック仕様・トールケースサイズ"
+    },
+    {
+      "name": "【初回生産限定盤SP2】",
+      "image": "/upload/images/cd4cc470cf57e4a11ffa116390f61ff8b4e77c8b.webp",
+      "price": "￥1,650（税抜価格 ￥1,500）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Teenage Solution",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 2,
+              "title": "よしよししてほしいの",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ビートの惑星",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Teenage Solution",
+              "duration": "04:25",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 5,
+              "title": "よしよししてほしいの",
+              "duration": "03:56",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ビートの惑星",
+              "duration": "03:44",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom",
+                "歌": "モーニング娘。'21"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7656"
+        }
+      ],
+      "note": "「よしよししてほしいの」フリーアングルぐるっと動画ダウンロードカード14種より1種ランダム封入"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/2791d5e152d9bb86215d25bb9b9aea2829338bb6.webp",
+      "price": "定価 ￥1,300（税抜価格 ￥1,182）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Teenage Solution",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 2,
+              "title": "よしよししてほしいの",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ビートの惑星",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Teenage Solution",
+              "duration": "04:25",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 5,
+              "title": "よしよししてほしいの",
+              "duration": "03:56",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ビートの惑星",
+              "duration": "03:44",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom",
+                "歌": "モーニング娘。'21"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7657"
+        }
+      ],
+      "note": "トレーディングカードソロ14種＋キラ仕様の集合1種よりランダムで1枚封入(Teenage Solution Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/845ee791b2b521edd47faddaa6a821c5b05a6e23.webp",
+      "price": "定価 ￥1,300（税抜価格 ￥1,182）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Teenage Solution",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 2,
+              "title": "よしよししてほしいの",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ビートの惑星",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Teenage Solution",
+              "duration": "04:25",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 5,
+              "title": "よしよししてほしいの",
+              "duration": "03:56",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ビートの惑星",
+              "duration": "03:44",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom",
+                "歌": "モーニング娘。'21"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7658"
+        }
+      ],
+      "note": "トレーディングカードソロ14種＋キラ仕様の集合1種よりランダムで1枚封入(よしよししてほしいの Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/upload/images/0a7004af2113d826fe9db10c9bbc3494fce1372c.webp",
+      "price": "定価 ￥1,300（税抜価格 ￥1,182）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Teenage Solution",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 2,
+              "title": "よしよししてほしいの",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ビートの惑星",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Teenage Solution",
+              "duration": "04:25",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 5,
+              "title": "よしよししてほしいの",
+              "duration": "03:56",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ビートの惑星",
+              "duration": "03:44",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom",
+                "歌": "モーニング娘。'21"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7659"
+        }
+      ],
+      "note": "トレーディングカードソロ14種＋キラ仕様の集合1種よりランダムで1枚封入(ビートの惑星 Ver.)※初回プレス分のみ"
+    }
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "id": 940,
+  "url": "/release/940/",
+  "title": "ワクテカ Take a chance",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2012.10.10",
+  "label": "zetima",
+  "images": [
+    "/upload/images/75d73992c10dc30541e7122733fadf8c43521825.webp",
+    "/upload/images/5e282ce7afaffef2fd7a565183cc636c0d9838b6.webp",
+    "/upload/images/99bd27ff33950971042398d2c19eb636be21401e.webp",
+    "/upload/images/0c8c2f421e0e0fa42ff5da241ab0329bad861459.webp",
+    "/upload/images/915ecd6b0fa09b509735472d97f207cef2a5bd15.webp",
+    "/upload/images/65cebc2b84e20b33d98ec5375d220d68acc5fe90.webp",
+    "/upload/images/c85f6bcf434f5a6979d58e470da4c901299f5267.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/75d73992c10dc30541e7122733fadf8c43521825.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ワクテカ Take a chance",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "普通の少女A",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "田中れいな・佐藤優樹・工藤 遥"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ワクテカ Take a chance",
+              "duration": "04:40",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5905"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ワクテカ Take a chance",
+              "duration": "04:57",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/5e282ce7afaffef2fd7a565183cc636c0d9838b6.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ワクテカ Take a chance",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "普通の少女A",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "田中れいな・佐藤優樹・工藤 遥"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ワクテカ Take a chance",
+              "duration": "04:40",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5907"
+        }
+      ],
+      "note": "イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/99bd27ff33950971042398d2c19eb636be21401e.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ワクテカ Take a chance",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "大好き100万点",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "譜久村聖・石田亜佑美"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ワクテカ Take a chance",
+              "duration": "04:40",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5908"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ワクテカ Take a chance",
+              "duration": "04:57",
+              "suffix": "(Upper Light Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤D】",
+      "image": "/upload/images/0c8c2f421e0e0fa42ff5da241ab0329bad861459.webp",
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ワクテカ Take a chance",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "大好き100万点",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "譜久村聖・石田亜佑美"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ワクテカ Take a chance",
+              "duration": "04:40",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5910"
+        }
+      ],
+      "note": "イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤E】",
+      "image": "/upload/images/915ecd6b0fa09b509735472d97f207cef2a5bd15.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ワクテカ Take a chance",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "信念だけは貫き通せ！",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "道重さゆみ・生田衣梨奈・鞘師里保・鈴木香音・飯窪春菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ワクテカ Take a chance",
+              "duration": "04:40",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5911"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ワクテカ Take a chance",
+              "duration": "04:57",
+              "suffix": "(Close-up モーニング娘。Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤F】",
+      "image": "/upload/images/65cebc2b84e20b33d98ec5375d220d68acc5fe90.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ワクテカ Take a chance",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "信念だけは貫き通せ！",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "道重さゆみ・生田衣梨奈・鞘師里保・鈴木香音・飯窪春菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ワクテカ Take a chance",
+              "duration": "04:40",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5913"
+        }
+      ],
+      "note": "イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/c85f6bcf434f5a6979d58e470da4c901299f5267.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ワクテカ Take a chance",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Loveイノベーション",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ワクテカ Take a chance",
+              "duration": "04:40",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5914"
+        }
+      ]
+    }
+  ]
+}

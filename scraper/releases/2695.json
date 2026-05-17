@@ -1,0 +1,58 @@
+{
+  "id": 2695,
+  "url": "/release/2695/",
+  "title": "シングルV「ね〜え？」",
+  "category": "DVDシングルV",
+  "artist": "松浦亜弥",
+  "releaseDate": "2003.3.12",
+  "label": "zetima",
+  "images": [
+    "/upload/images/49d1a851fced31f866b6474b96fec62b2890d349.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ね〜え？",
+              "duration": "03:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西康陽",
+                "出演": "松浦亜弥"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ね〜え？",
+              "duration": "03:29",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西康陽",
+                "出演": "松浦亜弥"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "04:57",
+              "credits": {
+                "出演": "松浦亜弥"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5063"
+        }
+      ]
+    }
+  ]
+}

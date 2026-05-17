@@ -1,0 +1,83 @@
+{
+  "id": 4375,
+  "url": "/release/4375/",
+  "title": "Greeting 〜野中美希〜",
+  "category": "BD",
+  "artist": "野中美希",
+  "releaseDate": "2015.6.12",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/5c6627011c079a9c496776b7a2e246571b2367b9.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Tokyo Boy",
+              "duration": "08:16",
+              "credits": {
+                "出演": "野中美希"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Casual Steps",
+              "duration": "07:12",
+              "credits": {
+                "出演": "野中美希"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Greeting to you",
+              "duration": "10:44",
+              "credits": {
+                "出演": "野中美希"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Miki plays piano",
+              "duration": "07:52",
+              "credits": {
+                "出演": "野中美希"
+              }
+            },
+            {
+              "index": 5,
+              "title": "American Student",
+              "duration": "12:18",
+              "credits": {
+                "出演": "野中美希"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Making",
+              "duration": "06:35",
+              "credits": {
+                "出演": "野中美希"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Ending",
+              "duration": "01:35",
+              "credits": {
+                "出演": "野中美希"
+              }
+            }
+          ],
+          "catalogNo": "UFXW-2003"
+        }
+      ]
+    }
+  ]
+}

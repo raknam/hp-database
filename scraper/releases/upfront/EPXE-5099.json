@@ -1,0 +1,949 @@
+{
+  "code": "EPXE-5099",
+  "url": "/release/detail/EPXE-5099/",
+  "source": "upfront",
+  "title": "Hello! Project COUNTDOWN PARTY 2016 〜 GOOD BYE & HELLO ! 〜",
+  "category": "BD",
+  "artist": "V.A.",
+  "releaseDate": "2017/04/12",
+  "label": "zetima",
+  "images": [
+    "/images/964ef00e3bf794e8c59ae8f8661a8a112b6394df.jpg"
+  ],
+  "editions": [
+    {
+      "name": "＜Disc1＞",
+      "image": "/images/964ef00e3bf794e8c59ae8f8661a8a112b6394df.jpg",
+      "price": "￥8,800 (税抜価格 ￥8,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5099",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING〜MC",
+              "duration": "10:29"
+            },
+            {
+              "index": 2,
+              "title": "KEEP ON 上昇志向！！",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "カラダだけが大人になったんじゃない",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "MC",
+              "duration": "01:01"
+            },
+            {
+              "index": 5,
+              "title": "Dream Road〜心が躍り出してる〜",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Goal〜明日はあっちだよ〜",
+              "duration": "05:08",
+              "credits": {
+                "作詞": "近藤薫",
+                "作曲": "近藤薫"
+              }
+            },
+            {
+              "index": 7,
+              "title": "生まれたてのBaby Love",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "masaaki asada"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Magic of Love(J=J 2015Ver.)",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 9,
+              "title": "MC",
+              "duration": "04:47"
+            },
+            {
+              "index": 10,
+              "title": "うるわしのカメリア",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介"
+              }
+            },
+            {
+              "index": 11,
+              "title": "気高く咲き誇れ！",
+              "duration": "03:16",
+              "credits": {
+                "作詞": "児玉雨子/Rap詞:角田崇徳",
+                "作曲": "Jean Luc Ponpon"
+              }
+            },
+            {
+              "index": 12,
+              "title": "MC",
+              "duration": "02:37"
+            },
+            {
+              "index": 13,
+              "title": "青春まんまんなか！",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "KOUGA"
+              }
+            },
+            {
+              "index": 14,
+              "title": "独り占め",
+              "duration": "02:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 15,
+              "title": "バッチ来い青春！",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン・炭竃智弘"
+              }
+            },
+            {
+              "index": 16,
+              "title": "MC",
+              "duration": "02:19"
+            },
+            {
+              "index": 17,
+              "title": "チョット愚直に！猪突猛進",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一"
+              }
+            },
+            {
+              "index": 18,
+              "title": "押忍！こぶし魂",
+              "duration": "03:26",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 19,
+              "title": "サンバ！こぶしジャネイロ",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 20,
+              "title": "MC",
+              "duration": "05:33"
+            },
+            {
+              "index": 21,
+              "title": "ランラルン〜あなたに夢中〜",
+              "duration": "03:09",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "Kern Jerome (PD)"
+              }
+            },
+            {
+              "index": 22,
+              "title": "MC",
+              "duration": "03:09"
+            },
+            {
+              "index": 23,
+              "title": "恋はマグネット",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "Yasushi Watanabe"
+              }
+            },
+            {
+              "index": 24,
+              "title": "ブギウギLOVE",
+              "duration": "03:34",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 25,
+              "title": "どーだっていいの",
+              "duration": "03:11",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 26,
+              "title": "MC",
+              "duration": "00:48"
+            },
+            {
+              "index": 27,
+              "title": "涙のリクエスト",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "売野雅勇",
+                "作曲": "芹澤廣明"
+              }
+            },
+            {
+              "index": 28,
+              "title": "MC",
+              "duration": "08:31"
+            },
+            {
+              "index": 29,
+              "title": "ロマンティック 浮かれモード",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 30,
+              "title": "MC",
+              "duration": "04:45"
+            },
+            {
+              "index": 31,
+              "title": "セクシーキャットの演説",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 32,
+              "title": "Tokyoという片隅",
+              "duration": "02:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 33,
+              "title": "ムキダシで向き合って",
+              "duration": "02:41",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Jean Luc Ponpon & 星部ショウ"
+              }
+            },
+            {
+              "index": 34,
+              "title": "Password is 0",
+              "duration": "02:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 35,
+              "title": "MC",
+              "duration": "04:41"
+            },
+            {
+              "index": 36,
+              "title": "The Vision",
+              "duration": "03:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 37,
+              "title": "君の代わりは居やしない",
+              "duration": "03:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 38,
+              "title": "そうじゃない",
+              "duration": "03:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 39,
+              "title": "泡沫サタデーナイト！",
+              "duration": "02:45",
+              "credits": {
+                "作詞": "津野米咲",
+                "作曲": "津野米咲"
+              }
+            },
+            {
+              "index": 40,
+              "title": "MC",
+              "duration": "00:29"
+            },
+            {
+              "index": 41,
+              "title": "愛の軍団",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 42,
+              "title": "わがまま 気のまま 愛のジョーク",
+              "duration": "02:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 43,
+              "title": "ドッカ〜ン カプリッチオ",
+              "duration": "02:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 44,
+              "title": "What is LOVE?",
+              "duration": "03:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 45,
+              "title": "MC",
+              "duration": "03:21"
+            },
+            {
+              "index": 46,
+              "title": "夢幻クライマックス",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子"
+              }
+            },
+            {
+              "index": 47,
+              "title": "人生はSTEP!",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "石井浩平"
+              }
+            },
+            {
+              "index": 48,
+              "title": "MC",
+              "duration": "02:56"
+            },
+            {
+              "index": 49,
+              "title": "Singing〜あの頃のように〜",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 50,
+              "title": "Summer Wind",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 51,
+              "title": "何故 人は争うんだろう？",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 52,
+              "title": "愛はまるで静電気",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 53,
+              "title": "MC",
+              "duration": "00:16"
+            },
+            {
+              "index": 54,
+              "title": "アイアンハート",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE・草野将史"
+              }
+            },
+            {
+              "index": 55,
+              "title": "世界一HAPPYな女の子",
+              "duration": "02:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 56,
+              "title": "MC",
+              "duration": "11:30"
+            },
+            {
+              "index": 57,
+              "title": "次々続々",
+              "duration": "03:34",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 58,
+              "title": "愛のため今日まで進化してきた人間 愛のためすべて退化してきた人間",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 59,
+              "title": "MC",
+              "duration": "01:05"
+            },
+            {
+              "index": 60,
+              "title": "糸島Distance",
+              "duration": "03:14",
+              "credits": {
+                "作詞": "Mari-Joe",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 61,
+              "title": "恋ならとっくに始まってる",
+              "duration": "03:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 62,
+              "title": "忘れてあげる",
+              "duration": "03:26",
+              "credits": {
+                "作詞": "近藤薫",
+                "作曲": "近藤薫"
+              }
+            },
+            {
+              "index": 63,
+              "title": "上手く言えない",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 64,
+              "title": "MC",
+              "duration": "04:27"
+            },
+            {
+              "index": 65,
+              "title": "同じ時給で働く友達の美人ママ",
+              "duration": "02:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 66,
+              "title": "私、ちょいとカワイイ裏番長",
+              "duration": "02:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 67,
+              "title": "スキちゃん",
+              "duration": "02:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 68,
+              "title": "MC",
+              "duration": "00:49"
+            },
+            {
+              "index": 69,
+              "title": "大器晩成",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 70,
+              "title": "お正月",
+              "duration": "02:04",
+              "credits": {
+                "作詞": "東くめ",
+                "作曲": "滝廉太郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "＜Disc2＞",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5100",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING〜MC",
+              "duration": "03:12"
+            },
+            {
+              "index": 2,
+              "title": "彼女になりたいっ！！！",
+              "duration": "02:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "丸い太陽-winter ver.-",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "恋にBooing ブー！",
+              "duration": "02:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "MC",
+              "duration": "04:43"
+            },
+            {
+              "index": 6,
+              "title": "OH YEAH",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "愛野益巳",
+                "作曲": "石田竜平"
+              }
+            },
+            {
+              "index": 7,
+              "title": "もしも…",
+              "duration": "03:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 8,
+              "title": "桃色スパークリング",
+              "duration": "02:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 9,
+              "title": "MC",
+              "duration": "06:12"
+            },
+            {
+              "index": 10,
+              "title": "恋人は心の応援団",
+              "duration": "02:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 11,
+              "title": "恋をしちゃいました！",
+              "duration": "03:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 12,
+              "title": "MC",
+              "duration": "05:16"
+            },
+            {
+              "index": 13,
+              "title": "シャボン玉",
+              "duration": "02:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 14,
+              "title": "ザ☆ピ〜ス！",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 15,
+              "title": "MC",
+              "duration": "07:21"
+            },
+            {
+              "index": 16,
+              "title": "かっちょ良い歌",
+              "duration": "02:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 17,
+              "title": "MC",
+              "duration": "06:13"
+            },
+            {
+              "index": 18,
+              "title": "Kiss!Kiss!Kiss!",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "井上慎二郎"
+              }
+            },
+            {
+              "index": 19,
+              "title": "MC",
+              "duration": "02:52"
+            },
+            {
+              "index": 20,
+              "title": "ソラシド〜ねえねえ〜",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "津野米咲",
+                "作曲": "津野米咲"
+              }
+            },
+            {
+              "index": 21,
+              "title": "Bravo☆Bravo",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 22,
+              "title": "MY BOY",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 23,
+              "title": "MC",
+              "duration": "01:04"
+            },
+            {
+              "index": 24,
+              "title": "- Winter Story -",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "AKIRASTAR"
+              }
+            },
+            {
+              "index": 25,
+              "title": "恋愛♥ライダー",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "AKIRASTAR"
+              }
+            },
+            {
+              "index": 26,
+              "title": "MC",
+              "duration": "04:17"
+            },
+            {
+              "index": 27,
+              "title": "如雨露",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "YUKO"
+              }
+            },
+            {
+              "index": 28,
+              "title": "アレコレしたい！",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 29,
+              "title": "MC",
+              "duration": "01:43"
+            },
+            {
+              "index": 30,
+              "title": "明日やろうはバカやろう",
+              "duration": "03:34",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "板垣祐介"
+              }
+            },
+            {
+              "index": 31,
+              "title": "イジワルしないで 抱きしめてよ",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 32,
+              "title": "Wonderful World",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン"
+              }
+            },
+            {
+              "index": 33,
+              "title": "MC",
+              "duration": "05:42"
+            },
+            {
+              "index": 34,
+              "title": "OPENING",
+              "duration": "00:45"
+            },
+            {
+              "index": 35,
+              "title": "男と女とForever",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 36,
+              "title": "羨んじゃう",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "YASUSHI WATANABE"
+              }
+            },
+            {
+              "index": 37,
+              "title": "MC",
+              "duration": "01:05"
+            },
+            {
+              "index": 38,
+              "title": "夜風のMessage",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "近藤薫",
+                "作曲": "近藤薫"
+              }
+            },
+            {
+              "index": 39,
+              "title": "Crazy 完全な大人",
+              "duration": "02:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 40,
+              "title": "アダムとイブのジレンマ",
+              "duration": "02:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 41,
+              "title": "デジタリック→0 (LOVE)",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "Jean Luc Ponpon"
+              }
+            },
+            {
+              "index": 42,
+              "title": "MC",
+              "duration": "00:17"
+            },
+            {
+              "index": 43,
+              "title": "Kiss me 愛してる",
+              "duration": "03:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 44,
+              "title": "情熱エクスタシー",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "中村佳紀",
+                "作曲": "中村佳紀"
+              }
+            },
+            {
+              "index": 45,
+              "title": "Danceでバコーン！",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 46,
+              "title": "MC〜ENDING",
+              "duration": "04:40"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

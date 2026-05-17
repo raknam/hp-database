@@ -1,0 +1,58 @@
+{
+  "id": 2938,
+  "url": "/release/2938/",
+  "title": "シングルV「CRAZY ABOUT YOU」",
+  "category": "DVD",
+  "artist": "ミニモニ｡",
+  "releaseDate": "2003.11.12",
+  "label": "zetima",
+  "images": [
+    "/upload/images/825ff254be168a12ddcfad7472f7c45b53b29d8c.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "CRAZY ABOUT YOU",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "出演": "ミニモニ。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "CRAZY ABOUT YOU",
+              "duration": "03:22",
+              "suffix": "(DANCE VERSION)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "出演": "ミニモニ。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "04:34",
+              "credits": {
+                "出演": "ミニモニ。"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5097"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "code": "UFBW-1072",
+  "url": "/release/detail/UFBW-1072/",
+  "source": "upfront",
+  "title": "homey",
+  "category": "DVD",
+  "artist": "道重さゆみ",
+  "releaseDate": "2011/03/30",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/025ecac407b14c300ac6ba80cf4107df5b9869af.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/025ecac407b14c300ac6ba80cf4107df5b9869af.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1072",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "02:39"
+            },
+            {
+              "index": 2,
+              "title": "Interview1",
+              "duration": "10:10"
+            },
+            {
+              "index": 3,
+              "title": "Image1",
+              "duration": "05:14"
+            },
+            {
+              "index": 4,
+              "title": "Interview2",
+              "duration": "16:46"
+            },
+            {
+              "index": 5,
+              "title": "Image2",
+              "duration": "03:14"
+            },
+            {
+              "index": 6,
+              "title": "Image3",
+              "duration": "10:07"
+            },
+            {
+              "index": 7,
+              "title": "Interview3",
+              "duration": "05:46"
+            },
+            {
+              "index": 8,
+              "title": "Ending",
+              "duration": "01:57"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

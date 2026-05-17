@@ -1,0 +1,82 @@
+{
+  "code": "HKBN-50165",
+  "url": "/release/detail/HKBN-50165/",
+  "source": "upfront",
+  "title": "スマイレージのミュージックVコレクション②",
+  "category": "DVD",
+  "artist": "スマイレージ",
+  "releaseDate": "2012/05/16",
+  "label": "hachama",
+  "images": [
+    "/images/2c522f0d93eb0f0ec1c0d86ea4236670e54f81e3.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/2c522f0d93eb0f0ec1c0d86ea4236670e54f81e3.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKBN-50165",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋にBooing ブー！(Music Video)",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "有頂天LOVE(Music Video)",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "タチアガール(Music Video)",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "プリーズ ミニスカ ポストウーマン！(Music Video)",
+              "duration": "05:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "チョトマテクダサイ！(Music Video)",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ドットビキニ(Music Video)",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

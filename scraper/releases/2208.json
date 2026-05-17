@@ -1,0 +1,104 @@
+{
+  "id": 2208,
+  "url": "/release/2208/",
+  "title": "コピンクス！メロディーズ〜star chart〜",
+  "category": "CDミニアルバム",
+  "artist": "コピンク＊",
+  "releaseDate": "2013.3.20",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/52f45aba783355f2b624916ab4b827dc7557d433.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "カリーナノッテ",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "依田伸隆(10GAUGE)",
+                "編曲": "依田伸隆(10GAUGE)",
+                "歌": "コピンク*"
+              }
+            },
+            {
+              "index": 2,
+              "title": "最高視感度",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "依田伸隆(10GAUGE)",
+                "編曲": "依田伸隆(10GAUGE)",
+                "歌": "コピンク*"
+              }
+            },
+            {
+              "index": 3,
+              "title": "兎tocome(feat. コピンク)",
+              "duration": "05:15",
+              "credits": {
+                "作詞": "竹屋なかこ、児玉雨子",
+                "作曲": "依田伸隆(10GAUGE)",
+                "編曲": "依田伸隆(10GAUGE)",
+                "歌": "コピンク*"
+              }
+            },
+            {
+              "index": 4,
+              "title": "リバース",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "依田伸隆(10GAUGE)",
+                "編曲": "依田伸隆(10GAUGE)",
+                "歌": "コピンク*"
+              }
+            },
+            {
+              "index": 5,
+              "title": "兎tocome(feat. ゴロー)",
+              "duration": "05:31",
+              "credits": {
+                "作詞": "竹屋なかこ、児玉雨子",
+                "作曲": "依田伸隆(10GAUGE)",
+                "編曲": "依田伸隆(10GAUGE)",
+                "歌": "コピンク*"
+              }
+            },
+            {
+              "index": 6,
+              "title": "カリーナノッテ polaris mix",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "依田伸隆(10GAUGE)",
+                "編曲": "依田伸隆(10GAUGE)",
+                "歌": "コピンク*"
+              }
+            },
+            {
+              "index": 7,
+              "title": "コピンクス！一言集",
+              "duration": "03:00",
+              "credits": {
+                "作詞": "児玉雨子、竹屋なかこ",
+                "作曲": "依田伸隆(10GAUGE)",
+                "編曲": "依田伸隆(10GAUGE)",
+                "歌": "コピンク*"
+              }
+            }
+          ],
+          "catalogNo": "UFCW-1053"
+        }
+      ]
+    }
+  ]
+}

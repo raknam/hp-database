@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5407",
+  "url": "/release/detail/EPBE-5407/",
+  "source": "upfront",
+  "title": "シングルV「桃色スパークリング」",
+  "category": "DVDシングルV",
+  "artist": "℃-ute",
+  "releaseDate": "2011/06/01",
+  "label": "zetima",
+  "images": [
+    "/images/9a26d4b3a70ca0ae3e9b0aeaf7c2e16f8818f688.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/9a26d4b3a70ca0ae3e9b0aeaf7c2e16f8818f688.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5407",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "桃色スパークリング",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "桃色スパークリング(Close-up Another Ver.)",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "23:08"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

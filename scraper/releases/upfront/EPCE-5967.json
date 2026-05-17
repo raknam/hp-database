@@ -1,0 +1,152 @@
+{
+  "code": "EPCE-5967",
+  "url": "/release/detail/EPCE-5967/",
+  "source": "upfront",
+  "title": "「シングルベッド」",
+  "category": "CDシングル",
+  "artist": "シャ乱Q",
+  "releaseDate": "2013/07/17",
+  "label": "zetima",
+  "images": [
+    "/images/c00f295a7972f151432dab77cc83faf2584e113e.jpg",
+    "/images/4ea3d1520ff75d75c8e438f69ff291badc1d025a.jpg"
+  ],
+  "editions": [
+    {
+      "name": "初回生産限定盤 (DVD付き)",
+      "image": "/images/c00f295a7972f151432dab77cc83faf2584e113e.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5967",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「シングルベッド」",
+              "duration": "05:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "はたけ",
+                "編曲": "シャ乱Q"
+              }
+            },
+            {
+              "index": 2,
+              "title": "蜃気楼 しんきろう",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "まこと",
+                "作曲": "はたけ",
+                "編曲": "シャ乱Q"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Come on! 僕たちの未来",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "シャ乱Q"
+              }
+            },
+            {
+              "index": 4,
+              "title": "「シングルベッド」(Instrumental)",
+              "duration": "05:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "はたけ",
+                "編曲": "シャ乱Q"
+              }
+            },
+            {
+              "index": 5,
+              "title": "蜃気楼 しんきろう(Instrumental)",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "まこと",
+                "作曲": "はたけ",
+                "編曲": "シャ乱Q"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Come on! 僕たちの未来(Instrumental)",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "シャ乱Q"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/images/4ea3d1520ff75d75c8e438f69ff291badc1d025a.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5969",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "shibuya eggman 記者会見",
+              "duration": "01:56"
+            },
+            {
+              "index": 2,
+              "title": "シングルベッド",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "はたけ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "上・京・物・語",
+              "duration": "02:52",
+              "credits": {
+                "作詞": "まこと",
+                "作曲": "はたけ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "いいわけ",
+              "duration": "02:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "愛するということ",
+              "duration": "08:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "はたけ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ズルい女",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

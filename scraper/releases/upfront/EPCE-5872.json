@@ -1,0 +1,380 @@
+{
+  "code": "EPCE-5872",
+  "url": "/release/detail/EPCE-5872/",
+  "source": "upfront",
+  "title": "One・Two・Three/The 摩天楼 ショー",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2012/07/04",
+  "label": "zetima",
+  "images": [
+    "/images/6857aa8911093865f55b414439156b8611cdfb01.jpg",
+    "/images/1bebf9ffa468b78c6d07c32082588a6106df6bb9.jpg",
+    "/images/0c83831511ad8caf1be3ddd9741f090870d3bd19.jpg",
+    "/images/e5df186aa23e61eaf7a25eaa92b62c9191cf94c4.jpg",
+    "/images/9075fbbd18089ca53dfbdc918f9b4bfb897541c9.jpg",
+    "/images/b22f3752c1709496341512f77144ab317ac506c3.jpg",
+    "/images/d45479609a88dda318c4950cffa51b76e7008c74.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/6857aa8911093865f55b414439156b8611cdfb01.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5872",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "One・Two・Three",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "The 摩天楼ショー",
+              "duration": "05:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "私の時代！",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "One・Two・Three(Instrumental)",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 5,
+              "title": "The 摩天楼ショー(Instrumental)",
+              "duration": "05:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/1bebf9ffa468b78c6d07c32082588a6106df6bb9.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5874",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "One・Two・Three(Another Dance Shot Ver.)",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/images/0c83831511ad8caf1be3ddd9741f090870d3bd19.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5875",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "One・Two・Three",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "The 摩天楼ショー",
+              "duration": "05:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "私の時代！",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "One・Two・Three(Instrumental)",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 5,
+              "title": "The 摩天楼ショー(Instrumental)",
+              "duration": "05:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤D】",
+      "image": "/images/e5df186aa23e61eaf7a25eaa92b62c9191cf94c4.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5877",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "One・Two・Three",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "The 摩天楼ショー",
+              "duration": "05:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "アイサレタイノニ…",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "One・Two・Three(Instrumental)",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 5,
+              "title": "The 摩天楼ショー(Instrumental)",
+              "duration": "05:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤E】",
+      "image": "/images/9075fbbd18089ca53dfbdc918f9b4bfb897541c9.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5878",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "The 摩天楼ショー(Dance Shot Ver.)",
+              "duration": "05:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤F】",
+      "image": "/images/b22f3752c1709496341512f77144ab317ac506c3.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5880",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "One・Two・Three",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "The 摩天楼ショー",
+              "duration": "05:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "アイサレタイノニ…",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "One・Two・Three(Instrumental)",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 5,
+              "title": "The 摩天楼ショー(Instrumental)",
+              "duration": "05:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/d45479609a88dda318c4950cffa51b76e7008c74.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5881",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "One・Two・Three",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "The 摩天楼ショー",
+              "duration": "05:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "青春ど真ん中",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 4,
+              "title": "One・Two・Three(Instrumental)",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 5,
+              "title": "The 摩天楼ショー(Instrumental)",
+              "duration": "05:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

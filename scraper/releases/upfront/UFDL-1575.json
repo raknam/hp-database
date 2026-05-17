@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1575",
+  "url": "/release/detail/UFDL-1575/",
+  "source": "upfront",
+  "title": "ただいまの魔法",
+  "category": "配信",
+  "artist": "鈴木愛理",
+  "releaseDate": "2026/01/24",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/cbe7c58320a7b141669d0a681ef7ccdbc82b34c9.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/cbe7c58320a7b141669d0a681ef7ccdbc82b34c9.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1575",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ただいまの魔法",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "鈴木愛理",
+                "作曲": "清塚信也",
+                "編曲": "清塚信也"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

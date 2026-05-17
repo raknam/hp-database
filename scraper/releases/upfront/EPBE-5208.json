@@ -1,0 +1,43 @@
+{
+  "code": "EPBE-5208",
+  "url": "/release/detail/EPBE-5208/",
+  "source": "upfront",
+  "title": "娘DOKYU！ Vol.5",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2006/10/18",
+  "label": "zetima",
+  "images": [
+    "/images/835399b517bf3467d8c2fd6c3b766d56c23a3971.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/835399b517bf3467d8c2fd6c3b766d56c23a3971.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5208",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "道重さゆみ",
+              "duration": "17:21"
+            },
+            {
+              "index": 2,
+              "title": "田中れいな",
+              "duration": "13:50"
+            },
+            {
+              "index": 3,
+              "title": "メトロラビッツH.P.",
+              "duration": "37:34"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

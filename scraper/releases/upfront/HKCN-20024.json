@@ -1,0 +1,88 @@
+{
+  "code": "HKCN-20024",
+  "url": "/release/detail/HKCN-20024/",
+  "source": "upfront",
+  "title": "Smile",
+  "category": "CDシングル",
+  "artist": "Temiyan",
+  "releaseDate": "2010/01/20",
+  "label": "Pacific Heaven",
+  "images": [
+    "/images/4ee9bf4fa21be8d48c813f05c34081d0d064302a.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/4ee9bf4fa21be8d48c813f05c34081d0d064302a.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-20024",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Smile〜single version〜",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "Temiyan&伊藤心太郎",
+                "作曲": "Temiyan&伊藤心太郎",
+                "編曲": "伊藤心太郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "生きてゆくこと",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "Temiyan",
+                "作曲": "Temiyan",
+                "編曲": "友常正巳"
+              }
+            },
+            {
+              "index": 3,
+              "title": "テミヤンの子守唄",
+              "duration": "02:56",
+              "credits": {
+                "作詞": "Temiyan",
+                "作曲": "Temiyan",
+                "編曲": "Temiyan"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Smile〜single version〜(Instrumental)",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "Temiyan&伊藤心太郎",
+                "作曲": "Temiyan&伊藤心太郎",
+                "編曲": "伊藤心太郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "生きてゆくこと(Instrumental)",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "Temiyan",
+                "作曲": "Temiyan",
+                "編曲": "友常正巳"
+              }
+            },
+            {
+              "index": 6,
+              "title": "テミヤンの子守唄(Instrumental)",
+              "duration": "02:56",
+              "credits": {
+                "作詞": "Temiyan",
+                "作曲": "Temiyan",
+                "編曲": "Temiyan"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

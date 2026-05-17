@@ -1,0 +1,100 @@
+{
+  "code": "UFWT-9017",
+  "url": "/release/detail/UFWT-9017/",
+  "source": "upfront",
+  "title": "第②成長記",
+  "category": "アナログアルバム",
+  "artist": "Berryz工房",
+  "releaseDate": "2019/05/01",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/f78e4e9c978382b74432e95e7057a0f151edb011.jpg"
+  ],
+  "editions": [
+    {
+      "name": "＜Disc1＞",
+      "image": "/images/f78e4e9c978382b74432e95e7057a0f151edb011.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "アナログアルバム",
+          "catalogNo": "UFWT-9017",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "スッペシャルOP",
+              "duration": "00:53",
+              "credits": {
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "スッペシャル ジェネレ〜ション",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "馬飼野康二"
+              }
+            },
+            {
+              "index": 3,
+              "title": "なんちゅう恋をやってるぅ YOU KNOW？",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "＜Disc2＞",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "アナログアルバム",
+          "catalogNo": "UFWT-9018",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "女子バスケット部〜朝練あった日の髪型〜",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "田中直"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋の呪縛",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "お昼の休憩時間。",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

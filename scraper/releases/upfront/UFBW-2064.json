@@ -1,0 +1,58 @@
+{
+  "code": "UFBW-2064",
+  "url": "/release/detail/UFBW-2064/",
+  "source": "upfront",
+  "title": "Greeting 〜石田亜佑美〜",
+  "category": "DVD",
+  "artist": "石田亜佑美",
+  "releaseDate": "2012/08/18",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/7b1a10e6e179e4a5badda1966846f2f9e60667e5.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7b1a10e6e179e4a5badda1966846f2f9e60667e5.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2064",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Greeting",
+              "duration": "14:58"
+            },
+            {
+              "index": 2,
+              "title": "School girl",
+              "duration": "10:25"
+            },
+            {
+              "index": 3,
+              "title": "Interview",
+              "duration": "12:21"
+            },
+            {
+              "index": 4,
+              "title": "Natural Girl",
+              "duration": "05:21"
+            },
+            {
+              "index": 5,
+              "title": "Interview",
+              "duration": "07:16"
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "01:42"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "id": 7561,
+  "url": "/release/7561/",
+  "title": "最KOO DE DANCE",
+  "category": "CDシングル",
+  "artist": "DJ KOO × BEYOOOOONDS",
+  "releaseDate": "2025.10.1",
+  "label": "avex trax",
+  "images": [
+    "/upload/images/e491e223f4159344be085f83395e5a7ce50132af.webp",
+    "/upload/images/75b2fd19d80392221c0671fb5ff78c667023c3d7.webp",
+    "/upload/images/19a0a44bdd99db8d2b102180c2db09752bbf9653.webp",
+    "/upload/images/4d88a13dc19a836848c5db890e9d07426e317c92.webp"
+  ],
+  "editions": [
+    {
+      "name": "【DJ KOO盤/初回生産限定盤】",
+      "image": "/upload/images/e491e223f4159344be085f83395e5a7ce50132af.webp",
+      "price": "￥2,100（税抜価格 ￥1,909）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "最KOO DE DANCE",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "星部ショウ/DJ KOO",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "DJ KOO × BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "最KOO DE DANCE -Positive Power Remix-",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "星部ショウ/DJ KOO",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "DJ KOO × BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "最KOO DE DANCE",
+              "duration": "03:49",
+              "suffix": "(DJ KOO off vocal)",
+              "credits": {
+                "作詞": "星部ショウ/DJ KOO",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "DJ KOO × BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "最KOO DE DANCE",
+              "duration": "03:49",
+              "suffix": "(BEYOOOOONDS off vocal)",
+              "credits": {
+                "作詞": "星部ショウ/DJ KOO",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "DJ KOO × BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 5,
+              "title": "最KOO DE DANCE",
+              "duration": "03:49",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ/DJ KOO",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "DJ KOO × BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "AVCD-61601B"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "最KOO DE DANCE",
+              "duration": "00:00",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "星部ショウ/DJ KOO",
+                "作曲": "星部ショウ",
+                "出演": "DJ KOO × BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "最KOO DE DANCE",
+              "duration": "00:00",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "星部ショウ/DJ KOO",
+                "作曲": "星部ショウ",
+                "出演": "DJ KOO × BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "最KOO DE DANCE",
+              "duration": "00:00",
+              "suffix": "(Recording & Dance Practice Behind The Scenes)",
+              "credits": {
+                "出演": "DJ KOO × BEYOOOOONDS"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付(ジャケットデザインステッカー封入)"
+    },
+    {
+      "name": "【BEYOOOOONDS盤/初回生産限定盤】",
+      "image": "/upload/images/75b2fd19d80392221c0671fb5ff78c667023c3d7.webp",
+      "price": "￥2,100（税抜価格 ￥1,909）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "最KOO DE DANCE",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "星部ショウ/DJ KOO",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "DJ KOO × BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "最KOO DE DANCE -Positive Power Remix-",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "星部ショウ/DJ KOO",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "DJ KOO × BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "最KOO DE DANCE",
+              "duration": "03:49",
+              "suffix": "(DJ KOO off vocal)",
+              "credits": {
+                "作詞": "星部ショウ/DJ KOO",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "DJ KOO × BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "最KOO DE DANCE",
+              "duration": "03:49",
+              "suffix": "(BEYOOOOONDS off vocal)",
+              "credits": {
+                "作詞": "星部ショウ/DJ KOO",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "DJ KOO × BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 5,
+              "title": "最KOO DE DANCE",
+              "duration": "03:49",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ/DJ KOO",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "DJ KOO × BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "AVCD-61602B"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "最KOO DE DANCE",
+              "duration": "00:00",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "星部ショウ/DJ KOO",
+                "作曲": "星部ショウ",
+                "出演": "DJ KOO × BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "最KOO DE DANCE",
+              "duration": "00:00",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "星部ショウ/DJ KOO",
+                "作曲": "星部ショウ",
+                "出演": "DJ KOO × BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "最KOO DE DANCE",
+              "duration": "00:00",
+              "suffix": "(Recording & Dance Practice Behind The Scenes)",
+              "credits": {
+                "出演": "DJ KOO × BEYOOOOONDS"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付(ジャケットデザインステッカー封入)"
+    },
+    {
+      "name": "【DJ KOO盤/通常盤】",
+      "image": "/upload/images/19a0a44bdd99db8d2b102180c2db09752bbf9653.webp",
+      "price": "￥1,400（税抜価格 ￥1,273）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "最KOO DE DANCE",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "星部ショウ/DJ KOO",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "DJ KOO × BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "最KOO DE DANCE -Positive Power Remix-",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "星部ショウ/DJ KOO",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "DJ KOO × BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "最KOO DE DANCE",
+              "duration": "03:49",
+              "suffix": "(DJ KOO off vocal)",
+              "credits": {
+                "作詞": "星部ショウ/DJ KOO",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "DJ KOO × BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "最KOO DE DANCE",
+              "duration": "03:49",
+              "suffix": "(BEYOOOOONDS off vocal)",
+              "credits": {
+                "作詞": "星部ショウ/DJ KOO",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "DJ KOO × BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 5,
+              "title": "最KOO DE DANCE",
+              "duration": "03:49",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ/DJ KOO",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "DJ KOO × BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "AVCD-61603"
+        }
+      ],
+      "note": "トレーディングカード全11種よりランダムにて1枚封入※初回プレス分のみ"
+    },
+    {
+      "name": "【BEYOOOOONDS盤/通常盤】",
+      "image": "/upload/images/4d88a13dc19a836848c5db890e9d07426e317c92.webp",
+      "price": "￥1,400（税抜価格 ￥1,273）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "最KOO DE DANCE",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "星部ショウ/DJ KOO",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "DJ KOO × BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "最KOO DE DANCE -Positive Power Remix-",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "星部ショウ/DJ KOO",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "DJ KOO × BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "最KOO DE DANCE",
+              "duration": "03:49",
+              "suffix": "(DJ KOO off vocal)",
+              "credits": {
+                "作詞": "星部ショウ/DJ KOO",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "DJ KOO × BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "最KOO DE DANCE",
+              "duration": "03:49",
+              "suffix": "(BEYOOOOONDS off vocal)",
+              "credits": {
+                "作詞": "星部ショウ/DJ KOO",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "DJ KOO × BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 5,
+              "title": "最KOO DE DANCE",
+              "duration": "03:49",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ/DJ KOO",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "DJ KOO × BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "AVCD-61604"
+        }
+      ],
+      "note": "トレーディングカード全10種よりランダムにて1枚封入※初回プレス分のみ"
+    }
+  ]
+}

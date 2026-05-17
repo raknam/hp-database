@@ -1,0 +1,68 @@
+{
+  "code": "UFBW-2068",
+  "url": "/release/detail/UFBW-2068/",
+  "source": "upfront",
+  "title": "オレンジ",
+  "category": "DVD",
+  "artist": "徳永千奈美",
+  "releaseDate": "2012/10/13",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/df10fc6b0805e1304127ba2ea91a9366d5f5e17f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/df10fc6b0805e1304127ba2ea91a9366d5f5e17f.jpg",
+      "price": "￥3,457 (税抜価格 ￥3,143)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2068",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "00:40"
+            },
+            {
+              "index": 2,
+              "title": "Sunny beach",
+              "duration": "06:15"
+            },
+            {
+              "index": 3,
+              "title": "Short break",
+              "duration": "05:07"
+            },
+            {
+              "index": 4,
+              "title": "Orange",
+              "duration": "09:16"
+            },
+            {
+              "index": 5,
+              "title": "Seaside walk",
+              "duration": "07:10"
+            },
+            {
+              "index": 6,
+              "title": "End of the day",
+              "duration": "08:38"
+            },
+            {
+              "index": 7,
+              "title": "Interview",
+              "duration": "14:14"
+            },
+            {
+              "index": 8,
+              "title": "Ending",
+              "duration": "00:40"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

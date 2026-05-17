@@ -1,0 +1,81 @@
+{
+  "code": "EPCE-5550",
+  "url": "/release/detail/EPCE-5550/",
+  "source": "upfront",
+  "title": "ララ サンシャイン",
+  "category": "CDシングル",
+  "artist": "森高千里",
+  "releaseDate": "2008/04/16",
+  "label": "zetima",
+  "images": [
+    "/images/2f23a8ec5104942a0fb82b6bb23abb4f5ce96e2d.jpg",
+    "/images/3820a18396de0c0141bec96bb8f2556fcab9764a.jpg"
+  ],
+  "editions": [
+    {
+      "name": "初回生産限定盤 (DVD付き)",
+      "image": "/images/2f23a8ec5104942a0fb82b6bb23abb4f5ce96e2d.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5550",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ララ サンシャイン",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "伊秩弘将",
+                "編曲": "ストリングスアレンジ高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "むかしの人は…",
+              "duration": "03:14",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "森高千里",
+                "編曲": "ストリングスアレンジ高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ララ サンシャイン(オリジナル・カラオケ)",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "伊秩弘将",
+                "編曲": "ストリングスアレンジ高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": "/images/3820a18396de0c0141bec96bb8f2556fcab9764a.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5552",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ララ サンシャイン",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "伊秩弘将"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

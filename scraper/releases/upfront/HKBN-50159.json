@@ -1,0 +1,55 @@
+{
+  "code": "HKBN-50159",
+  "url": "/release/detail/HKBN-50159/",
+  "source": "upfront",
+  "title": "シングルV「チョトマテクダサイ！」",
+  "category": "DVDシングルV",
+  "artist": "スマイレージ",
+  "releaseDate": "2012/02/08",
+  "label": "hachama",
+  "images": [
+    "/images/d2694ac160f8fb7a1840d88d065b9c98fd384d0e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d2694ac160f8fb7a1840d88d065b9c98fd384d0e.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "HKBN-50159",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "チョトマテクダサイ！(Music Video)",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "チョトマテクダサイ！(Close-up Ver.)",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "15:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "code": "EPDE-1044",
+  "url": "/release/detail/EPDE-1044/",
+  "source": "upfront",
+  "title": "ふるさと",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2005/03/02",
+  "label": "zetima",
+  "images": [
+    "/images/38395ac6171a0c9e077093109b418f0f4ecfbf7b.jpg",
+    "/images/eab61b5342653ecc8c866f321b8e47f076e5df5a.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/38395ac6171a0c9e077093109b418f0f4ecfbf7b.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5318",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ふるさと",
+              "duration": "05:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 2,
+              "title": "忘れらんない",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄&下町兄弟"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ふるさと(Instrumental)",
+              "duration": "05:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ふるさと(Early Vocal Version)",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": "/images/eab61b5342653ecc8c866f321b8e47f076e5df5a.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1044",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ふるさと",
+              "duration": "05:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 2,
+              "title": "忘れらんない",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄&下町兄弟"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ふるさと (Instrumental)",
+              "duration": "05:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

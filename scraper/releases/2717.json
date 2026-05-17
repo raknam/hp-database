@@ -1,0 +1,56 @@
+{
+  "id": 2717,
+  "url": "/release/2717/",
+  "title": "シングルV「笑顔」",
+  "category": "DVDシングルV",
+  "artist": "松浦亜弥",
+  "releaseDate": "2007.9.12",
+  "label": "zetima",
+  "images": [
+    "/upload/images/59d753ca7b30ec59405c622e5da9a2fde11c657f.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "笑顔",
+              "duration": "06:01",
+              "credits": {
+                "作詞": "谷村有美",
+                "作曲": "谷村有美",
+                "出演": "松浦亜弥"
+              }
+            },
+            {
+              "index": 2,
+              "title": "笑顔",
+              "duration": "05:52",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "谷村有美",
+                "作曲": "谷村有美",
+                "出演": "松浦亜弥"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "10:19",
+              "credits": {
+                "出演": "松浦亜弥"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5261"
+        }
+      ]
+    }
+  ]
+}

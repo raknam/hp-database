@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5118",
+  "url": "/release/detail/EPBE-5118/",
+  "source": "upfront",
+  "title": "シングルV「ラッキーチャチャチャ！」",
+  "category": "DVDシングルV",
+  "artist": "ミニモニ｡",
+  "releaseDate": "2004/04/28",
+  "label": "zetima",
+  "images": [
+    "/images/65ff8bd76d5cfded25776b15f5d89c9669219759.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/65ff8bd76d5cfded25776b15f5d89c9669219759.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5118",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ラッキーチャチャチャ！",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ラッキーチャチャチャ！(Close-Up Ver.)",
+              "duration": "03:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "03:54"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

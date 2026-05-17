@@ -1,0 +1,58 @@
+{
+  "code": "UFBW-1068",
+  "url": "/release/detail/UFBW-1068/",
+  "source": "upfront",
+  "title": "attracted",
+  "category": "DVD",
+  "artist": "田中れいな",
+  "releaseDate": "2011/03/11",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/47fbc517294fdd0a0794c72a2b66e7f328611b2c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/47fbc517294fdd0a0794c72a2b66e7f328611b2c.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1068",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Scene1",
+              "duration": "09:08"
+            },
+            {
+              "index": 2,
+              "title": "Scene2",
+              "duration": "14:41"
+            },
+            {
+              "index": 3,
+              "title": "Scene3",
+              "duration": "10:49"
+            },
+            {
+              "index": 4,
+              "title": "nterview",
+              "duration": "10:54"
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "01:50"
+            },
+            {
+              "index": 6,
+              "title": "DVD Making",
+              "duration": "07:42"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

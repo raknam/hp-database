@@ -1,0 +1,377 @@
+{
+  "id": 6056,
+  "url": "/release/6056/",
+  "title": "人生Blues/青春Night",
+  "category": "CDシングル",
+  "artist": "モーニング娘。'19",
+  "releaseDate": "2019.6.12",
+  "label": "zetima",
+  "images": [
+    "/upload/images/fbf7340b5258a5c20291c03ee205b58b8efe8306.webp",
+    "/upload/images/b1c4bea34fe0ec2e01c4427363b940360cd97613.webp",
+    "/upload/images/1e060d1b7f8cf85830a6de467c36dd95a5e9c1fb.webp",
+    "/upload/images/eff33642e50f6b81c456ba7dd827696b7520ddf3.webp",
+    "/upload/images/60aee676d9f2fd6976515eeb7d1849343b5d8581.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/fbf7340b5258a5c20291c03ee205b58b8efe8306.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "人生Blues",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'19"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青春Night",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：Miss Monday",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'19"
+              }
+            },
+            {
+              "index": 3,
+              "title": "人生Blues",
+              "duration": "04:26",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'19"
+              }
+            },
+            {
+              "index": 4,
+              "title": "青春Night",
+              "duration": "04:06",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：Miss Monday",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'19"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7493"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "人生Blues",
+              "duration": "05:26",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'19"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/b1c4bea34fe0ec2e01c4427363b940360cd97613.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "人生Blues",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'19"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青春Night",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：Miss Monday",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'19"
+              }
+            },
+            {
+              "index": 3,
+              "title": "人生Blues",
+              "duration": "04:26",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'19"
+              }
+            },
+            {
+              "index": 4,
+              "title": "青春Night",
+              "duration": "04:06",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：Miss Monday",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'19"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7495"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "青春Night",
+              "duration": "05:27",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：Miss Monday",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'19"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/upload/images/1e060d1b7f8cf85830a6de467c36dd95a5e9c1fb.webp",
+      "price": "￥1,870（税抜価格 ￥1,700）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "人生Blues",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'19"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青春Night",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：Miss Monday",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'19"
+              }
+            },
+            {
+              "index": 3,
+              "title": "人生Blues",
+              "duration": "04:26",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'19"
+              }
+            },
+            {
+              "index": 4,
+              "title": "青春Night",
+              "duration": "04:06",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：Miss Monday",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'19"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7497"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "人生Blues",
+              "duration": "04:36",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'19"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青春Night",
+              "duration": "04:22",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：Miss Monday",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'19"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選応募券封入"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/eff33642e50f6b81c456ba7dd827696b7520ddf3.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "人生Blues",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'19"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青春Night",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：Miss Monday",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'19"
+              }
+            },
+            {
+              "index": 3,
+              "title": "人生Blues",
+              "duration": "04:26",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'19"
+              }
+            },
+            {
+              "index": 4,
+              "title": "青春Night",
+              "duration": "04:06",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：Miss Monday",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'19"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7499"
+        }
+      ],
+      "note": "トレーディングカードソロ11種＋集合1種よりランダムにて1枚封入(人生Blues Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/60aee676d9f2fd6976515eeb7d1849343b5d8581.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "人生Blues",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'19"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青春Night",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：Miss Monday",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'19"
+              }
+            },
+            {
+              "index": 3,
+              "title": "人生Blues",
+              "duration": "04:26",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'19"
+              }
+            },
+            {
+              "index": 4,
+              "title": "青春Night",
+              "duration": "04:06",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：Miss Monday",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'19"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7500"
+        }
+      ],
+      "note": "トレーディングカードソロ11種＋集合1種よりランダムにて1枚封入(青春Night Ver.)※初回プレス分のみ"
+    }
+  ]
+}

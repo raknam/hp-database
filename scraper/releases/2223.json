@@ -1,0 +1,35 @@
+{
+  "id": 2223,
+  "url": "/release/2223/",
+  "title": "ゴメンナサイ",
+  "category": "BD",
+  "artist": "Buono!",
+  "releaseDate": "2012.2.8",
+  "label": "バップ",
+  "images": [
+    "/upload/images/7dc0517c6ed08581c819e55bf39c46e21f404c0e.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ゴメンナサイ",
+              "duration": "00:00",
+              "credits": {
+                "出演": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "VPXT-71218"
+        }
+      ]
+    }
+  ]
+}

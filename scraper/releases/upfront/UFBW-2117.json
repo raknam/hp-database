@@ -1,0 +1,108 @@
+{
+  "code": "UFBW-2117",
+  "url": "/release/detail/UFBW-2117/",
+  "source": "upfront",
+  "title": "BS-TBS 開局15周年特別企画 クールジャパン 〜道〜 「ベストフィフティーン 〜カントリー・ガールズ、 こぶしファクトリー、つばきファクトリー 編〜」",
+  "category": "DVD",
+  "artist": "カントリー・ガールズ/こぶしファクトリー/つばきファクトリー",
+  "releaseDate": "2016/04/02",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/0f04f033df17e99ec2465313aded0ed7a0c12ab9.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/0f04f033df17e99ec2465313aded0ed7a0c12ab9.jpg",
+      "price": "￥4,074 (税抜価格 ￥3,704)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2117",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "02:43"
+            },
+            {
+              "index": 2,
+              "title": "15位",
+              "duration": "08:07"
+            },
+            {
+              "index": 3,
+              "title": "14位",
+              "duration": "05:14"
+            },
+            {
+              "index": 4,
+              "title": "13位(スポットライト)",
+              "duration": "07:34"
+            },
+            {
+              "index": 5,
+              "title": "12位(スポットライト)",
+              "duration": "07:48"
+            },
+            {
+              "index": 6,
+              "title": "11位(スポットライト)",
+              "duration": "06:00"
+            },
+            {
+              "index": 7,
+              "title": "10位",
+              "duration": "08:25"
+            },
+            {
+              "index": 8,
+              "title": "9位",
+              "duration": "08:17"
+            },
+            {
+              "index": 9,
+              "title": "8位",
+              "duration": "07:40"
+            },
+            {
+              "index": 10,
+              "title": "7位",
+              "duration": "06:12"
+            },
+            {
+              "index": 11,
+              "title": "6位",
+              "duration": "05:54"
+            },
+            {
+              "index": 12,
+              "title": "5位",
+              "duration": "06:23"
+            },
+            {
+              "index": 13,
+              "title": "4位",
+              "duration": "06:17"
+            },
+            {
+              "index": 14,
+              "title": "3位",
+              "duration": "06:48"
+            },
+            {
+              "index": 15,
+              "title": "2位",
+              "duration": "06:11"
+            },
+            {
+              "index": 15,
+              "title": "1位",
+              "duration": "08:36"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

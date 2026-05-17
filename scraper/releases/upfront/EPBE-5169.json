@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5169",
+  "url": "/release/detail/EPBE-5169/",
+  "source": "upfront",
+  "title": "シングルV「大阪 恋の歌」",
+  "category": "DVDシングルV",
+  "artist": "モーニング娘。",
+  "releaseDate": "2005/04/27",
+  "label": "zetima",
+  "images": [
+    "/images/f810d2bc1cfd753d53197ea14dd26894ab56a8da.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f810d2bc1cfd753d53197ea14dd26894ab56a8da.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5169",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "大阪 恋の歌",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "大阪 恋の歌(Dance Shot Ver.)",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "19:27"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

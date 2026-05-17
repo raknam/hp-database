@@ -1,0 +1,127 @@
+{
+  "code": "SPPH-0111",
+  "url": "/release/detail/SPPH-0111/",
+  "source": "upfront",
+  "title": "4×4(フォーバイフォー)",
+  "category": "CDアルバム",
+  "artist": "レオアロハ",
+  "releaseDate": "2006/10/25",
+  "label": "Pacific Heaven",
+  "images": [
+    "/images/20805f2db090ce0299db135729f4fbb8051c9baa.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/20805f2db090ce0299db135729f4fbb8051c9baa.jpg",
+      "price": "￥2,619 (税抜価格 ￥2,381)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "SPPH-0111",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Na kama ´O Hau´ula",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "Traditional",
+                "作曲": "Traditional"
+              }
+            },
+            {
+              "index": 2,
+              "title": "My Wahine And Me",
+              "duration": "02:33",
+              "credits": {
+                "作詞": "DonMcDiarmidSr.",
+                "作曲": "DonMcDiarmidSr."
+              }
+            },
+            {
+              "index": 3,
+              "title": "Meleana E",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "FrancisSamuelKa´a´a",
+                "作曲": "FrancisSamuelKa´a´a"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Ka Makani Ka´ili Aloha",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "MatthewKane",
+                "作曲": "MatthewKane"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Kaulana Na Pua",
+              "duration": "03:17",
+              "credits": {
+                "作詞": "EllenWrightPrendergast",
+                "作曲": "EllenWrightPrendergast"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Pua Mae´ole",
+              "duration": "03:11",
+              "credits": {
+                "作詞": "JohnKamana",
+                "作曲": "JohnKamana"
+              }
+            },
+            {
+              "index": 7,
+              "title": "E Hihiwai",
+              "duration": "03:16",
+              "credits": {
+                "作詞": "DennisKamakahi",
+                "作曲": "DennisKamakahi"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Po La´ila´i",
+              "duration": "03:01",
+              "credits": {
+                "作詞": "MaryPuku'i",
+                "作曲": "MaddyLam"
+              }
+            },
+            {
+              "index": 9,
+              "title": "Pupu ´O Ni´ihau",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "MaryRobins",
+                "作曲": "JohnnyNoble"
+              }
+            },
+            {
+              "index": 10,
+              "title": "Makalapua",
+              "duration": "03:34",
+              "credits": {
+                "作詞": "Traditional",
+                "作曲": "Traditional"
+              }
+            },
+            {
+              "index": 11,
+              "title": "Kaiulani",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "Traditional",
+                "作曲": "AnthonySakurazawa"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

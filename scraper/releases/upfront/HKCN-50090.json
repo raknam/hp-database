@@ -1,0 +1,148 @@
+{
+  "code": "HKCN-50090",
+  "url": "/release/detail/HKCN-50090/",
+  "source": "upfront",
+  "title": "この胸のときめきを",
+  "category": "CDシングル",
+  "artist": "真野恵里菜",
+  "releaseDate": "2009/09/30",
+  "label": "hachama",
+  "images": [
+    "/images/0138fa7980cba8ab3b44e4da105c48f3c333df83.jpg",
+    "/images/b3e6efe405a3331b49eb6a6e04ab42ae45842481.jpg",
+    "/images/7e210e0825dc23c6f29446699806e6e2f5f35df1.jpg",
+    "/images/e21a4f9ac3c7c4d5b31d372d3e0351418b2aef54.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/0138fa7980cba8ab3b44e4da105c48f3c333df83.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50090",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "この胸のときめきを",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "畠山俊昭",
+                "編曲": "solaya"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ハッピーバースデイ・ママ",
+              "duration": "03:19",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "畠山俊昭",
+                "編曲": "corin."
+              }
+            },
+            {
+              "index": 3,
+              "title": "この胸のときめきを(Instrumental)",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "畠山俊昭",
+                "編曲": "solaya"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/b3e6efe405a3331b49eb6a6e04ab42ae45842481.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50092",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "この胸のときめきを(Piano Ver.)",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "畠山俊昭"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/images/7e210e0825dc23c6f29446699806e6e2f5f35df1.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50094",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "この胸のときめきを",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "畠山俊昭",
+                "編曲": "solaya"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ハッピーバースデイ・ママ",
+              "duration": "03:19",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "畠山俊昭",
+                "編曲": "corin."
+              }
+            },
+            {
+              "index": 3,
+              "title": "この胸のときめきを(Instrumental)",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "畠山俊昭",
+                "編曲": "solaya"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/e21a4f9ac3c7c4d5b31d372d3e0351418b2aef54.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50095",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "この胸のときめきを(Dance Shot Ver.)",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "畠山俊昭"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

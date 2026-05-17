@@ -1,0 +1,77 @@
+{
+  "id": 4907,
+  "url": "/release/4907/",
+  "title": "次々続々/糸島Distance /恋ならとっくに始まってる",
+  "category": "アナログシングル",
+  "artist": "アンジュルム",
+  "releaseDate": "2016.8.10",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/0eb1a3906dd25cc899267c419658bbb14f44152b.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "ANALOG",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "次々続々",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "平田祥一郎",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "糸島Distance",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "Mari-Joe",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "UFWT-9005_A"
+        },
+        {
+          "type": "ANALOG",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋ならとっくに始まってる",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "次々続々",
+              "duration": "05:05",
+              "suffix": "(SWG REMIX)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "平田祥一郎",
+                "編曲": "SHINCO",
+                "歌": "アンジュルム"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

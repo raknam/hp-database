@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1406",
+  "url": "/release/detail/UFDL-1406/",
+  "source": "upfront",
+  "title": "一糸つれないの唄",
+  "category": "配信",
+  "artist": "MALINA",
+  "releaseDate": "2018/08/27",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/33e13b8a7bf4996196ff856e3b675e5d3e0d078e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/33e13b8a7bf4996196ff856e3b675e5d3e0d078e.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1406",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "一糸つれないの唄",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "MALINA",
+                "作曲": "MALINA",
+                "編曲": "Jan Unit"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

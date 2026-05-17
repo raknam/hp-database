@@ -1,0 +1,108 @@
+{
+  "code": "UFCW-1062",
+  "url": "/release/detail/UFCW-1062/",
+  "source": "upfront",
+  "title": "ラベンダー カバー The ROCK",
+  "category": "CDアルバム",
+  "artist": "LoVendoЯ",
+  "releaseDate": "2013/05/22",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/03257c6373e7f02522ca8a638e1ca43be4e22c25.jpg"
+  ],
+  "editions": [
+    {
+      "name": "特典DVD付き",
+      "image": "/images/03257c6373e7f02522ca8a638e1ca43be4e22c25.jpg",
+      "price": "￥2,619 (税抜価格 ￥2,381)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "UFCW-1062",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "眠れない夜",
+              "duration": "02:54",
+              "credits": {
+                "作詞": "泉谷しげる",
+                "作曲": "泉谷しげる",
+                "編曲": "FIREROCK"
+              }
+            },
+            {
+              "index": 2,
+              "title": "今日までそして明日から",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "吉田拓郎",
+                "作曲": "吉田拓郎",
+                "編曲": "FIREROCK"
+              }
+            },
+            {
+              "index": 3,
+              "title": "国旗はためく下に",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "泉谷しげる",
+                "作曲": "泉谷しげる",
+                "編曲": "FIREROCK"
+              }
+            },
+            {
+              "index": 4,
+              "title": "雨あがりの夜空に",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "忌野清志郎/仲井戸麗市",
+                "作曲": "忌野清志郎/仲井戸麗市",
+                "編曲": "FIREROCK"
+              }
+            },
+            {
+              "index": 5,
+              "title": "春夏秋冬",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "泉谷しげる",
+                "作曲": "泉谷しげる",
+                "編曲": "FIREROCK"
+              }
+            },
+            {
+              "index": 6,
+              "title": "たどりついたらいつも雨ふり",
+              "duration": "02:30",
+              "credits": {
+                "作詞": "吉田拓郎",
+                "作曲": "吉田拓郎",
+                "編曲": "FIREROCK"
+              }
+            },
+            {
+              "index": 7,
+              "title": "落陽",
+              "duration": "03:25",
+              "credits": {
+                "作詞": "岡本おさみ",
+                "作曲": "吉田拓郎",
+                "編曲": "FIREROCK"
+              }
+            },
+            {
+              "index": 8,
+              "title": "上・京・物・語",
+              "duration": "05:15",
+              "credits": {
+                "作詞": "まこと",
+                "作曲": "はたけ",
+                "編曲": "FIREROCK"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

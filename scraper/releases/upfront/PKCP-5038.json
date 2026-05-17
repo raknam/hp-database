@@ -1,0 +1,122 @@
+{
+  "code": "PKCP-5038",
+  "url": "/release/detail/PKCP-5038/",
+  "source": "upfront",
+  "title": "サヨナラのLOVE SONG",
+  "category": "CDシングル",
+  "artist": "後藤真希",
+  "releaseDate": "2004/03/17",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/53fed1f4e4cf883ca5a5657b79426a7416ed9a5b.jpg",
+    "/images/711ab19f4da53d2ce4cb6bc3b01e14d204d6deae.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回盤】",
+      "image": "/images/53fed1f4e4cf883ca5a5657b79426a7416ed9a5b.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5038",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "サヨナラのLOVE SONG",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "馬飼野康二"
+              }
+            },
+            {
+              "index": 2,
+              "title": "DANCE DANCE DANCE",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ジュニアLOVE。",
+              "duration": "01:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 4,
+              "title": "サヨナラのLOVE SONGInstrumental",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "馬飼野康二"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/711ab19f4da53d2ce4cb6bc3b01e14d204d6deae.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5039",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "サヨナラのLOVE SONG",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "馬飼野康二"
+              }
+            },
+            {
+              "index": 2,
+              "title": "DANCE DANCE DANCE",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ジュニアLOVE。",
+              "duration": "01:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 4,
+              "title": "サヨナラのLOVE SONGInstrumental",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "馬飼野康二"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

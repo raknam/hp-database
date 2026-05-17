@@ -1,0 +1,119 @@
+{
+  "id": 2347,
+  "url": "/release/2347/",
+  "title": "Berryz工房10周年記念舞台 演劇女子部 「ミュージカル 戦国自衛隊」",
+  "category": "DVD",
+  "artist": "Berryz工房",
+  "releaseDate": "2014.9.3",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/UFBW-1382.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "02:20",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "戦国時代",
+              "duration": "06:52",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "長尾景虎の登場",
+              "duration": "18:45",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 4,
+              "title": "春日山林泉寺",
+              "duration": "17:19",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 5,
+              "title": "黒滝城",
+              "duration": "11:52",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 6,
+              "title": "和睦",
+              "duration": "02:38",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 7,
+              "title": "島田三曹の死",
+              "duration": "12:29",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 8,
+              "title": "戦いの夜",
+              "duration": "04:17",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 9,
+              "title": "決戦",
+              "duration": "17:10",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 10,
+              "title": "新たな始まり",
+              "duration": "13:04",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 11,
+              "title": "エンディング",
+              "duration": "06:48",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1382"
+        },
+        {
+          "type": "DVD",
+          "tracks": []
+        }
+      ]
+    }
+  ]
+}

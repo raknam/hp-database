@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1563",
+  "url": "/release/detail/UFDL-1563/",
+  "source": "upfront",
+  "title": "ShyなDestiny",
+  "category": "配信",
+  "artist": "林仁愛",
+  "releaseDate": "2025/08/05",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/dae9acfca0f4e3ce083a878426bdd141d7f567aa.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/dae9acfca0f4e3ce083a878426bdd141d7f567aa.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1563",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ShyなDestiny",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "BOI(バンク・オブ・イノベーション)",
+                "作曲": "BOI(バンク・オブ・イノベーション)",
+                "編曲": "BOI(バンク・オブ・イノベーション)"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

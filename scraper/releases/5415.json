@@ -1,0 +1,75 @@
+{
+  "id": 5415,
+  "url": "/release/5415/",
+  "title": "Do The Vacation",
+  "category": "BD",
+  "artist": "工藤遥",
+  "releaseDate": "2017.11.22",
+  "label": "zetima",
+  "images": [
+    "/upload/images/d4a3fc7e3bcd3f4e30d6e0490e04eda5af47377f.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Do The Guam",
+              "duration": "11:39",
+              "credits": {
+                "出演": "工藤遥(モーニング娘。'17)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Do The Beach",
+              "duration": "12:42",
+              "credits": {
+                "出演": "工藤遥(モーニング娘。'17)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Do The Sunset",
+              "duration": "13:55",
+              "credits": {
+                "出演": "工藤遥(モーニング娘。'17)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Day with Haruka",
+              "duration": "01:04",
+              "credits": {
+                "出演": "工藤遥(モーニング娘。'17)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "The Making of 「Kudo Haruka」",
+              "duration": "09:53",
+              "credits": {
+                "出演": "工藤遥(モーニング娘。'17)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "00:39",
+              "credits": {
+                "出演": "工藤遥(モーニング娘。'17)"
+              }
+            }
+          ],
+          "catalogNo": "EPXE-5125"
+        }
+      ]
+    }
+  ]
+}

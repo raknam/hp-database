@@ -1,0 +1,56 @@
+{
+  "id": 3579,
+  "url": "/release/3579/",
+  "title": "シングルV「紫陽花アイ愛物語」",
+  "category": "DVDシングルV",
+  "artist": "美勇伝",
+  "releaseDate": "2005.6.8",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/upload/images/e25e51296b68ca6566583be91386b74db1c0eeff.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "紫陽花アイ愛物語",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "角田崇徳/斉藤未悠",
+                "作曲": "角田崇徳",
+                "出演": "美勇伝"
+              }
+            },
+            {
+              "index": 2,
+              "title": "紫陽花アイ愛物語",
+              "duration": "04:32",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "角田崇徳/斉藤未悠",
+                "作曲": "角田崇徳",
+                "出演": "美勇伝"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "10:12",
+              "credits": {
+                "出演": "美勇伝"
+              }
+            }
+          ],
+          "catalogNo": "PKBP-5030"
+        }
+      ]
+    }
+  ]
+}

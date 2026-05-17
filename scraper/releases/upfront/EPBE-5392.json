@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5392",
+  "url": "/release/detail/EPBE-5392/",
+  "source": "upfront",
+  "title": "シングルV「女と男のララバイゲーム」",
+  "category": "DVDシングルV",
+  "artist": "モーニング娘。",
+  "releaseDate": "2010/11/24",
+  "label": "zetima",
+  "images": [
+    "/images/84bb25a9606a789358a7ded313f3eab561c5bde0.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/84bb25a9606a789358a7ded313f3eab561c5bde0.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5392",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "女と男のララバイゲーム",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "女と男のララバイゲーム(Another Dance Shot Ver.)",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "13:47"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

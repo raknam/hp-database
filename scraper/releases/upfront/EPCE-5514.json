@@ -1,0 +1,125 @@
+{
+  "code": "EPCE-5514",
+  "url": "/release/detail/EPCE-5514/",
+  "source": "upfront",
+  "title": "みかん",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2007/11/21",
+  "label": "zetima",
+  "images": [
+    "/images/ba5b8d93a0e4561ce9d169ac803652dffc02ac4d.jpg",
+    "/images/64305f5eb077d61941473e375db9596a3dc8db35.jpg",
+    "/images/73dffbc3a92f495ac7f279d31670b8176df91ebc.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤 A】",
+      "image": "/images/ba5b8d93a0e4561ce9d169ac803652dffc02ac4d.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5514",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "みかん",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ボン キュッ！ボン キュッ！BOMB GIRL",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "みかん(Instrumental)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤 B】",
+      "image": "/images/64305f5eb077d61941473e375db9596a3dc8db35.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5516",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "みかん(Close-up Ver.)",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/73dffbc3a92f495ac7f279d31670b8176df91ebc.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5517",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "みかん",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ボン キュッ！ボン キュッ！BOMB GIRL",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "みかん(Instrumental)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

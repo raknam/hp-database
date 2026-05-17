@@ -1,0 +1,68 @@
+{
+  "code": "UFDL-1444",
+  "url": "/release/detail/UFDL-1444/",
+  "source": "upfront",
+  "title": "SAYUMINGLANDOLL～希望～ オリジナルサウンドトラック",
+  "category": "配信",
+  "artist": "道重さゆみ",
+  "releaseDate": "2019/11/03",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/c557a1b804bb1cd625605422e3fe071b5f4f7a0d.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/c557a1b804bb1cd625605422e3fe071b5f4f7a0d.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1444",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "MY OWN LIFE！",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Sayutopia",
+              "duration": "04:05",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "K2-Dee",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ラリルレロンリー・ルーム",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 4,
+              "title": "君の代わりは居やしない(SAYUMINGLANDOLL～希望～ Ver.)",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

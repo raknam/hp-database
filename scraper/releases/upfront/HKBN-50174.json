@@ -1,0 +1,74 @@
+{
+  "code": "HKBN-50174",
+  "url": "/release/detail/HKBN-50174/",
+  "source": "upfront",
+  "title": "Dress up Kanon",
+  "category": "DVD",
+  "artist": "福田花音",
+  "releaseDate": "2013/01/23",
+  "label": "hachama",
+  "images": [
+    "/images/079ae232c48e971f675dbd6811704a015d9056a1.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/079ae232c48e971f675dbd6811704a015d9056a1.jpg",
+      "price": "￥4,400 (税抜価格 ￥4,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKBN-50174",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "00:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "in to Waitress",
+              "duration": "11:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "in to Doll",
+              "duration": "10:08",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "in to Icon",
+              "duration": "10:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Making of 「かにょん17」",
+              "duration": "18:53"
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "01:02"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

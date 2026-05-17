@@ -1,0 +1,89 @@
+{
+  "id": 4493,
+  "url": "/release/4493/",
+  "title": "演劇女子部 ミュージカル「サンクユーベリーベリー」オリジナルサウンドトラック",
+  "category": "CDアルバム",
+  "artist": "つばきファクトリー",
+  "releaseDate": "2015.10.8",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/700bbd33216c3021583fef038338efa0982d2825.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "あの子が歌うのを見たんだ",
+              "duration": "03:19",
+              "credits": {
+                "作詞": "塩田泰造",
+                "作曲": "市川淳",
+                "編曲": "市川淳",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "怪獣のバラード",
+              "duration": "01:19",
+              "credits": {
+                "作詞": "岡田冨美子",
+                "作曲": "東海林修",
+                "編曲": "市川淳",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "サンクユーベリーベリー",
+              "duration": "05:32",
+              "credits": {
+                "作詞": "塩田泰造",
+                "作曲": "たいせい",
+                "編曲": "市川淳",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "UFCW-1106"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "撮影編",
+              "duration": "08:25",
+              "credits": {
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "顔合わせ・本読み編",
+              "duration": "07:39",
+              "credits": {
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "レコーディング編",
+              "duration": "06:44",
+              "credits": {
+                "出演": "つばきファクトリー"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

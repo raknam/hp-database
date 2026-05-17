@@ -1,0 +1,56 @@
+{
+  "id": 1777,
+  "url": "/release/1777/",
+  "title": "シングルV「笑っちゃおうよ BOYFRIEND」",
+  "category": "DVDシングルV",
+  "artist": "Berryz工房",
+  "releaseDate": "2006.8.9",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/upload/images/a6eca3944147726d415c5ff3f5271ee000cbb7f8.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "笑っちゃおうよ BOYFRIEND",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "笑っちゃおうよ BOYFRIEND",
+              "duration": "03:56",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "16:38",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "PKBP-5053"
+        }
+      ]
+    }
+  ]
+}

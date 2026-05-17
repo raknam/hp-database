@@ -1,0 +1,67 @@
+{
+  "id": 4355,
+  "url": "/release/4355/",
+  "title": "かりんは16歳",
+  "category": "BD",
+  "artist": "宮本佳林",
+  "releaseDate": "2015.7.22",
+  "label": "hachama",
+  "images": [
+    "/upload/images/7a93e4ae92000231071d863d61b5a213f84d317e.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Seaside Court",
+              "duration": "07:40",
+              "credits": {
+                "出演": "宮本佳林"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Marine Breeze",
+              "duration": "12:31",
+              "credits": {
+                "出演": "宮本佳林"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Cycle of Time",
+              "duration": "13:45",
+              "credits": {
+                "出演": "宮本佳林"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Making of 「Karin sixteen」",
+              "duration": "14:48",
+              "credits": {
+                "出演": "宮本佳林"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "02:47",
+              "credits": {
+                "出演": "宮本佳林"
+              }
+            }
+          ],
+          "catalogNo": "HKXN-50037"
+        }
+      ]
+    }
+  ]
+}

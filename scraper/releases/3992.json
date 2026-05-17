@@ -1,0 +1,26 @@
+{
+  "id": 3992,
+  "url": "/release/3992/",
+  "title": "ビデオ・ミニハムずの愛の唄",
+  "category": "VHS",
+  "artist": "ミニハムず",
+  "releaseDate": "2002.2.27",
+  "label": "zetima",
+  "images": [
+    "/upload/images/7cef0e9d35730dfeb2e487a82bde7a002c11ea37.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "VHS",
+          "tracks": [],
+          "catalogNo": "EPVE-5035"
+        }
+      ]
+    }
+  ]
+}

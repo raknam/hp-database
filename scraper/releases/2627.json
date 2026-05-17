@@ -1,0 +1,130 @@
+{
+  "id": 2627,
+  "url": "/release/2627/",
+  "title": "Too far away〜女のこころ〜",
+  "category": "CDシングル",
+  "artist": "安倍なつみ",
+  "releaseDate": "2007.5.9",
+  "label": "hachama",
+  "images": [
+    "/upload/images/952a01e1fdd4c76cc9af32997ce81a8fffd9374a.webp",
+    "/upload/images/a238a91a7b4273e3ae605319682ba1a5f6de2969.webp"
+  ],
+  "editions": [
+    {
+      "name": "初回生産限定盤(DVD付き)",
+      "image": "/upload/images/952a01e1fdd4c76cc9af32997ce81a8fffd9374a.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Too far away〜女のこころ〜",
+              "duration": "05:18",
+              "credits": {
+                "作詞": "伊藤薫",
+                "作曲": "伊藤薫",
+                "編曲": "大久保薫",
+                "歌": "安倍なつみ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Too far away",
+              "duration": "05:17",
+              "credits": {
+                "作詞": "伊藤薫",
+                "作曲": "伊藤薫",
+                "編曲": "松田眞樹",
+                "歌": "安倍なつみ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Too far away〜女のこころ〜",
+              "duration": "05:18",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "伊藤薫",
+                "作曲": "伊藤薫",
+                "編曲": "大久保薫",
+                "歌": "安倍なつみ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50050"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "JAKET MAKING & INTERVIEW",
+              "duration": "14:47",
+              "credits": {
+                "出演": "安倍なつみ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "PHOTE SLIDE SHOW",
+              "duration": "02:26",
+              "credits": {
+                "出演": "安倍なつみ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/upload/images/a238a91a7b4273e3ae605319682ba1a5f6de2969.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Too far away〜女のこころ〜",
+              "duration": "05:18",
+              "credits": {
+                "作詞": "伊藤薫",
+                "作曲": "伊藤薫",
+                "編曲": "大久保薫",
+                "歌": "安倍なつみ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Too far away",
+              "duration": "05:17",
+              "credits": {
+                "作詞": "伊藤薫",
+                "作曲": "伊藤薫",
+                "編曲": "松田眞樹",
+                "歌": "安倍なつみ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Too far away〜女のこころ〜",
+              "duration": "05:18",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "伊藤薫",
+                "作曲": "伊藤薫",
+                "編曲": "大久保薫",
+                "歌": "安倍なつみ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50052"
+        }
+      ]
+    }
+  ]
+}

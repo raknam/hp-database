@@ -1,0 +1,88 @@
+{
+  "code": "EPCE-2024",
+  "url": "/release/detail/EPCE-2024/",
+  "source": "upfront",
+  "title": "クレタの白い砂",
+  "category": "CDシングル",
+  "artist": "因幡晃&相田翔子",
+  "releaseDate": "2004/04/28",
+  "label": "地中海レーベル",
+  "images": [
+    "/images/fccc71e4b277ed3b4a4ec8414f5cf2567809d80c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/fccc71e4b277ed3b4a4ec8414f5cf2567809d80c.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-2024",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "クレタの白い砂",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "馬飼野康二",
+                "編曲": "馬飼野康二"
+              }
+            },
+            {
+              "index": 2,
+              "title": "純愛・アフロディーテ",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "馬飼野康二",
+                "編曲": "馬飼野康二"
+              }
+            },
+            {
+              "index": 3,
+              "title": "クレタの白い砂(Instrumental)",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "馬飼野康二",
+                "編曲": "馬飼野康二"
+              }
+            },
+            {
+              "index": 4,
+              "title": "クレタの白い砂(female Ver.)",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "馬飼野康二",
+                "編曲": "馬飼野康二"
+              }
+            },
+            {
+              "index": 5,
+              "title": "クレタの白い砂(male Ver.)",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "馬飼野康二",
+                "編曲": "馬飼野康二"
+              }
+            },
+            {
+              "index": 6,
+              "title": "純愛・アフロディーテ(Instrumental)",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "馬飼野康二",
+                "編曲": "馬飼野康二"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

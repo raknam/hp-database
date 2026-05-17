@@ -1,0 +1,75 @@
+{
+  "code": "EPCE-8109",
+  "url": "/release/detail/EPCE-8109/",
+  "source": "upfront",
+  "title": "タイトル未定A/タイトル未定B",
+  "category": "CDシングル",
+  "artist": "モーニング娘。'26",
+  "releaseDate": "2026/09/09",
+  "label": "zetima",
+  "images": [
+    "/images/nowprinting.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/nowprinting.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-8109",
+          "tracks": []
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": null,
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-8111",
+          "tracks": []
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": null,
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-8113",
+          "tracks": []
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": null,
+      "price": "￥1,200 (税抜価格 ￥1,091)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-8115",
+          "tracks": []
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": null,
+      "price": "￥1,200 (税抜価格 ￥1,091)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-8116",
+          "tracks": []
+        }
+      ]
+    }
+  ]
+}

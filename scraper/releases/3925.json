@@ -1,0 +1,61 @@
+{
+  "id": 3925,
+  "url": "/release/3925/",
+  "title": "愛は無敵〜二十歳の夜の誓い〜",
+  "category": "CDシングル",
+  "artist": "シェキドル",
+  "releaseDate": "2001.12.5",
+  "label": "zetima",
+  "images": [
+    "/upload/images/4469a7b0c3f7e2774c6c14bbe43681276ea682c8.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛は無敵〜二十歳の夜の誓い〜",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "新堂敦士",
+                "編曲": "高橋諭一",
+                "歌": "シェキドル"
+              }
+            },
+            {
+              "index": 2,
+              "title": "がんばっちゃうもんねぇーッ！",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "新堂敦士",
+                "作曲": "新堂敦士",
+                "編曲": "Sho-1",
+                "歌": "シェキドル"
+              }
+            },
+            {
+              "index": 3,
+              "title": "愛は無敵〜二十歳の夜の誓い〜",
+              "duration": "04:20",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "新堂敦士",
+                "編曲": "高橋諭一",
+                "歌": "シェキドル"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5134"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-7302",
+  "url": "/release/detail/EPCE-7302/",
+  "source": "upfront",
+  "title": "我が子に捧げる PUNK SONG",
+  "category": "CDシングル",
+  "artist": "中島卓偉",
+  "releaseDate": "2017/03/08",
+  "label": "zetima",
+  "images": [
+    "/images/3a174526881a0548be2234c5e9926730b8b3a945.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/3a174526881a0548be2234c5e9926730b8b3a945.jpg",
+      "price": "￥1,528 (税抜価格 ￥1,389)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7302",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "我が子に捧げる PUNK SONG",
+              "duration": "03:04",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 2,
+              "title": "たられば",
+              "duration": "03:10",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 3,
+              "title": "上手く言えない",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 4,
+              "title": "超えてみせろ",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

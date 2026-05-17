@@ -1,0 +1,53 @@
+{
+  "code": "UFBW-1185",
+  "url": "/release/detail/UFBW-1185/",
+  "source": "upfront",
+  "title": "ハロプロ！TIME Vol.16",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012/09/07",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/a336c214775a2cccba411208d480837781af2648.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/a336c214775a2cccba411208d480837781af2648.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1185",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "田中TIME「恋愛ハンター」リーダー新垣里沙最後のMV撮影",
+              "duration": "07:13"
+            },
+            {
+              "index": 2,
+              "title": "道重TIMEガールズトーク",
+              "duration": "06:35"
+            },
+            {
+              "index": 3,
+              "title": "新垣TIME卒業ソングのMV撮影に密着！！",
+              "duration": "14:50"
+            },
+            {
+              "index": 4,
+              "title": "新垣里沙＆光井愛佳卒業コンサートに密着①",
+              "duration": "21:53"
+            },
+            {
+              "index": 5,
+              "title": "新垣里沙＆光井愛佳卒業コンサートに密着②",
+              "duration": "20:30"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

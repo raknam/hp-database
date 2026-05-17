@@ -1,0 +1,38 @@
+{
+  "id": 7640,
+  "url": "/release/7640/",
+  "title": "純愛クラッシャー",
+  "category": "配信",
+  "artist": "つばきファクトリー",
+  "releaseDate": "2026.3.5",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/4279e54251d77a4a4010f77aeafdcba42d6b31bc.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "純愛クラッシャー",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "Erik Lidbom",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1582"
+        }
+      ]
+    }
+  ]
+}

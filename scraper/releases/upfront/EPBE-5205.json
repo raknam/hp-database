@@ -1,0 +1,97 @@
+{
+  "code": "EPBE-5205",
+  "url": "/release/detail/EPBE-5205/",
+  "source": "upfront",
+  "title": "ミュージックV特集①〜キューティービジュアル〜",
+  "category": "DVD",
+  "artist": "℃-ute",
+  "releaseDate": "2006/09/06",
+  "label": "zetima",
+  "images": [
+    "/images/3aeceb13aeb6d2827c30e016bca09de5d510b270.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/3aeceb13aeb6d2827c30e016bca09de5d510b270.jpg",
+      "price": "￥3,143 (税抜価格 ￥2,857)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5205",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "大きな愛でもてなして",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "まっさらブルージーンズ",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "即 抱きしめて",
+              "duration": "03:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "まっさらブルージーンズ5月7日 さいたまスーパーアリーナのライブ映像",
+              "duration": "05:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "わっきゃない(Z)5月7日 さいたまスーパーアリーナのライブ映像",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "スペシャルインタビュー",
+              "duration": "10:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 7,
+              "title": "メイキング映像大きな愛でもてなして",
+              "duration": "07:31"
+            },
+            {
+              "index": 8,
+              "title": "メイキング映像まっさらブルージーンズ",
+              "duration": "07:19"
+            },
+            {
+              "index": 9,
+              "title": "メイキング映像即 抱きしめて",
+              "duration": "05:05"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

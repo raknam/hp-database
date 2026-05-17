@@ -1,0 +1,67 @@
+{
+  "id": 2943,
+  "url": "/release/2943/",
+  "title": "ミニモニ。でブレーメンの音楽隊 Vol.3",
+  "category": "DVD",
+  "artist": "ミニモニ｡",
+  "releaseDate": "2004.4.28",
+  "label": "zetima",
+  "images": [
+    "/upload/images/93a435ce6b08548ca6a26b37065bd379ab9d0dd1.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "第9回 ヒナに洋館の秘密",
+              "duration": "24:56",
+              "credits": {
+                "出演": "ミニモニ。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "第10回 ヒナの約束",
+              "duration": "24:56",
+              "credits": {
+                "出演": "ミニモニ。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "第11回 ヒナと演奏会",
+              "duration": "24:56",
+              "credits": {
+                "出演": "ミニモニ。"
+              }
+            },
+            {
+              "index": 4,
+              "title": "第12回 ヒナ、ネコ、ドンキーでハーモニー",
+              "duration": "24:36",
+              "credits": {
+                "出演": "ミニモニ。"
+              }
+            },
+            {
+              "index": 1,
+              "title": "ミニモニ。「ラッキーチャチャチャ！」クリップ撮影現場密着取材★その3",
+              "duration": "04:25",
+              "credits": {
+                "出演": "ミニモニ。"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5123"
+        }
+      ]
+    }
+  ]
+}

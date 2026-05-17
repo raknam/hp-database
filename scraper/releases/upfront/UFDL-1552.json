@@ -1,0 +1,78 @@
+{
+  "code": "UFDL-1552",
+  "url": "/release/detail/UFDL-1552/",
+  "source": "upfront",
+  "title": "へいらっしゃい！～ニッポンで会いましょう～/ウブとズル(Special Edition)",
+  "category": "配信",
+  "artist": "ロージークロニクル",
+  "releaseDate": "2025/03/19",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/5016da51f3b473f02112a7a4e1b5dc2025014938.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/5016da51f3b473f02112a7a4e1b5dc2025014938.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1552",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "へいらっしゃい！～ニッポンで会いましょう～",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ウブとズル",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "KOUGA",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "CHOちょこっとロッケンロール",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 4,
+              "title": "未来ハジマリ",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 5,
+              "title": "8bit片想い",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

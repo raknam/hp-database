@@ -1,0 +1,68 @@
+{
+  "code": "UFBW-1340",
+  "url": "/release/detail/UFBW-1340/",
+  "source": "upfront",
+  "title": "Bitter & Sweet/インストール",
+  "category": "DVDシングル",
+  "artist": "Bitter ＆ Sweet",
+  "releaseDate": "2014/03/19",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/f657915c1442eb27f174c5b762e04791d292da48.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f657915c1442eb27f174c5b762e04791d292da48.jpg",
+      "price": "￥1,466 (税抜価格 ￥1,333)",
+      "discs": [
+        {
+          "type": "DVDシングル",
+          "catalogNo": "UFBW-1340",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Bitter & Sweet(Music Video)",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "佐藤舞花",
+                "作曲": "平川達也",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "インストール(Music Video)",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "唐沢美帆",
+                "作曲": "森口友美",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Bitter & Sweet(Instrumental Ver.)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "佐藤舞花",
+                "作曲": "平川達也",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 4,
+              "title": "インストール(Instrumental Ver.)",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "唐沢美帆",
+                "作曲": "森口友美",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

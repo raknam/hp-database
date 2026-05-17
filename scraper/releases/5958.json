@@ -1,0 +1,377 @@
+{
+  "id": 5958,
+  "url": "/release/5958/",
+  "title": "恋はアッチャアッチャ/夢見た 15年",
+  "category": "CDシングル",
+  "artist": "アンジュルム",
+  "releaseDate": "2019.4.10",
+  "label": "hachama",
+  "images": [
+    "/upload/images/276623d18641d81e624b662a074953febaa89f1b.webp",
+    "/upload/images/17aa5258521246fa18aa2f5421df44d16cadc962.webp",
+    "/upload/images/08f76f5f2c5da4c8bb188337d03ed1d9fafd7c8d.webp",
+    "/upload/images/27763bcc8c58865383e597f45319749e8a512e03.webp",
+    "/upload/images/371d8cc11498fa982f729b13989c2c7ce5276bdf.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/276623d18641d81e624b662a074953febaa89f1b.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋はアッチャアッチャ",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "夢見た 15年",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "イイジマケン",
+                "編曲": "炭竃智弘",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋はアッチャアッチャ",
+              "duration": "03:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "夢見た 15年",
+              "duration": "04:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "イイジマケン",
+                "編曲": "炭竃智弘",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50591"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋はアッチャアッチャ",
+              "duration": "05:12",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "アンジュルム"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付(「恋はアッチャアッチャ」Music Video)"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/17aa5258521246fa18aa2f5421df44d16cadc962.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋はアッチャアッチャ",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "夢見た 15年",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "イイジマケン",
+                "編曲": "炭竃智弘",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋はアッチャアッチャ",
+              "duration": "03:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "夢見た 15年",
+              "duration": "04:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "イイジマケン",
+                "編曲": "炭竃智弘",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50593"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夢見た 15年",
+              "duration": "05:28",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "イイジマケン",
+                "出演": "アンジュルム"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付(「夢見た 15年」Music Video)"
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/upload/images/08f76f5f2c5da4c8bb188337d03ed1d9fafd7c8d.webp",
+      "price": "￥1,870（税抜価格 ￥1,700）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋はアッチャアッチャ",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "夢見た 15年",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "イイジマケン",
+                "編曲": "炭竃智弘",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋はアッチャアッチャ",
+              "duration": "03:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "夢見た 15年",
+              "duration": "04:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "イイジマケン",
+                "編曲": "炭竃智弘",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50595"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋はアッチャアッチャ",
+              "duration": "03:42",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "夢見た 15年",
+              "duration": "04:49",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "イイジマケン",
+                "出演": "アンジュルム"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付(各楽曲Dance Shot Ver.)＋イベント抽選応募券封入"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/27763bcc8c58865383e597f45319749e8a512e03.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋はアッチャアッチャ",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "夢見た 15年",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "イイジマケン",
+                "編曲": "炭竃智弘",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋はアッチャアッチャ",
+              "duration": "03:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "夢見た 15年",
+              "duration": "04:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "イイジマケン",
+                "編曲": "炭竃智弘",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50597"
+        }
+      ],
+      "note": "トレーディングカードソロ12種+集合1種よりランダムにて1枚封入(恋はアッチャアッチャ Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/371d8cc11498fa982f729b13989c2c7ce5276bdf.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋はアッチャアッチャ",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "夢見た 15年",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "イイジマケン",
+                "編曲": "炭竃智弘",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋はアッチャアッチャ",
+              "duration": "03:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "夢見た 15年",
+              "duration": "04:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "イイジマケン",
+                "編曲": "炭竃智弘",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50598"
+        }
+      ],
+      "note": "トレーディングカードソロ12種+集合1種よりランダムにて1枚封入(夢見た 15年 Ver.)※初回プレス分のみ"
+    }
+  ]
+}

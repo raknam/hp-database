@@ -1,0 +1,465 @@
+{
+  "id": 2384,
+  "url": "/release/2384/",
+  "title": "ロマンスを語って/永久の歌",
+  "category": "CDシングル",
+  "artist": "Berryz工房",
+  "releaseDate": "2014.11.12",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/upload/images/00fc7a6f5a3abecbb7bfad3f8c8711363b9b7db0.webp",
+    "/upload/images/d1a3e091624d240e103657312d913c53797885ba.webp",
+    "/upload/images/3e0d470f9d6fff86cb750d05b3677ba210896711.webp",
+    "/upload/images/2d3d7435fcf156c33beb3ff8950f572d9533fe79.webp",
+    "/upload/images/cbb08b14fbd3310220708cd67e1238a3a3efd802.webp",
+    "/upload/images/d74c498c21287f98a185117dc88fdb9ad568dd51.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/00fc7a6f5a3abecbb7bfad3f8c8711363b9b7db0.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ロマンスを語って",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "永久の歌",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ロマンスを語って",
+              "duration": "05:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 4,
+              "title": "永久の歌",
+              "duration": "04:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5268"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ロマンスを語って",
+              "duration": "06:05",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/d1a3e091624d240e103657312d913c53797885ba.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "永久の歌",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ロマンスを語って",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "永久の歌",
+              "duration": "04:16",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ロマンスを語って",
+              "duration": "05:02",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5270"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "永久の歌",
+              "duration": "05:17",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/3e0d470f9d6fff86cb750d05b3677ba210896711.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ロマンスを語って",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "永久の歌",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ロマンスを語って",
+              "duration": "05:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 4,
+              "title": "永久の歌",
+              "duration": "04:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5272"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ロマンスを語って",
+              "duration": "05:10",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ロマンスを語って",
+              "duration": "11:12",
+              "suffix": "(MV・ジャケット撮影メイキング＆オフショット映像)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤D】",
+      "image": "/upload/images/2d3d7435fcf156c33beb3ff8950f572d9533fe79.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "永久の歌",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ロマンスを語って",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "永久の歌",
+              "duration": "04:16",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ロマンスを語って",
+              "duration": "05:02",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5274"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "永久の歌",
+              "duration": "04:25",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "永久の歌",
+              "duration": "13:37",
+              "suffix": "(MV・ジャケット撮影メイキング＆オフショット映像)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/cbb08b14fbd3310220708cd67e1238a3a3efd802.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ロマンスを語って",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "永久の歌",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ロマンスを語って",
+              "duration": "05:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 4,
+              "title": "永久の歌",
+              "duration": "04:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5276"
+        }
+      ],
+      "note": "トレカサイズ生写真ソロ7種+集合1種よりランダムにて1枚封入(ロマンスを語ってVer.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/d74c498c21287f98a185117dc88fdb9ad568dd51.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "永久の歌",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ロマンスを語って",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "永久の歌",
+              "duration": "04:16",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ロマンスを語って",
+              "duration": "05:02",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5277"
+        }
+      ],
+      "note": "トレカサイズ生写真ソロ7種+集合1種よりランダムにて1枚封入(永久の歌Ver.)※初回プレス分のみ"
+    }
+  ]
+}

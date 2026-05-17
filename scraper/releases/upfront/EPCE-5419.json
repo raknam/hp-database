@@ -1,0 +1,84 @@
+{
+  "code": "EPCE-5419",
+  "url": "/release/detail/EPCE-5419/",
+  "source": "upfront",
+  "title": "ハロー！プロジェクト ラジオドラマ大阪編 Vol.4",
+  "category": "CDアルバム",
+  "artist": "V.A.",
+  "releaseDate": "2006/07/26",
+  "label": "zetima",
+  "images": [
+    "/images/da70d61f5ab19efc6e8a67d9dcc76d33d2baffed.jpg"
+  ],
+  "editions": [
+    {
+      "name": "[Disc:1]",
+      "image": "/images/da70d61f5ab19efc6e8a67d9dcc76d33d2baffed.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5419",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「アルバムの町」",
+              "duration": "41:32"
+            },
+            {
+              "index": 2,
+              "title": "＜特典＞ インタビュー",
+              "duration": "04:27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "[Disc:2]",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5420",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「ラブリー！ミラクル・フットサル」",
+              "duration": "36:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "＜特典＞ インタビュー",
+              "duration": "02:26"
+            },
+            {
+              "index": 3,
+              "title": "「身代わり稼業」",
+              "duration": "31:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "＜特典＞ インタビュー",
+              "duration": "03:21"
+            },
+            {
+              "index": 5,
+              "title": "＜特典＞ NG集",
+              "duration": "01:01"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

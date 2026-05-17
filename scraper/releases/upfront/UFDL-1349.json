@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1349",
+  "url": "/release/detail/UFDL-1349/",
+  "source": "upfront",
+  "title": "いのうえのうた",
+  "category": "配信",
+  "artist": "井上玲音(こぶしファクトリー)、井上ひかる(ハロプロ研修生)",
+  "releaseDate": "2017/06/30",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/5b3cf25e9454f6521d712b25bd6f47774730357f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/5b3cf25e9454f6521d712b25bd6f47774730357f.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1349",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "いのうえのうた",
+              "duration": "02:26",
+              "credits": {
+                "作詞": "桑原永江",
+                "作曲": "佐藤晃",
+                "編曲": "佐藤晃"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

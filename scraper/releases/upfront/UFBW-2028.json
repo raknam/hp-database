@@ -1,0 +1,96 @@
+{
+  "code": "UFBW-2028",
+  "url": "/release/detail/UFBW-2028/",
+  "source": "upfront",
+  "title": "ハロー！チャンネル the DVD Vol.5",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2011/09/14",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/nowprinting.jpg"
+  ],
+  "editions": [
+    {
+      "name": "＜Disc1＞",
+      "image": "/images/nowprinting.jpg",
+      "price": "￥5,170 (税抜価格 ￥4,700)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2028",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "リーダー集結 スペシャルグラビア撮影",
+              "duration": "20:45"
+            },
+            {
+              "index": 2,
+              "title": "フラワーアレンジメント挑戦",
+              "duration": "18:45"
+            },
+            {
+              "index": 3,
+              "title": "ハロプロNo.1スポーツ女王決定戦！",
+              "duration": "05:45"
+            },
+            {
+              "index": 4,
+              "title": "9期メンバー・ダンスゲームバトル！！",
+              "duration": "19:05"
+            },
+            {
+              "index": 5,
+              "title": "角川グループホールディングス 会長一日秘書",
+              "duration": "23:16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "＜Disc2＞",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2029",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ローソンでアルバイト体験",
+              "duration": "22:27"
+            },
+            {
+              "index": 2,
+              "title": "オトナの社会科見学・アマゾン巨大倉庫潜入！",
+              "duration": "13:09"
+            },
+            {
+              "index": 3,
+              "title": "妄想・パジャマトーク",
+              "duration": "16:15"
+            },
+            {
+              "index": 4,
+              "title": "“ガチンコ”パティシエ修行②",
+              "duration": "22:29"
+            },
+            {
+              "index": 5,
+              "title": "アイドル100万ボルト 浅草デート編",
+              "duration": "13:29"
+            },
+            {
+              "index": 6,
+              "title": "あくなき闘い！ 新潟・佐渡 田植え編",
+              "duration": "19:02"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

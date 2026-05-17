@@ -1,0 +1,90 @@
+{
+  "id": 2061,
+  "url": "/release/2061/",
+  "title": "ハロプロ！TIME Vol.1",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2011.10.7",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/af23d2ab2644e6636d3042d0c4589287644637d8.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "真野TIME",
+              "duration": "07:19",
+              "suffix": "「がんばろうニッポン 愛は勝つ」プロジェクト",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "前田TIME",
+              "duration": "10:33",
+              "suffix": "℃-ute＆スマイレージライブ",
+              "credits": {
+                "出演": "前田憂佳(スマイレージ)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "矢島TIME",
+              "duration": "08:18",
+              "suffix": "自宅で愛犬を紹介",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "新垣TIME",
+              "duration": "12:41",
+              "suffix": "9期メンバーと「歌詞でど〜ん」",
+              "credits": {
+                "出演": "新垣里沙(モーニング娘。)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "福田TIME",
+              "duration": "06:44",
+              "suffix": "大阪のお好み焼き屋",
+              "credits": {
+                "出演": "福田花音(スマイレージ)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "嗣永TIME",
+              "duration": "05:08",
+              "suffix": "雑誌の撮影現場でご満悦",
+              "credits": {
+                "出演": "嗣永桃子(Berryz工房)"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Berryz工房TIME",
+              "duration": "22:45",
+              "suffix": "シアトル初上陸で大興奮",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1118"
+        }
+      ]
+    }
+  ]
+}

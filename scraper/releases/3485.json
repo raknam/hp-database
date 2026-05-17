@@ -1,0 +1,61 @@
+{
+  "id": 3485,
+  "url": "/release/3485/",
+  "title": "Missラブ探偵",
+  "category": "CDシングル",
+  "artist": "W",
+  "releaseDate": "2005.9.7",
+  "label": "zetima",
+  "images": [
+    "/upload/images/fbe961f5dc50f3ae731db7eb29d826a2c092a971.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Missラブ探偵",
+              "duration": "03:19",
+              "credits": {
+                "作詞": "森村メラ",
+                "作曲": "JOEYCARBONE＆STEVENLEE",
+                "編曲": "MOTOG3",
+                "歌": "W"
+              }
+            },
+            {
+              "index": 2,
+              "title": "FRIENDSHIP",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "森村メラ",
+                "作曲": "JOEYCARBONE",
+                "編曲": "MOTOG3",
+                "歌": "W"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Missラブ探偵",
+              "duration": "03:19",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "森村メラ",
+                "作曲": "JOEYCARBONE＆STEVENLEE",
+                "編曲": "MOTOG3",
+                "歌": "W"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5373"
+        }
+      ]
+    }
+  ]
+}

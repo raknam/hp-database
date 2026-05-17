@@ -1,0 +1,108 @@
+{
+  "code": "EPBE-5242",
+  "url": "/release/detail/EPBE-5242/",
+  "source": "upfront",
+  "title": "ラブハロ！ 高橋 愛 DVD",
+  "category": "DVD",
+  "artist": "高橋愛",
+  "releaseDate": "2007/04/11",
+  "label": "zetima",
+  "images": [
+    "/images/dbf64cd0c16d125eb4e9412d2746f9462629760d.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/dbf64cd0c16d125eb4e9412d2746f9462629760d.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5242",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "00:15"
+            },
+            {
+              "index": 2,
+              "title": "Shopping",
+              "duration": "08:37"
+            },
+            {
+              "index": 3,
+              "title": "Beach",
+              "duration": "06:14"
+            },
+            {
+              "index": 4,
+              "title": "Tuk Tuk",
+              "duration": "01:48"
+            },
+            {
+              "index": 5,
+              "title": "Massage",
+              "duration": "02:08"
+            },
+            {
+              "index": 6,
+              "title": "Sunset",
+              "duration": "02:13"
+            },
+            {
+              "index": 7,
+              "title": "Dinner",
+              "duration": "06:50"
+            },
+            {
+              "index": 8,
+              "title": "Practice",
+              "duration": "03:50"
+            },
+            {
+              "index": 9,
+              "title": "Elephant",
+              "duration": "04:52"
+            },
+            {
+              "index": 10,
+              "title": "Muay Thai",
+              "duration": "06:59"
+            },
+            {
+              "index": 11,
+              "title": "Lunch",
+              "duration": "01:47"
+            },
+            {
+              "index": 12,
+              "title": "Pool Side",
+              "duration": "03:27"
+            },
+            {
+              "index": 13,
+              "title": "Song",
+              "duration": "04:27"
+            },
+            {
+              "index": 14,
+              "title": "Message",
+              "duration": "01:47"
+            },
+            {
+              "index": 15,
+              "title": "Ending",
+              "duration": "04:37"
+            },
+            {
+              "index": 16,
+              "title": "写真集メイキング",
+              "duration": "07:56"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

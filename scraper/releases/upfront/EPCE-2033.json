@@ -1,0 +1,78 @@
+{
+  "code": "EPCE-2033",
+  "url": "/release/detail/EPCE-2033/",
+  "source": "upfront",
+  "title": "人生それは終わりのない旅",
+  "category": "CDシングル",
+  "artist": "因幡晃",
+  "releaseDate": "2005/08/24",
+  "label": "地中海レーベル",
+  "images": [
+    "/images/da7f0e471aeb5f4bf38a208d1544cadfacd58f73.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/da7f0e471aeb5f4bf38a208d1544cadfacd58f73.jpg",
+      "price": "￥1,257 (税抜価格 ￥1,143)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-2033",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "人生それは終わりのない旅",
+              "duration": "05:11",
+              "credits": {
+                "作詞": "因幡晃",
+                "作曲": "因幡晃",
+                "編曲": "佐藤準"
+              }
+            },
+            {
+              "index": 2,
+              "title": "もう自分に嘘はつけない",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "因幡晃",
+                "作曲": "因幡晃",
+                "編曲": "佐藤準"
+              }
+            },
+            {
+              "index": 3,
+              "title": "わかって下さい(1975年11月16日 日本武道館/第6回世界歌謡祭本選より)",
+              "duration": "05:55",
+              "credits": {
+                "作詞": "因幡晃",
+                "作曲": "因幡晃",
+                "編曲": "船山基紀"
+              }
+            },
+            {
+              "index": 4,
+              "title": "人生それは終わりのない旅(カラオケ)",
+              "duration": "05:10",
+              "credits": {
+                "作詞": "因幡晃",
+                "作曲": "因幡晃",
+                "編曲": "佐藤準"
+              }
+            },
+            {
+              "index": 5,
+              "title": "もう自分に嘘はつけない(カラオケ)",
+              "duration": "05:05",
+              "credits": {
+                "作詞": "因幡晃",
+                "作曲": "因幡晃",
+                "編曲": "佐藤準"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

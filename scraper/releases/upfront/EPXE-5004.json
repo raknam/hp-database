@@ -1,0 +1,63 @@
+{
+  "code": "EPXE-5004",
+  "url": "/release/detail/EPXE-5004/",
+  "source": "upfront",
+  "title": "フィギュア",
+  "category": "BD",
+  "artist": "高橋愛",
+  "releaseDate": "2010/12/22",
+  "label": "zetima",
+  "images": [
+    "/images/2877501e43f050c4b6e61c700b513852eb167178.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/2877501e43f050c4b6e61c700b513852eb167178.jpg",
+      "price": "￥6,285 (税抜価格 ￥5,714)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5004",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "00:33"
+            },
+            {
+              "index": 2,
+              "title": "A girl at cafe",
+              "duration": "02:59"
+            },
+            {
+              "index": 3,
+              "title": "Date with her",
+              "duration": "07:22"
+            },
+            {
+              "index": 4,
+              "title": "Billiards",
+              "duration": "04:34"
+            },
+            {
+              "index": 5,
+              "title": "To the beach",
+              "duration": "08:59"
+            },
+            {
+              "index": 6,
+              "title": "Making of 『形』",
+              "duration": "25:11"
+            },
+            {
+              "index": 7,
+              "title": "Ending",
+              "duration": "04:50"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

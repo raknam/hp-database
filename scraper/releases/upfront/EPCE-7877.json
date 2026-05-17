@@ -1,0 +1,336 @@
+{
+  "code": "EPCE-7877",
+  "url": "/release/detail/EPCE-7877/",
+  "source": "upfront",
+  "title": "嵐のナンバー/花鳥風月 春夏秋冬",
+  "category": "CDシングル",
+  "artist": "佐藤優樹",
+  "releaseDate": "2024/11/06",
+  "label": "zetima",
+  "images": [
+    "/images/e5223952903a14a2d77d9b87eec3fbd736e4b6f9.jpg",
+    "/images/93a13a331493edf433f78951ad57edfd416f1a07.jpg",
+    "/images/aca605f4e0eee7d15ca9d09d367db2417d21be3f.jpg",
+    "/images/9442ad095c4347b3955f679f73c7fdb2fed3b4c8.jpg",
+    "/images/514649574350c9e5c17aa8747685599659198afd.jpg",
+    "/images/1d66b6c6cfb1cb15fd61b2385e3e0ffffc431809.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/e5223952903a14a2d77d9b87eec3fbd736e4b6f9.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7877",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "嵐のナンバー",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Aksel Odenbalk/Albin Hillborg",
+                "編曲": "Aksel Odenbalk/Albin Hillborg"
+              }
+            },
+            {
+              "index": 2,
+              "title": "花鳥風月 春夏秋冬",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "石井健太郎",
+                "編曲": "石井健太郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "嵐のナンバー(Instrumental)",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Aksel Odenbalk/Albin Hillborg",
+                "編曲": "Aksel Odenbalk/Albin Hillborg"
+              }
+            },
+            {
+              "index": 4,
+              "title": "花鳥風月 春夏秋冬(Instrumental)",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "石井健太郎",
+                "編曲": "石井健太郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/93a13a331493edf433f78951ad57edfd416f1a07.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7879",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "嵐のナンバー(Music Video)",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Aksel Odenbalk/Albin Hillborg"
+              }
+            },
+            {
+              "index": 2,
+              "title": "嵐のナンバー(Dance Shot Ver.)",
+              "duration": "03:28",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Aksel Odenbalk/Albin Hillborg"
+              }
+            },
+            {
+              "index": 3,
+              "title": "嵐のナンバー(メイキング映像)",
+              "duration": "10:44"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/images/aca605f4e0eee7d15ca9d09d367db2417d21be3f.jpg",
+      "price": "￥3,500 (税抜価格 ￥3,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7881",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "嵐のナンバー",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Aksel Odenbalk/Albin Hillborg",
+                "編曲": "Aksel Odenbalk/Albin Hillborg"
+              }
+            },
+            {
+              "index": 2,
+              "title": "花鳥風月 春夏秋冬",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "石井健太郎",
+                "編曲": "石井健太郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "嵐のナンバー(Instrumental)",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Aksel Odenbalk/Albin Hillborg",
+                "編曲": "Aksel Odenbalk/Albin Hillborg"
+              }
+            },
+            {
+              "index": 4,
+              "title": "花鳥風月 春夏秋冬(Instrumental)",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "石井健太郎",
+                "編曲": "石井健太郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/9442ad095c4347b3955f679f73c7fdb2fed3b4c8.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7883",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "花鳥風月 春夏秋冬(Music Video)",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "石井健太郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "花鳥風月 春夏秋冬(Dance Shot Ver.)",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "石井健太郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "花鳥風月 春夏秋冬(メイキング映像)",
+              "duration": "11:45"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/514649574350c9e5c17aa8747685599659198afd.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7884",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "嵐のナンバー",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Aksel Odenbalk/Albin Hillborg",
+                "編曲": "Aksel Odenbalk/Albin Hillborg"
+              }
+            },
+            {
+              "index": 2,
+              "title": "花鳥風月 春夏秋冬",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "石井健太郎",
+                "編曲": "石井健太郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "嵐のナンバー(Instrumental)",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Aksel Odenbalk/Albin Hillborg",
+                "編曲": "Aksel Odenbalk/Albin Hillborg"
+              }
+            },
+            {
+              "index": 4,
+              "title": "花鳥風月 春夏秋冬(Instrumental)",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "石井健太郎",
+                "編曲": "石井健太郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/images/1d66b6c6cfb1cb15fd61b2385e3e0ffffc431809.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7885",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ロマンティックなんてガラじゃない",
+              "duration": "03:41",
+              "credits": {
+                "作詞": "zopp",
+                "作曲": "Shusui/Anders Dannvik"
+              }
+            },
+            {
+              "index": 2,
+              "title": "グリーン・フラワー",
+              "duration": "02:46",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "平川達也"
+              }
+            },
+            {
+              "index": 3,
+              "title": "サウダージ",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "ハルイチ",
+                "作曲": "ak.homma"
+              }
+            },
+            {
+              "index": 4,
+              "title": "恋の花",
+              "duration": "02:53",
+              "credits": {
+                "作詞": "BULGE",
+                "作曲": "BULGE"
+              }
+            },
+            {
+              "index": 5,
+              "title": "抱いてよ！ PLEASE GO ON",
+              "duration": "02:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "夢に出てこないでよ",
+              "duration": "02:43",
+              "credits": {
+                "作詞": "zopp",
+                "作曲": "Shusui/Anders Dannvik"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Ding Dong",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "徳田光希"
+              }
+            },
+            {
+              "index": 8,
+              "title": "愛のサバイバー",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Jean Luc Ponpon/星部ショウ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "code": "EPCE-5580",
+  "url": "/release/detail/EPCE-5580/",
+  "source": "upfront",
+  "title": "タンタンターン！",
+  "category": "CDシングル",
+  "artist": "MilkyWay",
+  "releaseDate": "2008/10/29",
+  "label": "zetima",
+  "images": [
+    "/images/f1fe44ffed063b3ec8d8f60e9dd76a0bb5dde610.jpg",
+    "/images/de45ebe301c90c5cb3063115cd677fa191679f72.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【完全生産限定盤】",
+      "image": "/images/f1fe44ffed063b3ec8d8f60e9dd76a0bb5dde610.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5580",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "タンタンターン！",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "前山田健一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ガムシャララ",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "村井大",
+                "編曲": "村井大"
+              }
+            },
+            {
+              "index": 3,
+              "title": "タンタンターン！(Instrumental)",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "前山田健一"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/de45ebe301c90c5cb3063115cd677fa191679f72.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5581",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "タンタンターン！",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "前山田健一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ガムシャララ",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "村井大",
+                "編曲": "村井大"
+              }
+            },
+            {
+              "index": 3,
+              "title": "タンタンターン！(Instrumental)",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "前山田健一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

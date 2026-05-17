@@ -1,0 +1,51 @@
+{
+  "code": "HKBN-50069",
+  "url": "/release/detail/HKBN-50069/",
+  "source": "upfront",
+  "title": "シングルV「ザ・ストレス」",
+  "category": "DVDシングルV",
+  "artist": "安倍なつみ",
+  "releaseDate": "2006/07/26",
+  "label": "hachama",
+  "images": [
+    "/images/5cb4000e2980c122fd1c3f0ea3336fe41f552b6e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/5cb4000e2980c122fd1c3f0ea3336fe41f552b6e.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "HKBN-50069",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ザ・ストレス",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "斉藤英夫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ザ・ストレス(Dance Shot Ver.)",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "斉藤英夫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "07:40"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

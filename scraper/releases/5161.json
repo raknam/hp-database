@@ -1,0 +1,75 @@
+{
+  "id": 5161,
+  "url": "/release/5161/",
+  "title": "Greeting〜藤井梨央・小川麗奈〜",
+  "category": "BD",
+  "artist": "藤井梨央/小川麗奈",
+  "releaseDate": "2017.2.23",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/e1ebf8b47d27ce2a1d9073380e5870a5a2e97f01.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Good Friends",
+              "duration": "18:18",
+              "credits": {
+                "出演": "藤井梨央・小川麗奈(こぶしファクトリー)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Cake Decorating",
+              "duration": "08:49",
+              "credits": {
+                "出演": "藤井梨央・小川麗奈(こぶしファクトリー)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Interveiw",
+              "duration": "16:17",
+              "credits": {
+                "出演": "藤井梨央・小川麗奈(こぶしファクトリー)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Bowling Duel",
+              "duration": "09:45",
+              "credits": {
+                "出演": "藤井梨央・小川麗奈(こぶしファクトリー)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Making",
+              "duration": "14:30",
+              "credits": {
+                "出演": "藤井梨央・小川麗奈(こぶしファクトリー)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "02:55",
+              "credits": {
+                "出演": "藤井梨央・小川麗奈(こぶしファクトリー)"
+              }
+            }
+          ],
+          "catalogNo": "UFXW-2018"
+        }
+      ]
+    }
+  ]
+}

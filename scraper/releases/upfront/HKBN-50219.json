@@ -1,0 +1,53 @@
+{
+  "code": "HKBN-50219",
+  "url": "/release/detail/HKBN-50219/",
+  "source": "upfront",
+  "title": "演劇女子部 「夢見るテレビジョン」",
+  "category": "DVD",
+  "artist": "アンジュルム",
+  "releaseDate": "2018/01/24",
+  "label": "hachama",
+  "images": [
+    "/images/6b700dd7332a39c7b27655527e433ca043545733.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/6b700dd7332a39c7b27655527e433ca043545733.jpg",
+      "price": "￥6,112 (税抜価格 ￥5,556)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKBN-50219",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Chapter 1",
+              "duration": "33:38"
+            },
+            {
+              "index": 2,
+              "title": "Chapter 2",
+              "duration": "20:30"
+            },
+            {
+              "index": 3,
+              "title": "Chapter 3",
+              "duration": "19:11"
+            },
+            {
+              "index": 4,
+              "title": "Chapter 4",
+              "duration": "31:23"
+            },
+            {
+              "index": 5,
+              "title": "スリーミニッツ・トークショー",
+              "duration": "09:44"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "id": 5656,
+  "url": "/release/5656/",
+  "title": "Are you Happy?/A gonna",
+  "category": "CDシングル",
+  "artist": "モーニング娘。'18",
+  "releaseDate": "2018.6.13",
+  "label": "zetima",
+  "images": [
+    "/upload/images/ee4e2e678a87e40400f2dcd2ca1c2b4d2c96dfed.webp",
+    "/upload/images/a343c40b0d20bbff50d8f9924f52f59c0f4f0e63.webp",
+    "/upload/images/175bb087368f009b95dc5592a4e62c844a841df1.webp",
+    "/upload/images/b1e7d08bc1c6c2915fcdae5c0d789351f707d466.webp",
+    "/upload/images/34187e5daab81e0b21734b425f05d22e4e5faae0.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/ee4e2e678a87e40400f2dcd2ca1c2b4d2c96dfed.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Are you Happy?",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 2,
+              "title": "A gonna",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Are you Happy?",
+              "duration": "04:16",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 4,
+              "title": "A gonna",
+              "duration": "03:37",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'18"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7398"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Are you Happy?",
+              "duration": "05:16",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'18"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/a343c40b0d20bbff50d8f9924f52f59c0f4f0e63.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Are you Happy?",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 2,
+              "title": "A gonna",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Are you Happy?",
+              "duration": "04:16",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 4,
+              "title": "A gonna",
+              "duration": "03:37",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'18"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7400"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "A gonna",
+              "duration": "04:16",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'18"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/upload/images/175bb087368f009b95dc5592a4e62c844a841df1.webp",
+      "price": "￥1,870（税抜価格 ￥1,700）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Are you Happy?",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 2,
+              "title": "A gonna",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Are you Happy?",
+              "duration": "04:16",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 4,
+              "title": "A gonna",
+              "duration": "03:37",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'18"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7402"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Are you Happy?",
+              "duration": "04:24",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 2,
+              "title": "A gonna",
+              "duration": "03:46",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 3,
+              "title": "「Are you Happy?」MV撮影メイキング映像",
+              "duration": "13:46",
+              "credits": {
+                "出演": "モーニング娘。'18"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選応募券"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/b1e7d08bc1c6c2915fcdae5c0d789351f707d466.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Are you Happy?",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 2,
+              "title": "A gonna",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Are you Happy?",
+              "duration": "04:16",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 4,
+              "title": "A gonna",
+              "duration": "03:37",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'18"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7404"
+        }
+      ],
+      "note": "トレーディングカードソロ13種＋集合1種よりランダムにて1枚封入(Are you Happy? Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/34187e5daab81e0b21734b425f05d22e4e5faae0.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Are you Happy?",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 2,
+              "title": "A gonna",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Are you Happy?",
+              "duration": "04:16",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 4,
+              "title": "A gonna",
+              "duration": "03:37",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'18"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7405"
+        }
+      ],
+      "note": "トレーディングカードソロ13種＋集合1種よりランダムにて1枚封入(A gonna Ver.)※初回プレス分のみ"
+    }
+  ]
+}

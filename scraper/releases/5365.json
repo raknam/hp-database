@@ -1,0 +1,38 @@
+{
+  "id": 5365,
+  "url": "/release/5365/",
+  "title": "おバカねこと おバカねこバカのうた",
+  "category": "配信",
+  "artist": "飯窪春菜(モーニング娘。’17)、金澤朋子(Juice=Juice)",
+  "releaseDate": "2017.7.14",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/5ca277ec60c9098f3ebfd363540428dfff540f05.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "おバカねこと おバカねこバカのうた",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "桑原永江",
+                "作曲": "佐藤晃",
+                "編曲": "佐藤晃",
+                "歌": "飯窪春菜(モーニング娘。'17)、金澤朋子(Juice=Juice)"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1343"
+        }
+      ]
+    }
+  ]
+}

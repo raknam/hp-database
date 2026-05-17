@@ -1,0 +1,379 @@
+{
+  "code": "EPCE-7376",
+  "url": "/release/detail/EPCE-7376/",
+  "source": "upfront",
+  "title": "低温火傷/春恋歌/I Need You ～夜空の観覧車～",
+  "category": "CDシングル",
+  "artist": "つばきファクトリー",
+  "releaseDate": "2018/02/21",
+  "label": "zetima",
+  "images": [
+    "/images/98be406df04a0083d0dffa0a08d5ba4958477a2b.jpg",
+    "/images/f9ec8ab790730316a0d3098040c0c96605c4a94f.jpg",
+    "/images/12f2c24a49b797a38e117ea75c84b8259fa8551b.jpg",
+    "/images/9ee396d4b57009c45b1a4eab56ef86f86966176e.jpg",
+    "/images/0499c2914c1c84f17cf0d9d22fde5bddbdfe3979.jpg",
+    "/images/a5bd397b33f06ffacb6324cd79e91a8993cb6f1b.jpg",
+    "/images/2883040208dd884eb1e7d23e0e562b2b2e605927.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/98be406df04a0083d0dffa0a08d5ba4958477a2b.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7376",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "低温火傷",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大橋莉子",
+                "編曲": "近藤圭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "春恋歌",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "鈴木秋則",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "I Need You ～夜空の観覧車～",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "浜田ピエール裕介"
+              }
+            },
+            {
+              "index": 4,
+              "title": "低温火傷(Instrumental)",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大橋莉子",
+                "編曲": "近藤圭一"
+              }
+            },
+            {
+              "index": 5,
+              "title": "春恋歌(Instrumental)",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "鈴木秋則",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 6,
+              "title": "I Need You ～夜空の観覧車～(Instrumental)",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "浜田ピエール裕介"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/f9ec8ab790730316a0d3098040c0c96605c4a94f.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7378",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "低温火傷(Music Video)",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大橋莉子"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/images/12f2c24a49b797a38e117ea75c84b8259fa8551b.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7380",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "低温火傷",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大橋莉子",
+                "編曲": "近藤圭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "春恋歌",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "鈴木秋則",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "I Need You ～夜空の観覧車～",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "浜田ピエール裕介"
+              }
+            },
+            {
+              "index": 4,
+              "title": "低温火傷(Instrumental)",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大橋莉子",
+                "編曲": "近藤圭一"
+              }
+            },
+            {
+              "index": 5,
+              "title": "春恋歌(Instrumental)",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "鈴木秋則",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 6,
+              "title": "I Need You ～夜空の観覧車～(Instrumental)",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "浜田ピエール裕介"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/images/9ee396d4b57009c45b1a4eab56ef86f86966176e.jpg",
+      "price": "￥1,980 (税抜価格 ￥1,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7382",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "春恋歌(Music Video)",
+              "duration": "05:28",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "鈴木秋則"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/0499c2914c1c84f17cf0d9d22fde5bddbdfe3979.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7384",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "低温火傷",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大橋莉子",
+                "編曲": "近藤圭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "春恋歌",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "鈴木秋則",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "I Need You ～夜空の観覧車～",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "浜田ピエール裕介"
+              }
+            },
+            {
+              "index": 4,
+              "title": "低温火傷(Instrumental)",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大橋莉子",
+                "編曲": "近藤圭一"
+              }
+            },
+            {
+              "index": 5,
+              "title": "春恋歌(Instrumental)",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "鈴木秋則",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 6,
+              "title": "I Need You ～夜空の観覧車～(Instrumental)",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "浜田ピエール裕介"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/a5bd397b33f06ffacb6324cd79e91a8993cb6f1b.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7385",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "I Need You ～夜空の観覧車～(Music Video)",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/images/2883040208dd884eb1e7d23e0e562b2b2e605927.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7386",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "低温火傷",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大橋莉子",
+                "編曲": "近藤圭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "春恋歌",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "鈴木秋則",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "I Need You ～夜空の観覧車～",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "浜田ピエール裕介"
+              }
+            },
+            {
+              "index": 4,
+              "title": "低温火傷(Instrumental)",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大橋莉子",
+                "編曲": "近藤圭一"
+              }
+            },
+            {
+              "index": 5,
+              "title": "春恋歌(Instrumental)",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "鈴木秋則",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 6,
+              "title": "I Need You ～夜空の観覧車～(Instrumental)",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "浜田ピエール裕介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

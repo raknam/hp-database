@@ -1,0 +1,499 @@
+{
+  "id": 6991,
+  "url": "/release/6991/",
+  "title": "プライド・ブライト/FUNKY FLUSHIN'",
+  "category": "CDシングル",
+  "artist": "Juice=Juice",
+  "releaseDate": "2023.7.12",
+  "label": "hachama",
+  "images": [
+    "/upload/images/04879dcc098d4ec42ce5a9bc7d6ec56363fa367a.webp",
+    "/upload/images/cd9be6bba470d715b0686374e5090831eb41e5b7.webp",
+    "/upload/images/525091bef5288c05f743d2d20ab12f28a8751278.webp",
+    "/upload/images/b21ef8ae0fad1892cffdfb0edb06a284717f06a1.webp",
+    "/upload/images/c043c448c775c1e2ab9736e86767061f1a6ee51c.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/04879dcc098d4ec42ce5a9bc7d6ec56363fa367a.webp",
+      "price": "￥2,090（税抜価格 ￥1,900）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プライド・ブライト",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "FUNKY FLUSHIN'",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "吉田美奈子",
+                "作曲": "山下達郎",
+                "編曲": "Aksel Odenbalk",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "プライド・ブライト",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "FUNKY FLUSHIN'",
+              "duration": "04:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "吉田美奈子",
+                "作曲": "山下達郎",
+                "編曲": "Aksel Odenbalk",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50766"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プライド・ブライト",
+              "duration": "04:34",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "プライド・ブライト",
+              "duration": "03:55",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "プライド・ブライト",
+              "duration": "15:00",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付(プライド・ブライトMV＋Dance Shot Ver.＋メイキング映像)"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/cd9be6bba470d715b0686374e5090831eb41e5b7.webp",
+      "price": "￥2,090（税抜価格 ￥1,900）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プライド・ブライト",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "FUNKY FLUSHIN'",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "吉田美奈子",
+                "作曲": "山下達郎",
+                "編曲": "Aksel Odenbalk",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "プライド・ブライト",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "FUNKY FLUSHIN'",
+              "duration": "04:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "吉田美奈子",
+                "作曲": "山下達郎",
+                "編曲": "Aksel Odenbalk",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50768"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "FUNKY FLUSHIN'",
+              "duration": "04:44",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "吉田美奈子",
+                "作曲": "山下達郎",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "FUNKY FLUSHIN'",
+              "duration": "04:04",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "吉田美奈子",
+                "作曲": "山下達郎",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "FUNKY FLUSHIN'",
+              "duration": "13:21",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付(FUNKY FLUSHIN'MV＋Dance Shot Ver.＋メイキング映像)"
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/upload/images/525091bef5288c05f743d2d20ab12f28a8751278.webp",
+      "price": "￥3,850（税抜価格 ￥3,500）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プライド・ブライト",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "FUNKY FLUSHIN'",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "吉田美奈子",
+                "作曲": "山下達郎",
+                "編曲": "Aksel Odenbalk",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "プライド・ブライト",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "FUNKY FLUSHIN'",
+              "duration": "04:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "吉田美奈子",
+                "作曲": "山下達郎",
+                "編曲": "Aksel Odenbalk",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50770"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:49",
+              "credits": {
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "CHOICE & CHANCE",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "愛のダイビング",
+              "duration": "03:28",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "MC",
+              "duration": "00:59",
+              "credits": {
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "全部賭けてGO!!",
+              "duration": "02:32",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "徳田光希",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "プラトニック・プラネット",
+              "duration": "02:00",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "炭竃智弘",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 7,
+              "title": "TOKYOグライダー",
+              "duration": "02:12",
+              "credits": {
+                "作詞": "唐沢美帆",
+                "作曲": "星部ショウ",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Fiesta! Fiesta!",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "エリック・フクサキ",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 9,
+              "title": "「ひとりで生きられそう」って それってねえ、褒めているの？",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 10,
+              "title": "ロマンスの途中",
+              "duration": "05:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 11,
+              "title": "バックステージ映像",
+              "duration": "11:21",
+              "credits": {
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "COUNTDOWN JAPAN 22/23(12月29日 幕張メッセ国際展示場)"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/b21ef8ae0fad1892cffdfb0edb06a284717f06a1.webp",
+      "price": "定価 ￥1,200（税抜価格 ￥1,091）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プライド・ブライト",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "FUNKY FLUSHIN'",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "吉田美奈子",
+                "作曲": "山下達郎",
+                "編曲": "Aksel Odenbalk",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "プライド・ブライト",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "FUNKY FLUSHIN'",
+              "duration": "04:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "吉田美奈子",
+                "作曲": "山下達郎",
+                "編曲": "Aksel Odenbalk",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50772"
+        }
+      ],
+      "note": "トレーディングカードソロ10種＋集合1種よりランダムにて1枚封入(プライド・ブライト Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/c043c448c775c1e2ab9736e86767061f1a6ee51c.webp",
+      "price": "定価 ￥1,200（税抜価格 ￥1,091）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プライド・ブライト",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "FUNKY FLUSHIN'",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "吉田美奈子",
+                "作曲": "山下達郎",
+                "編曲": "Aksel Odenbalk",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "プライド・ブライト",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "FUNKY FLUSHIN'",
+              "duration": "04:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "吉田美奈子",
+                "作曲": "山下達郎",
+                "編曲": "Aksel Odenbalk",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50773"
+        }
+      ],
+      "note": "トレーディングカードソロ10種＋集合1種よりランダムにて1枚封入(FUNKY FLUSHIN' Ver.)※初回プレス分のみ"
+    }
+  ]
+}

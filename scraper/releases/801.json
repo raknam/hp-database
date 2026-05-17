@@ -1,0 +1,134 @@
+{
+  "id": 801,
+  "url": "/release/801/",
+  "title": "あっぱれ回転ずし！",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2010.10.27",
+  "label": "zetima",
+  "images": [
+    "/upload/images/c6bb46a51f26674afc2cb8a6eba5f7ff501ef3ee.webp",
+    "/upload/images/75ee164514a8c175cc0ac3f160bc2dbd18d9a78a.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/upload/images/c6bb46a51f26674afc2cb8a6eba5f7ff501ef3ee.webp",
+      "price": "定価 ￥1,320（税抜価格 ￥1,200）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "あっぱれ回転ずし！",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "くら寿司 ビッくらポン！",
+              "duration": "02:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "あっぱれ回転ずし！",
+              "duration": "03:50",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 4,
+              "title": "くら寿司 ビッくらポン！",
+              "duration": "02:12",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5730"
+        }
+      ],
+      "note": "24Pブックレット付"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/75ee164514a8c175cc0ac3f160bc2dbd18d9a78a.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "あっぱれ回転ずし！",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "くら寿司 ビッくらポン！",
+              "duration": "02:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "あっぱれ回転ずし！",
+              "duration": "03:50",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 4,
+              "title": "くら寿司 ビッくらポン！",
+              "duration": "02:12",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5731"
+        }
+      ]
+    }
+  ]
+}

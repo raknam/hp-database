@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-5278",
+  "url": "/release/detail/EPCE-5278/",
+  "source": "upfront",
+  "title": "風信子(ヒヤシンス)",
+  "category": "CDシングル",
+  "artist": "松浦亜弥",
+  "releaseDate": "2004/03/10",
+  "label": "zetima",
+  "images": [
+    "/images/f632b45483b686226cba5485b537432d6a1b2283.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f632b45483b686226cba5485b537432d6a1b2283.jpg",
+      "price": "￥1,430 (税抜価格 ￥1,300)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5278",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "風信子(ヒヤシンス)",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "谷村新司",
+                "作曲": "谷村新司",
+                "編曲": "小島久政"
+              }
+            },
+            {
+              "index": 2,
+              "title": "逢いたくて",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "谷村新司",
+                "作曲": "谷村新司",
+                "編曲": "小島久政"
+              }
+            },
+            {
+              "index": 3,
+              "title": "初恋",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "風信子(ヒヤシンス)〜Instrumental〜",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "谷村新司",
+                "作曲": "谷村新司",
+                "編曲": "小島久政"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

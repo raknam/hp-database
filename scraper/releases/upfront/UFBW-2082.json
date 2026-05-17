@@ -1,0 +1,58 @@
+{
+  "code": "UFBW-2082",
+  "url": "/release/detail/UFBW-2082/",
+  "source": "upfront",
+  "title": "Take in spring",
+  "category": "DVD",
+  "artist": "竹内朱莉",
+  "releaseDate": "2013/03/30",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/fe51e252d2f7782d5ccaf09f1cf6e4b97fb33aef.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/fe51e252d2f7782d5ccaf09f1cf6e4b97fb33aef.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2082",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "00:22"
+            },
+            {
+              "index": 2,
+              "title": "Local Station",
+              "duration": "12:34"
+            },
+            {
+              "index": 3,
+              "title": "Seaside",
+              "duration": "13:25"
+            },
+            {
+              "index": 4,
+              "title": "Colors of spring",
+              "duration": "14:54"
+            },
+            {
+              "index": 5,
+              "title": "Making of 「Take in spring」",
+              "duration": "09:08"
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "00:58"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

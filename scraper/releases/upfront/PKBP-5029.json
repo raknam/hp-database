@@ -1,0 +1,51 @@
+{
+  "code": "PKBP-5029",
+  "url": "/release/detail/PKBP-5029/",
+  "source": "upfront",
+  "title": "シングルV「スッペシャル ジェネレ〜ション」",
+  "category": "DVDシングルV",
+  "artist": "Berryz工房",
+  "releaseDate": "2005/04/20",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/6364fd5d79b1ff779976f06d8bff6b1c2f854284.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/6364fd5d79b1ff779976f06d8bff6b1c2f854284.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "PKBP-5029",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "スッペシャル ジェネレ〜ション",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "スッペシャル ジェネレ〜ション(Dance Shot Ver.)",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "10:12"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

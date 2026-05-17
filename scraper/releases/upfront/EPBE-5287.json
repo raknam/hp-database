@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5287",
+  "url": "/release/detail/EPBE-5287/",
+  "source": "upfront",
+  "title": "シングルV「リゾナント ブルー」",
+  "category": "DVDシングルV",
+  "artist": "モーニング娘。",
+  "releaseDate": "2008/04/23",
+  "label": "zetima",
+  "images": [
+    "/images/829c7b3b883700d22b45e847bf4c1b07db95000a.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/829c7b3b883700d22b45e847bf4c1b07db95000a.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5287",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "リゾナント ブルー",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "リゾナント ブルー(Night Scene Ver.)",
+              "duration": "05:08",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "14:51"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "code": "HKXN-50049",
+  "url": "/release/detail/HKXN-50049/",
+  "source": "upfront",
+  "title": "Take It Early",
+  "category": "BD",
+  "artist": "植村あかり",
+  "releaseDate": "2016/08/17",
+  "label": "hachama",
+  "images": [
+    "/images/8ce9f1b5353a01f8d0ef2f1d8fcd368f0bd486b5.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/8ce9f1b5353a01f8d0ef2f1d8fcd368f0bd486b5.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKXN-50049",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Happy Plan",
+              "duration": "09:01"
+            },
+            {
+              "index": 2,
+              "title": "Secret Beach",
+              "duration": "16:17"
+            },
+            {
+              "index": 3,
+              "title": "Favorite Route",
+              "duration": "10:38"
+            },
+            {
+              "index": 4,
+              "title": "Making of 「AKARI Ⅱ」",
+              "duration": "12:26"
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "01:47"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

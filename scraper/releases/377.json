@@ -1,0 +1,43 @@
+{
+  "id": 377,
+  "url": "/release/377/",
+  "title": "ハロプロアワー Vol.7",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2007.3.7",
+  "label": "zetima",
+  "images": [
+    "/upload/images/8384ac9536cdbc081792cca752cea8cc6d5c96a2.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "♯15",
+              "duration": "27:58",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "♯16",
+              "duration": "28:10",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5231"
+        }
+      ]
+    }
+  ]
+}

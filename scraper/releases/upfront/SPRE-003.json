@@ -1,0 +1,58 @@
+{
+  "code": "SPRE-003",
+  "url": "/release/detail/SPRE-003/",
+  "source": "upfront",
+  "title": "雪景色",
+  "category": "CDシングル",
+  "artist": "カントリー娘。",
+  "releaseDate": "1999/11/30",
+  "label": "SPREE RECORD",
+  "images": [
+    "/images/4d1fcfa79545fb8cf53a3279b9d9226af77902d5.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/4d1fcfa79545fb8cf53a3279b9d9226af77902d5.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "SPRE-003",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "雪景色",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "雪だより",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "雪景色(Instrumental)",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

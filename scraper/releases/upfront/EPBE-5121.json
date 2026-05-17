@@ -1,0 +1,48 @@
+{
+  "code": "EPBE-5121",
+  "url": "/release/detail/EPBE-5121/",
+  "source": "upfront",
+  "title": "ミニモニ。でブレーメンの音楽隊 Vol.1",
+  "category": "DVD",
+  "artist": "ミニモニ｡",
+  "releaseDate": "2004/04/28",
+  "label": "zetima",
+  "images": [
+    "/images/0bb81f70f785dcac6f392a1597a7d2b608c260ef.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/0bb81f70f785dcac6f392a1597a7d2b608c260ef.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5121",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "第1回 ドンキーの憂うつ",
+              "duration": "24:56"
+            },
+            {
+              "index": 2,
+              "title": "第2回 ドンキーが八つ当たり",
+              "duration": "24:56"
+            },
+            {
+              "index": 3,
+              "title": "第3回 ドンキーは本気",
+              "duration": "24:56"
+            },
+            {
+              "index": 4,
+              "title": "第4回 ドンキーで晴れ舞台",
+              "duration": "25:07"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

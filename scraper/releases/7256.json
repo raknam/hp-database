@@ -1,0 +1,71 @@
+{
+  "id": 7256,
+  "url": "/release/7256/",
+  "title": "トウキョウ・ブラー/ナイモノラブ/おあいこ(Special Edition)",
+  "category": "配信",
+  "artist": "Juice=Juice",
+  "releaseDate": "2024.5.15",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/ee8e6d06925fd962cbfdfb95b435a02560993d22.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "トウキョウ・ブラー",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Erik Lidbom",
+                "編曲": "Erik Lidbom",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ナイモノラブ",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "SUIMI",
+                "作曲": "渡辺泰司",
+                "編曲": "渡辺泰司",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "おあいこ",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Brilliance of memories",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "浜田ピエール裕介",
+                "歌": "植村あかり(Juice=Juice)"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1534"
+        }
+      ]
+    }
+  ]
+}

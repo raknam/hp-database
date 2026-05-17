@@ -1,0 +1,51 @@
+{
+  "code": "HKBN-50017",
+  "url": "/release/detail/HKBN-50017/",
+  "source": "upfront",
+  "title": "シングルV「この胸のときめきを」",
+  "category": "DVDシングルV",
+  "artist": "真野恵里菜",
+  "releaseDate": "2009/10/07",
+  "label": "hachama",
+  "images": [
+    "/images/25f443e907150b4e9836daeaf85a2112b35fc8e1.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/25f443e907150b4e9836daeaf85a2112b35fc8e1.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "HKBN-50017",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "この胸のときめきを",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "畠山俊昭"
+              }
+            },
+            {
+              "index": 2,
+              "title": "この胸のときめきを(Close-up Ver.)",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "畠山俊昭"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "14:47"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

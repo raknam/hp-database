@@ -1,0 +1,71 @@
+{
+  "code": "PKBP-5120",
+  "url": "/release/detail/PKBP-5120/",
+  "source": "upfront",
+  "title": "ベリキュー！Vol.7 〜ウラベリキュー！〜",
+  "category": "DVD",
+  "artist": "Berryz工房×℃-ute",
+  "releaseDate": "2009/08/26",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/14af35c7588def7da6cb34bcdf9c946d11831c49.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/14af35c7588def7da6cb34bcdf9c946d11831c49.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5120",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "2番deベリQ！",
+              "duration": "11:49"
+            },
+            {
+              "index": 2,
+              "title": "イラストdeベリQ！",
+              "duration": "10:29"
+            },
+            {
+              "index": 3,
+              "title": "ロープdeベリQ！",
+              "duration": "08:18"
+            },
+            {
+              "index": 4,
+              "title": "ベリキュー！版「歌ドキッ！」六本木心中",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "湯川れい子",
+                "作曲": "NOBODY(相沢行夫)/NOBODY(木原敏雄)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "マニュアルdeベリQ！",
+              "duration": "10:29"
+            },
+            {
+              "index": 6,
+              "title": "四字熟語deベリQ！",
+              "duration": "13:43"
+            },
+            {
+              "index": 7,
+              "title": "ベリキュー！版「歌ドキッ！」上・京・物・語",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "まこと",
+                "作曲": "はたけ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

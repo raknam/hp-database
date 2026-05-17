@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1460",
+  "url": "/release/detail/UFDL-1460/",
+  "source": "upfront",
+  "title": "Easy To Smile",
+  "category": "配信",
+  "artist": "鈴木愛理",
+  "releaseDate": "2020/08/01",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/4a05a2eeb32027b89266484e3f1a208bbb8bc064.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/4a05a2eeb32027b89266484e3f1a208bbb8bc064.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1460",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Easy To Smile",
+              "duration": "05:12",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "渡辺泰司",
+                "編曲": "渡辺泰司"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

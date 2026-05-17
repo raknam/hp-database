@@ -1,0 +1,68 @@
+{
+  "code": "EPDE-1079",
+  "url": "/release/detail/EPDE-1079/",
+  "source": "upfront",
+  "title": "夢の花/渚のかげろう",
+  "category": "CDシングル",
+  "artist": "Temiyan",
+  "releaseDate": "2000/05/24",
+  "label": "zetima",
+  "images": [
+    "/images/ffa8ad7f72512693971469d62e7612a8711f04ec.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/ffa8ad7f72512693971469d62e7612a8711f04ec.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1079",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夢の花",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "宮手健雄",
+                "作曲": "宮手健雄",
+                "編曲": "Hajimu"
+              }
+            },
+            {
+              "index": 2,
+              "title": "渚のかげろう",
+              "duration": "05:43",
+              "credits": {
+                "作詞": "宮手健雄",
+                "作曲": "宮手健雄",
+                "編曲": "Hajimu/友常正巳"
+              }
+            },
+            {
+              "index": 3,
+              "title": "夢の花(Instrumental)",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "宮手健雄",
+                "作曲": "宮手健雄",
+                "編曲": "Hajimu"
+              }
+            },
+            {
+              "index": 4,
+              "title": "渚のかげろう(Instrumental)",
+              "duration": "05:43",
+              "credits": {
+                "作詞": "宮手健雄",
+                "作曲": "宮手健雄",
+                "編曲": "Hajimu/友常正巳"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

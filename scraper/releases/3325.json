@@ -1,0 +1,61 @@
+{
+  "id": 3325,
+  "url": "/release/3325/",
+  "title": "BABY！ 恋に KNOCK OUT！",
+  "category": "CDシングル",
+  "artist": "プッチモニ",
+  "releaseDate": "2001.2.28",
+  "label": "zetima",
+  "images": [
+    "/upload/images/728672a4a8e218e7c942990f8303d94793ea24cc.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "BABY! 恋に KNOCK OUT!",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄",
+                "歌": "プッチモニ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ワルツ！アヒルが3羽",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "プッチモニ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "BABY! 恋に KNOCK OUT!",
+              "duration": "04:02",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄",
+                "歌": "プッチモニ"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5093"
+        }
+      ]
+    }
+  ]
+}

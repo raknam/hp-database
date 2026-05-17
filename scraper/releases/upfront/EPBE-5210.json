@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5210",
+  "url": "/release/detail/EPBE-5210/",
+  "source": "upfront",
+  "title": "シングルV「バラライカ」",
+  "category": "DVDシングルV",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "releaseDate": "2006/11/08",
+  "label": "zetima",
+  "images": [
+    "/images/59661335246feb7a1407e30f5db7e6ea1fdf1406.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/59661335246feb7a1407e30f5db7e6ea1fdf1406.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5210",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "バラライカ",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "BULGE",
+                "作曲": "迫茂樹"
+              }
+            },
+            {
+              "index": 2,
+              "title": "バラライカ(Dance Shot Ver.)",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "BULGE",
+                "作曲": "迫茂樹"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "07:42"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

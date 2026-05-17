@@ -1,0 +1,75 @@
+{
+  "id": 2196,
+  "url": "/release/2196/",
+  "title": "sweet kana",
+  "category": "DVD",
+  "artist": "中西香菜",
+  "releaseDate": "2013.10.3",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/292929ba1ad2e620aed7a5fb2879a6a81b719891.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "00:43",
+              "credits": {
+                "出演": "中西香菜(スマイレージ)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "A balmy breeze",
+              "duration": "14:25",
+              "credits": {
+                "出演": "中西香菜(スマイレージ)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "A little break",
+              "duration": "14:32",
+              "credits": {
+                "出演": "中西香菜(スマイレージ)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Rainy days",
+              "duration": "14:23",
+              "credits": {
+                "出演": "中西香菜(スマイレージ)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Making movie",
+              "duration": "07:22",
+              "credits": {
+                "出演": "中西香菜(スマイレージ)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "01:10",
+              "credits": {
+                "出演": "中西香菜(スマイレージ)"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-2089"
+        }
+      ]
+    }
+  ]
+}

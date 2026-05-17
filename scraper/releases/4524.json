@@ -1,0 +1,975 @@
+{
+  "id": 4524,
+  "url": "/release/4524/",
+  "title": "℃maj9",
+  "category": "CDアルバム",
+  "artist": "℃-ute",
+  "releaseDate": "2015.12.23",
+  "label": "zetima",
+  "images": [
+    "/upload/images/3e1fae3ab88fd982def864f6b49d53955baeda08.webp",
+    "/upload/images/eb5c6bf7dcd58802d0a59ab09c42333f4286306a.webp",
+    "/upload/images/b8b1ba91f320956293ff21b00dce800398e7c13e.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/3e1fae3ab88fd982def864f6b49d53955baeda08.webp",
+      "price": "￥5,500（税抜価格 ￥5,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "℃maj9",
+              "duration": "00:35",
+              "credits": {
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アイアンハート",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE/草野将史",
+                "編曲": "草野将史",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "男と女とForever",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介/ブラスアレンジ:竹上良成",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "情熱エクスタシー",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "中村佳紀",
+                "作曲": "中村佳紀",
+                "編曲": "中村佳紀",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "デジタリック→0 (LOVE)",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "Jean Luc Ponpon",
+                "編曲": "Jean Luc Ponpon",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 6,
+              "title": "羨んじゃう",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "YASUSHI WATANABE",
+                "編曲": "YASUSHI WATANABE",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 7,
+              "title": "夜風のMessage",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "近藤薫",
+                "作曲": "近藤薫",
+                "編曲": "近藤薫・HASSE",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 8,
+              "title": "都会の一人暮らし",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 9,
+              "title": "愛ってもっと斬新",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 10,
+              "title": "心の叫びを歌にしてみた",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 11,
+              "title": "Love take it all",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "宅見将典",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 12,
+              "title": "The Power",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "KOH",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 13,
+              "title": "悲しきヘブン",
+              "duration": "04:01",
+              "suffix": "(Single Version)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 14,
+              "title": "I miss you",
+              "duration": "03:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "楊慶豪",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 15,
+              "title": "THE FUTURE",
+              "duration": "03:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 16,
+              "title": "The Middle Management〜女性中間管理職〜",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "Daniel Merlot / Aurelien Poudat / Hyon D / Takanori Tsunoda / Stefan Broadley",
+                "編曲": "Daniel Merlot / Aurelien Poudat / Hyon D / Takanori Tsunoda / Stefan Broadley",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 17,
+              "title": "次の角を曲がれ",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "鈴木Daichi秀行/ストリングスアレンジ:クラッシャー木村",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 18,
+              "title": "我武者LIFE",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "KOUGA supported by SHOCK EYE",
+                "編曲": "soundbreakers",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 19,
+              "title": "℃maj9 (reprise)",
+              "duration": "00:32",
+              "credits": {
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7158"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:39",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "かっちょ良い歌",
+              "duration": "02:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Love take it all",
+              "duration": "02:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "MC",
+              "duration": "00:58",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "The Middle Management〜女性中間管理職〜",
+              "duration": "03:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "DANIEL MERLOT / AURELIEN POUDAT / HYON D / TAKANORI TSUNODA / STEFAN BROADLEY",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 6,
+              "title": "THE FUTURE",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 7,
+              "title": "The Power",
+              "duration": "02:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 8,
+              "title": "MC",
+              "duration": "05:15",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 9,
+              "title": "キャンパスライフ〜生まれて来てよかった〜",
+              "duration": "02:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 10,
+              "title": "桜チラリ",
+              "duration": "02:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 11,
+              "title": "別れたくない…",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 12,
+              "title": "MC",
+              "duration": "00:13",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 13,
+              "title": "次の角を曲がれ",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 14,
+              "title": "Please, love me more!",
+              "duration": "03:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 15,
+              "title": "涙の色",
+              "duration": "03:05",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 16,
+              "title": "Midnight Temptation",
+              "duration": "03:05",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 17,
+              "title": "愛ってもっと斬新",
+              "duration": "02:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 18,
+              "title": "都会っ子 純情",
+              "duration": "03:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 19,
+              "title": "Kiss me 愛してる",
+              "duration": "03:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 20,
+              "title": "Danceでバコーン！",
+              "duration": "02:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 21,
+              "title": "MC",
+              "duration": "00:12",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 22,
+              "title": "僕らの輝き",
+              "duration": "02:45",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 23,
+              "title": "超WONDERFUL!",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 24,
+              "title": "MC",
+              "duration": "05:31",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 25,
+              "title": "SHINES",
+              "duration": "05:46",
+              "suffix": "【Encore】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD(ナルチカ2015 ℃-ute 5/29@恵比寿LIQUIDROOM)"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/eb5c6bf7dcd58802d0a59ab09c42333f4286306a.webp",
+      "price": "￥4,400（税抜価格 ￥4,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "℃maj9",
+              "duration": "00:35",
+              "credits": {
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アイアンハート",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE/草野将史",
+                "編曲": "草野将史",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "男と女とForever",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介/ブラスアレンジ:竹上良成",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "情熱エクスタシー",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "中村佳紀",
+                "作曲": "中村佳紀",
+                "編曲": "中村佳紀",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "デジタリック→0 (LOVE)",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "Jean Luc Ponpon",
+                "編曲": "Jean Luc Ponpon",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 6,
+              "title": "羨んじゃう",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "YASUSHI WATANABE",
+                "編曲": "YASUSHI WATANABE",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 7,
+              "title": "夜風のMessage",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "近藤薫",
+                "作曲": "近藤薫",
+                "編曲": "近藤薫/HASSE",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 8,
+              "title": "都会の一人暮らし",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 9,
+              "title": "愛ってもっと斬新",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 10,
+              "title": "心の叫びを歌にしてみた",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 11,
+              "title": "Love take it all",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "宅見将典",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 12,
+              "title": "The Power",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "KOH",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 13,
+              "title": "悲しきヘブン",
+              "duration": "04:01",
+              "suffix": "(Single Version)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 14,
+              "title": "I miss you",
+              "duration": "03:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "楊慶豪",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 15,
+              "title": "THE FUTURE",
+              "duration": "03:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 16,
+              "title": "The Middle Management〜女性中間管理職〜",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "Daniel Merlot / Aurelien Poudat / Hyon D / Takanori Tsunoda / Stefan Broadley",
+                "編曲": "Daniel Merlot / Aurelien Poudat / Hyon D / Takanori Tsunoda / Stefan Broadley",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 17,
+              "title": "次の角を曲がれ",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "鈴木Daichi秀行/ストリングスアレンジ:クラッシャー木村",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 18,
+              "title": "我武者LIFE",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "KOUGA supported by SHOCK EYE",
+                "編曲": "soundbreakers",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 19,
+              "title": "℃maj9 (reprise)",
+              "duration": "00:32",
+              "credits": {
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7160"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アイアンハート",
+              "duration": "04:32",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE/草野将史",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ありがとう〜無限のエール〜",
+              "duration": "04:58",
+              "suffix": "(℃-ute Ver.)",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "KOJI oba",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "嵐を起こすんだ Exciting Fight！",
+              "duration": "04:21",
+              "suffix": "(℃-ute Ver.)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "出演": "℃-ute"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD(MV別Ver.集)"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/b8b1ba91f320956293ff21b00dce800398e7c13e.webp",
+      "price": "定価 ￥3,056（税抜価格 ￥2,778）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "℃maj9",
+              "duration": "00:35",
+              "credits": {
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アイアンハート",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE/草野将史",
+                "編曲": "草野将史",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "男と女とForever",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介/ブラスアレンジ:竹上良成",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "情熱エクスタシー",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "中村佳紀",
+                "作曲": "中村佳紀",
+                "編曲": "中村佳紀",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "デジタリック→0 (LOVE)",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "Jean Luc Ponpon",
+                "編曲": "Jean Luc Ponpon",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 6,
+              "title": "羨んじゃう",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "YASUSHI WATANABE",
+                "編曲": "YASUSHI WATANABE",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 7,
+              "title": "夜風のMessage",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "近藤薫",
+                "作曲": "近藤薫",
+                "編曲": "近藤薫/HASSE",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 8,
+              "title": "都会の一人暮らし",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 9,
+              "title": "愛ってもっと斬新",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 10,
+              "title": "心の叫びを歌にしてみた",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 11,
+              "title": "Love take it all",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "宅見将典",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 12,
+              "title": "The Power",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "KOH",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 13,
+              "title": "悲しきヘブン",
+              "duration": "04:01",
+              "suffix": "(Single Version)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 14,
+              "title": "I miss you",
+              "duration": "03:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "楊慶豪",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 15,
+              "title": "THE FUTURE",
+              "duration": "03:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 16,
+              "title": "The Middle Management〜女性中間管理職〜",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "Daniel Merlot / Aurelien Poudat / Hyon D / Takanori Tsunoda / Stefan Broadley",
+                "編曲": "Daniel Merlot / Aurelien Poudat / Hyon D / Takanori Tsunoda / Stefan Broadley",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 17,
+              "title": "次の角を曲がれ",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "鈴木Daichi秀行/ストリングスアレンジ:クラッシャー木村",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 18,
+              "title": "我武者LIFE",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "KOUGA supported by SHOCK EYE",
+                "編曲": "soundbreakers",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 19,
+              "title": "℃maj9 (reprise)",
+              "duration": "00:32",
+              "credits": {
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 20,
+              "title": "ありがとう〜無限のエール〜(tofubeats remix)",
+              "duration": "04:24",
+              "suffix": "＜Bonus Track＞",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "KOJI ohba",
+                "編曲": "Remixed by tofubeats",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7162"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,978 @@
+{
+  "id": 7248,
+  "url": "/release/7248/",
+  "title": "ベイビースパイダー/青春エクサバイト/鼓動OK？",
+  "category": "CDシングル",
+  "artist": "つばきファクトリー",
+  "releaseDate": "2024.8.28",
+  "label": "zetima",
+  "images": [
+    "/upload/images/00fae1a123a6c53f2bfab9dd7a03427ba6a3e105.webp",
+    "/upload/images/815e3ece910f2287f04c9952675f59bad34cfa4e.webp",
+    "/upload/images/abc99aead858f79cb130f9ff86da0f2a08015b48.webp",
+    "/upload/images/2f7fd39cfde15ed36602d3ef4acd371645a91ef2.webp",
+    "/upload/images/ab53d9ca36012997117705d75b81fcfe2055b99b.webp",
+    "/upload/images/e389539c5c777394691383584740fa287f95bca3.webp",
+    "/upload/images/423dee154ae3dc92db9ddd654cf619359be07efa.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/00fae1a123a6c53f2bfab9dd7a03427ba6a3e105.webp",
+      "price": "￥2,200（税抜価格 ￥2,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ベイビースパイダー",
+              "duration": "02:47",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "編曲": "Samuel Waermo/Stefan Ekstedt",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青春エクサバイト",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "鼓動OK？",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ベイビースパイダー",
+              "duration": "02:47",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "編曲": "Samuel Waermo/Stefan Ekstedt",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "青春エクサバイト",
+              "duration": "03:42",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "鼓動OK？",
+              "duration": "03:45",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7856"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ベイビースパイダー",
+              "duration": "03:28",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ベイビースパイダー",
+              "duration": "02:54",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ベイビースパイダー",
+              "duration": "14:57",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "つばきファクトリー"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付(ベイビースパイダーMV+Dance Shot Ver.+メイキング映像)"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/815e3ece910f2287f04c9952675f59bad34cfa4e.webp",
+      "price": "￥2,200（税抜価格 ￥2,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ベイビースパイダー",
+              "duration": "02:47",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "編曲": "Samuel Waermo/Stefan Ekstedt",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青春エクサバイト",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "鼓動OK？",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ベイビースパイダー",
+              "duration": "02:47",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "編曲": "Samuel Waermo/Stefan Ekstedt",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "青春エクサバイト",
+              "duration": "03:42",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "鼓動OK？",
+              "duration": "03:45",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7858"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "青春エクサバイト",
+              "duration": "05:03",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青春エクサバイト",
+              "duration": "03:50",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "青春エクサバイト",
+              "duration": "15:14",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "つばきファクトリー"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付(青春エクサバイトMV+Dance Shot Ver.+メイキング映像)"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/abc99aead858f79cb130f9ff86da0f2a08015b48.webp",
+      "price": "￥2,200（税抜価格 ￥2,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ベイビースパイダー",
+              "duration": "02:47",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "編曲": "Samuel Waermo/Stefan Ekstedt",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青春エクサバイト",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "鼓動OK？",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ベイビースパイダー",
+              "duration": "02:47",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "編曲": "Samuel Waermo/Stefan Ekstedt",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "青春エクサバイト",
+              "duration": "03:42",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "鼓動OK？",
+              "duration": "03:45",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7860"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "鼓動OK？",
+              "duration": "04:05",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "鼓動OK？",
+              "duration": "03:48",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "鼓動OK？",
+              "duration": "15:04",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "つばきファクトリー"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付(鼓動OK？MV+Dance Shot Ver.+メイキング映像)"
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/upload/images/2f7fd39cfde15ed36602d3ef4acd371645a91ef2.webp",
+      "price": "￥6,600（税抜価格 ￥6,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ベイビースパイダー",
+              "duration": "02:47",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "編曲": "Samuel Waermo/Stefan Ekstedt",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青春エクサバイト",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "鼓動OK？",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ベイビースパイダー",
+              "duration": "02:47",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "編曲": "Samuel Waermo/Stefan Ekstedt",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "青春エクサバイト",
+              "duration": "03:42",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "鼓動OK？",
+              "duration": "03:45",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7862"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "01:34",
+              "credits": {
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アタシリズム",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "三回目のデート神話",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "妄想だけならフリーダム",
+              "duration": "03:28",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "板垣祐介",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "スキップ・スキップ・スキップ",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "KOUGA",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "弱さじゃないよ、恋は",
+              "duration": "03:10",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Josef Melin",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 7,
+              "title": "MC",
+              "duration": "01:31",
+              "credits": {
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 8,
+              "title": "でも…いいよ",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 9,
+              "title": "間違いじゃない 泣いたりしない",
+              "duration": "03:06",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Albin Hillborg/Anders Dannvik",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 10,
+              "title": "雪のプラネタリウム",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "KOUGA",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 11,
+              "title": "光のカーテン",
+              "duration": "05:18",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "石井健太郎",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 12,
+              "title": "MC",
+              "duration": "05:44",
+              "credits": {
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 13,
+              "title": "私がオバさんになっても",
+              "duration": "01:56",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "斉藤英夫",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 14,
+              "title": "17才",
+              "duration": "01:26",
+              "credits": {
+                "作詞": "有馬三恵子",
+                "作曲": "筒美京平",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 15,
+              "title": "キャベツ白書",
+              "duration": "02:09",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "角田崇徳",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 16,
+              "title": "MC",
+              "duration": "00:56",
+              "credits": {
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 17,
+              "title": "涙のヒロイン降板劇",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Josef Melin",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 18,
+              "title": "七分咲きのつづき",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 19,
+              "title": "断捨ISM",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 20,
+              "title": "可能性のコンチェルト",
+              "duration": "03:10",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "n-buna",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 21,
+              "title": "マサユメ",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 22,
+              "title": "アドレナリン・ダメ",
+              "duration": "03:26",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 23,
+              "title": "今夜だけ浮かれたかった",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 24,
+              "title": "Power Flower ～今こそ一丸となれ～",
+              "duration": "04:26",
+              "suffix": "【ENCORE】",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 25,
+              "title": "MC",
+              "duration": "15:43",
+              "suffix": "【ENCORE】",
+              "credits": {
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 26,
+              "title": "Stay free & Stay tuned",
+              "duration": "04:21",
+              "suffix": "【ENCORE】",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 27,
+              "title": "最上級Story",
+              "duration": "05:53",
+              "suffix": "【ENCORE】",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "ArmySlick/小久保祐希",
+                "出演": "つばきファクトリー"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付(つばきファクトリー メジャーデビュー7周年記念ライブ『ReALIZE』(3月10日 市川市文化会館 大ホール)ライブ映像)"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/ab53d9ca36012997117705d75b81fcfe2055b99b.webp",
+      "price": "定価 ￥1,300（税抜価格 ￥1,182）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ベイビースパイダー",
+              "duration": "02:47",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "編曲": "Samuel Waermo/Stefan Ekstedt",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青春エクサバイト",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "鼓動OK？",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ベイビースパイダー",
+              "duration": "02:47",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "編曲": "Samuel Waermo/Stefan Ekstedt",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "青春エクサバイト",
+              "duration": "03:42",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "鼓動OK？",
+              "duration": "03:45",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7864"
+        }
+      ],
+      "note": "トレーディングカードソロ12種＋集合1種よりランダムにて1枚封入(ベイビースパイダー Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/e389539c5c777394691383584740fa287f95bca3.webp",
+      "price": "定価 ￥1,300（税抜価格 ￥1,182）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ベイビースパイダー",
+              "duration": "02:47",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "編曲": "Samuel Waermo/Stefan Ekstedt",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青春エクサバイト",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "鼓動OK？",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ベイビースパイダー",
+              "duration": "02:47",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "編曲": "Samuel Waermo/Stefan Ekstedt",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "青春エクサバイト",
+              "duration": "03:42",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "鼓動OK？",
+              "duration": "03:45",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7865"
+        }
+      ],
+      "note": "トレーディングカードソロ12種＋集合1種よりランダムにて1枚封入(青春エクサバイト Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/upload/images/423dee154ae3dc92db9ddd654cf619359be07efa.webp",
+      "price": "定価 ￥1,300（税抜価格 ￥1,182）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ベイビースパイダー",
+              "duration": "02:47",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "編曲": "Samuel Waermo/Stefan Ekstedt",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青春エクサバイト",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "鼓動OK？",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ベイビースパイダー",
+              "duration": "02:47",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "編曲": "Samuel Waermo/Stefan Ekstedt",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "青春エクサバイト",
+              "duration": "03:42",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "鼓動OK？",
+              "duration": "03:45",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7866"
+        }
+      ],
+      "note": "トレーディングカードソロ11種＋集合1種よりランダムにて1枚封入(鼓動OK？ Ver.)※初回プレス分のみ"
+    }
+  ]
+}

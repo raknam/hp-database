@@ -1,0 +1,128 @@
+{
+  "code": "UFWT-1003",
+  "url": "/release/detail/UFWT-1003/",
+  "source": "upfront",
+  "title": "GIRL TO LOVE",
+  "category": "CDアルバム",
+  "artist": "KAN",
+  "releaseDate": "2010/10/27",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/2328bd7464261c0b0ce01a066a59779f43224f04.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/2328bd7464261c0b0ce01a066a59779f43224f04.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "UFWT-1003",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "適齢期LOVE STORY",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN/松本晃彦"
+              }
+            },
+            {
+              "index": 2,
+              "title": "君はうるさい",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN/松本晃彦"
+              }
+            },
+            {
+              "index": 3,
+              "title": "いっちょまえに高級車",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN/松本晃彦"
+              }
+            },
+            {
+              "index": 4,
+              "title": "フランスについた日",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN/松本晃彦"
+              }
+            },
+            {
+              "index": 5,
+              "title": "WAITING SO LONG",
+              "duration": "06:21",
+              "credits": {
+                "作詞": "松尾由紀夫",
+                "作曲": "KAN",
+                "編曲": "KAN/松本晃彦"
+              }
+            },
+            {
+              "index": 6,
+              "title": "東京のお嬢さん",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "サエキけんぞう",
+                "作曲": "KAN",
+                "編曲": "KAN/松本晃彦"
+              }
+            },
+            {
+              "index": 7,
+              "title": "だいじょうぶI'M ALL RIGHT",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN/松本晃彦"
+              }
+            },
+            {
+              "index": 8,
+              "title": "恋はTONIN'",
+              "duration": "03:15",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN/松本晃彦"
+              }
+            },
+            {
+              "index": 9,
+              "title": "言えずのI LOVE YOU",
+              "duration": "05:15",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN/松本晃彦"
+              }
+            },
+            {
+              "index": 10,
+              "title": "GIRL TO LOVE",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "松本晃彦"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

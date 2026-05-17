@@ -1,0 +1,345 @@
+{
+  "id": 1153,
+  "url": "/release/1153/",
+  "title": "スマイレージのミュージックVコレクション①",
+  "category": "DVD",
+  "artist": "スマイレージ",
+  "releaseDate": "2011.2.16",
+  "label": "hachama",
+  "images": [
+    "/upload/images/f09a2e02ea5abf8c4cf4f1c08347ad7f35ee3e16.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ぁまのじゃく",
+              "duration": "05:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "あすはデートなのに、今すぐ声が聞きたい",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "スキちゃん",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "オトナになるって難しい！！！",
+              "duration": "03:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "夢見る 15歳(フィフティーン)",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "○○ がんばらなくてもええねんで！！",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 7,
+              "title": "同じ時給で働く友達の美人ママ",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 8,
+              "title": "ショートカット",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 9,
+              "title": "特典映像1",
+              "duration": "00:00"
+            },
+            {
+              "index": 10,
+              "title": "ぁまのじゃく",
+              "duration": "04:55",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 11,
+              "title": "ぁまのじゃく",
+              "duration": "04:52",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 12,
+              "title": "あすはデートなのに、今すぐ声が聞きたい",
+              "duration": "04:30",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 13,
+              "title": "あすはデートなのに、今すぐ声が聞きたい",
+              "duration": "04:29",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 14,
+              "title": "スキちゃん",
+              "duration": "03:32",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 15,
+              "title": "スキちゃん",
+              "duration": "03:32",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 16,
+              "title": "オトナになるって難しい！！！",
+              "duration": "03:09",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 17,
+              "title": "オトナになるって難しい！！！",
+              "duration": "03:10",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 18,
+              "title": "夢見る 15歳(フィフティーン)",
+              "duration": "03:50",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 19,
+              "title": "○○ がんばらなくてもええねんで！！",
+              "duration": "04:23",
+              "suffix": "(Another Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 20,
+              "title": "同じ時給で働く友達の美人ママ",
+              "duration": "04:20",
+              "suffix": "(アルバイトVer.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 21,
+              "title": "同じ時給で働く友達の美人ママ",
+              "duration": "04:18",
+              "suffix": "(featuring 和田彩花Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 22,
+              "title": "同じ時給で働く友達の美人ママ",
+              "duration": "04:18",
+              "suffix": "(featuring 前田憂佳Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 23,
+              "title": "同じ時給で働く友達の美人ママ",
+              "duration": "04:18",
+              "suffix": "(featuring 福田花音Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 24,
+              "title": "同じ時給で働く友達の美人ママ",
+              "duration": "04:18",
+              "suffix": "(featuring 小川紗季Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 25,
+              "title": "ショートカット",
+              "duration": "04:32",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 26,
+              "title": "特典映像2",
+              "duration": "00:00"
+            },
+            {
+              "index": 27,
+              "title": "夢見る 15歳(フィフティーン)",
+              "duration": "00:17",
+              "suffix": "(15秒)"
+            },
+            {
+              "index": 28,
+              "title": "夢見る 15歳(フィフティーン)",
+              "duration": "00:32",
+              "suffix": "(30秒)"
+            },
+            {
+              "index": 29,
+              "title": "○○ がんばらなくてもええねんで！！",
+              "duration": "00:17",
+              "suffix": "(15秒)"
+            },
+            {
+              "index": 30,
+              "title": "○○ がんばらなくてもええねんで！！",
+              "duration": "00:17",
+              "suffix": "(15秒ヒゲVer.)"
+            },
+            {
+              "index": 31,
+              "title": "○○ がんばらなくてもええねんで！！",
+              "duration": "00:32",
+              "suffix": "(30秒)"
+            },
+            {
+              "index": 32,
+              "title": "同じ時給で働く友達の美人ママ",
+              "duration": "00:17",
+              "suffix": "(15秒)"
+            },
+            {
+              "index": 33,
+              "title": "同じ時給で働く友達の美人ママ",
+              "duration": "00:32",
+              "suffix": "(30秒)"
+            },
+            {
+              "index": 34,
+              "title": "悪ガキッ①",
+              "duration": "00:17",
+              "suffix": "(15秒)"
+            },
+            {
+              "index": 35,
+              "title": "悪ガキッ①",
+              "duration": "00:17",
+              "suffix": "(30秒)"
+            },
+            {
+              "index": 36,
+              "title": "ショートカット",
+              "duration": "00:32",
+              "suffix": "(15秒)"
+            },
+            {
+              "index": 37,
+              "title": "ショートカット",
+              "duration": "00:00",
+              "suffix": "(30秒)"
+            },
+            {
+              "index": 38,
+              "title": "特典映像3",
+              "duration": "00:00"
+            },
+            {
+              "index": 39,
+              "title": "ショートカット ジャケット&MV撮影メイキング",
+              "duration": "19:00"
+            }
+          ],
+          "catalogNo": "HKBN-50142"
+        }
+      ]
+    }
+  ]
+}

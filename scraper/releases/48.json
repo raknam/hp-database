@@ -1,0 +1,91 @@
+{
+  "id": 48,
+  "url": "/release/48/",
+  "title": "BS-TBSサマーパーティー2013我らジャンヌ〜少女聖戦歌劇〜前夜祭",
+  "category": "DVD",
+  "artist": "Berryz工房/スマイレージ",
+  "releaseDate": "2014.2.13",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/742a1d935366c00153206d203873b81faa3fed4a.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "04:40",
+              "credits": {
+                "出演": "Berryz工房×スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "劇中曲コーナー1",
+              "duration": "11:36",
+              "credits": {
+                "出演": "Berryz工房×スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "トークコーナー1",
+              "duration": "05:49",
+              "credits": {
+                "出演": "Berryz工房×スマイレージ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "実演コーナー",
+              "duration": "16:56",
+              "credits": {
+                "出演": "Berryz工房×スマイレージ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "劇中曲コーナー2",
+              "duration": "15:22",
+              "credits": {
+                "出演": "Berryz工房×スマイレージ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "トークコーナー2",
+              "duration": "08:59",
+              "credits": {
+                "出演": "Berryz工房×スマイレージ"
+              }
+            },
+            {
+              "index": 7,
+              "title": "劇中曲コーナー3",
+              "duration": "10:07",
+              "credits": {
+                "出演": "Berryz工房×スマイレージ"
+              }
+            },
+            {
+              "index": 8,
+              "title": "エンディング",
+              "duration": "09:54",
+              "credits": {
+                "出演": "Berryz工房×スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-2095"
+        }
+      ]
+    }
+  ]
+}

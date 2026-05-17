@@ -1,0 +1,466 @@
+{
+  "code": "EPXE-5135",
+  "url": "/release/detail/EPXE-5135/",
+  "source": "upfront",
+  "title": "Hello! Project 20th Anniversary!! Hello! Project ひなフェス 2018 【Hello! Project 20th Anniversary!! プレミアム】",
+  "category": "BD",
+  "artist": "V.A.",
+  "releaseDate": "2018/07/18",
+  "label": "zetima",
+  "images": [
+    "/images/d4ad07bdda3a2bbef22e7ca6dd65a442a831dbf7.jpg"
+  ],
+  "editions": [
+    {
+      "name": "＜Disc1＞",
+      "image": "/images/d4ad07bdda3a2bbef22e7ca6dd65a442a831dbf7.jpg",
+      "price": "￥8,800 (税抜価格 ￥8,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5135",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛の種(20th Anniversary Ver.)",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "サエキけんぞう",
+                "作曲": "桜井鉄太郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "MC",
+              "duration": "04:12"
+            },
+            {
+              "index": 3,
+              "title": "ENDLESS HOME",
+              "duration": "05:40",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子"
+              }
+            },
+            {
+              "index": 4,
+              "title": "MC",
+              "duration": "02:45"
+            },
+            {
+              "index": 5,
+              "title": "ラストキッス",
+              "duration": "03:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "たんぽぽ",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 7,
+              "title": "MC",
+              "duration": "01:41"
+            },
+            {
+              "index": 8,
+              "title": "Hello! まっさらの自分",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 9,
+              "title": "Midnight Temptation",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 10,
+              "title": "笑って",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "津野米咲",
+                "作曲": "津野米咲"
+              }
+            },
+            {
+              "index": 11,
+              "title": "MC",
+              "duration": "01:40"
+            },
+            {
+              "index": 12,
+              "title": "ハナモヨウ",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "KOUGA"
+              }
+            },
+            {
+              "index": 13,
+              "title": "チョット愚直に！猪突猛進",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一"
+              }
+            },
+            {
+              "index": 14,
+              "title": "MC",
+              "duration": "00:34"
+            },
+            {
+              "index": 15,
+              "title": "これからだ！",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "横健介"
+              }
+            },
+            {
+              "index": 16,
+              "title": "浮気なハニーパイ",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 17,
+              "title": "MC",
+              "duration": "01:19"
+            },
+            {
+              "index": 18,
+              "title": "リズムが呼んでいるぞ！",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介"
+              }
+            },
+            {
+              "index": 19,
+              "title": "MC",
+              "duration": "00:41"
+            },
+            {
+              "index": 20,
+              "title": "ガタメキラ",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 21,
+              "title": "月と太陽",
+              "duration": "03:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 22,
+              "title": "MC",
+              "duration": "04:23"
+            },
+            {
+              "index": 23,
+              "title": "宇宙でLa Ta Ta",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 24,
+              "title": "Magic of Love",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 25,
+              "title": "MC",
+              "duration": "02:40"
+            },
+            {
+              "index": 26,
+              "title": "スクランブル",
+              "duration": "03:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 27,
+              "title": "ロッタラ ロッタラ",
+              "duration": "02:45",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "井上慎二郎"
+              }
+            },
+            {
+              "index": 28,
+              "title": "桜ナイトフィーバー",
+              "duration": "05:22",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN"
+              }
+            },
+            {
+              "index": 29,
+              "title": "SEXY SEXY",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 30,
+              "title": "MC",
+              "duration": "00:45"
+            },
+            {
+              "index": 31,
+              "title": "Vivid Midnight",
+              "duration": "02:57",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "SEION/Tasco/Tenzo"
+              }
+            },
+            {
+              "index": 32,
+              "title": "大器晩成",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 33,
+              "title": "ドンデンガエシ",
+              "duration": "03:18",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "宇宙慧"
+              }
+            },
+            {
+              "index": 34,
+              "title": "花が咲く 太陽浴びて",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 35,
+              "title": "MC",
+              "duration": "00:50"
+            },
+            {
+              "index": 36,
+              "title": "五線譜のたすき",
+              "duration": "03:10",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 37,
+              "title": "モーニングコーヒー(20th Anniversary Ver.)",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 38,
+              "title": "抱いて HOLD ON ME！",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 39,
+              "title": "MC",
+              "duration": "03:30"
+            },
+            {
+              "index": 40,
+              "title": "LOVEマシ－ン",
+              "duration": "06:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "＜Disc2＞【モーニング娘。20th Anniversary!! プレミアム】",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5136",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Mr.Moonlight～愛のビッグバンド～",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "MC",
+              "duration": "03:58"
+            },
+            {
+              "index": 3,
+              "title": "BABY！ 恋に KNOCK OUT！",
+              "duration": "02:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ミニモニ。ひなまつり！",
+              "duration": "02:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "黄昏交差点",
+              "duration": "02:51",
+              "credits": {
+                "作詞": "本上遼",
+                "作曲": "本上遼"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Independent Girl～独立女子であるために",
+              "duration": "02:48",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "木之下慶行"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ロマンティック 浮かれモード",
+              "duration": "03:08",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Rockの定義",
+              "duration": "02:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ラララのピピピ",
+              "duration": "03:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 10,
+              "title": "Give me 愛",
+              "duration": "03:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 11,
+              "title": "悲しみトワイライト",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 12,
+              "title": "浪漫 ～MY DEAR BOY～",
+              "duration": "05:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 13,
+              "title": "ドレドレ【オープニングアクト】",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "NICEB",
+                "作曲": "NICEB"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

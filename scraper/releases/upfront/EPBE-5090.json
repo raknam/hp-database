@@ -1,0 +1,53 @@
+{
+  "code": "EPBE-5090",
+  "url": "/release/detail/EPBE-5090/",
+  "source": "upfront",
+  "title": "シングルV「THE LAST NIGHT」",
+  "category": "DVDシングルV",
+  "artist": "松浦亜弥",
+  "releaseDate": "2003/09/26",
+  "label": "zetima",
+  "images": [
+    "/images/8c05f70b9c7f527c8bfceae98a4a8c82e3825b2e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/8c05f70b9c7f527c8bfceae98a4a8c82e3825b2e.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5090",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "THE LAST NIGHT",
+              "duration": "05:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介/ｽﾄﾘﾝｸﾞｽｱﾚﾝｼﾞ：村山達哉"
+              }
+            },
+            {
+              "index": 2,
+              "title": "THE LAST NIGHT(AYAYA Close Up Version)",
+              "duration": "05:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介/ｽﾄﾘﾝｸﾞｽｱﾚﾝｼﾞ：村山達哉"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "05:16"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

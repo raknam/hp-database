@@ -1,0 +1,58 @@
+{
+  "code": "UFBW-2100",
+  "url": "/release/detail/UFBW-2100/",
+  "source": "upfront",
+  "title": "Greeting 〜宮崎由加〜",
+  "category": "DVD",
+  "artist": "宮崎由加",
+  "releaseDate": "2014/04/19",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/2c89b3f397421036f8a5f7b6344e84f87da12fee.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/2c89b3f397421036f8a5f7b6344e84f87da12fee.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2100",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Sunday Cafe",
+              "duration": "11:39"
+            },
+            {
+              "index": 2,
+              "title": "Soft Breeze",
+              "duration": "04:22"
+            },
+            {
+              "index": 3,
+              "title": "Interview with Yuka Miyazaki",
+              "duration": "19:15"
+            },
+            {
+              "index": 4,
+              "title": "Sunset Park",
+              "duration": "09:06"
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "04:31"
+            },
+            {
+              "index": 6,
+              "title": "message to you",
+              "duration": "01:04"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "code": "UFDL-1390",
+  "url": "/release/detail/UFDL-1390/",
+  "source": "upfront",
+  "title": "花が咲く 太陽浴びて",
+  "category": "配信シングル",
+  "artist": "モーニング娘。'18",
+  "releaseDate": "2018/01/28",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/270857556b3f9d871a77ec95b46d22278235cdbb.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/270857556b3f9d871a77ec95b46d22278235cdbb.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信シングル",
+          "catalogNo": "UFDL-1390",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "花が咲く 太陽浴びて",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 1,
+              "title": "花が咲く 太陽浴びて(Instrumental)",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

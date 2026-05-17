@@ -1,0 +1,48 @@
+{
+  "code": "TGCS-6045",
+  "url": "/release/detail/TGCS-6045/",
+  "source": "upfront",
+  "title": "オトナになるって難しい！！！",
+  "category": "CDシングル",
+  "artist": "スマイレージ",
+  "releaseDate": "2010/03/14",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/07480b8602486f5f493c256d78160bc33652deef.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/07480b8602486f5f493c256d78160bc33652deef.jpg",
+      "price": "￥838 (税抜価格 ￥762)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "TGCS-6045",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オトナになるって難しい！！！",
+              "duration": "03:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "オトナになるって難しい！！！(Instrumental)",
+              "duration": "03:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

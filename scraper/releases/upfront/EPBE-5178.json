@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5178",
+  "url": "/release/detail/EPBE-5178/",
+  "source": "upfront",
+  "title": "シングルV「色っぽい じれったい」",
+  "category": "DVDシングルV",
+  "artist": "モーニング娘。",
+  "releaseDate": "2005/08/03",
+  "label": "zetima",
+  "images": [
+    "/images/143ed2da2470799fb3fc0d955c4d8dc284d365f6.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/143ed2da2470799fb3fc0d955c4d8dc284d365f6.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5178",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "色っぽい じれったい",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "色っぽい じれったい(Dance Shot Ver.)",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "17:04"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

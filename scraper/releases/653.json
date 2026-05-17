@@ -1,0 +1,120 @@
+{
+  "id": 653,
+  "url": "/release/653/",
+  "title": "めぐる恋の季節",
+  "category": "CDシングル",
+  "artist": "℃-ute",
+  "releaseDate": "2007.7.11",
+  "label": "zetima",
+  "images": [
+    "/upload/images/d7696e4815e41f47978383a16d373c74cf2e6cb2.webp",
+    "/upload/images/9480206732d223c967fd5c4bb20c519278aae066.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/upload/images/d7696e4815e41f47978383a16d373c74cf2e6cb2.webp",
+      "price": "定価 ￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "めぐる恋の季節",
+              "duration": "03:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "美少女心理",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "朝井泰生",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "めぐる恋の季節",
+              "duration": "03:12",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "めぐる恋の季節",
+              "duration": "03:26",
+              "suffix": "(Close-uo Ver.)",
+              "credits": {
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5480"
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "通常版",
+      "image": "/upload/images/9480206732d223c967fd5c4bb20c519278aae066.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "めぐる恋の季節",
+              "duration": "03:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "美少女心理",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "朝井泰生",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "めぐる恋の季節",
+              "duration": "03:12",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5482"
+        }
+      ],
+      "note": "通常盤･初回仕様 差替えジャケット"
+    }
+  ]
+}

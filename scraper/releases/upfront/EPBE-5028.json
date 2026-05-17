@@ -1,0 +1,68 @@
+{
+  "code": "EPBE-5028",
+  "url": "/release/detail/EPBE-5028/",
+  "source": "upfront",
+  "title": "ザ・三・7・10人祭",
+  "category": "DVD",
+  "artist": "三人祭･7人祭･10人祭",
+  "releaseDate": "2001/08/29",
+  "label": "zetima",
+  "images": [
+    "/images/ef29c84b919b1a981983fc4529dcf286b894fe29.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/ef29c84b919b1a981983fc4529dcf286b894fe29.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5028",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "チュッ！夏パ〜ティ",
+              "duration": "02:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "サマーれげぇ！レインボー",
+              "duration": "03:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "hasie"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ダンシング！夏祭り",
+              "duration": "02:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 4,
+              "title": "【メイキング】HELLO!また会おうね(20人祭 version)",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

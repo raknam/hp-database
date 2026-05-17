@@ -1,0 +1,61 @@
+{
+  "id": 560,
+  "url": "/release/560/",
+  "title": "AS FOR ONE DAY",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2003.4.23",
+  "label": "zetima",
+  "images": [
+    "/upload/images/f49d4d784d08c34cefde044729689e729d04f1b3.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "AS FOR ONE DAY",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行 ストリングスアレンジ:弦一徹",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Never Forget(Rock Ver.)",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "酒井ミキオ&小西貴雄",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "AS FOR ONE DAY",
+              "duration": "04:16",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行 ストリングスアレンジ:弦一徹",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5208"
+        }
+      ]
+    }
+  ]
+}

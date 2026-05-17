@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1580",
+  "url": "/release/detail/UFDL-1580/",
+  "source": "upfront",
+  "title": "ただいまの魔法 feat.清塚信也 - From THE FIRST TAKE",
+  "category": "配信",
+  "artist": "鈴木愛理",
+  "releaseDate": "2026/02/26",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/4fee23801ffee29752385a3e08b7d76cc8935864.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/4fee23801ffee29752385a3e08b7d76cc8935864.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1580",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ただいまの魔法 feat.清塚信也 - From THE FIRST TAKE",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "鈴木愛理",
+                "作曲": "清塚信也",
+                "編曲": "清塚信也"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "code": "UFBW-1638",
+  "url": "/release/detail/UFBW-1638/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.61",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2019/11/13",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/0ec40aee8db2999dea0518531bd4558c24f0a3b1.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/0ec40aee8db2999dea0518531bd4558c24f0a3b1.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1638",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "古着",
+              "duration": "06:34"
+            },
+            {
+              "index": 2,
+              "title": "小説",
+              "duration": "14:43"
+            },
+            {
+              "index": 3,
+              "title": "ものづくり",
+              "duration": "08:44"
+            },
+            {
+              "index": 4,
+              "title": "乳酸菌",
+              "duration": "08:59"
+            },
+            {
+              "index": 5,
+              "title": "記憶術",
+              "duration": "09:49"
+            },
+            {
+              "index": 6,
+              "title": "A gonna【スタジオライブ集】",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 7,
+              "title": "禁断少女【スタジオライブ集】",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "大橋莉子",
+                "作曲": "大橋莉子"
+              }
+            },
+            {
+              "index": 8,
+              "title": "あばれてっか?! ハヴアグッタイ【スタジオライブ集】",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 9,
+              "title": "きっと私は【スタジオライブ集】",
+              "duration": "05:18",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：U.M.E.D.Y.",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 10,
+              "title": "ナセバナル【スタジオライブ集】",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "及川眠子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 11,
+              "title": "デートの日は二度くらいシャワーして出かけたい【スタジオライブ集】",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 12,
+              "title": "今夜だけ浮かれたかった【スタジオライブ集】",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

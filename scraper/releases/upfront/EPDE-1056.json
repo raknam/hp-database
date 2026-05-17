@@ -1,0 +1,68 @@
+{
+  "code": "EPDE-1056",
+  "url": "/release/detail/EPDE-1056/",
+  "source": "upfront",
+  "title": "聖なる鐘がひびく夜",
+  "category": "CDシングル",
+  "artist": "タンポポ",
+  "releaseDate": "1999/10/20",
+  "label": "zetima",
+  "images": [
+    "/images/70e0aa302a73b2b28d1ef272b02a522580094113.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/70e0aa302a73b2b28d1ef272b02a522580094113.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1056",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "聖なる鐘がひびく夜",
+              "duration": "05:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 2,
+              "title": "聖なる鐘がひびく夜(featuring Iida)",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 3,
+              "title": "聖なる鐘がひびく夜(featuring Ishiguro)",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 4,
+              "title": "聖なる鐘がひびく夜(featuring Yaguchi)",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

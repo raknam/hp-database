@@ -1,0 +1,58 @@
+{
+  "code": "SPRE-005",
+  "url": "/release/detail/SPRE-005/",
+  "source": "upfront",
+  "title": "恋がステキな季節",
+  "category": "CDシングル",
+  "artist": "カントリー娘。",
+  "releaseDate": "2000/07/31",
+  "label": "SPREE RECORD",
+  "images": [
+    "/images/7fcdf95d0976a1c687126e631f121132ade9c617.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7fcdf95d0976a1c687126e631f121132ade9c617.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "SPRE-005",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋がステキな季節",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ああ 恋しくて",
+              "duration": "03:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋がステキな季節(オリジナル・カラオケ)",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

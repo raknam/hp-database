@@ -1,0 +1,54 @@
+{
+  "id": 1698,
+  "url": "/release/1698/",
+  "title": "シングルV「恋愛♥ライダー」",
+  "category": "DVDシングルV",
+  "artist": "Buono!",
+  "releaseDate": "2008.2.13",
+  "label": "ポニーキャニオン",
+  "images": [
+    "/upload/images/0bd68d962c6409167ce1368e48f27572f54372f8.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋愛♥ライダー",
+              "duration": "00:00",
+              "suffix": "(Music Clip)",
+              "credits": {
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋愛♥ライダー",
+              "duration": "00:00",
+              "suffix": "(Music Clip Making)",
+              "credits": {
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋愛♥ライダー",
+              "duration": "00:00",
+              "suffix": "(Close Up Version)",
+              "credits": {
+                "出演": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "PCBP-51915"
+        }
+      ]
+    }
+  ]
+}

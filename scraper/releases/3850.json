@@ -1,0 +1,73 @@
+{
+  "id": 3850,
+  "url": "/release/3850/",
+  "title": "東京きりぎりす",
+  "category": "CDシングル",
+  "artist": "前田有紀",
+  "releaseDate": "2003.7.16",
+  "label": "zetima",
+  "images": [
+    "/resources/images/foundation/release-placeholder.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "東京きりぎりす",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "さいとう大三",
+                "作曲": "田尾将実",
+                "編曲": "竜崎孝路/金沢重徳",
+                "歌": "前田有紀"
+              }
+            },
+            {
+              "index": 2,
+              "title": "帰りそびれた故郷は",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "上田紅葉",
+                "作曲": "田尾将実",
+                "編曲": "竜崎孝路",
+                "歌": "前田有紀"
+              }
+            },
+            {
+              "index": 3,
+              "title": "東京きりぎりす",
+              "duration": "03:59",
+              "suffix": "(オリジナル・カラオケ)",
+              "credits": {
+                "作詞": "さいとう大三",
+                "作曲": "田尾将実",
+                "編曲": "竜崎孝路/金沢重徳",
+                "歌": "前田有紀"
+              }
+            },
+            {
+              "index": 4,
+              "title": "帰りそびれた故郷は",
+              "duration": "03:49",
+              "suffix": "(オリジナル・カラオケ)",
+              "credits": {
+                "作詞": "上田紅葉",
+                "作曲": "田尾将実",
+                "編曲": "竜崎孝路",
+                "歌": "前田有紀"
+              }
+            }
+          ],
+          "catalogNo": "EPDE-1110"
+        }
+      ]
+    }
+  ]
+}

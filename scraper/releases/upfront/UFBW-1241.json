@@ -1,0 +1,77 @@
+{
+  "code": "UFBW-1241",
+  "url": "/release/detail/UFBW-1241/",
+  "source": "upfront",
+  "title": "ハロー!SATOYAMAライフ Vol.3",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2013/04/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/1fa1a759d2329e7fde3a54c6df64671eaf13fd06.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/1fa1a759d2329e7fde3a54c6df64671eaf13fd06.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1241",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "小松菜の収穫をしよう",
+              "duration": "20:05"
+            },
+            {
+              "index": 2,
+              "title": "苗作りをしてみよう",
+              "duration": "03:57"
+            },
+            {
+              "index": 3,
+              "title": "落花生の種をまこう＆サツマイモの苗を植えてみよう",
+              "duration": "06:16"
+            },
+            {
+              "index": 4,
+              "title": "夏野菜をたくさん育てよう",
+              "duration": "11:49"
+            },
+            {
+              "index": 5,
+              "title": "台風直撃の畑を立て直そう",
+              "duration": "03:39"
+            },
+            {
+              "index": 6,
+              "title": "ないしょの話 矢島×和田 ノーカットVer.",
+              "duration": "07:37"
+            },
+            {
+              "index": 7,
+              "title": "里山の夏祭りを盛り上げる①",
+              "duration": "15:51"
+            },
+            {
+              "index": 8,
+              "title": "里山の夏祭りを盛り上げる②",
+              "duration": "11:40"
+            },
+            {
+              "index": 9,
+              "title": "誕生15周年記念ハロプロライブ初日",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "つんく/角田崇徳/MEG.ME、MIKOTO、三浦徳子",
+                "作曲": "つんく/Wolfgang Amadeus、Mozart(PD)、"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

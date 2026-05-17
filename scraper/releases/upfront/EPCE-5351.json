@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5351",
+  "url": "/release/detail/EPCE-5351/",
+  "source": "upfront",
+  "title": "肉体は正直なEROS",
+  "category": "CDシングル",
+  "artist": "メロン記念日",
+  "releaseDate": "2005/02/09",
+  "label": "zetima",
+  "images": [
+    "/images/c3e462556bae0ac925b7d90c65af6baaead834ee.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/c3e462556bae0ac925b7d90c65af6baaead834ee.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5351",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "肉体は正直なEROS",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ほとんどがあなたです。",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "はたけ",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 3,
+              "title": "肉体は正直なEROS(Instrumental)",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

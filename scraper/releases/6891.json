@@ -1,0 +1,38 @@
+{
+  "id": 6891,
+  "url": "/release/6891/",
+  "title": "Give me 愛",
+  "category": "配信",
+  "artist": "加賀楓",
+  "releaseDate": "2022.12.11",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/c87157415b7cdcbf9218a4532664495bb4c2e7d0.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Give me 愛",
+              "duration": "04:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "加賀楓(モーニング娘。'22)"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1515"
+        }
+      ]
+    }
+  ]
+}

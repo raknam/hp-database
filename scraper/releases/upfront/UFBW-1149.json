@@ -1,0 +1,63 @@
+{
+  "code": "UFBW-1149",
+  "url": "/release/detail/UFBW-1149/",
+  "source": "upfront",
+  "title": "ハロプロ！TIME Vol.7",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012/04/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/1d321959c94260805872458b87024d7c3dcd95b9.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/1d321959c94260805872458b87024d7c3dcd95b9.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1149",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "スマイレージ新メンバー発表",
+              "duration": "18:03"
+            },
+            {
+              "index": 2,
+              "title": "小川紗季 卒業",
+              "duration": "03:18"
+            },
+            {
+              "index": 3,
+              "title": "サブメンバー小数芙由香休養宣言！",
+              "duration": "00:40"
+            },
+            {
+              "index": 4,
+              "title": "サブメンバー笑顔うpキャンペーン",
+              "duration": "12:09"
+            },
+            {
+              "index": 5,
+              "title": "卒業企画！前田憂佳がメンバーと休日遊園地デート①",
+              "duration": "18:26"
+            },
+            {
+              "index": 6,
+              "title": "卒業企画！前田憂佳がメンバーと休日遊園地デート②",
+              "duration": "19:29"
+            },
+            {
+              "index": 7,
+              "title": "プリーズ ミニスカ ポストウーマン！ リリースイベント〜前田憂佳卒業",
+              "duration": "06:30"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

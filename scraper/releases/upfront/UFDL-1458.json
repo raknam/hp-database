@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1458",
+  "url": "/release/detail/UFDL-1458/",
+  "source": "upfront",
+  "title": "Let The Show Begin",
+  "category": "配信",
+  "artist": "鈴木愛理",
+  "releaseDate": "2020/05/29",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/b741177367d8026b6ead20b58ab585b545ef3c1e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/b741177367d8026b6ead20b58ab585b545ef3c1e.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1458",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Let The Show Begin",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "JUN",
+                "作曲": "久保田真悟 (Jazzin’park)",
+                "編曲": "久保田真悟 (Jazzin’park)"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

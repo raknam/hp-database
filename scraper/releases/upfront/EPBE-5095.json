@@ -1,0 +1,53 @@
+{
+  "code": "EPBE-5095",
+  "url": "/release/detail/EPBE-5095/",
+  "source": "upfront",
+  "title": "チ・ワ・ワ ～愛のpower～DVD",
+  "category": "DVD",
+  "artist": "スパーク",
+  "releaseDate": "2003/10/01",
+  "label": "zetima",
+  "images": [
+    "/images/61e97c34c092f3fd8f99f71a7dae031229bf2a74.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/61e97c34c092f3fd8f99f71a7dae031229bf2a74.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5095",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "チ・ワ・ワ 〜愛のpower〜",
+              "duration": "03:15"
+            },
+            {
+              "index": 2,
+              "title": "ちわわの夏祭り(3Dアニメーションフルバージョン)",
+              "duration": "03:10"
+            },
+            {
+              "index": 3,
+              "title": "ちわわのスイカわり(2Dアニメーション)",
+              "duration": "01:01"
+            },
+            {
+              "index": 4,
+              "title": "ちわわのサーカス(2Dアニメーション)",
+              "duration": "01:01"
+            },
+            {
+              "index": 5,
+              "title": "メイキング映像",
+              "duration": "03:28"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

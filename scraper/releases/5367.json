@@ -1,0 +1,38 @@
+{
+  "id": 5367,
+  "url": "/release/5367/",
+  "title": "いのうえのうた",
+  "category": "配信",
+  "artist": "井上玲音(こぶしファクトリー)、井上ひかる(ハロプロ研修生)",
+  "releaseDate": "2017.6.30",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/5b3cf25e9454f6521d712b25bd6f47774730357f.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "いのうえのうた",
+              "duration": "02:26",
+              "credits": {
+                "作詞": "桑原永江",
+                "作曲": "佐藤晃",
+                "編曲": "佐藤晃",
+                "歌": "井上玲音(こぶしファクトリー)、井上ひかる(ハロプロ研修生)"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1349"
+        }
+      ]
+    }
+  ]
+}

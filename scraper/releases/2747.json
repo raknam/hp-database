@@ -1,0 +1,109 @@
+{
+  "id": 2747,
+  "url": "/release/2747/",
+  "title": "渡良瀬橋",
+  "category": "CDシングル",
+  "artist": "松浦亜弥",
+  "releaseDate": "2004.10.20",
+  "label": "zetima",
+  "images": [
+    "/upload/images/b734eb874d651c7a6e51996ea1b706c8bb75e8e9.webp",
+    "/upload/images/f3d8293aec1bbc270b69438607dfc3d908379e4a.webp"
+  ],
+  "editions": [
+    {
+      "name": "初回盤",
+      "image": "/upload/images/b734eb874d651c7a6e51996ea1b706c8bb75e8e9.webp",
+      "price": "定価 ￥1,320（税抜価格 ￥1,200）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "渡良瀬橋",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "斉藤英夫",
+                "編曲": "馬飼野康二",
+                "歌": "松浦亜弥"
+              }
+            },
+            {
+              "index": 2,
+              "title": "I LOVE YOUの続き",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "松浦亜弥"
+              }
+            },
+            {
+              "index": 3,
+              "title": "渡良瀬橋",
+              "duration": "04:14",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "斉藤英夫",
+                "編曲": "馬飼野康二",
+                "歌": "松浦亜弥"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5332"
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/upload/images/f3d8293aec1bbc270b69438607dfc3d908379e4a.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "渡良瀬橋",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "斉藤英夫",
+                "編曲": "馬飼野康二",
+                "歌": "松浦亜弥"
+              }
+            },
+            {
+              "index": 2,
+              "title": "I LOVE YOUの続き",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "松浦亜弥"
+              }
+            },
+            {
+              "index": 3,
+              "title": "渡良瀬橋",
+              "duration": "04:14",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "斉藤英夫",
+                "編曲": "馬飼野康二",
+                "歌": "松浦亜弥"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5333"
+        }
+      ]
+    }
+  ]
+}

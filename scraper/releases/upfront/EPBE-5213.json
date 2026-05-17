@@ -1,0 +1,38 @@
+{
+  "code": "EPBE-5213",
+  "url": "/release/detail/EPBE-5213/",
+  "source": "upfront",
+  "title": "ハロプロアワー Vol.1",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2006/11/22",
+  "label": "zetima",
+  "images": [
+    "/images/4e74bb6a3d75949e8e40943e92e3bcd8fd931368.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/4e74bb6a3d75949e8e40943e92e3bcd8fd931368.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5213",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "♯1",
+              "duration": "30:32"
+            },
+            {
+              "index": 2,
+              "title": "♯2",
+              "duration": "32:00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

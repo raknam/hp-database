@@ -1,0 +1,87 @@
+{
+  "code": "PKBP-5116",
+  "url": "/release/detail/PKBP-5116/",
+  "source": "upfront",
+  "title": "ベリキュー！Vol.4",
+  "category": "DVD",
+  "artist": "Berryz工房×℃-ute",
+  "releaseDate": "2009/06/24",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/7eb285ea4b63272986c72ae38fd9af61d8109227.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7eb285ea4b63272986c72ae38fd9af61d8109227.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5116",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ランキングdeベリQ！(金運)",
+              "duration": "09:11"
+            },
+            {
+              "index": 2,
+              "title": "ランキングdeベリQ！(仕事運)",
+              "duration": "06:29"
+            },
+            {
+              "index": 3,
+              "title": "ランキングdeベリQ！(健康運)",
+              "duration": "06:32"
+            },
+            {
+              "index": 4,
+              "title": "ランキングdeベリQ！(勝負運)",
+              "duration": "08:03"
+            },
+            {
+              "index": 5,
+              "title": "Berryz工房「行け 行け モンキーダンス」ジャケット撮影",
+              "duration": "03:29"
+            },
+            {
+              "index": 6,
+              "title": "Berryz工房「行け 行け モンキーダンス」PV撮影",
+              "duration": "06:09"
+            },
+            {
+              "index": 7,
+              "title": "ズームdeベリQ！",
+              "duration": "03:31"
+            },
+            {
+              "index": 8,
+              "title": "2番deベリQ！",
+              "duration": "03:19"
+            },
+            {
+              "index": 9,
+              "title": "イラストdeベリQ！",
+              "duration": "07:08"
+            },
+            {
+              "index": 10,
+              "title": "ミキサーdeベリQ！",
+              "duration": "12:40"
+            },
+            {
+              "index": 11,
+              "title": "ベリキュー！版「歌ドキッ！」My Revolution",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "川村真澄",
+                "作曲": "小室哲哉"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

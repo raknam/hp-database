@@ -1,0 +1,531 @@
+{
+  "code": "HKXN-50064",
+  "url": "/release/detail/HKXN-50064/",
+  "source": "upfront",
+  "title": "Hello! Project 20th Anniversary!! Hello! Project 2018 WINTER ～PERFECT SCORE・FULL SCORE～",
+  "category": "BD",
+  "artist": "V.A.",
+  "releaseDate": "2018/05/02",
+  "label": "hachama",
+  "images": [
+    "/images/4bf6381bb01ce2a11bee8644949631f573e20acf.jpg"
+  ],
+  "editions": [
+    {
+      "name": "＜Disc1＞ Hello! Project 20th Anniversary!! Hello! Project 2018 WINTER ～PERFECT SCORE～",
+      "image": "/images/4bf6381bb01ce2a11bee8644949631f573e20acf.jpg",
+      "price": "￥8,800 (税抜価格 ￥8,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKXN-50064",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "01:04"
+            },
+            {
+              "index": 2,
+              "title": "Hello！のテーマ",
+              "duration": "02:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "MC",
+              "duration": "01:21"
+            },
+            {
+              "index": 4,
+              "title": "VTR",
+              "duration": "02:12"
+            },
+            {
+              "index": 5,
+              "title": "低温火傷",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大橋莉子"
+              }
+            },
+            {
+              "index": 6,
+              "title": "やっちゃえ！GO！GO！",
+              "duration": "04:05",
+              "credits": {
+                "作詞": "中谷信行",
+                "作曲": "中谷信行"
+              }
+            },
+            {
+              "index": 7,
+              "title": "書いては消しての “I Love You”",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一"
+              }
+            },
+            {
+              "index": 8,
+              "title": "これからだ！",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "横健介"
+              }
+            },
+            {
+              "index": 9,
+              "title": "TOKYOグライダー",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "唐沢美帆",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 10,
+              "title": "キソクタダシクウツクシク",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "亜伊林",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 11,
+              "title": "花が咲く 太陽浴びて",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 12,
+              "title": "MC",
+              "duration": "00:13"
+            },
+            {
+              "index": 13,
+              "title": "好きすぎて バカみたい",
+              "duration": "03:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 14,
+              "title": "誤爆～We Can't Go Back～",
+              "duration": "02:55",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 15,
+              "title": "MC",
+              "duration": "01:24"
+            },
+            {
+              "index": 16,
+              "title": "20周年記念メドレーガタメキラ⇒ミニモニ。ジャンケンぴょん！⇒青春時代 1.2.3！⇒だって 生きてかなくちゃ⇒たんぽぽ(Single Version)",
+              "duration": "10:48"
+            },
+            {
+              "index": 17,
+              "title": "GET",
+              "duration": "02:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "はたけ"
+              }
+            },
+            {
+              "index": 18,
+              "title": "MC",
+              "duration": "04:37"
+            },
+            {
+              "index": 19,
+              "title": "ダンス部 パフォーマンス",
+              "duration": "02:42"
+            },
+            {
+              "index": 20,
+              "title": "MC",
+              "duration": "06:16"
+            },
+            {
+              "index": 21,
+              "title": "奇跡の香りダンス。",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 22,
+              "title": "原色GAL 派手に行くべ！",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 23,
+              "title": "涙GIRL",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 24,
+              "title": "初恋サンライズ",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "山田祐輔"
+              }
+            },
+            {
+              "index": 25,
+              "title": "VIVA!!薔薇色の人生",
+              "duration": "04:05",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介"
+              }
+            },
+            {
+              "index": 26,
+              "title": "ドスコイ！ケンキョにダイタン",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 27,
+              "title": "Fiesta! Fiesta!",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "エリック・フクサキ"
+              }
+            },
+            {
+              "index": 28,
+              "title": "君だけじゃないさ...friends",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 29,
+              "title": "ナルシス カマってちゃん協奏曲第5番",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 30,
+              "title": "MC",
+              "duration": "00:39"
+            },
+            {
+              "index": 31,
+              "title": "ザ☆ピ～ス！",
+              "duration": "06:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "＜Disc2＞ Hello! Project 20th Anniversary!! Hello! Project 2018 WINTER ～FULL SCORE～",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKXN-50065",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "01:04"
+            },
+            {
+              "index": 2,
+              "title": "モーニングコーヒー(20th Anniversary Ver.）",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "MC",
+              "duration": "01:40"
+            },
+            {
+              "index": 4,
+              "title": "彼女になりたいっ！！！",
+              "duration": "04:05",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "女子かしまし物語(モーニング娘。'18 Ver.)",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "就活センセーション",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 7,
+              "title": "気ままな片想い",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "MITZ MANGROVE",
+                "作曲": "MITZ MANGROVE"
+              }
+            },
+            {
+              "index": 8,
+              "title": "念には念(念入り Ver.)",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "アベショー",
+                "作曲": "アベショー"
+              }
+            },
+            {
+              "index": 9,
+              "title": "五月雨美女がさ乱れる",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 10,
+              "title": "大器晩成",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 11,
+              "title": "MC",
+              "duration": "02:02"
+            },
+            {
+              "index": 12,
+              "title": "20周年記念メドレー都会っ子 純情⇒胸さわぎスカーレット⇒恋愛♥ライダー⇒鳴り始めた恋のBELL⇒ドキドキベイビー",
+              "duration": "09:05"
+            },
+            {
+              "index": 13,
+              "title": "MC",
+              "duration": "00:35"
+            },
+            {
+              "index": 14,
+              "title": "お願い魅惑のターゲット",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "上田ケンジ",
+                "作曲": "田中秀典"
+              }
+            },
+            {
+              "index": 15,
+              "title": "カッチョイイゼ！JAPAN",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 16,
+              "title": "革命チックKISS",
+              "duration": "03:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 17,
+              "title": "天まで登れ！",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 18,
+              "title": "MC",
+              "duration": "00:16"
+            },
+            {
+              "index": 19,
+              "title": "愛の園～Touch My Heart!～",
+              "duration": "02:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 20,
+              "title": "春恋歌",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "鈴木秋則"
+              }
+            },
+            {
+              "index": 21,
+              "title": "小生意気ガール",
+              "duration": "03:22",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "ジンツチハシ"
+              }
+            },
+            {
+              "index": 22,
+              "title": "誤爆～We Can't Go Back～",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 23,
+              "title": "シャララ！やれるはずさ",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 24,
+              "title": "Never Never Surrender",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 25,
+              "title": "地団駄ダンス",
+              "duration": "02:33",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "BLACC HOLE＆ NOBB-D"
+              }
+            },
+            {
+              "index": 26,
+              "title": "マナーモード",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 27,
+              "title": "ドンデンガエシ",
+              "duration": "03:19",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "宇宙慧"
+              }
+            },
+            {
+              "index": 28,
+              "title": "五線譜のたすき",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 29,
+              "title": "この地球の平和を本気で願ってるんだよ！",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 30,
+              "title": "MC",
+              "duration": "02:48"
+            },
+            {
+              "index": 31,
+              "title": "ショートカット",
+              "duration": "06:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

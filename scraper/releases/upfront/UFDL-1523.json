@@ -1,0 +1,88 @@
+{
+  "code": "UFDL-1523",
+  "url": "/release/detail/UFDL-1523/",
+  "source": "upfront",
+  "title": "バンビーナ・バンビーノ/Lonely Bus(Special Edition)",
+  "category": "配信",
+  "artist": "宮本佳林",
+  "releaseDate": "2023/11/08",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/89e2bc614d08c228b3846135f883e17223f270aa.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/89e2bc614d08c228b3846135f883e17223f270aa.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1523",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "バンビーナ・バンビーノ",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "渡辺和紀",
+                "編曲": "戸嶋友祐"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Lonely Bus",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "パラレルハート",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "ヘリP/下野隼",
+                "作曲": "ヘリP/下野隼",
+                "編曲": "ヘリP/下野隼"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Beautiful Song",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "YUU for YOU/Ryosuke Matsuzaki",
+                "編曲": "YUU for YOU"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ソリスト・ダンス",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/ヒロイズム",
+                "編曲": "ヒロイズム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "BAD",
+              "duration": "02:57",
+              "credits": {
+                "作詞": "常楽寺澪",
+                "作曲": "石黑剛/常楽寺澪",
+                "編曲": "石黑剛"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

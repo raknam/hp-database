@@ -1,0 +1,109 @@
+{
+  "id": 3420,
+  "url": "/release/3420/",
+  "title": "バラライカ",
+  "category": "CDシングル",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "releaseDate": "2006.10.25",
+  "label": "zetima",
+  "images": [
+    "/upload/images/2d5e5e6e898f4ebbd6517f90e4ed64cbf5bff671.webp",
+    "/upload/images/46de139033c576da5f13ebaa041be9027758fb2b.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/upload/images/2d5e5e6e898f4ebbd6517f90e4ed64cbf5bff671.webp",
+      "price": "定価 ￥1,320（税抜価格 ￥1,200）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "バラライカ",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "BULGE",
+                "作曲": "迫茂樹",
+                "編曲": "迫茂樹",
+                "歌": "月島きらり starring 久住小春"
+              }
+            },
+            {
+              "index": 2,
+              "title": "水色メロディ",
+              "duration": "03:33",
+              "credits": {
+                "作詞": "古屋真",
+                "作曲": "黒須克彦",
+                "編曲": "加藤大祐",
+                "歌": "月島きらり starring 久住小春"
+              }
+            },
+            {
+              "index": 3,
+              "title": "バラライカ",
+              "duration": "03:37",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "BULGE",
+                "作曲": "迫茂樹",
+                "編曲": "迫茂樹",
+                "歌": "月島きらり starring 久住小春"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5427"
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/46de139033c576da5f13ebaa041be9027758fb2b.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "バラライカ",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "BULGE",
+                "作曲": "迫茂樹",
+                "編曲": "迫茂樹",
+                "歌": "月島きらり starring 久住小春"
+              }
+            },
+            {
+              "index": 2,
+              "title": "水色メロディ",
+              "duration": "03:33",
+              "credits": {
+                "作詞": "古屋真",
+                "作曲": "黒須克彦",
+                "編曲": "加藤大祐",
+                "歌": "月島きらり starring 久住小春"
+              }
+            },
+            {
+              "index": 3,
+              "title": "バラライカ",
+              "duration": "03:37",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "BULGE",
+                "作曲": "迫茂樹",
+                "編曲": "迫茂樹",
+                "歌": "月島きらり starring 久住小春"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5428"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "code": "UFCW-1068",
+  "url": "/release/detail/UFCW-1068/",
+  "source": "upfront",
+  "title": "レディーマーメイド/エイヤサ！ブラザー/海岸清掃男子",
+  "category": "CDシングル",
+  "artist": "ダイヤレディー／メロウクアッド／HI-FIN",
+  "releaseDate": "2013/08/07",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/4fccf81c87ff6136dd8453b9ca153dadfd2dd856.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/4fccf81c87ff6136dd8453b9ca153dadfd2dd856.jpg",
+      "price": "￥1,047 (税抜価格 ￥952)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "UFCW-1068",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "レディーマーメイド/ダイヤレディー",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "中島卓偉",
+                "編曲": "木之下慶行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "エイヤサ！ブラザー/メロウクアッド",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "多喜紅葉・楠木エミリ",
+                "編曲": "Buzz Coen"
+              }
+            },
+            {
+              "index": 3,
+              "title": "海岸清掃男子/HI-FIN",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "加藤裕介",
+                "編曲": "加藤裕介"
+              }
+            },
+            {
+              "index": 4,
+              "title": "レディーマーメイド(Instrumental)",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "中島卓偉",
+                "編曲": "木之下慶行"
+              }
+            },
+            {
+              "index": 5,
+              "title": "エイヤサ！ブラザー(Instrumental)",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "多喜紅葉・楠木エミリ",
+                "編曲": "Buzz Coen"
+              }
+            },
+            {
+              "index": 6,
+              "title": "海岸清掃男子(Instrumental)",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "加藤裕介",
+                "編曲": "加藤裕介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

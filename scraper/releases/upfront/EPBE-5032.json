@@ -1,0 +1,68 @@
+{
+  "code": "EPBE-5032",
+  "url": "/release/detail/EPBE-5032/",
+  "source": "upfront",
+  "title": "ビデオ・ミニモニ。テレフォン！リンリンリン ミニモニ。バスガイド",
+  "category": "DVD",
+  "artist": "ミニモニ｡",
+  "releaseDate": "2001/10/24",
+  "label": "zetima",
+  "images": [
+    "/images/0e5a1c6d39b636c6643649808a83113a91af63c2.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/0e5a1c6d39b636c6643649808a83113a91af63c2.jpg",
+      "price": "￥1,980 (税抜価格 ￥1,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5032",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ミニモニ。テレフォン！リンリンリン",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ミニモニ。バスガイド",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ミニモニ。テレフォン！リンリンリンみんなで踊りましょう！ヴァージョン",
+              "duration": "03:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 4,
+              "title": "おまけ「ミニモニ。テレフォン！リンリンリン」",
+              "duration": "03:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

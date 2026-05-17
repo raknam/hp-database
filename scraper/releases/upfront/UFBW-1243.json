@@ -1,0 +1,53 @@
+{
+  "code": "UFBW-1243",
+  "url": "/release/detail/UFBW-1243/",
+  "source": "upfront",
+  "title": "ハロー!SATOYAMAライフ Vol.5",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2013/05/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/bf2fb90ad4c4545b91c1904a8fa987a098a5536f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/bf2fb90ad4c4545b91c1904a8fa987a098a5536f.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1243",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夏の収穫祭に向けてベンチ作り",
+              "duration": "09:33"
+            },
+            {
+              "index": 2,
+              "title": "夏の収穫祭に向けてテーブル作り",
+              "duration": "10:09"
+            },
+            {
+              "index": 3,
+              "title": "℃-ute「会いたい 会いたい 会いたいな」MV撮影に密着",
+              "duration": "12:33"
+            },
+            {
+              "index": 4,
+              "title": "夏の収穫祭！とれたて野菜カレー＆BBQ",
+              "duration": "33:27"
+            },
+            {
+              "index": 5,
+              "title": "ないしょの話 矢島×中島",
+              "duration": "05:36"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

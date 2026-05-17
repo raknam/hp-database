@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5326",
+  "url": "/release/detail/EPBE-5326/",
+  "source": "upfront",
+  "title": "シングルV「しょうがない 夢追い人」",
+  "category": "DVDシングルV",
+  "artist": "モーニング娘。",
+  "releaseDate": "2009/05/20",
+  "label": "zetima",
+  "images": [
+    "/images/65cc3077cfd5dd2c3f348b479aa858c9f3985a7d.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/65cc3077cfd5dd2c3f348b479aa858c9f3985a7d.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5326",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "しょうがない 夢追い人",
+              "duration": "05:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "しょうがない 夢追い人(Drama Ver.)",
+              "duration": "05:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "22:28"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

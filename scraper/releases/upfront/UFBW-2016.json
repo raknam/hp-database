@@ -1,0 +1,58 @@
+{
+  "code": "UFBW-2016",
+  "url": "/release/detail/UFBW-2016/",
+  "source": "upfront",
+  "title": "モーニング娘。高橋愛＆新垣里沙 リアルエチュード 「高橋さん家と新垣さん家 ゲスト：パパイヤ鈴木編」",
+  "category": "DVD",
+  "artist": "高橋愛&新垣里沙",
+  "releaseDate": "2011/07/08",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/6fef9f4ad0115ab945bb65a664ca85aafeaa06ea.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/6fef9f4ad0115ab945bb65a664ca85aafeaa06ea.jpg",
+      "price": "￥3,981 (税抜価格 ￥3,619)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2016",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "02:41"
+            },
+            {
+              "index": 2,
+              "title": "実話 新垣里沙 編",
+              "duration": "16:55"
+            },
+            {
+              "index": 3,
+              "title": "実話 パパイヤ鈴木 編",
+              "duration": "08:14"
+            },
+            {
+              "index": 4,
+              "title": "パパイヤ鈴木 高橋愛 編",
+              "duration": "09:48"
+            },
+            {
+              "index": 5,
+              "title": "パパイヤ鈴木 新垣里沙 編",
+              "duration": "11:02"
+            },
+            {
+              "index": 6,
+              "title": "実話 高橋愛 編",
+              "duration": "18:27"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

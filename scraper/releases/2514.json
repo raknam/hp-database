@@ -1,0 +1,174 @@
+{
+  "id": 2514,
+  "url": "/release/2514/",
+  "title": "青春のセレナーデ",
+  "category": "CDシングル",
+  "artist": "真野恵里菜",
+  "releaseDate": "2011.1.26",
+  "label": "hachama",
+  "images": [
+    "/upload/images/9bbae51f16aca60eea1dfedbb295440a2e8f2e6d.webp",
+    "/upload/images/3a3362ed25b612011eca15b2356dbc4b0da7d3ad.webp",
+    "/upload/images/57f1ddcc93b7cdd0130da0e0a362ed8a26cbdbfd.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/9bbae51f16aca60eea1dfedbb295440a2e8f2e6d.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "青春のセレナーデ",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "泰誠",
+                "編曲": "河合英嗣",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "21世紀的恋愛事情",
+              "duration": "03:41",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "泰誠",
+                "編曲": "大久保薫",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "青春のセレナーデ",
+              "duration": "04:28",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "泰誠",
+                "編曲": "河合英嗣",
+                "歌": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50154"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "青春のセレナーデ",
+              "duration": "04:45",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "泰誠",
+                "出演": "真野恵里菜"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付き"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/3a3362ed25b612011eca15b2356dbc4b0da7d3ad.webp",
+      "price": "￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "青春のセレナーデ",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "泰誠",
+                "編曲": "河合英嗣",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "21世紀的恋愛事情",
+              "duration": "03:41",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "泰誠",
+                "編曲": "大久保薫",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "青春のセレナーデ",
+              "duration": "04:28",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "泰誠",
+                "編曲": "河合英嗣",
+                "歌": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50156"
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/57f1ddcc93b7cdd0130da0e0a362ed8a26cbdbfd.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "青春のセレナーデ",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "泰誠",
+                "編曲": "河合英嗣",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "21世紀的恋愛事情",
+              "duration": "03:41",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "泰誠",
+                "編曲": "大久保薫",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "青春のセレナーデ",
+              "duration": "04:28",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "泰誠",
+                "編曲": "河合英嗣",
+                "歌": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50157"
+        }
+      ]
+    }
+  ]
+}

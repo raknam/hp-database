@@ -1,0 +1,270 @@
+{
+  "code": "EPCE-7799",
+  "url": "/release/detail/EPCE-7799/",
+  "source": "upfront",
+  "title": "映画の趣味が合うだけ/ちいさな世界",
+  "category": "CDシングル",
+  "artist": "小片リサ",
+  "releaseDate": "2023/12/06",
+  "label": "zetima",
+  "images": [
+    "/images/da863c4b6f25916eb6302752562812f1ba677466.jpg",
+    "/images/6d30a3abd405aba7eb134f0e6e9ec67d504a0f44.jpg",
+    "/images/9ab1d2cdcc63b06769516c21e52c6eaf1471b1b2.jpg",
+    "/images/72de4b4f85111e9b01e5077211a4647bf28ee58b.jpg",
+    "/images/e7d99c85c428940e1b80b63f813010303115372e.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/da863c4b6f25916eb6302752562812f1ba677466.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7799",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "映画の趣味が合うだけ",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "徳田光希",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ちいさな世界",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "映画の趣味が合うだけ(Instrumental)",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "徳田光希",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ちいさな世界(Instrumental)",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/6d30a3abd405aba7eb134f0e6e9ec67d504a0f44.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7801",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "映画の趣味が合うだけ(Music Video)",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "徳田光希"
+              }
+            },
+            {
+              "index": 2,
+              "title": "映画の趣味が合うだけ(Dance Shot Ver.)",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "徳田光希"
+              }
+            },
+            {
+              "index": 3,
+              "title": "映画の趣味が合うだけ(メイキング映像)",
+              "duration": "08:39"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/9ab1d2cdcc63b06769516c21e52c6eaf1471b1b2.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7803",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "映画の趣味が合うだけ",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "徳田光希",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ちいさな世界",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "映画の趣味が合うだけ(Instrumental)",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "徳田光希",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ちいさな世界(Instrumental)",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/72de4b4f85111e9b01e5077211a4647bf28ee58b.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7804",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ちいさな世界(Music Video)",
+              "duration": "05:30",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ちいさな世界(Dance Shot Ver.)",
+              "duration": "04:59",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ちいさな世界(メイキング映像)",
+              "duration": "06:28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/images/e7d99c85c428940e1b80b63f813010303115372e.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7805",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "映画の趣味が合うだけ",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "徳田光希",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ちいさな世界",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "裸の“Mew”【Additional Track】",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Funk Uchino/Erik Lidbom",
+                "編曲": "Erik Lidbom"
+              }
+            },
+            {
+              "index": 4,
+              "title": "映画の趣味が合うだけ(Instrumental)",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "徳田光希",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ちいさな世界(Instrumental)",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 6,
+              "title": "裸の“Mew”(Instrumental)",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Funk Uchino/Erik Lidbom",
+                "編曲": "Erik Lidbom"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

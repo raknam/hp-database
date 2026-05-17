@@ -1,0 +1,125 @@
+{
+  "code": "EPCE-5817",
+  "url": "/release/detail/EPCE-5817/",
+  "source": "upfront",
+  "title": "甘酸っぱい春にサクラサク",
+  "category": "CDシングル",
+  "artist": "Berryz工房×℃-ute",
+  "releaseDate": "2011/11/09",
+  "label": "zetima",
+  "images": [
+    "/images/a7e565dba8a8a7c6f8794b63025e4386a303ab94.jpg",
+    "/images/9dd0bd395946485fe6b01a49486371d79792eca5.jpg",
+    "/images/f044d11476f1ecc2fe04c6cefa5a85fd06461d1f.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A °C-ute版】",
+      "image": "/images/a7e565dba8a8a7c6f8794b63025e4386a303ab94.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5817",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "甘酸っぱい春にサクラサク",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "宅見将典"
+              }
+            },
+            {
+              "index": 2,
+              "title": "嫌いで嫌いで嫌い",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "甘酸っぱい春にサクラサク(Instrumental)",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "宅見将典"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B °C-ute版】",
+      "image": "/images/9dd0bd395946485fe6b01a49486371d79792eca5.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5819",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "甘酸っぱい春にサクラサク(℃-ute Ver.)",
+              "duration": "05:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤 °C-ute版】",
+      "image": "/images/f044d11476f1ecc2fe04c6cefa5a85fd06461d1f.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5820",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "甘酸っぱい春にサクラサク",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "宅見将典"
+              }
+            },
+            {
+              "index": 2,
+              "title": "嫌いで嫌いで嫌い",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "甘酸っぱい春にサクラサク(Instrumental)",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "宅見将典"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

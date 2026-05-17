@@ -1,0 +1,48 @@
+{
+  "code": "EPBE-5123",
+  "url": "/release/detail/EPBE-5123/",
+  "source": "upfront",
+  "title": "ミニモニ。でブレーメンの音楽隊 Vol.3",
+  "category": "DVD",
+  "artist": "ミニモニ｡",
+  "releaseDate": "2004/04/28",
+  "label": "zetima",
+  "images": [
+    "/images/93a435ce6b08548ca6a26b37065bd379ab9d0dd1.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/93a435ce6b08548ca6a26b37065bd379ab9d0dd1.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5123",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "第9回 ヒナに洋館の秘密",
+              "duration": "24:56"
+            },
+            {
+              "index": 2,
+              "title": "第10回 ヒナの約束",
+              "duration": "24:56"
+            },
+            {
+              "index": 3,
+              "title": "第11回 ヒナと演奏会",
+              "duration": "24:56"
+            },
+            {
+              "index": 4,
+              "title": "第12回 ヒナ、ネコ、ドンキーでハーモニー",
+              "duration": "24:36"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

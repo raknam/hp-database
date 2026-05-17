@@ -1,0 +1,67 @@
+{
+  "id": 4469,
+  "url": "/release/4469/",
+  "title": "Flowing",
+  "category": "BD",
+  "artist": "矢島舞美",
+  "releaseDate": "2015.10.21",
+  "label": "zetima",
+  "images": [
+    "/upload/images/1b91b0b2727d20cc70bb59f2088f4fb218e76a59.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Passion",
+              "duration": "10:09",
+              "credits": {
+                "出演": "矢島舞美"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Calm",
+              "duration": "10:25",
+              "credits": {
+                "出演": "矢島舞美"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Open",
+              "duration": "10:28",
+              "credits": {
+                "出演": "矢島舞美"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Reaf",
+              "duration": "07:02",
+              "credits": {
+                "出演": "矢島舞美"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Making of 「Nobody knows23」",
+              "duration": "12:09",
+              "credits": {
+                "出演": "矢島舞美"
+              }
+            }
+          ],
+          "catalogNo": "EPXE-5073"
+        }
+      ]
+    }
+  ]
+}

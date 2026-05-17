@@ -1,0 +1,88 @@
+{
+  "code": "EPBE-5339",
+  "url": "/release/detail/EPBE-5339/",
+  "source": "upfront",
+  "title": "Pure Blue",
+  "category": "DVD",
+  "artist": "鈴木愛理",
+  "releaseDate": "2009/07/01",
+  "label": "zetima",
+  "images": [
+    "/images/ab1210163c7a81f025e4e1c05a59883137c44180.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/ab1210163c7a81f025e4e1c05a59883137c44180.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5339",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ビーチ①",
+              "duration": "04:32"
+            },
+            {
+              "index": 2,
+              "title": "太極拳",
+              "duration": "04:12"
+            },
+            {
+              "index": 3,
+              "title": "早朝パラパラ",
+              "duration": "05:06"
+            },
+            {
+              "index": 4,
+              "title": "ビーチ②",
+              "duration": "01:38"
+            },
+            {
+              "index": 5,
+              "title": "朝ごはん",
+              "duration": "05:03"
+            },
+            {
+              "index": 6,
+              "title": "写真集メイキング",
+              "duration": "01:33"
+            },
+            {
+              "index": 7,
+              "title": "刀削麺",
+              "duration": "04:50"
+            },
+            {
+              "index": 8,
+              "title": "写真集メイキング",
+              "duration": "02:27"
+            },
+            {
+              "index": 9,
+              "title": "デザートタイム",
+              "duration": "05:25"
+            },
+            {
+              "index": 10,
+              "title": "写真集メイキング",
+              "duration": "02:44"
+            },
+            {
+              "index": 11,
+              "title": "チャーハン",
+              "duration": "11:58"
+            },
+            {
+              "index": 12,
+              "title": "トーク",
+              "duration": "05:00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

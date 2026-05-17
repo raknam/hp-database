@@ -1,0 +1,61 @@
+{
+  "id": 1051,
+  "url": "/release/1051/",
+  "title": "恋のダンスサイト",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2000.1.26",
+  "label": "zetima",
+  "images": [
+    "/upload/images/dfbf17c01cd76bda8b9496619d869f146d646392.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋のダンスサイト",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋はロケンロー",
+              "duration": "05:05",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山木 隆一郎",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋のダンスサイト",
+              "duration": "04:25",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPDE-1067"
+        }
+      ]
+    }
+  ]
+}

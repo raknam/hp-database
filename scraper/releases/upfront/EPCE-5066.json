@@ -1,0 +1,121 @@
+{
+  "code": "EPCE-5066",
+  "url": "/release/detail/EPCE-5066/",
+  "source": "upfront",
+  "title": "上海の風",
+  "category": "CDシングル",
+  "artist": "中澤裕子",
+  "releaseDate": "2000/07/12",
+  "label": "zetima",
+  "images": [
+    "/images/edd74a9295a4e76170992a6f4bd488708101557f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/edd74a9295a4e76170992a6f4bd488708101557f.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5066",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "上海の風",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "雨よ",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "上杉洋史"
+              }
+            },
+            {
+              "index": 3,
+              "title": "上海の風(オリジナル・カラオケ)",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 4,
+              "title": "雨よ(オリジナル・カラオケ)",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "上杉洋史"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": null,
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "カセットテープシングル",
+          "catalogNo": "EPSE-5066",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "上海の風",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "雨よ",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "上杉洋史"
+              }
+            },
+            {
+              "index": 3,
+              "title": "上海の風(オリジナル・カラオケ)",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 4,
+              "title": "雨よ(オリジナル・カラオケ)",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "上杉洋史"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

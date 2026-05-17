@@ -1,0 +1,51 @@
+{
+  "code": "UFBW-1361",
+  "url": "/release/detail/UFBW-1361/",
+  "source": "upfront",
+  "title": "演劇女子部「僕たち可憐な少年合唱団」",
+  "category": "DVD",
+  "artist": "ハロプロ研修生",
+  "releaseDate": "2014/08/27",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/5a563e14b2f3b6576c659660d0b561cf0b18b92d.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/5a563e14b2f3b6576c659660d0b561cf0b18b92d.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1361",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アニーローリー編※特典映像:約24分",
+              "duration": "00:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1362",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "気球にのってどこまでも編",
+              "duration": "00:00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

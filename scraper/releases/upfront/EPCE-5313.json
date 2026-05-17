@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-5313",
+  "url": "/release/detail/EPCE-5313/",
+  "source": "upfront",
+  "title": "モーニングコーヒー",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2005/03/02",
+  "label": "zetima",
+  "images": [
+    "/images/397c9e849b90039bb32e9949edc57c7a60b07fb1.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/397c9e849b90039bb32e9949edc57c7a60b07fb1.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5313",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "モーニングコーヒー",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "桜井鉄太郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "愛の種",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "サエキけんぞう",
+                "作曲": "桜井鉄太郎",
+                "編曲": "桜井鉄太郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "モーニングコーヒー(Instrumental)",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "桜井鉄太郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "モーニングコーヒー(Unreleased”B♭”Version)",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "桜井鉄太郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

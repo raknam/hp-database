@@ -1,0 +1,49 @@
+{
+  "id": 5728,
+  "url": "/release/5728/",
+  "title": "ひょっこりひょうたん島",
+  "category": "配信シングル",
+  "artist": "こぶしファクトリー＆つばきファクトリー",
+  "releaseDate": "2018.7.17",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/77a8b5b76a41c21711876104b3e2551006ed4363.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ひょっこりひょうたん島",
+              "duration": "03:19",
+              "credits": {
+                "作詞": "井上ひさし/山元護久",
+                "作曲": "宇野誠一郎",
+                "編曲": "田中直",
+                "歌": "こぶしファクトリー＆つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ひょっこりひょうたん島(Instrumental)",
+              "duration": "03:19",
+              "credits": {
+                "作詞": "井上ひさし/山元護久",
+                "作曲": "宇野誠一郎",
+                "編曲": "田中直",
+                "歌": "こぶしファクトリー＆つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1402"
+        }
+      ]
+    }
+  ]
+}

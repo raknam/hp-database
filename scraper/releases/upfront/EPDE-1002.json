@@ -1,0 +1,68 @@
+{
+  "code": "EPDE-1002",
+  "url": "/release/detail/EPDE-1002/",
+  "source": "upfront",
+  "title": "Hello Again",
+  "category": "CDシングル",
+  "artist": "ばんばひろふみ",
+  "releaseDate": "1998/05/21",
+  "label": "zetima",
+  "images": [
+    "/images/c244b227ea20e5b76121d2e94982dc79644d2ede.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/c244b227ea20e5b76121d2e94982dc79644d2ede.jpg",
+      "price": "￥1,175 (税抜価格 ￥1,068)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1002",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Hello Again",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "蘭かおる",
+                "作曲": "ばんばひろふみ",
+                "編曲": "船山基紀"
+              }
+            },
+            {
+              "index": 2,
+              "title": "悲しくてやりきれない",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "サトウハチロー",
+                "作曲": "加藤和彦",
+                "編曲": "船山基紀"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Hello Again(オリジナル・カラオケ)",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "蘭かおる",
+                "作曲": "ばんばひろふみ",
+                "編曲": "船山基紀"
+              }
+            },
+            {
+              "index": 4,
+              "title": "悲しくてやりきれない(オリジナル・カラオケ)",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "サトウハチロー",
+                "作曲": "加藤和彦",
+                "編曲": "船山基紀"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

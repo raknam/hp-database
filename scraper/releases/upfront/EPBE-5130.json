@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5130",
+  "url": "/release/detail/EPBE-5130/",
+  "source": "upfront",
+  "title": "シングルV「恋のバカンス」",
+  "category": "DVDシングルV",
+  "artist": "W",
+  "releaseDate": "2004/06/23",
+  "label": "zetima",
+  "images": [
+    "/images/f8c8a9a8ea26cad6b79d583d15ff6acae97362e2.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f8c8a9a8ea26cad6b79d583d15ff6acae97362e2.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5130",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋のバカンス",
+              "duration": "03:05",
+              "credits": {
+                "作詞": "岩谷時子",
+                "作曲": "宮川泰"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋のバカンス(Dance Shot Ver.)",
+              "duration": "03:06",
+              "credits": {
+                "作詞": "岩谷時子",
+                "作曲": "宮川泰"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "07:26"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

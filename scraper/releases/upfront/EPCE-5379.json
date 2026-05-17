@@ -1,0 +1,102 @@
+{
+  "code": "EPCE-5379",
+  "url": "/release/detail/EPCE-5379/",
+  "source": "upfront",
+  "title": "直感2〜逃した魚は大きいぞ！〜",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2005/11/09",
+  "label": "zetima",
+  "images": [
+    "/images/70eaba917cdb9925a7b4f69ecefd08ded53930eb.jpg",
+    "/images/752614bafd5af6be8d2bed8cc72e2972fd649291.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回盤】",
+      "image": "/images/70eaba917cdb9925a7b4f69ecefd08ded53930eb.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5379",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "直感2〜逃した魚は大きいぞ！〜",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋は発想 Do The Hustle!",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 3,
+              "title": "直感2〜逃した魚は大きいぞ！〜(INSTRUMENTAL)",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/752614bafd5af6be8d2bed8cc72e2972fd649291.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5380",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "直感2〜逃した魚は大きいぞ！〜",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋は発想 Do The Hustle!",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 3,
+              "title": "直感2〜逃した魚は大きいぞ！〜(INSTRUMENTAL)",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

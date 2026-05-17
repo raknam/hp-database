@@ -1,0 +1,116 @@
+{
+  "code": "HKCN-20011",
+  "url": "/release/detail/HKCN-20011/",
+  "source": "upfront",
+  "title": "エモーショナル・アイランズ～ハワイアン・ヒーリングvol.3～",
+  "category": "CDアルバム",
+  "artist": "V.A.",
+  "releaseDate": "2003/07/16",
+  "label": "Pacific Heaven",
+  "images": [
+    "/images/7a160b69cf4b2acc99f66cf23e13a6fe97122247.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7a160b69cf4b2acc99f66cf23e13a6fe97122247.jpg",
+      "price": "￥2,750 (税抜価格 ￥2,500)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "HKCN-20011",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "A Ho'i Ho'i Mai",
+              "duration": "03:38",
+              "credits": {
+                "作曲": "Traditional"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Waimea Valley",
+              "duration": "03:35",
+              "credits": {
+                "作曲": "DanielHo"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Koolau Sunrise",
+              "duration": "05:09",
+              "credits": {
+                "作曲": "DanielHo"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Tantalus Showers",
+              "duration": "04:18",
+              "credits": {
+                "作曲": "DanielHo"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Pupu A'o 'Ewa",
+              "duration": "03:39",
+              "credits": {
+                "作曲": "Traditional"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Oheo Stream",
+              "duration": "03:56",
+              "credits": {
+                "作曲": "DanielHo"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Iao Valley",
+              "duration": "04:53",
+              "credits": {
+                "作曲": "DanielHo"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Hanapepe Nights",
+              "duration": "04:55",
+              "credits": {
+                "作曲": "DanielHo"
+              }
+            },
+            {
+              "index": 9,
+              "title": "Waipio Valley",
+              "duration": "05:47",
+              "credits": {
+                "作曲": "DanielHo"
+              }
+            },
+            {
+              "index": 10,
+              "title": "Rains of Kalalau",
+              "duration": "04:02",
+              "credits": {
+                "作曲": "DanielHo"
+              }
+            },
+            {
+              "index": 11,
+              "title": "Winds of the Pali",
+              "duration": "04:04",
+              "credits": {
+                "作曲": "DanielHo"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

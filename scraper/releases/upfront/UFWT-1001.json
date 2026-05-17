@@ -1,0 +1,128 @@
+{
+  "code": "UFWT-1001",
+  "url": "/release/detail/UFWT-1001/",
+  "source": "upfront",
+  "title": "テレビの中に",
+  "category": "CDアルバム",
+  "artist": "KAN",
+  "releaseDate": "2010/10/27",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/830fb973b37c745e2007d617ef6734b581d140e8.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/830fb973b37c745e2007d617ef6734b581d140e8.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "UFWT-1001",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "SPUNKY DANCEー賑やかな週末ー",
+              "duration": "03:24",
+              "credits": {
+                "作詞": "森浩美",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 2,
+              "title": "セルロイドシティも日が暮れて",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "長島理生",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 3,
+              "title": "テレビの中に",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "小林信吾/KAN"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ARE YOU READY TO BEー着衣のままでー",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "川村真澄",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 5,
+              "title": "悲しきGRADUATION",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "森浩美",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 6,
+              "title": "TOP SECRETー誰にもしゃべるなー",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 7,
+              "title": "恋するDISCOMAN",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 8,
+              "title": "GOOD NIGHT",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "小林まさみ",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 9,
+              "title": "FAIRY TALE",
+              "duration": "03:19",
+              "credits": {
+                "作詞": "長島理生",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 10,
+              "title": "MEMORIES OF FUTURE",
+              "duration": "05:33",
+              "credits": {
+                "作詞": "川村真澄",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

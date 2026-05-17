@@ -1,0 +1,68 @@
+{
+  "code": "UFDL-1454",
+  "url": "/release/detail/UFDL-1454/",
+  "source": "upfront",
+  "title": "SAYUMINGLANDOLL～希望～ オリジナルサウンドトラック3",
+  "category": "配信",
+  "artist": "道重さゆみ",
+  "releaseDate": "2020/04/04",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/01dcb38b32dc0c37edd5b023c13ea00549e38f96.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/01dcb38b32dc0c37edd5b023c13ea00549e38f96.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1454",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "I Have a Dream",
+              "duration": "05:23",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "K2-Dee",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "WHO IS BABY",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "DESTINY ～タピオカモード～",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "K2-Dee",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 4,
+              "title": "DESTINY ～チヨコレイトモード～",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "K2-Dee",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

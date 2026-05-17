@@ -1,0 +1,53 @@
+{
+  "code": "EPBE-5500",
+  "url": "/release/detail/EPBE-5500/",
+  "source": "upfront",
+  "title": "SAYUMI+",
+  "category": "DVD",
+  "artist": "道重さゆみ",
+  "releaseDate": "2014/11/19",
+  "label": "zetima",
+  "images": [
+    "/images/71402581da598a5f1e572fb259f109cd90c3b260.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/71402581da598a5f1e572fb259f109cd90c3b260.jpg",
+      "price": "￥4,400 (税抜価格 ￥4,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5500",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Silent Ocean",
+              "duration": "11:42"
+            },
+            {
+              "index": 2,
+              "title": "Ice Wagon",
+              "duration": "10:20"
+            },
+            {
+              "index": 3,
+              "title": "About Me",
+              "duration": "16:16"
+            },
+            {
+              "index": 4,
+              "title": "Making of 「YOUR LOVE」",
+              "duration": "18:18"
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "00:47"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

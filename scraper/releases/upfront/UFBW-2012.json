@@ -1,0 +1,88 @@
+{
+  "code": "UFBW-2012",
+  "url": "/release/detail/UFBW-2012/",
+  "source": "upfront",
+  "title": "“中島早貴ファーストソロ写真集「NACKY」”メイキングDVD 〜特別編集版〜",
+  "category": "DVD",
+  "artist": "中島早貴",
+  "releaseDate": "2010/02/10",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/262fd5b486298dd481c2f2693748edf6b8954e1d.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/262fd5b486298dd481c2f2693748edf6b8954e1d.jpg",
+      "price": "￥2,750 (税抜価格 ￥2,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2012",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "First photography",
+              "duration": "03:07"
+            },
+            {
+              "index": 2,
+              "title": "Walk&Shopping",
+              "duration": "07:05"
+            },
+            {
+              "index": 3,
+              "title": "Sea Breeze",
+              "duration": "04:58"
+            },
+            {
+              "index": 4,
+              "title": "Beachtime",
+              "duration": "07:09"
+            },
+            {
+              "index": 5,
+              "title": "Holiday",
+              "duration": "04:41"
+            },
+            {
+              "index": 6,
+              "title": "High School",
+              "duration": "03:41"
+            },
+            {
+              "index": 7,
+              "title": "Cheerleader",
+              "duration": "02:54"
+            },
+            {
+              "index": 8,
+              "title": "Poolside",
+              "duration": "02:52"
+            },
+            {
+              "index": 9,
+              "title": "Libarary",
+              "duration": "01:52"
+            },
+            {
+              "index": 10,
+              "title": "Sunshine",
+              "duration": "03:08"
+            },
+            {
+              "index": 11,
+              "title": "Afternoon",
+              "duration": "03:41"
+            },
+            {
+              "index": 12,
+              "title": "Sunset Beach",
+              "duration": "03:55"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "code": "EPBE-5304",
+  "url": "/release/detail/EPBE-5304/",
+  "source": "upfront",
+  "title": "LOVE STORY",
+  "category": "DVD",
+  "artist": "道重さゆみ",
+  "releaseDate": "2008/10/01",
+  "label": "zetima",
+  "images": [
+    "/images/2ac4637f7e2fd9e79ec0472a2cc0c6485653c9b6.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/2ac4637f7e2fd9e79ec0472a2cc0c6485653c9b6.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5304",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "LUNCH",
+              "duration": "11:18"
+            },
+            {
+              "index": 2,
+              "title": "DESSERT QUIZ",
+              "duration": "05:10"
+            },
+            {
+              "index": 3,
+              "title": "POOL Ⅰ",
+              "duration": "05:42"
+            },
+            {
+              "index": 4,
+              "title": "SLINGSHOT REVENGE",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "POOL Ⅱ",
+              "duration": "03:26"
+            },
+            {
+              "index": 6,
+              "title": "VOICE DIARY-FIRST DAY-",
+              "duration": "03:55"
+            },
+            {
+              "index": 7,
+              "title": "LOVE LETTER MAKING&OFFSHOT①",
+              "duration": "03:41"
+            },
+            {
+              "index": 8,
+              "title": "SHORT STORY #1",
+              "duration": "01:23"
+            },
+            {
+              "index": 9,
+              "title": "LOVE LETTER MAKING&OFFSHOT①CONTINUE",
+              "duration": "01:43"
+            },
+            {
+              "index": 10,
+              "title": "VOICE DIARY-SECOND DAY-",
+              "duration": "01:51"
+            },
+            {
+              "index": 11,
+              "title": "LOVE LETTER MAKING&OFFSHOT②",
+              "duration": "03:14"
+            },
+            {
+              "index": 12,
+              "title": "SHORT STORY #2",
+              "duration": "00:55"
+            },
+            {
+              "index": 13,
+              "title": "VOICE DIARY-THIRO DAY-",
+              "duration": "06:34"
+            },
+            {
+              "index": 14,
+              "title": "LOVE LETTER MAKING&OFFSHOT③",
+              "duration": "06:38"
+            },
+            {
+              "index": 15,
+              "title": "VOICE DIARY-LAST DAY-",
+              "duration": "02:52"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

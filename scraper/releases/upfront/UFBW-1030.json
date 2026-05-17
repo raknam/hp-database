@@ -1,0 +1,106 @@
+{
+  "code": "UFBW-1030",
+  "url": "/release/detail/UFBW-1030/",
+  "source": "upfront",
+  "title": "ハロー！チャンネル the DVD Vol.2",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2010/12/17",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/8255663feb974769f2b8fac9b0154921c898c16b.jpg"
+  ],
+  "editions": [
+    {
+      "name": "＜Disc1＞",
+      "image": "/images/8255663feb974769f2b8fac9b0154921c898c16b.jpg",
+      "price": "￥5,170 (税抜価格 ￥4,700)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1030",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "旅館の女将・仲居修行編",
+              "duration": "19:59"
+            },
+            {
+              "index": 2,
+              "title": "築地で青果市場体験編",
+              "duration": "15:05"
+            },
+            {
+              "index": 3,
+              "title": "TSUTAYAでお仕事編",
+              "duration": "10:20"
+            },
+            {
+              "index": 4,
+              "title": "109で！ファッション店員編",
+              "duration": "14:58"
+            },
+            {
+              "index": 5,
+              "title": "「ドン臭女王決定！体力診断」",
+              "duration": "19:54"
+            },
+            {
+              "index": 6,
+              "title": "「つんく♂かりふわ堂 お好み焼き新メニュー開発！」",
+              "duration": "20:11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "＜Disc2＞",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1031",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「亀井絵里の梅干しランキング」",
+              "duration": "19:58"
+            },
+            {
+              "index": 2,
+              "title": "「衣裳でみるハロプロの歴史」",
+              "duration": "05:00"
+            },
+            {
+              "index": 3,
+              "title": "「真野恵里菜デート@中野」",
+              "duration": "04:49"
+            },
+            {
+              "index": 4,
+              "title": "田中れいなの「漢気一直線！」",
+              "duration": "15:55"
+            },
+            {
+              "index": 5,
+              "title": "「チャレンジャー岡井千聖のあくなき闘い！！」",
+              "duration": "15:15"
+            },
+            {
+              "index": 6,
+              "title": "「卒業企画1」",
+              "duration": "29:23"
+            },
+            {
+              "index": 7,
+              "title": "「卒業企画2」",
+              "duration": "09:44"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

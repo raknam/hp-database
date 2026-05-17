@@ -1,0 +1,38 @@
+{
+  "code": "EPBE-5237",
+  "url": "/release/detail/EPBE-5237/",
+  "source": "upfront",
+  "title": "ハロプロアワー Vol.9",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2007/03/21",
+  "label": "zetima",
+  "images": [
+    "/images/04784d3a34b105382220761411648551ab5b7648.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/04784d3a34b105382220761411648551ab5b7648.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5237",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "♯19",
+              "duration": "28:58"
+            },
+            {
+              "index": 2,
+              "title": "♯20(最終回)",
+              "duration": "27:01"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

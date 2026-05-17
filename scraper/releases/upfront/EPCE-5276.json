@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-5276",
+  "url": "/release/detail/EPCE-5276/",
+  "source": "upfront",
+  "title": "カラスの女房",
+  "category": "CDシングル",
+  "artist": "堀内孝雄",
+  "releaseDate": "2004/04/28",
+  "label": "zetima",
+  "images": [
+    "/images/647a6ebd65fbbd512480daf96efb43cc9b2da82f.jpg"
+  ],
+  "editions": [
+    {
+      "name": "(ニューバージョン)",
+      "image": "/images/647a6ebd65fbbd512480daf96efb43cc9b2da82f.jpg",
+      "price": "￥1,210 (税抜価格 ￥1,100)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5276",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "カラスの女房(ニューバージョン)",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 2,
+              "title": "諦めさえしなければ",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "小椋佳",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 3,
+              "title": "カラスの女房(ニューバージョン)〜オリジナル・カラオケ〜",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 4,
+              "title": "諦めさえしなければ〜オリジナル・カラオケ〜",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "小椋佳",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

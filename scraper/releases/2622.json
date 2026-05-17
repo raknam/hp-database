@@ -1,0 +1,61 @@
+{
+  "id": 2622,
+  "url": "/release/2622/",
+  "title": "甘すぎた果実",
+  "category": "CDシングル",
+  "artist": "安倍なつみ",
+  "releaseDate": "2006.10.4",
+  "label": "hachama",
+  "images": [
+    "/upload/images/f7453f6fa5e80ef4fd111e767082547d5c3cdf4d.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "甘すぎた果実",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "BULGE/海老根祐子/古屋真",
+                "作曲": "迫茂樹",
+                "編曲": "矢野博康",
+                "歌": "安倍なつみ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "やんなっちゃう",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "BULGE",
+                "作曲": "迫茂樹",
+                "編曲": "上野圭市",
+                "歌": "安倍なつみ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "甘すぎた果実",
+              "duration": "03:43",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "BULGE/海老根祐子/古屋真",
+                "作曲": "迫茂樹",
+                "編曲": "矢野博康",
+                "歌": "安倍なつみ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50038"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "code": "UFBW-2020",
+  "url": "/release/detail/UFBW-2020/",
+  "source": "upfront",
+  "title": "ハロー！チャンネル the DVD Vol.4",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2011/06/16",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/2bb683d894f4ae53925b7a87510daa3d5d285a2a.jpg"
+  ],
+  "editions": [
+    {
+      "name": "＜Disc1＞",
+      "image": "/images/2bb683d894f4ae53925b7a87510daa3d5d285a2a.jpg",
+      "price": "￥5,170 (税抜価格 ￥4,700)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2020",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "巻頭グラビア撮影風景",
+              "duration": "21:51"
+            },
+            {
+              "index": 2,
+              "title": "田中れいなVSハーレー",
+              "duration": "12:03"
+            },
+            {
+              "index": 3,
+              "title": "チャレンジャー岡井千聖のあくなき闘い！！",
+              "duration": "21:22"
+            },
+            {
+              "index": 4,
+              "title": "真野恵里菜のアイドル100万ボルト 吉祥寺デート編",
+              "duration": "16:03"
+            },
+            {
+              "index": 5,
+              "title": "Buono!がUNO!な女子会開催",
+              "duration": "21:32"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "＜Disc2＞",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2021",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "“ガチンコ”パティシエ修行1",
+              "duration": "20:48"
+            },
+            {
+              "index": 2,
+              "title": "菅谷梨沙子 一日編集長就任！？",
+              "duration": "08:33"
+            },
+            {
+              "index": 3,
+              "title": "動物園の飼育係でフンまみれ！？",
+              "duration": "22:40"
+            },
+            {
+              "index": 4,
+              "title": "人気マンガ家 お仕事現場潜入！",
+              "duration": "16:15"
+            },
+            {
+              "index": 5,
+              "title": "妄想(ハート)パジャマトーク",
+              "duration": "15:24"
+            },
+            {
+              "index": 6,
+              "title": "シンデレラかにょん×フェアリーズッキ",
+              "duration": "07:16"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

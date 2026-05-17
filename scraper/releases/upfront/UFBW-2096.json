@@ -1,0 +1,63 @@
+{
+  "code": "UFBW-2096",
+  "url": "/release/detail/UFBW-2096/",
+  "source": "upfront",
+  "title": "BS-TBSサマーパーティー2013 ごがくゆう 同窓会",
+  "category": "DVD",
+  "artist": "モーニング娘。'14",
+  "releaseDate": "2014/02/13",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/4c85721b56c9dddd86cfafcd4342c510d4a186be.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/4c85721b56c9dddd86cfafcd4342c510d4a186be.jpg",
+      "price": "￥3,981 (税抜価格 ￥3,619)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2096",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニンク",
+              "duration": "09:24"
+            },
+            {
+              "index": 2,
+              "title": "トークコーナー",
+              "duration": "14:59"
+            },
+            {
+              "index": 3,
+              "title": "シーン再現コーナー",
+              "duration": "08:37"
+            },
+            {
+              "index": 4,
+              "title": "さよならゲキハロのコーナー",
+              "duration": "14:30"
+            },
+            {
+              "index": 5,
+              "title": "三ヵ月後のごがくゆう スケキヨ日記〜姫さまの夏休み〜1",
+              "duration": "16:16"
+            },
+            {
+              "index": 6,
+              "title": "三ヵ月後のごがくゆう スケキヨ日記〜姫さまの夏休み〜2",
+              "duration": "12:08"
+            },
+            {
+              "index": 7,
+              "title": "エンディンク",
+              "duration": "08:54"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

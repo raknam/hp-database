@@ -1,0 +1,350 @@
+{
+  "id": 2659,
+  "url": "/release/2659/",
+  "title": "モーニング娘。のミュージカル LOVEセンチュリー ー夢はみなけりゃ始まらないー",
+  "category": "VHS",
+  "artist": "モーニング娘。",
+  "releaseDate": "2001.10.17",
+  "label": "hachama",
+  "images": [
+    "/resources/images/foundation/release-placeholder.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "VHS",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "センチュリーステージ",
+              "duration": "02:10",
+              "suffix": "(過去)",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "センチュリーステージ",
+              "duration": "03:45",
+              "suffix": "(現在)",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "2人だけの秘密",
+              "duration": "03:57",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ドリーム軒",
+              "duration": "02:41",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 5,
+              "title": "踊ってみたい…",
+              "duration": "06:16",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 6,
+              "title": "圭織のお姉さん",
+              "duration": "03:32",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 7,
+              "title": "妹の分も…",
+              "duration": "01:59",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 8,
+              "title": "センチュリーランド事務所",
+              "duration": "06:06",
+              "suffix": "(社長の娘)",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 9,
+              "title": "なつみの父親",
+              "duration": "01:44",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 10,
+              "title": "社内通達",
+              "duration": "04:43",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 11,
+              "title": "ATSUKO登場",
+              "duration": "07:12",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 12,
+              "title": "再検査",
+              "duration": "03:09",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 13,
+              "title": "ステージ楽屋",
+              "duration": "00:59",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 14,
+              "title": "アンコール",
+              "duration": "01:36",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 15,
+              "title": "桜ノ森病院の待合室",
+              "duration": "02:00",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 16,
+              "title": "手術費",
+              "duration": "04:18",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 17,
+              "title": "父と娘",
+              "duration": "00:55",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 18,
+              "title": "あの子の為に…",
+              "duration": "02:30",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 19,
+              "title": "チャリティーの条件",
+              "duration": "02:32",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 20,
+              "title": "関東新聞社",
+              "duration": "01:40",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 21,
+              "title": "ホームページ",
+              "duration": "01:13",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 22,
+              "title": "宣伝の効果は…",
+              "duration": "01:22",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 23,
+              "title": "真希の頼みに…",
+              "duration": "03:24",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 24,
+              "title": "トレーニング",
+              "duration": "03:02",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 25,
+              "title": "仲間割れ",
+              "duration": "03:44",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 26,
+              "title": "心臓の悪い子の気持ち…",
+              "duration": "02:07",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 27,
+              "title": "残り5日…",
+              "duration": "02:30",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 28,
+              "title": "母と娘",
+              "duration": "02:03",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 29,
+              "title": "変れない…",
+              "duration": "03:49",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 30,
+              "title": "オペの日が…",
+              "duration": "05:07",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 31,
+              "title": "芸能面のトップ",
+              "duration": "00:42",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 32,
+              "title": "広場の夕暮れ",
+              "duration": "02:01",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 33,
+              "title": "死ぬの…？",
+              "duration": "02:30",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 34,
+              "title": "徹夜で練習",
+              "duration": "02:16",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 35,
+              "title": "ファイナルショー当日",
+              "duration": "02:36",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 36,
+              "title": "ファイナルショー",
+              "duration": "07:56",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 37,
+              "title": "1週間後…",
+              "duration": "10:04",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 38,
+              "title": "エピローグ",
+              "duration": "01:57",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 39,
+              "title": "そして未来…",
+              "duration": "16:27",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 40,
+              "title": "フィナーレ",
+              "duration": "04:50",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "HKVN-50001"
+        }
+      ]
+    }
+  ]
+}

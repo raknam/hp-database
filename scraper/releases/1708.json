@@ -1,0 +1,35 @@
+{
+  "id": 1708,
+  "url": "/release/1708/",
+  "title": "シングルV「Take It Easy!」",
+  "category": "DVDシングルV",
+  "artist": "Buono!",
+  "releaseDate": "2009.9.2",
+  "label": "ポニーキャニオン",
+  "images": [
+    "/upload/images/230121e0da346607b0d59207534e0147e36e42cc.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "シングルV「Take It Easy!」",
+              "duration": "00:00",
+              "credits": {
+                "出演": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "PCBP-51937"
+        }
+      ]
+    }
+  ]
+}

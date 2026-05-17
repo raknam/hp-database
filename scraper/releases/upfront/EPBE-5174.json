@@ -1,0 +1,60 @@
+{
+  "code": "EPBE-5174",
+  "url": "/release/detail/EPBE-5174/",
+  "source": "upfront",
+  "title": "シングルV「オンナ、哀しい、オトナ/印象派 ルノアールのように/人知れず 胸を奏でる 夜の秋」",
+  "category": "DVD",
+  "artist": "セクシーオトナジャン/エレジーズ/プリプリピンク",
+  "releaseDate": "2005/07/06",
+  "label": "zetima",
+  "images": [
+    "/images/4d7c52c195654a1f3fb9a91cea613a932a8a6941.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/4d7c52c195654a1f3fb9a91cea613a932a8a6941.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5174",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オンナ、哀しい、オトナ",
+              "duration": "05:21",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "印象派 ルノアールのように",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "人知れず 胸を奏でる 夜の秋",
+              "duration": "05:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "メイキング映像",
+              "duration": "23:40"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

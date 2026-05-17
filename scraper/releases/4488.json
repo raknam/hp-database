@@ -1,0 +1,699 @@
+{
+  "id": 4488,
+  "url": "/release/4488/",
+  "title": "Hello! Project 2015 SUMMER 〜DISCOVERY・CHALLENGER〜",
+  "category": "BD",
+  "artist": "V.A.",
+  "releaseDate": "2015.11.11",
+  "label": "hachama",
+  "images": [
+    "/upload/images/3245555a8168a277de58b52ea4c10b5614f5faf7.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:50",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋愛ハンター(updated)⇒【ダンスパフォーマンス】⇒ブスにならない哲学",
+              "duration": "10:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "オールキャスト"
+              }
+            },
+            {
+              "index": 3,
+              "title": "MC",
+              "duration": "00:40",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "メンバー紹介VTR",
+              "duration": "01:50",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 5,
+              "title": "Crying",
+              "duration": "03:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "ハロプロ研修生"
+              }
+            },
+            {
+              "index": 6,
+              "title": "青春まんまんなか！",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "KOUGA",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ラーメン大好き小泉さんの唄",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "シャ乱Q",
+                "出演": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 8,
+              "title": "わかっているのにごめんね",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介",
+                "出演": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 9,
+              "title": "MC",
+              "duration": "00:19",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 10,
+              "title": "赤いフリージア",
+              "duration": "02:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "鈴木愛理/鈴木香音/和田彩花/田口夏実"
+              }
+            },
+            {
+              "index": 11,
+              "title": "生まれたてのBaby Love",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "masaaki asada",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 12,
+              "title": "乙女の逆襲",
+              "duration": "03:06",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "川辺ヒロシ・上田禎",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 13,
+              "title": "Oh my wish!",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 14,
+              "title": "The Middle Management〜女性中間管理職〜",
+              "duration": "03:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "DANIEL MERLOT / AURELIEN POUDAT / HYON D / TAKANORI TSUNODA / STEFAN BROADLEY",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 15,
+              "title": "伊達じゃないよ うちの人生は",
+              "duration": "02:45",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 16,
+              "title": "七転び八起き",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 17,
+              "title": "青春小僧が泣いている",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 18,
+              "title": "我武者LIFE",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "KOUGA/supported by SHOCK EYE",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 19,
+              "title": "Danceでバコーン！",
+              "duration": "06:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "オールキャスト"
+              }
+            },
+            {
+              "index": 20,
+              "title": "MC",
+              "duration": "00:16",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 21,
+              "title": "ジリリ キテル",
+              "duration": "02:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 22,
+              "title": "ドスコイ！ケンキョにダイタン",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 23,
+              "title": "ためらい サマータイム",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "安田信二",
+                "出演": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 24,
+              "title": "MC",
+              "duration": "03:31",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 25,
+              "title": "【Kanon memorial medley 2004〜2015】",
+              "duration": "04:43",
+              "suffix": "大きな愛でもてなして⇒安心感⇒夢見る 15歳",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "福田花音＜アンジュルム＞ with ℃-ute/with 嗣永桃子＜カントリー・ガールズ＞/with 和田彩花＜アンジュルム＞"
+              }
+            },
+            {
+              "index": 26,
+              "title": "私、ちょいとカワイイ裏番長",
+              "duration": "03:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 27,
+              "title": "スカッとMy Heart",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 28,
+              "title": "CHOICE & CHANCE",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 29,
+              "title": "ザ☆トレジャーボックス",
+              "duration": "02:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 30,
+              "title": "ロマンスの途中",
+              "duration": "03:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 31,
+              "title": "大器晩成",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 32,
+              "title": "Kiss me 愛してる",
+              "duration": "02:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 33,
+              "title": "What is LOVE?",
+              "duration": "03:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 34,
+              "title": "MC",
+              "duration": "00:45",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 35,
+              "title": "Wonderful World",
+              "duration": "05:34",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン",
+                "出演": "オールキャスト"
+              }
+            },
+            {
+              "index": 1,
+              "title": "C＼C (シンデレラ＼コンプレックス)",
+              "duration": "02:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "岡井千聖＜℃-ute＞/佐藤優樹＜モーニング娘。'15＞/金澤朋子＜Juice＝Juice＞/井上玲音＜こぶしファクトリー＞/岸本ゆめの＜つばきファクトリー＞"
+              }
+            },
+            {
+              "index": 2,
+              "title": "赤い日記帳",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "小田さくら/中西香菜 /嗣永桃子/広瀬彩海"
+              }
+            }
+          ],
+          "catalogNo": "HKXN-50039"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "01:08",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "大器晩成⇒Love take it all⇒大器晩成",
+              "duration": "08:42",
+              "credits": {
+                "出演": "オールキャスト"
+              }
+            },
+            {
+              "index": 3,
+              "title": "MC",
+              "duration": "00:37",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "メンバー紹介VTR",
+              "duration": "01:50",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 5,
+              "title": "おへその国からこんにちは",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "ハロプロ研修生"
+              }
+            },
+            {
+              "index": 6,
+              "title": "青春まんまんなか！",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "KOUGA",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ラーメン大好き小泉さんの唄",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "シャ乱Q",
+                "出演": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 8,
+              "title": "わかっているのにごめんね",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介",
+                "出演": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 9,
+              "title": "MC",
+              "duration": "02:42",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 10,
+              "title": "今すぐ飛び込む勇気",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "児玉雨子/三浦徳子",
+                "作曲": "泰誠",
+                "出演": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 11,
+              "title": "GIRLS BE AMBITIOUS",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 12,
+              "title": "魔法使いサリー",
+              "duration": "03:18",
+              "credits": {
+                "作詞": "山本清",
+                "作曲": "小林亜星",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 13,
+              "title": "次の角を曲がれ",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 14,
+              "title": "【アクロバット&ダンスパフォーマンス】",
+              "duration": "02:47",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 15,
+              "title": "MC",
+              "duration": "01:10",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 16,
+              "title": "ヒロインになろうか！",
+              "duration": "02:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 17,
+              "title": "ROCKエロティック",
+              "duration": "02:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "こぶしファクトリー＋つばきファクトリー"
+              }
+            },
+            {
+              "index": 18,
+              "title": "ドスコイ！ケンキョにダイタン",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 19,
+              "title": "念には念(念入り Ver.)",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "アベショー",
+                "作曲": "アベショー",
+                "出演": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 20,
+              "title": "初めてのハッピーバースディ！⇒浮気なハニーパイ",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 21,
+              "title": "ためらい サマータイム",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "安田信二",
+                "出演": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 22,
+              "title": "MC",
+              "duration": "00:18",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 23,
+              "title": "【ダンスパフォーマンス】",
+              "duration": "02:42",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 24,
+              "title": "イジワルしないで 抱きしめてよ⇒私が言う前に抱きしめなきゃね",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 25,
+              "title": "選ばれし私達",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 26,
+              "title": "ミステリーナイト！⇒好きよ、純情反抗期。",
+              "duration": "05:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 27,
+              "title": "臥薪嘗胆",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "gridoor",
+                "作曲": "星部ショウ",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 28,
+              "title": "Help me!!(updated)⇒One･Two･Three(updated)",
+              "duration": "05:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 29,
+              "title": "Password is 0",
+              "duration": "02:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 30,
+              "title": "都会っ子 純情(2012神聖なるVer.)⇒Crazy 完全な大人",
+              "duration": "05:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 31,
+              "title": "いざ、進め！ Steady go!",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 32,
+              "title": "MC",
+              "duration": "01:14",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 33,
+              "title": "そうだ！We're ALIVE(updated)",
+              "duration": "05:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "オールキャスト"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

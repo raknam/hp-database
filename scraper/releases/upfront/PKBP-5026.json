@@ -1,0 +1,78 @@
+{
+  "code": "PKBP-5026",
+  "url": "/release/detail/PKBP-5026/",
+  "source": "upfront",
+  "title": "Berryz工房 シングルVクリップス①",
+  "category": "DVD",
+  "artist": "Berryz工房",
+  "releaseDate": "2004/12/15",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/315bde64e0fefac15cd92e1235c7532076bdc90e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/315bde64e0fefac15cd92e1235c7532076bdc90e.jpg",
+      "price": "￥3,080 (税抜価格 ￥2,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5026",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニングタイトル",
+              "duration": "00:05"
+            },
+            {
+              "index": 2,
+              "title": "あなたなしでは生きてゆけない",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ファイティングポーズはダテじゃない！",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ピリリと行こう！",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ハピネス〜幸福歓迎！〜(New Ver.)",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "恋の呪縛",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": 4479,
+  "url": "/release/4479/",
+  "title": "佐々木莉佳子写真集「RIKAKO」メイキングDVD〜特別編集版〜",
+  "category": "DVD",
+  "artist": "佐々木莉佳子",
+  "releaseDate": "2015.9.15",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/resources/images/foundation/release-placeholder.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "DAY1",
+              "duration": "11:51",
+              "credits": {
+                "出演": "佐々木莉佳子"
+              }
+            },
+            {
+              "index": 1,
+              "title": "DAY2",
+              "duration": "22:22",
+              "credits": {
+                "出演": "佐々木莉佳子"
+              }
+            },
+            {
+              "index": 1,
+              "title": "DAY3",
+              "duration": "16:02",
+              "credits": {
+                "出演": "佐々木莉佳子"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-2111"
+        }
+      ]
+    }
+  ]
+}

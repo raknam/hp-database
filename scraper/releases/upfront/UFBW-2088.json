@@ -1,0 +1,73 @@
+{
+  "code": "UFBW-2088",
+  "url": "/release/detail/UFBW-2088/",
+  "source": "upfront",
+  "title": "“萩原舞写真集「まい②」” メイキングDVD〜特別編集版〜",
+  "category": "DVD",
+  "artist": "萩原舞",
+  "releaseDate": "2013/09/27",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/e1431a5f43194a6a232bef6f55c01ae0ad8f9824.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/e1431a5f43194a6a232bef6f55c01ae0ad8f9824.jpg",
+      "price": "￥2,750 (税抜価格 ￥2,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2088",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Chapter1",
+              "duration": "06:16"
+            },
+            {
+              "index": 2,
+              "title": "Chapter2",
+              "duration": "07:33"
+            },
+            {
+              "index": 3,
+              "title": "Chapter3",
+              "duration": "02:06"
+            },
+            {
+              "index": 4,
+              "title": "Chapter4",
+              "duration": "07:20"
+            },
+            {
+              "index": 5,
+              "title": "Chapter5",
+              "duration": "04:49"
+            },
+            {
+              "index": 6,
+              "title": "Chapter6",
+              "duration": "06:27"
+            },
+            {
+              "index": 7,
+              "title": "Chapter7",
+              "duration": "09:02"
+            },
+            {
+              "index": 8,
+              "title": "Chapter8",
+              "duration": "04:14"
+            },
+            {
+              "index": 9,
+              "title": "Chapter9",
+              "duration": "03:48"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "code": "HKBN-50023",
+  "url": "/release/detail/HKBN-50023/",
+  "source": "upfront",
+  "title": "アイドルをさがせ！コレクションVol.2 ～ハロプロメンバー総出演！～",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2002/12/04",
+  "label": "hachama",
+  "images": [
+    "/images/nowprinting.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/nowprinting.jpg",
+      "price": "￥4,950 (税抜価格 ￥4,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKBN-50023",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "タイトル ドラマ「キャプテンしばた」",
+              "duration": "00:00"
+            },
+            {
+              "index": 2,
+              "title": "インタビュー",
+              "duration": "01:06"
+            },
+            {
+              "index": 3,
+              "title": "飯田・りんね ゲストトーク集〜後編〜",
+              "duration": "01:15"
+            },
+            {
+              "index": 4,
+              "title": "飯田・りんねVSゾベッカ MC争奪戦(2001年1月･2月O.A.)",
+              "duration": "32:48"
+            },
+            {
+              "index": 5,
+              "title": "中澤・平家 in GUAM(1999年12月O.A)",
+              "duration": "12:22"
+            },
+            {
+              "index": 6,
+              "title": "「キャプテンしばた」メイキング映像",
+              "duration": "03:54"
+            },
+            {
+              "index": 7,
+              "title": "「もしもモーニング娘。のメンバーが映画を製作するとしたら…」",
+              "duration": "05:04"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

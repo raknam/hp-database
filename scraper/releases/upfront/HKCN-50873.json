@@ -1,0 +1,75 @@
+{
+  "code": "HKCN-50873",
+  "url": "/release/detail/HKCN-50873/",
+  "source": "upfront",
+  "title": "BaBaBa Burning Love！/愛が愛のままでいられますように(曲順未定)",
+  "category": "CDシングル",
+  "artist": "アンジュルム",
+  "releaseDate": "2026/07/22",
+  "label": "hachama",
+  "images": [
+    "/images/nowprinting.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/nowprinting.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50873",
+          "tracks": []
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": null,
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKCN-50875",
+          "tracks": []
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": null,
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50877",
+          "tracks": []
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": null,
+      "price": "￥1,200 (税抜価格 ￥1,091)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKCN-50879",
+          "tracks": []
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": null,
+      "price": "￥1,200 (税抜価格 ￥1,091)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50880",
+          "tracks": []
+        }
+      ]
+    }
+  ]
+}

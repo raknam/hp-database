@@ -1,0 +1,83 @@
+{
+  "id": 1799,
+  "url": "/release/1799/",
+  "title": "アロハロ！ Berryz工房 DVD",
+  "category": "DVD",
+  "artist": "Berryz工房",
+  "releaseDate": "2009.6.10",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/upload/images/d1449f974a9bcacef9cea923da91a47162d2e6f0.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "01:05",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "UKULELE",
+              "duration": "13:10",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "LUNCH",
+              "duration": "09:00",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Kualoa Ranch Hawaii",
+              "duration": "15:54",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 5,
+              "title": "SHOPPING",
+              "duration": "23:54",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 6,
+              "title": "BEACH",
+              "duration": "21:45",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ENDING",
+              "duration": "06:46",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "PKBP-5112"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": 3464,
+  "url": "/release/3464/",
+  "title": "フィギュア",
+  "category": "BD",
+  "artist": "高橋愛",
+  "releaseDate": "2010.12.22",
+  "label": "zetima",
+  "images": [
+    "/upload/images/2877501e43f050c4b6e61c700b513852eb167178.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "00:33",
+              "credits": {
+                "出演": "高橋愛(モーニング娘。)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "A girl at cafe",
+              "duration": "02:59",
+              "credits": {
+                "出演": "高橋愛(モーニング娘。)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Date with her",
+              "duration": "07:22",
+              "credits": {
+                "出演": "高橋愛(モーニング娘。)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Billiards",
+              "duration": "04:34",
+              "credits": {
+                "出演": "高橋愛(モーニング娘。)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "To the beach",
+              "duration": "08:59",
+              "credits": {
+                "出演": "高橋愛(モーニング娘。)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Making of 『形』",
+              "duration": "25:11",
+              "credits": {
+                "出演": "高橋愛(モーニング娘。)"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Ending",
+              "duration": "04:50",
+              "credits": {
+                "出演": "高橋愛(モーニング娘。)"
+              }
+            }
+          ],
+          "catalogNo": "EPXE-5004"
+        }
+      ]
+    }
+  ]
+}

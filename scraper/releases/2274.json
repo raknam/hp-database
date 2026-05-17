@@ -1,0 +1,60 @@
+{
+  "id": 2274,
+  "url": "/release/2274/",
+  "title": "可憐な合唱団",
+  "category": "CDシングル",
+  "artist": "ハロプロ研修生",
+  "releaseDate": "2014.5.15",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/8d03c8c8287231fd3b5303481d9de3052f628195.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "可憐な合唱団",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "太田善也",
+                "作曲": "遠藤浩二",
+                "編曲": "遠藤浩二",
+                "歌": "ハロプロ研修生"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アニーローリー",
+              "duration": "02:58",
+              "credits": {
+                "作詞": "スコットランド民謡 日本語訳:堀内敬三",
+                "作曲": "スコットランド民謡",
+                "編曲": "遠藤浩二",
+                "歌": "ハロプロ研修生"
+              }
+            },
+            {
+              "index": 3,
+              "title": "気球にのってどこまでも",
+              "duration": "02:17",
+              "credits": {
+                "作詞": "東 龍男",
+                "作曲": "平吉毅州",
+                "編曲": "遠藤浩二",
+                "歌": "ハロプロ研修生"
+              }
+            }
+          ],
+          "catalogNo": "TGCS-7999"
+        }
+      ]
+    }
+  ]
+}

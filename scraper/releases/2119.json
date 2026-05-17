@@ -1,0 +1,107 @@
+{
+  "id": 2119,
+  "url": "/release/2119/",
+  "title": "ハロー!SATOYAMAライフ Vol.20",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2013.12.2",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/47f3cc7589906a3f1b45f1633bb3fca26362bab3.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "里山でイチゴの収穫をしよう！",
+              "duration": "11:19",
+              "credits": {
+                "出演": "中島早貴(℃-ute)/和田彩花・福田花音・中西香菜・竹内朱莉(スマイレージ)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "里山に種まきの季節がやってきた！",
+              "duration": "06:30",
+              "credits": {
+                "出演": "中島早貴(℃-ute)/中西香菜・竹内朱莉(スマイレージ)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "生田が初参加！里山でスイカの種まきをしよう！",
+              "duration": "13:35",
+              "credits": {
+                "出演": "生田衣梨菜・飯窪春菜・石田亜佑美(モーニング娘。)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Hello!Project 野音プレミアムLIVE〜外フェス〜に密着！",
+              "duration": "13:05",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 5,
+              "title": "モーニング娘。田中れいな ラストステージに密着！",
+              "duration": "23:08",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Berryz工房「ゴールデン チャイナタウン」MV撮影に密着！",
+              "duration": "03:35",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Berryz工房「サヨナラ ウソつきの私」MV撮影に密着！未公開映像",
+              "duration": "03:59",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 8,
+              "title": "スマイレージ「ヤッタルチャン」MV撮影に密着！",
+              "duration": "05:37",
+              "credits": {
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 9,
+              "title": "Juice＝Juice「五月雨美女がさ乱れる」MV撮影に密着！",
+              "duration": "03:36",
+              "credits": {
+                "出演": "Juice＝Juice"
+              }
+            },
+            {
+              "index": 10,
+              "title": "ハロプロ研修生総出演 春の公開実力診断テストに密着！",
+              "duration": "03:45",
+              "credits": {
+                "出演": "ハロプロ研修生"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1311"
+        }
+      ]
+    }
+  ]
+}

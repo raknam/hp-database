@@ -1,0 +1,128 @@
+{
+  "id": 5329,
+  "url": "/release/5329/",
+  "title": "The Girls Live Vol.34",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2017.8.16",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/2d646b061c6abfe2e01fc572906576c346d1dd0e.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "音探しの旅 in 八景島シーパラダイス",
+              "duration": "21:06",
+              "suffix": "【新企画】",
+              "credits": {
+                "出演": "飯窪春菜&佐藤優樹 (モーニング娘。'16)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アフターミールダンス",
+              "duration": "04:23",
+              "suffix": "【新企画】",
+              "credits": {
+                "出演": "宮本佳林 (Juice=Juice)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "音楽×書道",
+              "duration": "02:20",
+              "suffix": "【新企画】",
+              "credits": {
+                "出演": "竹内朱莉 (アンジュルム)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "KEEP ON 上昇志向！！",
+              "duration": "04:42",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Dream Road〜心が躍り出してる〜",
+              "duration": "05:28",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "明日やろうはバカやろう",
+              "duration": "03:56",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "板垣祐介",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ドンデンガエシ",
+              "duration": "05:07",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "宇宙慧",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 8,
+              "title": "バイバイメトロ",
+              "duration": "04:30",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "炭竃智弘",
+                "出演": "Bitter & Sweet"
+              }
+            },
+            {
+              "index": 9,
+              "title": "メチャキュン・サマー( ´ ▽ ` )ﾉ",
+              "duration": "04:33",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "出演": "アップアップガールズ(仮)"
+              }
+            },
+            {
+              "index": 10,
+              "title": "チャオ ベッラ チンクエッティ MV撮影密着",
+              "duration": "03:35",
+              "credits": {
+                "出演": "チャオ ベッラ チンクエッティ"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1552"
+        }
+      ]
+    }
+  ]
+}

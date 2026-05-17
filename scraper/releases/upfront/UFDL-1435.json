@@ -1,0 +1,48 @@
+{
+  "code": "UFDL-1435",
+  "url": "/release/detail/UFDL-1435/",
+  "source": "upfront",
+  "title": "暁 -yoake-",
+  "category": "配信シングル",
+  "artist": "吉川友",
+  "releaseDate": "2019/07/31",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/7f3b8a19b2106eca06ab1942f3b2b1f39ffe28f5.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7f3b8a19b2106eca06ab1942f3b2b1f39ffe28f5.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信シングル",
+          "catalogNo": "UFDL-1435",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "暁 -yoake-",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "理姫",
+                "作曲": "奥脇達也",
+                "編曲": "かずぼーい/michitomo"
+              }
+            },
+            {
+              "index": 2,
+              "title": "暁 -yoake-(Instrumental)",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "理姫",
+                "作曲": "奥脇達也",
+                "編曲": "かずぼーい/michitomo"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

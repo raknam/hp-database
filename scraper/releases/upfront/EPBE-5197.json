@@ -1,0 +1,60 @@
+{
+  "code": "EPBE-5197",
+  "url": "/release/detail/EPBE-5197/",
+  "source": "upfront",
+  "title": "砂を噛むように…NAMIDA 〜スタジオライブ〜",
+  "category": "DVD",
+  "artist": "松浦亜弥",
+  "releaseDate": "2006/03/29",
+  "label": "zetima",
+  "images": [
+    "/images/61cf1582039f5a0b27c9ea9c362affec84916bf0.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/61cf1582039f5a0b27c9ea9c362affec84916bf0.jpg",
+      "price": "￥1,980 (税抜価格 ￥1,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5197",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "砂を噛むように…NAMIDA",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "森村メラ",
+                "作曲": "Joey Carbone &Kyoko Nitta"
+              }
+            },
+            {
+              "index": 2,
+              "title": "渡良瀬橋",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "斉藤英夫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "LOVE涙色",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "松浦亜弥スペシャルコメント",
+              "duration": "04:34"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

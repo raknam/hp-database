@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-5249",
+  "url": "/release/detail/EPCE-5249/",
+  "source": "upfront",
+  "title": "千鳥足",
+  "category": "CDシングル",
+  "artist": "杉田二郎",
+  "releaseDate": "2004/02/25",
+  "label": "zetima",
+  "images": [
+    "/images/35b66a8a36c910240a083574cbc780def16bc95c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/35b66a8a36c910240a083574cbc780def16bc95c.jpg",
+      "price": "￥1,210 (税抜価格 ￥1,100)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5249",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "千鳥足",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "伊藤薫",
+                "作曲": "伊藤薫",
+                "編曲": "塩入俊哉"
+              }
+            },
+            {
+              "index": 2,
+              "title": "お前に",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "伊藤薫",
+                "作曲": "杉田二郎",
+                "編曲": "塩入俊哉"
+              }
+            },
+            {
+              "index": 3,
+              "title": "千鳥足(オリジナル・カラオケ)",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "伊藤薫",
+                "作曲": "伊藤薫",
+                "編曲": "塩入俊哉"
+              }
+            },
+            {
+              "index": 4,
+              "title": "お前に(オリジナル・カラオケ)",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "伊藤薫",
+                "作曲": "杉田二郎",
+                "編曲": "塩入俊哉"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

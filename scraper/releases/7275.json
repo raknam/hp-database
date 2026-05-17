@@ -1,0 +1,38 @@
+{
+  "id": 7275,
+  "url": "/release/7275/",
+  "title": "私がオバさんになっても",
+  "category": "配信",
+  "artist": "新沼希空",
+  "releaseDate": "2024.6.11",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/b9a817119cd0d09c42d8bbb061063634dddd365e.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "私がオバさんになっても",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "斉藤英夫",
+                "編曲": "Carlos K.",
+                "歌": "新沼希空(つばきファクトリー)"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1538"
+        }
+      ]
+    }
+  ]
+}

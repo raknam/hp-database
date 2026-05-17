@@ -1,0 +1,78 @@
+{
+  "code": "EPBE-5056",
+  "url": "/release/detail/EPBE-5056/",
+  "source": "upfront",
+  "title": "亜弥のDNA",
+  "category": "DVD",
+  "artist": "松浦亜弥",
+  "releaseDate": "2003/01/16",
+  "label": "zetima",
+  "images": [
+    "/images/4f3464c14d1a6303be6e76acfb5f7431cca7a33a.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/4f3464c14d1a6303be6e76acfb5f7431cca7a33a.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5056",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "タイトル",
+              "duration": "04:49"
+            },
+            {
+              "index": 2,
+              "title": "第2話 情熱のキッス",
+              "duration": "05:08"
+            },
+            {
+              "index": 3,
+              "title": "第3話 亜弥がカツ丼を食べた",
+              "duration": "07:45"
+            },
+            {
+              "index": 4,
+              "title": "第4話 ピッチピチ娘に御用心",
+              "duration": "06:51"
+            },
+            {
+              "index": 5,
+              "title": "第5話 メル友って何じゃ？",
+              "duration": "07:04"
+            },
+            {
+              "index": 6,
+              "title": "第6話 亜弥の説教部屋",
+              "duration": "07:16"
+            },
+            {
+              "index": 7,
+              "title": "第7話 亜弥、大いに怒る",
+              "duration": "07:27"
+            },
+            {
+              "index": 8,
+              "title": "第8話 亜弥、最後の闘い",
+              "duration": "06:09"
+            },
+            {
+              "index": 9,
+              "title": "最終回 亜弥、いい日旅立ち",
+              "duration": "06:09"
+            },
+            {
+              "index": 10,
+              "title": "メイキング",
+              "duration": "05:57"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

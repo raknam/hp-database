@@ -1,0 +1,100 @@
+{
+  "code": "HKCN-50253",
+  "url": "/release/detail/HKCN-50253/",
+  "source": "upfront",
+  "title": "雨粒パール/抱きしめたい 抱きしめたい",
+  "category": "CDシングル",
+  "artist": "ALMA KAMINIITO",
+  "releaseDate": "2012/10/24",
+  "label": "hachama",
+  "images": [
+    "/images/6d610f284b0aedba4c075bb1891701a97366a4a2.jpg",
+    "/images/2def9c1fd72402e63414738bb47889b40da7f27f.jpg"
+  ],
+  "editions": [
+    {
+      "name": "初回生産限定盤(DVD付き)",
+      "image": "/images/6d610f284b0aedba4c075bb1891701a97366a4a2.jpg",
+      "price": "￥1,676 (税抜価格 ￥1,524)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50253",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "雨粒パール",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "RUN.A",
+                "作曲": "宮崎誠",
+                "編曲": "宮崎誠"
+              }
+            },
+            {
+              "index": 2,
+              "title": "抱きしめたい 抱きしめたい",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "夕紗",
+                "編曲": "菊谷知樹"
+              }
+            },
+            {
+              "index": 3,
+              "title": "雨粒パール(Instrumental)",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "RUN.A",
+                "作曲": "宮崎誠",
+                "編曲": "宮崎誠"
+              }
+            },
+            {
+              "index": 4,
+              "title": "抱きしめたい 抱きしめたい(Instrumental)",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "夕紗",
+                "編曲": "菊谷知樹"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/images/2def9c1fd72402e63414738bb47889b40da7f27f.jpg",
+      "price": "￥1,047 (税抜価格 ￥952)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50255",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "雨粒パール(Music Video)",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "RUN.A",
+                "作曲": "宮崎誠"
+              }
+            },
+            {
+              "index": 2,
+              "title": "抱きしめたい 抱きしめたい(Music Video)",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "夕紗"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

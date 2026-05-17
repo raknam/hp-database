@@ -1,0 +1,61 @@
+{
+  "id": 2839,
+  "url": "/release/2839/",
+  "title": "うらら",
+  "category": "CDシングル",
+  "artist": "中澤裕子",
+  "releaseDate": "2006.9.27",
+  "label": "zetima",
+  "images": [
+    "/upload/images/d26a49e04ba65886b7be10e79d5e8685634af1b3.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "うらら",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "永井龍雲",
+                "作曲": "永井龍雲",
+                "編曲": "上杉洋史",
+                "歌": "中澤裕子"
+              }
+            },
+            {
+              "index": 2,
+              "title": "June bride 六月の花嫁にあこがれ",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "永井龍雲",
+                "作曲": "永井龍雲",
+                "編曲": "上杉洋史",
+                "歌": "中澤裕子"
+              }
+            },
+            {
+              "index": 3,
+              "title": "うらら",
+              "duration": "05:06",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "永井龍雲",
+                "作曲": "永井龍雲",
+                "編曲": "上杉洋史",
+                "歌": "中澤裕子"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5423"
+        }
+      ]
+    }
+  ]
+}

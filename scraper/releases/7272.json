@@ -1,0 +1,93 @@
+{
+  "id": 7272,
+  "url": "/release/7272/",
+  "title": "灰toダイヤモンド/Go City Go/フックの法則(Special Edition)",
+  "category": "配信",
+  "artist": "BEYOOOOONDS",
+  "releaseDate": "2024.5.29",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/b0b811e2f189ea70257293f61360dfd755a699c4.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "灰toダイヤモンド",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Go City Go",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "フックの法則",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "恋する銀河",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "加藤裕介",
+                "編曲": "加藤裕介",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 5,
+              "title": "WORKER讃歌",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "小松一也",
+                "編曲": "小松一也",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Oh！カンターレ",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Shusui/Anders Dannvik",
+                "編曲": "Anders Dannvik/加藤裕介",
+                "歌": "BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1537"
+        }
+      ]
+    }
+  ]
+}

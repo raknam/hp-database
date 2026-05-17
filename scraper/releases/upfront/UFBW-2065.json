@@ -1,0 +1,68 @@
+{
+  "code": "UFBW-2065",
+  "url": "/release/detail/UFBW-2065/",
+  "source": "upfront",
+  "title": "Greeting 〜飯窪春菜〜",
+  "category": "DVD",
+  "artist": "飯窪春菜",
+  "releaseDate": "2012/08/30",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/d7b376e7f3a02ce2df191bf443e675f9e4f94f68.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d7b376e7f3a02ce2df191bf443e675f9e4f94f68.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2065",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Greeting",
+              "duration": "06:22"
+            },
+            {
+              "index": 2,
+              "title": "Interview1",
+              "duration": "03:28"
+            },
+            {
+              "index": 3,
+              "title": "Way home",
+              "duration": "03:48"
+            },
+            {
+              "index": 4,
+              "title": "nterview2",
+              "duration": "08:09"
+            },
+            {
+              "index": 5,
+              "title": "Sea breeze",
+              "duration": "10:38"
+            },
+            {
+              "index": 6,
+              "title": "Interview3",
+              "duration": "07:15"
+            },
+            {
+              "index": 7,
+              "title": "Deep forest",
+              "duration": "07:35"
+            },
+            {
+              "index": 8,
+              "title": "Ending",
+              "duration": "04:33"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

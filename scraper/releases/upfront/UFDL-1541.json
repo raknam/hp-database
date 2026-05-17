@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1541",
+  "url": "/release/detail/UFDL-1541/",
+  "source": "upfront",
+  "title": "愛はまるで静電気",
+  "category": "配信",
+  "artist": "山﨑夢羽",
+  "releaseDate": "2024/06/28",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/f080ad21b66aaaf709467de4adc5b707e10d8698.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f080ad21b66aaaf709467de4adc5b707e10d8698.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1541",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛はまるで静電気",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

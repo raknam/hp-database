@@ -1,0 +1,58 @@
+{
+  "code": "PKCP-5016",
+  "url": "/release/detail/PKCP-5016/",
+  "source": "upfront",
+  "title": "ずっとずっと",
+  "category": "CDシングル",
+  "artist": "市井紗耶香",
+  "releaseDate": "2003/05/01",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/7ba6eb6d0c2c7dc74587267ecbad00e37992db80.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7ba6eb6d0c2c7dc74587267ecbad00e37992db80.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5016",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ずっとずっと",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "市井紗耶香＆園田凌士",
+                "作曲": "たいせー",
+                "編曲": "矢野博康"
+              }
+            },
+            {
+              "index": 2,
+              "title": "journey",
+              "duration": "05:28",
+              "credits": {
+                "作詞": "市井紗耶香",
+                "作曲": "吉澤直樹＆たいせー",
+                "編曲": "吉澤直樹＆たいせー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ずっとずっと(Instrumental)",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "市井紗耶香＆園田凌士",
+                "作曲": "たいせー",
+                "編曲": "矢野博康"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

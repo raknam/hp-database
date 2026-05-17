@@ -1,0 +1,130 @@
+{
+  "code": "UFBW-2061",
+  "url": "/release/detail/UFBW-2061/",
+  "source": "upfront",
+  "title": "ハロー！チャンネル the DVD Vol.8",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012/06/29",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/e568c915da9fcc14c53fe482ac673857f5d25632.jpg"
+  ],
+  "editions": [
+    {
+      "name": "＜Disc1＞",
+      "image": "/images/e568c915da9fcc14c53fe482ac673857f5d25632.jpg",
+      "price": "￥5,170 (税抜価格 ￥4,700)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2061",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "卒業",
+              "duration": "12:53"
+            },
+            {
+              "index": 2,
+              "title": "モーニング娘。10期メンバーVSスマイレージ新メンバー フラフープ＆縄跳び対決",
+              "duration": "14:54"
+            },
+            {
+              "index": 3,
+              "title": "Berryz工房＆℃-uteVSモーニング娘。＆スマイレージ ボウリング対決",
+              "duration": "22:34"
+            },
+            {
+              "index": 4,
+              "title": "℃-ute萩原舞プレゼンツ 第2回カラオケ大会",
+              "duration": "22:05"
+            },
+            {
+              "index": 5,
+              "title": "児島玲子presents ハロプロ釣り大会",
+              "duration": "21:39"
+            },
+            {
+              "index": 6,
+              "title": "もしものためのハロー！防災体験 at本所防災館",
+              "duration": "16:11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "＜Disc2＞",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2062",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "抹茶ーず実働企画 第一弾 抹茶デザート研究室",
+              "duration": "11:54"
+            },
+            {
+              "index": 2,
+              "title": "PART1 名古屋新カフェ探訪",
+              "duration": "02:52"
+            },
+            {
+              "index": 3,
+              "title": "PART2 大阪町ぶらり散歩",
+              "duration": "06:44"
+            },
+            {
+              "index": 4,
+              "title": "バッティングセンター対決勝者工藤遥ご褒美企画 鈴木香音がお供！富士急ハイランドで思いっきり遊んできました！",
+              "duration": "17:06"
+            },
+            {
+              "index": 5,
+              "title": "私のペット自慢！",
+              "duration": "09:59"
+            },
+            {
+              "index": 6,
+              "title": "ノスタルジック・ハート File3",
+              "duration": "03:27"
+            },
+            {
+              "index": 7,
+              "title": "道重さゆみという女 CASE07 道重さゆみ×嶺脇育夫(タワーレコード社長)",
+              "duration": "16:15"
+            },
+            {
+              "index": 8,
+              "title": "DAWA画伯(第4回)",
+              "duration": "07:16"
+            },
+            {
+              "index": 9,
+              "title": "ハロプロ イラストアカデミー",
+              "duration": "09:12"
+            },
+            {
+              "index": 10,
+              "title": "コスプレでいこう！！ 第1回Berryz工房 嗣永桃子が「マクロス F ランカ・リー」に挑戦",
+              "duration": "04:14"
+            },
+            {
+              "index": 11,
+              "title": "ハロー！イラストレイション 真野恵里菜×江口寿史(漫画家)",
+              "duration": "05:53",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

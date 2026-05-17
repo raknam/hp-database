@@ -1,0 +1,83 @@
+{
+  "code": "UFBW-1498",
+  "url": "/release/detail/UFBW-1498/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.24",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2016/08/10",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/fb0424899b1e1686c324f59ffbdcbda684c39409.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/fb0424899b1e1686c324f59ffbdcbda684c39409.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1498",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アイドル10年 エピソード1〜エピソード10【福田花音 卒業企画】",
+              "duration": "32:26"
+            },
+            {
+              "index": 2,
+              "title": "夕暮れ 恋の時間【スタジオライブ】",
+              "duration": "05:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "交差点【スタジオライブ】",
+              "duration": "04:47",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "小泉尊史"
+              }
+            },
+            {
+              "index": 4,
+              "title": "9期女子会【鞘師里保 卒業企画】",
+              "duration": "14:11"
+            },
+            {
+              "index": 5,
+              "title": "One and Only【スタジオライブ】",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "つんく/英訳詞:ALISA",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "冷たい風と片思い【スタジオライブ】",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ENDLESS SKY【スタジオライブ】",
+              "duration": "05:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

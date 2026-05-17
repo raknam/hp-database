@@ -1,0 +1,61 @@
+{
+  "id": 3600,
+  "url": "/release/3600/",
+  "title": "一切合切 あなたに∮あ・げ・る♪",
+  "category": "CDシングル",
+  "artist": "美勇伝",
+  "releaseDate": "2006.5.10",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/upload/images/65a9b5f36e6c58b502dc771a9911d11debdbbf49.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "一切合切 あなたに∮あ・げ・る♪",
+              "duration": "03:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "美勇伝"
+              }
+            },
+            {
+              "index": 2,
+              "title": "キョウモマッテマス",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "美勇伝"
+              }
+            },
+            {
+              "index": 3,
+              "title": "一切合切 あなたに∮あ・げ・る♪",
+              "duration": "03:28",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "美勇伝"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5064"
+        }
+      ]
+    }
+  ]
+}

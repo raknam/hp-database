@@ -1,0 +1,37 @@
+{
+  "code": "UFDL-1461",
+  "url": "/release/detail/UFDL-1461/",
+  "source": "upfront",
+  "title": "きみにだけ人見知り (Home Demo ver.)",
+  "category": "配信",
+  "artist": "鈴木愛理",
+  "releaseDate": "2020/08/01",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/f452157f282fd71758af5122fd4c06c8b4c90426.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f452157f282fd71758af5122fd4c06c8b4c90426.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1461",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "きみにだけ人見知り(Home Demo ver.)",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "鈴木愛理/山崎あおい",
+                "作曲": "鈴木愛理/山崎あおい"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

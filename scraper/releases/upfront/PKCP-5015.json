@@ -1,0 +1,78 @@
+{
+  "code": "PKCP-5015",
+  "url": "/release/detail/PKCP-5015/",
+  "source": "upfront",
+  "title": "サン・トワ・マミー/君といつまでも",
+  "category": "CDシングル",
+  "artist": "後藤真希",
+  "releaseDate": "2002/12/18",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/d8fded7adee7e8fef2886d9efd86b375cda20c16.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d8fded7adee7e8fef2886d9efd86b375cda20c16.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5015",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "サン・トワ・マミー",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "岩谷時子",
+                "作曲": "サルバトーレ・アダモ",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "サン・トワ・マミー(Musical version)",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "岩谷時子",
+                "作曲": "サルバトーレ・アダモ",
+                "編曲": "井川雅幸＆高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "君といつまでも",
+              "duration": "03:14",
+              "credits": {
+                "作詞": "岩谷時子",
+                "作曲": "弾厚作",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 4,
+              "title": "サン・トワ・マミー(Instrumental)",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "岩谷時子",
+                "作曲": "サルバトーレ・アダモ",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 5,
+              "title": "君といつまでも(Instrumental)",
+              "duration": "03:14",
+              "credits": {
+                "作詞": "岩谷時子",
+                "作曲": "弾厚作",
+                "編曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

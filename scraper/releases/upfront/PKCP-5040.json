@@ -1,0 +1,58 @@
+{
+  "code": "PKCP-5040",
+  "url": "/release/detail/PKCP-5040/",
+  "source": "upfront",
+  "title": "ピリリと行こう！",
+  "category": "CDシングル",
+  "artist": "Berryz工房",
+  "releaseDate": "2004/05/26",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/e9beeb31189317a99707e73404bf683705c0ea76.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/e9beeb31189317a99707e73404bf683705c0ea76.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5040",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ピリリと行こう！",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "かっちょええ！",
+              "duration": "02:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "田中直"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ピリリと行こう！(Instrumental)",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

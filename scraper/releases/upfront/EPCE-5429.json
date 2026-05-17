@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-5429",
+  "url": "/release/detail/EPCE-5429/",
+  "source": "upfront",
+  "title": "いま君に逢いたいと思うこと",
+  "category": "CDシングル",
+  "artist": "中島卓偉",
+  "releaseDate": "2006/11/01",
+  "label": "zetima",
+  "images": [
+    "/images/227054d10ca4746977e6d151b704e693f78e6fbc.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/227054d10ca4746977e6d151b704e693f78e6fbc.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5429",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "いま君に逢いたいと思うこと",
+              "duration": "05:14",
+              "credits": {
+                "作詞": "タカハシアキラ/中島卓偉",
+                "作曲": "タカハシアキラ",
+                "編曲": "佐橋佳幸"
+              }
+            },
+            {
+              "index": 2,
+              "title": "トキメキ/キラメキ",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "斎藤有太"
+              }
+            },
+            {
+              "index": 3,
+              "title": "傘をささない君のために(Personal Version)",
+              "duration": "05:28",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 4,
+              "title": "いま君に逢いたいと思うこと(Instrumental)",
+              "duration": "05:11",
+              "credits": {
+                "作詞": "タカハシアキラ/中島卓偉",
+                "作曲": "タカハシアキラ",
+                "編曲": "佐橋佳幸"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

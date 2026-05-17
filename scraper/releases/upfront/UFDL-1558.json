@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1558",
+  "url": "/release/detail/UFDL-1558/",
+  "source": "upfront",
+  "title": "Oops!",
+  "category": "配信",
+  "artist": "鈴木愛理",
+  "releaseDate": "2025/05/31",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/fffa7930e9fbd3836481316d59b92901b7150ca5.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/fffa7930e9fbd3836481316d59b92901b7150ca5.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1558",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Oops!",
+              "duration": "02:43",
+              "credits": {
+                "作詞": "鈴木愛理/大槻政司",
+                "作曲": "大槻政司",
+                "編曲": "大槻政司"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

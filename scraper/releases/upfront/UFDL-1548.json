@@ -1,0 +1,68 @@
+{
+  "code": "UFDL-1548",
+  "url": "/release/detail/UFDL-1548/",
+  "source": "upfront",
+  "title": "星屑のエスケープ/終わらないインソムニア(Special Edition)",
+  "category": "配信",
+  "artist": "稲場愛香",
+  "releaseDate": "2025/02/19",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/ba7e26d94b47c651bab796d92cb84189534a4866.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/ba7e26d94b47c651bab796d92cb84189534a4866.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1548",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "星屑のエスケープ",
+              "duration": "03:11",
+              "credits": {
+                "作詞": "常楽寺澪",
+                "作曲": "Andreas Ohrn/Peter Bostrom/David Bonk/Julia Bergen",
+                "編曲": "Peter Bostrom"
+              }
+            },
+            {
+              "index": 2,
+              "title": "終わらないインソムニア",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "zopp",
+                "作曲": "大島こうすけ",
+                "編曲": "大島こうすけ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Pop Star",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "富永美杜",
+                "作曲": "山木隆一郎",
+                "編曲": "山木隆一郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "いい子じゃいられNight",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "zopp",
+                "作曲": "大島こうすけ",
+                "編曲": "大島こうすけ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

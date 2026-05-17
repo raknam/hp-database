@@ -1,0 +1,134 @@
+{
+  "code": "PKCP-5078",
+  "url": "/release/detail/PKCP-5078/",
+  "source": "upfront",
+  "title": "VERY BEAUTY",
+  "category": "CDシングル",
+  "artist": "Berryz工房",
+  "releaseDate": "2007/03/07",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/1c4398a92be2de962ffb1d5cff16db0ba1bb9862.jpg",
+    "/images/27206758e05e545debba2b459e1cba44483d47aa.jpg",
+    "/images/3e7fef6658c85dc82ec8dcc9223191f166e7920b.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/1c4398a92be2de962ffb1d5cff16db0ba1bb9862.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5078",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "VERY BEAUTY",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ガキ大将",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "VERY BEAUTY(Instrumental)",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/27206758e05e545debba2b459e1cba44483d47aa.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKCP-5080",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "胸さわぎスカーレット",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ファイティングポーズはダテじゃない!",
+              "duration": "02:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/3e7fef6658c85dc82ec8dcc9223191f166e7920b.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5081",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "VERY BEAUTY",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ガキ大将",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "VERY BEAUTY(Instrumental)",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

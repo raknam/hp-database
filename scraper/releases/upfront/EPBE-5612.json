@@ -1,0 +1,121 @@
+{
+  "code": "EPBE-5612",
+  "url": "/release/detail/EPBE-5612/",
+  "source": "upfront",
+  "title": "演劇女子部「アラビヨーンズナイト」",
+  "category": "DVD",
+  "artist": "BEYOOOOONDS",
+  "releaseDate": "2021/03/03",
+  "label": "zetima",
+  "images": [
+    "/images/8f7a5834d4e3dc2d2c078162ef0831bbcfce5c8c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/8f7a5834d4e3dc2d2c078162ef0831bbcfce5c8c.jpg",
+      "price": "￥6,500 (税抜価格 ￥5,909)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5612",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "03:27"
+            },
+            {
+              "index": 2,
+              "title": "美鈴の夢",
+              "duration": "03:15"
+            },
+            {
+              "index": 3,
+              "title": "夜の公園",
+              "duration": "03:01"
+            },
+            {
+              "index": 4,
+              "title": "アラビアン・ラプソディ",
+              "duration": "13:10"
+            },
+            {
+              "index": 5,
+              "title": "救世主！？",
+              "duration": "08:44"
+            },
+            {
+              "index": 6,
+              "title": "孤独な王",
+              "duration": "04:10"
+            },
+            {
+              "index": 7,
+              "title": "月には帰らない",
+              "duration": "08:14"
+            },
+            {
+              "index": 8,
+              "title": "花より王子",
+              "duration": "10:05"
+            },
+            {
+              "index": 9,
+              "title": "未来からきたロボット",
+              "duration": "07:26"
+            },
+            {
+              "index": 10,
+              "title": "どうしたらいいの？",
+              "duration": "05:32"
+            },
+            {
+              "index": 11,
+              "title": "ラブレター",
+              "duration": "04:55"
+            },
+            {
+              "index": 12,
+              "title": "あの頃",
+              "duration": "10:30"
+            },
+            {
+              "index": 13,
+              "title": "報われぬ恋の物語",
+              "duration": "09:28"
+            },
+            {
+              "index": 14,
+              "title": "幾つもの夜をかけ",
+              "duration": "12:42"
+            },
+            {
+              "index": 15,
+              "title": "エピローグ",
+              "duration": "09:10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "特典映像",
+          "catalogNo": "EPBE-5613",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「S4」回替わりシーン",
+              "duration": "05:31"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

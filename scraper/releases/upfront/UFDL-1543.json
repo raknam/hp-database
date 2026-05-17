@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1543",
+  "url": "/release/detail/UFDL-1543/",
+  "source": "upfront",
+  "title": "勇者の魂 Short Size",
+  "category": "配信",
+  "artist": "T-Pistonz",
+  "releaseDate": "2024/10/01",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/9475f1f64393f4f23d952525aefd7bf434c62dbc.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/9475f1f64393f4f23d952525aefd7bf434c62dbc.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1543",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "勇者の魂 Short Size",
+              "duration": "01:39",
+              "credits": {
+                "作詞": "山崎徹/高木貴司",
+                "作曲": "山崎徹/S.KAWAI",
+                "編曲": "S.KAWAI"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

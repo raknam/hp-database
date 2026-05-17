@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1524",
+  "url": "/release/detail/UFDL-1524/",
+  "source": "upfront",
+  "title": "すっぴん",
+  "category": "配信",
+  "artist": "宮本佳林・小片リサ・佐藤優樹",
+  "releaseDate": "2023/11/19",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/cc123ef226f0705019bf193354770d9a27995a71.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/cc123ef226f0705019bf193354770d9a27995a71.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1524",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "すっぴん",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "渡辺泰司",
+                "編曲": "渡辺泰司"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

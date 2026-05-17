@@ -1,0 +1,63 @@
+{
+  "code": "UFBW-1329",
+  "url": "/release/detail/UFBW-1329/",
+  "source": "upfront",
+  "title": "ハロー!SATOYAMAライフ Vol.22",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2014/01/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/a44772a0abbd7886f5a09fe98d8c9bbe6a2406a6.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/a44772a0abbd7886f5a09fe98d8c9bbe6a2406a6.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1329",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "地域おこし協力隊 周防大島①",
+              "duration": "20:05"
+            },
+            {
+              "index": 2,
+              "title": "地域おこし協力隊 周防大島②",
+              "duration": "11:35"
+            },
+            {
+              "index": 3,
+              "title": "チーム美らサンゴ2013",
+              "duration": "16:25"
+            },
+            {
+              "index": 4,
+              "title": "℃-uteコンサートツアー2013春〜トレジャーボックス〜 NEWS",
+              "duration": "02:05"
+            },
+            {
+              "index": 5,
+              "title": "スマイレージ「新しい私になれ！」MV撮影に密着！",
+              "duration": "08:12"
+            },
+            {
+              "index": 6,
+              "title": "℃-ute「アダムとイブのジレンマ」MV撮影に密着！",
+              "duration": "05:05"
+            },
+            {
+              "index": 7,
+              "title": "℃-ute「悲しき雨降り」MV撮影に密着！",
+              "duration": "18:44"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

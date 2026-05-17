@@ -1,0 +1,75 @@
+{
+  "id": 7581,
+  "url": "/release/7581/",
+  "title": "Honopiano",
+  "category": "CDシングル",
+  "artist": "小林萌花",
+  "releaseDate": "2025.11.1",
+  "label": "タクティカート",
+  "images": [
+    "/upload/images/fd07231473960ae23a5b763c425c2914e75407bd.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ショパン：ポロネーズ第6番「英雄」変イ長調 Op.53",
+              "duration": "07:29",
+              "credits": {
+                "歌": "小林萌花"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ショパン：ノクターン第2番 変ホ長調 Op.9-2",
+              "duration": "04:47",
+              "credits": {
+                "歌": "小林萌花"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ショパン：幻想即興曲 (遺作) 嬰ハ短調 Op.66",
+              "duration": "05:58",
+              "credits": {
+                "歌": "小林萌花"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ショパン：スケルツォ 第1番 ロ短調 Op.20",
+              "duration": "10:13",
+              "credits": {
+                "歌": "小林萌花"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ドビュッシー：プレリュード(前奏曲)集 第1集 亜麻色の髪の乙女",
+              "duration": "02:26",
+              "credits": {
+                "歌": "小林萌花"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ドビュッシー：ベルガマスク組曲 月の光",
+              "duration": "04:37",
+              "credits": {
+                "歌": "小林萌花"
+              }
+            }
+          ],
+          "catalogNo": "TAC-0018"
+        }
+      ]
+    }
+  ]
+}

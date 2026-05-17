@@ -1,0 +1,58 @@
+{
+  "code": "UFBW-2049",
+  "url": "/release/detail/UFBW-2049/",
+  "source": "upfront",
+  "title": "行け!元気君 ミュージックビデオ",
+  "category": "DVD",
+  "artist": "萩原舞",
+  "releaseDate": "2012/04/04",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/6b076f66e05a7b23665ed9ec1c0c19bd1ac4ae9d.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/6b076f66e05a7b23665ed9ec1c0c19bd1ac4ae9d.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2049",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "行け！元気君",
+              "duration": "05:20"
+            },
+            {
+              "index": 2,
+              "title": "行け！元気君【Snow Close-up Ver.】",
+              "duration": "05:12"
+            },
+            {
+              "index": 3,
+              "title": "行け！元気君【Natural & Rock Ver.】",
+              "duration": "05:11"
+            },
+            {
+              "index": 4,
+              "title": "行け！元気君【a stairway Close-up Ver.】",
+              "duration": "05:08"
+            },
+            {
+              "index": 5,
+              "title": "行け！元気君【スカジャン Close-up Ver.(強風)】",
+              "duration": "05:11"
+            },
+            {
+              "index": 6,
+              "title": "メイキング映像",
+              "duration": "28:00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

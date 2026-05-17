@@ -1,0 +1,53 @@
+{
+  "code": "PKBP-5013",
+  "url": "/release/detail/PKBP-5013/",
+  "source": "upfront",
+  "title": "シングルV「白いTOKYO」",
+  "category": "DVDシングルV",
+  "artist": "ZYX",
+  "releaseDate": "2003/12/26",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/c29a8a466e55c3a53553300f4191bee0cfe89648.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/c29a8a466e55c3a53553300f4191bee0cfe89648.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "PKBP-5013",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "白いTOKYO",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "白いTOKYO(Close-up version)",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "04:13"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

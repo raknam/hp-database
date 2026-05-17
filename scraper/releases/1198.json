@@ -1,0 +1,305 @@
+{
+  "id": 1198,
+  "url": "/release/1198/",
+  "title": "ショートカット",
+  "category": "CDシングル",
+  "artist": "スマイレージ",
+  "releaseDate": "2011.2.9",
+  "label": "hachama",
+  "images": [
+    "/upload/images/871c7d3d6439f18fec90ac6f0a45330697706c77.webp",
+    "/upload/images/91f2267238edecb85fa07af95098b40b6dad71c8.webp",
+    "/upload/images/11976d259e593b155ac6a0969a2f72c2dfbb5782.webp",
+    "/upload/images/3185e5d8624ac1bdd573a80368b359e225c638af.webp",
+    "/upload/images/c7ff9fc41fae9ccc72b61e08796ac284b3a8b948.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/871c7d3d6439f18fec90ac6f0a45330697706c77.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ショートカット",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "パン屋さんのアルバイト",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ショートカット",
+              "duration": "04:27",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50158"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ショートカット",
+              "duration": "04:38",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "初回生産限定盤B(DVD付き)",
+      "image": "/upload/images/91f2267238edecb85fa07af95098b40b6dad71c8.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ショートカット",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "パン屋さんのアルバイト",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ショートカット",
+              "duration": "04:27",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50160"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ショートカット",
+              "duration": "04:40",
+              "suffix": "(Image Scene Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "【初回生産限定盤B】DVD付＋イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/11976d259e593b155ac6a0969a2f72c2dfbb5782.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ショートカット",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "パン屋さんのアルバイト",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ショートカット",
+              "duration": "04:27",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50162"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ショートカット",
+              "duration": "04:38",
+              "suffix": "(salon dream Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤D】",
+      "image": "/upload/images/3185e5d8624ac1bdd573a80368b359e225c638af.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ショートカット",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "パン屋さんのアルバイト",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ショートカット",
+              "duration": "04:27",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50164"
+        }
+      ],
+      "note": "イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/c7ff9fc41fae9ccc72b61e08796ac284b3a8b948.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ショートカット",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "乙女 パスタに感動",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ショートカット",
+              "duration": "04:27",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50165"
+        }
+      ]
+    }
+  ]
+}

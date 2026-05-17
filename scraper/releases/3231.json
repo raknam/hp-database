@@ -1,0 +1,127 @@
+{
+  "id": 3231,
+  "url": "/release/3231/",
+  "title": "ハロー！プロジェクト ラジオドラマ大阪編 Vol.1",
+  "category": "CDアルバム",
+  "artist": "V.A.",
+  "releaseDate": "2004.7.14",
+  "label": "zetima",
+  "images": [
+    "/upload/images/8467608351c0613dd0f0126dcf27fae8b5c2dfcb.webp",
+    "/upload/images/643f83b218551ecc30ef1a21e7c2b5f9cca5d98b.webp"
+  ],
+  "editions": [
+    {
+      "name": "初回盤、2枚組＜DISC1＞",
+      "image": "/upload/images/8467608351c0613dd0f0126dcf27fae8b5c2dfcb.webp",
+      "price": "定価 ￥3,190（税抜価格 ￥2,900）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "【さよなら、あした】",
+              "duration": "30:53",
+              "credits": {
+                "作詞": "原作:亀井弘明",
+                "作曲": "脚色:十河鈴",
+                "歌": "石川梨華・吉澤ひとみ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "【ザ・ミス通天閣】",
+              "duration": "31:03",
+              "credits": {
+                "作詞": "原作:阿草成実",
+                "作曲": "脚色:十河鈴",
+                "歌": "飯田圭織・大谷雅恵・斉藤瞳"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5294"
+        },
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "【おじいちゃんの昔話】",
+              "duration": "34:17",
+              "credits": {
+                "作詞": "原作:宮本道代",
+                "作曲": "脚本:平塚文子",
+                "歌": "紺野あさ美・田中れいな"
+              }
+            },
+            {
+              "index": 2,
+              "title": "【特 典】NG集・コメント",
+              "duration": "07:45",
+              "credits": {
+                "歌": "V.A."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "通常盤、2枚組＜DISC1＞",
+      "image": "/upload/images/643f83b218551ecc30ef1a21e7c2b5f9cca5d98b.webp",
+      "price": "定価 ￥2,090（税抜価格 ￥1,900）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "【さよなら、あした】",
+              "duration": "30:53",
+              "credits": {
+                "作詞": "原作:亀井弘明",
+                "作曲": "脚色:十河鈴",
+                "歌": "石川梨華・吉澤ひとみ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "【ザ・ミス通天閣】",
+              "duration": "31:03",
+              "credits": {
+                "作詞": "原作:阿草成実",
+                "作曲": "脚色:十河鈴",
+                "歌": "飯田圭織・大谷雅恵・斉藤瞳"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5296"
+        },
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "【おじいちゃんの昔話】",
+              "duration": "34:17",
+              "credits": {
+                "作詞": "原作:宮本道代",
+                "作曲": "脚本:平塚文子",
+                "歌": "紺野あさ美、田中れいな"
+              }
+            },
+            {
+              "index": 2,
+              "title": "【特 典】NG集・コメント",
+              "duration": "07:45",
+              "credits": {
+                "歌": "V.A."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

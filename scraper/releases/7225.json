@@ -1,0 +1,838 @@
+{
+  "id": 7225,
+  "url": "/release/7225/",
+  "title": "美々たる一撃/うわさのナルシー/THANK YOU, HELLO GOOD BYE",
+  "category": "CDシングル",
+  "artist": "アンジュルム",
+  "releaseDate": "2024.6.12",
+  "label": "hachama",
+  "images": [
+    "/upload/images/257aebafdf43a3daecaa2f82dfb673f096420bcc.webp",
+    "/upload/images/9c6a401c1859ed0acf7739ffef52d9620547eca3.webp",
+    "/upload/images/7070728398cdd938fdc3ccaca40be286b955b5ac.webp",
+    "/upload/images/f139cd73933c9a0da7e2f4b5d4efe45cf05fe33d.webp",
+    "/upload/images/548d94f3153a19d5e4b963fb07196bc432fea9af.webp",
+    "/upload/images/352ee92503c1093db7b71a7a1a16e7ca9a664919.webp",
+    "/upload/images/7b7d8942f573f79cb4136747a97db502aada3014.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/257aebafdf43a3daecaa2f82dfb673f096420bcc.webp",
+      "price": "￥2,200（税抜価格 ￥2,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "美々たる一撃",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "大久保薫/星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "うわさのナルシー",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Ricky Hanley/Caroline Gustavsson/Daniel Sherman",
+                "編曲": "Daniel Sherman",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "THANK YOU, HELLO GOOD BYE",
+              "duration": "05:25",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "宮永治郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "美々たる一撃",
+              "duration": "04:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "大久保薫/星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 5,
+              "title": "うわさのナルシー",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Ricky Hanley/Caroline Gustavsson/Daniel Sherman",
+                "編曲": "Daniel Sherman",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "THANK YOU, HELLO GOOD BYE",
+              "duration": "05:25",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "宮永治郎",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50807"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "美々たる一撃",
+              "duration": "04:30",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "大久保薫/星部ショウ",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "美々たる一撃",
+              "duration": "04:18",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "大久保薫/星部ショウ",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "美々たる一撃",
+              "duration": "14:28",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "アンジュルム"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/9c6a401c1859ed0acf7739ffef52d9620547eca3.webp",
+      "price": "￥2,200（税抜価格 ￥2,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "美々たる一撃",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "大久保薫/星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "うわさのナルシー",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Ricky Hanley/Caroline Gustavsson/Daniel Sherman",
+                "編曲": "Daniel Sherman",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "THANK YOU, HELLO GOOD BYE",
+              "duration": "05:25",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "宮永治郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "美々たる一撃",
+              "duration": "04:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "大久保薫/星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 5,
+              "title": "うわさのナルシー",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Ricky Hanley/Caroline Gustavsson/Daniel Sherman",
+                "編曲": "Daniel Sherman",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "THANK YOU, HELLO GOOD BYE",
+              "duration": "05:25",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "宮永治郎",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50809"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "うわさのナルシー",
+              "duration": "04:25",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Ricky Hanley/Caroline Gustavsson/Daniel Sherman",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "うわさのナルシー",
+              "duration": "03:55",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Ricky Hanley/Caroline Gustavsson/Daniel Sherman",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "うわさのナルシー",
+              "duration": "14:51",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "アンジュルム"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/7070728398cdd938fdc3ccaca40be286b955b5ac.webp",
+      "price": "￥2,200（税抜価格 ￥2,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "美々たる一撃",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "大久保薫/星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "うわさのナルシー",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Ricky Hanley/Caroline Gustavsson/Daniel Sherman",
+                "編曲": "Daniel Sherman",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "THANK YOU, HELLO GOOD BYE",
+              "duration": "05:25",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "宮永治郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "美々たる一撃",
+              "duration": "04:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "大久保薫/星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 5,
+              "title": "うわさのナルシー",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Ricky Hanley/Caroline Gustavsson/Daniel Sherman",
+                "編曲": "Daniel Sherman",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "THANK YOU, HELLO GOOD BYE",
+              "duration": "05:25",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "宮永治郎",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50811"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "THANK YOU, HELLO GOOD BYE",
+              "duration": "05:54",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "THANK YOU, HELLO GOOD BYE",
+              "duration": "05:30",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "THANK YOU, HELLO GOOD BYE",
+              "duration": "15:03",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "アンジュルム"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付"
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/upload/images/f139cd73933c9a0da7e2f4b5d4efe45cf05fe33d.webp",
+      "price": "￥3,960（税抜価格 ￥3,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "美々たる一撃",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "大久保薫/星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "うわさのナルシー",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Ricky Hanley/Caroline Gustavsson/Daniel Sherman",
+                "編曲": "Daniel Sherman",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "THANK YOU, HELLO GOOD BYE",
+              "duration": "05:25",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "宮永治郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "美々たる一撃",
+              "duration": "04:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "大久保薫/星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 5,
+              "title": "うわさのナルシー",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Ricky Hanley/Caroline Gustavsson/Daniel Sherman",
+                "編曲": "Daniel Sherman",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "THANK YOU, HELLO GOOD BYE",
+              "duration": "05:25",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "宮永治郎",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50813"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:56",
+              "credits": {
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "明晩、ギャラクシー劇場で",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "shungo.",
+                "作曲": "星部ショウ",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "46億年LOVE",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "林田健司",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "MC",
+              "duration": "00:51",
+              "credits": {
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 5,
+              "title": "赤いイヤホン",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "アイノケダモノ",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "平田祥一郎",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 7,
+              "title": "RED LINE",
+              "duration": "03:28",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 8,
+              "title": "マナーモード",
+              "duration": "02:51",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "炭竃智弘",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 9,
+              "title": "次々続々",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "平田祥一郎",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 10,
+              "title": "MC",
+              "duration": "00:55",
+              "credits": {
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 11,
+              "title": "ドンデンガエシ",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "宇宙慧",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 12,
+              "title": "愛すべきべき Human Life",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "堂島孝平",
+                "作曲": "堂島孝平",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 13,
+              "title": "大器晩成",
+              "duration": "05:12",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "出演": "アンジュルム"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付(COUNTDOWN JAPAN 23/24(12月29日 幕張メッセ)ライブ映像)"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/548d94f3153a19d5e4b963fb07196bc432fea9af.webp",
+      "price": "定価 ￥1,300（税抜価格 ￥1,182）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "美々たる一撃",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "大久保薫/星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "うわさのナルシー",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Ricky Hanley/Caroline Gustavsson/Daniel Sherman",
+                "編曲": "Daniel Sherman",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "THANK YOU, HELLO GOOD BYE",
+              "duration": "05:25",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "宮永治郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "美々たる一撃",
+              "duration": "04:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "大久保薫/星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 5,
+              "title": "うわさのナルシー",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Ricky Hanley/Caroline Gustavsson/Daniel Sherman",
+                "編曲": "Daniel Sherman",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "THANK YOU, HELLO GOOD BYE",
+              "duration": "05:25",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "宮永治郎",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50815"
+        }
+      ],
+      "note": "トレーディングカードソロ11種＋集合1種よりランダムにて1枚封入(美々たる一撃 Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/352ee92503c1093db7b71a7a1a16e7ca9a664919.webp",
+      "price": "定価 ￥1,300（税抜価格 ￥1,182）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "美々たる一撃",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "大久保薫/星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "うわさのナルシー",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Ricky Hanley/Caroline Gustavsson/Daniel Sherman",
+                "編曲": "Daniel Sherman",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "THANK YOU, HELLO GOOD BYE",
+              "duration": "05:25",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "宮永治郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "美々たる一撃",
+              "duration": "04:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "大久保薫/星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 5,
+              "title": "うわさのナルシー",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Ricky Hanley/Caroline Gustavsson/Daniel Sherman",
+                "編曲": "Daniel Sherman",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "THANK YOU, HELLO GOOD BYE",
+              "duration": "05:25",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "宮永治郎",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50816"
+        }
+      ],
+      "note": "トレーディングカードソロ11種＋集合1種よりランダムにて1枚封入(うわさのナルシー Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/upload/images/7b7d8942f573f79cb4136747a97db502aada3014.webp",
+      "price": "定価 ￥1,300（税抜価格 ￥1,182）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "美々たる一撃",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "大久保薫/星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "うわさのナルシー",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Ricky Hanley/Caroline Gustavsson/Daniel Sherman",
+                "編曲": "Daniel Sherman",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "THANK YOU, HELLO GOOD BYE",
+              "duration": "05:25",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "宮永治郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "美々たる一撃",
+              "duration": "04:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "大久保薫/星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 5,
+              "title": "うわさのナルシー",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Ricky Hanley/Caroline Gustavsson/Daniel Sherman",
+                "編曲": "Daniel Sherman",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "THANK YOU, HELLO GOOD BYE",
+              "duration": "05:25",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "宮永治郎",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50817"
+        }
+      ],
+      "note": "トレーディングカードソロ11種＋集合1種よりランダムにて1枚封入(THANK YOU, HELLO GOOD BYE Ver.)※初回プレス分のみ"
+    }
+  ]
+}

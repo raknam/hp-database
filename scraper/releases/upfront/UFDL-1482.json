@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1482",
+  "url": "/release/detail/UFDL-1482/",
+  "source": "upfront",
+  "title": "フレフレ・エブリデイ",
+  "category": "配信",
+  "artist": "BEYOOOOONDS",
+  "releaseDate": "2021/07/28",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/212262916ba986cf4af58f8da4181cb361c9c258.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/212262916ba986cf4af58f8da4181cb361c9c258.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1482",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "フレフレ・エブリデイ",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

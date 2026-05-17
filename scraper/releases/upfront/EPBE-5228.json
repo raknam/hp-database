@@ -1,0 +1,38 @@
+{
+  "code": "EPBE-5228",
+  "url": "/release/detail/EPBE-5228/",
+  "source": "upfront",
+  "title": "ハロプロアワー Vol.6",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2007/01/24",
+  "label": "zetima",
+  "images": [
+    "/images/82fca30f947119cbd363e598f946c3882a9f1011.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/82fca30f947119cbd363e598f946c3882a9f1011.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5228",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "♯13",
+              "duration": "29:05"
+            },
+            {
+              "index": 2,
+              "title": "♯14",
+              "duration": "33:04"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": 3249,
+  "url": "/release/3249/",
+  "title": "アイドルをさがせ！ヒストリーPart3～ハロプロメンバー総出演！～",
+  "category": "VHS",
+  "artist": "V.A.",
+  "releaseDate": "2002.4.3",
+  "label": "hachama",
+  "images": [
+    "/upload/images/c539265ae5e2e53668da7a4333b37ce403c438bc.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "VHS",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "00:23",
+              "credits": {
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "モーニング娘。＆平家みちよ 初Hello! お正月ライブ",
+              "duration": "19:05",
+              "suffix": "(1999年1月)",
+              "credits": {
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 3,
+              "title": "新生タンポポ 初活動の裏側 完全密着",
+              "duration": "06:01",
+              "suffix": "(2000年6月)",
+              "credits": {
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "新生プッチモニ 初活動の裏側 完全密着",
+              "duration": "03:41",
+              "suffix": "(2000年7月)",
+              "credits": {
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 5,
+              "title": "メロン記念日「This is 運命」 PV撮影密着",
+              "duration": "02:43",
+              "suffix": "(2001年10月)",
+              "credits": {
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 6,
+              "title": "松浦亜弥「100回のKISS」 PV撮影密着",
+              "duration": "02:12",
+              "suffix": "(2001年11月)",
+              "credits": {
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 7,
+              "title": "「愛のバカやろう」 PV撮影密着",
+              "duration": "00:53",
+              "suffix": "(2001年3月)",
+              "credits": {
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 8,
+              "title": "「I WISH」 PV撮影密着",
+              "duration": "13:26",
+              "suffix": "(2000年9月)",
+              "credits": {
+                "歌": "V.A."
+              }
+            },
+            {
+              "index": 9,
+              "title": "番組初代MC 中澤・平家が選ぶ 名勝負！！",
+              "duration": "10:57",
+              "suffix": "(1999年1月〜12月)",
+              "credits": {
+                "歌": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "HKVN-10011"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "code": "EPDE-1030",
+  "url": "/release/detail/EPDE-1030/",
+  "source": "upfront",
+  "title": "月と太陽",
+  "category": "CDシングル",
+  "artist": "太陽とシスコムーン",
+  "releaseDate": "1999/04/21",
+  "label": "zetima",
+  "images": [
+    "/images/fcca302d91ba38aa4e1ca19c09bfb78e8c03cbfd.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/fcca302d91ba38aa4e1ca19c09bfb78e8c03cbfd.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1030",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "月と太陽",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄＆下町兄弟"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Get on my Love",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄＆下町兄弟"
+              }
+            },
+            {
+              "index": 3,
+              "title": "月と太陽(Instrumental)",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄＆下町兄弟"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

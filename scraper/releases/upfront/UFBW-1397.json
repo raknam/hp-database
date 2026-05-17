@@ -1,0 +1,119 @@
+{
+  "code": "UFBW-1397",
+  "url": "/release/detail/UFBW-1397/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.4",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2014/11/26",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/f0cecbefdd73b488f42d4b8e4caa6a767a343026.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f0cecbefdd73b488f42d4b8e4caa6a767a343026.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1397",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "すっちゃかめっちゃか〜【名物企画 衣装コーディネート】",
+              "duration": "09:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "キャンパスライフ〜生まれて来てよかった〜【名物企画 衣装コーディネート】",
+              "duration": "09:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Help me!!【名物企画 衣装コーディネート】",
+              "duration": "11:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ヤッタルチャン【名物企画 衣装コーディネート】",
+              "duration": "10:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "不器用【スタジオライブ集】",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "飯田茉椰",
+                "作曲": "石井健太郎"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Bitter & Sweet【スタジオライブ集】",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "佐藤舞花",
+                "作曲": "平川達也"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ミステリーナイト！【スタジオライブ集】",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 8,
+              "title": "むせび泣く【スタジオライブ集】",
+              "duration": "05:23",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "魚住有希"
+              }
+            },
+            {
+              "index": 9,
+              "title": "インストール【スタジオライブ集】",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "唐沢美帆",
+                "作曲": "森口友美"
+              }
+            },
+            {
+              "index": 10,
+              "title": "女子旅っ！",
+              "duration": "04:02"
+            },
+            {
+              "index": 11,
+              "title": "女子旅っ！",
+              "duration": "05:25"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

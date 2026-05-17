@@ -1,0 +1,125 @@
+{
+  "code": "PKCP-5195",
+  "url": "/release/detail/PKCP-5195/",
+  "source": "upfront",
+  "title": "甘酸っぱい春にサクラサク",
+  "category": "CDシングル",
+  "artist": "Berryz工房×℃-ute",
+  "releaseDate": "2011/11/09",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/e0414f86613b92c3c0f0c3294f16f4b189bfa555.jpg",
+    "/images/caa1389c3eabf489813d6e29370f248daa292fee.jpg",
+    "/images/ba3f02981cd224abfb07553a045092e03b09a85e.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A Berryz工房版】",
+      "image": "/images/e0414f86613b92c3c0f0c3294f16f4b189bfa555.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5195",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "甘酸っぱい春にサクラサク",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "宅見将典"
+              }
+            },
+            {
+              "index": 2,
+              "title": "単純すぎなの私…",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "甘酸っぱい春にサクラサク(Instrumenta)",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "宅見将典"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B Berryz工房版】",
+      "image": "/images/caa1389c3eabf489813d6e29370f248daa292fee.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKCP-5197",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "甘酸っぱい春にサクラサク(Berryz工房 Ver.)",
+              "duration": "05:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤 Berryz工房版】",
+      "image": "/images/ba3f02981cd224abfb07553a045092e03b09a85e.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5198",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "甘酸っぱい春にサクラサク",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "宅見将典"
+              }
+            },
+            {
+              "index": 2,
+              "title": "単純すぎなの私…",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "甘酸っぱい春にサクラサク(Instrumenta)",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "宅見将典"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

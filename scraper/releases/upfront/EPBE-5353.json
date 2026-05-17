@@ -1,0 +1,93 @@
+{
+  "code": "EPBE-5353",
+  "url": "/release/detail/EPBE-5353/",
+  "source": "upfront",
+  "title": "よろセン！Vol.1",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2009/09/30",
+  "label": "zetima",
+  "images": [
+    "/images/82504d5d5f77fe2fe6d5ba49a61d5aa8cba43c45.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/82504d5d5f77fe2fe6d5ba49a61d5aa8cba43c45.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5353",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "総理大臣 1日目",
+              "duration": "04:32"
+            },
+            {
+              "index": 2,
+              "title": "総理大臣 2日目",
+              "duration": "03:30"
+            },
+            {
+              "index": 3,
+              "title": "総理大臣 3日目",
+              "duration": "06:28"
+            },
+            {
+              "index": 4,
+              "title": "総理大臣 4日目",
+              "duration": "03:28"
+            },
+            {
+              "index": 5,
+              "title": "焼き肉 1日目",
+              "duration": "03:35"
+            },
+            {
+              "index": 6,
+              "title": "焼き肉 2日目",
+              "duration": "05:20"
+            },
+            {
+              "index": 7,
+              "title": "焼き肉 3日目",
+              "duration": "03:37"
+            },
+            {
+              "index": 8,
+              "title": "焼き肉 4日目",
+              "duration": "06:19"
+            },
+            {
+              "index": 9,
+              "title": "ROUND1 1m選手権",
+              "duration": "06:45"
+            },
+            {
+              "index": 10,
+              "title": "ROUND2 クルクル積み木たて競技",
+              "duration": "07:26"
+            },
+            {
+              "index": 11,
+              "title": "ROUND2 ガチンコアームレスリング",
+              "duration": "07:44"
+            },
+            {
+              "index": 12,
+              "title": "マノクイズ！ 箱の中身は何だろな？",
+              "duration": "04:25"
+            },
+            {
+              "index": 13,
+              "title": "ゲームに挑戦！",
+              "duration": "01:26"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "code": "UFBW-2084",
+  "url": "/release/detail/UFBW-2084/",
+  "source": "upfront",
+  "title": "マイミュージアム スペシャルDVD",
+  "category": "DVD",
+  "artist": "矢島舞美",
+  "releaseDate": "2013/06/06",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/3485eb4280703941f862c19185b4914a7ab3d7d6.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/3485eb4280703941f862c19185b4914a7ab3d7d6.jpg",
+      "price": "￥3,080 (税抜価格 ￥2,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2084",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "00:13"
+            },
+            {
+              "index": 2,
+              "title": "テーマ「絵本」",
+              "duration": "08:20"
+            },
+            {
+              "index": 3,
+              "title": "テーマ「ショーガール」",
+              "duration": "04:04"
+            },
+            {
+              "index": 4,
+              "title": "テーマ「和装」",
+              "duration": "05:09"
+            },
+            {
+              "index": 5,
+              "title": "テーマ「砂漠」",
+              "duration": "04:12"
+            },
+            {
+              "index": 6,
+              "title": "テーマ「シャボン玉」",
+              "duration": "02:42"
+            },
+            {
+              "index": 7,
+              "title": "テーマ「天使」",
+              "duration": "04:09"
+            },
+            {
+              "index": 8,
+              "title": "テーマ「スイーツ」",
+              "duration": "04:58"
+            },
+            {
+              "index": 9,
+              "title": "テーマ「沼」",
+              "duration": "05:50"
+            },
+            {
+              "index": 10,
+              "title": "買い物",
+              "duration": "08:51"
+            },
+            {
+              "index": 11,
+              "title": "デコレーション作業",
+              "duration": "37:29"
+            },
+            {
+              "index": 12,
+              "title": "エンドロール",
+              "duration": "01:11"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

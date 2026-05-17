@@ -1,0 +1,98 @@
+{
+  "code": "UFCW-1127",
+  "url": "/release/detail/UFCW-1127/",
+  "source": "upfront",
+  "title": "ある恋の物語",
+  "category": "CDアルバム",
+  "artist": "エリック・フクサキ",
+  "releaseDate": "2017/08/23",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/c8a6797a34bd77cd897dcb3a89b800bec6f198f9.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/c8a6797a34bd77cd897dcb3a89b800bec6f198f9.jpg",
+      "price": "￥2,547 (税抜価格 ￥2,315)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "UFCW-1127",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Historia De Un Amor(イストリア デ ウン アモール/ある恋の物語)",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "Almaran Carlos Eleta",
+                "作曲": "Almaran Carlos Eleta",
+                "編曲": "あびる竜太"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Frenesi(フレネシ)",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "Alberto Dominguez",
+                "作曲": "Alberto Dominguez",
+                "編曲": "El Resto"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Cuando Pienso En Ti(クアンド ピエンソ エン ティ)",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "Leroy Gomes",
+                "作曲": "Jean Manuel De Scarano",
+                "編曲": "あびる竜太"
+              }
+            },
+            {
+              "index": 4,
+              "title": "The Lady Is A Tramp(ザ レディ イズ ア トランプ)",
+              "duration": "02:53",
+              "credits": {
+                "作詞": "Lorenz Hart",
+                "作曲": "Richard Rodgers",
+                "編曲": "El Resto"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Obsesion(オブセシオン)",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "Cordova Pedro Flores",
+                "作曲": "Cordova Pedro Flores",
+                "編曲": "あびる竜太"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Amor Por Ti(アモール ポル ティ)",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "Marco Aurelio Solis Gatica",
+                "作曲": "Marco Aurelio Solis Gatica",
+                "編曲": "あびる竜太"
+              }
+            },
+            {
+              "index": 7,
+              "title": "El Reloj(エル レロ/時計をとめて)",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "Roberto Cantoral",
+                "作曲": "Roberto Cantoral",
+                "編曲": "あびる竜太"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "code": "UFWT-9003_A",
+  "url": "/release/detail/UFWT-9003_A/",
+  "source": "upfront",
+  "title": "冷たい風と片思い/ENDLESS SKY/One and Only",
+  "category": "アナログシングル",
+  "artist": "モーニング娘。'15",
+  "releaseDate": "2016/05/11",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/c0d3126f58d97cfaab5e5df1aa286d7dfbc74865.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/c0d3126f58d97cfaab5e5df1aa286d7dfbc74865.jpg",
+      "price": "￥2,750 (税抜価格 ￥2,500)",
+      "discs": [
+        {
+          "type": "アナログシングル",
+          "catalogNo": "UFWT-9003",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "冷たい風と片思い",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ENDLESS SKY",
+              "duration": "05:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "アナログシングル",
+          "catalogNo": "UFWT-9003",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "One and Only",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "つんく/英訳詞:ALISA",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 1,
+              "title": "冷たい風と片思い(TYPE B)",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

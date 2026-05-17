@@ -1,0 +1,83 @@
+{
+  "id": 42,
+  "url": "/release/42/",
+  "title": "ハロー!SATOYAMAライフ Vol.22",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2014.1.9",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/a44772a0abbd7886f5a09fe98d8c9bbe6a2406a6.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "地域おこし協力隊 周防大島①",
+              "duration": "20:05",
+              "credits": {
+                "出演": "生田衣梨奈(モーニング娘。)/中島早貴・岡井千聖(℃-ute)/光井愛佳"
+              }
+            },
+            {
+              "index": 2,
+              "title": "地域おこし協力隊 周防大島②",
+              "duration": "11:35",
+              "credits": {
+                "出演": "生田衣梨奈(モーニング娘。)/中島早貴・岡井千聖(℃-ute)/光井愛佳"
+              }
+            },
+            {
+              "index": 3,
+              "title": "チーム美らサンゴ2013",
+              "duration": "16:25",
+              "credits": {
+                "出演": "生田衣梨奈(モーニング娘。)/吉澤ひとみ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "℃-uteコンサートツアー2013春〜トレジャーボックス〜 NEWS",
+              "duration": "02:05",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 5,
+              "title": "スマイレージ「新しい私になれ！」MV撮影に密着！",
+              "duration": "08:12",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 6,
+              "title": "℃-ute「アダムとイブのジレンマ」MV撮影に密着！",
+              "duration": "05:05",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 7,
+              "title": "℃-ute「悲しき雨降り」MV撮影に密着！",
+              "duration": "18:44",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1329"
+        }
+      ]
+    }
+  ]
+}

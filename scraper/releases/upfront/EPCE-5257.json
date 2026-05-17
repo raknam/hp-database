@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-5257",
+  "url": "/release/detail/EPCE-5257/",
+  "source": "upfront",
+  "title": "命みぢかし恋せよ人類！",
+  "category": "CDシングル",
+  "artist": "犬神サーカス団",
+  "releaseDate": "2003/10/29",
+  "label": "zetima",
+  "images": [
+    "/images/nowprinting.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/nowprinting.jpg",
+      "price": "￥1,980 (税抜価格 ￥1,800)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5257",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "命みぢかし恋せよ人類！",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "犬神明",
+                "作曲": "犬神明",
+                "編曲": "犬神サ－カス団"
+              }
+            },
+            {
+              "index": 2,
+              "title": "すべてが昨日と変わらない",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "犬神明",
+                "作曲": "犬神明",
+                "編曲": "犬神サ－カス団"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恍惚の海",
+              "duration": "05:47",
+              "credits": {
+                "作詞": "犬神凶子",
+                "作曲": "犬神明",
+                "編曲": "犬神サ－カス団"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ロックンロール・ウィドウ",
+              "duration": "06:43",
+              "credits": {
+                "作詞": "阿木燿子",
+                "作曲": "宇崎竜童",
+                "編曲": "犬神サ－カス団"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

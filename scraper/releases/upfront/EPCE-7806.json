@@ -1,0 +1,502 @@
+{
+  "code": "EPCE-7806",
+  "url": "/release/detail/EPCE-7806/",
+  "source": "upfront",
+  "title": "CHAnnel #1",
+  "category": "CDアルバム",
+  "artist": "OCHA NORMA",
+  "releaseDate": "2024/01/10",
+  "label": "zetima",
+  "images": [
+    "/images/0926f9096062e6ee0a33ab1c67daccf6ba575ef1.jpg",
+    "/images/6719048ef6d2f410b8f697d62d4c8807ee5f5040.jpg",
+    "/images/a1556e9fafc661b848d5a5c5cad5bc66bfdc32dc.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/0926f9096062e6ee0a33ab1c67daccf6ba575ef1.jpg",
+      "price": "￥6,600 (税抜価格 ￥6,000)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-7806",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋のクラウチングスタート",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "お祭りデビューだぜ！",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘/星部ショウ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "デート前夜狂想曲",
+              "duration": "03:00",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/ha-j",
+                "編曲": "ha-j"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ラーメン大好き小泉さんの唄",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "シャ乱Q",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "運命 CHACHACHACHA～N",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "YUZURU KUSUGO/柴山慧",
+                "作曲": "YUZURU KUSUGO/柴山慧",
+                "編曲": "YUZURU KUSUGO/柴山慧"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ウチらの地元は地球じゃん！",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Go Your Way",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "渡辺泰司",
+                "編曲": "渡辺泰司"
+              }
+            },
+            {
+              "index": 8,
+              "title": "素肌は熱帯夜",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "早川響介",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ちょっと情緒不安定？…夏",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "広瀬香美",
+                "作曲": "広瀬香美",
+                "編曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 10,
+              "title": "オチャノマ マホロバ イコイノバ～昭和も令和もワッチャワチャ～",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 11,
+              "title": "シェケナーレ",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "ANDW",
+                "編曲": "中村瑛彦"
+              }
+            },
+            {
+              "index": 12,
+              "title": "ヨリドリ ME DREAM",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "板垣祐介"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/6719048ef6d2f410b8f697d62d4c8807ee5f5040.jpg",
+      "price": "￥6,600 (税抜価格 ￥6,000)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-7809",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "宇宙規模でダイスキ宣言！",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ラヴィ・ダヴィ",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Hello! 生まれた意味がきっとある(OCHA NORMA Ver.)",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ミステイク(OCHA NORMA Ver.)",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "中島卓偉",
+                "編曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 5,
+              "title": "cha cha SING(2024 OCHA NORMA Ver.)",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "Mook Ake Chongmankhong/日本語詞：つんく",
+                "作曲": "Sudsan Wongsamut",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Good Luckの胸騒ぎ",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 7,
+              "title": "なんだかんだエヴリデー！",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "中村瑛彦"
+              }
+            },
+            {
+              "index": 8,
+              "title": "イージーイージー",
+              "duration": "03:25",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin"
+              }
+            },
+            {
+              "index": 9,
+              "title": "1/2",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "徳田光希",
+                "作曲": "徳田光希",
+                "編曲": "徳田光希"
+              }
+            },
+            {
+              "index": 10,
+              "title": "Peek a Boo",
+              "duration": "03:14",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Karrinator/Suhyun Kim",
+                "編曲": "Karrinator"
+              }
+            },
+            {
+              "index": 11,
+              "title": "今じゃなきゃ、君じゃなきゃ",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/a1556e9fafc661b848d5a5c5cad5bc66bfdc32dc.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7812",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋のクラウチングスタート(Music Video)",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋のクラウチングスタート(Dance Shot Ver.)",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋のクラウチングスタート(Stadium Dance Shot Ver.)",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "お祭りデビューだぜ！(Music Video)",
+              "duration": "05:22",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "お祭りデビューだぜ！(Dance Shot Ver.)",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "お祭りデビューだぜ！(お茶の間 Ver.)",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 7,
+              "title": "運命 CHACHACHACHA～N(Music Video)",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "YUZURU KUSUGO/柴山慧",
+                "作曲": "YUZURU KUSUGO/柴山慧"
+              }
+            },
+            {
+              "index": 8,
+              "title": "運命 CHACHACHACHA～N(Dance Shot Ver.)",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "YUZURU KUSUGO/柴山慧",
+                "作曲": "YUZURU KUSUGO/柴山慧"
+              }
+            },
+            {
+              "index": 9,
+              "title": "運命 CHACHACHACHA～N(WACHACHACHACHA～N Ver.)",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "YUZURU KUSUGO/柴山慧",
+                "作曲": "YUZURU KUSUGO/柴山慧"
+              }
+            },
+            {
+              "index": 10,
+              "title": "ウチらの地元は地球じゃん！(Music Video)",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 11,
+              "title": "ウチらの地元は地球じゃん！(Dance Shot Ver.)",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 12,
+              "title": "ウチらの地元は地球じゃん！(Close-up Ver.)",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 13,
+              "title": "ちょっと情緒不安定？…夏(Music Video)",
+              "duration": "05:11",
+              "credits": {
+                "作詞": "広瀬香美",
+                "作曲": "広瀬香美"
+              }
+            },
+            {
+              "index": 14,
+              "title": "ちょっと情緒不安定？…夏(Dance Shot Ver.)",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "広瀬香美",
+                "作曲": "広瀬香美"
+              }
+            },
+            {
+              "index": 15,
+              "title": "ちょっと情緒不安定？…夏(Close-up Ver.)",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "広瀬香美",
+                "作曲": "広瀬香美"
+              }
+            },
+            {
+              "index": 16,
+              "title": "オチャノマ マホロバ イコイノバ～昭和も令和もワッチャワチャ～(Music Video)",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 17,
+              "title": "オチャノマ マホロバ イコイノバ～昭和も令和もワッチャワチャ～(Dance Shot Ver.)",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 18,
+              "title": "オチャノマ マホロバ イコイノバ～昭和も令和もワッチャワチャ～(ワッチャワチャ Ver.)",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 19,
+              "title": "シェケナーレ(Music Video)",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "ANDW"
+              }
+            },
+            {
+              "index": 20,
+              "title": "シェケナーレ(Dance Shot Ver.)",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "ANDW"
+              }
+            },
+            {
+              "index": 21,
+              "title": "シェケナーレ(Close-up Ver.)",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "ANDW"
+              }
+            },
+            {
+              "index": 22,
+              "title": "ヨリドリ ME DREAM(Music Video)",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 23,
+              "title": "ヨリドリ ME DREAM(Dance Shot Ver.)",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 24,
+              "title": "ヨリドリ ME DREAM(Close-up Ver.)",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

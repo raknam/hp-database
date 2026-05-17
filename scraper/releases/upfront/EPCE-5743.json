@@ -1,0 +1,107 @@
+{
+  "code": "EPCE-5743",
+  "url": "/release/detail/EPCE-5743/",
+  "source": "upfront",
+  "title": "雑草のうた",
+  "category": "CDシングル",
+  "artist": "Buono!",
+  "releaseDate": "2011/02/02",
+  "label": "zetima",
+  "images": [
+    "/images/5c9ccdb8de361c0b6557e875e775c6c1e8d0a260.jpg",
+    "/images/dac9f87d82d6942098144cb497d0d3cfa29a9896.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回限定盤】",
+      "image": "/images/5c9ccdb8de361c0b6557e875e775c6c1e8d0a260.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5743",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "雑草のうた",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "井上慎二郎",
+                "編曲": "井上慎二郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ラナウェイトレイン",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "AKIRASTAR",
+                "編曲": "AKIRASTAR"
+              }
+            },
+            {
+              "index": 3,
+              "title": "JUICY HE@RT",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "おのりく",
+                "作曲": "HA",
+                "編曲": "土肥真生"
+              }
+            },
+            {
+              "index": 4,
+              "title": "雑草のうた(Instrumental)",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "井上慎二郎",
+                "編曲": "井上慎二郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ラナウェイトレイン(Instrumental)",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "AKIRASTAR",
+                "編曲": "AKIRASTAR"
+              }
+            },
+            {
+              "index": 6,
+              "title": "JUICY HE@RT(Instrumental)",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "おのりく",
+                "作曲": "HA",
+                "編曲": "土肥真生"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/dac9f87d82d6942098144cb497d0d3cfa29a9896.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5745",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ジャケット撮影メイキング",
+              "duration": "11:14"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "code": "UFXW-1034",
+  "url": "/release/detail/UFXW-1034/",
+  "source": "upfront",
+  "title": "ハロプロダンスアカデミー",
+  "category": "BD",
+  "artist": "V.A.",
+  "releaseDate": "2023/11/15",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/ce1b7e2adf6db589e0d3f1845bd57f9a23db611c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/ce1b7e2adf6db589e0d3f1845bd57f9a23db611c.jpg",
+      "price": "￥8,800 (税抜価格 ￥8,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "UFXW-1034",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "#01 LOCKダンス 初級編",
+              "duration": "22:57"
+            },
+            {
+              "index": 2,
+              "title": "#02 LOCKダンス 中級編",
+              "duration": "22:29"
+            },
+            {
+              "index": 3,
+              "title": "#03 LOCKダンス 上級編",
+              "duration": "23:46"
+            },
+            {
+              "index": 4,
+              "title": "LOCKダンス特典映像",
+              "duration": "05:35"
+            },
+            {
+              "index": 5,
+              "title": "#04 WAACKダンス 初級編",
+              "duration": "23:09"
+            },
+            {
+              "index": 6,
+              "title": "#05 WAACKダンス 中級編",
+              "duration": "23:03"
+            },
+            {
+              "index": 7,
+              "title": "#06 WAACKダンス 上級編",
+              "duration": "23:51"
+            },
+            {
+              "index": 8,
+              "title": "WAACKダンス特典映像",
+              "duration": "05:29"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

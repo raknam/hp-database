@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5131",
+  "url": "/release/detail/EPCE-5131/",
+  "source": "upfront",
+  "title": "fake",
+  "category": "CDシングル",
+  "artist": "Nyle",
+  "releaseDate": "2001/11/28",
+  "label": "zetima",
+  "images": [
+    "/images/301090a0882c2963843841dcbdac5a0dab1331a6.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/301090a0882c2963843841dcbdac5a0dab1331a6.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5131",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "fake",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "ナイル",
+                "作曲": "ナイル",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "優しい風",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "ナイル",
+                "作曲": "ナイル",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "fake(Instrumental)",
+              "duration": "04:51",
+              "credits": {
+                "作詞": "ナイル",
+                "作曲": "ナイル",
+                "編曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

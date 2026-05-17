@@ -1,0 +1,58 @@
+{
+  "code": "UFBW-2024",
+  "url": "/release/detail/UFBW-2024/",
+  "source": "upfront",
+  "title": "Greeting 〜鈴木 香音〜",
+  "category": "DVD",
+  "artist": "鈴木香音",
+  "releaseDate": "2011/07/25",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/dd9dd0743be9edbdfaca8dddb7de7125faa1e31f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/dd9dd0743be9edbdfaca8dddb7de7125faa1e31f.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2024",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "School girl",
+              "duration": "12:50"
+            },
+            {
+              "index": 2,
+              "title": "Interview 1",
+              "duration": "13:06"
+            },
+            {
+              "index": 3,
+              "title": "Sunday girl",
+              "duration": "06:48"
+            },
+            {
+              "index": 4,
+              "title": "Interview 2",
+              "duration": "04:33"
+            },
+            {
+              "index": 5,
+              "title": "Sleepy",
+              "duration": "08:26"
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "06:27"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

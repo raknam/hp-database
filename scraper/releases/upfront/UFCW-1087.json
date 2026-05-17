@@ -1,0 +1,58 @@
+{
+  "code": "UFCW-1087",
+  "url": "/release/detail/UFCW-1087/",
+  "source": "upfront",
+  "title": "演劇女子部 S/mileage's JUKEBOX-MUSICAL 『SMILE FANTASY!』",
+  "category": "CDシングル",
+  "artist": "スマイレージ",
+  "releaseDate": "2014/12/10",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/c1df37946b6c45098cfaf0bd949005d129b6c2d1.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/c1df37946b6c45098cfaf0bd949005d129b6c2d1.jpg",
+      "price": "￥1,222 (税抜価格 ￥1,111)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "UFCW-1087",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "叙情組曲「スマイルファンタジー」",
+              "duration": "10:17",
+              "credits": {
+                "作詞": "末満健一",
+                "作曲": "和田俊輔",
+                "編曲": "和田俊輔"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ONE DAY",
+              "duration": "04:54",
+              "credits": {
+                "作詞": "末満健一",
+                "作曲": "和田俊輔",
+                "編曲": "和田俊輔"
+              }
+            },
+            {
+              "index": 3,
+              "title": "か〜てぃんこ〜るんるん",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "末満健一",
+                "作曲": "和田俊輔",
+                "編曲": "和田俊輔"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

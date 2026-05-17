@@ -1,0 +1,48 @@
+{
+  "code": "UFBW-2059",
+  "url": "/release/detail/UFBW-2059/",
+  "source": "upfront",
+  "title": "“田中れいな写真集「きら☆きら」”メイキングDVD〜特別編集版〜",
+  "category": "DVD",
+  "artist": "田中れいな",
+  "releaseDate": "2012/06/30",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/df1698f1952d09a3925e75b1c6bc074298bdf037.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/df1698f1952d09a3925e75b1c6bc074298bdf037.jpg",
+      "price": "￥2,750 (税抜価格 ￥2,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2059",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "First day",
+              "duration": "09:20"
+            },
+            {
+              "index": 2,
+              "title": "Second day",
+              "duration": "21:26"
+            },
+            {
+              "index": 3,
+              "title": "Third day",
+              "duration": "15:44"
+            },
+            {
+              "index": 4,
+              "title": "Final day",
+              "duration": "12:18"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

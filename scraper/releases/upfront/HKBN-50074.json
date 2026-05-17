@@ -1,0 +1,51 @@
+{
+  "code": "HKBN-50074",
+  "url": "/release/detail/HKBN-50074/",
+  "source": "upfront",
+  "title": "シングルV「メロディーズ」",
+  "category": "DVDシングルV",
+  "artist": "GAM",
+  "releaseDate": "2006/11/15",
+  "label": "hachama",
+  "images": [
+    "/images/2213e5b545814222deccd990f3a6fbc075ab8b43.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/2213e5b545814222deccd990f3a6fbc075ab8b43.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "HKBN-50074",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "メロディーズ",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "メロディーズ(Dance Shot Ver.)",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "10:53"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

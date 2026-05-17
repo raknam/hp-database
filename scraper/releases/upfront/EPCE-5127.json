@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5127",
+  "url": "/release/detail/EPCE-5127/",
+  "source": "upfront",
+  "title": "ぴったりしたいX'mas！",
+  "category": "CDシングル",
+  "artist": "プッチモニ",
+  "releaseDate": "2001/11/14",
+  "label": "zetima",
+  "images": [
+    "/images/a7567b05654f5852dc308c56e326db9d7af34ba0.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/a7567b05654f5852dc308c56e326db9d7af34ba0.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5127",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ぴったりしたいX'mas!",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "酒井ミキオ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "夢の「つ・づ・き」",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ぴったりしたいX'mas!(Instrumental)",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "酒井ミキオ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

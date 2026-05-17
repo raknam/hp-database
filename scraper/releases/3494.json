@@ -1,0 +1,56 @@
+{
+  "id": 3494,
+  "url": "/release/3494/",
+  "title": "シングルV「Missラブ探偵」",
+  "category": "DVDシングルV",
+  "artist": "W",
+  "releaseDate": "2005.9.14",
+  "label": "zetima",
+  "images": [
+    "/upload/images/c35ea8f09e591a5a48e59b1477f80292a5b305d0.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Missラブ探偵",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "森村メラ",
+                "作曲": "JOEY CARBONE&STEVEN LEE",
+                "出演": "W"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Missラブ探偵",
+              "duration": "03:27",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "森村メラ",
+                "作曲": "JOEY CARBONE&STEVEN LEE",
+                "出演": "W"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "08:17",
+              "credits": {
+                "出演": "W"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5180"
+        }
+      ]
+    }
+  ]
+}

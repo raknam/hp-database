@@ -1,0 +1,101 @@
+{
+  "code": "UFWT-9007",
+  "url": "/release/detail/UFWT-9007/",
+  "source": "upfront",
+  "title": "セカンド モーニング",
+  "category": "アナログアルバム",
+  "artist": "モーニング娘。",
+  "releaseDate": "2019/04/01",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/e162ed7565626dba0f7cfcc2e960aceb5570cfa1.jpg"
+  ],
+  "editions": [
+    {
+      "name": "＜Disc1＞",
+      "image": "/images/e162ed7565626dba0f7cfcc2e960aceb5570cfa1.jpg",
+      "price": "￥5,940 (税抜価格 ￥5,400)",
+      "discs": [
+        {
+          "type": "アナログアルバム",
+          "catalogNo": "UFWT-9007",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "NIGHT OF TOKYO CITY",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 2,
+              "title": "真夏の光線(Vacation Mix)",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野伸"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Memory 青春の光",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "＜Disc2＞",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "アナログアルバム",
+          "catalogNo": "UFWT-9008",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "好きで×5",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ふるさと",
+              "duration": "05:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 3,
+              "title": "抱いてHOLD ON ME!(N.Y.Mix)",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "code": "UFBW-2063",
+  "url": "/release/detail/UFBW-2063/",
+  "source": "upfront",
+  "title": "Greeting 〜佐藤優樹〜",
+  "category": "DVD",
+  "artist": "佐藤優樹",
+  "releaseDate": "2012/07/11",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/e6dbc620d03016df067d8939c081fdde8bd98522.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/e6dbc620d03016df067d8939c081fdde8bd98522.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2063",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Greeting",
+              "duration": "14:12"
+            },
+            {
+              "index": 2,
+              "title": "School girl",
+              "duration": "04:37"
+            },
+            {
+              "index": 3,
+              "title": "Interview",
+              "duration": "11:18"
+            },
+            {
+              "index": 4,
+              "title": "Day off",
+              "duration": "15:37"
+            },
+            {
+              "index": 5,
+              "title": "Making",
+              "duration": "03:35"
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "00:58"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

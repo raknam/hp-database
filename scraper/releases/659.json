@@ -1,0 +1,135 @@
+{
+  "id": 659,
+  "url": "/release/659/",
+  "title": "はなをぷーん/ふたりはNS",
+  "category": "CDシングル",
+  "artist": "きら☆ぴか",
+  "releaseDate": "2007.8.1",
+  "label": "zetima",
+  "images": [
+    "/upload/images/8701004178c3c7df04afe143f2c9f5fac82c6213.webp",
+    "/upload/images/4915ff1bf5c06f1b484ec157b8b04b4ed7ba2bd2.webp"
+  ],
+  "editions": [
+    {
+      "name": "【完全生産限定盤】",
+      "image": "/upload/images/8701004178c3c7df04afe143f2c9f5fac82c6213.webp",
+      "price": "定価 ￥1,320（税抜価格 ￥1,200）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "はなをぷーん",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "YumYum",
+                "作曲": "MenMen",
+                "編曲": "宮永治郎・MenMen",
+                "歌": "きら☆ぴか"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ふたりはNS",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "YumYum",
+                "作曲": "MenMen",
+                "編曲": "宮永治郎",
+                "歌": "きら☆ぴか"
+              }
+            },
+            {
+              "index": 3,
+              "title": "はなをぷーん",
+              "duration": "04:23",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "YumYum",
+                "作曲": "MenMen",
+                "編曲": "宮永治郎・MenMen",
+                "歌": "きら☆ぴか"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ふたりはNS",
+              "duration": "04:36",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "YumYum",
+                "作曲": "MenMen",
+                "編曲": "宮永治郎",
+                "歌": "きら☆ぴか"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5487"
+        }
+      ],
+      "note": "ハッピー★アイドルライフクルキラカード封入"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/4915ff1bf5c06f1b484ec157b8b04b4ed7ba2bd2.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "はなをぷーん",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "YumYum",
+                "作曲": "MenMen",
+                "編曲": "宮永治郎・MenMen",
+                "歌": "きら☆ぴか"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ふたりはNS",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "YumYum",
+                "作曲": "MenMen",
+                "編曲": "宮永治郎",
+                "歌": "きら☆ぴか"
+              }
+            },
+            {
+              "index": 3,
+              "title": "はなをぷーん",
+              "duration": "04:23",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "YumYum",
+                "作曲": "MenMen",
+                "編曲": "宮永治郎・MenMen",
+                "歌": "きら☆ぴか"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ふたりはNS",
+              "duration": "04:36",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "YumYum",
+                "作曲": "MenMen",
+                "編曲": "宮永治郎",
+                "歌": "きら☆ぴか"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5488"
+        }
+      ],
+      "note": "通常盤･初回仕様 デカラベルステッカー付"
+    }
+  ]
+}

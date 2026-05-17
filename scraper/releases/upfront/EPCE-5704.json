@@ -1,0 +1,125 @@
+{
+  "code": "EPCE-5704",
+  "url": "/release/detail/EPCE-5704/",
+  "source": "upfront",
+  "title": "キャンパスライフ〜生まれて来てよかった〜",
+  "category": "CDシングル",
+  "artist": "℃-ute",
+  "releaseDate": "2010/04/28",
+  "label": "zetima",
+  "images": [
+    "/images/3ca0bc3c77aeeb9ea39cdf618da1b4b6e7ec35dc.jpg",
+    "/images/bc666050e41163968f6a65afb2933efee4047978.jpg",
+    "/images/ab2a1cdf1dd679662ab32e589881775ca61fd7d4.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/3ca0bc3c77aeeb9ea39cdf618da1b4b6e7ec35dc.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5704",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "キャンパスライフ〜生まれて来てよかった〜",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "立ち上がれ 乙女達",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "キャンパスライフ〜生まれて来てよかった〜(Instrumental)",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/bc666050e41163968f6a65afb2933efee4047978.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5706",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "キャンパスライフ〜生まれて来てよかった〜(Dance Shot Ver.)",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/ab2a1cdf1dd679662ab32e589881775ca61fd7d4.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5708",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "キャンパスライフ〜生まれて来てよかった〜",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "立ち上がれ 乙女達",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "キャンパスライフ〜生まれて来てよかった〜(Instrumental)",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

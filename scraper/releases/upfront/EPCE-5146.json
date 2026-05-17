@@ -1,0 +1,88 @@
+{
+  "code": "EPCE-5146",
+  "url": "/release/detail/EPCE-5146/",
+  "source": "upfront",
+  "title": "RIVER",
+  "category": "CDミニアルバム",
+  "artist": "Nyle",
+  "releaseDate": "2002/03/27",
+  "label": "zetima",
+  "images": [
+    "/images/dd6d8b064ce8e4f9e7645b5597ec6fae37da8b98.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/dd6d8b064ce8e4f9e7645b5597ec6fae37da8b98.jpg",
+      "price": "￥1,980 (税抜価格 ￥1,800)",
+      "discs": [
+        {
+          "type": "CDミニアルバム",
+          "catalogNo": "EPCE-5146",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "強くなんて…",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "ナイル",
+                "作曲": "ナイル",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ラストソング",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "ナイル",
+                "作曲": "ナイル",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Blue Sky",
+              "duration": "05:05",
+              "credits": {
+                "作詞": "ナイル",
+                "作曲": "ナイル",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Dreamin'",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "ナイル",
+                "作曲": "ナイル",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 5,
+              "title": "月と光",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "ナイル",
+                "作曲": "ナイル",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 6,
+              "title": "fake",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "ナイル",
+                "作曲": "ナイル",
+                "編曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

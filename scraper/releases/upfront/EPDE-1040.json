@@ -1,0 +1,68 @@
+{
+  "code": "EPDE-1040",
+  "url": "/release/detail/EPDE-1040/",
+  "source": "upfront",
+  "title": "ガタメキラ",
+  "category": "CDシングル",
+  "artist": "太陽とシスコムーン",
+  "releaseDate": "1999/06/23",
+  "label": "zetima",
+  "images": [
+    "/images/af89ba7e2e1d51fbc10e8475d6c338c4b5dfcc37.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/af89ba7e2e1d51fbc10e8475d6c338c4b5dfcc37.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1040",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ガタメキラ",
+              "duration": "05:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "松原憲"
+              }
+            },
+            {
+              "index": 2,
+              "title": "月と太陽sexy beam remix",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "本山清治"
+              }
+            },
+            {
+              "index": 3,
+              "title": "月と太陽more cool remix",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "M．I．D"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ガタメキラinstrumental",
+              "duration": "05:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "松原憲"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

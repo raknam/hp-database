@@ -1,0 +1,55 @@
+{
+  "code": "HKBN-50130",
+  "url": "/release/detail/HKBN-50130/",
+  "source": "upfront",
+  "title": "シングルV「夢見る 15歳( フィフティーン)」",
+  "category": "DVDシングルV",
+  "artist": "スマイレージ",
+  "releaseDate": "2010/06/02",
+  "label": "hachama",
+  "images": [
+    "/images/60b38861283b01bc3baae5f99162ff07d38a9244.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/60b38861283b01bc3baae5f99162ff07d38a9244.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "HKBN-50130",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夢見る 15歳(フィフティーン)",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "夢見る 15歳(フィフティーン)(Close-up Ver.)",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "12:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

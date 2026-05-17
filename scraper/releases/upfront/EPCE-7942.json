@@ -1,0 +1,318 @@
+{
+  "code": "EPCE-7942",
+  "url": "/release/detail/EPCE-7942/",
+  "source": "upfront",
+  "title": "夏のイナズマ/ガオガオガオ",
+  "category": "CDシングル",
+  "artist": "ロージークロニクル",
+  "releaseDate": "2025/07/23",
+  "label": "zetima",
+  "images": [
+    "/images/cb01786053486d72173769007be7476b3f3a31fc.jpg",
+    "/images/9ed854ab024251a24598095dc548027f2dec452d.jpg",
+    "/images/4c581e471d8d58125142f0440bceb81b122905d4.jpg",
+    "/images/e8f214ab2cf8f0c3edba306e89be6e4328c391cc.jpg",
+    "/images/3d348c2db02a855934dc5698f2b3351c190098d7.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/cb01786053486d72173769007be7476b3f3a31fc.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7942",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夏のイナズマ",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ガオガオガオ",
+              "duration": "03:04",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO",
+                "編曲": "大沢圭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "薔薇より美しい人生",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "ありぼぼ",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 4,
+              "title": "夏のイナズマ(Instrumental)",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ガオガオガオ(Instrumental)",
+              "duration": "03:02",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO",
+                "編曲": "大沢圭一"
+              }
+            },
+            {
+              "index": 6,
+              "title": "薔薇より美しい人生(Instrumental)",
+              "duration": "03:26",
+              "credits": {
+                "作詞": "ありぼぼ",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/9ed854ab024251a24598095dc548027f2dec452d.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7944",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夏のイナズマ(Music Video)",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "夏のイナズマ(Dance Shot Ver.)",
+              "duration": "03:34",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "夏のイナズマ(メイキング映像)",
+              "duration": "14:29",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/images/4c581e471d8d58125142f0440bceb81b122905d4.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7946",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夏のイナズマ",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ガオガオガオ",
+              "duration": "03:04",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO",
+                "編曲": "大沢圭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "薔薇より美しい人生",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "ありぼぼ",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 4,
+              "title": "夏のイナズマ(Instrumental)",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ガオガオガオ(Instrumental)",
+              "duration": "03:02",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO",
+                "編曲": "大沢圭一"
+              }
+            },
+            {
+              "index": 6,
+              "title": "薔薇より美しい人生(Instrumental)",
+              "duration": "03:26",
+              "credits": {
+                "作詞": "ありぼぼ",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/e8f214ab2cf8f0c3edba306e89be6e4328c391cc.jpg",
+      "price": "￥1,400 (税抜価格 ￥1,273)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7948",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ガオガオガオ(Music Video)",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ガオガオガオ(Dance Shot Ver.)",
+              "duration": "03:09",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ガオガオガオ(メイキング映像)",
+              "duration": "14:20",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/3d348c2db02a855934dc5698f2b3351c190098d7.jpg",
+      "price": "￥1,400 (税抜価格 ￥1,273)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7949",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夏のイナズマ",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ガオガオガオ",
+              "duration": "03:04",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO",
+                "編曲": "大沢圭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "薔薇より美しい人生",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "ありぼぼ",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 4,
+              "title": "夏のイナズマ(Instrumental)",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ガオガオガオ(Instrumental)",
+              "duration": "03:02",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO",
+                "編曲": "大沢圭一"
+              }
+            },
+            {
+              "index": 6,
+              "title": "薔薇より美しい人生(Instrumental)",
+              "duration": "03:26",
+              "credits": {
+                "作詞": "ありぼぼ",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "code": "UFBW-2101",
+  "url": "/release/detail/UFBW-2101/",
+  "source": "upfront",
+  "title": "May.",
+  "category": "DVD",
+  "artist": "田村芽実",
+  "releaseDate": "2014/04/30",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/c412ceac2840c369721235c60d9b26a19a26be7e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/c412ceac2840c369721235c60d9b26a19a26be7e.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2101",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "In Her Room",
+              "duration": "17:46"
+            },
+            {
+              "index": 2,
+              "title": "The Red Shoes",
+              "duration": "16:34"
+            },
+            {
+              "index": 3,
+              "title": "In The Rain",
+              "duration": "10:43"
+            },
+            {
+              "index": 4,
+              "title": "Interview",
+              "duration": "03:19"
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "02:47"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "id": 1648,
+  "url": "/release/1648/",
+  "title": "新しい私になれ！/ヤッタルチャン",
+  "category": "CDシングル",
+  "artist": "スマイレージ",
+  "releaseDate": "2013.7.3",
+  "label": "hachama",
+  "images": [
+    "/upload/images/da71eaa8c1c18a398fd1cc656e5ac305188549ef.webp",
+    "/upload/images/a9078ecb9089dd202064966629e9b1936a91a0d8.webp",
+    "/upload/images/e0ccada97349a6ec663b502ed2d93ad7fbcda339.webp",
+    "/upload/images/d442425f94e9b5488eba745acb0a6635fafb62d1.webp",
+    "/upload/images/7fcdfdcfb9ef7ad3d1844d8e1160f697a29d5546.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/da71eaa8c1c18a398fd1cc656e5ac305188549ef.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "新しい私になれ！",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ヤッタルチャン",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "新しい私になれ！",
+              "duration": "03:38",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ヤッタルチャン",
+              "duration": "03:49",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50294"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "新しい私になれ！",
+              "duration": "03:47",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "新しい私になれ！",
+              "duration": "03:56",
+              "suffix": "(DanceShotVer.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/a9078ecb9089dd202064966629e9b1936a91a0d8.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "新しい私になれ！",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ヤッタルチャン",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "新しい私になれ！",
+              "duration": "03:38",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ヤッタルチャン",
+              "duration": "03:49",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50296"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ヤッタルチャン",
+              "duration": "04:00",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ヤッタルチャン",
+              "duration": "04:06",
+              "suffix": "(DanceShotVer.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/e0ccada97349a6ec663b502ed2d93ad7fbcda339.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "新しい私になれ！",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ヤッタルチャン",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "新しい私になれ！",
+              "duration": "03:38",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ヤッタルチャン",
+              "duration": "03:49",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50298"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "新しい私になれ！",
+              "duration": "03:49",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ヤッタルチャン",
+              "duration": "04:02",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "25:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤D】",
+      "image": "/upload/images/d442425f94e9b5488eba745acb0a6635fafb62d1.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "新しい私になれ！",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ヤッタルチャン",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "新しい私になれ！",
+              "duration": "03:38",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ヤッタルチャン",
+              "duration": "03:49",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50300"
+        }
+      ],
+      "note": "イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/7fcdfdcfb9ef7ad3d1844d8e1160f697a29d5546.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "新しい私になれ！",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ヤッタルチャン",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "新しい私になれ！",
+              "duration": "03:38",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ヤッタルチャン",
+              "duration": "03:49",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50301"
+        }
+      ]
+    }
+  ]
+}

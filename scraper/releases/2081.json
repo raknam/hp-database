@@ -1,0 +1,81 @@
+{
+  "id": 2081,
+  "url": "/release/2081/",
+  "title": "ハロプロ！TIME Vol.18",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012.10.9",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/f9e6586185518dd360ee394476e00a369243051a.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "9期TIME",
+              "duration": "07:16",
+              "suffix": "加入から約1年4ヶ月初ツアーを振り返る",
+              "credits": {
+                "出演": "譜久村聖・生田衣梨奈・鞘師里保・鈴木香音(モ－ニング娘。)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "10期TIME",
+              "duration": "17:46",
+              "suffix": "祝！中学校入学 制服姿で写真撮影",
+              "credits": {
+                "出演": "佐藤優樹・工藤遥(モ－ニング娘。)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "モ－ニング娘。TIME",
+              "duration": "06:47",
+              "suffix": "50thシングル「One・Two・Three」のジャケット写真撮影",
+              "credits": {
+                "出演": "モ－ニング娘。"
+              }
+            },
+            {
+              "index": 4,
+              "title": "スマイレージTIME/スマイレージ",
+              "duration": "08:05",
+              "suffix": "夢の共演！！ライブ「POP'n アイドル」",
+              "credits": {
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "竹内TIME",
+              "duration": "07:43",
+              "suffix": "「ドットビキニ」MV撮影でメンバー撮り",
+              "credits": {
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "萩原TIME",
+              "duration": "22:21",
+              "suffix": "舞台「STRONGER」の稽古に密着",
+              "credits": {
+                "出演": "萩原舞(℃-ute)"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1187"
+        }
+      ]
+    }
+  ]
+}

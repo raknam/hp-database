@@ -1,0 +1,122 @@
+{
+  "code": "EPCE-5487",
+  "url": "/release/detail/EPCE-5487/",
+  "source": "upfront",
+  "title": "はなをぷーん/ふたりはNS",
+  "category": "CDシングル",
+  "artist": "きら☆ぴか",
+  "releaseDate": "2007/08/01",
+  "label": "zetima",
+  "images": [
+    "/images/8701004178c3c7df04afe143f2c9f5fac82c6213.jpg",
+    "/images/4915ff1bf5c06f1b484ec157b8b04b4ed7ba2bd2.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【完全生産限定盤】",
+      "image": "/images/8701004178c3c7df04afe143f2c9f5fac82c6213.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5487",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "はなをぷーん",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "YumYum",
+                "作曲": "MenMen",
+                "編曲": "宮永治郎・MenMen"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ふたりはNS",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "YumYum",
+                "作曲": "MenMen",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "はなをぷーん(Instrumental)",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "YumYum",
+                "作曲": "MenMen",
+                "編曲": "宮永治郎・MenMen"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ふたりはNS(Instrumental)",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "YumYum",
+                "作曲": "MenMen",
+                "編曲": "宮永治郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/4915ff1bf5c06f1b484ec157b8b04b4ed7ba2bd2.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5488",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "はなをぷーん",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "YumYum",
+                "作曲": "MenMen",
+                "編曲": "宮永治郎・MenMen"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ふたりはNS",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "YumYum",
+                "作曲": "MenMen",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "はなをぷーん(Instrumental)",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "YumYum",
+                "作曲": "MenMen",
+                "編曲": "宮永治郎・MenMen"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ふたりはNS(Instrumental)",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "YumYum",
+                "作曲": "MenMen",
+                "編曲": "宮永治郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

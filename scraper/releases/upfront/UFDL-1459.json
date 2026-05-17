@@ -1,0 +1,58 @@
+{
+  "code": "UFDL-1459",
+  "url": "/release/detail/UFDL-1459/",
+  "source": "upfront",
+  "title": "#ひま粒し",
+  "category": "配信",
+  "artist": "吉川友",
+  "releaseDate": "2020/06/03",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/3f01b022b0bc73e430d089a5110885dbbd4bbf49.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/3f01b022b0bc73e430d089a5110885dbbd4bbf49.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1459",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "#ひま粒し",
+              "duration": "01:39",
+              "credits": {
+                "作詞": "ミチトモ・ブラウン(michitomo brown)",
+                "作曲": "ミチトモ・ブラウン(michitomo brown)",
+                "編曲": "ミチトモ・ブラウン(michitomo brown)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "#ひま粒し(Soulful Ver.)",
+              "duration": "01:39",
+              "credits": {
+                "作詞": "ミチトモ・ブラウン(michitomo brown)",
+                "作曲": "ミチトモ・ブラウン(michitomo brown)",
+                "編曲": "ミチトモ・ブラウン(michitomo brown)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "#ひま粒し(Instrumental)",
+              "duration": "01:39",
+              "credits": {
+                "作詞": "ミチトモ・ブラウン(michitomo brown)",
+                "作曲": "ミチトモ・ブラウン(michitomo brown)",
+                "編曲": "ミチトモ・ブラウン(michitomo brown)"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

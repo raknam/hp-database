@@ -1,0 +1,53 @@
+{
+  "code": "UFBW-1184",
+  "url": "/release/detail/UFBW-1184/",
+  "source": "upfront",
+  "title": "ハロプロ！TIME Vol.15",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012/08/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/58ff539da15a05d0b3b141f94628a0ef10de4090.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/58ff539da15a05d0b3b141f94628a0ef10de4090.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1184",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "岡井TIMEサプライズ企画！℃-uteメンバーの誕生日パーティ①",
+              "duration": "26:04"
+            },
+            {
+              "index": 2,
+              "title": "岡井TIMEサプライズ企画！℃-uteメンバーの誕生日パーティ②",
+              "duration": "25:17"
+            },
+            {
+              "index": 3,
+              "title": "中島TIME「君は自転車 私は電車で帰宅」のMV撮影現場でメンバー撮り",
+              "duration": "03:48"
+            },
+            {
+              "index": 4,
+              "title": "岡井TIME「君は自転車 私は電車で帰宅」特別企画 自転車スピード対決！",
+              "duration": "06:06"
+            },
+            {
+              "index": 5,
+              "title": "岡井TIMEアルバム『第七章「美しくってごめんね」』ジャケット撮影現場の未公開映像",
+              "duration": "08:46"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

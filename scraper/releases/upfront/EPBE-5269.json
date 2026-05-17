@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5269",
+  "url": "/release/detail/EPBE-5269/",
+  "source": "upfront",
+  "title": "シングルV「チャンス！」",
+  "category": "DVDシングルV",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "releaseDate": "2007/11/28",
+  "label": "zetima",
+  "images": [
+    "/images/aafff3973d160084831594022c1419061c89dcae.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/aafff3973d160084831594022c1419061c89dcae.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5269",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "チャンス！",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "織田哲郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "チャンス！(Dance Shot Ver.)",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "織田哲郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "09:42"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "code": "HKCN-50077",
+  "url": "/release/detail/HKCN-50077/",
+  "source": "upfront",
+  "title": "青春 僕/青春 俺",
+  "category": "CDシングル",
+  "artist": "矢口真里 / エアバンド",
+  "releaseDate": "2009/03/25",
+  "label": "hachama",
+  "images": [
+    "/images/43b5ffe71644c8acfba2ff8e14702f025dc948c4.jpg"
+  ],
+  "editions": [
+    {
+      "name": "DVD付き",
+      "image": "/images/43b5ffe71644c8acfba2ff8e14702f025dc948c4.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50077",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "青春 僕",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "カシアス島田",
+                "作曲": "ユウキ",
+                "編曲": "斎藤文護/岩室晶子"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青春 俺",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "カシアス島田",
+                "作曲": "ユウキ",
+                "編曲": "斎藤文護/岩室晶子"
+              }
+            },
+            {
+              "index": 3,
+              "title": "青春 僕(Instrumental)",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "カシアス島田",
+                "作曲": "ユウキ",
+                "編曲": "斎藤文護/岩室晶子"
+              }
+            },
+            {
+              "index": 4,
+              "title": "青春 俺(Instrumental)",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "カシアス島田",
+                "作曲": "ユウキ",
+                "編曲": "斎藤文護/岩室晶子"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

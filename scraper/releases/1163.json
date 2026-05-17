@@ -1,0 +1,83 @@
+{
+  "id": 1163,
+  "url": "/release/1163/",
+  "title": "Aya",
+  "category": "DVD",
+  "artist": "和田彩花",
+  "releaseDate": "2012.3.7",
+  "label": "hachama",
+  "images": [
+    "/upload/images/ac2dd0789f8f03b5444bc8dc38a0a4f738ccc6b1.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "matin",
+              "duration": "09:40",
+              "credits": {
+                "出演": "和田彩花(スマイレージ)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "cafe",
+              "duration": "05:48",
+              "credits": {
+                "出演": "和田彩花(スマイレージ)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "atelier",
+              "duration": "07:26",
+              "credits": {
+                "出演": "和田彩花(スマイレージ)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Interview",
+              "duration": "05:27",
+              "credits": {
+                "出演": "和田彩花(スマイレージ)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "chambre",
+              "duration": "06:43",
+              "credits": {
+                "出演": "和田彩花(スマイレージ)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Making of 「彩 aya」",
+              "duration": "21:17",
+              "credits": {
+                "出演": "和田彩花(スマイレージ)"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Ending",
+              "duration": "02:57",
+              "credits": {
+                "出演": "和田彩花(スマイレージ)"
+              }
+            }
+          ],
+          "catalogNo": "HKBN-50162"
+        }
+      ]
+    }
+  ]
+}

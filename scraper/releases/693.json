@@ -1,0 +1,129 @@
+{
+  "id": 693,
+  "url": "/release/693/",
+  "title": "涙の色",
+  "category": "CDシングル",
+  "artist": "℃-ute",
+  "releaseDate": "2008.4.23",
+  "label": "zetima",
+  "images": [
+    "/upload/images/22efbd01c38e7e3b0c1b386349e8f34cac9ab63c.webp",
+    "/upload/images/1d57fe59bdf851019f0be89cecd18dfe3a5dd3b3.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/upload/images/22efbd01c38e7e3b0c1b386349e8f34cac9ab63c.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "涙の色",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "藤澤慶昌",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ダーリン I LOVE YOU",
+              "duration": "04:19",
+              "suffix": "(℃-ute Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "酒井ミキオ",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "涙の色",
+              "duration": "04:29",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "藤澤慶昌",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5553"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "涙の色",
+              "duration": "04:45",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/1d57fe59bdf851019f0be89cecd18dfe3a5dd3b3.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "涙の色",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "藤澤慶昌",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ダーリン I LOVE YOU",
+              "duration": "04:19",
+              "suffix": "(℃-ute Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "酒井ミキオ",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "涙の色",
+              "duration": "04:29",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "藤澤慶昌",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5555"
+        }
+      ],
+      "note": "イベント抽選シリアルナンバーカード封入"
+    }
+  ]
+}

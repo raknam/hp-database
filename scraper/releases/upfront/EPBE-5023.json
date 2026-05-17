@@ -1,0 +1,63 @@
+{
+  "code": "EPBE-5023",
+  "url": "/release/detail/EPBE-5023/",
+  "source": "upfront",
+  "title": "Shaku Yumiko Network〜ドラマティックに恋をして〜",
+  "category": "DVD",
+  "artist": "釈由美子",
+  "releaseDate": "2001/07/25",
+  "label": "zetima",
+  "images": [
+    "/images/daf2b4dd9fd3937e7b191f036e9b7f729ac39a50.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/daf2b4dd9fd3937e7b191f036e9b7f729ac39a50.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5023",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ニュースキャスター 釈ゆみえ",
+              "duration": "00:21"
+            },
+            {
+              "index": 2,
+              "title": "釈総理",
+              "duration": "02:01"
+            },
+            {
+              "index": 3,
+              "title": "大リーグの選手「シャクロー」",
+              "duration": "01:09"
+            },
+            {
+              "index": 4,
+              "title": "ゲスト「ユミコ・シャク」",
+              "duration": "02:29"
+            },
+            {
+              "index": 5,
+              "title": "ドラマティックに恋をして プロモーションビデオ/釈妹“釈ゆみこ”",
+              "duration": "06:11"
+            },
+            {
+              "index": 6,
+              "title": "お天気お姉さん",
+              "duration": "01:14"
+            },
+            {
+              "index": 7,
+              "title": "エンディング",
+              "duration": "04:11"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

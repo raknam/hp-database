@@ -1,0 +1,38 @@
+{
+  "id": 5375,
+  "url": "/release/5375/",
+  "title": "小生意気ガール",
+  "category": "配信",
+  "artist": "カントリー・ガールズ",
+  "releaseDate": "2017.8.11",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/f16f4c00fe5fbe30097c1d7fd945b097f7985764.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "小生意気ガール",
+              "duration": "03:25",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "ジンツチハシ",
+                "編曲": "平田祥一郎",
+                "歌": "カントリー・ガールズ"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1355"
+        }
+      ]
+    }
+  ]
+}

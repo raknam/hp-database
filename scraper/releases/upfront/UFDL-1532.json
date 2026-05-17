@@ -1,0 +1,78 @@
+{
+  "code": "UFDL-1532",
+  "url": "/release/detail/UFDL-1532/",
+  "source": "upfront",
+  "title": "涙のTomorrow/Yes! 晴れ予報(Special Edition)",
+  "category": "配信",
+  "artist": "小関舞",
+  "releaseDate": "2024/04/24",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/bfc593ff1b8ed64a8260f8da1e871998ff6e09be.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/bfc593ff1b8ed64a8260f8da1e871998ff6e09be.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1532",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "涙のTomorrow",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "渡辺泰司",
+                "編曲": "渡辺泰司"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Yes! 晴れ予報",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "miwaflower",
+                "作曲": "miwaflower/SAMDELL",
+                "編曲": "SAMDELL"
+              }
+            },
+            {
+              "index": 3,
+              "title": "お別れのKISS",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "メインキャスト",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "早川響介",
+                "編曲": "早川響介"
+              }
+            },
+            {
+              "index": 5,
+              "title": "C＼C(シンデレラ＼コンプレックス)'24 小関舞 Solo Ver.",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "戸嶋友祐"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

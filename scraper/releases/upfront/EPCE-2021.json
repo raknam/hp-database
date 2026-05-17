@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-2021",
+  "url": "/release/detail/EPCE-2021/",
+  "source": "upfront",
+  "title": "エーゲ海に抱かれて",
+  "category": "CDシングル",
+  "artist": "飯田圭織",
+  "releaseDate": "2004/02/04",
+  "label": "地中海レーベル",
+  "images": [
+    "/images/e1b55480f87126ddd48d90d4115be6a787473f8c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/e1b55480f87126ddd48d90d4115be6a787473f8c.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-2021",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "エーゲ海に抱かれて",
+              "duration": "05:09",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく",
+                "編曲": "前野知常"
+              }
+            },
+            {
+              "index": 2,
+              "title": "最後の接吻",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前野知常"
+              }
+            },
+            {
+              "index": 3,
+              "title": "エーゲ海に抱かれて(Instrumental)",
+              "duration": "05:10",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく",
+                "編曲": "前野知常"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

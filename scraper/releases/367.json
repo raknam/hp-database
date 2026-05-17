@@ -1,0 +1,83 @@
+{
+  "id": 367,
+  "url": "/release/367/",
+  "title": "娘DOKYU！ Vol.5",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2006.10.18",
+  "label": "zetima",
+  "images": [
+    "/upload/images/835399b517bf3467d8c2fd6c3b766d56c23a3971.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "道重さゆみ",
+              "duration": "17:21",
+              "credits": {
+                "出演": "道重さゆみ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "田中れいな",
+              "duration": "13:50",
+              "credits": {
+                "出演": "田中れいな"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メトロラビッツH.P.",
+              "duration": "37:34",
+              "credits": {
+                "出演": "メトロラビッツH.P."
+              }
+            },
+            {
+              "index": 1,
+              "title": "未公開映像:吉澤ひとみ編",
+              "duration": "05:05",
+              "credits": {
+                "出演": "吉澤ひとみ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "未公開映像:小川麻琴編",
+              "duration": "08:32",
+              "credits": {
+                "出演": "小川麻琴"
+              }
+            },
+            {
+              "index": 3,
+              "title": "未公開映像:藤本美貴編",
+              "duration": "07:30",
+              "credits": {
+                "出演": "藤本美貴"
+              }
+            },
+            {
+              "index": 4,
+              "title": "未公開映像:新垣里沙編",
+              "duration": "07:50",
+              "credits": {
+                "出演": "新垣里沙"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5208"
+        }
+      ]
+    }
+  ]
+}

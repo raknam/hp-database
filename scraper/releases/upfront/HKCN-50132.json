@@ -1,0 +1,81 @@
+{
+  "code": "HKCN-50132",
+  "url": "/release/detail/HKCN-50132/",
+  "source": "upfront",
+  "title": "雨上がりの虹のように",
+  "category": "CDシングル",
+  "artist": "安倍なつみ",
+  "releaseDate": "2010/09/15",
+  "label": "hachama",
+  "images": [
+    "/images/20b70fa149ac75215fbb6ded2e7b9002addfc8ff.jpg",
+    "/images/8f9374cd1916a57418e6cc56fe928d6df22e52be.jpg"
+  ],
+  "editions": [
+    {
+      "name": "初回生産限定盤(DVD付き)",
+      "image": "/images/20b70fa149ac75215fbb6ded2e7b9002addfc8ff.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50132",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "雨上がりの虹のように",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "岡村孝子",
+                "作曲": "岡村孝子",
+                "編曲": "萩田光雄"
+              }
+            },
+            {
+              "index": 2,
+              "title": "夢をあきらめないで",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "岡村孝子",
+                "作曲": "岡村孝子",
+                "編曲": "萩田光雄"
+              }
+            },
+            {
+              "index": 3,
+              "title": "雨上がりの虹のように(Instrumental)",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "岡村孝子",
+                "作曲": "岡村孝子",
+                "編曲": "萩田光雄"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": "/images/8f9374cd1916a57418e6cc56fe928d6df22e52be.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50134",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "雨上がりの虹のように(Music Video)",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "岡村孝子",
+                "作曲": "岡村孝子"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": 3321,
+  "url": "/release/3321/",
+  "title": "プロポーズ",
+  "category": "CDシングル",
+  "artist": "平家みちよ",
+  "releaseDate": "2001.11.7",
+  "label": "zetima",
+  "images": [
+    "/upload/images/80aea96676d920db40f0fc8efc83ce858f6d645c.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プロポーズ",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄",
+                "歌": "平家みちよ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "パパとママ",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "松本零士",
+                "歌": "平家みちよ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "プロポーズ",
+              "duration": "04:04",
+              "suffix": "(Hard Crunch Version)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄",
+                "歌": "平家みちよ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "プロポーズ",
+              "duration": "04:03",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄",
+                "歌": "平家みちよ"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5122"
+        }
+      ]
+    }
+  ]
+}

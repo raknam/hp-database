@@ -1,0 +1,115 @@
+{
+  "code": "EPCE-5139",
+  "url": "/release/detail/EPCE-5139/",
+  "source": "upfront",
+  "title": "それいゆ",
+  "category": "CDミニアルバム",
+  "artist": "flex life",
+  "releaseDate": "2002/01/23",
+  "label": "zetima",
+  "images": [
+    "/images/4d1a951398cae1e24d926b54768934fffade07e9.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/4d1a951398cae1e24d926b54768934fffade07e9.jpg",
+      "price": "￥1,980 (税抜価格 ￥1,800)",
+      "discs": [
+        {
+          "type": "CDミニアルバム",
+          "catalogNo": "EPCE-5139",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "requiem(intro)",
+              "duration": "00:24",
+              "credits": {
+                "作曲": "flexlife",
+                "編曲": "flexlife"
+              }
+            },
+            {
+              "index": 2,
+              "title": "getting better",
+              "duration": "05:13",
+              "credits": {
+                "作詞": "大倉健/青木里枝",
+                "作曲": "大倉健",
+                "編曲": "flexlife"
+              }
+            },
+            {
+              "index": 3,
+              "title": "夢を慕いて",
+              "duration": "05:08",
+              "credits": {
+                "作詞": "青木里枝",
+                "作曲": "大倉健",
+                "編曲": "flexlife"
+              }
+            },
+            {
+              "index": 4,
+              "title": "adlibーone(interlude)",
+              "duration": "00:39",
+              "credits": {
+                "作曲": "flexlife",
+                "編曲": "flexlife"
+              }
+            },
+            {
+              "index": 5,
+              "title": "スカイライン",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "青木里枝",
+                "作曲": "大倉健",
+                "編曲": "flexlife"
+              }
+            },
+            {
+              "index": 6,
+              "title": "それいゆ",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "青木里枝",
+                "作曲": "大倉健",
+                "編曲": "flexlife"
+              }
+            },
+            {
+              "index": 7,
+              "title": "バーバリアン",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "青木里枝",
+                "作曲": "大倉健",
+                "編曲": "flexlife"
+              }
+            },
+            {
+              "index": 8,
+              "title": "WAR",
+              "duration": "05:10",
+              "credits": {
+                "作詞": "青木里枝",
+                "作曲": "大倉健",
+                "編曲": "flexlife"
+              }
+            },
+            {
+              "index": 9,
+              "title": "adlibーtwo(outro)",
+              "duration": "00:45",
+              "credits": {
+                "作曲": "flexlife",
+                "編曲": "flexlife"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

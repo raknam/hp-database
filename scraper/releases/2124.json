@@ -1,0 +1,51 @@
+{
+  "id": 2124,
+  "url": "/release/2124/",
+  "title": "ハロー!SATOYAMAライフ Vol.28",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2014.5.28",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/a99ede7084ef455eb5d86ee13ca950d96de5e67b.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "SATOUMI×OTODAMA 2013 〜ゲストにベリキュー！海に集合！〜",
+              "duration": "33:43",
+              "credits": {
+                "出演": "Berryz工房/℃-ute/ダイヤレディー/メロウクアッド/HI-FIN/田﨑あさひ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "里山でハロウィンパーティー",
+              "duration": "32:09",
+              "credits": {
+                "出演": "生田衣梨奈・石田亜佑美(モーニング娘。'14)/ 徳永千奈美・須藤茉麻(Berryz工房)/宮崎由加・高木紗友希(Juice=Juice)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "℃-ute「愛ってもっと斬新」MV撮影に密着",
+              "duration": "07:46",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1348"
+        }
+      ]
+    }
+  ]
+}

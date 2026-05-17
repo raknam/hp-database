@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1363",
+  "url": "/release/detail/UFDL-1363/",
+  "source": "upfront",
+  "title": "アンドゥ トロワ",
+  "category": "配信",
+  "artist": "さわやか五郎",
+  "releaseDate": "2017/09/08",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/f6e117647432f8d570d86dd86c41f93138a541bd.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f6e117647432f8d570d86dd86c41f93138a541bd.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1363",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アンドゥ トロワ",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "うるまでるび",
+                "作曲": "フランス民謡/原曲:J’AI PERDU LE DO DE MA CLARINETTE",
+                "編曲": "塩入俊哉"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": 2065,
+  "url": "/release/2065/",
+  "title": "ハロプロ！TIME Vol.4",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012.1.6",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/a0217ba53adfb513a0a0d5effc7ceefb9f625462.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "空港到着〜ソウル市内へ！",
+              "duration": "11:01",
+              "credits": {
+                "出演": "高橋愛・新垣里沙(モーニング娘。)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "立ち食いカルビ！！",
+              "duration": "05:49",
+              "credits": {
+                "出演": "高橋愛・新垣里沙(モーニング娘。)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ホテルにチェックイン〜明洞で買い物三昧！",
+              "duration": "08:00",
+              "credits": {
+                "出演": "高橋愛・新垣里沙(モーニング娘。)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "韓国グルメ－激うまトッポギ鍋！！－",
+              "duration": "04:22",
+              "credits": {
+                "出演": "高橋愛・新垣里沙(モーニング娘。)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "韓国グルメ＆同期ガールズトーク！",
+              "duration": "14:11",
+              "credits": {
+                "出演": "高橋愛・新垣里沙(モーニング娘。)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "初日のラストは韓国エステ！",
+              "duration": "08:10",
+              "credits": {
+                "出演": "高橋愛・新垣里沙(モーニング娘。)"
+              }
+            },
+            {
+              "index": 7,
+              "title": "2日目ロッテワールドで大絶叫！",
+              "duration": "11:20",
+              "credits": {
+                "出演": "高橋愛・新垣里沙(モーニング娘。)"
+              }
+            },
+            {
+              "index": 8,
+              "title": "免税店で買い物三昧〜屋台市場で練り歩き！",
+              "duration": "09:35",
+              "credits": {
+                "出演": "高橋愛・新垣里沙(モーニング娘。)"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1136"
+        }
+      ]
+    }
+  ]
+}

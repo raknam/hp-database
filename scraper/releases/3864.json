@@ -1,0 +1,73 @@
+{
+  "id": 3864,
+  "url": "/release/3864/",
+  "title": "相愛太鼓",
+  "category": "カセットテープシングル",
+  "artist": "前田有紀",
+  "releaseDate": "2007.9.26",
+  "label": "ライスミュージック",
+  "images": [
+    "/resources/images/foundation/release-placeholder.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CASSETTE",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "相愛太鼓",
+              "duration": "05:11",
+              "credits": {
+                "作詞": "紺野あずさ",
+                "作曲": "弦哲也",
+                "編曲": "南郷達也",
+                "歌": "前田有紀"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ざんざ恋しぐれ",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "紺野あずさ",
+                "作曲": "弦哲也",
+                "編曲": "南郷達也",
+                "歌": "前田有紀"
+              }
+            },
+            {
+              "index": 3,
+              "title": "相愛太鼓",
+              "duration": "05:11",
+              "suffix": "(オリジナル・カラオケ)",
+              "credits": {
+                "作詞": "紺野あずさ",
+                "作曲": "弦哲也",
+                "編曲": "南郷達也",
+                "歌": "前田有紀"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ざんざ恋しぐれ",
+              "duration": "04:30",
+              "suffix": "(オリジナル・カラオケ)",
+              "credits": {
+                "作詞": "紺野あずさ",
+                "作曲": "弦哲也",
+                "編曲": "南郷達也",
+                "歌": "前田有紀"
+              }
+            }
+          ],
+          "catalogNo": "PKSP-2028"
+        }
+      ]
+    }
+  ]
+}

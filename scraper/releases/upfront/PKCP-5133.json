@@ -1,0 +1,81 @@
+{
+  "code": "PKCP-5133",
+  "url": "/release/detail/PKCP-5133/",
+  "source": "upfront",
+  "title": "抱きしめて 抱きしめて",
+  "category": "CDシングル",
+  "artist": "Berryz工房",
+  "releaseDate": "2009/03/11",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/032bea672fb412dd325d4e4e37bfc0a398ad54cf.jpg",
+    "/images/61ea184b104b8cbae58fda74446574ac8979c43e.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/032bea672fb412dd325d4e4e37bfc0a398ad54cf.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5133",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "抱きしめて 抱きしめて",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "そのすべての愛に",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "上杉洋史"
+              }
+            },
+            {
+              "index": 3,
+              "title": "抱きしめて 抱きしめて(Instrumental)",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/61ea184b104b8cbae58fda74446574ac8979c43e.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKCP-5135",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "抱きしめて抱きしめて(Close-up Ver.)",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "code": "UFDL-1546",
+  "url": "/release/detail/UFDL-1546/",
+  "source": "upfront",
+  "title": "愛だろ、やっぱ！/泣いてOVER(Special Edition)",
+  "category": "配信",
+  "artist": "竹内朱莉",
+  "releaseDate": "2024/12/25",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/e2c70c08bbd5d598aede8c65ebc0529d736c9216.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/e2c70c08bbd5d598aede8c65ebc0529d736c9216.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1546",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛だろ、やっぱ！",
+              "duration": "03:34",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "早川響介",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "泣いてOVER",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "下地悠",
+                "作曲": "Erik Lidbom",
+                "編曲": "Erik Lidbom"
+              }
+            },
+            {
+              "index": 3,
+              "title": "お好きにどーぞ！ feat.竹内アンナ",
+              "duration": "03:00",
+              "credits": {
+                "作詞": "竹内アンナ/竹内朱莉",
+                "作曲": "竹内アンナ",
+                "編曲": "hisakuni/竹内アンナ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "とりあえず ごはんいこ！",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "編曲": "Erik Lidbom"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

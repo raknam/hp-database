@@ -1,0 +1,68 @@
+{
+  "code": "UFBW-2060",
+  "url": "/release/detail/UFBW-2060/",
+  "source": "upfront",
+  "title": "Greeting 〜工藤 遥〜",
+  "category": "DVD",
+  "artist": "工藤遥",
+  "releaseDate": "2012/06/29",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/c8e12f648aa1c5c9cc483886c6e6481ab74f2f64.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/c8e12f648aa1c5c9cc483886c6e6481ab74f2f64.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2060",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Greeting",
+              "duration": "10:46"
+            },
+            {
+              "index": 2,
+              "title": "Interview1",
+              "duration": "03:11"
+            },
+            {
+              "index": 3,
+              "title": "Day off",
+              "duration": "09:34"
+            },
+            {
+              "index": 4,
+              "title": "Interview2",
+              "duration": "07:20"
+            },
+            {
+              "index": 5,
+              "title": "School girl",
+              "duration": "03:31"
+            },
+            {
+              "index": 6,
+              "title": "Interview3",
+              "duration": "10:14"
+            },
+            {
+              "index": 7,
+              "title": "Making",
+              "duration": "07:08"
+            },
+            {
+              "index": 8,
+              "title": "Ending",
+              "duration": "00:36"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

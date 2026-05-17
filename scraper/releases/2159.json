@@ -1,0 +1,79 @@
+{
+  "id": 2159,
+  "url": "/release/2159/",
+  "title": "行け!元気君 ミュージックビデオ",
+  "category": "DVD",
+  "artist": "萩原舞",
+  "releaseDate": "2012.4.4",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/6b076f66e05a7b23665ed9ec1c0c19bd1ac4ae9d.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "行け！元気君",
+              "duration": "05:20",
+              "credits": {
+                "出演": "萩原舞(℃-ute)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "行け！元気君",
+              "duration": "05:12",
+              "suffix": "【Snow Close-up Ver.】",
+              "credits": {
+                "出演": "萩原舞(℃-ute)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "行け！元気君",
+              "duration": "05:11",
+              "suffix": "【Natural & Rock Ver.】",
+              "credits": {
+                "出演": "萩原舞(℃-ute)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "行け！元気君",
+              "duration": "05:08",
+              "suffix": "【a stairway Close-up Ver.】",
+              "credits": {
+                "出演": "萩原舞(℃-ute)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "行け！元気君",
+              "duration": "05:11",
+              "suffix": "【スカジャン Close-up Ver.(強風)】",
+              "credits": {
+                "出演": "萩原舞(℃-ute)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "メイキング映像",
+              "duration": "28:00",
+              "credits": {
+                "出演": "萩原舞(℃-ute)"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-2049"
+        }
+      ]
+    }
+  ]
+}

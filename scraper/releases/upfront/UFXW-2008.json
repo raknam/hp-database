@@ -1,0 +1,53 @@
+{
+  "code": "UFXW-2008",
+  "url": "/release/detail/UFXW-2008/",
+  "source": "upfront",
+  "title": "Greeting〜山木梨沙〜",
+  "category": "BD",
+  "artist": "山木梨沙",
+  "releaseDate": "2015/12/11",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/7d4c81889cc7ee399b822be8e69ec284aa3a9dbb.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7d4c81889cc7ee399b822be8e69ec284aa3a9dbb.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "UFXW-2008",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Country Road",
+              "duration": "10:49"
+            },
+            {
+              "index": 2,
+              "title": "Horse Yard",
+              "duration": "11:48"
+            },
+            {
+              "index": 3,
+              "title": "Interview with Risa Yamaki",
+              "duration": "16:16"
+            },
+            {
+              "index": 4,
+              "title": "Making",
+              "duration": "07:15"
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "03:53"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-5375",
+  "url": "/release/detail/EPCE-5375/",
+  "source": "upfront",
+  "title": "アイノチカラ ～born to be loved～",
+  "category": "CDシングル",
+  "artist": "GaGaalinG",
+  "releaseDate": "2006/01/18",
+  "label": "zetima",
+  "images": [
+    "/images/7a2bdb856ed36abebe8c90b7e62544a224af4fbc.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7a2bdb856ed36abebe8c90b7e62544a224af4fbc.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5375",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アイノチカラ ～born to be loved～",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "MAIMING/小柳“Cherry”昌法/MOTO",
+                "作曲": "MAIMING/小柳“Cherry”昌法/MOTO",
+                "編曲": "GaGaalinG"
+              }
+            },
+            {
+              "index": 2,
+              "title": "強い涙",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "MAIMING/小柳“Cherry”昌法/MOTO",
+                "作曲": "MAIMING/小柳“Cherry”昌法/MOTO",
+                "編曲": "GaGaalinG"
+              }
+            },
+            {
+              "index": 3,
+              "title": "アイノチカラ 〜born to be loved〜Instrumental",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "MAIMING/小柳“Cherry”昌法/MOTO",
+                "作曲": "MAIMING/小柳“Cherry”昌法/MOTO",
+                "編曲": "GaGaalinG"
+              }
+            },
+            {
+              "index": 4,
+              "title": "強い涙Instrumental",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "MAIMING/小柳“Cherry”昌法/MOTO",
+                "作曲": "MAIMING/小柳“Cherry”昌法/MOTO",
+                "編曲": "GaGaalinG"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

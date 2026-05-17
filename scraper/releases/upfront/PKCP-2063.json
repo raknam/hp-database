@@ -1,0 +1,68 @@
+{
+  "code": "PKCP-2063",
+  "url": "/release/detail/PKCP-2063/",
+  "source": "upfront",
+  "title": "Love comedy ららばい",
+  "category": "CDシングル",
+  "artist": "湯原昌幸",
+  "releaseDate": "2010/08/25",
+  "label": "ライスミュージック",
+  "images": [
+    "/images/131bafeb90ad4f07b7f6c87a5b6672adbd4738a3.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/131bafeb90ad4f07b7f6c87a5b6672adbd4738a3.jpg",
+      "price": "￥1,257 (税抜価格 ￥1,143)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-2063",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Love comedy ららばい",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "羽場仁志",
+                "編曲": "佐藤準"
+              }
+            },
+            {
+              "index": 2,
+              "title": "黄昏の天使たち",
+              "duration": "05:11",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "堀内孝雄",
+                "編曲": "佐藤準"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Love comedy ららばい(オリジナル・カラオケ)",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "羽場仁志",
+                "編曲": "佐藤準"
+              }
+            },
+            {
+              "index": 4,
+              "title": "黄昏の天使たち(オリジナル・カラオケ)",
+              "duration": "05:11",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "堀内孝雄",
+                "編曲": "佐藤準"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

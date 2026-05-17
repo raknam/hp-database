@@ -1,0 +1,51 @@
+{
+  "code": "HKBN-50114",
+  "url": "/release/detail/HKBN-50114/",
+  "source": "upfront",
+  "title": "シングルV「はじめての経験」",
+  "category": "DVDシングルV",
+  "artist": "真野恵里菜",
+  "releaseDate": "2009/06/03",
+  "label": "hachama",
+  "images": [
+    "/images/87925a9f2ce4db4b3e8863f6e68bb624e1b97b3f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/87925a9f2ce4db4b3e8863f6e68bb624e1b97b3f.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "HKBN-50114",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "はじめての経験",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN"
+              }
+            },
+            {
+              "index": 2,
+              "title": "はじめての経験(Dance Shot Ver.)",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "10:40"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

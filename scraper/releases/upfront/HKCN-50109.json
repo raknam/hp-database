@@ -1,0 +1,125 @@
+{
+  "code": "HKCN-50109",
+  "url": "/release/detail/HKCN-50109/",
+  "source": "upfront",
+  "title": "お願いだから・・・",
+  "category": "CDシングル",
+  "artist": "真野恵里菜",
+  "releaseDate": "2010/05/12",
+  "label": "hachama",
+  "images": [
+    "/images/0831bb35f6c275aad61a94b9413e65d704c2d9d3.jpg",
+    "/images/aff3ebb0c1e64485d797058c3743fb8ecd6323f3.jpg",
+    "/images/337de0904e5e7a11c23ff6f192ee0b3533b925bf.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/0831bb35f6c275aad61a94b9413e65d704c2d9d3.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50109",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "お願いだから…",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "経塚泰誠",
+                "編曲": "河合英嗣"
+              }
+            },
+            {
+              "index": 2,
+              "title": "花言葉",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "経塚泰誠",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "お願いだから…(Instrumental)",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "経塚泰誠",
+                "編曲": "河合英嗣"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/aff3ebb0c1e64485d797058c3743fb8ecd6323f3.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50111",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "お願いだから…(Dance Shot Ver.)",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "経塚泰誠"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/337de0904e5e7a11c23ff6f192ee0b3533b925bf.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50112",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "お願いだから…",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "経塚泰誠",
+                "編曲": "河合英嗣"
+              }
+            },
+            {
+              "index": 2,
+              "title": "花言葉",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "経塚泰誠",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "お願いだから…(Instrumental)",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "経塚泰誠",
+                "編曲": "河合英嗣"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

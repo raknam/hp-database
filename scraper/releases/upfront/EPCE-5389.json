@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5389",
+  "url": "/release/detail/EPCE-5389/",
+  "source": "upfront",
+  "title": "メッセージ",
+  "category": "CDシングル",
+  "artist": "中島卓偉",
+  "releaseDate": "2006/03/01",
+  "label": "zetima",
+  "images": [
+    "/images/81bd4314a645cc704cac4adba8995618f840cdb5.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/81bd4314a645cc704cac4adba8995618f840cdb5.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5389",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "メッセージ",
+              "duration": "03:26",
+              "credits": {
+                "作詞": "中島卓偉/鈴木祥子",
+                "作曲": "中島卓偉",
+                "編曲": "佐橋佳幸"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ビルボードで鳴くカナリア",
+              "duration": "05:10",
+              "credits": {
+                "作詞": "水政創史郎/中島卓偉",
+                "作曲": "Gajin",
+                "編曲": "佐橋佳幸"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メッセージ－vocal off version－",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "中島卓偉/鈴木祥子",
+                "作曲": "中島卓偉",
+                "編曲": "佐橋佳幸"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

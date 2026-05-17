@@ -1,0 +1,26 @@
+{
+  "id": 2275,
+  "url": "/release/2275/",
+  "title": "May.",
+  "category": "DVD",
+  "artist": "田村芽実",
+  "releaseDate": "2014.4.30",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/c412ceac2840c369721235c60d9b26a19a26be7e.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [],
+          "catalogNo": "UFBW-2101"
+        }
+      ]
+    }
+  ]
+}

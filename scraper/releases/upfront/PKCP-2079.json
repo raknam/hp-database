@@ -1,0 +1,78 @@
+{
+  "code": "PKCP-2079",
+  "url": "/release/detail/PKCP-2079/",
+  "source": "upfront",
+  "title": "すいかずら～金銀花～",
+  "category": "CDシングル",
+  "artist": "湯原昌幸",
+  "releaseDate": "2012/04/25",
+  "label": "ライスミュージック",
+  "images": [
+    "/images/d31d5cb15a573f0bfc92e60764ae83d1c6c687ea.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d31d5cb15a573f0bfc92e60764ae83d1c6c687ea.jpg",
+      "price": "￥1,257 (税抜価格 ￥1,143)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-2079",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "すいかずら～金銀花～",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "石原信一",
+                "作曲": "田尾将実",
+                "編曲": "塩入俊哉"
+              }
+            },
+            {
+              "index": 2,
+              "title": "幸せの回数",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "田尾将実",
+                "編曲": "塩入俊哉"
+              }
+            },
+            {
+              "index": 3,
+              "title": "道",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "湯原昌幸",
+                "編曲": "佐藤準"
+              }
+            },
+            {
+              "index": 4,
+              "title": "すいかずら～金銀花～(オリジナル・カラオケ)",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "石原信一",
+                "作曲": "田尾将実",
+                "編曲": "塩入俊哉"
+              }
+            },
+            {
+              "index": 5,
+              "title": "幸せの回数(オリジナル・カラオケ)",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "田尾将実",
+                "編曲": "塩入俊哉"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

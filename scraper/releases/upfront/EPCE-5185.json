@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5185",
+  "url": "/release/detail/EPCE-5185/",
+  "source": "upfront",
+  "title": "あなただから",
+  "category": "CDシングル",
+  "artist": "Nyle",
+  "releaseDate": "2002/11/07",
+  "label": "zetima",
+  "images": [
+    "/images/16abcbde606a13b3caab25fc2112b35d8101d3b2.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/16abcbde606a13b3caab25fc2112b35d8101d3b2.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5185",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "あなただから",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "ナイル",
+                "作曲": "ナイル/大庭雅樹",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 2,
+              "title": "蝶",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "ナイル",
+                "作曲": "ナイル",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 3,
+              "title": "あなただから(Instrumental)",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "ナイル",
+                "作曲": "ナイル/大庭雅樹",
+                "編曲": "小西貴雄"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

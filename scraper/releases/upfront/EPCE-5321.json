@@ -1,0 +1,622 @@
+{
+  "code": "EPCE-5321",
+  "url": "/release/detail/EPCE-5321/",
+  "source": "upfront",
+  "title": "モーニング娘。EARLY SINGLE BOX",
+  "category": "CDアルバム",
+  "artist": "モーニング娘。",
+  "releaseDate": "2004/12/15",
+  "label": "zetima",
+  "images": [
+    "/images/84d531bd35100fca939ab280120c4ce41af00120.jpg"
+  ],
+  "editions": [
+    {
+      "name": "(Disc.1) モーニングコーヒー",
+      "image": "/images/84d531bd35100fca939ab280120c4ce41af00120.jpg",
+      "price": "￥11,000 (税抜価格 ￥10,000)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5321",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "モーニングコーヒー",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "桜井鉄太郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "愛の種",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "サエキけんぞう",
+                "作曲": "桜井鉄太郎",
+                "編曲": "桜井鉄太郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "モーニングコーヒー(Instrumental)",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "桜井鉄太郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "モーニングコーヒー(Unreleased”B♭”Version)",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "桜井鉄太郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "(Disc.2) サマーナイトタウン",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5322",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "サマーナイトタウン",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 2,
+              "title": "A MEMORY OF SUMMER'98",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "サマーナイトタウン(Instrumental)",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 4,
+              "title": "サマーナイトタウン(First Live Version)",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "(Disc.3) 抱いて HOLD ON ME!",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5323",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "抱いてHOLD ON ME!",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 2,
+              "title": "例えば",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "須藤 豪& LH Project"
+              }
+            },
+            {
+              "index": 3,
+              "title": "抱いてHOLD ON ME!(Instrumental)",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 4,
+              "title": "抱いてHOLD ON ME!(「モーニング刑事」Version)",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "(Disc.4) Memory 青春の光",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5324",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Memory 青春の光",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Happy Night",
+              "duration": "05:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Never Forget",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Memory 青春の光(Instrumental)",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Memory 青春の光(99.4.18 Live Version)",
+              "duration": "05:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "(Disc.5) 真夏の光線",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5325",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "真夏の光線",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野 伸"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋の始発列車",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 3,
+              "title": "真夏の光線(Instrumental)",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野 伸"
+              }
+            },
+            {
+              "index": 4,
+              "title": "真夏の光線(Early Version)",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野 伸"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "(Disc.6) ふるさと",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5326",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ふるさと",
+              "duration": "05:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 2,
+              "title": "忘れらんない",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄&下町兄弟"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ふるさと(Instrumental)",
+              "duration": "05:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ふるさと(Early Vocal Version)",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "(Disc.7) LOVEマシーン",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5327",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "LOVEマシーン",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 2,
+              "title": "21世紀",
+              "duration": "04:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介 ストリングスアレンジ:村山達哉"
+              }
+            },
+            {
+              "index": 3,
+              "title": "LOVEマシーン(Instrumental)",
+              "duration": "04:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 4,
+              "title": "LOVEマシーン(Early Unison Version)",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "(Disc.8) 恋のダンスサイト",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5328",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋のダンスサイト",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋はロケンロー",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山木隆一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋のダンスサイト(Instrumental)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 4,
+              "title": "恋のダンスサイト(Groove That Soul Remix)",
+              "duration": "08:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "SATOSHI HIDAKA (GTS)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "恋のダンスサイト(M.I.D. KH-R CLUB MIX)",
+              "duration": "05:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "DJ K. HASEGAWA"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "(Disc.9) ORIGINAL KARAOKE",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5329",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛の種",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "サエキけんぞう",
+                "作曲": "桜井鉄太郎",
+                "編曲": "桜井鉄太郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Good Morning",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 3,
+              "title": "どうにかして土曜日",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一 ブラス・アレンジ 森宣之"
+              }
+            },
+            {
+              "index": 4,
+              "title": "未来の扉",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "今井了介"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ウソつきあんた",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Happy Night",
+              "duration": "05:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Never Forget",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 8,
+              "title": "好きで×5",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 9,
+              "title": "パパに似ている彼",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 10,
+              "title": "せんこう花火",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 11,
+              "title": "ダディドゥデドダディ！",
+              "duration": "05:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 12,
+              "title": "愛車ローンで",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 13,
+              "title": "くちづけのその後",
+              "duration": "04:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 14,
+              "title": "DANCEするのだ！",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 15,
+              "title": "原宿6:00集合",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山内 薫"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

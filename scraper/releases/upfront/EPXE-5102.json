@@ -1,0 +1,58 @@
+{
+  "code": "EPXE-5102",
+  "url": "/release/detail/EPXE-5102/",
+  "source": "upfront",
+  "title": "Chisaki in Paradise",
+  "category": "BD",
+  "artist": "森戸知沙希",
+  "releaseDate": "2017/06/28",
+  "label": "zetima",
+  "images": [
+    "/images/bc864c93b18fb09cd7e49eb93a2b96ca5fe1ab88.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/bc864c93b18fb09cd7e49eb93a2b96ca5fe1ab88.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5102",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Fly Away",
+              "duration": "18:08"
+            },
+            {
+              "index": 2,
+              "title": "Blue Parade",
+              "duration": "10:26"
+            },
+            {
+              "index": 3,
+              "title": "Secret Island",
+              "duration": "09:11"
+            },
+            {
+              "index": 4,
+              "title": "Making of 「Chisaki in Paradise」",
+              "duration": "07:54"
+            },
+            {
+              "index": 5,
+              "title": "Making of 「森戸知沙希」",
+              "duration": "11:16"
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "01:20"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

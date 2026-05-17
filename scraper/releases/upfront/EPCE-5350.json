@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5350",
+  "url": "/release/detail/EPCE-5350/",
+  "source": "upfront",
+  "title": "恋のフーガ",
+  "category": "CDシングル",
+  "artist": "W",
+  "releaseDate": "2005/02/09",
+  "label": "zetima",
+  "images": [
+    "/images/d27b69c6115f27daabb745e2bdefa45947c1e244.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d27b69c6115f27daabb745e2bdefa45947c1e244.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5350",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋のフーガ",
+              "duration": "02:29",
+              "credits": {
+                "作詞": "なかにし礼",
+                "作曲": "すぎやまこういち",
+                "編曲": "馬飼野康二/原編曲:宮川泰"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ふりむかないで",
+              "duration": "02:56",
+              "credits": {
+                "作詞": "岩谷時子",
+                "作曲": "宮川泰",
+                "編曲": "馬飼野康二/田中直"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋のフーガ(Instrumental)",
+              "duration": "02:30",
+              "credits": {
+                "作詞": "なかにし礼",
+                "作曲": "すぎやまこういち",
+                "編曲": "馬飼野康二/原編曲:宮川泰"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

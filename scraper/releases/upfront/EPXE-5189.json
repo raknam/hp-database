@@ -1,0 +1,532 @@
+{
+  "code": "EPXE-5189",
+  "url": "/release/detail/EPXE-5189/",
+  "source": "upfront",
+  "title": "Hello! Project 2020 COVERS ～The Ballad Best Selection～",
+  "category": "BD",
+  "artist": "V.A.",
+  "releaseDate": "2021/06/30",
+  "label": "zetima",
+  "images": [
+    "/images/b619ac222462aad4ae8567a8f5c93edccbc23348.jpg"
+  ],
+  "editions": [
+    {
+      "name": "＜Disc1＞",
+      "image": "/images/b619ac222462aad4ae8567a8f5c93edccbc23348.jpg",
+      "price": "￥9,900 (税抜価格 ￥9,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5189",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "02:50"
+            },
+            {
+              "index": 2,
+              "title": "手紙～拝啓 十五の君へ～",
+              "duration": "03:18",
+              "credits": {
+                "作詞": "アンジェラ・アキ",
+                "作曲": "アンジェラ・アキ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "海の声",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "篠原誠",
+                "作曲": "島袋優"
+              }
+            },
+            {
+              "index": 4,
+              "title": "TRUE LOVE",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "藤井フミヤ",
+                "作曲": "藤井フミヤ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ひこうき雲",
+              "duration": "03:16",
+              "credits": {
+                "作詞": "荒井由実",
+                "作曲": "荒井由実"
+              }
+            },
+            {
+              "index": 6,
+              "title": "やさしさで溢れるように",
+              "duration": "03:26",
+              "credits": {
+                "作詞": "亀田誠治/小倉しんこう",
+                "作曲": "小倉しんこう"
+              }
+            },
+            {
+              "index": 7,
+              "title": "おとなの掟",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "椎名林檎",
+                "作曲": "椎名林檎"
+              }
+            },
+            {
+              "index": 8,
+              "title": "MC",
+              "duration": "00:47"
+            },
+            {
+              "index": 9,
+              "title": "私はピアノ",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "桑田佳祐",
+                "作曲": "桑田佳祐"
+              }
+            },
+            {
+              "index": 10,
+              "title": "楓",
+              "duration": "03:34",
+              "credits": {
+                "作詞": "草野正宗",
+                "作曲": "草野正宗"
+              }
+            },
+            {
+              "index": 11,
+              "title": "スローモーション",
+              "duration": "03:01",
+              "credits": {
+                "作詞": "来生えつこ",
+                "作曲": "来生たかお"
+              }
+            },
+            {
+              "index": 12,
+              "title": "明日への手紙",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "池田綾子",
+                "作曲": "池田綾子"
+              }
+            },
+            {
+              "index": 13,
+              "title": "糸",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "中島みゆき",
+                "作曲": "中島みゆき"
+              }
+            },
+            {
+              "index": 14,
+              "title": "奏(かなで)",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "大橋卓弥/常田真太郎",
+                "作曲": "大橋卓弥/常田真太郎"
+              }
+            },
+            {
+              "index": 15,
+              "title": "MC",
+              "duration": "01:18"
+            },
+            {
+              "index": 16,
+              "title": "まちぶせ",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "荒井由実",
+                "作曲": "荒井由実"
+              }
+            },
+            {
+              "index": 17,
+              "title": "愛唄",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "GReeeeN",
+                "作曲": "GReeeeN"
+              }
+            },
+            {
+              "index": 18,
+              "title": "M",
+              "duration": "03:41",
+              "credits": {
+                "作詞": "富田京子",
+                "作曲": "奥居香"
+              }
+            },
+            {
+              "index": 19,
+              "title": "卒業写真",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "荒井由実",
+                "作曲": "荒井由実"
+              }
+            },
+            {
+              "index": 20,
+              "title": "言葉にできない",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "小田和正",
+                "作曲": "小田和正"
+              }
+            },
+            {
+              "index": 21,
+              "title": "会いたい",
+              "duration": "03:22",
+              "credits": {
+                "作詞": "沢ちひろ",
+                "作曲": "財津和夫"
+              }
+            },
+            {
+              "index": 22,
+              "title": "MC",
+              "duration": "01:02"
+            },
+            {
+              "index": 23,
+              "title": "夢をあきらめないで",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "岡村孝子",
+                "作曲": "岡村孝子"
+              }
+            },
+            {
+              "index": 24,
+              "title": "Hello, Again ～昔からある場所～",
+              "duration": "03:15",
+              "credits": {
+                "作詞": "小林武史",
+                "作曲": "藤井謙二/小林武史"
+              }
+            },
+            {
+              "index": 25,
+              "title": "たしかなこと",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "小田和正",
+                "作曲": "小田和正"
+              }
+            },
+            {
+              "index": 26,
+              "title": "ワインレッドの心",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "井上陽水",
+                "作曲": "玉置浩二"
+              }
+            },
+            {
+              "index": 27,
+              "title": "雪の華",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "Satomi",
+                "作曲": "松本良喜"
+              }
+            },
+            {
+              "index": 28,
+              "title": "Everything",
+              "duration": "04:05",
+              "credits": {
+                "作詞": "MISIA",
+                "作曲": "松本俊明"
+              }
+            },
+            {
+              "index": 29,
+              "title": "ENDING",
+              "duration": "01:05"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "＜Disc2＞",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5190",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "02:43"
+            },
+            {
+              "index": 2,
+              "title": "TOMORROW",
+              "duration": "03:11",
+              "credits": {
+                "作詞": "岡本真夜/真名杏樹",
+                "作曲": "岡本真夜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "未来へ",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "玉城千春",
+                "作曲": "玉城千春"
+              }
+            },
+            {
+              "index": 4,
+              "title": "あなたに会えてよかった",
+              "duration": "03:00",
+              "credits": {
+                "作詞": "小泉今日子",
+                "作曲": "小林武史"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ひまわりの約束",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "秦基博",
+                "作曲": "秦基博"
+              }
+            },
+            {
+              "index": 6,
+              "title": "みずいろの手紙",
+              "duration": "03:03",
+              "credits": {
+                "作詞": "阿久悠",
+                "作曲": "三木たかし"
+              }
+            },
+            {
+              "index": 7,
+              "title": "PRIDE",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "布袋寅泰",
+                "作曲": "布袋寅泰"
+              }
+            },
+            {
+              "index": 8,
+              "title": "MC",
+              "duration": "00:57"
+            },
+            {
+              "index": 9,
+              "title": "オリビアを聴きながら",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "尾崎亜美",
+                "作曲": "尾崎亜美"
+              }
+            },
+            {
+              "index": 10,
+              "title": "secret base ～君がくれたもの～",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "町田紀彦",
+                "作曲": "町田紀彦"
+              }
+            },
+            {
+              "index": 11,
+              "title": "香水",
+              "duration": "02:50",
+              "credits": {
+                "作詞": "8s",
+                "作曲": "8s"
+              }
+            },
+            {
+              "index": 12,
+              "title": "366日",
+              "duration": "03:22",
+              "credits": {
+                "作詞": "IZUMI NAKASONE",
+                "作曲": "IZUMI NAKASONE"
+              }
+            },
+            {
+              "index": 13,
+              "title": "もしもピアノが弾けたなら",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "阿久悠",
+                "作曲": "坂田晃一"
+              }
+            },
+            {
+              "index": 14,
+              "title": "三日月",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "絢香",
+                "作曲": "絢香/西尾芳彦"
+              }
+            },
+            {
+              "index": 15,
+              "title": "MC",
+              "duration": "01:19"
+            },
+            {
+              "index": 16,
+              "title": "青春の影",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "財津和夫",
+                "作曲": "財津和夫"
+              }
+            },
+            {
+              "index": 17,
+              "title": "片想い",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "miwa",
+                "作曲": "miwa"
+              }
+            },
+            {
+              "index": 18,
+              "title": "月光",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "鬼束ちひろ",
+                "作曲": "鬼束ちひろ"
+              }
+            },
+            {
+              "index": 19,
+              "title": "First Love",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "宇多田ヒカル",
+                "作曲": "宇多田ヒカル"
+              }
+            },
+            {
+              "index": 20,
+              "title": "I LOVE YOU",
+              "duration": "03:10",
+              "credits": {
+                "作詞": "尾崎豊",
+                "作曲": "尾崎豊"
+              }
+            },
+            {
+              "index": 21,
+              "title": "見上げてごらん夜の星を",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "永六輔",
+                "作曲": "いずみたく"
+              }
+            },
+            {
+              "index": 22,
+              "title": "MC",
+              "duration": "00:47"
+            },
+            {
+              "index": 23,
+              "title": "もののけ姫",
+              "duration": "03:25",
+              "credits": {
+                "作詞": "宮崎駿",
+                "作曲": "久石譲"
+              }
+            },
+            {
+              "index": 24,
+              "title": "部屋とYシャツと私",
+              "duration": "05:12",
+              "credits": {
+                "作詞": "平松愛理",
+                "作曲": "平松愛理"
+              }
+            },
+            {
+              "index": 25,
+              "title": "想い出がいっぱい",
+              "duration": "03:34",
+              "credits": {
+                "作詞": "阿木燿子",
+                "作曲": "鈴木キサブロー"
+              }
+            },
+            {
+              "index": 26,
+              "title": "ハナミズキ",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "一青窈",
+                "作曲": "マシコタツロウ"
+              }
+            },
+            {
+              "index": 27,
+              "title": "Jupiter",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "吉元由美",
+                "作曲": "G.Holst"
+              }
+            },
+            {
+              "index": 28,
+              "title": "僕は君に恋をする",
+              "duration": "03:05",
+              "credits": {
+                "作詞": "平井堅",
+                "作曲": "平井堅"
+              }
+            },
+            {
+              "index": 29,
+              "title": "Butterfly",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "木村カエラ",
+                "作曲": "末光篤"
+              }
+            },
+            {
+              "index": 30,
+              "title": "ENDING",
+              "duration": "01:02"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

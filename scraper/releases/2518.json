@@ -1,0 +1,172 @@
+{
+  "id": 2518,
+  "url": "/release/2518/",
+  "title": "My Days for You",
+  "category": "CDシングル",
+  "artist": "真野恵里菜",
+  "releaseDate": "2011.6.29",
+  "label": "hachama",
+  "images": [
+    "/upload/images/91157a523ab144bb4387c36532300510525a7c86.webp",
+    "/upload/images/f74efc4e336e0f9f5a0ea24059e20005ca1a0c27.webp",
+    "/upload/images/0784c0f6d504a08f3081ef0ffdfbb9761f9ab04d.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/91157a523ab144bb4387c36532300510525a7c86.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "My Days for You",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "中島卓偉",
+                "編曲": "鈴木俊介",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "10カラットの煌めき。",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "中島卓偉",
+                "編曲": "泰誠",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "My Days for You",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "中島卓偉",
+                "編曲": "鈴木俊介",
+                "歌": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50174"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "My Days for You",
+              "duration": "04:37",
+              "suffix": "(MUSIC VIDEO)",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付き"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/f74efc4e336e0f9f5a0ea24059e20005ca1a0c27.webp",
+      "price": "￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "My Days for You",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "中島卓偉",
+                "編曲": "鈴木俊介",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "10カラットの煌めき。",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "中島卓偉",
+                "編曲": "泰誠",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "My Days for You",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "中島卓偉",
+                "編曲": "鈴木俊介",
+                "歌": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50176"
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/0784c0f6d504a08f3081ef0ffdfbb9761f9ab04d.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "My Days for You",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "中島卓偉",
+                "編曲": "鈴木俊介",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "10カラットの煌めき。",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "中島卓偉",
+                "編曲": "泰誠",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "My Days for You",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "中島卓偉",
+                "編曲": "鈴木俊介",
+                "歌": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50177"
+        }
+      ]
+    }
+  ]
+}

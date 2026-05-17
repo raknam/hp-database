@@ -1,0 +1,73 @@
+{
+  "code": "UFBW-2019",
+  "url": "/release/detail/UFBW-2019/",
+  "source": "upfront",
+  "title": "Greeting〜譜久村聖〜",
+  "category": "DVD",
+  "artist": "譜久村聖",
+  "releaseDate": "2011/05/16",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/9dfa4b87570604c2b42a94cf5c38eadb5a606489.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/9dfa4b87570604c2b42a94cf5c38eadb5a606489.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2019",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "02:21"
+            },
+            {
+              "index": 2,
+              "title": "Interview 1",
+              "duration": "02:45"
+            },
+            {
+              "index": 3,
+              "title": "In the room",
+              "duration": "12:10"
+            },
+            {
+              "index": 4,
+              "title": "Interview 2",
+              "duration": "07:54"
+            },
+            {
+              "index": 5,
+              "title": "School Girl",
+              "duration": "08:20"
+            },
+            {
+              "index": 6,
+              "title": "Interview 3",
+              "duration": "03:00"
+            },
+            {
+              "index": 7,
+              "title": "Sunshine",
+              "duration": "08:19"
+            },
+            {
+              "index": 8,
+              "title": "Making",
+              "duration": "03:21"
+            },
+            {
+              "index": 9,
+              "title": "Ending",
+              "duration": "01:49"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

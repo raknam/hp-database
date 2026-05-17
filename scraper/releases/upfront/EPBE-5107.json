@@ -1,0 +1,53 @@
+{
+  "code": "EPBE-5107",
+  "url": "/release/detail/EPBE-5107/",
+  "source": "upfront",
+  "title": "シングルV「奇跡の香りダンス。」",
+  "category": "DVDシングルV",
+  "artist": "松浦亜弥",
+  "releaseDate": "2004/01/21",
+  "label": "zetima",
+  "images": [
+    "/images/eb4fbb5b439a5415f7ead5961d19e9d4dfbbf73f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/eb4fbb5b439a5415f7ead5961d19e9d4dfbbf73f.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5107",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "奇跡の香りダンス。",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "奇跡の香りダンス。(Close-up Version)",
+              "duration": "04:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "05:48"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

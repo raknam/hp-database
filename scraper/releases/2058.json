@@ -1,0 +1,91 @@
+{
+  "id": 2058,
+  "url": "/release/2058/",
+  "title": "美女学 Vol.11",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2011.6.9",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/81cfa30887dda241902d1d8efa5e4726afe25c63.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Lesson1 韓国の食べ物を課外授業",
+              "duration": "12:53",
+              "credits": {
+                "出演": "高橋愛・新垣里沙(モーニング娘。)/矢島舞美・鈴木愛理(℃-ute)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Lesson2 韓国の食習慣を課外授業",
+              "duration": "13:09",
+              "credits": {
+                "出演": "高橋愛・新垣里沙(モーニング娘。)/矢島舞美・鈴木愛理(℃-ute)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Lesson3 ディープな韓国を課外授業",
+              "duration": "11:43",
+              "credits": {
+                "出演": "高橋愛・新垣里沙(モーニング娘。)/矢島舞美・鈴木愛理(℃-ute)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Lesson1 ランニングを課外授業",
+              "duration": "11:44",
+              "credits": {
+                "出演": "道重さゆみ・光井愛佳(モーニング娘。)/清水佐紀・熊井友理奈(Berryz工房) ゲスト：吉澤ひとみ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Lesson2 ランニンググッズを課外授業",
+              "duration": "16:26",
+              "credits": {
+                "出演": " 道重さゆみ・光井愛佳(モーニング娘。)/清水佐紀・熊井友理奈(Berryz工房) ゲスト：吉澤ひとみ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Lesson3 走り方を課外授業",
+              "duration": "10:47",
+              "credits": {
+                "出演": " 道重さゆみ・光井愛佳(モーニング娘。)/清水佐紀・熊井友理奈(Berryz工房) ゲスト：吉澤ひとみ"
+              }
+            },
+            {
+              "index": 7,
+              "title": "韓国を課外授業 反省会",
+              "duration": "02:50",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 8,
+              "title": "ランニングを課外授業 反省会",
+              "duration": "02:57",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1096"
+        }
+      ]
+    }
+  ]
+}

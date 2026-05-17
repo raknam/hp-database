@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-5151",
+  "url": "/release/detail/EPCE-5151/",
+  "source": "upfront",
+  "title": "ずっとキミがすきだった",
+  "category": "CDシングル",
+  "artist": "奥田綾乃",
+  "releaseDate": "2002/03/27",
+  "label": "zetima",
+  "images": [
+    "/images/f5cb32b605740f42084b9fdc94db6a6d4655d60b.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f5cb32b605740f42084b9fdc94db6a6d4655d60b.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5151",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ずっとキミがすきだった",
+              "duration": "05:14",
+              "credits": {
+                "作詞": "渡瀬マキ",
+                "作曲": "後藤次利",
+                "編曲": "後藤次利"
+              }
+            },
+            {
+              "index": 2,
+              "title": "サクラ",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "渡瀬マキ",
+                "作曲": "後藤次利",
+                "編曲": "後藤次利"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ずっとキミがすきだった(Instrumental)",
+              "duration": "05:13",
+              "credits": {
+                "作詞": "渡瀬マキ",
+                "作曲": "後藤次利",
+                "編曲": "後藤次利"
+              }
+            },
+            {
+              "index": 4,
+              "title": "サクラ(Instrumental)",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "渡瀬マキ",
+                "作曲": "後藤次利",
+                "編曲": "後藤次利"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

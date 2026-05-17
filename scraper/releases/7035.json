@@ -1,0 +1,780 @@
+{
+  "id": 7035,
+  "url": "/release/7035/",
+  "title": "勇気 It's my Life！/妄想だけならフリーダム/でも…いいよ",
+  "category": "CDシングル",
+  "artist": "つばきファクトリー",
+  "releaseDate": "2023.9.27",
+  "label": "zetima",
+  "images": [
+    "/upload/images/ecb0f72a2c624409d372c03336199807927b3799.webp",
+    "/upload/images/b3279a146a7bf345ad289d3c12f5fcf0a8da398d.webp",
+    "/upload/images/0cf07309f8cbdc9759080330dd4571be95c34932.webp",
+    "/upload/images/e2e785de6b7abd5848d2273274d975cd006fe68f.webp",
+    "/upload/images/dd2d9efbdf2e591e0724586d0dcbddeba95ec449.webp",
+    "/upload/images/e0ff501435103751cc4c760c57a80bd586fa3013.webp",
+    "/upload/images/b187691b1e89aba2c3768d27f7272398287751d5.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/ecb0f72a2c624409d372c03336199807927b3799.webp",
+      "price": "￥2,200（税抜価格 ￥2,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "勇気 It's my Life！",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "編曲": "Stefan Ekstedt",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "妄想だけならフリーダム",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "板垣祐介",
+                "編曲": "板垣祐介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "でも…いいよ",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "勇気 It's my Life！",
+              "duration": "03:47",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "編曲": "Stefan Ekstedt",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "妄想だけならフリーダム",
+              "duration": "03:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "板垣祐介",
+                "編曲": "板垣祐介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "でも…いいよ",
+              "duration": "03:55",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7777"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "勇気 It's my Life！",
+              "duration": "05:12",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "勇気 It's my Life！",
+              "duration": "03:56",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "勇気 It's my Life！",
+              "duration": "13:51",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "つばきファクトリー"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付(勇気 It's my Life！MV+Dance Shot Ver.+メイキング映像)"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/b3279a146a7bf345ad289d3c12f5fcf0a8da398d.webp",
+      "price": "￥2,200（税抜価格 ￥2,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "勇気 It's my Life！",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "編曲": "Stefan Ekstedt",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "妄想だけならフリーダム",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "板垣祐介",
+                "編曲": "板垣祐介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "でも…いいよ",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "勇気 It's my Life！",
+              "duration": "03:47",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "編曲": "Stefan Ekstedt",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "妄想だけならフリーダム",
+              "duration": "03:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "板垣祐介",
+                "編曲": "板垣祐介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "でも…いいよ",
+              "duration": "03:55",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7779"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "妄想だけならフリーダム",
+              "duration": "03:52",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "板垣祐介",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "妄想だけならフリーダム",
+              "duration": "03:31",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "板垣祐介",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "妄想だけならフリーダム",
+              "duration": "15:10",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "つばきファクトリー"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付(妄想だけならフリーダムMV+Dance Shot Ver.+メイキング映像)"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/0cf07309f8cbdc9759080330dd4571be95c34932.webp",
+      "price": "￥2,200（税抜価格 ￥2,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "勇気 It's my Life！",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "編曲": "Stefan Ekstedt",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "妄想だけならフリーダム",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "板垣祐介",
+                "編曲": "板垣祐介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "でも…いいよ",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "勇気 It's my Life！",
+              "duration": "03:47",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "編曲": "Stefan Ekstedt",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "妄想だけならフリーダム",
+              "duration": "03:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "板垣祐介",
+                "編曲": "板垣祐介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "でも…いいよ",
+              "duration": "03:55",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7781"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "でも…いいよ",
+              "duration": "04:47",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "でも…いいよ",
+              "duration": "04:07",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "でも…いいよ",
+              "duration": "14:16",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "つばきファクトリー"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付(でも…いいよMV+Dance Shot Ver.+メイキング映像)"
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/upload/images/e2e785de6b7abd5848d2273274d975cd006fe68f.webp",
+      "price": "￥2,200（税抜価格 ￥2,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "勇気 It's my Life！",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "編曲": "Stefan Ekstedt",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "妄想だけならフリーダム",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "板垣祐介",
+                "編曲": "板垣祐介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "でも…いいよ",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "勇気 It's my Life！",
+              "duration": "03:47",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "編曲": "Stefan Ekstedt",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "妄想だけならフリーダム",
+              "duration": "03:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "板垣祐介",
+                "編曲": "板垣祐介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "でも…いいよ",
+              "duration": "03:55",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7783"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "勇気 It's my Life！",
+              "duration": "03:54",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "勇気 It's my Life！",
+              "duration": "03:56",
+              "suffix": "(RIKO YAMAGISHI Ver.)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "妄想だけならフリーダム",
+              "duration": "03:30",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "板垣祐介",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "妄想だけならフリーダム",
+              "duration": "03:31",
+              "suffix": "(RIKO YAMAGISHI Ver.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "板垣祐介",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "でも…いいよ",
+              "duration": "04:04",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "でも…いいよ",
+              "duration": "04:13",
+              "suffix": "(RIKO YAMAGISHI Ver.)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "出演": "つばきファクトリー"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付(3曲Close-up Ver.＋山岸フィーチャーVer.)"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/dd2d9efbdf2e591e0724586d0dcbddeba95ec449.webp",
+      "price": "定価 ￥1,300（税抜価格 ￥1,182）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "勇気 It's my Life！",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "編曲": "Stefan Ekstedt",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "妄想だけならフリーダム",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "板垣祐介",
+                "編曲": "板垣祐介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "でも…いいよ",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "勇気 It's my Life！",
+              "duration": "03:47",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "編曲": "Stefan Ekstedt",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "妄想だけならフリーダム",
+              "duration": "03:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "板垣祐介",
+                "編曲": "板垣祐介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "でも…いいよ",
+              "duration": "03:55",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7785"
+        }
+      ],
+      "note": "トレーディングカードソロ10種＋集合1種よりランダムにて1枚封入(勇気 It's my Life！ Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/e0ff501435103751cc4c760c57a80bd586fa3013.webp",
+      "price": "定価 ￥1,300（税抜価格 ￥1,182）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "勇気 It's my Life！",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "編曲": "Stefan Ekstedt",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "妄想だけならフリーダム",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "板垣祐介",
+                "編曲": "板垣祐介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "でも…いいよ",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "勇気 It's my Life！",
+              "duration": "03:47",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "編曲": "Stefan Ekstedt",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "妄想だけならフリーダム",
+              "duration": "03:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "板垣祐介",
+                "編曲": "板垣祐介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "でも…いいよ",
+              "duration": "03:55",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7786"
+        }
+      ],
+      "note": "トレーディングカードソロ10種＋集合1種よりランダムにて1枚封入(妄想だけならフリーダム Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/upload/images/b187691b1e89aba2c3768d27f7272398287751d5.webp",
+      "price": "定価 ￥1,300（税抜価格 ￥1,182）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "勇気 It's my Life！",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "編曲": "Stefan Ekstedt",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "妄想だけならフリーダム",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "板垣祐介",
+                "編曲": "板垣祐介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "でも…いいよ",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "勇気 It's my Life！",
+              "duration": "03:47",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "編曲": "Stefan Ekstedt",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "妄想だけならフリーダム",
+              "duration": "03:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "板垣祐介",
+                "編曲": "板垣祐介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "でも…いいよ",
+              "duration": "03:55",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "編曲": "Erik Lidbom",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7787"
+        }
+      ],
+      "note": "トレーディングカードソロ10種＋集合1種よりランダムにて1枚封入(でも…いいよ Ver.)※初回プレス分のみ"
+    }
+  ]
+}

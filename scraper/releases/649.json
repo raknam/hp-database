@@ -1,0 +1,176 @@
+{
+  "id": 649,
+  "url": "/release/649/",
+  "title": "悲しみトワイライト",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2007.4.25",
+  "label": "zetima",
+  "images": [
+    "/upload/images/ed2d8eff5b8bb32f06753a15dab903d6bec95d84.webp",
+    "/upload/images/b17f6ca2768d7b0d8dda11ac1b9b10291e3b1b5a.webp",
+    "/upload/images/d7359cd5565e6e1c0ffbf4cb08e2f771fa9cdc80.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤 A】",
+      "image": "/upload/images/ed2d8eff5b8bb32f06753a15dab903d6bec95d84.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "悲しみトワイライト",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Hand made CITY",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "悲しみトワイライト",
+              "duration": "03:44",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5465"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "悲しみトワイライト",
+              "duration": "04:02",
+              "suffix": "(Another Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント招待抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤 B】",
+      "image": "/upload/images/b17f6ca2768d7b0d8dda11ac1b9b10291e3b1b5a.webp",
+      "price": "定価 ￥1,320（税抜価格 ￥1,200）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "悲しみトワイライト",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Hand made CITY",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "悲しみトワイライト",
+              "duration": "03:44",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5467"
+        }
+      ],
+      "note": "40Pブックレット＋スペシャルパッケージ仕様+イベント招待抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/d7359cd5565e6e1c0ffbf4cb08e2f771fa9cdc80.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "悲しみトワイライト",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Hand made CITY",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "悲しみトワイライト",
+              "duration": "03:44",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5468"
+        }
+      ],
+      "note": "通常盤･初回仕様 モーニング娘。フォトカード1種封入+イベント招待抽選シリアルナンバーカード封入"
+    }
+  ]
+}

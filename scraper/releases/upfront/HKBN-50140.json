@@ -1,0 +1,64 @@
+{
+  "code": "HKBN-50140",
+  "url": "/release/detail/HKBN-50140/",
+  "source": "upfront",
+  "title": "シングルV「アイドルール」",
+  "category": "DVDシングルV",
+  "artist": "リルぷりっ",
+  "releaseDate": "2010/12/15",
+  "label": "hachama",
+  "images": [
+    "/images/92db46e7c0d224c2647b31fd9dc1d06cd5ff24c9.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/92db46e7c0d224c2647b31fd9dc1d06cd5ff24c9.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "HKBN-50140",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アイドルール",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "斎藤悠弥"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アイドルール(Close-up Ver.)",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "斎藤悠弥"
+              }
+            },
+            {
+              "index": 3,
+              "title": "アイドルール(アニメバージョン)",
+              "duration": "01:39",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "斎藤悠弥"
+              }
+            },
+            {
+              "index": 4,
+              "title": "アイドルール(歌詞テロップ付き)",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "斎藤悠弥"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

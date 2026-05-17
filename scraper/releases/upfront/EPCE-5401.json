@@ -1,0 +1,78 @@
+{
+  "code": "EPCE-5401",
+  "url": "/release/detail/EPCE-5401/",
+  "source": "upfront",
+  "title": "春ゆらら",
+  "category": "CDシングル",
+  "artist": "GaGaalinG",
+  "releaseDate": "2006/04/26",
+  "label": "zetima",
+  "images": [
+    "/images/50304bdbb483908fad12c2f12d695e680f7176f8.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/50304bdbb483908fad12c2f12d695e680f7176f8.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5401",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "春ゆらら",
+              "duration": "05:26",
+              "credits": {
+                "作詞": "MAIMING",
+                "作曲": "MOTO☆G3＆”Cherry”G",
+                "編曲": "GaGaalinG"
+              }
+            },
+            {
+              "index": 2,
+              "title": "心Drive",
+              "duration": "04:54",
+              "credits": {
+                "作詞": "MAIMING",
+                "作曲": "MOTO☆G3＆”Cherry”G",
+                "編曲": "GaGaalinG"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Cherry blossom road",
+              "duration": "05:08",
+              "credits": {
+                "作詞": "MAIMING",
+                "作曲": "MOTO☆G3＆”Cherry”G",
+                "編曲": "GaGaalinG"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Freedom",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "MAIMING",
+                "作曲": "MOTO☆G3＆”Cherry”G",
+                "編曲": "GaGaalinG"
+              }
+            },
+            {
+              "index": 5,
+              "title": "春ゆららInstrumental",
+              "duration": "05:25",
+              "credits": {
+                "作詞": "MAIMING",
+                "作曲": "MOTO☆G3＆”Cherry”G",
+                "編曲": "GaGaalinG"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,524 @@
+{
+  "id": 919,
+  "url": "/release/919/",
+  "title": "超HAPPY SONG",
+  "category": "CDシングル",
+  "artist": "Berryz工房×℃-ute",
+  "releaseDate": "2012.6.20",
+  "label": "zetima",
+  "images": [
+    "/upload/images/d2650d824f076c1575e97113287c0089ff061ce4.webp",
+    "/upload/images/94d67494e8c735afa072f4bfa194af0828d64887.webp",
+    "/upload/images/f0acf4059bbd4cb3434c36dac494a40b8540f79b.webp",
+    "/upload/images/6273613bdf3d31c27ac349d5ddd7b1d9be22daf9.webp",
+    "/upload/images/1178354324322ae50ee1512ccb0a42dab81d9ad9.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/d2650d824f076c1575e97113287c0089ff061ce4.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "超HAPPY SONG",
+              "duration": "04:19",
+              "suffix": "(シングルVer.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房×℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "超HAPPY SONG",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房×℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Because happiness",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 4,
+              "title": "幸せの途中",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "超HAPPY SONG",
+              "duration": "04:19",
+              "suffix": "(シングルVer.)(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房×℃-ute"
+              }
+            },
+            {
+              "index": 6,
+              "title": "超HAPPY SONG",
+              "duration": "04:19",
+              "suffix": "(シングルVer. Berryz工房 vo.入り)(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房×℃-ute"
+              }
+            },
+            {
+              "index": 7,
+              "title": "超HAPPY SONG",
+              "duration": "04:20",
+              "suffix": "(シングルVer.℃-ute vo.入り)(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房×℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5882"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "超HAPPY SONG",
+              "duration": "04:35",
+              "suffix": "(Mix Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房×℃-ute"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/94d67494e8c735afa072f4bfa194af0828d64887.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "超HAPPY SONG",
+              "duration": "04:19",
+              "suffix": "(シングルVer.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房×℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "超HAPPY SONG",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房×℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Because happiness",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 4,
+              "title": "幸せの途中",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "超HAPPY SONG",
+              "duration": "04:19",
+              "suffix": "(シングルVer.)(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房×℃-ute"
+              }
+            },
+            {
+              "index": 6,
+              "title": "超HAPPY SONG",
+              "duration": "04:19",
+              "suffix": "(シングルVer. Berryz工房 vo.入り)(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房×℃-ute"
+              }
+            },
+            {
+              "index": 7,
+              "title": "超HAPPY SONG",
+              "duration": "04:20",
+              "suffix": "(シングルVer.℃-ute vo.入り)(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房×℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5884"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "超HAPPY SONG",
+              "duration": "04:35",
+              "suffix": "(Double Screen Live Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房×℃-ute"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤C:Berryz工房版】",
+      "image": "/upload/images/f0acf4059bbd4cb3434c36dac494a40b8540f79b.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "超HAPPY SONG",
+              "duration": "04:19",
+              "suffix": "(シングルVer.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房×℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "超HAPPY SONG",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房×℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Because happiness",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 4,
+              "title": "幸せの途中",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "超HAPPY SONG",
+              "duration": "04:19",
+              "suffix": "(シングルVer.)(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房×℃-ute"
+              }
+            },
+            {
+              "index": 6,
+              "title": "超HAPPY SONG",
+              "duration": "04:19",
+              "suffix": "(シングルVer. Berryz工房 vo.入り)(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房×℃-ute"
+              }
+            },
+            {
+              "index": 7,
+              "title": "超HAPPY SONG",
+              "duration": "04:20",
+              "suffix": "(シングルVer.℃-ute vo.入り)(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房×℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5886"
+        }
+      ],
+      "note": "イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤D:°C-ute版】",
+      "image": "/upload/images/6273613bdf3d31c27ac349d5ddd7b1d9be22daf9.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "超HAPPY SONG",
+              "duration": "04:19",
+              "suffix": "(シングルVer.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房×℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "超HAPPY SONG",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房×℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "幸せの途中",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Because happiness",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 5,
+              "title": "超HAPPY SONG",
+              "duration": "04:19",
+              "suffix": "(シングルVer.)(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房×℃-ute"
+              }
+            },
+            {
+              "index": 6,
+              "title": "超HAPPY SONG",
+              "duration": "04:19",
+              "suffix": "(シングルVer. Berryz工房 vo.入り)(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房×℃-ute"
+              }
+            },
+            {
+              "index": 7,
+              "title": "超HAPPY SONG",
+              "duration": "04:20",
+              "suffix": "(シングルVer.℃-ute vo.入り)(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房×℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5887"
+        }
+      ],
+      "note": "イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/1178354324322ae50ee1512ccb0a42dab81d9ad9.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "超HAPPY SONG",
+              "duration": "04:19",
+              "suffix": "(シングルVer.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房×℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "超HAPPY SONG",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房×℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Because happiness",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 4,
+              "title": "幸せの途中",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "超HAPPY SONG",
+              "duration": "04:19",
+              "suffix": "(シングルVer.)(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房×℃-ute"
+              }
+            },
+            {
+              "index": 6,
+              "title": "超HAPPY SONG",
+              "duration": "04:19",
+              "suffix": "(シングルVer. Berryz工房 vo.入り)(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房×℃-ute"
+              }
+            },
+            {
+              "index": 7,
+              "title": "超HAPPY SONG",
+              "duration": "04:20",
+              "suffix": "(シングルVer.℃-ute vo.入り)(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房×℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5888"
+        }
+      ]
+    }
+  ]
+}

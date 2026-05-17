@@ -1,0 +1,122 @@
+{
+  "code": "PKCP-2031",
+  "url": "/release/detail/PKCP-2031/",
+  "source": "upfront",
+  "title": "柚子",
+  "category": "CDシングル",
+  "artist": "湯原昌幸",
+  "releaseDate": "2007/10/31",
+  "label": "ライスミュージック",
+  "images": [
+    "/images/4045b4837ef22b9130a4ee8287cf29fb099d6dd8.jpg",
+    "/images/39090f9c18fe86629afe2dcf03b643ab63afd73e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/4045b4837ef22b9130a4ee8287cf29fb099d6dd8.jpg",
+      "price": "￥1,257 (税抜価格 ￥1,143)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-2031",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "柚子",
+              "duration": "06:08",
+              "credits": {
+                "作詞": "ちあき哲也",
+                "作曲": "杉本眞人",
+                "編曲": "佐藤準"
+              }
+            },
+            {
+              "index": 2,
+              "title": "道",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "湯原昌幸",
+                "編曲": "佐藤準"
+              }
+            },
+            {
+              "index": 3,
+              "title": "柚子(オリジナル・カラオケ)",
+              "duration": "06:08",
+              "credits": {
+                "作詞": "ちあき哲也",
+                "作曲": "杉本眞人",
+                "編曲": "佐藤準"
+              }
+            },
+            {
+              "index": 4,
+              "title": "道(オリジナル・カラオケ)",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "湯原昌幸",
+                "編曲": "佐藤準"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": "/images/39090f9c18fe86629afe2dcf03b643ab63afd73e.jpg",
+      "price": "￥1,257 (税抜価格 ￥1,143)",
+      "discs": [
+        {
+          "type": "カセットテープシングル",
+          "catalogNo": "PKSP-2031",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "柚子",
+              "duration": "06:08",
+              "credits": {
+                "作詞": "ちあき哲也",
+                "作曲": "杉本眞人",
+                "編曲": "佐藤準"
+              }
+            },
+            {
+              "index": 2,
+              "title": "道",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "湯原昌幸",
+                "編曲": "佐藤準"
+              }
+            },
+            {
+              "index": 3,
+              "title": "柚子(オリジナル・カラオケ)",
+              "duration": "06:08",
+              "credits": {
+                "作詞": "ちあき哲也",
+                "作曲": "杉本眞人",
+                "編曲": "佐藤準"
+              }
+            },
+            {
+              "index": 4,
+              "title": "道(オリジナル・カラオケ)",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "湯原昌幸",
+                "編曲": "佐藤準"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

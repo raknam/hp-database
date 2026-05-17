@@ -1,0 +1,112 @@
+{
+  "code": "UFBW-2070",
+  "url": "/release/detail/UFBW-2070/",
+  "source": "upfront",
+  "title": "BS-TBS サマーパーティー2012「女子落語」",
+  "category": "DVD",
+  "artist": "モーニング娘。9期・10期",
+  "releaseDate": "2012/11/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/81d7fd44e075753208dd99e25561b2cb0c609cd4.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/81d7fd44e075753208dd99e25561b2cb0c609cd4.jpg",
+      "price": "￥3,981 (税抜価格 ￥3,619)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2070",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Chapter 1",
+              "duration": "16:54",
+              "credits": {
+                "作詞": "わらべうた 文部省唱歌",
+                "作曲": "わらべうた 文部省唱歌"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Chapter 2",
+              "duration": "04:51"
+            },
+            {
+              "index": 3,
+              "title": "Chapter 3",
+              "duration": "16:39"
+            },
+            {
+              "index": 4,
+              "title": "Chapter 4",
+              "duration": "10:04"
+            },
+            {
+              "index": 5,
+              "title": "Chapter 5",
+              "duration": "04:41"
+            },
+            {
+              "index": 6,
+              "title": "Chapter 6",
+              "duration": "04:08"
+            },
+            {
+              "index": 7,
+              "title": "Chapter 7",
+              "duration": "05:38"
+            },
+            {
+              "index": 8,
+              "title": "Chapter 8",
+              "duration": "04:19"
+            },
+            {
+              "index": 9,
+              "title": "Chapter 9",
+              "duration": "04:51"
+            },
+            {
+              "index": 10,
+              "title": "Chapter 10",
+              "duration": "01:06"
+            },
+            {
+              "index": 11,
+              "title": "Chapter 11",
+              "duration": "02:34"
+            },
+            {
+              "index": 12,
+              "title": "Chapter 12",
+              "duration": "03:04"
+            },
+            {
+              "index": 13,
+              "title": "Chapter 13",
+              "duration": "14:33"
+            },
+            {
+              "index": 14,
+              "title": "Chapter 14",
+              "duration": "03:07"
+            },
+            {
+              "index": 15,
+              "title": "Chapter 15",
+              "duration": "04:56"
+            },
+            {
+              "index": 16,
+              "title": "Chapter 16",
+              "duration": "10:02"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

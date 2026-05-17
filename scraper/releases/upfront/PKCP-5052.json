@@ -1,0 +1,58 @@
+{
+  "code": "PKCP-5052",
+  "url": "/release/detail/PKCP-5052/",
+  "source": "upfront",
+  "title": "紫陽花アイ愛物語",
+  "category": "CDシングル",
+  "artist": "美勇伝",
+  "releaseDate": "2005/05/25",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/bce19f20f5d5e9a63962601948638a205f3a7854.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/bce19f20f5d5e9a63962601948638a205f3a7854.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5052",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "紫陽花アイ愛物語",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "角田崇徳/斉藤未悠",
+                "作曲": "角田崇徳",
+                "編曲": "角田崇徳"
+              }
+            },
+            {
+              "index": 2,
+              "title": "曖昧ミーMIND",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "森村メラ",
+                "作曲": "JOEYCARBONE&STEVEN",
+                "編曲": "MOTO"
+              }
+            },
+            {
+              "index": 3,
+              "title": "紫陽花アイ愛物語(Instrumental)",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "角田崇徳/斉藤未悠",
+                "作曲": "角田崇徳",
+                "編曲": "角田崇徳"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

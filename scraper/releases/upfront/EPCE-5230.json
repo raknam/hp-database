@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5230",
+  "url": "/release/detail/EPCE-5230/",
+  "source": "upfront",
+  "title": "SEXY NIGHT～忘れられない彼～",
+  "category": "CDシングル",
+  "artist": "ROMANS",
+  "releaseDate": "2003/08/20",
+  "label": "zetima",
+  "images": [
+    "/images/3ec71824efded6973b3c6a07a02f0d6bd9dc6904.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/3ec71824efded6973b3c6a07a02f0d6bd9dc6904.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5230",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "SEXY NIGHT～忘れられない彼～",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ロマン",
+              "duration": "03:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "SEXY NIGHT～忘れられない彼～(Instrumental)",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

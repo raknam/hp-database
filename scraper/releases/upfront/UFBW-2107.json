@@ -1,0 +1,53 @@
+{
+  "code": "UFBW-2107",
+  "url": "/release/detail/UFBW-2107/",
+  "source": "upfront",
+  "title": "It’s a lovely day",
+  "category": "DVD",
+  "artist": "生田衣梨奈",
+  "releaseDate": "2014/10/24",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/53a8b7242c9714b7d758e427f6fa391be26922f3.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/53a8b7242c9714b7d758e427f6fa391be26922f3.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2107",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Monday morning",
+              "duration": "14:39"
+            },
+            {
+              "index": 2,
+              "title": "Waterfront",
+              "duration": "14:59"
+            },
+            {
+              "index": 3,
+              "title": "Sunset point",
+              "duration": "12:13"
+            },
+            {
+              "index": 4,
+              "title": "Behind the shots",
+              "duration": "06:23"
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "01:52"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

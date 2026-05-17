@@ -1,0 +1,115 @@
+{
+  "id": 5818,
+  "url": "/release/5818/",
+  "title": "The Girls Live Vol.49",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2018.11.14",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/6bb33a2f5164ebb2dbf0ecb5c0e1be267202ede9.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「Hello! Project Documentary」工藤遥(モーニング娘。’17) /♪若いんだし！",
+              "duration": "16:52",
+              "credits": {
+                "出演": "工藤遥(モーニング娘。’17)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "「Hello! Project Documentary」室田瑞希(アンジュルム) /♪次々続々",
+              "duration": "17:15",
+              "credits": {
+                "出演": "室田瑞希(アンジュルム)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "「Hello! Project Documentary」宮本佳林(Juice=Juice) /♪Fiesta! Fiesta!",
+              "duration": "17:34",
+              "credits": {
+                "出演": "宮本佳林(Juice=Juice)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Way of Our Life",
+              "duration": "04:05",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "fu_mou",
+                "作曲": "fu_mou",
+                "出演": "アップアップガールズ(仮)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Going my ↑",
+              "duration": "05:10",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "大華奈央香",
+                "作曲": "michitomo",
+                "出演": "アップアップガールズ(仮)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "GAME",
+              "duration": "03:27",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "田中れいな",
+                "作曲": "千聖",
+                "出演": "LoVendoЯ"
+              }
+            },
+            {
+              "index": 7,
+              "title": "CARRY ON",
+              "duration": "04:07",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "Kohei by SIMONSAYZ",
+                "作曲": "Kohei by SIMONSAYZ",
+                "出演": "LoVendoЯ"
+              }
+            },
+            {
+              "index": 8,
+              "title": "アカネディスコ",
+              "duration": "05:15",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "出演": "吉川友"
+              }
+            },
+            {
+              "index": 9,
+              "title": "Hello! Project Documentaryより「工藤遥 未公開インタビュー」",
+              "duration": "02:59",
+              "suffix": "【未公開映像】",
+              "credits": {
+                "出演": "工藤遥(モーニング娘。’17)"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1608"
+        }
+      ]
+    }
+  ]
+}

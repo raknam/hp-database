@@ -1,0 +1,64 @@
+{
+  "code": "EPBE-5475",
+  "url": "/release/detail/EPBE-5475/",
+  "source": "upfront",
+  "title": "YES,MY WAY",
+  "category": "DVD",
+  "artist": "中島卓偉",
+  "releaseDate": "2014/01/29",
+  "label": "zetima",
+  "images": [
+    "/images/10bf622dc5d843d5a56c0458ddd638c7f6b7b0e0.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/10bf622dc5d843d5a56c0458ddd638c7f6b7b0e0.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5475",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "YES,MY WAY(Music Video)",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Feed Back'78(Live at Shibuya CLUB QUATTRO 2013.11.13)",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 3,
+              "title": "DUMMY FAKE ROLLERS(Live at Shibuya CLUB QUATTRO 2013.11.13)",
+              "duration": "04:59",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Calling You(Live at Shibuya CLUB QUATTRO 2013.11.13)",
+              "duration": "06:29",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

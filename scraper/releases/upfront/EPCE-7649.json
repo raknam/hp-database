@@ -1,0 +1,519 @@
+{
+  "code": "EPCE-7649",
+  "url": "/release/detail/EPCE-7649/",
+  "source": "upfront",
+  "title": "Teenage Solution/よしよししてほしいの/ビートの惑星",
+  "category": "CDシングル",
+  "artist": "モーニング娘。'21",
+  "releaseDate": "2021/12/08",
+  "label": "zetima",
+  "images": [
+    "/images/fa479bec0e2c65412eeb393002e17c80c1169792.jpg",
+    "/images/38b53b0d50fb610d5f88a2efddeea88c7ad0ab11.jpg",
+    "/images/b2dd279030b9f1298533729f742f597ab9b3193a.jpg",
+    "/images/203f93477a42d4491c1c8d3cb583a9ed8aac8d65.jpg",
+    "/images/cd4cc470cf57e4a11ffa116390f61ff8b4e77c8b.jpg",
+    "/images/2791d5e152d9bb86215d25bb9b9aea2829338bb6.jpg",
+    "/images/845ee791b2b521edd47faddaa6a821c5b05a6e23.jpg",
+    "/images/0a7004af2113d826fe9db10c9bbc3494fce1372c.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/fa479bec0e2c65412eeb393002e17c80c1169792.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7649",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Teenage Solution",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "よしよししてほしいの",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ビートの惑星",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Teenage Solution(Instrumental)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "よしよししてほしいの(Instrumental)",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ビートの惑星(Instrumental)",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/38b53b0d50fb610d5f88a2efddeea88c7ad0ab11.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7651",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Teenage Solution(Music Video)",
+              "duration": "05:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Teenage Solution(Dance Shot Ver.)",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Teenage Solution(メイキング映像)",
+              "duration": "15:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/images/b2dd279030b9f1298533729f742f597ab9b3193a.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7653",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Teenage Solution",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "よしよししてほしいの",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ビートの惑星",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Teenage Solution(Instrumental)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "よしよししてほしいの(Instrumental)",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ビートの惑星(Instrumental)",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP1】",
+      "image": "/images/203f93477a42d4491c1c8d3cb583a9ed8aac8d65.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7655",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "よしよししてほしいの(Music Video)",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "よしよししてほしいの(Dance Shot Ver.)",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "よしよししてほしいの(メイキング映像)",
+              "duration": "14:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP2】",
+      "image": "/images/cd4cc470cf57e4a11ffa116390f61ff8b4e77c8b.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7656",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Teenage Solution",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "よしよししてほしいの",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ビートの惑星",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Teenage Solution(Instrumental)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "よしよししてほしいの(Instrumental)",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ビートの惑星(Instrumental)",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/2791d5e152d9bb86215d25bb9b9aea2829338bb6.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7657",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ビートの惑星(Close-up Ver.)",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Teenage Solution(feat. 佐藤優樹Ver.)",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "よしよししてほしいの(feat. 佐藤優樹Ver.)",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/845ee791b2b521edd47faddaa6a821c5b05a6e23.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7658",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Teenage Solution",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "よしよししてほしいの",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ビートの惑星",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom"
+              }
+            },
+            {
+              "index": 4,
+              "title": "女子かしまし物語(モーニング娘。'21 Ver.)【Additional Track】",
+              "duration": "05:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Teenage Solution(Instrumental)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 6,
+              "title": "よしよししてほしいの(Instrumental)",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ビートの惑星(Instrumental)",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom"
+              }
+            },
+            {
+              "index": 8,
+              "title": "女子かしまし物語(モーニング娘。'21 Ver.)(Instrumental)【Additional Track】",
+              "duration": "05:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/images/0a7004af2113d826fe9db10c9bbc3494fce1372c.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7659",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Teenage Solution",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "よしよししてほしいの",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ビートの惑星",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Teenage Solution(Instrumental)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "よしよししてほしいの(Instrumental)",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ビートの惑星(Instrumental)",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "編曲": "Erik Lidbom"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

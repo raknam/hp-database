@@ -19,10 +19,7 @@ env/
 # Environment
 .env
 
-# Scraper generated data (source of truth, but large — not committed)
-scraper/releases/
-scraper/members/
-!scraper/members/manual.json
+# Scraper generated data — JSON committed, binaries and cache excluded
 scraper/images/
 scraper/cache/
 

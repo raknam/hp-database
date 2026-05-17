@@ -1,0 +1,107 @@
+{
+  "id": 6700,
+  "url": "/release/6700/",
+  "title": "Hello! Projectが行く！ SATOYAMA＆SATOUMI 東北旅行2020",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2020.9.25",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/0e9c061e7516092480a37133f6659c0a4f6ee0d4.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "00:06",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "宮城県①",
+              "duration": "08:40",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 3,
+              "title": "福島県①",
+              "duration": "11:34",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "岩手県①",
+              "duration": "05:38",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 5,
+              "title": "宮城県②",
+              "duration": "04:30",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 6,
+              "title": "福島県②",
+              "duration": "03:50",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 7,
+              "title": "岩手県②",
+              "duration": "05:54",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 8,
+              "title": "宮城県③",
+              "duration": "03:43",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 9,
+              "title": "福島県③",
+              "duration": "02:19",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 10,
+              "title": "岩手県③",
+              "duration": "06:05",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1650"
+        }
+      ]
+    }
+  ]
+}

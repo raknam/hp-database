@@ -1,0 +1,108 @@
+{
+  "code": "EPCE-7597",
+  "url": "/release/detail/EPCE-7597/",
+  "source": "upfront",
+  "title": "Soleil",
+  "category": "CDアルバム",
+  "artist": "PINK CRES.",
+  "releaseDate": "2020/10/07",
+  "label": "zetima",
+  "images": [
+    "/images/8b19f1f452b3e34b4630a3a7eddefc9bba2f424f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/8b19f1f452b3e34b4630a3a7eddefc9bba2f424f.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-7597",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "マイネームイズアイデンティティ",
+              "duration": "02:59",
+              "credits": {
+                "作詞": "森村メラ",
+                "作曲": "石井浩平",
+                "編曲": "石井浩平"
+              }
+            },
+            {
+              "index": 2,
+              "title": "トウキョウ・コンフュージョン",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "児玉雨子/RAP詞：角田崇徳",
+                "作曲": "星部ショウ/ケンカイヨシ",
+                "編曲": "ケンカイヨシ/Tomohiko Togashi"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ルーレット",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "NA.ZU.NA",
+                "作曲": "NA.ZU.NA",
+                "編曲": "NA.ZU.NA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "宇宙の女は甘くない",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "コモリタミノル",
+                "編曲": "コモリタミノル"
+              }
+            },
+            {
+              "index": 5,
+              "title": "(Stray cat is) STARING AT ME",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "磯貝サイモン"
+              }
+            },
+            {
+              "index": 6,
+              "title": "OH・SHA・RE",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "小久保祐希",
+                "作曲": "小久保祐希/Kohei Yokono",
+                "編曲": "Kohei Yokono"
+              }
+            },
+            {
+              "index": 7,
+              "title": "エゴイスティック",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "家原正樹/Lauren Kaori",
+                "編曲": "家原正樹"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Me, Myself and I",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "Yoko Hiji",
+                "作曲": "Ryuichiro Yamaki",
+                "編曲": "Ryuichiro Yamaki"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

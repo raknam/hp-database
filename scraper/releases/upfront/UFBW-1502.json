@@ -1,0 +1,115 @@
+{
+  "code": "UFBW-1502",
+  "url": "/release/detail/UFBW-1502/",
+  "source": "upfront",
+  "title": "℃maj9 SPECIAL LIVE",
+  "category": "DVD",
+  "artist": "℃-ute",
+  "releaseDate": "2016/08/03",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/79c4cf4655485023f92067b1cc125f4fa5d7fe0d.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/79c4cf4655485023f92067b1cc125f4fa5d7fe0d.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1502",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:40"
+            },
+            {
+              "index": 2,
+              "title": "情熱エクスタシー",
+              "duration": "05:04",
+              "credits": {
+                "作詞": "中村佳紀",
+                "作曲": "中村佳紀"
+              }
+            },
+            {
+              "index": 3,
+              "title": "MC",
+              "duration": "10:08"
+            },
+            {
+              "index": 4,
+              "title": "心の叫びを歌にしてみた",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "I miss you",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "The Middle Management〜女性中間管理職〜",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "DANIEL MERLOT / AURELIEN POUDAT / HYON D / TAKANORI TSUNODA / STEFAN BROADLEY"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Crazy 完全な大人",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Danceでバコーン！",
+              "duration": "02:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 9,
+              "title": "MC",
+              "duration": "00:34"
+            },
+            {
+              "index": 10,
+              "title": "我武者LIFE",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "KOUGA/supported by SHOCK EYE"
+              }
+            },
+            {
+              "index": 11,
+              "title": "アイアンハート",
+              "duration": "05:22",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE/草野将史"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

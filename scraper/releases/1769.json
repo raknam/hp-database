@@ -1,0 +1,56 @@
+{
+  "id": 1769,
+  "url": "/release/1769/",
+  "title": "シングルV「なんちゅう恋をやってるぅ YOU KNOW？」",
+  "category": "DVDシングルV",
+  "artist": "Berryz工房",
+  "releaseDate": "2005.6.22",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/upload/images/491706492b720d0dec3913242bf44d78f418f319.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "なんちゅう恋をやってるぅ YOU KNOW？",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "なんちゅう恋をやってるぅ YOU KNOW？",
+              "duration": "04:27",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "10:24",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "PKBP-5031"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "id": 5701,
+  "url": "/release/5701/",
+  "title": "きっと私は/ナセバナル",
+  "category": "CDシングル",
+  "artist": "こぶしファクトリー",
+  "releaseDate": "2018.8.8",
+  "label": "zetima",
+  "images": [
+    "/upload/images/2b3a8a98662e3f6fac47a540b95448f3e8a0fd2c.webp",
+    "/upload/images/6142d5bc790eaa76d5124673bbd7e98d34036b0d.webp",
+    "/upload/images/6af6365bb09ddb42bf8012107d07483ef333176b.webp",
+    "/upload/images/c08971e7402c027fbe5f73896d44725d8afb8633.webp",
+    "/upload/images/411b2c129cf0cf001163e476e36c9b9e7bf0def0.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/2b3a8a98662e3f6fac47a540b95448f3e8a0fd2c.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "きっと私は",
+              "duration": "05:17",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：U.M.E.D.Y.",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ナセバナル",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "及川眠子",
+                "作曲": "星部ショウ",
+                "編曲": "宮永治郎",
+                "歌": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "きっと私は",
+              "duration": "05:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：U.M.E.D.Y.",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ナセバナル",
+              "duration": "04:18",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "及川眠子",
+                "作曲": "星部ショウ",
+                "編曲": "宮永治郎",
+                "歌": "こぶしファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7421"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "きっと私は",
+              "duration": "06:18",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：U.M.E.D.Y.",
+                "作曲": "つんく",
+                "出演": "こぶしファクトリー"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/6142d5bc790eaa76d5124673bbd7e98d34036b0d.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "きっと私は",
+              "duration": "05:17",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：U.M.E.D.Y.",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ナセバナル",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "及川眠子",
+                "作曲": "星部ショウ",
+                "編曲": "宮永治郎",
+                "歌": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "きっと私は",
+              "duration": "05:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：U.M.E.D.Y.",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ナセバナル",
+              "duration": "04:18",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "及川眠子",
+                "作曲": "星部ショウ",
+                "編曲": "宮永治郎",
+                "歌": "こぶしファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7423"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ナセバナル",
+              "duration": "04:58",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "及川眠子",
+                "作曲": "星部ショウ",
+                "出演": "こぶしファクトリー"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/upload/images/6af6365bb09ddb42bf8012107d07483ef333176b.webp",
+      "price": "￥1,870（税抜価格 ￥1,700）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "きっと私は",
+              "duration": "05:17",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：U.M.E.D.Y.",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ナセバナル",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "及川眠子",
+                "作曲": "星部ショウ",
+                "編曲": "宮永治郎",
+                "歌": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "きっと私は",
+              "duration": "05:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：U.M.E.D.Y.",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ナセバナル",
+              "duration": "04:18",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "及川眠子",
+                "作曲": "星部ショウ",
+                "編曲": "宮永治郎",
+                "歌": "こぶしファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7425"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "きっと私は",
+              "duration": "05:31",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：U.M.E.D.Y.",
+                "作曲": "つんく",
+                "出演": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ナセバナル",
+              "duration": "04:34",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "及川眠子",
+                "作曲": "星部ショウ",
+                "出演": "こぶしファクトリー"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選応募券封入"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/c08971e7402c027fbe5f73896d44725d8afb8633.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "きっと私は",
+              "duration": "05:17",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：U.M.E.D.Y.",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ナセバナル",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "及川眠子",
+                "作曲": "星部ショウ",
+                "編曲": "宮永治郎",
+                "歌": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "きっと私は",
+              "duration": "05:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：U.M.E.D.Y.",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ナセバナル",
+              "duration": "04:18",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "及川眠子",
+                "作曲": "星部ショウ",
+                "編曲": "宮永治郎",
+                "歌": "こぶしファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7427"
+        }
+      ],
+      "note": "トレーディングカードソロ5種+集合1種よりランダムにて1枚封入(きっと私は Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/411b2c129cf0cf001163e476e36c9b9e7bf0def0.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "きっと私は",
+              "duration": "05:17",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：U.M.E.D.Y.",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ナセバナル",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "及川眠子",
+                "作曲": "星部ショウ",
+                "編曲": "宮永治郎",
+                "歌": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "きっと私は",
+              "duration": "05:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：U.M.E.D.Y.",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ナセバナル",
+              "duration": "04:18",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "及川眠子",
+                "作曲": "星部ショウ",
+                "編曲": "宮永治郎",
+                "歌": "こぶしファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7428"
+        }
+      ],
+      "note": "トレーディングカードソロ5種+集合1種よりランダムにて1枚封入(ナセバナル Ver.)※初回プレス分のみ"
+    }
+  ]
+}

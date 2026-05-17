@@ -1,0 +1,143 @@
+{
+  "id": 3067,
+  "url": "/release/3067/",
+  "title": "Flowers of Hawaii",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2004.4.28",
+  "label": "Pacific Heaven",
+  "images": [
+    "/resources/images/foundation/release-placeholder.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "00:59",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "カニラウによるハラウ紹介",
+              "duration": "03:07",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 3,
+              "title": "解説",
+              "duration": "00:39",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "Pua Melia",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "EdithKanaka'ole",
+                "作曲": "EdithKanaka'ole",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 5,
+              "title": "解説",
+              "duration": "04:53",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 6,
+              "title": "Na Pua Elima",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "KimoArtis",
+                "作曲": "KimoArtis",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 7,
+              "title": "解説",
+              "duration": "00:31",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 8,
+              "title": "Pua ‘Iliahi",
+              "duration": "03:18",
+              "credits": {
+                "作詞": "BillAli'iloaLincoln",
+                "作曲": "BillAli'iloaLincoln",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 9,
+              "title": "解説",
+              "duration": "00:40",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 10,
+              "title": "Ku'u Pua Mae' ole",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "JohnKamana",
+                "作曲": "JohnKamana",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 11,
+              "title": "Omaomao Ponimoi",
+              "duration": "02:53",
+              "suffix": "(Live)",
+              "credits": {
+                "作詞": "JohnnyK.Almeida",
+                "作曲": "JohnnyK.Almeida",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 12,
+              "title": "Mahalo メッセージ",
+              "duration": "01:03",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 13,
+              "title": "Na Pua E Lima",
+              "duration": "04:22",
+              "suffix": "(演奏バージョン)",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "HKBN-52002"
+        }
+      ]
+    }
+  ]
+}

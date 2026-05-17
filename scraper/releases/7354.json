@@ -1,0 +1,635 @@
+{
+  "id": 7354,
+  "url": "/release/7354/",
+  "title": "Do-Did-Done/あゝ君に転生",
+  "category": "CDシングル",
+  "artist": "BEYOOOOONDS",
+  "releaseDate": "2025.1.29",
+  "label": "zetima",
+  "images": [
+    "/upload/images/dad28f7f2301fd30a1f06adb58cb875a0f316d4e.webp",
+    "/upload/images/96d00c1e907eef6a2f2fc859d3bcf75b99d77d43.webp",
+    "/upload/images/77c5b580850e5938fd9ef4afe503a8ad2b0eb506.webp",
+    "/upload/images/21149c36df0681229d4b9306a24b3a6b75b4a803.webp",
+    "/upload/images/e6d3bea20a539f29a7122cf47d8cf27a5922655a.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/dad28f7f2301fd30a1f06adb58cb875a0f316d4e.webp",
+      "price": "￥2,090（税抜価格 ￥1,900）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Do-Did-Done",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "あゝ君に転生",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Do-Did-Done",
+              "duration": "03:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "あゝ君に転生",
+              "duration": "04:18",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7895"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Do-Did-Done",
+              "duration": "04:41",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Do-Did-Done",
+              "duration": "03:54",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Do-Did-Done",
+              "duration": "23:02",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "BEYOOOOONDS"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/96d00c1e907eef6a2f2fc859d3bcf75b99d77d43.webp",
+      "price": "￥2,090（税抜価格 ￥1,900）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Do-Did-Done",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "あゝ君に転生",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Do-Did-Done",
+              "duration": "03:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "あゝ君に転生",
+              "duration": "04:18",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7897"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "あゝ君に転生",
+              "duration": "04:51",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "大久保薫",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "あゝ君に転生",
+              "duration": "04:27",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "大久保薫",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "あゝ君に転生",
+              "duration": "24:59",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "BEYOOOOONDS"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付"
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/upload/images/77c5b580850e5938fd9ef4afe503a8ad2b0eb506.webp",
+      "price": "￥5,500（税抜価格 ￥5,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Do-Did-Done",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "あゝ君に転生",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Do-Did-Done",
+              "duration": "03:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "あゝ君に転生",
+              "duration": "04:18",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7899"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:46",
+              "credits": {
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋愛奉行",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "求めよ…運命の旅人算",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "あゝ君に転生",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "大久保薫",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 5,
+              "title": "MC",
+              "duration": "06:24",
+              "credits": {
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 6,
+              "title": "赤いイヤホン",
+              "duration": "03:00",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "江口紗耶・高瀬くるみ・前田こころ・平井美葉・小林萌花"
+              }
+            },
+            {
+              "index": 7,
+              "title": "メロディーズ",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "島倉りか・清野桃々姫"
+              }
+            },
+            {
+              "index": 8,
+              "title": "BABY！恋にKNOCK OUT！",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "西田汐里・岡村美波・里吉うたの"
+              }
+            },
+            {
+              "index": 9,
+              "title": "眼鏡の男の子",
+              "duration": "05:40",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 10,
+              "title": "MC",
+              "duration": "03:18",
+              "credits": {
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 11,
+              "title": "灰toダイヤモンド",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 12,
+              "title": "Hey！ビヨンダ",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 13,
+              "title": "アツイ！",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 14,
+              "title": "ニッポンノD・N・A！",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "野沢トオル",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 15,
+              "title": "MC",
+              "duration": "05:38",
+              "credits": {
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 16,
+              "title": "Oh！カンターレ",
+              "duration": "07:40",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Shusui/Anders Dannvik",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 17,
+              "title": "エイティーン エモーション",
+              "duration": "02:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "島倉りか・江口紗耶"
+              }
+            },
+            {
+              "index": 18,
+              "title": "チュッ！夏パ～ティ",
+              "duration": "02:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "西田汐里・前田こころ・里吉うたの"
+              }
+            },
+            {
+              "index": 19,
+              "title": "Fantasyが始まる",
+              "duration": "02:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "平井美葉・小林萌花"
+              }
+            },
+            {
+              "index": 20,
+              "title": "キラキラ冬のシャイニーG",
+              "duration": "03:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "高瀬くるみ・岡村美波・清野桃々姫"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付(BEYOOOOONDS 5th Anniversary Event ～ BEY①②③④⑤NDS ～(10月12日 RaiBoCホール)ライブ映像)"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/21149c36df0681229d4b9306a24b3a6b75b4a803.webp",
+      "price": "定価 ￥1,300（税抜価格 ￥1,182）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Do-Did-Done",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "あゝ君に転生",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ディスコ・カーニバル",
+              "duration": "03:13",
+              "suffix": "【Additional Track】",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Nicklas Eklund/Ida Pihlgren/Shun Kusakawa",
+                "編曲": "Nicklas Eklund",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Do-Did-Done",
+              "duration": "03:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 5,
+              "title": "あゝ君に転生",
+              "duration": "04:18",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ディスコ・カーニバル",
+              "duration": "03:13",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Nicklas Eklund/Ida Pihlgren/Shun Kusakawa",
+                "編曲": "Nicklas Eklund",
+                "歌": "BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7901"
+        }
+      ],
+      "note": "トレーディングカードソロ10種＋集合1種よりランダムにて1枚封入(Do-Did-Done Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/e6d3bea20a539f29a7122cf47d8cf27a5922655a.webp",
+      "price": "定価 ￥1,300（税抜価格 ￥1,182）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Do-Did-Done",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "あゝ君に転生",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "マイ・ファースト・ピアス",
+              "duration": "03:43",
+              "suffix": "【Additional Track】",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Do-Did-Done",
+              "duration": "03:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 5,
+              "title": "あゝ君に転生",
+              "duration": "04:18",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "大久保薫",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 6,
+              "title": "マイ・ファースト・ピアス",
+              "duration": "03:43",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7902"
+        }
+      ],
+      "note": "トレーディングカードソロ10種＋集合1種よりランダムにて1枚封入(あゝ君に転生 Ver.)※初回プレス分のみ"
+    }
+  ]
+}

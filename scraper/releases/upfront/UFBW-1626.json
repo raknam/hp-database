@@ -1,0 +1,106 @@
+{
+  "code": "UFBW-1626",
+  "url": "/release/detail/UFBW-1626/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.55",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2019/05/22",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/d4f3254fdcf626ea82b12bd88043519e463e6301.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d4f3254fdcf626ea82b12bd88043519e463e6301.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1626",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "缶詰",
+              "duration": "10:48"
+            },
+            {
+              "index": 2,
+              "title": "防災",
+              "duration": "10:01"
+            },
+            {
+              "index": 3,
+              "title": "新社会人マナー",
+              "duration": "12:39"
+            },
+            {
+              "index": 4,
+              "title": "愛さえあればなんにもいらない【スタジオライブ集】",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 5,
+              "title": "愛のため今日まで進化してきた人間 愛のためすべて退化してきた人間【スタジオライブ集】",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 6,
+              "title": "私のなんにもわかっちゃない【スタジオライブ集】",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 7,
+              "title": "花が咲く 太陽浴びて【スタジオライブ集】",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 8,
+              "title": "ハイテンション！我っが人生！【未公開映像】",
+              "duration": "05:07",
+              "credits": {
+                "作詞": "夢野氏郷",
+                "作曲": "夢野氏郷"
+              }
+            },
+            {
+              "index": 9,
+              "title": "こんな私でよかったら【未公開映像】",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "サカノウエヨースケ",
+                "作曲": "サカノウエヨースケ"
+              }
+            },
+            {
+              "index": 10,
+              "title": "TO BE...【未公開映像】",
+              "duration": "05:09",
+              "credits": {
+                "作詞": "サカノウエヨースケ",
+                "作曲": "サカノウエヨースケ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

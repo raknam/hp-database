@@ -1,0 +1,43 @@
+{
+  "id": 5086,
+  "url": "/release/5086/",
+  "title": "BS-TBS 開局15周年特別企画 クールジャパン 〜道〜 「おんな日舞(アイドル日本流)＆ 演劇女子部ミュージカル『恋するハローキティ』感謝祭」",
+  "category": "DVD",
+  "artist": "アンジュルム/Juice＝Juice",
+  "releaseDate": "2016.3.9",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/b15048e2b8a32b69949ba56c12ccaa687023a657.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "おんな日舞(アイドル日本流)",
+              "duration": "01:02:55",
+              "credits": {
+                "出演": "アンジュルム/Juice＝Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "演劇女子部ミュージカル「恋するハローキティ」感謝祭",
+              "duration": "01:08:19",
+              "credits": {
+                "出演": "アンジュルム/Juice＝Juice"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-2114"
+        }
+      ]
+    }
+  ]
+}

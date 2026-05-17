@@ -1,0 +1,296 @@
+{
+  "code": "EPXE-5248",
+  "url": "/release/detail/EPXE-5248/",
+  "source": "upfront",
+  "title": "演劇女子部「ビヨスパイ～消えたアタッシュケース～」",
+  "category": "BD",
+  "artist": "BEYOOOOONDS",
+  "releaseDate": "2024/03/27",
+  "label": "zetima",
+  "images": [
+    "/images/7bdf5ad0bfb857bff981b56e7cbf1b82586629b2.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7bdf5ad0bfb857bff981b56e7cbf1b82586629b2.jpg",
+      "price": "￥8,000 (税抜価格 ￥7,273)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5248",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "彼女の名はミカ",
+              "duration": "03:53"
+            },
+            {
+              "index": 2,
+              "title": "摩訶不思議マジック",
+              "duration": "05:07"
+            },
+            {
+              "index": 3,
+              "title": "ビヨスパイオープニング",
+              "duration": "03:00"
+            },
+            {
+              "index": 4,
+              "title": "西日本スパイ養成所",
+              "duration": "06:52"
+            },
+            {
+              "index": 5,
+              "title": "S・P・Y",
+              "duration": "03:05"
+            },
+            {
+              "index": 6,
+              "title": "ミッション発動",
+              "duration": "03:25"
+            },
+            {
+              "index": 7,
+              "title": "東日本のスパイたち",
+              "duration": "01:57"
+            },
+            {
+              "index": 8,
+              "title": "ケイとメグ",
+              "duration": "02:11"
+            },
+            {
+              "index": 9,
+              "title": "マンゴーカフェにて",
+              "duration": "06:46"
+            },
+            {
+              "index": 10,
+              "title": "入れ替わったアタッシュケース",
+              "duration": "03:08"
+            },
+            {
+              "index": 11,
+              "title": "ほんとにスパイだったんだ",
+              "duration": "03:04"
+            },
+            {
+              "index": 12,
+              "title": "困惑の東スパイ",
+              "duration": "02:49"
+            },
+            {
+              "index": 13,
+              "title": "ラッキーラッキーガール",
+              "duration": "01:43"
+            },
+            {
+              "index": 14,
+              "title": "LOVEマンゴーパフェ",
+              "duration": "04:38"
+            },
+            {
+              "index": 15,
+              "title": "レストランル・ブリアン",
+              "duration": "04:42"
+            },
+            {
+              "index": 16,
+              "title": "汚れちまった悲しみに",
+              "duration": "05:23"
+            },
+            {
+              "index": 17,
+              "title": "マジックのお時間",
+              "duration": "07:27"
+            },
+            {
+              "index": 18,
+              "title": "孤児院の仲間たち",
+              "duration": "04:32"
+            },
+            {
+              "index": 19,
+              "title": "混乱の果てに",
+              "duration": "04:23"
+            },
+            {
+              "index": 20,
+              "title": "東京タワーの見える公園で",
+              "duration": "02:42"
+            },
+            {
+              "index": 21,
+              "title": "再会",
+              "duration": "06:59"
+            },
+            {
+              "index": 22,
+              "title": "死闘",
+              "duration": "13:17"
+            },
+            {
+              "index": 23,
+              "title": "あの壁を越えて",
+              "duration": "02:32"
+            },
+            {
+              "index": 24,
+              "title": "ビヨスパイフィナーレ",
+              "duration": "03:16"
+            },
+            {
+              "index": 25,
+              "title": "カーテンコール",
+              "duration": "20:04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5249",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "彼女の名はミカ",
+              "duration": "03:58"
+            },
+            {
+              "index": 2,
+              "title": "摩訶不思議マジック",
+              "duration": "05:04"
+            },
+            {
+              "index": 3,
+              "title": "ビヨスパイオープニング",
+              "duration": "03:01"
+            },
+            {
+              "index": 4,
+              "title": "西日本スパイ養成所",
+              "duration": "07:00"
+            },
+            {
+              "index": 5,
+              "title": "S・P・Y",
+              "duration": "03:07"
+            },
+            {
+              "index": 6,
+              "title": "ミッション発動",
+              "duration": "03:26"
+            },
+            {
+              "index": 7,
+              "title": "東日本のスパイたち",
+              "duration": "01:56"
+            },
+            {
+              "index": 8,
+              "title": "ケイとメグ",
+              "duration": "02:14"
+            },
+            {
+              "index": 9,
+              "title": "マンゴーカフェにて",
+              "duration": "06:44"
+            },
+            {
+              "index": 10,
+              "title": "入れ替わったアタッシュケース",
+              "duration": "03:15"
+            },
+            {
+              "index": 11,
+              "title": "ほんとにスパイだったんだ",
+              "duration": "03:00"
+            },
+            {
+              "index": 12,
+              "title": "困惑の東スパイ",
+              "duration": "02:50"
+            },
+            {
+              "index": 13,
+              "title": "ラッキーラッキーガール",
+              "duration": "01:43"
+            },
+            {
+              "index": 14,
+              "title": "LOVEマンゴーパフェ",
+              "duration": "04:36"
+            },
+            {
+              "index": 15,
+              "title": "レストランル・ブリアン",
+              "duration": "04:45"
+            },
+            {
+              "index": 16,
+              "title": "汚れちまった悲しみに",
+              "duration": "05:22"
+            },
+            {
+              "index": 17,
+              "title": "マジックのお時間",
+              "duration": "08:30"
+            },
+            {
+              "index": 18,
+              "title": "孤児院の仲間たち",
+              "duration": "04:38"
+            },
+            {
+              "index": 19,
+              "title": "混乱の果てに",
+              "duration": "04:12"
+            },
+            {
+              "index": 20,
+              "title": "東京タワーの見える公園で",
+              "duration": "02:40"
+            },
+            {
+              "index": 21,
+              "title": "再会",
+              "duration": "07:10"
+            },
+            {
+              "index": 22,
+              "title": "死闘",
+              "duration": "13:20"
+            },
+            {
+              "index": 23,
+              "title": "あの壁を越えて",
+              "duration": "02:35"
+            },
+            {
+              "index": 24,
+              "title": "ビヨスパイフィナーレ",
+              "duration": "03:19"
+            },
+            {
+              "index": 25,
+              "title": "カーテンコール",
+              "duration": "34:21"
+            },
+            {
+              "index": 26,
+              "title": "ビヨスパイアンコール",
+              "duration": "04:31"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

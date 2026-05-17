@@ -1,0 +1,182 @@
+{
+  "code": "EPCE-5221",
+  "url": "/release/detail/EPCE-5221/",
+  "source": "upfront",
+  "title": "壊れない愛がほしいの・GET UP！ラッパー・BE ALL RIGHT！",
+  "category": "CDシングル",
+  "artist": "7AIR･SALT5･11WATER",
+  "releaseDate": "2003/07/09",
+  "label": "zetima",
+  "images": [
+    "/images/c95077872bbbdb065944233bab8b0abb5d9a257e.jpg",
+    "/images/dd87f265ee3741e60cd8fe1684cdcdb4bb59a982.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回盤】",
+      "image": "/images/c95077872bbbdb065944233bab8b0abb5d9a257e.jpg",
+      "price": "￥2,530 (税抜価格 ￥2,300)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5221",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "壊れない愛がほしいの",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "GET UP!ラッパー",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 3,
+              "title": "BE ALL RIGHT!",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 4,
+              "title": "OH! BE MY FRIEND",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "守尾崇"
+              }
+            },
+            {
+              "index": 5,
+              "title": "壊れない愛がほしいの(Instrumental)",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 6,
+              "title": "GET UP!ラッパー(Instrumental)",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 7,
+              "title": "BE ALL RIGHT!(Instrumental)",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/dd87f265ee3741e60cd8fe1684cdcdb4bb59a982.jpg",
+      "price": "￥1,980 (税抜価格 ￥1,800)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5222",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "壊れない愛がほしいの",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "GET UP!ラッパー",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 3,
+              "title": "BE ALL RIGHT!",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 4,
+              "title": "OH! BE MY FRIEND",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "守尾崇"
+              }
+            },
+            {
+              "index": 5,
+              "title": "壊れない愛がほしいの(Instrumental)",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 6,
+              "title": "GET UP!ラッパー(Instrumental)",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 7,
+              "title": "BE ALL RIGHT!(Instrumental)",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

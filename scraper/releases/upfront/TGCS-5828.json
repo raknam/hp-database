@@ -1,0 +1,48 @@
+{
+  "code": "TGCS-5828",
+  "url": "/release/detail/TGCS-5828/",
+  "source": "upfront",
+  "title": "青春・オン・ザ・ロード",
+  "category": "CDシングル",
+  "artist": "メロン記念日×THE COLLECTORS",
+  "releaseDate": "2009/10/21",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/215108a0bd31cf4cdf6be64f16432a46e57ecb1f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/215108a0bd31cf4cdf6be64f16432a46e57ecb1f.jpg",
+      "price": "￥838 (税抜価格 ￥762)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "TGCS-5828",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "青春・オン・ザ・ロード",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "加藤ひさし",
+                "作曲": "加藤ひさし",
+                "編曲": "THE COLLECTORS&吉田仁"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青春・オン・ザ・ロード(Instrumental)",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "加藤ひさし",
+                "作曲": "加藤ひさし",
+                "編曲": "THECOLLECTORS&吉田仁"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

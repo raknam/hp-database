@@ -1,0 +1,148 @@
+{
+  "code": "PKCP-5183",
+  "url": "/release/detail/PKCP-5183/",
+  "source": "upfront",
+  "title": "愛の弾丸",
+  "category": "CDシングル",
+  "artist": "Berryz工房",
+  "releaseDate": "2011/06/08",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/17559a3bde29a54865baa9410e3623f3c865b749.jpg",
+    "/images/6f51c413b65edaeb35e78d6f2f5a05b54a391d49.jpg",
+    "/images/d0789e5eed7b8863b744a90a6ff77a084f2989d3.jpg",
+    "/images/7acff97ad526958f2e961d12386139f21277aab9.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/17559a3bde29a54865baa9410e3623f3c865b749.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5183",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛の弾丸",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "思い出",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 3,
+              "title": "愛の弾丸(Instrumenta)",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/6f51c413b65edaeb35e78d6f2f5a05b54a391d49.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKCP-5185",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛の弾丸(Dance Shot Ver.)",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/images/d0789e5eed7b8863b744a90a6ff77a084f2989d3.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5187",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛の弾丸",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "思い出",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 3,
+              "title": "愛の弾丸(Instrumenta)",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/7acff97ad526958f2e961d12386139f21277aab9.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKCP-5188",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛の弾丸(Close-up Ver.)",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "code": "EPCE-5320",
+  "url": "/release/detail/EPCE-5320/",
+  "source": "upfront",
+  "title": "恋のダンスサイト",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2005/03/02",
+  "label": "zetima",
+  "images": [
+    "/images/cfe338c10b3339dc02b8892274fb17a8aa6594d5.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/cfe338c10b3339dc02b8892274fb17a8aa6594d5.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5320",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋のダンスサイト",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋はロケンロー",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山木隆一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋のダンスサイト(Instrumental)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 4,
+              "title": "恋のダンスサイト(Groove That Soul Remix)",
+              "duration": "08:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "SATOSHI HIDAKA(GTS)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "恋のダンスサイト(M.I.D. KH-R CLUB MIX)",
+              "duration": "05:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "DJ K. HASEGAWA"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

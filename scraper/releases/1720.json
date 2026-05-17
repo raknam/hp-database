@@ -1,0 +1,307 @@
+{
+  "id": 1720,
+  "url": "/release/1720/",
+  "title": "Cafe Buono!",
+  "category": "CDアルバム",
+  "artist": "Buono!",
+  "releaseDate": "2008.2.20",
+  "label": "ポニーキャニオン",
+  "images": [
+    "/upload/images/4f56a700520f0a10dc5b85aaf8cfd12debf2f6d2.webp",
+    "/upload/images/f30db6b4fdefd54cc4ca37d7b192177b901ba2f2.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回限定盤】",
+      "image": "/upload/images/4f56a700520f0a10dc5b85aaf8cfd12debf2f6d2.webp",
+      "price": "定価 ￥3,740（税抜価格 ￥3,400）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Cafe Buono!",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "木之下慶行",
+                "編曲": "木之下慶行",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "泣き虫少年",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "AKIRASTAR",
+                "編曲": "AKIRASTAR",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋愛♥ライダー",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "AKIRASTAR",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ホントのじぶん",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "木之下慶行",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 5,
+              "title": "バケツの水",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "GAJIN",
+                "編曲": "佐久間誠",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ガラクタノユメ",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "A-bee",
+                "編曲": "A-bee",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Internet Cupid",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "大内正徳",
+                "作曲": "中野定博",
+                "編曲": "中野定博",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Last Forever",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "西川進",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 9,
+              "title": "こころのたまご",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "ムラマツテツヤ",
+                "編曲": "安部潤",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 10,
+              "title": "星の羊たち",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "橋本淳",
+                "作曲": "筒美京平",
+                "編曲": "SHUNTARO",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 11,
+              "title": "ロックの神様",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "AKIRASTAR",
+                "編曲": "AKIRASTAR",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 12,
+              "title": "君がいれば",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "GAJIN",
+                "編曲": "佐久間誠",
+                "歌": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "PCCA-02621"
+        }
+      ],
+      "note": "【初回生産限定盤】DVD付＋イベント参加抽選シリアルナンバーカード＋Buono!オリジナルトレーディングカード(初回/通常 別絵柄)"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/f30db6b4fdefd54cc4ca37d7b192177b901ba2f2.webp",
+      "price": "定価 ￥3,204（税抜価格 ￥2,913）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Cafe Buono!",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "木之下慶行",
+                "編曲": "木之下慶行",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "泣き虫少年",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "AKIRASTAR",
+                "編曲": "AKIRASTAR",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋愛♥ライダー",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "AKIRASTAR",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ホントのじぶん",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "木之下慶行",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 5,
+              "title": "バケツの水",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "GAJIN",
+                "編曲": "佐久間誠",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ガラクタノユメ",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "A-bee",
+                "編曲": "A-bee",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Internet Cupid",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "大内正徳",
+                "作曲": "中野定博",
+                "編曲": "中野定博",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Last Forever",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "西川進",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 9,
+              "title": "こころのたまご",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "ムラマツテツヤ",
+                "編曲": "安部潤",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 10,
+              "title": "星の羊たち",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "橋本淳",
+                "作曲": "筒美京平",
+                "編曲": "SHUNTARO",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 11,
+              "title": "ロックの神様",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "AKIRASTAR",
+                "編曲": "AKIRASTAR",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 12,
+              "title": "君がいれば",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "GAJIN",
+                "編曲": "佐久間誠",
+                "歌": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "PCCA-02622"
+        }
+      ],
+      "note": "【通常盤･初回仕様】イベント参加抽選シリアルナンバーカード＋Buono!オリジナルトレーディングカード(初回/通常 別絵柄)"
+    }
+  ]
+}

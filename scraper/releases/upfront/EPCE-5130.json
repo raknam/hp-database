@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-5130",
+  "url": "/release/detail/EPCE-5130/",
+  "source": "upfront",
+  "title": "エントランス",
+  "category": "CDシングル",
+  "artist": "谷村有美",
+  "releaseDate": "2001/12/05",
+  "label": "zetima",
+  "images": [
+    "/images/815c1b67a48b43b68e4cdeeda4a2f5e0e4313953.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/815c1b67a48b43b68e4cdeeda4a2f5e0e4313953.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5130",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "エントランス",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "まこと",
+                "作曲": "今井千尋",
+                "編曲": "林有三"
+              }
+            },
+            {
+              "index": 2,
+              "title": "名前のないうた",
+              "duration": "05:09",
+              "credits": {
+                "作詞": "谷村有美",
+                "作曲": "谷村有美",
+                "編曲": "HULK"
+              }
+            },
+            {
+              "index": 3,
+              "title": "エントランス(Instrumental)",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "まこと",
+                "作曲": "今井千尋",
+                "編曲": "林有三"
+              }
+            },
+            {
+              "index": 4,
+              "title": "名前のないうた(Instrumental)",
+              "duration": "05:09",
+              "credits": {
+                "作詞": "谷村有美",
+                "作曲": "谷村有美",
+                "編曲": "HULK"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "code": "PKCP-2070",
+  "url": "/release/detail/PKCP-2070/",
+  "source": "upfront",
+  "title": "面影橋/時の流れに",
+  "category": "CDシングル",
+  "artist": "堀内孝雄",
+  "releaseDate": "2011/04/27",
+  "label": "ライスミュージック",
+  "images": [
+    "/images/ce24eee0f6cf9c420cc9648aeeead9c60df5086c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/ce24eee0f6cf9c420cc9648aeeead9c60df5086c.jpg",
+      "price": "￥1,257 (税抜価格 ￥1,143)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-2070",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "面影橋",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 2,
+              "title": "時の流れに",
+              "duration": "05:11",
+              "credits": {
+                "作詞": "中村行延",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 3,
+              "title": "面影橋(オリジナル・カラオケ)",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 4,
+              "title": "時の流れに(オリジナル・カラオケ)",
+              "duration": "05:12",
+              "credits": {
+                "作詞": "中村行延",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": null,
+      "price": "￥1,257 (税抜価格 ￥1,143)",
+      "discs": [
+        {
+          "type": "カセットテープシングル",
+          "catalogNo": "PKSP-2070",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "面影橋",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 2,
+              "title": "時の流れに",
+              "duration": "05:11",
+              "credits": {
+                "作詞": "中村行延",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 3,
+              "title": "面影橋(オリジナル・カラオケ)",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 4,
+              "title": "時の流れに(オリジナル・カラオケ)",
+              "duration": "05:12",
+              "credits": {
+                "作詞": "中村行延",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

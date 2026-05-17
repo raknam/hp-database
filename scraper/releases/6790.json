@@ -1,0 +1,880 @@
+{
+  "id": 6790,
+  "url": "/release/6790/",
+  "title": "BEYOOOOO2NDS",
+  "category": "CDアルバム",
+  "artist": "BEYOOOOONDS",
+  "releaseDate": "2022.9.28",
+  "label": "zetima",
+  "images": [
+    "/upload/images/1c0472c15a5b4bbe91d16d99ec39bddf8f3a90c4.webp",
+    "/upload/images/e56f62020bd39b9f34d0c86dfb9600622faae05f.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/upload/images/1c0472c15a5b4bbe91d16d99ec39bddf8f3a90c4.webp",
+      "price": "￥6,600（税抜価格 ￥6,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "虎視タンタ・ターン",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "前山田健一",
+                "編曲": "ダンス☆マン",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "英雄～笑って！ショパン先輩～",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "FREDERIC FRANCOIS CHOPIN",
+                "編曲": "加藤裕介/星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Interlude寸劇「ノービヨンダ！ノーライフ」",
+              "duration": "02:21",
+              "credits": {
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Hey！ビヨンダ",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Interlude寸劇「ノービヨンダ！ノーライフ」後編",
+              "duration": "01:35",
+              "credits": {
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Now Now Ningen",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 7,
+              "title": "涙のカスタネット",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "板垣祐介",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 8,
+              "title": "激辛LOVE",
+              "duration": "03:33",
+              "credits": {
+                "作詞": "Barry Blue/Paul Greedus/日本語詞：星部ショウ",
+                "作曲": "Barry Blue/Paul Greedus",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ハムカツ黙示録",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 10,
+              "title": "Interlude寸劇「こころとりかのドリームマッチ」",
+              "duration": "02:20",
+              "credits": {
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 11,
+              "title": "Never Never know～コメ派とパン派のラブウォーズ～",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "ひろき(リリィさよなら。)/山崎あおい",
+                "作曲": "ひろき(リリィさよなら。)/山崎あおい",
+                "編曲": "山崎あおい",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 12,
+              "title": "Interlude寸劇「こころとりかのドリームマッチ」後編",
+              "duration": "00:37",
+              "credits": {
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 13,
+              "title": "ビタミンME",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "板垣祐介",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 14,
+              "title": "フレフレ・エブリデイ",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 15,
+              "title": "Interlude寸劇「迷走委員会」",
+              "duration": "01:54",
+              "credits": {
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 16,
+              "title": "GOGO大臣",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "野沢トオル",
+                "作曲": "星部ショウ",
+                "編曲": "田中直",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 17,
+              "title": "こんなハズジャナカッター！",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "星部ショウ/野沢トオル",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ/ストリングスアレンジ：クラッシャー木村",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 18,
+              "title": "オンリーロンリー",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7702"
+        },
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "待ち合わせはJR梅田駅で",
+              "duration": "03:41",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "CHICA#TETSU"
+              }
+            },
+            {
+              "index": 2,
+              "title": "循環",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "雨ノ森 川海"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Get Back！ビニール傘の大冒険",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "加藤裕介",
+                "歌": "SeasoningS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "二年前の横浜駅西口",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "清水信之",
+                "歌": "CHICA#TETSU"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ヤバイ恋の刃",
+              "duration": "03:34",
+              "credits": {
+                "作詞": "野沢トオル",
+                "作曲": "中谷信行",
+                "編曲": "中谷信行",
+                "歌": "雨ノ森 川海"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ワタシと踊りなさい！",
+              "duration": "03:08",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "松浦雄太",
+                "編曲": "松浦雄太",
+                "歌": "SeasoningS"
+              }
+            }
+          ]
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "虎視タンタ・ターン",
+              "duration": "05:31",
+              "suffix": "(虎の穴特訓ダンスEdit.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "前山田健一",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "激辛LOVE",
+              "duration": "04:42",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "Barry Blue/Paul Greedus/日本語詞：星部ショウ",
+                "作曲": "Barry Blue/Paul Greedus",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "激辛LOVE",
+              "duration": "03:41",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "Barry Blue/Paul Greedus/日本語詞：星部ショウ",
+                "作曲": "Barry Blue/Paul Greedus",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "激辛LOVE",
+              "duration": "03:42",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "Barry Blue/Paul Greedus/日本語詞：星部ショウ",
+                "作曲": "Barry Blue/Paul Greedus",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Now Now Ningen",
+              "duration": "04:52",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Now Now Ningen",
+              "duration": "04:12",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Now Now Ningen",
+              "duration": "04:11",
+              "suffix": "(Cayhane Dance Shot Ver.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Now Now Ningen",
+              "duration": "04:13",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 9,
+              "title": "こんなハズジャナカッター！",
+              "duration": "05:12",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "星部ショウ/野沢トオル",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 10,
+              "title": "こんなハズジャナカッター！",
+              "duration": "04:31",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "星部ショウ/野沢トオル",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 11,
+              "title": "こんなハズジャナカッター！",
+              "duration": "04:28",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "星部ショウ/野沢トオル",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 12,
+              "title": "英雄～笑って！ショパン先輩～",
+              "duration": "05:42",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "FREDERIC FRANCOIS CHOPIN",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 13,
+              "title": "英雄～笑って！ショパン先輩～",
+              "duration": "04:46",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "FREDERIC FRANCOIS CHOPIN",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 14,
+              "title": "英雄～笑って！ショパン先輩～",
+              "duration": "04:46",
+              "suffix": "(ぐるぐるピアノ Ver.)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "FREDERIC FRANCOIS CHOPIN",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 15,
+              "title": "ハムカツ黙示録",
+              "duration": "04:11",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 16,
+              "title": "ハムカツ黙示録",
+              "duration": "03:43",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 17,
+              "title": "ハムカツ黙示録",
+              "duration": "06:08",
+              "suffix": "(厚切りハムカツ Ver.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 18,
+              "title": "ビタミンME",
+              "duration": "05:02",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 19,
+              "title": "ビタミンME",
+              "duration": "04:21",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 20,
+              "title": "フレフレ・エブリデイ",
+              "duration": "04:16",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 21,
+              "title": "都営大江戸線の六本木駅で抱きしめて",
+              "duration": "03:57",
+              "suffix": "(Dance Practice Video)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "CHICA#TETSU"
+              }
+            },
+            {
+              "index": 22,
+              "title": "高輪ゲートウェイ駅ができる頃には",
+              "duration": "04:42",
+              "suffix": "(Dance Practice Video)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "CHICA#TETSU"
+              }
+            },
+            {
+              "index": 23,
+              "title": "二年前の横浜駅西口",
+              "duration": "03:57",
+              "suffix": "(Dance Practice Video)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "CHICA#TETSU"
+              }
+            },
+            {
+              "index": 24,
+              "title": "GIRL ZONE",
+              "duration": "04:40",
+              "suffix": "(Dance Practice Video)",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "出演": "雨ノ森 川海"
+              }
+            },
+            {
+              "index": 25,
+              "title": "そこらのやつとは同じにされたくない",
+              "duration": "03:52",
+              "suffix": "(Dance Practice Video)",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "大森靖子",
+                "出演": "雨ノ森 川海"
+              }
+            },
+            {
+              "index": 26,
+              "title": "ヤバイ恋の刃",
+              "duration": "03:40",
+              "suffix": "(Dance Practice Video)",
+              "credits": {
+                "作詞": "野沢トオル",
+                "作曲": "中谷信行",
+                "出演": "雨ノ森 川海"
+              }
+            },
+            {
+              "index": 27,
+              "title": "We Need a Name!",
+              "duration": "04:03",
+              "suffix": "(Dance Practice Video)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "SeasoningS"
+              }
+            },
+            {
+              "index": 28,
+              "title": "ワタシと踊りなさい！",
+              "duration": "03:11",
+              "suffix": "(Dance Practice Video)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "松浦雄太",
+                "出演": "SeasoningS"
+              }
+            },
+            {
+              "index": 29,
+              "title": "「虎視タンタ・ターン」メイキング",
+              "duration": "21:36",
+              "credits": {
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 30,
+              "title": "アルバムジャケット撮影メイキング",
+              "duration": "29:26",
+              "credits": {
+                "出演": "BEYOOOOONDS"
+              }
+            }
+          ]
+        },
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "待ち合わせはJR梅田駅で",
+              "duration": "03:41",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "CHICA#TETSU"
+              }
+            },
+            {
+              "index": 2,
+              "title": "循環",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "雨ノ森 川海"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Get Back！ビニール傘の大冒険",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "加藤裕介",
+                "歌": "SeasoningS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "二年前の横浜駅西口",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "清水信之",
+                "歌": "CHICA#TETSU"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ヤバイ恋の刃",
+              "duration": "03:34",
+              "credits": {
+                "作詞": "野沢トオル",
+                "作曲": "中谷信行",
+                "編曲": "中谷信行",
+                "歌": "雨ノ森 川海"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ワタシと踊りなさい！",
+              "duration": "03:08",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "松浦雄太",
+                "編曲": "松浦雄太",
+                "歌": "SeasoningS"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "2CD＋BD(MV集＜新曲「虎視タンタ・ターン」収録＞)＋ブックレット＋トールケースサイズデジパック仕様＋三方背BOX＜Disc1＞BEYO盤"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/e56f62020bd39b9f34d0c86dfb9600622faae05f.webp",
+      "price": "定価 ￥3,300（税抜価格 ￥3,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "虎視タンタ・ターン",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "前山田健一",
+                "編曲": "ダンス☆マン",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "英雄～笑って！ショパン先輩～",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "FREDERIC FRANCOIS CHOPIN",
+                "編曲": "加藤裕介/星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Interlude寸劇「ノービヨンダ！ノーライフ」",
+              "duration": "02:21",
+              "credits": {
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Hey！ビヨンダ",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Interlude寸劇「ノービヨンダ！ノーライフ」後編",
+              "duration": "01:35",
+              "credits": {
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Now Now Ningen",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 7,
+              "title": "涙のカスタネット",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "板垣祐介",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 8,
+              "title": "激辛LOVE",
+              "duration": "03:33",
+              "credits": {
+                "作詞": "Barry Blue/Paul Greedus/日本語詞：星部ショウ",
+                "作曲": "Barry Blue/Paul Greedus",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ハムカツ黙示録",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 10,
+              "title": "Interlude寸劇「こころとりかのドリームマッチ」",
+              "duration": "02:20",
+              "credits": {
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 11,
+              "title": "Never Never know～コメ派とパン派のラブウォーズ～",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "ひろき(リリィさよなら。)/山崎あおい",
+                "作曲": "ひろき(リリィさよなら。)/山崎あおい",
+                "編曲": "山崎あおい",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 12,
+              "title": "Interlude寸劇「こころとりかのドリームマッチ」後編",
+              "duration": "00:37",
+              "credits": {
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 13,
+              "title": "ビタミンME",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "板垣祐介",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 14,
+              "title": "フレフレ・エブリデイ",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 15,
+              "title": "Interlude寸劇「迷走委員会」",
+              "duration": "01:54",
+              "credits": {
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 16,
+              "title": "GOGO大臣",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "野沢トオル",
+                "作曲": "星部ショウ",
+                "編曲": "田中直",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 17,
+              "title": "こんなハズジャナカッター！",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "星部ショウ/野沢トオル",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ/ストリングスアレンジ：クラッシャー木村",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 18,
+              "title": "オンリーロンリー",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7705"
+        }
+      ],
+      "note": "2CD＜Disc1＞BEYO盤"
+    }
+  ]
+}

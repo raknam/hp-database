@@ -1,0 +1,66 @@
+{
+  "code": "EPDE-1050",
+  "url": "/release/detail/EPDE-1050/",
+  "source": "upfront",
+  "title": "どうして",
+  "category": "CDシングル",
+  "artist": "スターダスト☆レビュー",
+  "releaseDate": "1999/08/21",
+  "label": "zetima",
+  "images": [
+    "/images/e20e842a15ca773b283c3ed0bad8d977cf0afc14.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/e20e842a15ca773b283c3ed0bad8d977cf0afc14.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1050",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "どうして",
+              "duration": "05:14",
+              "credits": {
+                "作詞": "根本要/山田ひろし",
+                "作曲": "根本要",
+                "編曲": "矢代恒彦"
+              }
+            },
+            {
+              "index": 2,
+              "title": "どうして(オリジナル・カラオケ)",
+              "duration": "05:13",
+              "credits": {
+                "作詞": "根本要/山田ひろし",
+                "作曲": "根本要",
+                "編曲": "矢代恒彦"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Joy To The Future(ライブ)",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "根本要",
+                "作曲": "根本要"
+              }
+            },
+            {
+              "index": 4,
+              "title": "木蘭の涙(ライブ)",
+              "duration": "06:40",
+              "credits": {
+                "作詞": "山田ひろし",
+                "作曲": "柿沼清史"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

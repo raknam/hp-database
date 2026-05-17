@@ -1,0 +1,58 @@
+{
+  "code": "EPBE-5499",
+  "url": "/release/detail/EPBE-5499/",
+  "source": "upfront",
+  "title": "Simple",
+  "category": "DVD",
+  "artist": "工藤遥",
+  "releaseDate": "2014/10/22",
+  "label": "zetima",
+  "images": [
+    "/images/b9b923d6fc6cd00b6c7724dd174ab87e3e3ac806.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/b9b923d6fc6cd00b6c7724dd174ab87e3e3ac806.jpg",
+      "price": "￥4,400 (税抜価格 ￥4,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5499",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Lunch",
+              "duration": "07:41"
+            },
+            {
+              "index": 2,
+              "title": "Sweet",
+              "duration": "03:48"
+            },
+            {
+              "index": 3,
+              "title": "Beach",
+              "duration": "11:13"
+            },
+            {
+              "index": 4,
+              "title": "Ryukyu",
+              "duration": "11:34"
+            },
+            {
+              "index": 5,
+              "title": "Making of Photobook",
+              "duration": "16:37"
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "01:15"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

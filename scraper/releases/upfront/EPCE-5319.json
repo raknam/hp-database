@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-5319",
+  "url": "/release/detail/EPCE-5319/",
+  "source": "upfront",
+  "title": "LOVEマシーン",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2005/03/02",
+  "label": "zetima",
+  "images": [
+    "/images/609a8e32e771412d0c53132e1a7b236c84031a6d.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/609a8e32e771412d0c53132e1a7b236c84031a6d.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5319",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "LOVEマシーン",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 2,
+              "title": "21世紀",
+              "duration": "04:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介 ストリングスアレンジ:村山達哉"
+              }
+            },
+            {
+              "index": 3,
+              "title": "LOVEマシーン(Instrumental)",
+              "duration": "04:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 4,
+              "title": "LOVEマシーン(Early Unison Version)",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

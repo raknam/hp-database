@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5152",
+  "url": "/release/detail/EPCE-5152/",
+  "source": "upfront",
+  "title": "手を握って歩きたい",
+  "category": "CDシングル",
+  "artist": "後藤真希",
+  "releaseDate": "2002/05/09",
+  "label": "zetima",
+  "images": [
+    "/images/02cb1b928100a3ef0222fae475147274db28d858.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/02cb1b928100a3ef0222fae475147274db28d858.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5152",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "手を握って歩きたい",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 2,
+              "title": "特等席",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "酒井ミキオ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "手を握って歩きたい(Instrumental)",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

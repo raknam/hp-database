@@ -1,0 +1,174 @@
+{
+  "id": 2531,
+  "url": "/release/2531/",
+  "title": "Song for the DATE",
+  "category": "CDシングル",
+  "artist": "真野恵里菜",
+  "releaseDate": "2012.6.27",
+  "label": "hachama",
+  "images": [
+    "/upload/images/3e93e1b44695664c96625e36484f7933a06fe796.webp",
+    "/upload/images/fff31f017af76eabd50267a27ab70302c8d275f9.webp",
+    "/upload/images/70f44a32a06a590443970ba1217a63e58caa543d.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/3e93e1b44695664c96625e36484f7933a06fe796.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Song for the DATE",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO",
+                "編曲": "河合英嗣",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青空が笑ってる",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "はたけ",
+                "編曲": "河合英嗣",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Song for the DATE",
+              "duration": "04:56",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO",
+                "編曲": "河合英嗣",
+                "歌": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50237"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Song for the DATE",
+              "duration": "05:17",
+              "suffix": "【sideB】",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO",
+                "出演": "真野恵里菜"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付き"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/fff31f017af76eabd50267a27ab70302c8d275f9.webp",
+      "price": "￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Song for the DATE",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO",
+                "編曲": "河合英嗣",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青空が笑ってる",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "はたけ",
+                "編曲": "河合英嗣",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Song for the DATE",
+              "duration": "04:56",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO",
+                "編曲": "河合英嗣",
+                "歌": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50239"
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/70f44a32a06a590443970ba1217a63e58caa543d.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Song for the DATE",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO",
+                "編曲": "河合英嗣",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青空が笑ってる",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "はたけ",
+                "編曲": "河合英嗣",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Song for the DATE",
+              "duration": "04:56",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO",
+                "編曲": "河合英嗣",
+                "歌": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50240"
+        }
+      ]
+    }
+  ]
+}

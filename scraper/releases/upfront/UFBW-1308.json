@@ -1,0 +1,58 @@
+{
+  "code": "UFBW-1308",
+  "url": "/release/detail/UFBW-1308/",
+  "source": "upfront",
+  "title": "ハロー!SATOYAMAライフ Vol.17",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2013/11/08",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/48b8b01e8e053f8672b06aadd6d77d37b2ed63db.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/48b8b01e8e053f8672b06aadd6d77d37b2ed63db.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1308",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "SATOYAMAへ行こう 企画ミーティング",
+              "duration": "10:47"
+            },
+            {
+              "index": 2,
+              "title": "SATOYAMAへ行こう 水耕栽培を用意しよう",
+              "duration": "05:21"
+            },
+            {
+              "index": 3,
+              "title": "SATOYAMAへ行こう 桃の木を用意しよう",
+              "duration": "01:51"
+            },
+            {
+              "index": 4,
+              "title": "SATOYAMAへ行こう 大豆でコラボ商品を作ろう",
+              "duration": "20:42"
+            },
+            {
+              "index": 5,
+              "title": "SATOYAMAへ行こう 会場準備をしよう",
+              "duration": "05:14"
+            },
+            {
+              "index": 6,
+              "title": "SATOYAMAへ行こう＆ひな祭りフェスティバル2013前夜祭",
+              "duration": "30:53"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

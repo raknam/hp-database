@@ -1,0 +1,339 @@
+{
+  "code": "EPCE-5921",
+  "url": "/release/detail/EPCE-5921/",
+  "source": "upfront",
+  "title": "Help me!!",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2013/01/23",
+  "label": "zetima",
+  "images": [
+    "/images/b1473c64c2a16fd2e36d4fdea2d4eaecfb3a99c8.jpg",
+    "/images/e937cf12bbbf2582b46c29d45b5847a143e8269e.jpg",
+    "/images/c97ec6788dc93575d3572b9d087fc5886e293210.jpg",
+    "/images/e17bfa5086512b825748bdfae6571cbbe3319e1f.jpg",
+    "/images/b67bbfe03002c98b40dab672ac468a5c21328d04.jpg",
+    "/images/d2d2324927d1e18864d4883c81d947e50f53ff5c.jpg",
+    "/images/5c38c68f22cc77ebf4a8820ea0394bfd3c5577d8.jpg",
+    "/images/2740e5a7fbd1d8ef8bafcc201a88589c326acd79.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/b1473c64c2a16fd2e36d4fdea2d4eaecfb3a99c8.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5921",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Help me!!",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Happy大作戦",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Help me!!(Instrumental)",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/e937cf12bbbf2582b46c29d45b5847a143e8269e.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5923",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Help me!!",
+              "duration": "04:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Help me!!(DanceShotVer.)",
+              "duration": "04:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/images/c97ec6788dc93575d3572b9d087fc5886e293210.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5925",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Help me!!",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Happy大作戦",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Help me!!(Instrumental)",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤D】",
+      "image": "/images/e17bfa5086512b825748bdfae6571cbbe3319e1f.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5927",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Help me!!",
+              "duration": "04:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Help me!!(Close-upVer.)",
+              "duration": "04:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤E】",
+      "image": "/images/b67bbfe03002c98b40dab672ac468a5c21328d04.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5928",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Help me!!",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Happy大作戦",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Help me!!(Instrumental)",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤F】",
+      "image": "/images/d2d2324927d1e18864d4883c81d947e50f53ff5c.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5929",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Help me!!",
+              "duration": "04:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ワクテカTakeachance(小田さくらVer.)",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "10:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/5c38c68f22cc77ebf4a8820ea0394bfd3c5577d8.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5930",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Help me!!",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "哀愁ロマンティック",
+              "duration": "04:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Help me!!(Instrumental)",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/2740e5a7fbd1d8ef8bafcc201a88589c326acd79.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5931",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Help me!!",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "私のでっかい花",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Help me!!(Instrumental)",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

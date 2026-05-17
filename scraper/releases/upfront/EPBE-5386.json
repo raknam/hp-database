@@ -1,0 +1,68 @@
+{
+  "code": "EPBE-5386",
+  "url": "/release/detail/EPBE-5386/",
+  "source": "upfront",
+  "title": "夏休み",
+  "category": "DVD",
+  "artist": "鈴木愛理",
+  "releaseDate": "2010/08/25",
+  "label": "zetima",
+  "images": [
+    "/images/cfddbdf1787174f701e20f6dc0663352b6c1ba05.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/cfddbdf1787174f701e20f6dc0663352b6c1ba05.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5386",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "07:41"
+            },
+            {
+              "index": 2,
+              "title": "体育館",
+              "duration": "02:28"
+            },
+            {
+              "index": 3,
+              "title": "屋上",
+              "duration": "02:03"
+            },
+            {
+              "index": 4,
+              "title": "ビーチ",
+              "duration": "11:31"
+            },
+            {
+              "index": 5,
+              "title": "駅",
+              "duration": "03:18"
+            },
+            {
+              "index": 6,
+              "title": "「夏休み」メイキング",
+              "duration": "04:06"
+            },
+            {
+              "index": 7,
+              "title": "「登校日」メイキング",
+              "duration": "23:16"
+            },
+            {
+              "index": 8,
+              "title": "エンドロール",
+              "duration": "04:08"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

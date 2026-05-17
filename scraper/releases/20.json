@@ -1,0 +1,411 @@
+{
+  "id": 20,
+  "url": "/release/20/",
+  "title": "大人なのよ！/1億3千万総ダイエット王国",
+  "category": "CDシングル",
+  "artist": "Berryz工房",
+  "releaseDate": "2014.2.19",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/upload/images/e89e6f1ee5e99c24ae983b9a45865bea147b8255.webp",
+    "/upload/images/b8bd320619de1e65e95acc26e8329deed46e7b00.webp",
+    "/upload/images/bbde45eebd5349466caac0eeefc0c27aca54f746.webp",
+    "/upload/images/0a2ef9fe3bfbd3651e762f20a5a70a75989da195.webp",
+    "/upload/images/c3a4a4d9d96c3ceb2ee1fce83beb1db078b08ea6.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/e89e6f1ee5e99c24ae983b9a45865bea147b8255.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "大人なのよ！",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "1億3千万総ダイエット王国",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "大人なのよ！",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 4,
+              "title": "1億3千万総ダイエット王国",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5249"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "大人なのよ！",
+              "duration": "05:05",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "大人なのよ！",
+              "duration": "10:43",
+              "suffix": "(Making Film)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/b8bd320619de1e65e95acc26e8329deed46e7b00.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "1億3千万総ダイエット王国",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": " 江上浩太郎",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "大人なのよ！",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "1億3千万総ダイエット王国",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 4,
+              "title": "大人なのよ！",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5251"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "1億3千万総ダイエット王国",
+              "duration": "04:41",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "1億3千万総ダイエット王国",
+              "duration": "09:30",
+              "suffix": "(MakingFilm)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/bbde45eebd5349466caac0eeefc0c27aca54f746.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "大人なのよ！",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "1億3千万総ダイエット王国",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "大人なのよ！",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 4,
+              "title": "1億3千万総ダイエット王国",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5253"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "大人なのよ！",
+              "duration": "00:00",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "1億3千万ダイエット王国",
+              "duration": "00:00",
+              "suffix": "(Close-upVer.)",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "大人なのよ！",
+              "duration": "00:00",
+              "suffix": "(DanceShotVer.)",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 4,
+              "title": "1億3千万ダイエット王国",
+              "duration": "00:00",
+              "suffix": "(DanceShotVer.)",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付き"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/0a2ef9fe3bfbd3651e762f20a5a70a75989da195.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "大人なのよ！",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "1億3千万総ダイエット王国",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "大人なのよ！",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 4,
+              "title": "1億3千万総ダイエット王国",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5255"
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/c3a4a4d9d96c3ceb2ee1fce83beb1db078b08ea6.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "1億3千万総ダイエット王国",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "大人なのよ！",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "1億3千万総ダイエット王国",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 4,
+              "title": "大人なのよ！",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5256"
+        }
+      ]
+    }
+  ]
+}

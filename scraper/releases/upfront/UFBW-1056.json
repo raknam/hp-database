@@ -1,0 +1,58 @@
+{
+  "code": "UFBW-1056",
+  "url": "/release/detail/UFBW-1056/",
+  "source": "upfront",
+  "title": "NATURAL & COOL Miyabi Natsuyaki 1st DVD",
+  "category": "DVD",
+  "artist": "夏焼雅",
+  "releaseDate": "2011/02/22",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/4595a23a0849ae7753677ed9c5dc5e9c7616c293.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/4595a23a0849ae7753677ed9c5dc5e9c7616c293.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1056",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening〜Image1",
+              "duration": "16:44"
+            },
+            {
+              "index": 2,
+              "title": "Image2",
+              "duration": "10:25"
+            },
+            {
+              "index": 3,
+              "title": "Interview",
+              "duration": "14:09"
+            },
+            {
+              "index": 4,
+              "title": "Image3",
+              "duration": "04:42"
+            },
+            {
+              "index": 5,
+              "title": "End Roll",
+              "duration": "01:28"
+            },
+            {
+              "index": 6,
+              "title": "Making",
+              "duration": "06:06"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

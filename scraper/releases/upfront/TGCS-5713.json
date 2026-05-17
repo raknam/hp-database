@@ -1,0 +1,48 @@
+{
+  "code": "TGCS-5713",
+  "url": "/release/detail/TGCS-5713/",
+  "source": "upfront",
+  "title": "sweet suicide summer story",
+  "category": "CDシングル",
+  "artist": "メロン記念日×ミドリ",
+  "releaseDate": "2009/08/12",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/2efaca45982ae3600d5fbe73ecc7d0bf39c9b964.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/2efaca45982ae3600d5fbe73ecc7d0bf39c9b964.jpg",
+      "price": "￥838 (税抜価格 ￥762)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "TGCS-5713",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "sweet suicide summer story",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "後藤まりこ",
+                "作曲": "ミドリ",
+                "編曲": "ミドリ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "sweet suicide summer story(Instrumental)",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "後藤まりこ",
+                "作曲": "ミドリ",
+                "編曲": "ミドリ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

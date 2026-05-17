@@ -1,0 +1,58 @@
+{
+  "code": "EPXE-5081",
+  "url": "/release/detail/EPXE-5081/",
+  "source": "upfront",
+  "title": "春夏-Haruka-",
+  "category": "BD",
+  "artist": "工藤遥",
+  "releaseDate": "2016/07/06",
+  "label": "zetima",
+  "images": [
+    "/images/f5df768ccf277abefecfad53c843e6c94926304f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f5df768ccf277abefecfad53c843e6c94926304f.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5081",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Light thru",
+              "duration": "07:30"
+            },
+            {
+              "index": 2,
+              "title": "Blue overlap",
+              "duration": "13:57"
+            },
+            {
+              "index": 3,
+              "title": "Early summer",
+              "duration": "13:06"
+            },
+            {
+              "index": 4,
+              "title": "Lighthouse",
+              "duration": "04:00"
+            },
+            {
+              "index": 5,
+              "title": "Making of 「ハルカゼ」",
+              "duration": "12:19"
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "00:14"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

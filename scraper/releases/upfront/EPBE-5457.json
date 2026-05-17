@@ -1,0 +1,63 @@
+{
+  "code": "EPBE-5457",
+  "url": "/release/detail/EPBE-5457/",
+  "source": "upfront",
+  "title": "Chelsie",
+  "category": "DVD",
+  "artist": "矢島舞美",
+  "releaseDate": "2012/12/19",
+  "label": "zetima",
+  "images": [
+    "/images/fc4aace7d2b0d5653d8ea95052260534a8e5cf7b.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/fc4aace7d2b0d5653d8ea95052260534a8e5cf7b.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5457",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Garden",
+              "duration": "09:37"
+            },
+            {
+              "index": 2,
+              "title": "Brilliance",
+              "duration": "08:26"
+            },
+            {
+              "index": 3,
+              "title": "Cloudy Sky",
+              "duration": "09:05"
+            },
+            {
+              "index": 4,
+              "title": "Antique",
+              "duration": "05:40"
+            },
+            {
+              "index": 5,
+              "title": "Majesty",
+              "duration": "08:40"
+            },
+            {
+              "index": 6,
+              "title": "Afternoon",
+              "duration": "07:19"
+            },
+            {
+              "index": 7,
+              "title": "Ending",
+              "duration": "01:23"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

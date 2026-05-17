@@ -1,0 +1,421 @@
+{
+  "code": "EPCE-7788",
+  "url": "/release/detail/EPCE-7788/",
+  "source": "upfront",
+  "title": "すっごいFEVER！/Wake-up Call～目覚めるとき～/Neverending Shine",
+  "category": "CDシングル",
+  "artist": "モーニング娘。'23",
+  "releaseDate": "2023/10/25",
+  "label": "zetima",
+  "images": [
+    "/images/6ea74c04c0397197e988927bb135e10ac838a9af.jpg",
+    "/images/2c139a84c318e4c8ed3849f98fd4d41235b100d3.jpg",
+    "/images/33d1ef2306dc7a298f683a0affce0bc27efc2448.jpg",
+    "/images/303c4d5f1db4cc1ae5fa331eb78619116423b431.jpg",
+    "/images/fe90416bfbefb7b706ab6e23fbdeb63a076d48ab.jpg",
+    "/images/a749d55016704629ef5dacc3e8972fd9192e872b.jpg",
+    "/images/391bf9934c90487ed35c5f01d78fb93ca8aa9ec5.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/6ea74c04c0397197e988927bb135e10ac838a9af.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7788",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "すっごいFEVER！",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Wake-up Call～目覚めるとき～",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "大久保薫/星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Neverending Shine",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "神谷礼"
+              }
+            },
+            {
+              "index": 4,
+              "title": "すっごいFEVER！(Instrumental)",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Wake-up Call～目覚めるとき～(Instrumental)",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "大久保薫/星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Neverending Shine(Instrumental)",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "神谷礼"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/2c139a84c318e4c8ed3849f98fd4d41235b100d3.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7790",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "すっごいFEVER！(Music Video)",
+              "duration": "05:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "すっごいFEVER！(Dance Shot Ver.)",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "すっごいFEVER！(メイキング映像)",
+              "duration": "09:27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/images/33d1ef2306dc7a298f683a0affce0bc27efc2448.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7792",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "すっごいFEVER！",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Wake-up Call～目覚めるとき～",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "大久保薫/星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Neverending Shine",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "神谷礼"
+              }
+            },
+            {
+              "index": 4,
+              "title": "すっごいFEVER！(Instrumental)",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Wake-up Call～目覚めるとき～(Instrumental)",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "大久保薫/星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Neverending Shine(Instrumental)",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "神谷礼"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/images/303c4d5f1db4cc1ae5fa331eb78619116423b431.jpg",
+      "price": "￥4,400 (税抜価格 ￥4,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7794",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Wake-up Call～目覚めるとき～(Music Video)",
+              "duration": "04:44",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "大久保薫/星部ショウ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Wake-up Call～目覚めるとき～(Dance Shot Ver.)",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "大久保薫/星部ショウ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Wake-up Call～目覚めるとき～(メイキング映像)",
+              "duration": "15:06"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/fe90416bfbefb7b706ab6e23fbdeb63a076d48ab.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7796",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "すっごいFEVER！",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Wake-up Call～目覚めるとき～",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "大久保薫/星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Neverending Shine",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "神谷礼"
+              }
+            },
+            {
+              "index": 4,
+              "title": "すっごいFEVER！(Instrumental)",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Wake-up Call～目覚めるとき～(Instrumental)",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "大久保薫/星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Neverending Shine(Instrumental)",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "神谷礼"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/a749d55016704629ef5dacc3e8972fd9192e872b.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7797",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Neverending Shine(Music Video)",
+              "duration": "05:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Neverending Shine(Dance Shot Ver.)",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Neverending Shine(メイキング映像)",
+              "duration": "09:02"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/images/391bf9934c90487ed35c5f01d78fb93ca8aa9ec5.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7798",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "すっごいFEVER！",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Wake-up Call～目覚めるとき～",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "大久保薫/星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Neverending Shine",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "神谷礼"
+              }
+            },
+            {
+              "index": 4,
+              "title": "すっごいFEVER！(Instrumental)",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Wake-up Call～目覚めるとき～(Instrumental)",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "大久保薫/星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Neverending Shine(Instrumental)",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "神谷礼"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

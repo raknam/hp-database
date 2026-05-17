@@ -1,0 +1,68 @@
+{
+  "code": "UFBW-1164",
+  "url": "/release/detail/UFBW-1164/",
+  "source": "upfront",
+  "title": "ハロプロ！TIME Vol.10",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012/06/08",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/135ea0a5fabb3e4143cfc235bfdcc088153c62a0.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/135ea0a5fabb3e4143cfc235bfdcc088153c62a0.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1164",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "福田花音自宅のペットのうさぎを自分撮り",
+              "duration": "03:07"
+            },
+            {
+              "index": 2,
+              "title": "和田彩花目指せ！和田画伯 デッサンに初挑戦！",
+              "duration": "04:34"
+            },
+            {
+              "index": 3,
+              "title": "小川紗季「有頂天LOVE」のMV撮影現場でメンバー撮り",
+              "duration": "02:18"
+            },
+            {
+              "index": 4,
+              "title": "竹内朱莉「プリーズ ミニスカ ポストウーマン！」のジャケ写撮影現場でメンバー撮り",
+              "duration": "07:23"
+            },
+            {
+              "index": 5,
+              "title": "竹内朱莉「プリーズ ミニスカ ポストウーマン！」のMV撮影現場でメンバー撮り",
+              "duration": "06:35"
+            },
+            {
+              "index": 6,
+              "title": "田村芽実「チョトマテクダサイ！」のジャケ写・MV撮影現場でメンバー撮り",
+              "duration": "08:41"
+            },
+            {
+              "index": 7,
+              "title": "Berryz工房×℃-uteTIME「甘酸っぱい春にサクラサク」MV撮影現場でメンバー撮り",
+              "duration": "14:47"
+            },
+            {
+              "index": 8,
+              "title": "ハロー！プロジェクト モベキマスTIME全国キャンペーン",
+              "duration": "32:33"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

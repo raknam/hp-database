@@ -1,0 +1,53 @@
+{
+  "code": "UFBW-1235",
+  "url": "/release/detail/UFBW-1235/",
+  "source": "upfront",
+  "title": "ハロー!SATOYAMAライフ Vol.2",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2013/02/27",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/d63d427eb9f4240e7ac2946b696cf5e3e704b897.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d63d427eb9f4240e7ac2946b696cf5e3e704b897.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1235",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "間引きをする",
+              "duration": "09:31"
+            },
+            {
+              "index": 2,
+              "title": "江戸川区で課外授業・小松菜を知ろう",
+              "duration": "25:33"
+            },
+            {
+              "index": 3,
+              "title": "江戸川区で課外授業・江戸風鈴を作ってみる",
+              "duration": "17:13"
+            },
+            {
+              "index": 4,
+              "title": "江戸川区で課外授業・小松菜うどん作りに挑戦",
+              "duration": "08:19"
+            },
+            {
+              "index": 5,
+              "title": "江戸川区で課外授業・番外編",
+              "duration": "17:53"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

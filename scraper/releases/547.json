@@ -1,0 +1,61 @@
+{
+  "id": 547,
+  "url": "/release/547/",
+  "title": "I WISH",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2000.9.6",
+  "label": "zetima",
+  "images": [
+    "/upload/images/44c807f6bbac03e9a7e384a72e43a53de03efabf.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "I WISH",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野伸",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "あこがれ My Boy",
+              "duration": "05:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "I WISH",
+              "duration": "04:45",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野伸",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5070"
+        }
+      ]
+    }
+  ]
+}

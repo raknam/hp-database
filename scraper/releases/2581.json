@@ -1,0 +1,56 @@
+{
+  "id": 2581,
+  "url": "/release/2581/",
+  "title": "シングルV「恋のテレフォンGOAL」",
+  "category": "DVDシングルV",
+  "artist": "安倍なつみ",
+  "releaseDate": "2004.8.11",
+  "label": "hachama",
+  "images": [
+    "/upload/images/a5878fadf370ce7208c2fd44e67d46b9df7a7b12.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋のテレフォンGOAL",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "安倍なつみ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋のテレフォンGOAL",
+              "duration": "03:42",
+              "suffix": "(Close-up Version)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "安倍なつみ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "08:20",
+              "credits": {
+                "出演": "安倍なつみ"
+              }
+            }
+          ],
+          "catalogNo": "HKBN-50043"
+        }
+      ]
+    }
+  ]
+}

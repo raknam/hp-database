@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1486",
+  "url": "/release/detail/UFDL-1486/",
+  "source": "upfront",
+  "title": "rescue",
+  "category": "配信",
+  "artist": "鈴木愛理",
+  "releaseDate": "2021/11/07",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/46996684af84b5a432ab1990ace9cd2b2a8a1fb5.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/46996684af84b5a432ab1990ace9cd2b2a8a1fb5.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1486",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "rescue",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "豊島こうき",
+                "作曲": "Amber’s",
+                "編曲": "Amber's/小名川高弘"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

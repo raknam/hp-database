@@ -1,0 +1,67 @@
+{
+  "id": 2044,
+  "url": "/release/2044/",
+  "title": "ちっさー",
+  "category": "DVD",
+  "artist": "岡井千聖",
+  "releaseDate": "2010.12.24",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/c68a6b2b08cab8a58291a3c46dbb66bdc1d1e3f1.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "03:39",
+              "credits": {
+                "出演": "岡井千聖(℃-ute)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Image movie",
+              "duration": "21:41",
+              "credits": {
+                "出演": "岡井千聖(℃-ute)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Image movie",
+              "duration": "15:31",
+              "credits": {
+                "出演": "岡井千聖(℃-ute)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Interview",
+              "duration": "12:02",
+              "credits": {
+                "出演": "岡井千聖(℃-ute)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Endroll",
+              "duration": "01:07",
+              "credits": {
+                "出演": "岡井千聖(℃-ute)"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1054"
+        }
+      ]
+    }
+  ]
+}

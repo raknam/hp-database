@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-5214",
+  "url": "/release/detail/EPCE-5214/",
+  "source": "upfront",
+  "title": "ミニモ二。数え歌～お風呂ば～じょん～/ミニモ二。数え歌〜デートば～じょん～",
+  "category": "CDシングル",
+  "artist": "ミニモニ｡",
+  "releaseDate": "2003/05/14",
+  "label": "zetima",
+  "images": [
+    "/images/31f1864c99a5a432c962eecbe3d5d6252589a711.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/31f1864c99a5a432c962eecbe3d5d6252589a711.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5214",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ミニモ二。数え歌～お風呂ば～じょん～",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ミニモ二。数え歌～デートば～じょん～",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ミニモ二。ジャンケンぴょん！(2003ば〜じょん)",
+              "duration": "03:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ミニモ二。数え歌(オリジナル・カラオケ)",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

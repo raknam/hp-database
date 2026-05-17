@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1544",
+  "url": "/release/detail/UFDL-1544/",
+  "source": "upfront",
+  "title": "ガンガンガガン！Short Size",
+  "category": "配信",
+  "artist": "T-Pistonz",
+  "releaseDate": "2024/10/01",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/37b1f1d4c0000040f0b1f4d364b445cb39420460.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/37b1f1d4c0000040f0b1f4d364b445cb39420460.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1544",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ガンガンガガン！Short Size",
+              "duration": "01:30",
+              "credits": {
+                "作詞": "山崎徹/高木貴司",
+                "作曲": "山崎徹/S.KAWAI",
+                "編曲": "S.KAWAI"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

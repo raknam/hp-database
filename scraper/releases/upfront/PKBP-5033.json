@@ -1,0 +1,51 @@
+{
+  "code": "PKBP-5033",
+  "url": "/release/detail/PKBP-5033/",
+  "source": "upfront",
+  "title": "シングルV「スッピンと涙。」",
+  "category": "DVDシングルV",
+  "artist": "後藤真希",
+  "releaseDate": "2005/07/21",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/c9578bc378c6161d871087188d49525bf7e8c734.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/c9578bc378c6161d871087188d49525bf7e8c734.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "PKBP-5033",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "スッピンと涙。",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "KAN"
+              }
+            },
+            {
+              "index": 2,
+              "title": "スッピンと涙。(Dance Shot Ver.)",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "KAN"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "09:19"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

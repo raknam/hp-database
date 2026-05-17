@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-5829",
+  "url": "/release/detail/EPCE-5829/",
+  "source": "upfront",
+  "title": "Listen to the Music",
+  "category": "CDシングル",
+  "artist": "KAN",
+  "releaseDate": "2011/12/07",
+  "label": "zetima",
+  "images": [
+    "/images/699775a7e68c5c237ab5b74da408ab048f589131.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/699775a7e68c5c237ab5b74da408ab048f589131.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5829",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Listen to the Music",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Christmas Song",
+              "duration": "02:50",
+              "credits": {
+                "作詞": "RaymondO'Sullivan",
+                "作曲": "RaymondO'Sullivan",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Listen to the Music -instrumental-",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Christmas Song -instrumental-",
+              "duration": "02:50",
+              "credits": {
+                "作詞": "RaymondO'Sullivan",
+                "作曲": "RaymondO'Sullivan",
+                "編曲": "KAN"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

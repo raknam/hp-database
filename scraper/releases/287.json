@@ -1,0 +1,35 @@
+{
+  "id": 287,
+  "url": "/release/287/",
+  "title": "モー娘。走る！ピンチランナー",
+  "category": "DVD",
+  "artist": "モーニング娘。",
+  "releaseDate": "2000.11.21",
+  "label": "東映ビデオ",
+  "images": [
+    "/upload/images/bfe1426ce2772d27654508170a3a1303b193a278.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "モー娘。走る！ピンチランナー",
+              "duration": "00:00",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "DSTD-2006"
+        }
+      ]
+    }
+  ]
+}

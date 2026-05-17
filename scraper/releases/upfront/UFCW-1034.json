@@ -1,0 +1,68 @@
+{
+  "code": "UFCW-1034",
+  "url": "/release/detail/UFCW-1034/",
+  "source": "upfront",
+  "title": "メチャキュン・サマー( ´ ▽ ` )ノ",
+  "category": "CDシングル",
+  "artist": "アップアップガールズ（仮）",
+  "releaseDate": "2012/08/04",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/a562579939978c4f0184208e99260bbe6d7d1647.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/a562579939978c4f0184208e99260bbe6d7d1647.jpg",
+      "price": "￥1,047 (税抜価格 ￥952)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "UFCW-1034",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "メチャキュン・サマー( ´ ▽ ` )ノ",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 2,
+              "title": "サイリウム",
+              "duration": "05:15",
+              "credits": {
+                "作詞": "大華奈央香",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メチャキュン・サマー( ´ ▽ ` )ノ(Instrumental)",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 4,
+              "title": "サイリウム(Instrumental)",
+              "duration": "05:15",
+              "credits": {
+                "作詞": "大華奈央香",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

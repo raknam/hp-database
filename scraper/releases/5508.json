@@ -1,0 +1,118 @@
+{
+  "id": 5508,
+  "url": "/release/5508/",
+  "title": "The Girls Live Vol.40",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2018.2.21",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/290d21f38e70aa9bbb87e05b59c5d5ae94ea996a.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "WHAT IS つばきファクトリー？ 「メンバーの個性を知ってもらおう！」",
+              "duration": "28:52",
+              "credits": {
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "The Girls Live Film in谷根千 チャオ ベッラ チンクエッティ「幸せの形」",
+              "duration": "09:08",
+              "credits": {
+                "出演": "チャオ ベッラ チンクエッティ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "お願い魅惑のターゲット",
+              "duration": "05:10",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "上田ケンジ",
+                "作曲": "田中秀典",
+                "出演": "アップアップガールズ(仮)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "URAHARA テンプテーション",
+              "duration": "04:05",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "出演": "吉川友"
+              }
+            },
+            {
+              "index": 5,
+              "title": "LOVE2パラダイス",
+              "duration": "04:16",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "チャオ ベッラ チンクエッティ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Just Try!",
+              "duration": "04:50",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 7,
+              "title": "うるわしのカメリア",
+              "duration": "03:20",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 8,
+              "title": "初恋サンライズ",
+              "duration": "03:58",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "山田祐輔",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 9,
+              "title": "つばきファクトリー「初恋サンライズ」MV撮影密着",
+              "duration": "03:29",
+              "suffix": "【未公開映像】",
+              "credits": {
+                "出演": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1582"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "code": "PKCP-5060",
+  "url": "/release/detail/PKCP-5060/",
+  "source": "upfront",
+  "title": "今にきっと…In My LIFE",
+  "category": "CDシングル",
+  "artist": "後藤真希",
+  "releaseDate": "2006/01/25",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/fa411f5be2b71ea771a444ff898cd917eee0c99f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/fa411f5be2b71ea771a444ff898cd917eee0c99f.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5060",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "今にきっと…In My LIFE",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "きっと彼氏が出来る方法",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "はたけ",
+                "編曲": "田中直"
+              }
+            },
+            {
+              "index": 3,
+              "title": "今にきっと…In My LIFEInstrumental",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

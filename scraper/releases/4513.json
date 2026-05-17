@@ -1,0 +1,565 @@
+{
+  "id": 4513,
+  "url": "/release/4513/",
+  "title": "冷たい風と片思い/ENDLESS SKY/One and Only",
+  "category": "CDシングル",
+  "artist": "モーニング娘。'15",
+  "releaseDate": "2015.12.29",
+  "label": "zetima",
+  "images": [
+    "/upload/images/2d7bc1306eb474d0325be5c507a4ea438a85a52c.webp",
+    "/upload/images/95839a563b0a3895857110f59e1a2c4653c69a67.webp",
+    "/upload/images/799dbdec9a9ddfa724b28448a2c7a211785d0da5.webp",
+    "/upload/images/890a29ca6291f3c2b5fe9c9be7a8668ea7509c01.webp",
+    "/upload/images/242361c4497b059b32f4c557b05c5ff742b3411e.webp",
+    "/upload/images/e0392ed3bc5c4f2b6ed53a58301a55b12da13517.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/2d7bc1306eb474d0325be5c507a4ea438a85a52c.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "冷たい風と片思い",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ENDLESS SKY",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 3,
+              "title": "One and Only",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "つんく/英訳詞:ALISA",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 4,
+              "title": "冷たい風と片思い",
+              "duration": "04:29",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ENDLESS SKY",
+              "duration": "05:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 6,
+              "title": "One and Only",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく/英訳詞:ALISA",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'15"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7164"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "冷たい風と片思い",
+              "duration": "06:26",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'15"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/95839a563b0a3895857110f59e1a2c4653c69a67.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "冷たい風と片思い",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ENDLESS SKY",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 3,
+              "title": "One and Only",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "つんく/英訳詞:ALISA",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 4,
+              "title": "冷たい風と片思い",
+              "duration": "04:29",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ENDLESS SKY",
+              "duration": "05:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 6,
+              "title": "One and Only",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく/英訳詞:ALISA",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'15"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7166"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ENDLESS SKY",
+              "duration": "06:10",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'15"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/799dbdec9a9ddfa724b28448a2c7a211785d0da5.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "冷たい風と片思い",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ENDLESS SKY",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 3,
+              "title": "One and Only",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "つんく/英訳詞:ALISAつんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 4,
+              "title": "冷たい風と片思い",
+              "duration": "04:29",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ENDLESS SKY",
+              "duration": "05:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 6,
+              "title": "One and Only",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく/英訳詞:ALISA",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'15"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7168"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "One and Only",
+              "duration": "05:51",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく/英訳詞:ALISA",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'15"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/890a29ca6291f3c2b5fe9c9be7a8668ea7509c01.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "冷たい風と片思い",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ENDLESS SKY",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 3,
+              "title": "One and Only",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "つんく/英訳詞:ALISA",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 4,
+              "title": "冷たい風と片思い",
+              "duration": "04:29",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ENDLESS SKY",
+              "duration": "05:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 6,
+              "title": "One and Only",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく/英訳詞:ALISA",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'15"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7170"
+        }
+      ],
+      "note": "トレーディングカード ソロ13種+集合1種よりランダムにて1枚封入(冷たい風と片思い Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/242361c4497b059b32f4c557b05c5ff742b3411e.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "冷たい風と片思い",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ENDLESS SKY",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 3,
+              "title": "One and Only",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "つんく/英訳詞:ALISA",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 4,
+              "title": "冷たい風と片思い",
+              "duration": "04:29",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ENDLESS SKY",
+              "duration": "05:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 6,
+              "title": "One and Only",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく/英訳詞:ALISA",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'15"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7171"
+        }
+      ],
+      "note": "トレーディングカード ソロ13種+集合1種よりランダムにて1枚封入(ENDLESS SKY Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/upload/images/e0392ed3bc5c4f2b6ed53a58301a55b12da13517.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "冷たい風と片思い",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ENDLESS SKY",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 3,
+              "title": "One and Only",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "つんく/英訳詞:ALISA",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ENDLESS SKY",
+              "duration": "04:29",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 5,
+              "title": "One and Only",
+              "duration": "05:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 6,
+              "title": "冷たい風と片思い",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく/英訳詞:ALISA",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'15"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7172"
+        }
+      ],
+      "note": "トレーディングカード ソロ13種+集合1種よりランダムにて1枚封入(One and Only Ver.)※初回プレス分のみ"
+    }
+  ]
+}

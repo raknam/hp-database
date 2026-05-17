@@ -1,0 +1,38 @@
+{
+  "id": 7159,
+  "url": "/release/7159/",
+  "title": "カモン・ミックス！",
+  "category": "配信",
+  "artist": "GOODM!X",
+  "releaseDate": "2024.2.14",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/3cc5afa55b616e987465e05fe45d30299362c984.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "カモン・ミックス！",
+              "duration": "03:22",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "板垣祐介",
+                "歌": "GOODM!X"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1527"
+        }
+      ]
+    }
+  ]
+}

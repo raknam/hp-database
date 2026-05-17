@@ -1,0 +1,58 @@
+{
+  "code": "EPXE-5124",
+  "url": "/release/detail/EPXE-5124/",
+  "source": "upfront",
+  "title": "raindrop",
+  "category": "BD",
+  "artist": "船木結",
+  "releaseDate": "2017/09/27",
+  "label": "zetima",
+  "images": [
+    "/images/badd81e787eef114d455fc816591a525ac5bedfe.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/badd81e787eef114d455fc816591a525ac5bedfe.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5124",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Favorite Umbrella",
+              "duration": "07:57"
+            },
+            {
+              "index": 2,
+              "title": "Run and Fun",
+              "duration": "09:05"
+            },
+            {
+              "index": 3,
+              "title": "Lunch Time",
+              "duration": "07:58"
+            },
+            {
+              "index": 4,
+              "title": "My glass",
+              "duration": "15:16"
+            },
+            {
+              "index": 5,
+              "title": "Making of 『結 MUSUBU』",
+              "duration": "17:40"
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "01:00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

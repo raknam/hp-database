@@ -1,0 +1,314 @@
+{
+  "code": "HKCN-50758",
+  "url": "/release/detail/HKCN-50758/",
+  "source": "upfront",
+  "title": "アイノケダモノ/同窓生",
+  "category": "CDシングル",
+  "artist": "アンジュルム",
+  "releaseDate": "2023/06/14",
+  "label": "hachama",
+  "images": [
+    "/images/276bc4b82996e6dacdd69c456d986ffd65a0670f.jpg",
+    "/images/1bd883a231c095d27bbac7699623ce908086c3fd.jpg",
+    "/images/332a485b4ec27ee1474f4a5816eee4f4ea629be7.jpg",
+    "/images/8535e2d003df9bb5d068841363e0731216b1af49.jpg",
+    "/images/701b9a8d870b258f5f288b459bd63ddbbea96982.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/276bc4b82996e6dacdd69c456d986ffd65a0670f.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50758",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アイノケダモノ",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "平田祥一郎",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "同窓生",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "行かなくちゃ",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "堂島孝平",
+                "作曲": "堂島孝平",
+                "編曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 4,
+              "title": "アイノケダモノ(Instrumental)",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "平田祥一郎",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "同窓生(Instrumental)",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 6,
+              "title": "行かなくちゃ(Instrumental)",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "堂島孝平",
+                "作曲": "堂島孝平",
+                "編曲": "炭竃智弘"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/1bd883a231c095d27bbac7699623ce908086c3fd.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKCN-50760",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アイノケダモノ(Music Video)",
+              "duration": "05:28",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アイノケダモノ(Dance Shot Ver.)",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "アイノケダモノ(メイキング映像)",
+              "duration": "14:08"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/images/332a485b4ec27ee1474f4a5816eee4f4ea629be7.jpg",
+      "price": "￥3,500 (税抜価格 ￥3,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50762",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アイノケダモノ",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "平田祥一郎",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "同窓生",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "行かなくちゃ",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "堂島孝平",
+                "作曲": "堂島孝平",
+                "編曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 4,
+              "title": "アイノケダモノ(Instrumental)",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "平田祥一郎",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "同窓生(Instrumental)",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 6,
+              "title": "行かなくちゃ(Instrumental)",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "堂島孝平",
+                "作曲": "堂島孝平",
+                "編曲": "炭竃智弘"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/8535e2d003df9bb5d068841363e0731216b1af49.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKCN-50764",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "同窓生(Music Video)",
+              "duration": "05:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "同窓生(Close-up Ver.)",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "同窓生(メイキング映像)",
+              "duration": "14:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/701b9a8d870b258f5f288b459bd63ddbbea96982.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50765",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アイノケダモノ",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "平田祥一郎",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "同窓生",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "行かなくちゃ",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "堂島孝平",
+                "作曲": "堂島孝平",
+                "編曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 4,
+              "title": "アイノケダモノ(Instrumental)",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "平田祥一郎",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "同窓生(Instrumental)",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 6,
+              "title": "行かなくちゃ(Instrumental)",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "堂島孝平",
+                "作曲": "堂島孝平",
+                "編曲": "炭竃智弘"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

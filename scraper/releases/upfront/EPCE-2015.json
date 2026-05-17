@@ -1,0 +1,128 @@
+{
+  "code": "EPCE-2015",
+  "url": "/release/detail/EPCE-2015/",
+  "source": "upfront",
+  "title": "オサヴリオ～愛は待ってくれない～",
+  "category": "CDアルバム",
+  "artist": "飯田圭織",
+  "releaseDate": "2003/04/23",
+  "label": "地中海レーベル",
+  "images": [
+    "/images/bfa695caac2e6ff491d33fcebe47597367d5ad7a.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/bfa695caac2e6ff491d33fcebe47597367d5ad7a.jpg",
+      "price": "￥2,934 (税抜価格 ￥2,667)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-2015",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オサヴリオ〜愛は待ってくれない〜 Os aurio",
+              "duration": "02:28",
+              "credits": {
+                "作詞": "EleniZioga",
+                "作曲": "EvanthiaReboutsika",
+                "編曲": "前野知常"
+              }
+            },
+            {
+              "index": 2,
+              "title": "シェルブールの雨傘 LES PARAPLUIES DE CHERBOURG",
+              "duration": "02:56",
+              "credits": {
+                "作詞": "JacquesDEMY",
+                "作曲": "MichelLEGRAND",
+                "編曲": "前野知常"
+              }
+            },
+            {
+              "index": 3,
+              "title": "イパネマの娘 LA FILLE D'IPANEMA",
+              "duration": "03:00",
+              "credits": {
+                "作詞": "ViniciusDeMoraes/仏詞:EddyMarnay",
+                "作曲": "AntonioCarlosJobin",
+                "編曲": "前野知常"
+              }
+            },
+            {
+              "index": 4,
+              "title": "無造作紳士 L'AQUOIBONISTE",
+              "duration": "03:07",
+              "credits": {
+                "作詞": "SergeGainsbourg",
+                "作曲": "SergeGainsbourg",
+                "編曲": "前野知常"
+              }
+            },
+            {
+              "index": 5,
+              "title": "エヘ ヤ〜さようなら〜 Eche geia",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "EleniZioga",
+                "作曲": "EvanthiaReboutsika",
+                "編曲": "前野知常"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ダウン・タウン DANS LE TEMPS",
+              "duration": "02:58",
+              "credits": {
+                "作詞": "TonyHotch/仏詞:GeorgesAber",
+                "作曲": "TonyHotch",
+                "編曲": "前野知常"
+              }
+            },
+            {
+              "index": 7,
+              "title": "アモーレ・スクーザミ AMORE SCUSAMI",
+              "duration": "02:40",
+              "credits": {
+                "作詞": "VitoPALLAVICINI",
+                "作曲": "GinoMESCOLI",
+                "編曲": "前野知常"
+              }
+            },
+            {
+              "index": 8,
+              "title": "素敵な王子様 UN PRINCE CHARMAN",
+              "duration": "02:37",
+              "credits": {
+                "作詞": "MauriceVidalin",
+                "作曲": "JacquesDatin",
+                "編曲": "前野知常"
+              }
+            },
+            {
+              "index": 9,
+              "title": "乙女の涙 UNE ECHARPE UNE ROSE",
+              "duration": "02:52",
+              "credits": {
+                "作詞": "RogerDumas",
+                "作曲": "Jean-JacquesDebout",
+                "編曲": "前野知常"
+              }
+            },
+            {
+              "index": 10,
+              "title": "バラ色の人生 LA VIE EN ROSE",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "EdithPiaf",
+                "作曲": "Louiguy",
+                "編曲": "前野知常"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

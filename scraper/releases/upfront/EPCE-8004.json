@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-8004",
+  "url": "/release/detail/EPCE-8004/",
+  "source": "upfront",
+  "title": "Day by Day",
+  "category": "CDシングル",
+  "artist": "Emyli",
+  "releaseDate": "2007/04/18",
+  "label": "Seventh Code",
+  "images": [
+    "/images/66b756b92590ea9bb770b4a7a67ec11629bb5c54.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/66b756b92590ea9bb770b4a7a67ec11629bb5c54.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-8004",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Day by Day",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "Emyli",
+                "作曲": "Emyli",
+                "編曲": "Yu"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Shake the Habit",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "Emyli",
+                "作曲": "Emyli",
+                "編曲": "和田昌哉"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Day by Day(Instrumental)",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "Emyli",
+                "作曲": "Emyli",
+                "編曲": "Yu"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Shake the Habit(Instrumental)",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "Emyli",
+                "作曲": "Emyli",
+                "編曲": "和田昌哉"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

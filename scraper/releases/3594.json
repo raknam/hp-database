@@ -1,0 +1,61 @@
+{
+  "id": 3594,
+  "url": "/release/3594/",
+  "title": "恋のヌケガラ",
+  "category": "CDシングル",
+  "artist": "美勇伝",
+  "releaseDate": "2004.9.23",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/upload/images/352da8484ec847258bcfe41336bdb0ff8c51ac1c.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋のヌケガラ",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "湯川れい子",
+                "作曲": "はたけ",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "美勇伝"
+              }
+            },
+            {
+              "index": 2,
+              "title": "銀杏～秋の空と私の心～",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "美勇伝"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋のヌケガラ",
+              "duration": "03:55",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "湯川れい子",
+                "作曲": "はたけ",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "美勇伝"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5048"
+        }
+      ]
+    }
+  ]
+}

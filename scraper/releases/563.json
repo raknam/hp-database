@@ -1,0 +1,62 @@
+{
+  "id": 563,
+  "url": "/release/563/",
+  "title": "晴れ 雨 のち スキ ♡",
+  "category": "CDシングル",
+  "artist": "モーニング娘。さくら組",
+  "releaseDate": "2003.9.18",
+  "label": "zetima",
+  "images": [
+    "/upload/images/ddc18fa0c3174eca0f90f87d30d56330c40d6dbf.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "晴れ 雨 のち スキ ♡",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "モーニング娘。さくら組"
+              }
+            },
+            {
+              "index": 2,
+              "title": "でっかい宇宙に愛がある",
+              "duration": "04:38",
+              "suffix": "(モーニング娘。さくら組 Version)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "モーニング娘。さくら組"
+              }
+            },
+            {
+              "index": 3,
+              "title": "晴れ 雨 のち スキ ♡",
+              "duration": "04:45",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "モーニング娘。さくら組"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5232"
+        }
+      ]
+    }
+  ]
+}

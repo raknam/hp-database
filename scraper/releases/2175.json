@@ -1,0 +1,26 @@
+{
+  "id": 2175,
+  "url": "/release/2175/",
+  "title": "オレンジ",
+  "category": "DVD",
+  "artist": "徳永千奈美",
+  "releaseDate": "2012.10.13",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/df10fc6b0805e1304127ba2ea91a9366d5f5e17f.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [],
+          "catalogNo": "UFBW-2068"
+        }
+      ]
+    }
+  ]
+}

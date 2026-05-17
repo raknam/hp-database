@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5438",
+  "url": "/release/detail/EPBE-5438/",
+  "source": "upfront",
+  "title": "シングルV「One・Two・Three」",
+  "category": "DVDシングルV",
+  "artist": "モーニング娘。",
+  "releaseDate": "2012/07/25",
+  "label": "zetima",
+  "images": [
+    "/images/96b1159fea189ab67f679cc23001943b95c46f57.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/96b1159fea189ab67f679cc23001943b95c46f57.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5438",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "One・Two・Three(Music Video)",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "One・Two・Three(Dance Shot Ver.)",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "17:07"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

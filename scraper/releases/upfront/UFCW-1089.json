@@ -1,0 +1,78 @@
+{
+  "code": "UFCW-1089",
+  "url": "/release/detail/UFCW-1089/",
+  "source": "upfront",
+  "title": "イクジナシ",
+  "category": "CDミニアルバム",
+  "artist": "LoVendoЯ",
+  "releaseDate": "2014/11/05",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/1ed727483a1d0da2f2e1a8a5d61526b1d4ea6692.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/1ed727483a1d0da2f2e1a8a5d61526b1d4ea6692.jpg",
+      "price": "￥2,750 (税抜価格 ￥2,500)",
+      "discs": [
+        {
+          "type": "CDミニアルバム",
+          "catalogNo": "UFCW-1089",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "イクジナシ",
+              "duration": "05:07",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉/宮永治郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "UNDERGROUNDER",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "唐沢美帆",
+                "作曲": "宮澤茉凜",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "この世に真実の愛が一つだけあるなら",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "多辺早希",
+                "作曲": "青谷夢",
+                "編曲": "板垣祐介/宮永治郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Stonez!!",
+              "duration": "03:25",
+              "credits": {
+                "作詞": "唐沢美帆",
+                "作曲": "阿久津健太郎",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "少年",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "角田崇徳",
+                "編曲": "宮永治郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

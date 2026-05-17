@@ -1,0 +1,53 @@
+{
+  "code": "EPBE-5374",
+  "url": "/release/detail/EPBE-5374/",
+  "source": "upfront",
+  "title": "too sweet Eri",
+  "category": "DVD",
+  "artist": "亀井絵里",
+  "releaseDate": "2010/03/03",
+  "label": "zetima",
+  "images": [
+    "/images/51c53931a82e4bf5578d1794fe2cb17b145bb106.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/51c53931a82e4bf5578d1794fe2cb17b145bb106.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5374",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "One Sunny Day",
+              "duration": "05:30"
+            },
+            {
+              "index": 2,
+              "title": "Up the Hill",
+              "duration": "01:25"
+            },
+            {
+              "index": 3,
+              "title": "A town by the sea",
+              "duration": "05:29"
+            },
+            {
+              "index": 4,
+              "title": "BEACH",
+              "duration": "08:19"
+            },
+            {
+              "index": 5,
+              "title": "Making of 『sweet』",
+              "duration": "37:15"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "code": "PKCP-5046",
+  "url": "/release/detail/PKCP-5046/",
+  "source": "upfront",
+  "title": "さよなら「友達にはなりたくないの」",
+  "category": "CDシングル",
+  "artist": "後藤真希",
+  "releaseDate": "2004/11/17",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/8375a40b61106e5d1479b49080cbb467da6ab4bb.jpg",
+    "/images/5d861a75d2a990f6bfb1f82bcb42fbb1a51ffde8.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回盤】",
+      "image": "/images/8375a40b61106e5d1479b49080cbb467da6ab4bb.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5046",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "さよなら「友達にはなりたくないの」",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "たいせー",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ALL MY LOVE 〜22世紀〜",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "さよなら「友達にはなりたくないの」Instrumental",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "たいせー",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/5d861a75d2a990f6bfb1f82bcb42fbb1a51ffde8.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5047",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "さよなら「友達にはなりたくないの」",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "たいせー",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ALL MY LOVE 〜22世紀〜",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "さよなら「友達にはなりたくないの」Instrumental",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "たいせー",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

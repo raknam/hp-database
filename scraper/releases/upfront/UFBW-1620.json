@@ -1,0 +1,102 @@
+{
+  "code": "UFBW-1620",
+  "url": "/release/detail/UFBW-1620/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.53",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2019/03/06",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/7c35778b2f6135d17fe5e59bf7621f1ca577bfbb.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7c35778b2f6135d17fe5e59bf7621f1ca577bfbb.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1620",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "バレンタイン",
+              "duration": "09:44"
+            },
+            {
+              "index": 2,
+              "title": "ヘルシーなお夜食",
+              "duration": "10:40"
+            },
+            {
+              "index": 3,
+              "title": "カクゴして！【スタジオライブ集】",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "THE☆FUNKS",
+                "作曲": "THE☆FUNKS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "出すぎた杭は打たれない【スタジオライブ集】",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "魚住有希"
+              }
+            },
+            {
+              "index": 5,
+              "title": "GIRLS BE AMBITIOUS【スタジオライブ集】",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 6,
+              "title": "念には念(念入り Ver.)【スタジオライブ集】",
+              "duration": "03:41",
+              "credits": {
+                "作詞": "アベショー",
+                "作曲": "アベショー"
+              }
+            },
+            {
+              "index": 7,
+              "title": "シャララ！やれるはずさ【スタジオライブ集】",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 8,
+              "title": "低温火傷【スタジオライブ集】",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大橋莉子"
+              }
+            },
+            {
+              "index": 9,
+              "title": "「バレンタイン」未公開映像【未公開映像】",
+              "duration": "05:28"
+            },
+            {
+              "index": 10,
+              "title": "ヘルシーなお夜食【未公開映像】",
+              "duration": "04:06"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

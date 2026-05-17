@@ -1,0 +1,168 @@
+{
+  "code": "HKCN-50213",
+  "url": "/release/detail/HKCN-50213/",
+  "source": "upfront",
+  "title": "ドキドキベイビー/黄昏交差点",
+  "category": "CDシングル",
+  "artist": "真野恵里菜",
+  "releaseDate": "2012/02/22",
+  "label": "hachama",
+  "images": [
+    "/images/bce1df3eb4256023d286a9477cc84942d3c418e2.jpg",
+    "/images/e689a32d9c149561b2483d99483050fabee8a18d.jpg",
+    "/images/788a0eab500eb0d8c45610eab8fff63403be8c31.jpg",
+    "/images/08e1b40f407197e2b29ed3e50282507d4b27c6e6.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/bce1df3eb4256023d286a9477cc84942d3c418e2.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50213",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ドキドキベイビー",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "本上遼",
+                "作曲": "本上遼",
+                "編曲": "本上遼/原田勝通"
+              }
+            },
+            {
+              "index": 2,
+              "title": "黄昏交差点",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "本上遼",
+                "作曲": "本上遼",
+                "編曲": "本上遼/原田勝通"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ドキドキベイビー(Instrumental)",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "本上遼",
+                "作曲": "本上遼",
+                "編曲": "本上遼/原田勝通"
+              }
+            },
+            {
+              "index": 4,
+              "title": "黄昏交差点(Instrumental)",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "本上遼",
+                "作曲": "本上遼",
+                "編曲": "本上遼/原田勝通"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/e689a32d9c149561b2483d99483050fabee8a18d.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50215",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ドキドキベイビー(Dance Shot Ver.)",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "本上遼",
+                "作曲": "本上遼"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/images/788a0eab500eb0d8c45610eab8fff63403be8c31.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50217",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ドキドキベイビー",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "本上遼",
+                "作曲": "本上遼",
+                "編曲": "本上遼/原田勝通"
+              }
+            },
+            {
+              "index": 2,
+              "title": "黄昏交差点",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "本上遼",
+                "作曲": "本上遼",
+                "編曲": "本上遼/原田勝通"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ドキドキベイビー(Instrumental)",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "本上遼",
+                "作曲": "本上遼",
+                "編曲": "本上遼/原田勝通"
+              }
+            },
+            {
+              "index": 4,
+              "title": "黄昏交差点(Instrumental)",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "本上遼",
+                "作曲": "本上遼",
+                "編曲": "本上遼/原田勝通"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/08e1b40f407197e2b29ed3e50282507d4b27c6e6.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50218",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "黄昏交差点(Music Video)",
+              "duration": "04:47",
+              "credits": {
+                "作詞": "本上遼",
+                "作曲": "本上遼"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

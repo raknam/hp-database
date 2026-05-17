@@ -1,0 +1,568 @@
+{
+  "code": "EPXE-5253",
+  "url": "/release/detail/EPXE-5253/",
+  "source": "upfront",
+  "title": "Hello! Project ひなフェス 2024",
+  "category": "BD",
+  "artist": "V.A.",
+  "releaseDate": "2024/08/28",
+  "label": "zetima",
+  "images": [
+    "/images/8ba50cf3d882d754d93489aca7b5d62294ac1538.jpg"
+  ],
+  "editions": [
+    {
+      "name": "＜Disc1＞",
+      "image": "/images/8ba50cf3d882d754d93489aca7b5d62294ac1538.jpg",
+      "price": "￥9,900 (税抜価格 ￥9,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5253",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "01:45"
+            },
+            {
+              "index": 2,
+              "title": "英雄～笑って！ショパン先輩～",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "FREDERIC FRANCOIS CHOPIN"
+              }
+            },
+            {
+              "index": 3,
+              "title": "【BEYOOOOONDS】アタック映像",
+              "duration": "00:19"
+            },
+            {
+              "index": 4,
+              "title": "灰toダイヤモンド",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Hey！ビヨンダ",
+              "duration": "02:46",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "MC",
+              "duration": "02:41"
+            },
+            {
+              "index": 7,
+              "title": "Go City Go",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 8,
+              "title": "恋愛奉行",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ニッポンノD・N・A！",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "野沢トオル",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 10,
+              "title": "【Juice=Juice】アタック映像",
+              "duration": "00:19"
+            },
+            {
+              "index": 11,
+              "title": "あばれてっか?! ハヴアグッタイ",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 12,
+              "title": "禁断少女",
+              "duration": "04:59",
+              "credits": {
+                "作詞": "大橋莉子",
+                "作曲": "大橋莉子"
+              }
+            },
+            {
+              "index": 13,
+              "title": "MC",
+              "duration": "01:35"
+            },
+            {
+              "index": 14,
+              "title": "ナイモノラブ",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "SUIMI",
+                "作曲": "渡辺泰司"
+              }
+            },
+            {
+              "index": 15,
+              "title": "生まれたてのBaby Love",
+              "duration": "03:10",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "masaaki asada"
+              }
+            },
+            {
+              "index": 16,
+              "title": "Fiesta! Fiesta!",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "エリック・フクサキ"
+              }
+            },
+            {
+              "index": 17,
+              "title": "MC",
+              "duration": "01:22"
+            },
+            {
+              "index": 18,
+              "title": "FUNKY FLUSHIN'",
+              "duration": "05:04",
+              "credits": {
+                "作詞": "吉田美奈子",
+                "作曲": "山下達郎"
+              }
+            },
+            {
+              "index": 19,
+              "title": "【アンジュルム】アタック映像",
+              "duration": "00:19"
+            },
+            {
+              "index": 20,
+              "title": "アイノケダモノ",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 21,
+              "title": "MC",
+              "duration": "01:44"
+            },
+            {
+              "index": 22,
+              "title": "愛されルート A or B？",
+              "duration": "02:41",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎真吾"
+              }
+            },
+            {
+              "index": 23,
+              "title": "RED LINE",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい"
+              }
+            },
+            {
+              "index": 24,
+              "title": "Survive～生きてく為に夢を見んだ",
+              "duration": "03:18",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン"
+              }
+            },
+            {
+              "index": 25,
+              "title": "悔しいわ",
+              "duration": "02:42",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 26,
+              "title": "MC",
+              "duration": "00:50"
+            },
+            {
+              "index": 27,
+              "title": "ハデにやっちゃいな！",
+              "duration": "02:23",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい"
+              }
+            },
+            {
+              "index": 28,
+              "title": "46億年LOVE",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "林田健司"
+              }
+            },
+            {
+              "index": 29,
+              "title": "愛すべきべき Human Life",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "堂島孝平",
+                "作曲": "堂島孝平"
+              }
+            },
+            {
+              "index": 30,
+              "title": "MC",
+              "duration": "01:48"
+            },
+            {
+              "index": 31,
+              "title": "ライフ イズ ビューティフル！",
+              "duration": "05:07",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 32,
+              "title": "色とりどり伸びよ！！",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "中村瑛彦",
+                "作曲": "中村瑛彦"
+              }
+            },
+            {
+              "index": 33,
+              "title": "女で地球は回ってる",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "＜Disc2＞",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "特典映像",
+          "catalogNo": "EPXE-5254",
+          "tracks": [
+            {
+              "index": 34,
+              "title": "バックステージ映像(3/30)",
+              "duration": "21:01"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "＜Disc3＞",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5255",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "01:44"
+            },
+            {
+              "index": 2,
+              "title": "ウチらの地元は地球じゃん！",
+              "duration": "02:48",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "【OCHA NORMA】アタック映像",
+              "duration": "00:17"
+            },
+            {
+              "index": 4,
+              "title": "宇宙規模でダイスキ宣言！",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "なんだかんだエヴリデー！",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい"
+              }
+            },
+            {
+              "index": 6,
+              "title": "MC",
+              "duration": "01:56"
+            },
+            {
+              "index": 7,
+              "title": "Hello! 生まれた意味がきっとある",
+              "duration": "02:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 8,
+              "title": "お祭りデビューだぜ！",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 9,
+              "title": "シェケナーレ",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "ANDW"
+              }
+            },
+            {
+              "index": 10,
+              "title": "【つばきファクトリー】アタック映像",
+              "duration": "00:19"
+            },
+            {
+              "index": 11,
+              "title": "断捨ISM",
+              "duration": "02:51",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE"
+              }
+            },
+            {
+              "index": 12,
+              "title": "妄想だけならフリーダム",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "板垣祐介"
+              }
+            },
+            {
+              "index": 13,
+              "title": "MC",
+              "duration": "04:32"
+            },
+            {
+              "index": 14,
+              "title": "Power Flower ～今こそ一丸となれ～",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE"
+              }
+            },
+            {
+              "index": 15,
+              "title": "アタシリズム",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 16,
+              "title": "Stay free & Stay tuned",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 17,
+              "title": "MC",
+              "duration": "01:25"
+            },
+            {
+              "index": 18,
+              "title": "スキップ・スキップ・スキップ",
+              "duration": "05:37",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "KOUGA"
+              }
+            },
+            {
+              "index": 19,
+              "title": "【モーニング娘。'24】アタック映像",
+              "duration": "00:19"
+            },
+            {
+              "index": 20,
+              "title": "HOW DO YOU LIKE JAPAN？～日本はどんな感じでっか？～",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 21,
+              "title": "HEAVY GATE",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 22,
+              "title": "Help me！！(updated)",
+              "duration": "03:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 23,
+              "title": "すっごいFEVER！",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 24,
+              "title": "ロマンスに目覚める妄想女子の歌",
+              "duration": "03:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 25,
+              "title": "MC",
+              "duration": "00:53"
+            },
+            {
+              "index": 26,
+              "title": "I surrender 愛されど愛",
+              "duration": "02:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 27,
+              "title": "浪漫 ～MY DEAR BOY～",
+              "duration": "02:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 28,
+              "title": "みかん",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 29,
+              "title": "MC",
+              "duration": "01:29"
+            },
+            {
+              "index": 30,
+              "title": "ENDLESS SKY",
+              "duration": "05:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 31,
+              "title": "天まで登れ！",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 32,
+              "title": "CHOちょこっとロッケンロール",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

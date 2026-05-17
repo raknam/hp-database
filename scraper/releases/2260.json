@@ -1,0 +1,59 @@
+{
+  "id": 2260,
+  "url": "/release/2260/",
+  "title": "ハロー!SATOYAMAライフ Vol.30",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2014.6.25",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/cbf619a265df349c60a6fef43bf0fdb1792cbef8.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "日帰り鎌倉 里山旅 写真集作り",
+              "duration": "31:26",
+              "credits": {
+                "出演": "譜久村聖・飯窪春菜(モーニング娘。'14)/清水佐紀・徳永千奈美・須藤茉麻(Berryz工房)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "℃-ute武道館ライブに密着",
+              "duration": "23:53",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "℃-ute武道館ライブに密着 未公開映像",
+              "duration": "19:22",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "スマイレージ『「良い奴」』MV撮影に密着",
+              "duration": "07:50",
+              "credits": {
+                "出演": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1350"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "code": "EPBE-5314",
+  "url": "/release/detail/EPBE-5314/",
+  "source": "upfront",
+  "title": "アロハロ！3 モーニング娘。DVD",
+  "category": "DVD",
+  "artist": "モーニング娘。",
+  "releaseDate": "2008/12/24",
+  "label": "zetima",
+  "images": [
+    "/images/e2c3c2f1431eed0fa1f35be3ff85b974a5f23b3c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/e2c3c2f1431eed0fa1f35be3ff85b974a5f23b3c.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5314",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ビーチフラッグ",
+              "duration": "10:30"
+            },
+            {
+              "index": 2,
+              "title": "ビーチバレー",
+              "duration": "08:20"
+            },
+            {
+              "index": 3,
+              "title": "プール",
+              "duration": "06:22"
+            },
+            {
+              "index": 4,
+              "title": "1日目終了",
+              "duration": "02:43"
+            },
+            {
+              "index": 5,
+              "title": "イルカとふれあいツアー",
+              "duration": "10:19"
+            },
+            {
+              "index": 6,
+              "title": "世界にひとつのハワイアンジュエリーツアー",
+              "duration": "10:25"
+            },
+            {
+              "index": 7,
+              "title": "波乗りツアー",
+              "duration": "09:18"
+            },
+            {
+              "index": 8,
+              "title": "パワースポットツアー",
+              "duration": "09:28"
+            },
+            {
+              "index": 9,
+              "title": "絶叫ツアー",
+              "duration": "08:59"
+            },
+            {
+              "index": 10,
+              "title": "パーティークッキングツアー",
+              "duration": "12:03"
+            },
+            {
+              "index": 11,
+              "title": "バーベキュー",
+              "duration": "09:52"
+            },
+            {
+              "index": 12,
+              "title": "エンディング",
+              "duration": "02:16"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

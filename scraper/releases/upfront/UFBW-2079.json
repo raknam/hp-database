@@ -1,0 +1,91 @@
+{
+  "code": "UFBW-2079",
+  "url": "/release/detail/UFBW-2079/",
+  "source": "upfront",
+  "title": "ももプレ♡3 -Rest Another Day-",
+  "category": "DVD",
+  "artist": "嗣永桃子",
+  "releaseDate": "2013/03/06",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/1dbb195e94eef5c2c6e3dcfafb0d152b55d2e32e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/1dbb195e94eef5c2c6e3dcfafb0d152b55d2e32e.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2079",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "1.休暇前夜",
+              "duration": "02:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "2.レースクイーン",
+              "duration": "08:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "3.ミニスカポリス",
+              "duration": "08:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "4.赤ずきんちゃん",
+              "duration": "10:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "5.お天気お姉さん",
+              "duration": "10:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "6.キャッツ♥アイ",
+              "duration": "09:39",
+              "credits": {
+                "作詞": "三浦徳子/rap詞:太田善也",
+                "作曲": "小田裕一郎"
+              }
+            },
+            {
+              "index": 7,
+              "title": "7.エンディング",
+              "duration": "01:35",
+              "credits": {
+                "作詞": "三浦徳子/rap詞:太田善也",
+                "作曲": "小田裕一郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

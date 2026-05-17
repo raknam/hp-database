@@ -1,0 +1,61 @@
+{
+  "id": 3484,
+  "url": "/release/3484/",
+  "title": "愛の意味を教えて！",
+  "category": "CDシングル",
+  "artist": "W",
+  "releaseDate": "2005.5.18",
+  "label": "zetima",
+  "images": [
+    "/upload/images/c848296703a5674e78ecff85947a86f438608449.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛の意味を教えて！",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA",
+                "歌": "W"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ジンクス",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA",
+                "歌": "W"
+              }
+            },
+            {
+              "index": 3,
+              "title": "愛の意味を教えて！",
+              "duration": "03:47",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA",
+                "歌": "W"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5368"
+        }
+      ]
+    }
+  ]
+}

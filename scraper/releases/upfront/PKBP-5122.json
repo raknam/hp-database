@@ -1,0 +1,123 @@
+{
+  "code": "PKBP-5122",
+  "url": "/release/detail/PKBP-5122/",
+  "source": "upfront",
+  "title": "momo ok。",
+  "category": "DVD",
+  "artist": "嗣永桃子",
+  "releaseDate": "2009/09/09",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/0980339df2f3891f9260d1740eb0e3453e16ccc4.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/0980339df2f3891f9260d1740eb0e3453e16ccc4.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5122",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "50m個人メドレーリベンジ",
+              "duration": "05:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "反復横跳び",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ビーチ①",
+              "duration": "01:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "マンゴー狩り",
+              "duration": "12:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ビーチ②",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 7,
+              "title": "珊瑚染め",
+              "duration": "06:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 8,
+              "title": "休憩",
+              "duration": "01:30"
+            },
+            {
+              "index": 9,
+              "title": "エンディング",
+              "duration": "01:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 10,
+              "title": "ビーチ③",
+              "duration": "03:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 11,
+              "title": "写真集「momochiiii」メイキング",
+              "duration": "19:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "code": "HKCN-50766",
+  "url": "/release/detail/HKCN-50766/",
+  "source": "upfront",
+  "title": "プライド・ブライト/FUNKY FLUSHIN'",
+  "category": "CDシングル",
+  "artist": "Juice=Juice",
+  "releaseDate": "2023/07/12",
+  "label": "hachama",
+  "images": [
+    "/images/04879dcc098d4ec42ce5a9bc7d6ec56363fa367a.jpg",
+    "/images/cd9be6bba470d715b0686374e5090831eb41e5b7.jpg",
+    "/images/525091bef5288c05f743d2d20ab12f28a8751278.jpg",
+    "/images/b21ef8ae0fad1892cffdfb0edb06a284717f06a1.jpg",
+    "/images/c043c448c775c1e2ab9736e86767061f1a6ee51c.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/04879dcc098d4ec42ce5a9bc7d6ec56363fa367a.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50766",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プライド・ブライト",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "FUNKY FLUSHIN'",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "吉田美奈子",
+                "作曲": "山下達郎",
+                "編曲": "Aksel Odenbalk"
+              }
+            },
+            {
+              "index": 3,
+              "title": "プライド・ブライト(Instrumental)",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 4,
+              "title": "FUNKY FLUSHIN'(Instrumental)",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "吉田美奈子",
+                "作曲": "山下達郎",
+                "編曲": "Aksel Odenbalk"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/cd9be6bba470d715b0686374e5090831eb41e5b7.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKCN-50768",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プライド・ブライト(Music Video)",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい"
+              }
+            },
+            {
+              "index": 2,
+              "title": "プライド・ブライト(Dance Shot Ver.)",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい"
+              }
+            },
+            {
+              "index": 3,
+              "title": "プライド・ブライト(メイキング映像)",
+              "duration": "15:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/images/525091bef5288c05f743d2d20ab12f28a8751278.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50770",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プライド・ブライト",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "FUNKY FLUSHIN'",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "吉田美奈子",
+                "作曲": "山下達郎",
+                "編曲": "Aksel Odenbalk"
+              }
+            },
+            {
+              "index": 3,
+              "title": "プライド・ブライト(Instrumental)",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 4,
+              "title": "FUNKY FLUSHIN'(Instrumental)",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "吉田美奈子",
+                "作曲": "山下達郎",
+                "編曲": "Aksel Odenbalk"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/b21ef8ae0fad1892cffdfb0edb06a284717f06a1.jpg",
+      "price": "￥1,200 (税抜価格 ￥1,091)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKCN-50772",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "FUNKY FLUSHIN'(Music Video)",
+              "duration": "04:44",
+              "credits": {
+                "作詞": "吉田美奈子",
+                "作曲": "山下達郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "FUNKY FLUSHIN'(Dance Shot Ver.)",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "吉田美奈子",
+                "作曲": "山下達郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "FUNKY FLUSHIN'(メイキング映像)",
+              "duration": "13:21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/c043c448c775c1e2ab9736e86767061f1a6ee51c.jpg",
+      "price": "￥1,200 (税抜価格 ￥1,091)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50773",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プライド・ブライト",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "FUNKY FLUSHIN'",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "吉田美奈子",
+                "作曲": "山下達郎",
+                "編曲": "Aksel Odenbalk"
+              }
+            },
+            {
+              "index": 3,
+              "title": "プライド・ブライト(Instrumental)",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 4,
+              "title": "FUNKY FLUSHIN'(Instrumental)",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "吉田美奈子",
+                "作曲": "山下達郎",
+                "編曲": "Aksel Odenbalk"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

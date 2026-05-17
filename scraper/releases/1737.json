@@ -1,0 +1,133 @@
+{
+  "id": 1737,
+  "url": "/release/1737/",
+  "title": "PARTY TIME/わたしのたまご",
+  "category": "CDシングル",
+  "artist": "ガーディアンズ４",
+  "releaseDate": "2009.11.18",
+  "label": "ポニーキャニオン",
+  "images": [
+    "/upload/images/6e05109b253bf381665d177394787592d6177c09.webp",
+    "/upload/images/f0f9635723611b8579b3c04c264055fcb0a3e45e.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回限定盤】",
+      "image": "/upload/images/6e05109b253bf381665d177394787592d6177c09.webp",
+      "price": "定価 ￥1,650（税抜価格 ￥1,500）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "PARTY TIME",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "日比野裕史",
+                "編曲": "日比野裕史",
+                "歌": "ガーディアンズ4"
+              }
+            },
+            {
+              "index": 2,
+              "title": "わたしのたまご",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "木之下慶行",
+                "編曲": "木之下慶行",
+                "歌": "ガーディアンズ4"
+              }
+            },
+            {
+              "index": 3,
+              "title": "PARTY TIME",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "日比野裕史",
+                "編曲": "日比野裕史",
+                "歌": "ガーディアンズ4"
+              }
+            },
+            {
+              "index": 4,
+              "title": "わたしのたまご",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "木之下慶行",
+                "編曲": "木之下慶行",
+                "歌": "ガーディアンズ4"
+              }
+            }
+          ],
+          "catalogNo": "PCCA-03046"
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/f0f9635723611b8579b3c04c264055fcb0a3e45e.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "PARTY TIME",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "日比野裕史",
+                "編曲": "日比野裕史",
+                "歌": "ガーディアンズ4"
+              }
+            },
+            {
+              "index": 2,
+              "title": "わたしのたまご",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "木之下慶行",
+                "編曲": "木之下慶行",
+                "歌": "ガーディアンズ4"
+              }
+            },
+            {
+              "index": 3,
+              "title": "PARTY TIME",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "日比野裕史",
+                "編曲": "日比野裕史",
+                "歌": "ガーディアンズ4"
+              }
+            },
+            {
+              "index": 4,
+              "title": "わたしのたまご",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "木之下慶行",
+                "編曲": "木之下慶行",
+                "歌": "ガーディアンズ4"
+              }
+            }
+          ],
+          "catalogNo": "PCCA-70261"
+        }
+      ]
+    }
+  ]
+}

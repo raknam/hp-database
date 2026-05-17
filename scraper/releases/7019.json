@@ -1,0 +1,38 @@
+{
+  "id": 7019,
+  "url": "/release/7019/",
+  "title": "プライド・ブライト",
+  "category": "配信",
+  "artist": "Juice=Juice",
+  "releaseDate": "2023.6.29",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/dce5b034d15353333a51e34f3d9dcbfedeef1479.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プライド・ブライト",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1520"
+        }
+      ]
+    }
+  ]
+}

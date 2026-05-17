@@ -1,0 +1,126 @@
+{
+  "id": 2571,
+  "url": "/release/2571/",
+  "title": "LU LU LU",
+  "category": "CDシングル",
+  "artist": "GAM",
+  "releaseDate": "2007.3.21",
+  "label": "hachama",
+  "images": [
+    "/upload/images/f3cfe1d48335c89dded68b622426e21517f754cf.webp",
+    "/upload/images/a6641d9e26bbf329e0ccc57a1082210bb6a5e168.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/upload/images/f3cfe1d48335c89dded68b622426e21517f754cf.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "LU LU LU",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "GAM"
+              }
+            },
+            {
+              "index": 2,
+              "title": "FAMILY",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一",
+                "歌": "GAM"
+              }
+            },
+            {
+              "index": 3,
+              "title": "LU LU LU",
+              "duration": "04:39",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "GAM"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50046"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "LU LU LU",
+              "duration": "04:57",
+              "suffix": "(Close-up Ver.\"White\")",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "GAM"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付き"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/a6641d9e26bbf329e0ccc57a1082210bb6a5e168.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "LU LU LU",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "GAM"
+              }
+            },
+            {
+              "index": 2,
+              "title": "FAMILY",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一",
+                "歌": "GAM"
+              }
+            },
+            {
+              "index": 3,
+              "title": "LU LU LU",
+              "duration": "04:39",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "GAM"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50048"
+        }
+      ]
+    }
+  ]
+}

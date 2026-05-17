@@ -1,0 +1,489 @@
+{
+  "code": "EPBE-5531",
+  "url": "/release/detail/EPBE-5531/",
+  "source": "upfront",
+  "title": "Hello! Project ひなフェス 2016 ＜℃-ute プレミアム＞",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2016/07/13",
+  "label": "zetima",
+  "images": [
+    "/images/3da7726364322ef367964cacb15c7aa16173e243.jpg"
+  ],
+  "editions": [
+    {
+      "name": "＜Disc1＞℃-ute プレミアム",
+      "image": "/images/3da7726364322ef367964cacb15c7aa16173e243.jpg",
+      "price": "￥6,600 (税抜価格 ￥6,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5531",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:25"
+            },
+            {
+              "index": 2,
+              "title": "人生はSTEP!",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "石井浩平"
+              }
+            },
+            {
+              "index": 3,
+              "title": "MC",
+              "duration": "03:14"
+            },
+            {
+              "index": 4,
+              "title": "The Middle Management〜女性中間管理職〜",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "DANIEL MERLOT / AURELIEN POUDAT / HYON D / TAKANORI TSUNODA / STEFAN BROADLEY"
+              }
+            },
+            {
+              "index": 5,
+              "title": "嵐を起こすんだ Exciting Fight！",
+              "duration": "03:04",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "MC",
+              "duration": "01:24"
+            },
+            {
+              "index": 7,
+              "title": "おへその国からこんにちは",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 8,
+              "title": "キャベツ白書〜春編〜",
+              "duration": "05:33",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "角田崇徳"
+              }
+            },
+            {
+              "index": 9,
+              "title": "MC",
+              "duration": "01:19"
+            },
+            {
+              "index": 10,
+              "title": "気高く咲き誇れ！",
+              "duration": "03:17",
+              "credits": {
+                "作詞": "児玉雨子/Rap詞:角田崇徳",
+                "作曲": "Jean Luc Ponpon"
+              }
+            },
+            {
+              "index": 11,
+              "title": "Tokyoという片隅",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 12,
+              "title": "MC",
+              "duration": "01:16"
+            },
+            {
+              "index": 13,
+              "title": "HOW DO YOU LIKE JAPAN？〜日本はどんな感じでっか？〜",
+              "duration": "02:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 14,
+              "title": "恋泥棒",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "村カワ基成"
+              }
+            },
+            {
+              "index": 15,
+              "title": "MC",
+              "duration": "02:24"
+            },
+            {
+              "index": 16,
+              "title": "ランラルン〜あなたに夢中〜",
+              "duration": "02:58",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "Kern Jerome(PD)"
+              }
+            },
+            {
+              "index": 17,
+              "title": "大人の事情",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 18,
+              "title": "MC",
+              "duration": "01:32"
+            },
+            {
+              "index": 19,
+              "title": "Next is you!",
+              "duration": "02:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 20,
+              "title": "次々続々",
+              "duration": "05:21",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 21,
+              "title": "MC",
+              "duration": "02:00"
+            },
+            {
+              "index": 22,
+              "title": "ドンデンガエシ",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "宇宙慧"
+              }
+            },
+            {
+              "index": 23,
+              "title": "MC",
+              "duration": "00:47"
+            },
+            {
+              "index": 24,
+              "title": "One･Two･Three(updated)",
+              "duration": "05:05",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 25,
+              "title": "チョット愚直に！猪突猛進",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一"
+              }
+            },
+            {
+              "index": 26,
+              "title": "MC",
+              "duration": "01:23"
+            },
+            {
+              "index": 27,
+              "title": "桜ナイトフィーバー",
+              "duration": "05:07",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN"
+              }
+            },
+            {
+              "index": 28,
+              "title": "Take off is now!",
+              "duration": "02:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 29,
+              "title": "BE ALL RIGHT!",
+              "duration": "02:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 30,
+              "title": "MC",
+              "duration": "03:36"
+            },
+            {
+              "index": 31,
+              "title": "即 抱きしめて",
+              "duration": "02:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 32,
+              "title": "都会っ子 純情",
+              "duration": "03:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 33,
+              "title": "Bye Bye Bye!",
+              "duration": "02:45",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 34,
+              "title": "THE FUTURE",
+              "duration": "02:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 35,
+              "title": "MC",
+              "duration": "01:14"
+            },
+            {
+              "index": 36,
+              "title": "情熱エクスタシー",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "中村佳紀",
+                "作曲": "中村佳紀"
+              }
+            },
+            {
+              "index": 37,
+              "title": "Kiss me 愛してる",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 38,
+              "title": "ひとり占めしたかっただけなのに",
+              "duration": "05:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 39,
+              "title": "Danceでバコーン！",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 40,
+              "title": "JUMP",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 41,
+              "title": "MC",
+              "duration": "01:35"
+            },
+            {
+              "index": 42,
+              "title": "桜チラリ",
+              "duration": "05:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "＜Disc2＞アンジュルム+こぶしファクトリー プレミアム",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5532",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "桜→入学式",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "会えない長い日曜日",
+              "duration": "02:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ドスコイ！ケンキョにダイタン",
+              "duration": "02:53",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ラーメン大好き小泉さんの唄",
+              "duration": "03:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "シャ乱Q"
+              }
+            },
+            {
+              "index": 5,
+              "title": "押忍！こぶし魂",
+              "duration": "03:24",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "恋の呪縛",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 7,
+              "title": "一丁目ロック！",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 8,
+              "title": "スキちゃん",
+              "duration": "02:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 9,
+              "title": "七転び八起き",
+              "duration": "02:54",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 10,
+              "title": "恋ならとっくに始まってる",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 11,
+              "title": "臥薪嘗胆",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "gridoor",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 12,
+              "title": "出すぎた杭は打たれない",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "魚住有希"
+              }
+            },
+            {
+              "index": 13,
+              "title": "私、ちょいとカワイイ裏番長",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 14,
+              "title": "念には念(念入り Ver.)〜大器晩成",
+              "duration": "04:59"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

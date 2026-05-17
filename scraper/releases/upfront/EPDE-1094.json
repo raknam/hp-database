@@ -1,0 +1,68 @@
+{
+  "code": "EPDE-1094",
+  "url": "/release/detail/EPDE-1094/",
+  "source": "upfront",
+  "title": "人生半分",
+  "category": "CDシングル",
+  "artist": "杉田二郎",
+  "releaseDate": "2001/09/05",
+  "label": "zetima",
+  "images": [
+    "/images/3f900eb29e35a3faf02ae22b13292e9ff8559034.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/3f900eb29e35a3faf02ae22b13292e9ff8559034.jpg",
+      "price": "￥1,175 (税抜価格 ￥1,068)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1094",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "人生半分",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "杉本真人",
+                "編曲": "塩入俊哉"
+              }
+            },
+            {
+              "index": 2,
+              "title": "島",
+              "duration": "05:33",
+              "credits": {
+                "作詞": "杉田二郎/国広正夫",
+                "作曲": "杉田二郎",
+                "編曲": "塩入俊哉"
+              }
+            },
+            {
+              "index": 3,
+              "title": "人生半分(オリジナル・カラオケ)",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "杉本真人",
+                "編曲": "塩入俊哉"
+              }
+            },
+            {
+              "index": 4,
+              "title": "島(オリジナル・カラオケ)",
+              "duration": "05:33",
+              "credits": {
+                "作詞": "杉田二郎/国広正夫",
+                "作曲": "杉田二郎",
+                "編曲": "塩入俊哉"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

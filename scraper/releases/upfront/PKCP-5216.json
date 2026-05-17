@@ -1,0 +1,148 @@
+{
+  "code": "PKCP-5216",
+  "url": "/release/detail/PKCP-5216/",
+  "source": "upfront",
+  "title": "WANT！",
+  "category": "CDシングル",
+  "artist": "Berryz工房",
+  "releaseDate": "2012/12/19",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/cb889e71f1bbd2f6d361254ae204b0628cea2ee1.jpg",
+    "/images/a47a131b59dad2f1a4d5dd09207299fe5b7025f8.jpg",
+    "/images/2738b446929e0f3a74ab229001aa193f3657dca2.jpg",
+    "/images/84f11aebcee0abf8ead38bff41c20d0b9ad63fe1.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/cb889e71f1bbd2f6d361254ae204b0628cea2ee1.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5216",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "WANT！",
+              "duration": "05:05",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "勇気をください！",
+              "duration": "04:05",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "宅見将典"
+              }
+            },
+            {
+              "index": 3,
+              "title": "WANT！(Instrumenta)",
+              "duration": "05:05",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/a47a131b59dad2f1a4d5dd09207299fe5b7025f8.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKCP-5218",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "WANT！(Dance Shot Ver.)",
+              "duration": "05:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/images/2738b446929e0f3a74ab229001aa193f3657dca2.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5220",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "WANT！",
+              "duration": "05:05",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "勇気をください！",
+              "duration": "04:05",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "宅見将典"
+              }
+            },
+            {
+              "index": 3,
+              "title": "WANT！(Instrumenta)",
+              "duration": "05:05",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/84f11aebcee0abf8ead38bff41c20d0b9ad63fe1.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKCP-5221",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "WANT！(Dance Shot Ver.Ⅱ)",
+              "duration": "05:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

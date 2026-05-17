@@ -1,0 +1,51 @@
+{
+  "code": "HKBN-50150",
+  "url": "/release/detail/HKBN-50150/",
+  "source": "upfront",
+  "title": "シングルV「My Days for You」",
+  "category": "DVDシングルV",
+  "artist": "真野恵里菜",
+  "releaseDate": "2011/07/06",
+  "label": "hachama",
+  "images": [
+    "/images/aa1d511469db973ba5892d5509f9748af5b59376.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/aa1d511469db973ba5892d5509f9748af5b59376.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "HKBN-50150",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "My Days for You(Riverside Ver.)",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 2,
+              "title": "My Days for You(Bus Ver.)",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "10:54"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

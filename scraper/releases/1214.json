@@ -1,0 +1,305 @@
+{
+  "id": 1214,
+  "url": "/release/1214/",
+  "title": "有頂天LOVE",
+  "category": "CDシングル",
+  "artist": "スマイレージ",
+  "releaseDate": "2011.8.3",
+  "label": "hachama",
+  "images": [
+    "/upload/images/7661fd11184bb4151be285365737750fef421d5f.webp",
+    "/upload/images/767cb0402be47b8acfdb7129e1da0168e8bc1d42.webp",
+    "/upload/images/7b6b62b5a01fd833a80e3817ee565db042a548c4.webp",
+    "/upload/images/efdc91dc15d858ca3209000528e5bf2c108566b5.webp",
+    "/upload/images/d894a483fd0c57622ca60156fa86d5c330ff5b63.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/7661fd11184bb4151be285365737750fef421d5f.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "有頂天LOVE",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "自転車チリリン",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "藤澤慶昌",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "有頂天LOVE",
+              "duration": "04:14",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50178"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "有頂天LOVE",
+              "duration": "04:30",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/767cb0402be47b8acfdb7129e1da0168e8bc1d42.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "有頂天LOVE",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "自転車チリリン",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "藤澤慶昌",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "有頂天LOVE",
+              "duration": "04:40",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50180"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "有頂天LOVE",
+              "duration": "04:28",
+              "suffix": "(4Shot Lip Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/7b6b62b5a01fd833a80e3817ee565db042a548c4.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "有頂天LOVE",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "自転車チリリン",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "藤澤慶昌",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "有頂天LOVE",
+              "duration": "04:14",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50182"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "有頂天LOVE",
+              "duration": "04:33",
+              "suffix": "(校歌斉唱 Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤D】",
+      "image": "/upload/images/efdc91dc15d858ca3209000528e5bf2c108566b5.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "有頂天LOVE",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "自転車チリリン",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "藤澤慶昌",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "有頂天LOVE",
+              "duration": "04:14",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50184"
+        }
+      ],
+      "note": "イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/d894a483fd0c57622ca60156fa86d5c330ff5b63.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "有頂天LOVE",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "チュッ！夏パ〜ティ",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "有頂天LOVE",
+              "duration": "04:14",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50185"
+        }
+      ]
+    }
+  ]
+}

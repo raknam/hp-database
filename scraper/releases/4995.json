@@ -1,0 +1,565 @@
+{
+  "id": 4995,
+  "url": "/release/4995/",
+  "title": "セクシーキャットの演説/ムキダシで向き合って/そうじゃない",
+  "category": "CDシングル",
+  "artist": "モーニング娘。'16",
+  "releaseDate": "2016.11.23",
+  "label": "zetima",
+  "images": [
+    "/upload/images/aa3098cc2d3d82a13a431f14a74e52f4bd0217c3.webp",
+    "/upload/images/a6cebf3e003eb4d5c2cf532af81572f593d9be5e.webp",
+    "/upload/images/ffc7f8bb58b8b985378e5ceba67b7d492b7c9a24.webp",
+    "/upload/images/0e7109feaea23ac1d54bfffa0d46173b86ddb083.webp",
+    "/upload/images/1965a5abe0cee06f1d959a27238e44c378c00230.webp",
+    "/upload/images/57fff676d05e5ef238ac0c2c12049ce200affa6e.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/aa3098cc2d3d82a13a431f14a74e52f4bd0217c3.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "セクシーキャットの演説",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ムキダシで向き合って",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Jean Luc Ponpon & 星部ショウ",
+                "編曲": "Jean Luc Ponpon",
+                "歌": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 3,
+              "title": "そうじゃない",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 4,
+              "title": "セクシーキャットの演説",
+              "duration": "04:54",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ムキダシで向き合って",
+              "duration": "03:49",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Jean Luc Ponpon & 星部ショウ",
+                "編曲": "Jean Luc Ponpon",
+                "歌": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 6,
+              "title": "そうじゃない",
+              "duration": "04:42",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'16"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7259"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "セクシーキャットの演説",
+              "duration": "05:30",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'16"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/a6cebf3e003eb4d5c2cf532af81572f593d9be5e.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "セクシーキャットの演説",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ムキダシで向き合って",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Jean Luc Ponpon",
+                "編曲": "Jean Luc Ponpon",
+                "歌": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 3,
+              "title": "そうじゃない",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 4,
+              "title": "セクシーキャットの演説",
+              "duration": "04:54",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ムキダシで向き合って",
+              "duration": "03:49",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Jean Luc Ponpon & 星部ショウ",
+                "編曲": "Jean Luc Ponpon",
+                "歌": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 6,
+              "title": "そうじゃない",
+              "duration": "04:42",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'16"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7261"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ムキダシで向き合って",
+              "duration": "05:21",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Jean Luc Ponpon & 星部ショウ",
+                "出演": "モーニング娘。'16"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/ffc7f8bb58b8b985378e5ceba67b7d492b7c9a24.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "セクシーキャットの演説",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ムキダシで向き合って",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Jean Luc Ponpon & 星部ショウ",
+                "編曲": "Jean Luc Ponpon",
+                "歌": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 3,
+              "title": "そうじゃない",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 4,
+              "title": "セクシーキャットの演説",
+              "duration": "04:54",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ムキダシで向き合って",
+              "duration": "03:49",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Jean Luc Ponpon & 星部ショウ",
+                "編曲": "Jean Luc Ponpon",
+                "歌": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 6,
+              "title": "そうじゃない",
+              "duration": "04:42",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'16"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7263"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "そうじゃない",
+              "duration": "07:29",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'16"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/0e7109feaea23ac1d54bfffa0d46173b86ddb083.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "セクシーキャットの演説",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ムキダシで向き合って",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Jean Luc Ponpon & 星部ショウ",
+                "編曲": "Jean Luc Ponpon",
+                "歌": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 3,
+              "title": "そうじゃない",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 4,
+              "title": "セクシーキャットの演説",
+              "duration": "04:54",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ムキダシで向き合って",
+              "duration": "03:49",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Jean Luc Ponpon & 星部ショウ",
+                "編曲": "Jean Luc Ponpon",
+                "歌": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 6,
+              "title": "そうじゃない",
+              "duration": "04:42",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'16"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7265"
+        }
+      ],
+      "note": "トレーディングカード ソロ11種+集合1種よりランダムにて1枚封入(セクシーキャットの演説 Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/1965a5abe0cee06f1d959a27238e44c378c00230.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "セクシーキャットの演説",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ムキダシで向き合って",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Jean Luc Ponpon & 星部ショウ",
+                "編曲": "Jean Luc Ponpon",
+                "歌": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 3,
+              "title": "そうじゃない",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 4,
+              "title": "セクシーキャットの演説",
+              "duration": "04:54",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ムキダシで向き合って",
+              "duration": "03:49",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Jean Luc Ponpon & 星部ショウ",
+                "編曲": "Jean Luc Ponpon",
+                "歌": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 6,
+              "title": "そうじゃない",
+              "duration": "04:42",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'16"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7266"
+        }
+      ],
+      "note": "トレーディングカード ソロ11種+集合1種よりランダムにて1枚封入(ムキダシで向き合って Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/upload/images/57fff676d05e5ef238ac0c2c12049ce200affa6e.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "セクシーキャットの演説",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ムキダシで向き合って",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Jean Luc Ponpon & 星部ショウ",
+                "編曲": "Jean Luc Ponpon",
+                "歌": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 3,
+              "title": "そうじゃない",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 4,
+              "title": "セクシーキャットの演説",
+              "duration": "04:54",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ムキダシで向き合って",
+              "duration": "03:49",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Jean Luc Ponpon & 星部ショウ",
+                "編曲": "Jean Luc Ponpon",
+                "歌": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 6,
+              "title": "そうじゃない",
+              "duration": "04:42",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'16"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7267"
+        }
+      ],
+      "note": "トレーディングカード ソロ11種+集合1種よりランダムにて1枚封入(そうじゃない Ver.)※初回プレス分のみ"
+    }
+  ]
+}

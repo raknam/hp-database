@@ -1,0 +1,43 @@
+{
+  "id": 369,
+  "url": "/release/369/",
+  "title": "ハロプロアワー Vol.1",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2006.11.22",
+  "label": "zetima",
+  "images": [
+    "/upload/images/4e74bb6a3d75949e8e40943e92e3bcd8fd931368.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "♯1",
+              "duration": "30:32",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "♯2",
+              "duration": "32:00",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5213"
+        }
+      ]
+    }
+  ]
+}

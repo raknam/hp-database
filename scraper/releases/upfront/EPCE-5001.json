@@ -1,0 +1,117 @@
+{
+  "code": "EPCE-5001",
+  "url": "/release/detail/EPCE-5001/",
+  "source": "upfront",
+  "title": "今年の夏はモア・ベター",
+  "category": "CDアルバム",
+  "artist": "森高千里",
+  "releaseDate": "1998/05/21",
+  "label": "zetima",
+  "images": [
+    "/images/28e3528d079f3e4c637833cc4241f9acd2333f6a.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/28e3528d079f3e4c637833cc4241f9acd2333f6a.jpg",
+      "price": "￥3,204 (税抜価格 ￥2,913)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5001",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "東京ラッシュ",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "細野晴臣",
+                "作曲": "細野晴臣",
+                "編曲": "細野晴臣"
+              }
+            },
+            {
+              "index": 2,
+              "title": "夏の海",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "高橋諭一",
+                "編曲": "細野晴臣"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Hey!犬",
+              "duration": "03:24",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "細野晴臣",
+                "編曲": "細野晴臣"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ア・ビアント",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "コシミハル",
+                "編曲": "細野晴臣/コシミハル"
+              }
+            },
+            {
+              "index": 5,
+              "title": "風来坊",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "細野晴臣",
+                "作曲": "細野晴臣",
+                "編曲": "細野晴臣"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ビーチ・パーティー",
+              "duration": "03:19",
+              "credits": {
+                "作曲": "細野晴臣",
+                "編曲": "細野晴臣"
+              }
+            },
+            {
+              "index": 7,
+              "title": "カリプソの娘",
+              "duration": "03:41",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "細野晴臣",
+                "編曲": "細野晴臣"
+              }
+            },
+            {
+              "index": 8,
+              "title": "ミラクルライト(Twist Version)",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "細野晴臣",
+                "編曲": "細野晴臣"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ミラクルウーマン(Vinyl Version)",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "細野晴臣",
+                "編曲": "細野晴臣"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

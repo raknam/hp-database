@@ -1,0 +1,48 @@
+{
+  "code": "UFCW-1122",
+  "url": "/release/detail/UFCW-1122/",
+  "source": "upfront",
+  "title": "ふるさとの夢",
+  "category": "CDシングル",
+  "artist": "かみいしなか かな",
+  "releaseDate": "2018/03/28",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/48b0300074da361f803c0f71ba227f89bd64abb6.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/48b0300074da361f803c0f71ba227f89bd64abb6.jpg",
+      "price": "￥815 (税抜価格 ￥741)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "UFCW-1122",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ふるさとの夢",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "角田崇徳",
+                "編曲": "上杉洋史"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ふるさとの夢(Instrumental)",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "角田崇徳",
+                "編曲": "上杉洋史"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

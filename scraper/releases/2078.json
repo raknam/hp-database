@@ -1,0 +1,72 @@
+{
+  "id": 2078,
+  "url": "/release/2078/",
+  "title": "ハロプロ！TIME Vol.15",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012.8.9",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/58ff539da15a05d0b3b141f94628a0ef10de4090.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "岡井TIME",
+              "duration": "26:04",
+              "suffix": "サプライズ企画！℃-uteメンバーの誕生日パーティ①",
+              "credits": {
+                "出演": "矢島舞美・中島早貴・岡井千聖・萩原舞(℃-ute)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "岡井TIME",
+              "duration": "25:17",
+              "suffix": "サプライズ企画！℃-uteメンバーの誕生日パーティ②",
+              "credits": {
+                "出演": "矢島舞美・中島早貴・岡井千聖・萩原舞(℃-ute)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "中島TIME",
+              "duration": "03:48",
+              "suffix": "「君は自転車 私は電車で帰宅」のMV撮影現場でメンバー撮り",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "岡井TIME",
+              "duration": "06:06",
+              "suffix": "「君は自転車 私は電車で帰宅」特別企画 自転車スピード対決！",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "岡井TIME",
+              "duration": "08:46",
+              "suffix": "アルバム『第七章「美しくってごめんね」』ジャケット撮影現場の未公開映像",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1184"
+        }
+      ]
+    }
+  ]
+}

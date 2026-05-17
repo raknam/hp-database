@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5096",
+  "url": "/release/detail/EPCE-5096/",
+  "source": "upfront",
+  "title": "ドッキドキ！LOVEメール",
+  "category": "CDシングル",
+  "artist": "松浦亜弥",
+  "releaseDate": "2001/04/11",
+  "label": "zetima",
+  "images": [
+    "/images/c71de5430e61a74363d382d4de545079ceb2a684.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/c71de5430e61a74363d382d4de545079ceb2a684.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5096",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ドッキドキ！LOVEメール",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "待ち合わせ",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ドッキドキ！LOVEメール(Instrumental)",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

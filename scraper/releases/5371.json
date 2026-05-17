@@ -1,0 +1,62 @@
+{
+  "id": 5371,
+  "url": "/release/5371/",
+  "title": "Fiesta! Fiesta!",
+  "category": "配信シングル",
+  "artist": "Juice=Juice",
+  "releaseDate": "2017.8.23",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/8810dfc87fe206f2223d4eef4c4dbfc8074e234f.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Fiesta! Fiesta!",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "エリック・フクサキ",
+                "編曲": "大久保薫",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Wonderful World",
+              "duration": "04:14",
+              "suffix": "(English Ver.)",
+              "credits": {
+                "作詞": "イイジマケン/英語詞:鈴木桃子",
+                "作曲": "イイジマケン",
+                "編曲": "gaokalab",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Fiesta! Fiesta!",
+              "duration": "04:22",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "エリック・フクサキ",
+                "編曲": "大久保薫",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1353"
+        }
+      ]
+    }
+  ]
+}

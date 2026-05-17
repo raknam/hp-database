@@ -1,0 +1,63 @@
+{
+  "code": "UFXW-2003",
+  "url": "/release/detail/UFXW-2003/",
+  "source": "upfront",
+  "title": "Greeting 〜野中美希〜",
+  "category": "BD",
+  "artist": "野中美希",
+  "releaseDate": "2015/06/12",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/5c6627011c079a9c496776b7a2e246571b2367b9.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/5c6627011c079a9c496776b7a2e246571b2367b9.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "UFXW-2003",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Tokyo Boy",
+              "duration": "08:16"
+            },
+            {
+              "index": 2,
+              "title": "Casual Steps",
+              "duration": "07:12"
+            },
+            {
+              "index": 3,
+              "title": "Greeting to you",
+              "duration": "10:44"
+            },
+            {
+              "index": 4,
+              "title": "Miki plays piano",
+              "duration": "07:52"
+            },
+            {
+              "index": 5,
+              "title": "American Student",
+              "duration": "12:18"
+            },
+            {
+              "index": 6,
+              "title": "Making",
+              "duration": "06:35"
+            },
+            {
+              "index": 7,
+              "title": "Ending",
+              "duration": "01:35"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

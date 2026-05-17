@@ -1,0 +1,48 @@
+{
+  "code": "UFBW-1053",
+  "url": "/release/detail/UFBW-1053/",
+  "source": "upfront",
+  "title": "SAKI Saki Shimizu 1st DVD",
+  "category": "DVD",
+  "artist": "清水佐紀",
+  "releaseDate": "2011/01/11",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/a3b566055113abbdc806ca974941b41e43ee2dc0.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/a3b566055113abbdc806ca974941b41e43ee2dc0.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1053",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Image movie 1",
+              "duration": "19:01"
+            },
+            {
+              "index": 2,
+              "title": "Interview",
+              "duration": "18:27"
+            },
+            {
+              "index": 3,
+              "title": "Image movie 2",
+              "duration": "12:06"
+            },
+            {
+              "index": 4,
+              "title": "Ending",
+              "duration": "00:50"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

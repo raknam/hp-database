@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1456",
+  "url": "/release/detail/UFDL-1456/",
+  "source": "upfront",
+  "title": "BABY！WE CAN DO IT！",
+  "category": "配信",
+  "artist": "鈴木愛理",
+  "releaseDate": "2020/04/28",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/a7f864db09dbbf9851837d8803c57b81024933ec.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/a7f864db09dbbf9851837d8803c57b81024933ec.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1456",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "BABY！WE CAN DO IT！",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

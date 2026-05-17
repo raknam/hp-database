@@ -1,0 +1,67 @@
+{
+  "id": 2423,
+  "url": "/release/2423/",
+  "title": "again",
+  "category": "DVD",
+  "artist": "萩原舞",
+  "releaseDate": "2014.9.6",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/af76ca3723391187a6a6d8e1dc9d7053869c5775.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Once..",
+              "duration": "10:40",
+              "credits": {
+                "出演": "萩原舞"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Smile..",
+              "duration": "09:10",
+              "credits": {
+                "出演": "萩原舞"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Secret..",
+              "duration": "15:55",
+              "credits": {
+                "出演": "萩原舞"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Summer..",
+              "duration": "13:04",
+              "credits": {
+                "出演": "萩原舞"
+              }
+            },
+            {
+              "index": 5,
+              "title": "See you..",
+              "duration": "01:11",
+              "credits": {
+                "出演": "萩原舞"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-2106"
+        }
+      ]
+    }
+  ]
+}

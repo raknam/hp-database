@@ -1,0 +1,53 @@
+{
+  "code": "EPBE-5203",
+  "url": "/release/detail/EPBE-5203/",
+  "source": "upfront",
+  "title": "娘DOKYU！ Vol.4",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2006/07/26",
+  "label": "zetima",
+  "images": [
+    "/images/87ab880119e63d392062ae5d788acc92664ff927.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/87ab880119e63d392062ae5d788acc92664ff927.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5203",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "久住小春",
+              "duration": "16:44"
+            },
+            {
+              "index": 2,
+              "title": "藤本美貴",
+              "duration": "24:04"
+            },
+            {
+              "index": 3,
+              "title": "田中れいな",
+              "duration": "16:07"
+            },
+            {
+              "index": 4,
+              "title": "小川麻琴",
+              "duration": "18:15"
+            },
+            {
+              "index": 5,
+              "title": "吉澤ひとみ",
+              "duration": "20:23"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

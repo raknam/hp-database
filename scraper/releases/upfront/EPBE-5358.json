@@ -1,0 +1,78 @@
+{
+  "code": "EPBE-5358",
+  "url": "/release/detail/EPBE-5358/",
+  "source": "upfront",
+  "title": "アロハロ！℃-ute DVD",
+  "category": "DVD",
+  "artist": "℃-ute",
+  "releaseDate": "2009/10/28",
+  "label": "zetima",
+  "images": [
+    "/images/fd66866d927398ead78d5f54c686fed0f5f68075.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/fd66866d927398ead78d5f54c686fed0f5f68075.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5358",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OP〜ウォーターパークで遊ぼう",
+              "duration": "05:34"
+            },
+            {
+              "index": 2,
+              "title": "マリンスポーツに挑戦・バナナボート対決",
+              "duration": "08:09"
+            },
+            {
+              "index": 3,
+              "title": "ハワイでランチ",
+              "duration": "13:17"
+            },
+            {
+              "index": 4,
+              "title": "ガチンコ！！プールで三番勝負！！！",
+              "duration": "17:37"
+            },
+            {
+              "index": 5,
+              "title": "ばらまきクイズ",
+              "duration": "10:56"
+            },
+            {
+              "index": 6,
+              "title": "プールで遊ぼう",
+              "duration": "06:16"
+            },
+            {
+              "index": 7,
+              "title": "ひとりでお買い物・ショッピング対決",
+              "duration": "16:00"
+            },
+            {
+              "index": 8,
+              "title": "エンドトーク",
+              "duration": "07:46"
+            },
+            {
+              "index": 9,
+              "title": "寝起きドッキリ",
+              "duration": "05:27"
+            },
+            {
+              "index": 10,
+              "title": "メイキング映像",
+              "duration": "07:19"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

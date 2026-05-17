@@ -1,0 +1,70 @@
+{
+  "id": 2108,
+  "url": "/release/2108/",
+  "title": "ほたる祭りの日",
+  "category": "DVD",
+  "artist": "ジュリン",
+  "releaseDate": "2013.9.4",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/7baaa431ee9888c80a74b2dbafcf4748d7e00a78.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ほたる祭りの日",
+              "duration": "04:52",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "角田崇徳",
+                "出演": "ジュリン"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ほたる祭りの日",
+              "duration": "04:41",
+              "suffix": "(木の下 Ver.)",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "角田崇徳",
+                "出演": "ジュリン"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ほたる祭りの日",
+              "duration": "04:53",
+              "suffix": "(カラオケ Ver.)",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "角田崇徳",
+                "出演": "ジュリン"
+              }
+            },
+            {
+              "index": 4,
+              "title": "メイキング映像",
+              "duration": "11:00",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "角田崇徳",
+                "出演": "ジュリン"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1275"
+        }
+      ]
+    }
+  ]
+}

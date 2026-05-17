@@ -1,0 +1,38 @@
+{
+  "id": 6253,
+  "url": "/release/6253/",
+  "title": "黄色い線の内側で並んでお待ちください",
+  "category": "配信",
+  "artist": "金澤朋子",
+  "releaseDate": "2020.1.28",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/f16f4c00fe5fbe30097c1d7fd945b097f7985764.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "黄色い線の内側で並んでお待ちください",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "SHiLL",
+                "作曲": "馬飼野康二/鎌田俊哉",
+                "編曲": "宮永治郎",
+                "歌": "金澤朋子(Juice=Juice)"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1446"
+        }
+      ]
+    }
+  ]
+}

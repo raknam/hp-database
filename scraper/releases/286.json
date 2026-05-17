@@ -1,0 +1,35 @@
+{
+  "id": 286,
+  "url": "/release/286/",
+  "title": "モーニング娘。in ピンチランナー",
+  "category": "DVD",
+  "artist": "モーニング娘。",
+  "releaseDate": "2000.10.21",
+  "label": "東映ビデオ",
+  "images": [
+    "/upload/images/9cbb3de9c4fcc6aa5495305f415a9a78875b9ce8.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "モーニング娘。in ピンチランナー",
+              "duration": "00:00",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "DSTD-2005"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "code": "EPBE-5488",
+  "url": "/release/detail/EPBE-5488/",
+  "source": "upfront",
+  "title": "颯夏 ‐souka‐",
+  "category": "DVD",
+  "artist": "石田亜佑美",
+  "releaseDate": "2014/07/02",
+  "label": "zetima",
+  "images": [
+    "/images/3ed78ab8a7ad550b79133caff853a505a19b64b1.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/3ed78ab8a7ad550b79133caff853a505a19b64b1.jpg",
+      "price": "￥4,400 (税抜価格 ￥4,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5488",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "THE OPENING",
+              "duration": "00:21"
+            },
+            {
+              "index": 2,
+              "title": "THE LODGE",
+              "duration": "06:52"
+            },
+            {
+              "index": 3,
+              "title": "THE BEACH",
+              "duration": "14:13"
+            },
+            {
+              "index": 4,
+              "title": "THE SUNSET",
+              "duration": "13:47"
+            },
+            {
+              "index": 5,
+              "title": "THE MAKING OF 『shine more』",
+              "duration": "16:48"
+            },
+            {
+              "index": 6,
+              "title": "THE ENDING",
+              "duration": "02:30"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

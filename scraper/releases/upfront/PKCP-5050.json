@@ -1,0 +1,58 @@
+{
+  "code": "PKCP-5050",
+  "url": "/release/detail/PKCP-5050/",
+  "source": "upfront",
+  "title": "カッチョイイゼ！JAPAN",
+  "category": "CDシングル",
+  "artist": "美勇伝",
+  "releaseDate": "2005/03/02",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/6a4f69310bd5aaeab1405faad9f877853ed195f1.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/6a4f69310bd5aaeab1405faad9f877853ed195f1.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5050",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "カッチョイイゼ！JAPAN",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "美～Hit Parade～",
+              "duration": "03:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "カッチョイイゼ！JAPAN(Instrumental)",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

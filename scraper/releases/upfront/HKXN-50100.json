@@ -1,0 +1,696 @@
+{
+  "code": "HKXN-50100",
+  "url": "/release/detail/HKXN-50100/",
+  "source": "upfront",
+  "title": "Hello! Project 2021 Winter ～STEP BY STEP～",
+  "category": "BD",
+  "artist": "V.A.",
+  "releaseDate": "2021/07/28",
+  "label": "hachama",
+  "images": [
+    "/images/c4bb6de65a6cf727531111c7faeb09741b4afe4c.jpg"
+  ],
+  "editions": [
+    {
+      "name": "＜Disc1＞ユニット②/ユニット④/ハロプロ研修生ユニット",
+      "image": "/images/c4bb6de65a6cf727531111c7faeb09741b4afe4c.jpg",
+      "price": "￥9,900 (税抜価格 ￥9,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKXN-50100",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:45"
+            },
+            {
+              "index": 2,
+              "title": "YEAH YEAH YEAH",
+              "duration": "05:05",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "MC",
+              "duration": "01:29"
+            },
+            {
+              "index": 4,
+              "title": "スキちゃん",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "恋愛奉行",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "46億年LOVE",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "林田健司"
+              }
+            },
+            {
+              "index": 7,
+              "title": "胸さわぎスカーレット",
+              "duration": "02:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 8,
+              "title": "言えずのI Love You",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ソラシド～ねえねえ～",
+              "duration": "03:18",
+              "credits": {
+                "作詞": "津野米咲",
+                "作曲": "津野米咲"
+              }
+            },
+            {
+              "index": 10,
+              "title": "君だけじゃないさ...friends(2018アコースティックVer.)",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 11,
+              "title": "MC",
+              "duration": "01:39"
+            },
+            {
+              "index": 12,
+              "title": "雪のプラネタリウム",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "KOUGA"
+              }
+            },
+            {
+              "index": 13,
+              "title": "フラリ銀座",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 14,
+              "title": "Kiss me 愛してる",
+              "duration": "03:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 15,
+              "title": "雨",
+              "duration": "03:17",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "松浦誠二"
+              }
+            },
+            {
+              "index": 16,
+              "title": "Memory 青春の光",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 17,
+              "title": "続いていくSTORY",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "近藤薫",
+                "作曲": "近藤薫"
+              }
+            },
+            {
+              "index": 18,
+              "title": "MC",
+              "duration": "01:53"
+            },
+            {
+              "index": 19,
+              "title": "泣いていいよ",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "中村瑛彦"
+              }
+            },
+            {
+              "index": 20,
+              "title": "都営大江戸線の六本木駅で抱きしめて",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 21,
+              "title": "低温火傷",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大橋莉子"
+              }
+            },
+            {
+              "index": 22,
+              "title": "限りあるMoment",
+              "duration": "04:47",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "オオヤギヒロオ"
+              }
+            },
+            {
+              "index": 23,
+              "title": "ジェラシー ジェラシー",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：U.M.E.D.Y.",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 24,
+              "title": "雨の降らない星では愛せないだろう？",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "つんく/中文詞 : 鄭昭仁",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 25,
+              "title": "MC",
+              "duration": "00:44"
+            },
+            {
+              "index": 26,
+              "title": "笑顔に涙～THANK YOU! DEAR MY FRIENDS～",
+              "duration": "05:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "＜Disc2＞ユニット③/ユニット⑥/ハロプロ研修生ユニット",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKXN-50101",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:45"
+            },
+            {
+              "index": 2,
+              "title": "YEAH YEAH YEAH",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "MC",
+              "duration": "01:46"
+            },
+            {
+              "index": 4,
+              "title": "悪いヒト",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "大橋莉子",
+                "作曲": "大橋莉子"
+              }
+            },
+            {
+              "index": 5,
+              "title": "そこらのやつとは同じにされたくない",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "大森靖子"
+              }
+            },
+            {
+              "index": 6,
+              "title": "がんばれないよ",
+              "duration": "04:47",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA"
+              }
+            },
+            {
+              "index": 7,
+              "title": "たんぽぽ",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 8,
+              "title": "シングルベッド",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 9,
+              "title": "悲しきヘブン",
+              "duration": "02:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 10,
+              "title": "ナミダイロノケツイ",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "近藤薫",
+                "作曲": "近藤薫"
+              }
+            },
+            {
+              "index": 11,
+              "title": "MC",
+              "duration": "04:21"
+            },
+            {
+              "index": 12,
+              "title": "意識高い乙女のジレンマ",
+              "duration": "04:05",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "KOUGA"
+              }
+            },
+            {
+              "index": 13,
+              "title": "青春Night",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 14,
+              "title": "C＼C(シンデレラ＼コンプレックス)",
+              "duration": "02:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 15,
+              "title": "渡良瀬橋",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "斉藤英夫"
+              }
+            },
+            {
+              "index": 16,
+              "title": "モーニングコーヒー",
+              "duration": "03:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 17,
+              "title": "I Need You ～夜空の観覧車～",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 18,
+              "title": "MC",
+              "duration": "02:47"
+            },
+            {
+              "index": 19,
+              "title": "VERY BEAUTY",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 20,
+              "title": "文化祭実行委員長の恋",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 21,
+              "title": "三回目のデート神話",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 22,
+              "title": "Va-Va-Voom",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/Josef Melin"
+              }
+            },
+            {
+              "index": 23,
+              "title": "泡沫サタデーナイト！",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "津野米咲",
+                "作曲": "津野米咲"
+              }
+            },
+            {
+              "index": 24,
+              "title": "歩いてる",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 25,
+              "title": "MC",
+              "duration": "00:42"
+            },
+            {
+              "index": 26,
+              "title": "笑顔に涙～THANK YOU! DEAR MY FRIENDS～",
+              "duration": "05:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "＜Disc3＞ユニット①/ユニット⑤/ハロプロ研修生ユニット",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKXN-50102",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:45"
+            },
+            {
+              "index": 2,
+              "title": "YEAH YEAH YEAH",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "MC",
+              "duration": "01:40"
+            },
+            {
+              "index": 4,
+              "title": "ミステイク",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 5,
+              "title": "DOWN TOWN",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "伊藤銀次",
+                "作曲": "山下達郎"
+              }
+            },
+            {
+              "index": 6,
+              "title": "私を創るのは私",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "KOUGA"
+              }
+            },
+            {
+              "index": 7,
+              "title": "友達は友達なんだ！",
+              "duration": "02:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 8,
+              "title": "誰より好きなのに",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "古内東子",
+                "作曲": "古内東子"
+              }
+            },
+            {
+              "index": 9,
+              "title": "宇宙でLa Ta Ta",
+              "duration": "03:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 10,
+              "title": "寒いね。",
+              "duration": "03:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 11,
+              "title": "MC",
+              "duration": "02:52"
+            },
+            {
+              "index": 12,
+              "title": "高輪ゲートウェイ駅ができる頃には",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 13,
+              "title": "I surrender 愛されど愛",
+              "duration": "03:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 14,
+              "title": "○○ がんばらなくてもええねんで！！",
+              "duration": "02:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 15,
+              "title": "今夜だけきっと",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "根本要/手島昭",
+                "作曲": "根本要"
+              }
+            },
+            {
+              "index": 16,
+              "title": "香水",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 17,
+              "title": "冷たい風と片思い(TYPE B)",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 18,
+              "title": "MC",
+              "duration": "01:59"
+            },
+            {
+              "index": 19,
+              "title": "ふわり、恋時計",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 20,
+              "title": "三年バンジージャンプ",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 21,
+              "title": "Borderline",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 22,
+              "title": "ミラー・ミラー",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/Anders Dannvik/Kalle Persson"
+              }
+            },
+            {
+              "index": 23,
+              "title": "LOVEペディア",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ"
+              }
+            },
+            {
+              "index": 24,
+              "title": "ありがとう～無限のエール～",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "KOJI oba"
+              }
+            },
+            {
+              "index": 25,
+              "title": "MC",
+              "duration": "00:46"
+            },
+            {
+              "index": 26,
+              "title": "笑顔に涙～THANK YOU! DEAR MY FRIENDS～",
+              "duration": "05:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

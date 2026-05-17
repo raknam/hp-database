@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1372",
+  "url": "/release/detail/UFDL-1372/",
+  "source": "upfront",
+  "title": "これから飛び乗ってく未来",
+  "category": "配信",
+  "artist": "矢島舞美",
+  "releaseDate": "2017/11/17",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/bfcdf8e24c9b0dc83711d817dd9127ae08ca819f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/bfcdf8e24c9b0dc83711d817dd9127ae08ca819f.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1372",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "これから飛び乗ってく未来",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

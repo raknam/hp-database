@@ -1,0 +1,55 @@
+{
+  "code": "HKBN-50154",
+  "url": "/release/detail/HKBN-50154/",
+  "source": "upfront",
+  "title": "シングルV「タチアガール」",
+  "category": "DVDシングルV",
+  "artist": "スマイレージ",
+  "releaseDate": "2011/10/12",
+  "label": "hachama",
+  "images": [
+    "/images/c31c2fe50901b0c3ffd0333b75f003f0d21c9dbd.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/c31c2fe50901b0c3ffd0333b75f003f0d21c9dbd.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "HKBN-50154",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "タチアガール(Music Video)",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "タチアガール(Close-upVer.)",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "13:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

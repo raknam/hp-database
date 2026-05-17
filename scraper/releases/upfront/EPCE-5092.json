@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5092",
+  "url": "/release/detail/EPCE-5092/",
+  "source": "upfront",
+  "title": "悔し涙 ぽろり",
+  "category": "CDシングル",
+  "artist": "中澤裕子",
+  "releaseDate": "2001/02/15",
+  "label": "zetima",
+  "images": [
+    "/images/803c5768427eb40d927225fe0fd02ced9ff0b086.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/803c5768427eb40d927225fe0fd02ced9ff0b086.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5092",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "悔し涙 ぽろり",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋の記憶",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "中澤ゆうこ＆つんく",
+                "作曲": "つんく",
+                "編曲": "樫原伸彦"
+              }
+            },
+            {
+              "index": 3,
+              "title": "悔し涙 ぽろり(オリジナル・カラオケ)",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

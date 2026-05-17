@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1509",
+  "url": "/release/detail/UFDL-1509/",
+  "source": "upfront",
+  "title": "Sunset Summer Fever",
+  "category": "配信",
+  "artist": "L!PP (from Hello! Project Dance Team)",
+  "releaseDate": "2022/09/01",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/f88de2978feb9bdeef023c09d3facc7f25860fde.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f88de2978feb9bdeef023c09d3facc7f25860fde.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1509",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Sunset Summer Fever",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "西寺郷太",
+                "作曲": "西寺郷太/大樋祐大",
+                "編曲": "大樋祐大/小林洋介/西寺郷太"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

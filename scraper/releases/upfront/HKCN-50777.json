@@ -1,0 +1,344 @@
+{
+  "code": "HKCN-50777",
+  "url": "/release/detail/HKCN-50777/",
+  "source": "upfront",
+  "title": "バンビーナ・バンビーノ/Lonely Bus",
+  "category": "CDシングル",
+  "artist": "宮本佳林",
+  "releaseDate": "2023/11/08",
+  "label": "hachama",
+  "images": [
+    "/images/d75ad81db36e768512dd961deffaf477f099d19d.jpg",
+    "/images/0820e56396727653302e1037b026eb5ba7dea698.jpg",
+    "/images/fd36650911e2951bac9d0b43fb48f271e58178ac.jpg",
+    "/images/5009dbb1aac470ddfbe8135e066c39869c200f65.jpg",
+    "/images/22b019db1e69749a5ab6bff0bc826f1ce8a4ca63.jpg",
+    "/images/7e4c027f39751e22374231c51625afaa6d3b5d0d.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/d75ad81db36e768512dd961deffaf477f099d19d.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50777",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "バンビーナ・バンビーノ",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "渡辺和紀",
+                "編曲": "戸嶋友祐"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Lonely Bus",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "バンビーナ・バンビーノ(Instrumental)",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "渡辺和紀",
+                "編曲": "戸嶋友祐"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Lonely Bus(Instrumental)",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/0820e56396727653302e1037b026eb5ba7dea698.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKCN-50779",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "バンビーナ・バンビーノ(Music Video)",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "渡辺和紀"
+              }
+            },
+            {
+              "index": 2,
+              "title": "バンビーナ・バンビーノ(Dance Shot Ver.)",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "渡辺和紀"
+              }
+            },
+            {
+              "index": 3,
+              "title": "バンビーナ・バンビーノ(メイキング映像)",
+              "duration": "12:21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/fd36650911e2951bac9d0b43fb48f271e58178ac.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50781",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "バンビーナ・バンビーノ",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "渡辺和紀",
+                "編曲": "戸嶋友祐"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Lonely Bus",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "バンビーナ・バンビーノ(Instrumental)",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "渡辺和紀",
+                "編曲": "戸嶋友祐"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Lonely Bus(Instrumental)",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/5009dbb1aac470ddfbe8135e066c39869c200f65.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKCN-50782",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Lonely Bus(Music Video)",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Lonely Bus(Dance Shot Ver.)",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Lonely Bus(メイキング映像)",
+              "duration": "12:12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/images/22b019db1e69749a5ab6bff0bc826f1ce8a4ca63.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50783",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "バンビーナ・バンビーノ",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "渡辺和紀",
+                "編曲": "戸嶋友祐"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Lonely Bus",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "パラレルハート【Additional Track】",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "ヘリP/下野隼",
+                "作曲": "ヘリP/下野隼",
+                "編曲": "ヘリP/下野隼"
+              }
+            },
+            {
+              "index": 4,
+              "title": "バンビーナ・バンビーノ(Instrumental)",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "渡辺和紀",
+                "編曲": "戸嶋友祐"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Lonely Bus(Instrumental)",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 6,
+              "title": "パラレルハート(Instrumental)",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "ヘリP/下野隼",
+                "作曲": "ヘリP/下野隼",
+                "編曲": "ヘリP/下野隼"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤D】",
+      "image": "/images/7e4c027f39751e22374231c51625afaa6d3b5d0d.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50784",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "バンビーナ・バンビーノ",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "渡辺和紀",
+                "編曲": "戸嶋友祐"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Lonely Bus",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Beautiful Song【Additional Track】",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "YUU for YOU/Ryosuke Matsuzaki",
+                "編曲": "YUU for YOU"
+              }
+            },
+            {
+              "index": 4,
+              "title": "バンビーナ・バンビーノ(Instrumental)",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "渡辺和紀",
+                "編曲": "戸嶋友祐"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Lonely Bus(Instrumental)",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Beautiful Song(Instrumental)",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "YUU for YOU/Ryosuke Matsuzaki",
+                "編曲": "YUU for YOU"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

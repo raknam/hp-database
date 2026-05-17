@@ -1,0 +1,102 @@
+{
+  "code": "PKCP-5041",
+  "url": "/release/detail/PKCP-5041/",
+  "source": "upfront",
+  "title": "横浜蜃気楼",
+  "category": "CDシングル",
+  "artist": "後藤真希",
+  "releaseDate": "2004/07/07",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/6f3511c2d5899d79bc7f443bdb1798bc153334cd.jpg",
+    "/images/1823aea9940b16d70e629b18b2758b30c6f1f458.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回盤】",
+      "image": "/images/6f3511c2d5899d79bc7f443bdb1798bc153334cd.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5041",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "横浜蜃気楼",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "はたけ",
+                "編曲": "西田昌史"
+              }
+            },
+            {
+              "index": 2,
+              "title": "BLUE ISLAND",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "はたけ",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "横浜蜃気楼Instrumental",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "はたけ",
+                "編曲": "西田昌史"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/1823aea9940b16d70e629b18b2758b30c6f1f458.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5042",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "横浜蜃気楼",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "はたけ",
+                "編曲": "西田昌史"
+              }
+            },
+            {
+              "index": 2,
+              "title": "BLUE ISLAND",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "はたけ",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "横浜蜃気楼Instrumental",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "はたけ",
+                "編曲": "西田昌史"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

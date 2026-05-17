@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-5188",
+  "url": "/release/detail/EPCE-5188/",
+  "source": "upfront",
+  "title": "げんき印の大盛りソング/お菓子つくっておっかすぃ～！",
+  "category": "CDシングル",
+  "artist": "ミニモニ｡と高橋愛+4KIDS",
+  "releaseDate": "2002/11/27",
+  "label": "zetima",
+  "images": [
+    "/images/26b9c9c1eb9ca28d2c0df9e05e6da0ba796fa1d7.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/26b9c9c1eb9ca28d2c0df9e05e6da0ba796fa1d7.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5188",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "げんき印の大盛りソング",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 2,
+              "title": "お菓子つくっておっかすぃ～！",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "渡部チェル"
+              }
+            },
+            {
+              "index": 3,
+              "title": "げんき印の大盛りソング(オリジナル・カラオケ)",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 4,
+              "title": "お菓子つくっておっかすぃ～！(オリジナル・カラオケ)",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "渡部チェル"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

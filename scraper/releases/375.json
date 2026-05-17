@@ -1,0 +1,43 @@
+{
+  "id": 375,
+  "url": "/release/375/",
+  "title": "ハロプロアワー Vol.5",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2007.1.24",
+  "label": "zetima",
+  "images": [
+    "/upload/images/cef1dff6308826b4cb6b2482402b3265e67da196.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "♯9",
+              "duration": "38:00",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "♯12",
+              "duration": "31:44",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5227"
+        }
+      ]
+    }
+  ]
+}

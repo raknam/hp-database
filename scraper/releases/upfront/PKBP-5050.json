@@ -1,0 +1,51 @@
+{
+  "code": "PKBP-5050",
+  "url": "/release/detail/PKBP-5050/",
+  "source": "upfront",
+  "title": "シングルV「一切合切 あなたに∮あ・げ・る♪」",
+  "category": "DVDシングルV",
+  "artist": "美勇伝",
+  "releaseDate": "2006/05/24",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/084b936d1890cb2d8686e0bf2cfed75d1f166752.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/084b936d1890cb2d8686e0bf2cfed75d1f166752.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "PKBP-5050",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "一切合切 あなたに∮あ・げ・る♪",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "一切合切 あなたに∮あ・げ・る♪(Dance Shot Ver.)",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "10:36"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

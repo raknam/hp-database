@@ -1,0 +1,132 @@
+{
+  "id": 597,
+  "url": "/release/597/",
+  "title": "ALL FOR ONE & ONE FOR ALL!",
+  "category": "CDシングル",
+  "artist": "H.P.オールスターズ",
+  "releaseDate": "2004.12.1",
+  "label": "zetima",
+  "images": [
+    "/upload/images/b295e65ea3e2c60972b6d5debae0c96aea1c939d.webp",
+    "/upload/images/cd36d42cf75f42f8b6e723c74d008482035de8d0.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回盤】",
+      "image": "/upload/images/b295e65ea3e2c60972b6d5debae0c96aea1c939d.webp",
+      "price": "定価 ￥1,980（税抜価格 ￥1,800）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ALL FOR ONE & ONE FOR ALL!",
+              "duration": "05:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "H.P.オールスターズ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "三角関係",
+              "duration": "05:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "稲葉貴子・大谷雅恵・柴田あゆみ・松浦亜弥"
+              }
+            },
+            {
+              "index": 3,
+              "title": "好きになっちゃいけない人",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "田中れいな・村上 愛・鈴木愛理"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ALL FOR ONE & ONE FOR ALL!",
+              "duration": "05:43",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "H.P.オールスターズ"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5343"
+        }
+      ],
+      "note": "100P写真集封入"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/cd36d42cf75f42f8b6e723c74d008482035de8d0.webp",
+      "price": "定価 ￥1,430（税抜価格 ￥1,300）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ALL FOR ONE & ONE FOR ALL!",
+              "duration": "05:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "H.P.オールスターズ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "三角関係",
+              "duration": "05:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "稲葉貴子・大谷雅恵・柴田あゆみ・松浦亜弥"
+              }
+            },
+            {
+              "index": 3,
+              "title": "好きになっちゃいけない人",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "田中れいな・村上 愛・鈴木愛理"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ALL FOR ONE & ONE FOR ALL!",
+              "duration": "05:43",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "H.P.オールスターズ"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5344"
+        }
+      ]
+    }
+  ]
+}

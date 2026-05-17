@@ -1,0 +1,66 @@
+{
+  "code": "HKBN-50143",
+  "url": "/release/detail/HKBN-50143/",
+  "source": "upfront",
+  "title": "彩花",
+  "category": "DVD",
+  "artist": "和田彩花",
+  "releaseDate": "2011/03/02",
+  "label": "hachama",
+  "images": [
+    "/images/e529ee100c1bd42f137d308594d57fe84a69b0e3.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/e529ee100c1bd42f137d308594d57fe84a69b0e3.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKBN-50143",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Ayaka's House",
+              "duration": "11:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Interview",
+              "duration": "12:23"
+            },
+            {
+              "index": 3,
+              "title": "Lake Side",
+              "duration": "11:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Making of 「和田彩花16」",
+              "duration": "13:16"
+            },
+            {
+              "index": 5,
+              "title": "Reply",
+              "duration": "03:39"
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "03:06"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

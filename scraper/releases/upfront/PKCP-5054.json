@@ -1,0 +1,58 @@
+{
+  "code": "PKCP-5054",
+  "url": "/release/detail/PKCP-5054/",
+  "source": "upfront",
+  "title": "スッピンと涙。",
+  "category": "CDシングル",
+  "artist": "後藤真希",
+  "releaseDate": "2005/07/06",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/f156046e256ffe2b38d41d855f430150333ee3f7.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f156046e256ffe2b38d41d855f430150333ee3f7.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5054",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "スッピンと涙。",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "KAN",
+                "編曲": "鈴木俊介/ストリングスアレンジ：つんく＆鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "もしも終わりがあるのなら",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "スッピンと涙。(Instrumental)",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "KAN",
+                "編曲": "鈴木俊介/ストリングスアレンジ：つんく＆鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

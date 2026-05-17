@@ -1,0 +1,43 @@
+{
+  "code": "UFBW-1348",
+  "url": "/release/detail/UFBW-1348/",
+  "source": "upfront",
+  "title": "ハロー!SATOYAMAライフ Vol.28",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2014/05/28",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/a99ede7084ef455eb5d86ee13ca950d96de5e67b.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/a99ede7084ef455eb5d86ee13ca950d96de5e67b.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1348",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "SATOUMI×OTODAMA 2013 〜ゲストにベリキュー！海に集合！〜",
+              "duration": "33:43"
+            },
+            {
+              "index": 2,
+              "title": "里山でハロウィンパーティー",
+              "duration": "32:09"
+            },
+            {
+              "index": 3,
+              "title": "℃-ute「愛ってもっと斬新」MV撮影に密着",
+              "duration": "07:46"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

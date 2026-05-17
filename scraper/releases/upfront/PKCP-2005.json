@@ -1,0 +1,78 @@
+{
+  "code": "PKCP-2005",
+  "url": "/release/detail/PKCP-2005/",
+  "source": "upfront",
+  "title": "石楠花の雨",
+  "category": "CDシングル",
+  "artist": "加川明",
+  "releaseDate": "2004/12/22",
+  "label": "ライスミュージック",
+  "images": [
+    "/images/373f8df5f7000eee89b606fe8f411558f0d4aa2e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/373f8df5f7000eee89b606fe8f411558f0d4aa2e.jpg",
+      "price": "￥1,257 (税抜価格 ￥1,143)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-2005",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "石楠花の雨",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "岡千秋",
+                "編曲": "南郷達也"
+              }
+            },
+            {
+              "index": 2,
+              "title": "飲んだくれ",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "加川明",
+                "作曲": "加川明",
+                "編曲": "信田かずお"
+              }
+            },
+            {
+              "index": 3,
+              "title": "石楠花の雨(オリジナル・カラオケ)",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "岡千秋",
+                "編曲": "南郷達也"
+              }
+            },
+            {
+              "index": 4,
+              "title": "飲んだくれ(オリジナル・カラオケ)",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "加川明",
+                "作曲": "加川明",
+                "編曲": "信田かずお"
+              }
+            },
+            {
+              "index": 5,
+              "title": "石楠花の雨(女性キー・カラオケ)",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "岡千秋",
+                "編曲": "南郷達也"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

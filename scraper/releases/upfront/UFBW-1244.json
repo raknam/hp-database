@@ -1,0 +1,58 @@
+{
+  "code": "UFBW-1244",
+  "url": "/release/detail/UFBW-1244/",
+  "source": "upfront",
+  "title": "ハロー!SATOYAMAライフ Vol.6",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2013/05/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/03d62648dd082349f3081e6533c344125bc810a6.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/03d62648dd082349f3081e6533c344125bc810a6.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1244",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "エコヴィレッジで課外授業①",
+              "duration": "18:07"
+            },
+            {
+              "index": 2,
+              "title": "エコヴィレッジで課外授業②",
+              "duration": "16:13"
+            },
+            {
+              "index": 3,
+              "title": "モーニング娘。11期メンバーオーディション",
+              "duration": "08:15"
+            },
+            {
+              "index": 4,
+              "title": "9月10日は℃-uteの日",
+              "duration": "01:05"
+            },
+            {
+              "index": 5,
+              "title": "里山ざっくりキッチン 炙りチャーシューのキャベツご飯",
+              "duration": "12:01"
+            },
+            {
+              "index": 6,
+              "title": "里山ざっくりキッチン 手羽先のさっぱりご飯",
+              "duration": "17:39"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

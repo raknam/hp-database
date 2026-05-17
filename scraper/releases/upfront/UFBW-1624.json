@@ -1,0 +1,83 @@
+{
+  "code": "UFBW-1624",
+  "url": "/release/detail/UFBW-1624/",
+  "source": "upfront",
+  "title": "Hello! Projectが行く！ナルチカ日帰り里山旅2019",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2019/04/23",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/d0438a1b8018ab43c1978c5e443b5f9792c7ee43.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d0438a1b8018ab43c1978c5e443b5f9792c7ee43.jpg",
+      "price": "￥3,565 (税抜価格 ￥3,241)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1624",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "12:05"
+            },
+            {
+              "index": 2,
+              "title": "ナルチカ日帰り里山旅 Part1",
+              "duration": "09:04"
+            },
+            {
+              "index": 3,
+              "title": "ナルチカ日帰り里山旅 Part2",
+              "duration": "11:41"
+            },
+            {
+              "index": 4,
+              "title": "ナルチカ日帰り里山旅 Part3",
+              "duration": "07:50"
+            },
+            {
+              "index": 5,
+              "title": "ナルチカ日帰り里山旅 Part4",
+              "duration": "19:36"
+            },
+            {
+              "index": 6,
+              "title": "ナレーションを撮り終えて",
+              "duration": "00:42"
+            },
+            {
+              "index": 7,
+              "title": "たまご焼き対決",
+              "duration": "04:06"
+            },
+            {
+              "index": 8,
+              "title": "里山旅女子会～リズム編～",
+              "duration": "17:41"
+            },
+            {
+              "index": 9,
+              "title": "里山旅女子会～BEYOOOOONDS編～",
+              "duration": "03:00"
+            },
+            {
+              "index": 10,
+              "title": "里山旅女子会 バツゲーム",
+              "duration": "01:56"
+            },
+            {
+              "index": 11,
+              "title": "おまけ",
+              "duration": "02:05"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "code": "EPBE-5250",
+  "url": "/release/detail/EPBE-5250/",
+  "source": "upfront",
+  "title": "アロハロ！2 モーニング娘。DVD",
+  "category": "DVD",
+  "artist": "モーニング娘。",
+  "releaseDate": "2007/07/11",
+  "label": "zetima",
+  "images": [
+    "/images/3c16c95ebae4088186f5eb7a2352424c00bfbec5.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/3c16c95ebae4088186f5eb7a2352424c00bfbec5.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5250",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "00:25"
+            },
+            {
+              "index": 2,
+              "title": "プール&ビーチ",
+              "duration": "06:08"
+            },
+            {
+              "index": 3,
+              "title": "抽選",
+              "duration": "01:29"
+            },
+            {
+              "index": 4,
+              "title": "アトラクション",
+              "duration": "08:57"
+            },
+            {
+              "index": 5,
+              "title": "2日目スタート",
+              "duration": "06:44"
+            },
+            {
+              "index": 6,
+              "title": "旅",
+              "duration": "15:06"
+            },
+            {
+              "index": 7,
+              "title": "旅の思い出",
+              "duration": "09:22"
+            },
+            {
+              "index": 8,
+              "title": "エンディング",
+              "duration": "05:02"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

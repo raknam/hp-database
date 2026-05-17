@@ -1,0 +1,71 @@
+{
+  "id": 6984,
+  "url": "/release/6984/",
+  "title": "シングルV「行かなくちゃ」",
+  "category": "BD",
+  "artist": "アンジュルム",
+  "releaseDate": "2023.7.12",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/d82484dc9a93fd9683f4ce23b74f3ac2dc4a3157.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "行かなくちゃ",
+              "duration": "04:37",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "堂島孝平",
+                "作曲": "堂島孝平",
+                "出演": "竹内朱莉"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アイノケダモノ",
+              "duration": "05:06",
+              "suffix": "(feat.竹内朱莉 Ver.)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "平田祥一郎",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "同窓生",
+              "duration": "04:45",
+              "suffix": "(feat.竹内朱莉 Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "行かなくちゃ",
+              "duration": "10:11",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "作詞": "堂島孝平",
+                "作曲": "堂島孝平",
+                "出演": "竹内朱莉"
+              }
+            }
+          ],
+          "catalogNo": "UFXW-1033"
+        }
+      ]
+    }
+  ]
+}

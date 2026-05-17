@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5233",
+  "url": "/release/detail/EPBE-5233/",
+  "source": "upfront",
+  "title": "シングルV「桜チラリ」",
+  "category": "DVDシングルV",
+  "artist": "℃-ute",
+  "releaseDate": "2007/02/28",
+  "label": "zetima",
+  "images": [
+    "/images/cf61f1a7c8e3e166d038703d050ad12d41eba8f5.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/cf61f1a7c8e3e166d038703d050ad12d41eba8f5.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5233",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "桜チラリ",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "桜チラリ(Close-up Ver.)",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "16:34"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

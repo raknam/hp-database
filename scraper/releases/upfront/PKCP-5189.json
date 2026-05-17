@@ -1,0 +1,148 @@
+{
+  "code": "PKCP-5189",
+  "url": "/release/detail/PKCP-5189/",
+  "source": "upfront",
+  "title": "ああ、夜が明ける",
+  "category": "CDシングル",
+  "artist": "Berryz工房",
+  "releaseDate": "2011/08/10",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/f5969d153962b336a53ca094f7756accec6f2ca0.jpg",
+    "/images/8cdfeca8ff48488bc0577fc1ac1fa74e4431362c.jpg",
+    "/images/62de574e4c3a1961f763edecff66422b755830d7.jpg",
+    "/images/81128b1f6aa0c19b86ddb0db100eba2782ad9d77.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/f5969d153962b336a53ca094f7756accec6f2ca0.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5189",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ああ、夜が明ける",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "大人にはなりたくない 早く大人になりたい",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ああ、夜が明ける(Instrumenta)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/8cdfeca8ff48488bc0577fc1ac1fa74e4431362c.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKCP-5191",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ああ、夜が明ける(Dance Shot Ver.)",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/images/62de574e4c3a1961f763edecff66422b755830d7.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5193",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ああ、夜が明ける",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "大人にはなりたくない 早く大人になりたい",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ああ、夜が明ける(Instrumenta)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/81128b1f6aa0c19b86ddb0db100eba2782ad9d77.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKCP-5194",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ああ、夜が明ける(Close-up Ver.)",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

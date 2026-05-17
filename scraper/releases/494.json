@@ -1,0 +1,91 @@
+{
+  "id": 494,
+  "url": "/release/494/",
+  "title": "アロハロ！5 モーニング娘。DVD",
+  "category": "DVD",
+  "artist": "モーニング娘。",
+  "releaseDate": "2011.9.28",
+  "label": "zetima",
+  "images": [
+    "/upload/images/fe2b304d81a3c1ec46594b03919a1062f35dcf8e.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "02:01",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Beach battle",
+              "duration": "34:49",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Treasure hunting",
+              "duration": "30:16",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Play backwards",
+              "duration": "04:56",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Award meeting",
+              "duration": "39:37",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Solo images",
+              "duration": "06:25",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Making of photobook",
+              "duration": "15:29",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Ending",
+              "duration": "03:14",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5419"
+        }
+      ]
+    }
+  ]
+}

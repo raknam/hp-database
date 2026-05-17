@@ -1,0 +1,75 @@
+{
+  "id": 2143,
+  "url": "/release/2143/",
+  "title": "a foggy doll",
+  "category": "DVD",
+  "artist": "矢島舞美",
+  "releaseDate": "2011.8.29",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/ef154749991852a721b98bbeb48f6f62a93bc5a0.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "a foggy doll",
+              "duration": "13:29",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "solid beauty",
+              "duration": "11:08",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "green garden",
+              "duration": "08:26",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "a garage doll",
+              "duration": "05:38",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "not a doll",
+              "duration": "02:37",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Interview",
+              "duration": "10:12",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-2030"
+        }
+      ]
+    }
+  ]
+}

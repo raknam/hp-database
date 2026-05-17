@@ -1,0 +1,168 @@
+{
+  "code": "PKCP-5143",
+  "url": "/release/detail/PKCP-5143/",
+  "source": "upfront",
+  "title": "私の未来のだんな様/流星ボーイ",
+  "category": "CDシングル",
+  "artist": "Berryz工房",
+  "releaseDate": "2009/11/11",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/f6833c7b069802d75774cf5544548ff45a600c62.jpg",
+    "/images/6e4f27f300d140adffe6503c591e430a77c27926.jpg",
+    "/images/b20f90638959c2a37bc912076dbe0df840b31623.jpg",
+    "/images/12c3f827d117366c706f7789ce4afa7856b7bd3d.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/f6833c7b069802d75774cf5544548ff45a600c62.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5143",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "私の未来のだんな様",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "流星ボーイ",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 3,
+              "title": "私の未来のだんな様(Instrumental)",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "流星ボーイ(Instrumental)",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/6e4f27f300d140adffe6503c591e430a77c27926.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKCP-5145",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "私の未来のだんな様(Close-up Ver.)",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/images/b20f90638959c2a37bc912076dbe0df840b31623.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5147",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "私の未来のだんな様",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "流星ボーイ",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 3,
+              "title": "私の未来のだんな様(Instrumental)",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "流星ボーイ(Instrumental)",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/12c3f827d117366c706f7789ce4afa7856b7bd3d.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKCP-5148",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "流星ボーイ(Dance Shot Ver.)",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

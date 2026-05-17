@@ -1,0 +1,68 @@
+{
+  "code": "PKCP-2085",
+  "url": "/release/detail/PKCP-2085/",
+  "source": "upfront",
+  "title": "空蝉の家/石をつらぬく滴であれ",
+  "category": "CDシングル",
+  "artist": "堀内孝雄",
+  "releaseDate": "2016/04/20",
+  "label": "ライスミュージック",
+  "images": [
+    "/images/383fdee3f6611226f3d23d0f17c9b3884d7fa2f1.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/383fdee3f6611226f3d23d0f17c9b3884d7fa2f1.jpg",
+      "price": "￥1,324 (税抜価格 ￥1,204)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-2085",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "空蝉の家",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "田久保真見",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 2,
+              "title": "石をつらぬく滴であれ",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "松井五郎",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 3,
+              "title": "空蝉の家(オリジナル・カラオケ)",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "田久保真見",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 4,
+              "title": "石をつらぬく滴であれ(オリジナル・カラオケ)",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "松井五郎",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

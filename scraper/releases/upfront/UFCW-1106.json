@@ -1,0 +1,58 @@
+{
+  "code": "UFCW-1106",
+  "url": "/release/detail/UFCW-1106/",
+  "source": "upfront",
+  "title": "演劇女子部 ミュージカル「サンクユーベリーベリー」オリジナルサウンドトラック",
+  "category": "CDアルバム",
+  "artist": "つばきファクトリー",
+  "releaseDate": "2015/10/08",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/700bbd33216c3021583fef038338efa0982d2825.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/700bbd33216c3021583fef038338efa0982d2825.jpg",
+      "price": "￥1,834 (税抜価格 ￥1,667)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "UFCW-1106",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "あの子が歌うのを見たんだ",
+              "duration": "03:19",
+              "credits": {
+                "作詞": "塩田泰造",
+                "作曲": "市川淳",
+                "編曲": "市川淳"
+              }
+            },
+            {
+              "index": 2,
+              "title": "怪獣のバラード",
+              "duration": "01:19",
+              "credits": {
+                "作詞": "岡田冨美子",
+                "作曲": "東海林修",
+                "編曲": "市川淳"
+              }
+            },
+            {
+              "index": 3,
+              "title": "サンクユーベリーベリー",
+              "duration": "05:32",
+              "credits": {
+                "作詞": "塩田泰造",
+                "作曲": "たいせい",
+                "編曲": "市川淳"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

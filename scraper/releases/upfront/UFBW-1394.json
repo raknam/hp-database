@@ -1,0 +1,48 @@
+{
+  "code": "UFBW-1394",
+  "url": "/release/detail/UFBW-1394/",
+  "source": "upfront",
+  "title": "誰にもナイショ/月蝕",
+  "category": "DVDシングル",
+  "artist": "Bitter ＆ Sweet",
+  "releaseDate": "2014/09/03",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/d0232649c8d1afe120860e9efc1198252ce8e16c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d0232649c8d1afe120860e9efc1198252ce8e16c.jpg",
+      "price": "￥1,466 (税抜価格 ￥1,333)",
+      "discs": [
+        {
+          "type": "DVDシングル",
+          "catalogNo": "UFBW-1394",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "誰にもナイショ(Music Video)",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "NOBE・児玉雨子",
+                "作曲": "YUMA",
+                "編曲": "YUMA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "月蝕(Music Video)",
+              "duration": "05:35",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

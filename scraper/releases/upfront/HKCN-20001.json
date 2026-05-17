@@ -1,0 +1,128 @@
+{
+  "code": "HKCN-20001",
+  "url": "/release/detail/HKCN-20001/",
+  "source": "upfront",
+  "title": "湘南アンソロジー",
+  "category": "CDアルバム",
+  "artist": "Temiyan",
+  "releaseDate": "2003/06/18",
+  "label": "Pacific Heaven",
+  "images": [
+    "/images/5f402e979561a7f9d2698f9ddbcc96cd764be997.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/5f402e979561a7f9d2698f9ddbcc96cd764be997.jpg",
+      "price": "￥2,750 (税抜価格 ￥2,500)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "HKCN-20001",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "想い出の渚(ハワイ語バージョン)",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "鳥塚繁樹/ハワイ語詩:鴻池薫",
+                "作曲": "加瀬邦彦",
+                "編曲": "HAVA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "夜空の星",
+              "duration": "03:28",
+              "credits": {
+                "作詞": "岩谷時子",
+                "作曲": "弾厚作",
+                "編曲": "HAVA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "鎌倉物語",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "桑田佳祐",
+                "作曲": "桑田佳祐",
+                "編曲": "HAVA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ムーンライト・サーファー",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "中村治雄",
+                "作曲": "中村治雄",
+                "編曲": "HAVA"
+              }
+            },
+            {
+              "index": 5,
+              "title": "プールサイド",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "来生えつこ",
+                "作曲": "南佳孝",
+                "編曲": "HAVA"
+              }
+            },
+            {
+              "index": 6,
+              "title": "忘れ得ぬ貴女",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "岩沢二弓/市原愛彦",
+                "作曲": "岩沢二弓",
+                "編曲": "HAVA"
+              }
+            },
+            {
+              "index": 7,
+              "title": "白い珊瑚礁",
+              "duration": "03:00",
+              "credits": {
+                "作詞": "阿久悠",
+                "作曲": "村井邦彦",
+                "編曲": "HAVA"
+              }
+            },
+            {
+              "index": 8,
+              "title": "真夏の出来事(1983年Live at リトル・ジョージ)",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "橋本淳",
+                "作曲": "筒美京平",
+                "編曲": "Temiyan&エボシロックス"
+              }
+            },
+            {
+              "index": 9,
+              "title": "Za Za Za (アイランド・バージョン)",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "宮手健雄/佐藤龍一",
+                "作曲": "宮手健雄/佐藤龍一",
+                "編曲": "原田芳宏"
+              }
+            },
+            {
+              "index": 10,
+              "title": "North Shore Serenade",
+              "duration": "03:24",
+              "credits": {
+                "作詞": "NALANCHOY/日本語詩:Temiyan",
+                "作曲": "NALANCHOY",
+                "編曲": "HAVA"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

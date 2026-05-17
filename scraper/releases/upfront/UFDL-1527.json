@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1527",
+  "url": "/release/detail/UFDL-1527/",
+  "source": "upfront",
+  "title": "カモン・ミックス！",
+  "category": "配信",
+  "artist": "GOODM!X",
+  "releaseDate": "2024/02/14",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/3cc5afa55b616e987465e05fe45d30299362c984.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/3cc5afa55b616e987465e05fe45d30299362c984.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1527",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "カモン・ミックス！",
+              "duration": "03:22",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "板垣祐介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,577 @@
+{
+  "id": 4809,
+  "url": "/release/4809/",
+  "title": "Hello! Project ひなフェス 2016 ＜℃-ute プレミアム＞",
+  "category": "BD",
+  "artist": "V.A.",
+  "releaseDate": "2016.7.13",
+  "label": "zetima",
+  "images": [
+    "/upload/images/2cdc4028fefaedbb33ca31f55861ab90869f6a5f.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:25",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "人生はSTEP!",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "石井浩平",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "MC",
+              "duration": "03:14",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "The Middle Management〜女性中間管理職〜",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "DANIEL MERLOT / AURELIEN POUDAT / HYON D / TAKANORI TSUNODA / STEFAN BROADLEY",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "嵐を起こすんだ Exciting Fight！",
+              "duration": "03:04",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 6,
+              "title": "MC",
+              "duration": "01:24",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 7,
+              "title": "おへその国からこんにちは",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "ハロプロ研修生"
+              }
+            },
+            {
+              "index": 8,
+              "title": "キャベツ白書〜春編〜",
+              "duration": "05:33",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "角田崇徳",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 9,
+              "title": "MC",
+              "duration": "01:19",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 10,
+              "title": "気高く咲き誇れ！",
+              "duration": "03:17",
+              "credits": {
+                "作詞": "児玉雨子/Rap詞:角田崇徳",
+                "作曲": "Jean Luc Ponpon",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 11,
+              "title": "Tokyoという片隅",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 12,
+              "title": "MC",
+              "duration": "01:16",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 13,
+              "title": "HOW DO YOU LIKE JAPAN？〜日本はどんな感じでっか？〜",
+              "duration": "02:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 14,
+              "title": "恋泥棒",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "村カワ基成",
+                "出演": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 15,
+              "title": "MC",
+              "duration": "02:24",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 16,
+              "title": "ランラルン〜あなたに夢中〜",
+              "duration": "02:58",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "Kern Jerome(PD)",
+                "出演": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 17,
+              "title": "大人の事情",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "NEXT YOU"
+              }
+            },
+            {
+              "index": 18,
+              "title": "MC",
+              "duration": "01:32",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 19,
+              "title": "Next is you!",
+              "duration": "02:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "NEXT YOU"
+              }
+            },
+            {
+              "index": 20,
+              "title": "次々続々",
+              "duration": "05:21",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "平田祥一郎",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 21,
+              "title": "MC",
+              "duration": "02:00",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 22,
+              "title": "ドンデンガエシ",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "宇宙慧",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 23,
+              "title": "MC",
+              "duration": "00:47",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 24,
+              "title": "One･Two･Three(updated)",
+              "duration": "05:05",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 25,
+              "title": "チョット愚直に！猪突猛進",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "出演": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 26,
+              "title": "MC",
+              "duration": "01:23",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 27,
+              "title": "桜ナイトフィーバー",
+              "duration": "05:07",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "出演": "オールキャスト"
+              }
+            },
+            {
+              "index": 28,
+              "title": "Take off is now!",
+              "duration": "02:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "和田彩花"
+              }
+            },
+            {
+              "index": 29,
+              "title": "BE ALL RIGHT!",
+              "duration": "02:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "6パック(矢島舞美/石田亜佑美/工藤遥/尾形春水/勝田里奈/岸本ゆめの)"
+              }
+            },
+            {
+              "index": 30,
+              "title": "MC",
+              "duration": "03:36",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 31,
+              "title": "即 抱きしめて",
+              "duration": "02:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "こぶしファクトリー/つばきファクトリー"
+              }
+            },
+            {
+              "index": 32,
+              "title": "都会っ子 純情",
+              "duration": "03:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice/カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 33,
+              "title": "Bye Bye Bye!",
+              "duration": "02:45",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 34,
+              "title": "THE FUTURE",
+              "duration": "02:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 35,
+              "title": "MC",
+              "duration": "01:14",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 36,
+              "title": "情熱エクスタシー",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "中村佳紀",
+                "作曲": "中村佳紀",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 37,
+              "title": "Kiss me 愛してる",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 38,
+              "title": "ひとり占めしたかっただけなのに",
+              "duration": "05:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 39,
+              "title": "Danceでバコーン！",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 40,
+              "title": "JUMP",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 41,
+              "title": "MC",
+              "duration": "01:35",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 42,
+              "title": "桜チラリ",
+              "duration": "05:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "オールキャスト"
+              }
+            }
+          ],
+          "catalogNo": "EPXE-5084"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "桜→入学式",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "小川麗奈"
+              }
+            },
+            {
+              "index": 2,
+              "title": "会えない長い日曜日",
+              "duration": "02:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "つぼみファクトリー(上國料萌衣/野村みな美/田口夏実/井上玲音/新沼希空)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ドスコイ！ケンキョにダイタン",
+              "duration": "02:53",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ラーメン大好き小泉さんの唄",
+              "duration": "03:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "シャ乱Q",
+                "出演": "モーニング娘。'16"
+              }
+            },
+            {
+              "index": 5,
+              "title": "押忍！こぶし魂",
+              "duration": "03:24",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "恋の呪縛",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 7,
+              "title": "一丁目ロック！",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 8,
+              "title": "スキちゃん",
+              "duration": "02:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "カントリー・ガールズ/つばきファクトリー"
+              }
+            },
+            {
+              "index": 9,
+              "title": "七転び八起き",
+              "duration": "02:54",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 10,
+              "title": "恋ならとっくに始まってる",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 11,
+              "title": "臥薪嘗胆",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "gridoor",
+                "作曲": "星部ショウ",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 12,
+              "title": "出すぎた杭は打たれない",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "魚住有希",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 13,
+              "title": "私、ちょいとカワイイ裏番長",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 14,
+              "title": "念には念(念入り Ver.)〜大器晩成",
+              "duration": "04:59",
+              "credits": {
+                "出演": "オールキャスト"
+              }
+            }
+          ]
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "メイキング映像",
+              "duration": "23:48",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

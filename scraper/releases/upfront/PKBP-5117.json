@@ -1,0 +1,87 @@
+{
+  "code": "PKBP-5117",
+  "url": "/release/detail/PKBP-5117/",
+  "source": "upfront",
+  "title": "ベリキュー！Vol.5",
+  "category": "DVD",
+  "artist": "Berryz工房×℃-ute",
+  "releaseDate": "2009/07/22",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/5e90b78f03b081976156484f962919c44dbf292c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/5e90b78f03b081976156484f962919c44dbf292c.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5117",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "なぞなぞdeベリQ！①",
+              "duration": "06:55"
+            },
+            {
+              "index": 2,
+              "title": "なぞなぞdeベリQ！②",
+              "duration": "04:49"
+            },
+            {
+              "index": 3,
+              "title": "カタカナ漢字deベリQ！",
+              "duration": "03:20"
+            },
+            {
+              "index": 4,
+              "title": "マニュアルdeベリQ！",
+              "duration": "06:08"
+            },
+            {
+              "index": 5,
+              "title": "キックdeベリQ！",
+              "duration": "08:45"
+            },
+            {
+              "index": 6,
+              "title": "体内時計deベリQ！",
+              "duration": "05:12"
+            },
+            {
+              "index": 7,
+              "title": "体力deベリQ！",
+              "duration": "14:32"
+            },
+            {
+              "index": 8,
+              "title": "イラストdeベリQ！",
+              "duration": "10:21"
+            },
+            {
+              "index": 9,
+              "title": "2番deベリQ！",
+              "duration": "07:17"
+            },
+            {
+              "index": 10,
+              "title": "ジェスチャーdeベリQ！",
+              "duration": "03:19"
+            },
+            {
+              "index": 11,
+              "title": "ベリキュー！版「歌ドキッ！」夏祭り",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "破矢ジンタ",
+                "作曲": "破矢ジンタ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

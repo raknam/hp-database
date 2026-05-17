@@ -1,0 +1,57 @@
+{
+  "code": "PKCP-5122",
+  "url": "/release/detail/PKCP-5122/",
+  "source": "upfront",
+  "title": "ジンギスカン タルタルミックス",
+  "category": "CDシングル",
+  "artist": "ジンギスカン×Berryz工房",
+  "releaseDate": "2008/09/17",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/9c730a70098566e0d7aad0c042428a63a73dab33.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/9c730a70098566e0d7aad0c042428a63a73dab33.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5122",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ジンギスカン タルタルミックス",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "Bernd Meinunger/訳詞:山本伊織",
+                "作曲": "Ralph Siegel",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ジンギスカン",
+              "duration": "03:08",
+              "credits": {
+                "作詞": "Bernd Meinunger/訳詞:山本伊織",
+                "作曲": "Ralph Siegel"
+              }
+            },
+            {
+              "index": 3,
+              "title": "DSCHINGHIS KHAN",
+              "duration": "03:06",
+              "credits": {
+                "作詞": "Bernd Meinunger",
+                "作曲": "Ralph Siegel",
+                "編曲": "------"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

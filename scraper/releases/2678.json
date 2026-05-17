@@ -1,0 +1,115 @@
+{
+  "id": 2678,
+  "url": "/release/2678/",
+  "title": "virtual fireworks EDO HANABI 神宮外苑花火大会",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2004.10.20",
+  "label": "hachama",
+  "images": [
+    "/upload/images/69479c5d9971041461bd2f7ddc648c580d2318a8.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング ドキュメント＆インタビュー",
+              "duration": "04:30",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "空のマジック～ヴィーナス",
+              "duration": "03:53",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 3,
+              "title": "夜空のマンダラ",
+              "duration": "04:44",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "夜のファンタジー",
+              "duration": "04:22",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 5,
+              "title": "スカッと爽やか～トロピカルに～ドカンと一発",
+              "duration": "04:17",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 6,
+              "title": "夏満開～夜空に咲く花～火の鳥",
+              "duration": "04:17",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 7,
+              "title": "夜の着信有り～キラキラ音",
+              "duration": "02:06",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 8,
+              "title": "マッスル幻想花〜フィナーレ",
+              "duration": "12:07",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 9,
+              "title": "アンコール",
+              "duration": "04:37",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 10,
+              "title": "エンディング",
+              "duration": "01:32",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 11,
+              "title": "＜特典映像 花火の種類＞",
+              "duration": "00:00",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "HKBN-10001"
+        }
+      ]
+    }
+  ]
+}

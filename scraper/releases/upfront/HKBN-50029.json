@@ -1,0 +1,83 @@
+{
+  "code": "HKBN-50029",
+  "url": "/release/detail/HKBN-50029/",
+  "source": "upfront",
+  "title": "アロハロ！ 藤本美貴DVD",
+  "category": "DVD",
+  "artist": "藤本美貴",
+  "releaseDate": "2003/04/23",
+  "label": "hachama",
+  "images": [
+    "/images/8884d9d924cc6c87c33528e4d8edaa736c4656e3.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/8884d9d924cc6c87c33528e4d8edaa736c4656e3.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKBN-50029",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:10"
+            },
+            {
+              "index": 2,
+              "title": "ビーチ",
+              "duration": "07:30"
+            },
+            {
+              "index": 3,
+              "title": "コーヒー農園",
+              "duration": "10:45"
+            },
+            {
+              "index": 4,
+              "title": "ランチ",
+              "duration": "04:29"
+            },
+            {
+              "index": 5,
+              "title": "ショッピング",
+              "duration": "01:38"
+            },
+            {
+              "index": 6,
+              "title": "牧場",
+              "duration": "07:57"
+            },
+            {
+              "index": 7,
+              "title": "ポキ",
+              "duration": "03:32"
+            },
+            {
+              "index": 8,
+              "title": "エンディングトーク",
+              "duration": "04:15"
+            },
+            {
+              "index": 9,
+              "title": "藤本美貴オリジナル写真集",
+              "duration": "02:52"
+            },
+            {
+              "index": 10,
+              "title": "写真集撮影風景",
+              "duration": "11:29"
+            },
+            {
+              "index": 11,
+              "title": "フラダンス",
+              "duration": "01:18"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

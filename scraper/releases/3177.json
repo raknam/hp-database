@@ -1,0 +1,61 @@
+{
+  "id": 3177,
+  "url": "/release/3177/",
+  "title": "ここにいるぜぇ！",
+  "category": "CDシングル",
+  "artist": "アテナ(唄:辻希美)",
+  "releaseDate": "2007.5.16",
+  "label": "zetima",
+  "images": [
+    "/upload/images/2bf36772586ae3f1b4cd46aa7c97bdd95bf93544.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ここにいるぜぇ！",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行/ストリングスアレンジ:弦一徹",
+                "歌": "アテナ(唄:辻希美)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "HAPPY MY FRIEND",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA",
+                "歌": "アテナ(唄:辻希美)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ここにいるぜぇ！",
+              "duration": "04:25",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行/ストリングスアレンジ:弦一徹",
+                "歌": "アテナ(唄:辻希美)"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5474"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "code": "PKBP-5121",
+  "url": "/release/detail/PKBP-5121/",
+  "source": "upfront",
+  "title": "ベリキュー！Vol.8 〜ウラベリキュー！〜",
+  "category": "DVD",
+  "artist": "Berryz工房×℃-ute",
+  "releaseDate": "2009/08/26",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/51dc620fa93017ec63a3ff9cfa4af0ce919d0f82.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/51dc620fa93017ec63a3ff9cfa4af0ce919d0f82.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5121",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ランキングdeベリQ！",
+              "duration": "18:33"
+            },
+            {
+              "index": 2,
+              "title": "イライラハーモニーdeベリQ！",
+              "duration": "16:55"
+            },
+            {
+              "index": 3,
+              "title": "玉入れdeベリQ！",
+              "duration": "09:54"
+            },
+            {
+              "index": 4,
+              "title": "マッスルトレインdeベリQ！",
+              "duration": "09:34"
+            },
+            {
+              "index": 5,
+              "title": "マニュアルdeベリQ！",
+              "duration": "12:16"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

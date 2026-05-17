@@ -1,0 +1,53 @@
+{
+  "code": "UFBW-1242",
+  "url": "/release/detail/UFBW-1242/",
+  "source": "upfront",
+  "title": "ハロー!SATOYAMAライフ Vol.4",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2013/04/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/fc6c0772814a556a7cdadcd3bb8b7ad721e8a4bb.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/fc6c0772814a556a7cdadcd3bb8b7ad721e8a4bb.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1242",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "スイカにネットをかける＆収穫した野菜を出荷する",
+              "duration": "13:13"
+            },
+            {
+              "index": 2,
+              "title": "スマイレージ「好きよ、純情反抗期。」MV撮影現場に密着",
+              "duration": "11:19"
+            },
+            {
+              "index": 3,
+              "title": "ないしょの話 和田×福田",
+              "duration": "03:09"
+            },
+            {
+              "index": 4,
+              "title": "「Hello!Project誕生15周年記念ライブ2012夏」スペシャル",
+              "duration": "19:00"
+            },
+            {
+              "index": 5,
+              "title": "「Hello!Project誕生15周年記念ライブ2012夏」スペシャル未公開映像",
+              "duration": "23:53"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

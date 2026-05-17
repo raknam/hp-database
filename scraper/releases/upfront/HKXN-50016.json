@@ -1,0 +1,91 @@
+{
+  "code": "HKXN-50016",
+  "url": "/release/detail/HKXN-50016/",
+  "source": "upfront",
+  "title": "真野恵里菜シングルVクリップス②",
+  "category": "BD",
+  "artist": "真野恵里菜",
+  "releaseDate": "2012/08/08",
+  "label": "hachama",
+  "images": [
+    "/images/53b5fdb0484b97f8db8cfefbc8e779fb02ba2469.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/53b5fdb0484b97f8db8cfefbc8e779fb02ba2469.jpg",
+      "price": "￥4,400 (税抜価格 ￥4,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKXN-50016",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "お願いだから…",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "経塚泰誠"
+              }
+            },
+            {
+              "index": 2,
+              "title": "元気者で行こう！(ディレクターズカット VER.1)",
+              "duration": "04:44",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "畠山俊昭"
+              }
+            },
+            {
+              "index": 3,
+              "title": "青春のセレナーデ",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "泰誠"
+              }
+            },
+            {
+              "index": 4,
+              "title": "My Days for You",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ドキドキベイビー",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "本上遼",
+                "作曲": "本上遼"
+              }
+            },
+            {
+              "index": 6,
+              "title": "黄昏交差点",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "本上遼",
+                "作曲": "本上遼"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Song for the DATE(sideA)",
+              "duration": "05:13",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

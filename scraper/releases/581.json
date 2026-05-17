@@ -1,0 +1,73 @@
+{
+  "id": 581,
+  "url": "/release/581/",
+  "title": "ふるさと",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2005.3.2",
+  "label": "zetima",
+  "images": [
+    "/upload/images/38395ac6171a0c9e077093109b418f0f4ecfbf7b.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ふるさと",
+              "duration": "05:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "忘れらんない",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄&下町兄弟",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ふるさと",
+              "duration": "05:15",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ふるさと",
+              "duration": "05:00",
+              "suffix": "(Early Vocal Version)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5318"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "code": "EPCE-5286",
+  "url": "/release/detail/EPCE-5286/",
+  "source": "upfront",
+  "title": "浪漫 〜MY DEAR BOY〜",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2004/05/12",
+  "label": "zetima",
+  "images": [
+    "/images/e6214dcea832f515c34e436e97db75b31302137f.jpg",
+    "/images/cd6a3bfccb7e4f7cddf878e14dcba7bdf9c1494a.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回盤】",
+      "image": "/images/e6214dcea832f515c34e436e97db75b31302137f.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5286",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "浪漫 〜MY DEAR BOY〜",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ファインエモーション！",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 3,
+              "title": "浪漫 〜MY DEAR BOY〜(Instrumental)",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/cd6a3bfccb7e4f7cddf878e14dcba7bdf9c1494a.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5287",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "浪漫 〜MY DEAR BOY〜",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ファインエモーション！",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 3,
+              "title": "浪漫 〜MY DEAR BOY〜(Instrumental)",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": 5351,
+  "url": "/release/5351/",
+  "title": "SATOYAMA&SATOUMIへ行こう2017 Hello! Projectスタンプ作り！",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2017.6.24",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/5fb4989b8c3bf0d9cff83d22fc2ef7fecde48fc6.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "02:57",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "カントリー・ガールズ＆こぶしファクトリー",
+              "duration": "20:21",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 3,
+              "title": "アンジュルム",
+              "duration": "15:44",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "つばきファクトリー",
+              "duration": "14:30",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 5,
+              "title": "モーニング娘。'17",
+              "duration": "23:14",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 6,
+              "title": "℃-ute＆Juice=Juice",
+              "duration": "21:56",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1545"
+        }
+      ]
+    }
+  ]
+}

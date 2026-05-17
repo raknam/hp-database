@@ -1,0 +1,60 @@
+{
+  "id": 2073,
+  "url": "/release/2073/",
+  "title": "ハロプロ！TIME Vol.11",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012.6.8",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/43fd91849e418fb47784f29ac9a3b0375e562bc4.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「ブスにならない哲学」MV撮影現場でメンバー撮り！",
+              "duration": "34:10",
+              "credits": {
+                "出演": "ハロー！プロジェクト モベキマス"
+              }
+            },
+            {
+              "index": 2,
+              "title": "観客1万人！よみうりランドEAST ハロー！プロジェクト☆フェスティバル2011",
+              "duration": "25:07",
+              "credits": {
+                "出演": "ハロー！プロジェクト モベキマス"
+              }
+            },
+            {
+              "index": 3,
+              "title": "モーニング娘。10期メンバーに密着！ハロー！プロジェクト☆フェスティバル2011",
+              "duration": "11:12",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 4,
+              "title": "清水TIME",
+              "duration": "03:38",
+              "suffix": "20歳のアニバーサリーイベント",
+              "credits": {
+                "出演": "清水佐紀(Berryz工房)"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1165"
+        }
+      ]
+    }
+  ]
+}

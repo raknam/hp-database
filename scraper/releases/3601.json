@@ -1,0 +1,61 @@
+{
+  "id": 3601,
+  "url": "/release/3601/",
+  "title": "愛すクリ～ムとMyプリン",
+  "category": "CDシングル",
+  "artist": "美勇伝",
+  "releaseDate": "2006.11.22",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/upload/images/5c002b21cfd065305bba66f789e55d2ef6e36001.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛すクリ〜ムとMyプリン",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "美勇伝"
+              }
+            },
+            {
+              "index": 2,
+              "title": "シュワッ",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "まこと",
+                "作曲": "つんく",
+                "編曲": "小西貴雄",
+                "歌": "美勇伝"
+              }
+            },
+            {
+              "index": 3,
+              "title": "愛すクリ〜ムとMyプリン",
+              "duration": "03:55",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "美勇伝"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5073"
+        }
+      ]
+    }
+  ]
+}

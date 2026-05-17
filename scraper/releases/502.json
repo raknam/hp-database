@@ -1,0 +1,82 @@
+{
+  "id": 502,
+  "url": "/release/502/",
+  "title": "シングルV「初恋サイダー/DEEP MIND」",
+  "category": "DVDシングルV",
+  "artist": "Buono!",
+  "releaseDate": "2012.1.25",
+  "label": "zetima",
+  "images": [
+    "/upload/images/130a9e5667fb0c03b9c2b776f26e4efce8a39dec.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "初恋サイダー",
+              "duration": "03:47",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "しほり",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "DEEP MIND",
+              "duration": "04:22",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "おのりく",
+                "作曲": "AKIRASTAR",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 3,
+              "title": "初恋サイダー",
+              "duration": "03:39",
+              "suffix": "(MOMOKO Ver.)",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "しほり",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 4,
+              "title": "初恋サイダー",
+              "duration": "03:39",
+              "suffix": "(MIYABI Ver.)",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "しほり",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 5,
+              "title": "初恋サイダー",
+              "duration": "03:44",
+              "suffix": "(AIRI Ver.)",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "しほり",
+                "出演": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5428"
+        }
+      ]
+    }
+  ]
+}

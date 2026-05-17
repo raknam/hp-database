@@ -1,0 +1,79 @@
+{
+  "id": 1154,
+  "url": "/release/1154/",
+  "title": "彩花",
+  "category": "DVD",
+  "artist": "和田彩花",
+  "releaseDate": "2011.3.2",
+  "label": "hachama",
+  "images": [
+    "/upload/images/e529ee100c1bd42f137d308594d57fe84a69b0e3.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Ayaka's House",
+              "duration": "11:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "和田彩花(スマイレージ)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Interview",
+              "duration": "12:23",
+              "credits": {
+                "出演": "和田彩花(スマイレージ)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Lake Side",
+              "duration": "11:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "和田彩花(スマイレージ)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Making of 「和田彩花16」",
+              "duration": "13:16",
+              "credits": {
+                "出演": "和田彩花(スマイレージ)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Reply",
+              "duration": "03:39",
+              "credits": {
+                "出演": "和田彩花(スマイレージ)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "03:06",
+              "credits": {
+                "出演": "和田彩花(スマイレージ)"
+              }
+            }
+          ],
+          "catalogNo": "HKBN-50143"
+        }
+      ]
+    }
+  ]
+}

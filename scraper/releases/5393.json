@@ -1,0 +1,798 @@
+{
+  "id": 5393,
+  "url": "/release/5393/",
+  "title": "邪魔しないで Here We Go！/弩級のゴーサイン/若いんだし！",
+  "category": "CDシングル",
+  "artist": "モーニング娘。'17",
+  "releaseDate": "2017.10.4",
+  "label": "zetima",
+  "images": [
+    "/upload/images/ddf198330d37a233c0b8543d543df76ab7d27b0b.webp",
+    "/upload/images/525e0f4bb913684d14ecad1d572a5a88b37904c9.webp",
+    "/upload/images/858905883bf370ae034a7931973b74a9afa25a33.webp",
+    "/upload/images/8c044f4afc05a88cead7ad4dab9cd97d17a06f0a.webp",
+    "/upload/images/d87473267e0ea0bf5e5033554a5c92e2d607579f.webp",
+    "/upload/images/41028abe6b87004c2ec23fad8c1e6f3f274eb7bc.webp",
+    "/upload/images/6fe1c96ce4203f8dee665860c606ddb4a1893b1c.webp",
+    "/upload/images/fe3644e129f7b2bf27abe92b3ee74de3798456ab.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/ddf198330d37a233c0b8543d543df76ab7d27b0b.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "邪魔しないで Here We Go!",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 2,
+              "title": "弩級のゴーサイン",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "Yocke",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 3,
+              "title": "若いんだし！",
+              "duration": "05:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 4,
+              "title": "邪魔しないで Here We Go!",
+              "duration": "04:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 5,
+              "title": "弩級のゴーサイン",
+              "duration": "03:49",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "Yocke",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 6,
+              "title": "若いんだし！",
+              "duration": "05:12",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'17"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7360"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "邪魔しないで Here We Go!",
+              "duration": "06:20",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'17"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/525e0f4bb913684d14ecad1d572a5a88b37904c9.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "邪魔しないで Here We Go!",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 2,
+              "title": "弩級のゴーサイン",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "Yocke",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 3,
+              "title": "若いんだし！",
+              "duration": "05:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 4,
+              "title": "邪魔しないで Here We Go!",
+              "duration": "04:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 5,
+              "title": "弩級のゴーサイン",
+              "duration": "03:49",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "Yocke",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 6,
+              "title": "若いんだし！",
+              "duration": "05:12",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'17"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7362"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "弩級のゴーサイン",
+              "duration": "04:22",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "モーニング娘。'17"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/858905883bf370ae034a7931973b74a9afa25a33.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "邪魔しないで Here We Go!",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 2,
+              "title": "弩級のゴーサイン",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "Yocke",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 3,
+              "title": "若いんだし！",
+              "duration": "05:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 4,
+              "title": "邪魔しないで Here We Go!",
+              "duration": "04:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 5,
+              "title": "弩級のゴーサイン",
+              "duration": "03:49",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "Yocke",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 6,
+              "title": "若いんだし！",
+              "duration": "05:12",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'17"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7364"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "若いんだし！",
+              "duration": "06:40",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'17"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/upload/images/8c044f4afc05a88cead7ad4dab9cd97d17a06f0a.webp",
+      "price": "￥1,980（税抜価格 ￥1,800）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "邪魔しないで Here We Go!",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 2,
+              "title": "弩級のゴーサイン",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "Yocke",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 3,
+              "title": "若いんだし！",
+              "duration": "05:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 4,
+              "title": "邪魔しないで Here We Go!",
+              "duration": "04:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 5,
+              "title": "弩級のゴーサイン",
+              "duration": "03:49",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "Yocke",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 6,
+              "title": "若いんだし！",
+              "duration": "05:12",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'17"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7366"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "邪魔しないで Here We Go!",
+              "duration": "04:44",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 2,
+              "title": "弩級のゴーサイン",
+              "duration": "03:52",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 3,
+              "title": "若いんだし！",
+              "duration": "05:19",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'17"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/d87473267e0ea0bf5e5033554a5c92e2d607579f.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "邪魔しないで Here We Go!",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 2,
+              "title": "弩級のゴーサイン",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "Yocke",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 3,
+              "title": "若いんだし！",
+              "duration": "05:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 4,
+              "title": "邪魔しないで Here We Go!",
+              "duration": "04:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 5,
+              "title": "弩級のゴーサイン",
+              "duration": "03:49",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "Yocke",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 6,
+              "title": "若いんだし！",
+              "duration": "05:12",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'17"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7368"
+        }
+      ],
+      "note": "トレーディングカード ソロ14種＋集合1種よりランダムにて1枚封入(邪魔しないで Here We Go！ Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/41028abe6b87004c2ec23fad8c1e6f3f274eb7bc.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "邪魔しないで Here We Go!",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 2,
+              "title": "弩級のゴーサイン",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "Yocke",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 3,
+              "title": "若いんだし！",
+              "duration": "05:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 4,
+              "title": "邪魔しないで Here We Go!",
+              "duration": "04:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 5,
+              "title": "弩級のゴーサイン",
+              "duration": "03:49",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "Yocke",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 6,
+              "title": "若いんだし！",
+              "duration": "05:12",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'17"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7369"
+        }
+      ],
+      "note": "トレーディングカード ソロ14種＋集合1種よりランダムにて1枚封入(弩級のゴーサイン Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/upload/images/6fe1c96ce4203f8dee665860c606ddb4a1893b1c.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "邪魔しないで Here We Go!",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 2,
+              "title": "弩級のゴーサイン",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "Yocke",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 3,
+              "title": "若いんだし！",
+              "duration": "05:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 4,
+              "title": "邪魔しないで Here We Go!",
+              "duration": "04:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 5,
+              "title": "弩級のゴーサイン",
+              "duration": "03:49",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "Yocke",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 6,
+              "title": "若いんだし！",
+              "duration": "05:12",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'17"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7370"
+        }
+      ],
+      "note": "トレーディングカード ソロ14種＋集合1種よりランダムにて1枚封入(若いんだし！ Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【工藤遥(モーニング娘。'17) 盤】※forTUNE music限定販売商品",
+      "image": "/upload/images/fe3644e129f7b2bf27abe92b3ee74de3798456ab.webp",
+      "price": "￥1,870（税抜価格 ￥1,700）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "邪魔しないで Here We Go!",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 2,
+              "title": "弩級のゴーサイン",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "Yocke",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 3,
+              "title": "若いんだし！",
+              "duration": "05:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 4,
+              "title": "邪魔しないで Here We Go!",
+              "duration": "04:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 5,
+              "title": "弩級のゴーサイン",
+              "duration": "03:49",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "Yocke",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 6,
+              "title": "若いんだし！",
+              "duration": "05:12",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'17"
+              }
+            }
+          ],
+          "catalogNo": "EPCF-7001"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "若いんだし！",
+              "duration": "05:27",
+              "suffix": "(工藤 遥 Solo Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "工藤遥(モーニング娘。'17)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "若いんだし！",
+              "duration": "10:12",
+              "suffix": "(撮影メイキング映像)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'17"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    }
+  ]
+}

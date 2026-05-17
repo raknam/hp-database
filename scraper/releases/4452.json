@@ -1,0 +1,51 @@
+{
+  "id": 4452,
+  "url": "/release/4452/",
+  "title": "青春まんまんなか！",
+  "category": "CDシングル",
+  "artist": "つばきファクトリー",
+  "releaseDate": "2015.9.6",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/bab7bdc8b9da5a2efe9a063f07b389c88b16e8be.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "青春まんまんなか！",
+              "duration": "04:35",
+              "suffix": "(First Take)",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "KOUGA",
+                "編曲": "CMJK",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青春まんまんなか！",
+              "duration": "04:36",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "KOUGA",
+                "編曲": "CMJK",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "UFCW-1105"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "code": "UFWT-1006",
+  "url": "/release/detail/UFWT-1006/",
+  "source": "upfront",
+  "title": "ゆっくり風呂につかりたい",
+  "category": "CDアルバム",
+  "artist": "KAN",
+  "releaseDate": "2010/10/27",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/d3ef16b02b6e7d2b9a10fadfa2aaec85e117577c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d3ef16b02b6e7d2b9a10fadfa2aaec85e117577c.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "UFWT-1006",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "発明王",
+              "duration": "01:59",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "小林信吾/KAN"
+              }
+            },
+            {
+              "index": 2,
+              "title": "決まりだもの",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "小林信吾/KAN"
+              }
+            },
+            {
+              "index": 3,
+              "title": "プロポーズ",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "小林信吾/KAN"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ときどき雲と話をしよう",
+              "duration": "03:02",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "小林信吾/KAN"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ぼくの彼女はおりこうさん",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "小林信吾/KAN"
+              }
+            },
+            {
+              "index": 6,
+              "title": "永遠",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "小林信吾/KAN"
+              }
+            },
+            {
+              "index": 7,
+              "title": "信じられない人",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "小林信吾/KAN"
+              }
+            },
+            {
+              "index": 8,
+              "title": "イン・ザ・ネイム・オブ・ラヴ",
+              "duration": "05:31",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "小林信吾/KAN"
+              }
+            },
+            {
+              "index": 9,
+              "title": "恋人",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "小林信吾/KAN"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

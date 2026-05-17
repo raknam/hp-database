@@ -1,0 +1,78 @@
+{
+  "code": "UFDL-1511",
+  "url": "/release/detail/UFDL-1511/",
+  "source": "upfront",
+  "title": "SAYUMINGLANDOLL～未来～ オリジナルサウンドトラック3",
+  "category": "配信",
+  "artist": "道重さゆみ",
+  "releaseDate": "2022/10/04",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/9369397645715b0e45f5c78b73e6230f63c98768.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/9369397645715b0e45f5c78b73e6230f63c98768.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1511",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ビューティフル・ドリーム",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "K2-Dee",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Yeah My Miracle",
+              "duration": "03:16",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "K2-Dee",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "サユミミライ",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "K2-Dee",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 4,
+              "title": "PINK FREEDOM",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "K2-Dee",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ばりかわよかROCK",
+              "duration": "03:25",
+              "credits": {
+                "作詞": "しばたありぼぼ",
+                "作曲": "こやまたくや",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

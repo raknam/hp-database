@@ -1,0 +1,128 @@
+{
+  "code": "UFWT-1004",
+  "url": "/release/detail/UFWT-1004/",
+  "source": "upfront",
+  "title": "HAPPY TITLE -幸福選手権-",
+  "category": "CDアルバム",
+  "artist": "KAN",
+  "releaseDate": "2010/10/27",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/464281f57908246b24278bbbfc93086f66599270.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/464281f57908246b24278bbbfc93086f66599270.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "UFWT-1004",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "UNIT OF SOCIETY",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 2,
+              "title": "OLD FASHIONED GIRL",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 3,
+              "title": "REGRETS",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "奈良部匠平"
+              }
+            },
+            {
+              "index": 4,
+              "title": "GO PLAIN",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 5,
+              "title": "君から目がはなせない",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ALL I WANT IS YOU",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "大谷幸"
+              }
+            },
+            {
+              "index": 7,
+              "title": "FOREIGNER",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "松本晃彦"
+              }
+            },
+            {
+              "index": 8,
+              "title": "REAL REACTION",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "松本晃彦"
+              }
+            },
+            {
+              "index": 9,
+              "title": "A MAN IN DISSATISFACTION",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "奈良部匠平"
+              }
+            },
+            {
+              "index": 10,
+              "title": "東京ライフ",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

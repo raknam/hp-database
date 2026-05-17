@@ -1,0 +1,505 @@
+{
+  "id": 5776,
+  "url": "/release/5776/",
+  "title": "フラリ銀座/自由な国だから",
+  "category": "CDシングル",
+  "artist": "モーニング娘。'18",
+  "releaseDate": "2018.10.24",
+  "label": "zetima",
+  "images": [
+    "/upload/images/3fce63a1540e253378f734336a677c9b17cdd0b7.webp",
+    "/upload/images/e05ddf6fac664e97340c8128496d9b8db197b679.webp",
+    "/upload/images/64d62e71c227d8e196ef7536d9b0e9267749bba1.webp",
+    "/upload/images/e4804569ff340da6f418214f4b915133e4156aa2.webp",
+    "/upload/images/c54e322ceba5b1bf318caec675dee0a87e7bbfc6.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回限定盤A】",
+      "image": "/upload/images/3fce63a1540e253378f734336a677c9b17cdd0b7.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "フラリ銀座",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 2,
+              "title": "自由な国だから",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Y字路の途中",
+              "duration": "05:13",
+              "suffix": "【Additional Track】",
+              "credits": {
+                "作詞": "大橋莉子",
+                "作曲": "大橋莉子",
+                "編曲": "高橋修平",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 4,
+              "title": "フラリ銀座",
+              "duration": "03:57",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 5,
+              "title": "自由な国だから",
+              "duration": "05:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Y字路の途中",
+              "duration": "05:14",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大橋莉子",
+                "作曲": "大橋莉子",
+                "編曲": "高橋修平",
+                "歌": "モーニング娘。'18"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7438"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "フラリ銀座",
+              "duration": "04:25",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'18"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回限定盤B】",
+      "image": "/upload/images/e05ddf6fac664e97340c8128496d9b8db197b679.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "フラリ銀座",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 2,
+              "title": "自由な国だから",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Y字路の途中",
+              "duration": "05:13",
+              "suffix": "【Additional Track】",
+              "credits": {
+                "作詞": "大橋莉子",
+                "作曲": "大橋莉子",
+                "編曲": "高橋修平",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 4,
+              "title": "フラリ銀座",
+              "duration": "03:57",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 5,
+              "title": "自由な国だから",
+              "duration": "05:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Y字路の途中",
+              "duration": "05:14",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大橋莉子",
+                "作曲": "大橋莉子",
+                "編曲": "高橋修平",
+                "歌": "モーニング娘。'18"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7440"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "自由な国だから",
+              "duration": "05:37",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'18"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回限定盤SP】",
+      "image": "/upload/images/64d62e71c227d8e196ef7536d9b0e9267749bba1.webp",
+      "price": "￥1,870（税抜価格 ￥1,700）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "フラリ銀座",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 2,
+              "title": "自由な国だから",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Y字路の途中",
+              "duration": "05:13",
+              "suffix": "【Additional Track】",
+              "credits": {
+                "作詞": "大橋莉子",
+                "作曲": "大橋莉子",
+                "編曲": "高橋修平",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 4,
+              "title": "フラリ銀座",
+              "duration": "03:57",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 5,
+              "title": "自由な国だから",
+              "duration": "05:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Y字路の途中",
+              "duration": "05:14",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大橋莉子",
+                "作曲": "大橋莉子",
+                "編曲": "高橋修平",
+                "歌": "モーニング娘。'18"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7442"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "フラリ銀座",
+              "duration": "04:04",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 2,
+              "title": "自由な国だから",
+              "duration": "05:06",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 3,
+              "title": "フラリ銀座/自由な国だから MV撮影メイキング映像",
+              "duration": "21:22",
+              "credits": {
+                "出演": "モーニング娘。'18"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選応募券封入"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/e4804569ff340da6f418214f4b915133e4156aa2.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "フラリ銀座",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 2,
+              "title": "自由な国だから",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Y字路の途中",
+              "duration": "05:13",
+              "suffix": "【Additional Track】",
+              "credits": {
+                "作詞": "大橋莉子",
+                "作曲": "大橋莉子",
+                "編曲": "高橋修平",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 4,
+              "title": "フラリ銀座",
+              "duration": "03:57",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 5,
+              "title": "自由な国だから",
+              "duration": "05:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Y字路の途中",
+              "duration": "05:14",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大橋莉子",
+                "作曲": "大橋莉子",
+                "編曲": "高橋修平",
+                "歌": "モーニング娘。'18"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7444"
+        }
+      ],
+      "note": "トレーディングカードソロ12種+集合1種よりランダムにて1枚封入(フラリ銀座 Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/c54e322ceba5b1bf318caec675dee0a87e7bbfc6.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "フラリ銀座",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 2,
+              "title": "自由な国だから",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Y字路の途中",
+              "duration": "05:13",
+              "suffix": "【Additional Track】",
+              "credits": {
+                "作詞": "大橋莉子",
+                "作曲": "大橋莉子",
+                "編曲": "高橋修平",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 4,
+              "title": "フラリ銀座",
+              "duration": "03:57",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 5,
+              "title": "自由な国だから",
+              "duration": "05:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Y字路の途中",
+              "duration": "05:14",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大橋莉子",
+                "作曲": "大橋莉子",
+                "編曲": "高橋修平",
+                "歌": "モーニング娘。'18"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7445"
+        }
+      ],
+      "note": "トレーディングカードソロ12種+集合1種よりランダムにて1枚封入(自由な国だから Ver.)※初回プレス分のみ"
+    }
+  ]
+}

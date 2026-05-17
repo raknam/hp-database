@@ -1,0 +1,63 @@
+{
+  "code": "UFBW-1073",
+  "url": "/release/detail/UFBW-1073/",
+  "source": "upfront",
+  "title": "海風",
+  "category": "DVD",
+  "artist": "矢島舞美",
+  "releaseDate": "2011/03/30",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/cf0bce64da37fb3e468e25eebfd4444693f89cc6.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/cf0bce64da37fb3e468e25eebfd4444693f89cc6.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1073",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Morning",
+              "duration": "15:25"
+            },
+            {
+              "index": 2,
+              "title": "In the Room",
+              "duration": "09:49"
+            },
+            {
+              "index": 3,
+              "title": "Garden",
+              "duration": "09:44"
+            },
+            {
+              "index": 4,
+              "title": "Beach",
+              "duration": "06:47"
+            },
+            {
+              "index": 5,
+              "title": "Evening",
+              "duration": "11:24"
+            },
+            {
+              "index": 6,
+              "title": "nterview",
+              "duration": "08:51"
+            },
+            {
+              "index": 7,
+              "title": "Ending",
+              "duration": "01:08"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "code": "UFBW-1529",
+  "url": "/release/detail/UFBW-1529/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.32",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2017/06/21",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/3fd9edadf19f8108cab423d80a15dd1015d6c5c5.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/3fd9edadf19f8108cab423d80a15dd1015d6c5c5.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1529",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "The Vision【名物企画 衣装コーディネート】",
+              "duration": "14:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ストレラ！〜Straight Up!〜(Rock Ver.)【名物企画 衣装コーディネート】",
+              "duration": "13:02",
+              "credits": {
+                "作詞": "fu_mou",
+                "作曲": "fu_mou"
+              }
+            },
+            {
+              "index": 3,
+              "title": "What is LOVE?【名物企画 衣装コーディネート】",
+              "duration": "11:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "VIVA!!薔薇色の人生【名物企画 衣装コーディネート】",
+              "duration": "13:08",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介"
+              }
+            },
+            {
+              "index": 5,
+              "title": "歯をくいしばれっっ！【スタジオライブ集】",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子"
+              }
+            },
+            {
+              "index": 6,
+              "title": "チャーミング勝負世代【スタジオライブ集】",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "理姫",
+                "作曲": "奥脇達也"
+              }
+            },
+            {
+              "index": 7,
+              "title": "キスより先にできること【スタジオライブ集】",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "魚住有希"
+              }
+            },
+            {
+              "index": 8,
+              "title": "バレバレI LOVE YOU【スタジオライブ集】",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo"
+              }
+            },
+            {
+              "index": 9,
+              "title": "こぶしファクトリー「バッチ来い青春！」MV撮影密着",
+              "duration": "02:56"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "code": "EPCE-5642",
+  "url": "/release/detail/EPCE-5642/",
+  "source": "upfront",
+  "title": "暑中お見舞い申し上げます",
+  "category": "CDシングル",
+  "artist": "℃-ute",
+  "releaseDate": "2009/07/01",
+  "label": "zetima",
+  "images": [
+    "/images/c7d302c608a095024efcb573cbd07fca2f94392b.jpg",
+    "/images/775354409da13b7115a74ef90eed705987639b17.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/c7d302c608a095024efcb573cbd07fca2f94392b.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5642",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "暑中お見舞い申し上げます",
+              "duration": "02:58",
+              "credits": {
+                "作詞": "喜多條忠",
+                "作曲": "佐瀬寿一",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "「残暑 お見舞い 申し上げます。」",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "はたけ",
+                "編曲": "板垣祐介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "暑中お見舞い申し上げます(Instrumental)",
+              "duration": "02:58",
+              "credits": {
+                "作詞": "喜多條忠",
+                "作曲": "佐瀬寿一",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/775354409da13b7115a74ef90eed705987639b17.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5644",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "暑中お見舞い申し上げます(Dance Shot Ver.)",
+              "duration": "03:14",
+              "credits": {
+                "作詞": "喜多條忠",
+                "作曲": "佐瀬寿一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

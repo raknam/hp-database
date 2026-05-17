@@ -1,0 +1,44 @@
+{
+  "id": 1143,
+  "url": "/release/1143/",
+  "title": "シングルV「スキちゃん」",
+  "category": "DVDシングルV",
+  "artist": "スマイレージ",
+  "releaseDate": "2010.1.13",
+  "label": "Good Factory Records",
+  "images": [
+    "/upload/images/00613c52f26a329cd1871759eb027633a6234a6f.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "スキちゃん",
+              "duration": "00:00",
+              "suffix": "(MUSIC CLIP)",
+              "credits": {
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "メイキング映像",
+              "duration": "00:00",
+              "credits": {
+                "出演": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "GFV-31603"
+        }
+      ]
+    }
+  ]
+}

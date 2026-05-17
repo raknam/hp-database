@@ -1,0 +1,101 @@
+{
+  "code": "UFWT-9013",
+  "url": "/release/detail/UFWT-9013/",
+  "source": "upfront",
+  "title": "ファースト KISS",
+  "category": "アナログアルバム",
+  "artist": "松浦亜弥",
+  "releaseDate": "2019/05/01",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/36e55921015b69deeec977516676aefc68e3d651.jpg"
+  ],
+  "editions": [
+    {
+      "name": "＜Disc1＞",
+      "image": "/images/36e55921015b69deeec977516676aefc68e3d651.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "アナログアルバム",
+          "catalogNo": "UFWT-9013",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ドッキドキ！LOVEメール",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "トロピカ〜ル恋して〜る",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "渡部チェル"
+              }
+            },
+            {
+              "index": 3,
+              "title": "オシャレ！",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "＜Disc2＞",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "アナログアルバム",
+          "catalogNo": "UFWT-9014",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "100回のKISS",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 2,
+              "title": "絶対解ける問題 X＝♥",
+              "duration": "03:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "hasie&koji"
+              }
+            },
+            {
+              "index": 3,
+              "title": "笑顔に涙～THANK YOU! DEAR MY FRIENDS～",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野伸"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

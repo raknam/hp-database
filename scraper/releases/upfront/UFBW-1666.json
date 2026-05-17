@@ -1,0 +1,73 @@
+{
+  "code": "UFBW-1666",
+  "url": "/release/detail/UFBW-1666/",
+  "source": "upfront",
+  "title": "Hello! Projectが行く！ナルチカ日帰り里山旅2022",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2022/04/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/55d0388b128c035ca057e56746cf136f6d0dcec3.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/55d0388b128c035ca057e56746cf136f6d0dcec3.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1666",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "10:00"
+            },
+            {
+              "index": 2,
+              "title": "釣り堀＆BBQ",
+              "duration": "11:01"
+            },
+            {
+              "index": 3,
+              "title": "富崎館再建",
+              "duration": "02:52"
+            },
+            {
+              "index": 4,
+              "title": "イチゴ狩り＆ドレッシング作り",
+              "duration": "04:49"
+            },
+            {
+              "index": 5,
+              "title": "古民家 南極スペースで料理",
+              "duration": "05:15"
+            },
+            {
+              "index": 6,
+              "title": "エンディング",
+              "duration": "01:06"
+            },
+            {
+              "index": 7,
+              "title": "おまけ",
+              "duration": "03:37"
+            },
+            {
+              "index": 8,
+              "title": "ナレーション撮りを終えて・・・",
+              "duration": "01:08"
+            },
+            {
+              "index": 9,
+              "title": "ナルチカ里山旅 ハロプロ女子会【DVD特別企画】",
+              "duration": "23:04"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

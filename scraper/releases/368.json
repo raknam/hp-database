@@ -1,0 +1,83 @@
+{
+  "id": 368,
+  "url": "/release/368/",
+  "title": "娘DOKYU！ Vol.6",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2006.10.18",
+  "label": "zetima",
+  "images": [
+    "/upload/images/bd9d262f1ee7b830cea144a7aaccabee52a9e30c.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "吉澤ひとみ",
+              "duration": "13:23",
+              "credits": {
+                "出演": "吉澤ひとみ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "小川麻琴",
+              "duration": "17:18",
+              "credits": {
+                "出演": "小川麻琴"
+              }
+            },
+            {
+              "index": 3,
+              "title": "藤本美貴",
+              "duration": "20:34",
+              "credits": {
+                "出演": "藤本美貴"
+              }
+            },
+            {
+              "index": 4,
+              "title": "新垣里沙",
+              "duration": "14:39",
+              "credits": {
+                "出演": "新垣里沙"
+              }
+            },
+            {
+              "index": 1,
+              "title": "未公開映像：道重さゆみ編",
+              "duration": "10:40",
+              "credits": {
+                "出演": "道重さゆみ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "未公開映像：田中れいな編",
+              "duration": "11:10",
+              "credits": {
+                "出演": "田中れいな"
+              }
+            },
+            {
+              "index": 3,
+              "title": "未公開映像：メトロラビッツH.P.編",
+              "duration": "05:15",
+              "credits": {
+                "出演": "高橋愛・亀井絵里・久住小春(モーニング娘。)/三好絵梨香・岡田唯(美勇伝)"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5209"
+        }
+      ]
+    }
+  ]
+}

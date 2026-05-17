@@ -1,0 +1,78 @@
+{
+  "code": "UFBW-1077",
+  "url": "/release/detail/UFBW-1077/",
+  "source": "upfront",
+  "title": "美女学 Vol.7",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2011/03/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/65119bdf68e56dd530e8c428316d93d5657f12c3.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/65119bdf68e56dd530e8c428316d93d5657f12c3.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1077",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "真野恵里菜の手相鑑定 実践編に突入！",
+              "duration": "15:33"
+            },
+            {
+              "index": 2,
+              "title": "真野恵里菜の手相鑑定 実践編レベル2",
+              "duration": "12:00"
+            },
+            {
+              "index": 3,
+              "title": "実践編レベル31人で手相鑑定！①",
+              "duration": "13:26"
+            },
+            {
+              "index": 4,
+              "title": "実践編レベル31人で手相鑑定！②",
+              "duration": "14:01"
+            },
+            {
+              "index": 5,
+              "title": "モーニング娘。",
+              "duration": "05:08"
+            },
+            {
+              "index": 6,
+              "title": "Berryz工房",
+              "duration": "04:40"
+            },
+            {
+              "index": 7,
+              "title": "℃-ute",
+              "duration": "03:11"
+            },
+            {
+              "index": 8,
+              "title": "真野恵里菜",
+              "duration": "03:41"
+            },
+            {
+              "index": 9,
+              "title": "スマイレージ",
+              "duration": "03:37"
+            },
+            {
+              "index": 10,
+              "title": "美女学 特別授業！",
+              "duration": "02:20"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

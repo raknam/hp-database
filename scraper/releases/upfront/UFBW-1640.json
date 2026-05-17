@@ -1,0 +1,116 @@
+{
+  "code": "UFBW-1640",
+  "url": "/release/detail/UFBW-1640/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.62",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2019/12/11",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/72adeacc597d85ffcce85e94f94d6d63b04c0d96.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/72adeacc597d85ffcce85e94f94d6d63b04c0d96.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1640",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "武道×フィットネス",
+              "duration": "07:44"
+            },
+            {
+              "index": 2,
+              "title": "デッサン",
+              "duration": "09:01"
+            },
+            {
+              "index": 3,
+              "title": "英会話",
+              "duration": "11:21"
+            },
+            {
+              "index": 4,
+              "title": "職業体験～声優～",
+              "duration": "11:02"
+            },
+            {
+              "index": 5,
+              "title": "正しい日本語",
+              "duration": "09:25"
+            },
+            {
+              "index": 6,
+              "title": "フラリ銀座【スタジオライブ集】",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ロマンスに目覚める妄想女子の歌【スタジオライブ集】",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 8,
+              "title": "夏将軍【スタジオライブ集】",
+              "duration": "05:15",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE/ STAND ALONE"
+              }
+            },
+            {
+              "index": 9,
+              "title": "シンクロ。【スタジオライブ集】",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 10,
+              "title": "素直に甘えて【スタジオライブ集】",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 11,
+              "title": "サンバ！こぶしジャネイロ【スタジオライブ集】",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 12,
+              "title": "花、闌の時【スタジオライブ集】",
+              "duration": "04:44",
+              "credits": {
+                "作詞": "小椋 佳",
+                "作曲": "小椋 佳"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

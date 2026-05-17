@@ -1,0 +1,68 @@
+{
+  "code": "HKCN-50065",
+  "url": "/release/detail/HKCN-50065/",
+  "source": "upfront",
+  "title": "リーヨ～青春のイナズマイレブン～",
+  "category": "CDシングル",
+  "artist": "T-Pistonz",
+  "releaseDate": "2008/08/27",
+  "label": "hachama",
+  "images": [
+    "/images/7fa642fa0c260428a6a00f2ed9d58c2cb442d6ef.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7fa642fa0c260428a6a00f2ed9d58c2cb442d6ef.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50065",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "リーヨ～青春のイナズマイレブン～",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "山﨑徹＆弘",
+                "作曲": "山﨑徹＆弘",
+                "編曲": "T-Pistonz"
+              }
+            },
+            {
+              "index": 2,
+              "title": "涙ポロリーヨ",
+              "duration": "04:59",
+              "credits": {
+                "作詞": "山﨑徹",
+                "作曲": "山﨑徹",
+                "編曲": "T-Pistonz"
+              }
+            },
+            {
+              "index": 3,
+              "title": "リーヨ～青春のイナズマイレブン～(Instrumental)",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "山﨑徹＆弘",
+                "作曲": "山﨑徹＆弘",
+                "編曲": "T-Pistonz"
+              }
+            },
+            {
+              "index": 4,
+              "title": "涙ポロリーヨ(Instrumental)",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "山﨑徹",
+                "作曲": "山﨑徹",
+                "編曲": "T-Pistonz"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1584",
+  "url": "/release/detail/UFDL-1584/",
+  "source": "upfront",
+  "title": "FireWorks",
+  "category": "配信",
+  "artist": "つばきファクトリー",
+  "releaseDate": "2026/03/21",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/a84a14c7515f43804058ee1682d76c60921b3ff4.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/a84a14c7515f43804058ee1682d76c60921b3ff4.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1584",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "FireWorks",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE",
+                "編曲": "草野将史"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,535 @@
+{
+  "id": 6842,
+  "url": "/release/6842/",
+  "title": "運命 CHACHACHACHA～N/ウチらの地元は地球じゃん！",
+  "category": "CDシングル",
+  "artist": "OCHA NORMA",
+  "releaseDate": "2022.11.30",
+  "label": "zetima",
+  "images": [
+    "/upload/images/a9deff37640236edacc2c4206e8706d531b9ac06.webp",
+    "/upload/images/d30a6b4ca5109284a6029afa8e0e01e304edb42d.webp",
+    "/upload/images/ab2c0b51eedae3d5b0eef4b5e2f50063d41bdec0.webp",
+    "/upload/images/d71f957533aac22ed89b2135e9ba041ab4306503.webp",
+    "/upload/images/788eb8fa479c74fb782fd1c5477497a8ea3ad512.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/a9deff37640236edacc2c4206e8706d531b9ac06.webp",
+      "price": "￥2,090（税抜価格 ￥1,900）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "運命 CHACHACHACHA～N",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "YUZURU KUSUGO/柴山慧",
+                "作曲": "YUZURU KUSUGO/柴山慧",
+                "編曲": "YUZURU KUSUGO/柴山慧",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ウチらの地元は地球じゃん！",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "運命 CHACHACHACHA～N",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "YUZURU KUSUGO/柴山慧",
+                "作曲": "YUZURU KUSUGO/柴山慧",
+                "編曲": "YUZURU KUSUGO/柴山慧",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ウチらの地元は地球じゃん！",
+              "duration": "04:09",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "OCHA NORMA"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7713"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "運命 CHACHACHACHA～N",
+              "duration": "04:30",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "YUZURU KUSUGO/柴山慧",
+                "作曲": "YUZURU KUSUGO/柴山慧",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "運命 CHACHACHACHA～N",
+              "duration": "03:50",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "YUZURU KUSUGO/柴山慧",
+                "作曲": "YUZURU KUSUGO/柴山慧",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "運命 CHACHACHACHA～N",
+              "duration": "20:52",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "OCHA NORMA"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付(1曲目MV＋Dance Shot Ver.＋メイキング映像)"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/d30a6b4ca5109284a6029afa8e0e01e304edb42d.webp",
+      "price": "￥2,090（税抜価格 ￥1,900）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "運命 CHACHACHACHA～N",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "YUZURU KUSUGO/柴山慧",
+                "作曲": "YUZURU KUSUGO/柴山慧",
+                "編曲": "YUZURU KUSUGO/柴山慧",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ウチらの地元は地球じゃん！",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "運命 CHACHACHACHA～N",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "YUZURU KUSUGO/柴山慧",
+                "作曲": "YUZURU KUSUGO/柴山慧",
+                "編曲": "YUZURU KUSUGO/柴山慧",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ウチらの地元は地球じゃん！",
+              "duration": "04:09",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "OCHA NORMA"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7715"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ウチらの地元は地球じゃん！",
+              "duration": "04:35",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ウチらの地元は地球じゃん！",
+              "duration": "04:09",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ウチらの地元は地球じゃん！",
+              "duration": "20:27",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "OCHA NORMA"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付(2曲目MV＋Dance Shot Ver.＋メイキング映像)"
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/upload/images/ab2c0b51eedae3d5b0eef4b5e2f50063d41bdec0.webp",
+      "price": "￥3,500（税抜価格 ￥3,182）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "運命 CHACHACHACHA～N",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "YUZURU KUSUGO/柴山慧",
+                "作曲": "YUZURU KUSUGO/柴山慧",
+                "編曲": "YUZURU KUSUGO/柴山慧",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ウチらの地元は地球じゃん！",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "運命 CHACHACHACHA～N",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "YUZURU KUSUGO/柴山慧",
+                "作曲": "YUZURU KUSUGO/柴山慧",
+                "編曲": "YUZURU KUSUGO/柴山慧",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ウチらの地元は地球じゃん！",
+              "duration": "04:09",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "OCHA NORMA"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7717"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:53",
+              "credits": {
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "お祭りデビューだぜ！",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ラーメン大好き小泉さんの唄",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "シャ乱Q",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "MC",
+              "duration": "03:37",
+              "credits": {
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ミステイク",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "中島卓偉",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Go Your Way",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "渡辺泰司",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 7,
+              "title": "デート前夜狂想曲",
+              "duration": "03:03",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/ha-j",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 8,
+              "title": "サプライズVTR",
+              "duration": "08:26",
+              "credits": {
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 9,
+              "title": "MC",
+              "duration": "25:17",
+              "credits": {
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 10,
+              "title": "恋のクラウチングスタート",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "OCHA NORMA"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付「OCHA NORMA メジャーデビューシングル発売記念ミニライブイベント」(2022/7/13 Spotify O-EAST)"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/d71f957533aac22ed89b2135e9ba041ab4306503.webp",
+      "price": "定価 ￥1,300（税抜価格 ￥1,182）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "運命 CHACHACHACHA～N",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "YUZURU KUSUGO/柴山慧",
+                "作曲": "YUZURU KUSUGO/柴山慧",
+                "編曲": "YUZURU KUSUGO/柴山慧",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ウチらの地元は地球じゃん！",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Go Your Way",
+              "duration": "04:25",
+              "suffix": "【Additional Track】",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "渡辺泰司",
+                "編曲": "渡辺泰司",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "運命 CHACHACHACHA～N",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "YUZURU KUSUGO/柴山慧",
+                "作曲": "YUZURU KUSUGO/柴山慧",
+                "編曲": "YUZURU KUSUGO/柴山慧",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ウチらの地元は地球じゃん！",
+              "duration": "04:09",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Go Your Way",
+              "duration": "04:25",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "渡辺泰司",
+                "編曲": "渡辺泰司",
+                "歌": "OCHA NORMA"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7719"
+        }
+      ],
+      "note": "トレーディングカードソロ10種＋キラ仕様集合1種よりランダムにて1枚封入(1曲目 Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/788eb8fa479c74fb782fd1c5477497a8ea3ad512.webp",
+      "price": "定価 ￥1,300（税抜価格 ￥1,182）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "運命 CHACHACHACHA～N",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "YUZURU KUSUGO/柴山慧",
+                "作曲": "YUZURU KUSUGO/柴山慧",
+                "編曲": "YUZURU KUSUGO/柴山慧",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ウチらの地元は地球じゃん！",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "素肌は熱帯夜",
+              "duration": "03:53",
+              "suffix": "【Additional Track】",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "早川響介",
+                "編曲": "鈴木俊介",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "運命 CHACHACHACHA～N",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "YUZURU KUSUGO/柴山慧",
+                "作曲": "YUZURU KUSUGO/柴山慧",
+                "編曲": "YUZURU KUSUGO/柴山慧",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ウチらの地元は地球じゃん！",
+              "duration": "04:09",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 6,
+              "title": "素肌は熱帯夜",
+              "duration": "03:53",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "早川響介",
+                "編曲": "鈴木俊介",
+                "歌": "OCHA NORMA"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7720"
+        }
+      ],
+      "note": "トレーディングカードソロ10種＋キラ仕様集合1種よりランダムにて1枚封入(2曲目 Ver.)※初回プレス分のみ"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": 3631,
+  "url": "/release/3631/",
+  "title": "アロハロ！ 石川梨華 DVD",
+  "category": "DVD",
+  "artist": "石川梨華",
+  "releaseDate": "2007.3.7",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/upload/images/6e3902afbc33b15e30d9edcc8e1d5a5d244e86be.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Jewelry",
+              "duration": "07:40",
+              "credits": {
+                "出演": "石川梨華"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Drink",
+              "duration": "07:31",
+              "credits": {
+                "出演": "石川梨華"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Beach Ⅰ",
+              "duration": "01:56",
+              "credits": {
+                "出演": "石川梨華"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Nail",
+              "duration": "10:00",
+              "credits": {
+                "出演": "石川梨華"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Tennis",
+              "duration": "06:00",
+              "credits": {
+                "出演": "石川梨華"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Surfing",
+              "duration": "08:59",
+              "credits": {
+                "出演": "石川梨華"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Beach Ⅱ",
+              "duration": "02:00",
+              "credits": {
+                "出演": "石川梨華"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Rei-Fura",
+              "duration": "06:54",
+              "credits": {
+                "出演": "石川梨華"
+              }
+            },
+            {
+              "index": 9,
+              "title": "Dinner",
+              "duration": "15:00",
+              "credits": {
+                "出演": "石川梨華"
+              }
+            },
+            {
+              "index": 10,
+              "title": "TV-SPOT [15sec.]",
+              "duration": "00:15",
+              "suffix": "(おまけ 美勇伝ライブツアー2006秋 美勇伝説Ⅲ ～愛すCREAMとMyプリン～)",
+              "credits": {
+                "出演": "石川梨華"
+              }
+            },
+            {
+              "index": 11,
+              "title": "TV-SPOT [30sec.]",
+              "duration": "00:30",
+              "suffix": "(おまけ 美勇伝ライブツアー2006秋 美勇伝説Ⅲ ～愛すCREAMとMyプリン～)",
+              "credits": {
+                "出演": "石川梨華"
+              }
+            }
+          ],
+          "catalogNo": "PKBP-5067"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1585",
+  "url": "/release/detail/UFDL-1585/",
+  "source": "upfront",
+  "title": "嘘だよ",
+  "category": "配信",
+  "artist": "鈴木愛理",
+  "releaseDate": "2026/04/01",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/6b788b35dd6044d72d39495d6ec5fa201670e951.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/6b788b35dd6044d72d39495d6ec5fa201670e951.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1585",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "嘘だよ",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "橋口洋平",
+                "作曲": "橋口洋平",
+                "編曲": "村中慧慈 / ストリングスアレンジ：深澤恵梨香"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

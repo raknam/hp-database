@@ -1,0 +1,101 @@
+{
+  "code": "UFWT-9009",
+  "url": "/release/detail/UFWT-9009/",
+  "source": "upfront",
+  "title": "4th「いきまっしょい!」",
+  "category": "アナログアルバム",
+  "artist": "モーニング娘。",
+  "releaseDate": "2019/04/01",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/a61309a2bf4a1804a74bcb79b7e6329598a20ad5.jpg"
+  ],
+  "editions": [
+    {
+      "name": "＜Disc1＞",
+      "image": "/images/a61309a2bf4a1804a74bcb79b7e6329598a20ad5.jpg",
+      "price": "￥5,940 (税抜価格 ￥5,400)",
+      "discs": [
+        {
+          "type": "アナログアルバム",
+          "catalogNo": "UFWT-9009",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ザ☆ピ～ス！(Complete Version）",
+              "duration": "05:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン (horn arrangement by 川松久芳)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "いいことある記念の瞬間",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Mr.Moonlight～愛のビッグバンド～(Long Version)",
+              "duration": "06:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介 (horn arrangement by 小林正弘)"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "＜Disc2＞",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "アナログアルバム",
+          "catalogNo": "UFWT-9010",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "初めてのロックコンサート",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "男友達",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "そうだ！We're ALIVE",
+              "duration": "04:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

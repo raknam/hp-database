@@ -1,0 +1,75 @@
+{
+  "id": 510,
+  "url": "/release/510/",
+  "title": "ここが好き",
+  "category": "DVD",
+  "artist": "鈴木愛理",
+  "releaseDate": "2012.7.25",
+  "label": "zetima",
+  "images": [
+    "/upload/images/26a58df9e1b27e4f07b83ee15b7360afed58fc71.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "00:34",
+              "credits": {
+                "出演": "鈴木愛理(℃-ute)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "街",
+              "duration": "10:23",
+              "credits": {
+                "出演": "鈴木愛理(℃-ute)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "学校",
+              "duration": "11:23",
+              "credits": {
+                "出演": "鈴木愛理(℃-ute)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "海",
+              "duration": "12:36",
+              "credits": {
+                "出演": "鈴木愛理(℃-ute)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "写真集「この風が好き」メイキング映像",
+              "duration": "23:44",
+              "credits": {
+                "出演": "鈴木愛理(℃-ute)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "エンドロール",
+              "duration": "01:06",
+              "credits": {
+                "出演": "鈴木愛理(℃-ute)"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5440"
+        }
+      ]
+    }
+  ]
+}

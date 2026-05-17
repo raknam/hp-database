@@ -1,0 +1,91 @@
+{
+  "code": "PKBP-5141",
+  "url": "/release/detail/PKBP-5141/",
+  "source": "upfront",
+  "title": "Berryz工房シングルVクリップス⑤",
+  "category": "DVD",
+  "artist": "Berryz工房",
+  "releaseDate": "2011/08/17",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/9d380ca26412af4ec2b681337699da4f18bf2389.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/9d380ca26412af4ec2b681337699da4f18bf2389.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5141",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "雄叫びボーイ WAO!",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "友達は友達なんだ！",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "本気ボンバー！！",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "シャイニング パワー",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ヒロインになろうか！",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "愛の弾丸",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ああ、夜が明ける",
+              "duration": "04:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

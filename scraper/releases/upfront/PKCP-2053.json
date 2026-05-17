@@ -1,0 +1,68 @@
+{
+  "code": "PKCP-2053",
+  "url": "/release/detail/PKCP-2053/",
+  "source": "upfront",
+  "title": "恋唄綴り",
+  "category": "CDシングル",
+  "artist": "堀内孝雄",
+  "releaseDate": "2009/10/28",
+  "label": "ライスミュージック",
+  "images": [
+    "/images/1cb5e6226f1de6e48f396cacf516b30bbb01d4b7.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/1cb5e6226f1de6e48f396cacf516b30bbb01d4b7.jpg",
+      "price": "￥1,257 (税抜価格 ￥1,143)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-2053",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋唄綴り",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 2,
+              "title": "河",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋唄綴り(オリジナル・カラオケ)",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 4,
+              "title": "河(オリジナル・カラオケ)",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

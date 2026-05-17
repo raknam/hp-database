@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1447",
+  "url": "/release/detail/UFDL-1447/",
+  "source": "upfront",
+  "title": "天使の涙",
+  "category": "配信",
+  "artist": "中西香菜",
+  "releaseDate": "2019/12/20",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/f16f4c00fe5fbe30097c1d7fd945b097f7985764.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f16f4c00fe5fbe30097c1d7fd945b097f7985764.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1447",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "天使の涙",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "福田花音",
+                "編曲": "浜田ピエール裕介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

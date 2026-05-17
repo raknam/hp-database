@@ -1,0 +1,59 @@
+{
+  "id": 2117,
+  "url": "/release/2117/",
+  "title": "ハロー!SATOYAMAライフ Vol.18",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2013.11.8",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/002e791504902b83841414a4813f6dd8fcee56c9.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "SATOYAMAへ行こう＆ひな祭りフェスティバル2013Berryz工房10周年突入スッペシャル！",
+              "duration": "20:25",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "桃の木を里山へ移動しよう！",
+              "duration": "22:14",
+              "credits": {
+                "出演": "譜久村聖・飯窪春菜・石田亜佑美(モーニング娘。)/須藤茉麻(Berryz工房)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "春が来た！新メンバーが里山へやってきた",
+              "duration": "32:05",
+              "credits": {
+                "出演": "和田彩花・福田花音・中西香菜・竹内朱莉(スマイレージ)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "モーニング娘。「君さえ居れば何も要らない」MV撮影に密着",
+              "duration": "06:59",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1309"
+        }
+      ]
+    }
+  ]
+}

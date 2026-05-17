@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1384",
+  "url": "/release/detail/UFDL-1384/",
+  "source": "upfront",
+  "title": "私に帰れる町",
+  "category": "配信",
+  "artist": "中島早貴",
+  "releaseDate": "2017/12/15",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/3b7c179168b1b691cbdbd171016aa313327b9c23.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/3b7c179168b1b691cbdbd171016aa313327b9c23.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1384",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "私に帰れる町",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "星部ショウ",
+                "編曲": "荒幡亮平"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

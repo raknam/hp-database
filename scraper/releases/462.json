@@ -1,0 +1,56 @@
+{
+  "id": 462,
+  "url": "/release/462/",
+  "title": "シングルV「青春コレクション」",
+  "category": "DVDシングルV",
+  "artist": "モーニング娘。",
+  "releaseDate": "2010.6.16",
+  "label": "zetima",
+  "images": [
+    "/upload/images/5bc7d1ddf1ac8ddb4dfc3ae3576320a7e397d139.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "青春コレクション",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青春コレクション",
+              "duration": "04:49",
+              "suffix": "(青春Ver.-type2-)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "28:33",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5378"
+        }
+      ]
+    }
+  ]
+}

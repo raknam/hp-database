@@ -1,0 +1,68 @@
+{
+  "code": "EPBE-5461",
+  "url": "/release/detail/EPBE-5461/",
+  "source": "upfront",
+  "title": "アロハロ！モーニング娘。9期・10期 DVD",
+  "category": "DVD",
+  "artist": "モーニング娘。",
+  "releaseDate": "2013/01/16",
+  "label": "zetima",
+  "images": [
+    "/images/4925f0d648055f8f45ced5f6f22ac72b1f3bf65b.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/4925f0d648055f8f45ced5f6f22ac72b1f3bf65b.jpg",
+      "price": "￥4,400 (税抜価格 ￥4,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5461",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "00:20"
+            },
+            {
+              "index": 2,
+              "title": "ディスクゴルフ対決9期編",
+              "duration": "29:07"
+            },
+            {
+              "index": 3,
+              "title": "Image9",
+              "duration": "08:42"
+            },
+            {
+              "index": 4,
+              "title": "ディスクゴルフ対決10期編",
+              "duration": "27:29"
+            },
+            {
+              "index": 5,
+              "title": "Image10",
+              "duration": "05:04"
+            },
+            {
+              "index": 6,
+              "title": "対決結果発表",
+              "duration": "08:40"
+            },
+            {
+              "index": 7,
+              "title": "写真集メイキング",
+              "duration": "18:37"
+            },
+            {
+              "index": 8,
+              "title": "エンディング",
+              "duration": "01:00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

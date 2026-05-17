@@ -1,0 +1,377 @@
+{
+  "id": 4303,
+  "url": "/release/4303/",
+  "title": "Hello! Project 2011 SUMMER〜 ニッポンの未来は YEAH YEAH ライブ 〜",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2011.11.16",
+  "label": "hachama",
+  "images": [
+    "/upload/images/abcee8c0655a70a08b1b5ab3b384a020ef393d10.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:52",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "LOVEマシーン",
+              "duration": "03:40",
+              "suffix": "(YEAH YEAH ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 3,
+              "title": "MC",
+              "duration": "01:22",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "VTR映像",
+              "duration": "02:45",
+              "suffix": "(メンバー紹介)",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 5,
+              "title": "MC",
+              "duration": "00:23",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 6,
+              "title": "この地球の平和を本気で願ってるんだよ！",
+              "duration": "05:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ああ、夜が明ける",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 8,
+              "title": "世界一HAPPYな女の子",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 9,
+              "title": "My Days for You",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "中島卓偉",
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 10,
+              "title": "有頂天LOVE",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 11,
+              "title": "MC",
+              "duration": "08:35",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 12,
+              "title": "FOREVER LOVE",
+              "duration": "02:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 13,
+              "title": "ちょこっとLOVE",
+              "duration": "02:45",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 14,
+              "title": "LOVE涙色",
+              "duration": "03:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 15,
+              "title": "MC",
+              "duration": "08:43",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 16,
+              "title": "ライバル",
+              "duration": "02:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "小川紗季"
+              }
+            },
+            {
+              "index": 17,
+              "title": "恋ING",
+              "duration": "02:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "鈴木愛理"
+              }
+            },
+            {
+              "index": 18,
+              "title": "記憶の迷路〜C＼C (シンデレラ＼コンプレックス)",
+              "duration": "05:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "High－King"
+              }
+            },
+            {
+              "index": 19,
+              "title": "MC",
+              "duration": "05:38",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 20,
+              "title": "流星ボーイ",
+              "duration": "02:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 21,
+              "title": "みかん",
+              "duration": "02:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 22,
+              "title": "その場面でビビっちゃいけないじゃん！",
+              "duration": "03:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 23,
+              "title": "MC",
+              "duration": "07:02",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 24,
+              "title": "夢見る 15歳",
+              "duration": "02:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 25,
+              "title": "21世紀的恋愛事情",
+              "duration": "02:21",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "泰誠",
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 26,
+              "title": "スキちゃん",
+              "duration": "02:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房+真野恵里菜・スマイレージ"
+              }
+            },
+            {
+              "index": 27,
+              "title": "愛の弾丸",
+              "duration": "03:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 28,
+              "title": "いざ、進め！ Steady go!",
+              "duration": "02:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 29,
+              "title": "MC",
+              "duration": "00:25",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 30,
+              "title": "負けるな わっしょい！",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "ベキマス"
+              }
+            },
+            {
+              "index": 31,
+              "title": "Only you",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 32,
+              "title": "ラヴ＆ピィ〜ス！HEROがやって来たっ。",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。+Berryz工房・℃-ute・真野恵里菜・スマイレージ"
+              }
+            },
+            {
+              "index": 33,
+              "title": "MC",
+              "duration": "01:21",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 34,
+              "title": "ALL FOR ONE & ONE FOR ALL!",
+              "duration": "07:08",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 1,
+              "title": "○○ がんばらなくてもええねんで！！",
+              "duration": "02:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "須藤茉麻"
+              }
+            },
+            {
+              "index": 2,
+              "title": "SOME BOYS! TOUCH",
+              "duration": "02:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "岡井千聖"
+              }
+            },
+            {
+              "index": 3,
+              "title": "レモン色とミルクティ",
+              "duration": "02:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKBN-50156"
+        }
+      ]
+    }
+  ]
+}

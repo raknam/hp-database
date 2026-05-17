@@ -1,0 +1,68 @@
+{
+  "code": "EPXE-5007",
+  "url": "/release/detail/EPXE-5007/",
+  "source": "upfront",
+  "title": "AI loves you I love AI",
+  "category": "BD",
+  "artist": "高橋愛",
+  "releaseDate": "2011/05/18",
+  "label": "zetima",
+  "images": [
+    "/images/9b2ec822f917667397258edcc692a16b2967a546.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/9b2ec822f917667397258edcc692a16b2967a546.jpg",
+      "price": "￥6,285 (税抜価格 ￥5,714)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5007",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "00:41"
+            },
+            {
+              "index": 2,
+              "title": "With AI",
+              "duration": "05:17"
+            },
+            {
+              "index": 3,
+              "title": "On the way",
+              "duration": "01:25"
+            },
+            {
+              "index": 4,
+              "title": "Beach",
+              "duration": "18:10"
+            },
+            {
+              "index": 5,
+              "title": "Sunset",
+              "duration": "16:45"
+            },
+            {
+              "index": 6,
+              "title": "New day",
+              "duration": "03:10"
+            },
+            {
+              "index": 7,
+              "title": "Making of 「LOVE NO.10」",
+              "duration": "17:21"
+            },
+            {
+              "index": 8,
+              "title": "Ending",
+              "duration": "01:07"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": 2137,
+  "url": "/release/2137/",
+  "title": "Greeting 〜生田 衣梨奈〜",
+  "category": "DVD",
+  "artist": "生田衣梨奈",
+  "releaseDate": "2011.8.12",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/e2054aefd20c4bef95f8b5edacd70e0fd640de98.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Casual greeting",
+              "duration": "08:49",
+              "credits": {
+                "出演": "生田衣梨奈(モーニング娘。)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Interview 1",
+              "duration": "11:31",
+              "credits": {
+                "出演": "生田衣梨奈(モーニング娘。)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Day of",
+              "duration": "10:16",
+              "credits": {
+                "出演": "生田衣梨奈(モーニング娘。)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Interview 2",
+              "duration": "14:07",
+              "credits": {
+                "出演": "生田衣梨奈(モーニング娘。)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "School girl",
+              "duration": "05:12",
+              "credits": {
+                "出演": "生田衣梨奈(モーニング娘。)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "03:40",
+              "credits": {
+                "出演": "生田衣梨奈(モーニング娘。)"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-2022"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "code": "EPCE-5572",
+  "url": "/release/detail/EPCE-5572/",
+  "source": "upfront",
+  "title": "きらりん☆レボリューション・ソング・セレクション4",
+  "category": "CDミニアルバム",
+  "artist": "V.A.",
+  "releaseDate": "2008/08/27",
+  "label": "zetima",
+  "images": [
+    "/images/d313b7cf4690a8cf25b6133c9f354b0391646825.jpg",
+    "/images/4a821c0cc44a0e3d7a9ebc6680cafc268b2c8759.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/d313b7cf4690a8cf25b6133c9f354b0391646825.jpg",
+      "price": "￥2,619 (税抜価格 ￥2,381)",
+      "discs": [
+        {
+          "type": "CDミニアルバム",
+          "catalogNo": "EPCE-5572",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "パパンケーキ",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "FIREWORKS",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "TOKYO FRIEND☆SHIPS",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "ササキオサム",
+                "作曲": "ササキオサム",
+                "編曲": "ササキオサム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "アナタボシ(きらりVer.)",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "斎藤悠弥",
+                "編曲": "斎藤悠弥"
+              }
+            },
+            {
+              "index": 4,
+              "title": "アナタボシ(のえるVer.)",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "斎藤悠弥",
+                "編曲": "斎藤悠弥"
+              }
+            },
+            {
+              "index": 5,
+              "title": "アナタボシ(こべにVer.)",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "斎藤悠弥",
+                "編曲": "斎藤悠弥"
+              }
+            },
+            {
+              "index": 6,
+              "title": "サンサンGOGO(きらりVer.)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "吉田勝弥",
+                "編曲": "吉田勝弥"
+              }
+            },
+            {
+              "index": 7,
+              "title": "サンサンGOGO(のえるVer.)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "吉田勝弥",
+                "編曲": "吉田勝弥"
+              }
+            },
+            {
+              "index": 8,
+              "title": "サンサンGOGO(こべにVer.)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "吉田勝弥",
+                "編曲": "吉田勝弥"
+              }
+            },
+            {
+              "index": 9,
+              "title": "パパンケーキ(オリジナルカラオケ)",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "FIREWORKS",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 10,
+              "title": "TOKYO FRIEND☆SHIPS(オリジナルカラオケ)",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "ササキオサム",
+                "作曲": "ササキオサム",
+                "編曲": "ササキオサム"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/4a821c0cc44a0e3d7a9ebc6680cafc268b2c8759.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5574",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "TOKYO FRIEND☆SHIPS",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "ササキオサム",
+                "作曲": "ササキオサム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アナタボシ(アニメVer.)",
+              "duration": "01:38",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "斎藤悠弥"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

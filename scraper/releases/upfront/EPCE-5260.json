@@ -1,0 +1,102 @@
+{
+  "code": "EPCE-5260",
+  "url": "/release/detail/EPCE-5260/",
+  "source": "upfront",
+  "title": "愛あらば IT'S ALL RIGHT",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2004/01/21",
+  "label": "zetima",
+  "images": [
+    "/images/0c9acbeb561bc6f448a618310ec693c47a24a3b6.jpg",
+    "/images/b4fb11aedaae59ec2089d5108d48f5b862f5cb72.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回盤】",
+      "image": "/images/0c9acbeb561bc6f448a618310ec693c47a24a3b6.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5260",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛あらば IT'S ALL RIGHT",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 2,
+              "title": "出来る女",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "愛あらば IT'S ALL RIGHT(Instrumental)",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/b4fb11aedaae59ec2089d5108d48f5b862f5cb72.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5261",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛あらば IT'S ALL RIGHT",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 2,
+              "title": "出来る女",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "愛あらば IT'S ALL RIGHT(Instrumental)",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

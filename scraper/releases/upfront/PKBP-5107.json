@@ -1,0 +1,78 @@
+{
+  "code": "PKBP-5107",
+  "url": "/release/detail/PKBP-5107/",
+  "source": "upfront",
+  "title": "Rika Ishikawa MOST CRISIS！ in Hawaii",
+  "category": "DVD",
+  "artist": "石川梨華",
+  "releaseDate": "2009/02/11",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/d0534ce51bd675d7042c40342ced233af2908f83.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d0534ce51bd675d7042c40342ced233af2908f83.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5107",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "01:15"
+            },
+            {
+              "index": 2,
+              "title": "BIKE",
+              "duration": "13:05"
+            },
+            {
+              "index": 3,
+              "title": "MOUNTAIN",
+              "duration": "05:08"
+            },
+            {
+              "index": 4,
+              "title": "SKY TOUR",
+              "duration": "12:35"
+            },
+            {
+              "index": 5,
+              "title": "MOST CRISIS",
+              "duration": "03:14"
+            },
+            {
+              "index": 6,
+              "title": "SHOPPING",
+              "duration": "03:47"
+            },
+            {
+              "index": 7,
+              "title": "BATHING BEAUTY",
+              "duration": "03:49"
+            },
+            {
+              "index": 8,
+              "title": "MAKING",
+              "duration": "08:25"
+            },
+            {
+              "index": 9,
+              "title": "SPA",
+              "duration": "03:57"
+            },
+            {
+              "index": 10,
+              "title": "ENDING",
+              "duration": "05:02"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

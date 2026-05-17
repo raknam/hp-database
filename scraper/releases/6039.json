@@ -1,0 +1,667 @@
+{
+  "id": 6039,
+  "url": "/release/6039/",
+  "title": "眼鏡の男の子/ニッポンノD・N・A！/Go Waist",
+  "category": "CDシングル",
+  "artist": "BEYOOOOONDS",
+  "releaseDate": "2019.8.7",
+  "label": "zetima",
+  "images": [
+    "/upload/images/35533129a7615430f25ec67cab59247037dbc6ea.webp",
+    "/upload/images/aa099750c6aa7c6d29ec251acdc3bbdd9dc0924f.webp",
+    "/upload/images/a4edd186366f70e2e3bd5cbcb4f68d049f8f5f59.webp",
+    "/upload/images/fefef65280d67d3f87d88d7faf576a0de3166ffd.webp",
+    "/upload/images/ca8c7290abbca5c4d673d92a5b0fc3255177eb40.webp",
+    "/upload/images/c6e71f7cd6a9dc13b4ee6fe55e9baae1e3801e6f.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/35533129a7615430f25ec67cab59247037dbc6ea.webp",
+      "price": "￥1,870（税抜価格 ￥1,700）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "眼鏡の男の子",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ニッポンノD・N・A！",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "野沢トオル",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Go Waist",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "Henri Belolo/Victor Edward Willis/日本語詞：児玉雨子",
+                "作曲": "Jacques Morali",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "眼鏡の男の子",
+              "duration": "03:38",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ニッポンノD・N・A！",
+              "duration": "04:13",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "野沢トオル",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Go Waist",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "Henri Belolo/Victor Edward Willis/日本語詞：児玉雨子",
+                "作曲": "Jacques Morali",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7504"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "眼鏡の男の子",
+              "duration": "05:22",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "眼鏡の男の子",
+              "duration": "03:23",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント参加券封入"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/aa099750c6aa7c6d29ec251acdc3bbdd9dc0924f.webp",
+      "price": "￥1,870（税抜価格 ￥1,700）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "眼鏡の男の子",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ニッポンノD・N・A！",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "野沢トオル",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Go Waist",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "Henri Belolo/Victor Edward Willis/日本語詞：児玉雨子",
+                "作曲": "Jacques Morali",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "眼鏡の男の子",
+              "duration": "03:38",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ニッポンノD・N・A！",
+              "duration": "04:13",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "野沢トオル",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Go Waist",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "Henri Belolo/Victor Edward Willis/日本語詞：児玉雨子",
+                "作曲": "Jacques Morali",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7506"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ニッポンノD・N・A！",
+              "duration": "04:10",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "野沢トオル",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ニッポンノD・N・A！",
+              "duration": "04:10",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "野沢トオル",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント参加券封入"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/a4edd186366f70e2e3bd5cbcb4f68d049f8f5f59.webp",
+      "price": "￥1,870（税抜価格 ￥1,700）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "眼鏡の男の子",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ニッポンノD・N・A！",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "野沢トオル",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Go Waist",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "Henri Belolo/Victor Edward Willis/日本語詞：児玉雨子",
+                "作曲": "Jacques Morali",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "眼鏡の男の子",
+              "duration": "03:38",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ニッポンノD・N・A！",
+              "duration": "04:13",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "野沢トオル",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Go Waist",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "Henri Belolo/Victor Edward Willis/日本語詞：児玉雨子",
+                "作曲": "Jacques Morali",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7508"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Go Waist",
+              "duration": "05:12",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "Henri Belolo/Victor Edward Willis/日本語詞：児玉雨子",
+                "作曲": "Jacques Morali",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Go Waist",
+              "duration": "04:36",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "Henri Belolo/Victor Edward Willis/日本語詞：児玉雨子",
+                "作曲": "Jacques Morali",
+                "出演": "BEYOOOOONDS"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント参加券封入"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/fefef65280d67d3f87d88d7faf576a0de3166ffd.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "眼鏡の男の子",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ニッポンノD・N・A！",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "野沢トオル",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Go Waist",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "Henri Belolo/Victor Edward Willis/日本語詞：児玉雨子",
+                "作曲": "Jacques Morali",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "GIRL ZONE",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "編曲": "大久保薫",
+                "歌": "雨ノ森 川海"
+              }
+            },
+            {
+              "index": 5,
+              "title": "眼鏡の男の子",
+              "duration": "03:38",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ニッポンノD・N・A！",
+              "duration": "04:13",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "野沢トオル",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Go Waist",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "Henri Belolo/Victor Edward Willis/日本語詞：児玉雨子",
+                "作曲": "Jacques Morali",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 8,
+              "title": "GIRL ZONE",
+              "duration": "04:33",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "編曲": "大久保薫",
+                "歌": "雨ノ森 川海"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7510"
+        }
+      ],
+      "note": "トレーディングカードソロ12種＋集合1種よりランダムにて1枚封入(眼鏡の男の子 Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/ca8c7290abbca5c4d673d92a5b0fc3255177eb40.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "眼鏡の男の子",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ニッポンノD・N・A！",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "野沢トオル",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Go Waist",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "Henri Belolo/Victor Edward Willis/日本語詞：児玉雨子",
+                "作曲": "Jacques Morali",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "文化祭実行委員長の恋",
+              "duration": "05:28",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "板垣祐介",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 5,
+              "title": "眼鏡の男の子",
+              "duration": "03:38",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ニッポンノD・N・A！",
+              "duration": "04:13",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "野沢トオル",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Go Waist",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "Henri Belolo/Victor Edward Willis/日本語詞：児玉雨子",
+                "作曲": "Jacques Morali",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 8,
+              "title": "文化祭実行委員長の恋",
+              "duration": "04:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "板垣祐介",
+                "歌": "BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7511"
+        }
+      ],
+      "note": "トレーディングカードソロ12種＋集合1種よりランダムにて1枚封入(ニッポンノD・N・A！ Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/upload/images/c6e71f7cd6a9dc13b4ee6fe55e9baae1e3801e6f.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "眼鏡の男の子",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ニッポンノD・N・A！",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "野沢トオル",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Go Waist",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "Henri Belolo/Victor Edward Willis/日本語詞：児玉雨子",
+                "作曲": "Jacques Morali",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "都営大江戸線の六本木駅で抱きしめて",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "清水信之",
+                "歌": "CHICA#TETSU"
+              }
+            },
+            {
+              "index": 5,
+              "title": "眼鏡の男の子",
+              "duration": "03:38",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ニッポンノD・N・A！",
+              "duration": "04:13",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "野沢トオル",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Go Waist",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "Henri Belolo/Victor Edward Willis/日本語詞：児玉雨子",
+                "作曲": "Jacques Morali",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 8,
+              "title": "都営大江戸線の六本木駅で抱きしめて",
+              "duration": "03:49",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "清水信之",
+                "歌": "CHICA#TETSU"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7512"
+        }
+      ],
+      "note": "トレーディングカードソロ12種＋集合1種よりランダムにて1枚封入(Go Waist Ver.)※初回プレス分のみ"
+    }
+  ]
+}

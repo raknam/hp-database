@@ -1,0 +1,377 @@
+{
+  "id": 5152,
+  "url": "/release/5152/",
+  "title": "地団駄ダンス/Feel！感じるよ",
+  "category": "CDシングル",
+  "artist": "Juice=Juice",
+  "releaseDate": "2017.4.26",
+  "label": "hachama",
+  "images": [
+    "/upload/images/04b2cdd26d3f39b06c30ed46e33033532534aa27.webp",
+    "/upload/images/322cbf6fba35f43e05816bc5df47b7eea9708b13.webp",
+    "/upload/images/18696f6c6bef7204e2c29d5c1782e46ca7c8a5b6.webp",
+    "/upload/images/09fd1444ba89103166c040261d87b18c2ae65ed4.webp",
+    "/upload/images/c664fb01fbcd23209c72e60af46bcb8e018a5e40.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/04b2cdd26d3f39b06c30ed46e33033532534aa27.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "地団駄ダンス",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "BLACC HOLE＆ NOBB-D",
+                "編曲": "BLACC HOLE＆NOBB-D with T",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Feel!感じるよ",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "中村瑛彦",
+                "編曲": "中村瑛彦",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "地団駄ダンス",
+              "duration": "03:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "BLACC HOLE＆ NOBB-D",
+                "編曲": "BLACC HOLE＆NOBB-D with T",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Feel!感じるよ",
+              "duration": "03:58",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "中村瑛彦",
+                "編曲": "中村瑛彦",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50510"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "地団駄ダンス",
+              "duration": "04:33",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "BLACC HOLE＆ NOBB-D",
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/322cbf6fba35f43e05816bc5df47b7eea9708b13.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "地団駄ダンス",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "BLACC HOLE＆ NOBB-D",
+                "編曲": "BLACC HOLE＆NOBB-D with T",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Feel!感じるよ",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "中村瑛彦",
+                "編曲": "中村瑛彦",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "地団駄ダンス",
+              "duration": "03:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "BLACC HOLE＆ NOBB-D",
+                "編曲": "BLACC HOLE＆NOBB-D with T",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Feel!感じるよ",
+              "duration": "03:58",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "中村瑛彦",
+                "編曲": "中村瑛彦",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50512"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Feel!感じるよ",
+              "duration": "04:43",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "中村瑛彦",
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/upload/images/18696f6c6bef7204e2c29d5c1782e46ca7c8a5b6.webp",
+      "price": "￥1,870（税抜価格 ￥1,700）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "地団駄ダンス",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "BLACC HOLE＆ NOBB-D",
+                "編曲": "BLACC HOLE＆NOBB-D with T",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Feel!感じるよ",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "中村瑛彦",
+                "編曲": "中村瑛彦",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "地団駄ダンス",
+              "duration": "03:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "BLACC HOLE＆ NOBB-D",
+                "編曲": "BLACC HOLE＆NOBB-D with T",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Feel!感じるよ",
+              "duration": "03:58",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "中村瑛彦",
+                "編曲": "中村瑛彦",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50514"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "地団駄ダンス",
+              "duration": "03:57",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "BLACC HOLE＆ NOBB-D",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Feel!感じるよ",
+              "duration": "04:09",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "中村瑛彦",
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/09fd1444ba89103166c040261d87b18c2ae65ed4.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "地団駄ダンス",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "BLACC HOLE＆ NOBB-D",
+                "編曲": "BLACC HOLE＆NOBB-D with T",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Feel!感じるよ",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "中村瑛彦",
+                "編曲": "中村瑛彦",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "地団駄ダンス",
+              "duration": "03:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "BLACC HOLE＆ NOBB-D",
+                "編曲": "BLACC HOLE＆NOBB-D with T",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Feel!感じるよ",
+              "duration": "03:58",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "中村瑛彦",
+                "編曲": "中村瑛彦",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50516"
+        }
+      ],
+      "note": "トレカサイズ生写真(ソロ5種＋集合1種の計6種)から1枚ランダム封入(地団駄ダンス Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/c664fb01fbcd23209c72e60af46bcb8e018a5e40.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "地団駄ダンス",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "BLACC HOLE＆ NOBB-D",
+                "編曲": "BLACC HOLE＆NOBB-D with T",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Feel!感じるよ",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "中村瑛彦",
+                "編曲": "中村瑛彦",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "地団駄ダンス",
+              "duration": "03:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "BLACC HOLE＆ NOBB-D",
+                "編曲": "BLACC HOLE＆NOBB-D with T",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Feel!感じるよ",
+              "duration": "03:58",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "中村瑛彦",
+                "編曲": "中村瑛彦",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50517"
+        }
+      ],
+      "note": "トレカサイズ生写真(ソロ5種＋集合1種の計6種)から1枚ランダム封入(Feel！感じるよ Ver.)※初回プレス分のみ"
+    }
+  ]
+}

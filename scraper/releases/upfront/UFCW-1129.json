@@ -1,0 +1,78 @@
+{
+  "code": "UFCW-1129",
+  "url": "/release/detail/UFCW-1129/",
+  "source": "upfront",
+  "title": "演劇女子部「夢見るテレビジョン」オリジナルサウンドトラック",
+  "category": "CDアルバム",
+  "artist": "アンジュルム",
+  "releaseDate": "2017/11/01",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/c94574f5e20c236d41dc6d1d244f8a428b99796b.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/c94574f5e20c236d41dc6d1d244f8a428b99796b.jpg",
+      "price": "￥1,528 (税抜価格 ￥1,389)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "UFCW-1129",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夢見るテレビジョン",
+              "duration": "03:24",
+              "credits": {
+                "作詞": "太田善也",
+                "作曲": "和田俊輔",
+                "編曲": "稲垣大助/和田俊輔"
+              }
+            },
+            {
+              "index": 2,
+              "title": "鬼のプロデューサー",
+              "duration": "01:56",
+              "credits": {
+                "作詞": "太田善也",
+                "作曲": "和田俊輔",
+                "編曲": "原嘉宏"
+              }
+            },
+            {
+              "index": 3,
+              "title": "夢",
+              "duration": "03:01",
+              "credits": {
+                "作詞": "太田善也",
+                "作曲": "和田俊輔",
+                "編曲": "原嘉宏/和田俊輔"
+              }
+            },
+            {
+              "index": 4,
+              "title": "俺こそスター",
+              "duration": "02:26",
+              "credits": {
+                "作詞": "太田善也",
+                "作曲": "和田俊輔",
+                "編曲": "稲垣大助/和田俊輔"
+              }
+            },
+            {
+              "index": 5,
+              "title": "道しるべ",
+              "duration": "02:51",
+              "credits": {
+                "作詞": "太田善也",
+                "作曲": "和田俊輔",
+                "編曲": "稲垣大助"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "code": "HKCN-50032",
+  "url": "/release/detail/HKCN-50032/",
+  "source": "upfront",
+  "title": "スイートホリック",
+  "category": "CDシングル",
+  "artist": "安倍なつみ",
+  "releaseDate": "2006/04/12",
+  "label": "hachama",
+  "images": [
+    "/images/3942f83084753c5ed031c11b41d8b9695eec5f18.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/3942f83084753c5ed031c11b41d8b9695eec5f18.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50032",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "スイートホリック",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "BULGE",
+                "作曲": "BULGE",
+                "編曲": "BULGE"
+              }
+            },
+            {
+              "index": 2,
+              "title": "I'm in Love",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "榎土敦之",
+                "作曲": "川口進",
+                "編曲": "矢野博康"
+              }
+            },
+            {
+              "index": 3,
+              "title": "スイートホリック(Instrumental)",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "BULGE",
+                "作曲": "BULGE",
+                "編曲": "BULGE"
+              }
+            },
+            {
+              "index": 4,
+              "title": "I'm in Love(Instrumental)",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "榎土敦之",
+                "作曲": "川口進",
+                "編曲": "矢野博康"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

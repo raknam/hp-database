@@ -1,0 +1,48 @@
+{
+  "code": "UFBW-2094",
+  "url": "/release/detail/UFBW-2094/",
+  "source": "upfront",
+  "title": "“夏焼雅写真集「GLOW」”メイキングDVD〜特別編集版〜",
+  "category": "DVD",
+  "artist": "夏焼雅",
+  "releaseDate": "2014/01/16",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/nowprinting.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/nowprinting.jpg",
+      "price": "￥2,750 (税抜価格 ￥2,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2094",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "00:20"
+            },
+            {
+              "index": 2,
+              "title": "DAY1",
+              "duration": "31:37"
+            },
+            {
+              "index": 3,
+              "title": "DAY2",
+              "duration": "11:25"
+            },
+            {
+              "index": 4,
+              "title": "DAY3",
+              "duration": "09:33"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

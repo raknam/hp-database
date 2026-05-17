@@ -1,0 +1,68 @@
+{
+  "code": "EPDE-1099",
+  "url": "/release/detail/EPDE-1099/",
+  "source": "upfront",
+  "title": "笑顔を咲かせましょう",
+  "category": "CDシングル",
+  "artist": "上沼恵美子",
+  "releaseDate": "2002/04/24",
+  "label": "zetima",
+  "images": [
+    "/images/2a38c674b0cdada352c3eb33a20cbeb327b26539.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/2a38c674b0cdada352c3eb33a20cbeb327b26539.jpg",
+      "price": "￥1,175 (税抜価格 ￥1,068)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1099",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "笑顔を咲かせましょう",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 2,
+              "title": "それが 愛人",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 3,
+              "title": "笑顔を咲かせましょう(オリジナル・カラオケ)",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 4,
+              "title": "それが 愛人(オリジナル・カラオケ)",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": 3629,
+  "url": "/release/3629/",
+  "title": "シングルV「置き手紙」",
+  "category": "DVDシングルV",
+  "artist": "藤本美貴",
+  "releaseDate": "2008.12.24",
+  "label": "ライスミュージック",
+  "images": [
+    "/upload/images/29c5a6af0a7ab959001f049f14a6326eb21028dc.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "置き手紙 プロモーション・ビデオ",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "いではく",
+                "作曲": "杉本眞人",
+                "出演": "藤本美貴"
+              }
+            },
+            {
+              "index": 2,
+              "title": "置き手紙",
+              "duration": "04:35",
+              "suffix": "(女性キー・カラオケ)",
+              "credits": {
+                "作詞": "いではく",
+                "作曲": "杉本眞人",
+                "出演": "藤本美貴"
+              }
+            },
+            {
+              "index": 3,
+              "title": "置き手紙",
+              "duration": "04:40",
+              "suffix": "(男性キー・カラオケ)",
+              "credits": {
+                "作詞": "いではく",
+                "作曲": "杉本眞人",
+                "出演": "藤本美貴"
+              }
+            }
+          ],
+          "catalogNo": "PKBP-2002"
+        }
+      ]
+    }
+  ]
+}

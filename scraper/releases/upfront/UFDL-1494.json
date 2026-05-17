@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1494",
+  "url": "/release/detail/UFDL-1494/",
+  "source": "upfront",
+  "title": "I WISH",
+  "category": "配信",
+  "artist": "モーニング娘。'22",
+  "releaseDate": "2022/03/18",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/957d9f9bf8eccbf5a9f7c1ade4f0a8b16eb80be4.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/957d9f9bf8eccbf5a9f7c1ade4f0a8b16eb80be4.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1494",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "I WISH",
+              "duration": "04:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野伸"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

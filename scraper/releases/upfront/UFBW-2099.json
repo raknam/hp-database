@@ -1,0 +1,58 @@
+{
+  "code": "UFBW-2099",
+  "url": "/release/detail/UFBW-2099/",
+  "source": "upfront",
+  "title": "Rina to Rina",
+  "category": "DVD",
+  "artist": "勝田里奈",
+  "releaseDate": "2014/03/17",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/4005c5fb5cb623417366313ef392185b5ca9b208.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/4005c5fb5cb623417366313ef392185b5ca9b208.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2099",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "00:21"
+            },
+            {
+              "index": 2,
+              "title": "School Girl ＆ Interview",
+              "duration": "15:29"
+            },
+            {
+              "index": 3,
+              "title": "Natural",
+              "duration": "11:40"
+            },
+            {
+              "index": 4,
+              "title": "Cool",
+              "duration": "13:01"
+            },
+            {
+              "index": 5,
+              "title": "Interview",
+              "duration": "08:02"
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "01:31"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,774 @@
+{
+  "id": 6419,
+  "url": "/release/6419/",
+  "title": "激辛LOVE/Now Now Ningen/こんなハズジャナカッター！",
+  "category": "CDシングル",
+  "artist": "BEYOOOOONDS",
+  "releaseDate": "2021.3.3",
+  "label": "zetima",
+  "images": [
+    "/upload/images/9ebd19fc53eb99137efa8d42c1c8a50b163fe0b0.webp",
+    "/upload/images/9c6f8350f9ab96bb5033f0b6f12088c84b001ef3.webp",
+    "/upload/images/94774ab7fbc0b34040a42f5980c8bd02e5ea5eae.webp",
+    "/upload/images/5de48cc410a93527054c492339ab43152c8953f5.webp",
+    "/upload/images/a98b0dcb31d0b0fa750488d08647e27598111de3.webp",
+    "/upload/images/e464eb7a4220df986bf09faae878f64dc21bf254.webp",
+    "/upload/images/4f247ba2e178910225b411c49c00566c61195ab2.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/9ebd19fc53eb99137efa8d42c1c8a50b163fe0b0.webp",
+      "price": "￥1,870（税抜価格 ￥1,700）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "激辛LOVE",
+              "duration": "03:33",
+              "credits": {
+                "作詞": "Barry Blue/Paul Greedus/日本語詞：星部ショウ",
+                "作曲": "Barry Blue/Paul Greedus",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Now Now Ningen",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "こんなハズジャナカッター！",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "星部ショウ/野沢トオル",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ/ストリングスアレンジ：クラッシャー木村",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "激辛LOVE",
+              "duration": "03:33",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "Barry Blue/Paul Greedus/日本語詞：星部ショウ",
+                "作曲": "Barry Blue/Paul Greedus",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Now Now Ningen",
+              "duration": "04:09",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 6,
+              "title": "こんなハズジャナカッター！",
+              "duration": "04:24",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ/野沢トオル",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ/ストリングスアレンジ：クラッシャー木村",
+                "歌": "BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7608"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "激辛LOVE",
+              "duration": "04:40",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "Barry Blue/Paul Greedus/日本語詞：星部ショウ",
+                "作曲": "Barry Blue/Paul Greedus",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "激辛LOVE",
+              "duration": "03:49",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "Barry Blue/Paul Greedus/日本語詞：星部ショウ",
+                "作曲": "Barry Blue/Paul Greedus",
+                "出演": "BEYOOOOONDS"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD+イベント参加券封入"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/9c6f8350f9ab96bb5033f0b6f12088c84b001ef3.webp",
+      "price": "￥1,870（税抜価格 ￥1,700）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "激辛LOVE",
+              "duration": "03:33",
+              "credits": {
+                "作詞": "Barry Blue/Paul Greedus/日本語詞：星部ショウ",
+                "作曲": "Barry Blue/Paul Greedus",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Now Now Ningen",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "こんなハズジャナカッター！",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "星部ショウ/野沢トオル",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ/ストリングスアレンジ：クラッシャー木村",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "激辛LOVE",
+              "duration": "03:33",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "Barry Blue/Paul Greedus/日本語詞：星部ショウ",
+                "作曲": "Barry Blue/Paul Greedus",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Now Now Ningen",
+              "duration": "04:09",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 6,
+              "title": "こんなハズジャナカッター！",
+              "duration": "04:24",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ/野沢トオル",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ/ストリングスアレンジ：クラッシャー木村",
+                "歌": "BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7610"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Now Now Ningen",
+              "duration": "04:50",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Now Now Ningen",
+              "duration": "04:21",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD+イベント参加券封入"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/94774ab7fbc0b34040a42f5980c8bd02e5ea5eae.webp",
+      "price": "￥1,870（税抜価格 ￥1,700）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "激辛LOVE",
+              "duration": "03:33",
+              "credits": {
+                "作詞": "Barry Blue/Paul Greedus/日本語詞：星部ショウ",
+                "作曲": "Barry Blue/Paul Greedus",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Now Now Ningen",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "こんなハズジャナカッター！",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "星部ショウ/野沢トオル",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ/ストリングスアレンジ：クラッシャー木村",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "激辛LOVE",
+              "duration": "03:33",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "Barry Blue/Paul Greedus/日本語詞：星部ショウ",
+                "作曲": "Barry Blue/Paul Greedus",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Now Now Ningen",
+              "duration": "04:09",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 6,
+              "title": "こんなハズジャナカッター！",
+              "duration": "04:24",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ/野沢トオル",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ/ストリングスアレンジ：クラッシャー木村",
+                "歌": "BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7612"
+        }
+      ],
+      "note": "DVD+イベント参加券封入"
+    },
+    {
+      "name": "【初回生産限定盤ビタミン】",
+      "image": "/upload/images/5de48cc410a93527054c492339ab43152c8953f5.webp",
+      "price": "￥1,870（税抜価格 ￥1,700）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "激辛LOVE",
+              "duration": "03:33",
+              "credits": {
+                "作詞": "Barry Blue/Paul Greedus/日本語詞：星部ショウ",
+                "作曲": "Barry Blue/Paul Greedus",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Now Now Ningen",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "こんなハズジャナカッター！",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "星部ショウ/野沢トオル",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ/ストリングスアレンジ：クラッシャー木村",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ビタミンME",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "板垣祐介",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 5,
+              "title": "激辛LOVE",
+              "duration": "03:33",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "Barry Blue/Paul Greedus/日本語詞：星部ショウ",
+                "作曲": "Barry Blue/Paul Greedus",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Now Now Ningen",
+              "duration": "04:09",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 7,
+              "title": "こんなハズジャナカッター！",
+              "duration": "04:24",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ/野沢トオル",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ/ストリングスアレンジ：クラッシャー木村",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 8,
+              "title": "ビタミンME",
+              "duration": "04:10",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "板垣祐介",
+                "歌": "BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7614"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ビタミンME",
+              "duration": "05:03",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ビタミンME",
+              "duration": "04:30",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD+イベント参加券封入"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/a98b0dcb31d0b0fa750488d08647e27598111de3.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "激辛LOVE",
+              "duration": "03:33",
+              "credits": {
+                "作詞": "Barry Blue/Paul Greedus/日本語詞：星部ショウ",
+                "作曲": "Barry Blue/Paul Greedus",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Now Now Ningen",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "こんなハズジャナカッター！",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "星部ショウ/野沢トオル",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ/ストリングスアレンジ：クラッシャー木村",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ヤバイ恋の刃",
+              "duration": "03:34",
+              "credits": {
+                "作詞": "野沢トオル",
+                "作曲": "中谷信行",
+                "編曲": "中谷信行",
+                "歌": "雨ノ森 川海"
+              }
+            },
+            {
+              "index": 5,
+              "title": "激辛LOVE",
+              "duration": "03:33",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "Barry Blue/Paul Greedus/日本語詞：星部ショウ",
+                "作曲": "Barry Blue/Paul Greedus",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Now Now Ningen",
+              "duration": "04:09",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 7,
+              "title": "こんなハズジャナカッター！",
+              "duration": "04:24",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ/野沢トオル",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ/ストリングスアレンジ：クラッシャー木村",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 8,
+              "title": "ヤバイ恋の刃",
+              "duration": "03:34",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "野沢トオル",
+                "作曲": "中谷信行",
+                "編曲": "中谷信行",
+                "歌": "雨ノ森 川海"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7616"
+        }
+      ],
+      "note": "トレーディングカードソロ12種＋集合1種よりランダムにて1枚封入(激辛LOVE Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/e464eb7a4220df986bf09faae878f64dc21bf254.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "激辛LOVE",
+              "duration": "03:33",
+              "credits": {
+                "作詞": "Barry Blue/Paul Greedus/日本語詞：星部ショウ",
+                "作曲": "Barry Blue/Paul Greedus",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Now Now Ningen",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "こんなハズジャナカッター！",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "星部ショウ/野沢トオル",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ/ストリングスアレンジ：クラッシャー木村",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ワタシと踊りなさい！",
+              "duration": "03:07",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "松浦雄太",
+                "編曲": "松浦雄太",
+                "歌": "SeasoningS"
+              }
+            },
+            {
+              "index": 5,
+              "title": "激辛LOVE",
+              "duration": "03:33",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "Barry Blue/Paul Greedus/日本語詞：星部ショウ",
+                "作曲": "Barry Blue/Paul Greedus",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Now Now Ningen",
+              "duration": "04:09",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 7,
+              "title": "こんなハズジャナカッター！",
+              "duration": "04:24",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ/野沢トオル",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ/ストリングスアレンジ：クラッシャー木村",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 8,
+              "title": "ワタシと踊りなさい！",
+              "duration": "03:07",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "松浦雄太",
+                "編曲": "松浦雄太",
+                "歌": "SeasoningS"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7617"
+        }
+      ],
+      "note": "トレーディングカードソロ12種＋集合1種よりランダムにて1枚封入(Now Now Ningen Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/upload/images/4f247ba2e178910225b411c49c00566c61195ab2.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "激辛LOVE",
+              "duration": "03:33",
+              "credits": {
+                "作詞": "Barry Blue/Paul Greedus/日本語詞：星部ショウ",
+                "作曲": "Barry Blue/Paul Greedus",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Now Now Ningen",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 3,
+              "title": "こんなハズジャナカッター！",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "星部ショウ/野沢トオル",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ/ストリングスアレンジ：クラッシャー木村",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 4,
+              "title": "二年前の横浜駅西口",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "清水信之",
+                "歌": "CHICA#TETSU"
+              }
+            },
+            {
+              "index": 5,
+              "title": "激辛LOVE",
+              "duration": "03:33",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "Barry Blue/Paul Greedus/日本語詞：星部ショウ",
+                "作曲": "Barry Blue/Paul Greedus",
+                "編曲": "大久保薫",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Now Now Ningen",
+              "duration": "04:09",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 7,
+              "title": "こんなハズジャナカッター！",
+              "duration": "04:24",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ/野沢トオル",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ/ストリングスアレンジ：クラッシャー木村",
+                "歌": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 8,
+              "title": "二年前の横浜駅西口",
+              "duration": "03:50",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "清水信之",
+                "歌": "CHICA#TETSU"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7618"
+        }
+      ],
+      "note": "トレーディングカードソロ12種＋集合1種よりランダムにて1枚封入(こんなハズジャナカッター！ Ver.)※初回プレス分のみ"
+    }
+  ]
+}

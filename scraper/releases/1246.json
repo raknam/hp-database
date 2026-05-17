@@ -1,0 +1,305 @@
+{
+  "id": 1246,
+  "url": "/release/1246/",
+  "title": "ドットビキニ",
+  "category": "CDシングル",
+  "artist": "スマイレージ",
+  "releaseDate": "2012.5.2",
+  "label": "hachama",
+  "images": [
+    "/upload/images/71fe31deada468fb40493205a03b077b2d643c67.webp",
+    "/upload/images/e72c323292a9f43c2e1219e94044fb4105f25830.webp",
+    "/upload/images/4fcebb632eba6c80e36d55ecc87c91a7c3fa913d.webp",
+    "/upload/images/fa0bc1694d1dd4fd2cffe0bf5a86df0d9c413135.webp",
+    "/upload/images/254268bfcab357334d5254857a33e8bccca4a91d.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/71fe31deada468fb40493205a03b077b2d643c67.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ドットビキニ",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "すまいるブルース",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "須磨入姉妹"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ドットビキニ",
+              "duration": "04:38",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50223"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ドットビキニ",
+              "duration": "04:50",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/e72c323292a9f43c2e1219e94044fb4105f25830.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ドットビキニ",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "すまいるブルース",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "須磨入姉妹"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ドットビキニ",
+              "duration": "04:38",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50225"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ドットビキニ",
+              "duration": "04:50",
+              "suffix": "(みんな集合 Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/4fcebb632eba6c80e36d55ecc87c91a7c3fa913d.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ドットビキニ",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "すまいるブルース",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "須磨入姉妹"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ドットビキニ",
+              "duration": "04:38",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50227"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ドットビキニ",
+              "duration": "04:50",
+              "suffix": "(Dance Shot Ver.II)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤D】",
+      "image": "/upload/images/fa0bc1694d1dd4fd2cffe0bf5a86df0d9c413135.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ドットビキニ",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "すまいるブルース",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "須磨入姉妹"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ドットビキニ",
+              "duration": "04:38",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50229"
+        }
+      ],
+      "note": "イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/254268bfcab357334d5254857a33e8bccca4a91d.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ドットビキニ",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋人は心の応援団",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ドットビキニ",
+              "duration": "04:38",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50230"
+        }
+      ]
+    }
+  ]
+}

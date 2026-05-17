@@ -1,0 +1,127 @@
+{
+  "code": "EPXE-5101",
+  "url": "/release/detail/EPXE-5101/",
+  "source": "upfront",
+  "title": "カントリー・ガールズ ミュージックビデオ・クリップス Vol.1",
+  "category": "BD",
+  "artist": "カントリー・ガールズ",
+  "releaseDate": "2017/05/24",
+  "label": "zetima",
+  "images": [
+    "/images/71ef33bf6b68fb8300074001c8c19cc1f172302d.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/71ef33bf6b68fb8300074001c8c19cc1f172302d.jpg",
+      "price": "￥4,400 (税抜価格 ￥4,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5101",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛おしくってごめんね",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋泥棒",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "村カワ基成"
+              }
+            },
+            {
+              "index": 3,
+              "title": "わかっているのにごめんね",
+              "duration": "05:25",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ためらい サマータイム",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "安田信二"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ブギウギLOVE",
+              "duration": "05:42",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "恋はマグネット",
+              "duration": "05:56",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "Yasushi Watanabe"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ランラルン〜あなたに夢中〜",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "Kern Jerome (PD)"
+              }
+            },
+            {
+              "index": 8,
+              "title": "どーだっていいの",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 9,
+              "title": "涙のリクエスト",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "売野雅勇",
+                "作曲": "芹澤廣明"
+              }
+            },
+            {
+              "index": 10,
+              "title": "Good Boy Bad Girl",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 11,
+              "title": "ピーナッツバタージェリーラブ",
+              "duration": "05:11",
+              "credits": {
+                "作詞": "エリック・フクサキ ＆三浦徳子",
+                "作曲": "エリック・フクサキ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

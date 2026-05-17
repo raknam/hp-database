@@ -1,0 +1,126 @@
+{
+  "code": "PKCP-5160",
+  "url": "/release/detail/PKCP-5160/",
+  "source": "upfront",
+  "title": "本気ボンバー！！",
+  "category": "CDシングル",
+  "artist": "Berryz工房",
+  "releaseDate": "2010/07/14",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/33a19c97dbc1e9acb5128e6e339daa37363536ac.jpg",
+    "/images/b3635fdf0c82417875fc18128a93d14023c59e73.jpg",
+    "/images/6d6da1a7dee167bdad625de183bfb8ec06d22403.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/33a19c97dbc1e9acb5128e6e339daa37363536ac.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5160",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "本気ボンバー！！",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "MOON POWER",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "本気ボンバー！！(Instrumental)",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/b3635fdf0c82417875fc18128a93d14023c59e73.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKCP-5162",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "本気ボンバー！！(Dance Shot Ver.)",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/6d6da1a7dee167bdad625de183bfb8ec06d22403.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5163",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "本気ボンバー！！",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "MOON POWER",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "本気ボンバー！！(Instrumental)",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

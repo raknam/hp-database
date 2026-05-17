@@ -1,0 +1,166 @@
+{
+  "code": "UFCW-1084",
+  "url": "/release/detail/UFCW-1084/",
+  "source": "upfront",
+  "title": "無限、Fly High!!",
+  "category": "CDシングル",
+  "artist": "チーム・負けん気",
+  "releaseDate": "2014/09/17",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/38138d19a3cfc59dcb2983d5dfcaa7806f930a1f.jpg",
+    "/images/51338dffe88677420dbdba2f0936c103f5b8aefb.jpg",
+    "/images/54465db716be904fe0facdd8ae9123e6c5a5464d.jpg"
+  ],
+  "editions": [
+    {
+      "name": "初回生産限定盤",
+      "image": "/images/38138d19a3cfc59dcb2983d5dfcaa7806f930a1f.jpg",
+      "price": "￥1,731 (税抜価格 ￥1,574)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "UFCW-1084",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "無限、Fly High!!",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 2,
+              "title": "無限、Fly High!!＜THE ポッシボーVer.＞",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 3,
+              "title": "無限、Fly High!!＜吉川友Ver.＞",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 4,
+              "title": "無限、Fly High!!＜アップアップガールズ(仮)Ver.＞",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 5,
+              "title": "無限、Fly High!!＜Instrumental＞",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/images/51338dffe88677420dbdba2f0936c103f5b8aefb.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFCW-1086",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "無限、Fly High!!(Music Video)",
+              "duration": "04:40"
+            },
+            {
+              "index": 2,
+              "title": "メイキング",
+              "duration": "04:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "イベント盤",
+      "image": "/images/54465db716be904fe0facdd8ae9123e6c5a5464d.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "UFMK-1001",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "無限、Fly High!!",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 2,
+              "title": "無限、Fly High!!＜THE ポッシボーVer.＞",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 3,
+              "title": "無限、Fly High!!＜吉川友Ver.＞",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 4,
+              "title": "無限、Fly High!!＜アップアップガールズ(仮)Ver.＞",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 5,
+              "title": "無限、Fly High!!＜Instrumental＞",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

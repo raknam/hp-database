@@ -1,0 +1,26 @@
+{
+  "id": 2149,
+  "url": "/release/2149/",
+  "title": "one day in autumn",
+  "category": "DVD",
+  "artist": "熊井友理奈",
+  "releaseDate": "2011.12.22",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/07bd5d1dc0f0bd825abda33af746778c38456d13.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [],
+          "catalogNo": "UFBW-2036"
+        }
+      ]
+    }
+  ]
+}

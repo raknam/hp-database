@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5433",
+  "url": "/release/detail/EPBE-5433/",
+  "source": "upfront",
+  "title": "シングルV「君は自転車 私は電車で帰宅」",
+  "category": "DVDシングルV",
+  "artist": "℃-ute",
+  "releaseDate": "2012/04/25",
+  "label": "zetima",
+  "images": [
+    "/images/ea8c5a924b0a7517b91821fdd0f7fe5a122fb7f4.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/ea8c5a924b0a7517b91821fdd0f7fe5a122fb7f4.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5433",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "君は自転車 私は電車で帰宅",
+              "duration": "05:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "君は自転車 私は電車で帰宅(Close-up Ver.A)",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "14:59"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

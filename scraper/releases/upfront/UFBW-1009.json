@@ -1,0 +1,48 @@
+{
+  "code": "UFBW-1009",
+  "url": "/release/detail/UFBW-1009/",
+  "source": "upfront",
+  "title": "跳べないイルカ ラッキー",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2006/11/22",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/nowprinting.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/nowprinting.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1009",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ショートストーリー“跳べないイルカ ラッキー”",
+              "duration": "16:28"
+            },
+            {
+              "index": 2,
+              "title": "トレーナーインタビュー",
+              "duration": "06:22"
+            },
+            {
+              "index": 3,
+              "title": "イルカの生態豆知識",
+              "duration": "07:06"
+            },
+            {
+              "index": 4,
+              "title": "保存版！イルカのパフォーマンス",
+              "duration": "08:57"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

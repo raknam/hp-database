@@ -1,0 +1,83 @@
+{
+  "code": "UFBW-2110",
+  "url": "/release/detail/UFBW-2110/",
+  "source": "upfront",
+  "title": "矢島舞美『やじマップSweets修行の旅』Special Making DVD",
+  "category": "DVD",
+  "artist": "矢島舞美",
+  "releaseDate": "2015/06/26",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/af68c2eee42e40358c151bf5902178150e583b2d.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/af68c2eee42e40358c151bf5902178150e583b2d.jpg",
+      "price": "￥2,750 (税抜価格 ￥2,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2110",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "代官山",
+              "duration": "08:37"
+            },
+            {
+              "index": 2,
+              "title": "麻布十番",
+              "duration": "08:25"
+            },
+            {
+              "index": 3,
+              "title": "吉祥寺",
+              "duration": "03:56"
+            },
+            {
+              "index": 4,
+              "title": "谷根千",
+              "duration": "05:16"
+            },
+            {
+              "index": 5,
+              "title": "横浜",
+              "duration": "05:04"
+            },
+            {
+              "index": 6,
+              "title": "自由が丘",
+              "duration": "03:23"
+            },
+            {
+              "index": 7,
+              "title": "鎌倉",
+              "duration": "09:47"
+            },
+            {
+              "index": 8,
+              "title": "東京駅周辺",
+              "duration": "05:47"
+            },
+            {
+              "index": 9,
+              "title": "浅草",
+              "duration": "07:11"
+            },
+            {
+              "index": 10,
+              "title": "池袋",
+              "duration": "05:59"
+            },
+            {
+              "index": 11,
+              "title": "Ending",
+              "duration": "01:09"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 2456,
+  "url": "/release/2456/",
+  "title": "シングルV「元気者で行こう！」",
+  "category": "DVDシングルV",
+  "artist": "真野恵里菜",
+  "releaseDate": "2010.9.22",
+  "label": "hachama",
+  "images": [
+    "/upload/images/8036531624ab87831d508c10b8c4e4af14a2f052.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "元気者で行こう！",
+              "duration": "04:44",
+              "suffix": "(ディレクターズカット VER.1)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "畠山俊昭",
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "元気者で行こう！",
+              "duration": "04:44",
+              "suffix": "(PV)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "畠山俊昭",
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "PV撮影メイキング映像",
+              "duration": "09:56",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKBN-50134"
+        }
+      ]
+    }
+  ]
+}

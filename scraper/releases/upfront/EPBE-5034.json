@@ -1,0 +1,68 @@
+{
+  "code": "EPBE-5034",
+  "url": "/release/detail/EPBE-5034/",
+  "source": "upfront",
+  "title": "ビデオ・ミニモニ。ひなまつり！/ミニ。ストロベリ～パイ",
+  "category": "DVD",
+  "artist": "ミニモニ｡",
+  "releaseDate": "2002/03/06",
+  "label": "zetima",
+  "images": [
+    "/images/22c5d5b17c29a5d1a13fbb025ddd7e6291ab528a.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/22c5d5b17c29a5d1a13fbb025ddd7e6291ab528a.jpg",
+      "price": "￥1,980 (税抜価格 ￥1,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5034",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ミニモニ。ひなまつり！",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ミニ。ストロベリ～パイ",
+              "duration": "03:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "酒井ミキオ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ミニモニ。ひなまつり！(みんなで踊りましょう！ヴァージョン)",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 4,
+              "title": "おまけ「ミニモニ。ひなまつり！」",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

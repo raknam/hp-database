@@ -1,0 +1,106 @@
+{
+  "code": "UFBW-1559",
+  "url": "/release/detail/UFBW-1559/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.35",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2017/09/13",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/9159936e7bf109eadbe447db410a626a9bb7dd10.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/9159936e7bf109eadbe447db410a626a9bb7dd10.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1559",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "音楽調査隊「カラオケが出来るまで」【新企画】",
+              "duration": "13:29"
+            },
+            {
+              "index": 2,
+              "title": "ガールズライブ音楽塾【新企画】",
+              "duration": "10:39"
+            },
+            {
+              "index": 3,
+              "title": "どーだっていいの【スタジオライブ集】",
+              "duration": "03:16",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 4,
+              "title": "次々続々【スタジオライブ集】",
+              "duration": "05:33",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "BOOM!×3 〜ジェラしっちゃうぞ！焦らしっちゃうぞ！〜【スタジオライブ集】",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "Mt.3",
+                "作曲": "Mt.3"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ハイパー！！ハピネス！！【スタジオライブ集】",
+              "duration": "05:45",
+              "credits": {
+                "作詞": "本上遼",
+                "作曲": "本上遼"
+              }
+            },
+            {
+              "index": 7,
+              "title": "YOLO【スタジオライブ集】",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "佐藤綾乃",
+                "作曲": "michitomo"
+              }
+            },
+            {
+              "index": 8,
+              "title": "ハレルヤ【スタジオライブ集】",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo"
+              }
+            },
+            {
+              "index": 9,
+              "title": "月蝕【スタジオライブ集】",
+              "duration": "05:10",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "オオヤギヒロオ"
+              }
+            },
+            {
+              "index": 10,
+              "title": "℃-ute「夢幻クライマックス」MV撮影密着",
+              "duration": "02:50"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

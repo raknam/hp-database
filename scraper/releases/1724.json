@@ -1,0 +1,134 @@
+{
+  "id": 1724,
+  "url": "/release/1724/",
+  "title": "ガチンコでいこう!",
+  "category": "CDシングル",
+  "artist": "Buono!",
+  "releaseDate": "2008.8.20",
+  "label": "ポニーキャニオン",
+  "images": [
+    "/upload/images/ea0625771cf64e7937685992b8910a81885d3df5.webp",
+    "/upload/images/ac573377cfbff6654fab470316a51beef430d4c5.webp"
+  ],
+  "editions": [
+    {
+      "name": "初回限定盤",
+      "image": "/upload/images/ea0625771cf64e7937685992b8910a81885d3df5.webp",
+      "price": "定価 ￥1,650（税抜価格 ￥1,500）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ガチンコでいこう！",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "ムラマツテツヤ",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "れでぃぱんさぁ",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "杉浦“ラフィン”誠一郎",
+                "編曲": "大久保薫",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ガチンコでいこう！",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "ムラマツテツヤ",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 4,
+              "title": "れでぃぱんさぁ",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "杉浦“ラフィン”誠一郎",
+                "編曲": "大久保薫",
+                "歌": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "PCCA-02731"
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/upload/images/ac573377cfbff6654fab470316a51beef430d4c5.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ガチンコでいこう！",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "ムラマツテツヤ",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "れでぃぱんさぁ",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "杉浦“ラフィン”誠一郎",
+                "編曲": "大久保薫",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ガチンコでいこう！",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "ムラマツテツヤ",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 4,
+              "title": "れでぃぱんさぁ",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "杉浦“ラフィン”誠一郎",
+                "編曲": "大久保薫",
+                "歌": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "PCCA-70223"
+        }
+      ],
+      "note": "【通常盤･初回仕様】イベント参加抽選シリアルナンバーカード＋Buono！オリジナルトレーディングカード(初回/通常 別絵柄)"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 2215,
+  "url": "/release/2215/",
+  "title": "空間ゼリー「今がいつかになる前に」",
+  "category": "DVD",
+  "artist": "仙石みなみ、竹内朱莉、宮本佳林、高木紗友希、工藤遥",
+  "releaseDate": "2011.2.23",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/7bf2ef09a6692c05247874d3fad8c94dbc230b2b.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "空間ゼリー「今がいつかになる前に」",
+              "duration": "00:00",
+              "credits": {
+                "出演": "仙石みなみ(ハロプロ エッグ)/竹内朱莉(ハロプロ エッグ)/宮本佳林(ハロプロ エッグ)/高木紗友希(ハロプロエッグ)/工藤遥(ハロプロ エッグ)"
+              }
+            }
+          ],
+          "catalogNo": "UFGP-5023"
+        }
+      ]
+    }
+  ]
+}

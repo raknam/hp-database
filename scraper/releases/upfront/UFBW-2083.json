@@ -1,0 +1,58 @@
+{
+  "code": "UFBW-2083",
+  "url": "/release/detail/UFBW-2083/",
+  "source": "upfront",
+  "title": "遥 -thirteen-",
+  "category": "DVD",
+  "artist": "工藤遥",
+  "releaseDate": "2013/05/16",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/fcc5927567d315e4730542d3fcb7722cb3a17304.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/fcc5927567d315e4730542d3fcb7722cb3a17304.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2083",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "00:46"
+            },
+            {
+              "index": 2,
+              "title": "Little Spring",
+              "duration": "14:45"
+            },
+            {
+              "index": 3,
+              "title": "Two One Piece",
+              "duration": "17:54"
+            },
+            {
+              "index": 4,
+              "title": "Favorite Time",
+              "duration": "12:53"
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "01:36"
+            },
+            {
+              "index": 6,
+              "title": "Making",
+              "duration": "02:04"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

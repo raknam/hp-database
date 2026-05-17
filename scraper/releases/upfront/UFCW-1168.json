@@ -1,0 +1,91 @@
+{
+  "code": "UFCW-1168",
+  "url": "/release/detail/UFCW-1168/",
+  "source": "upfront",
+  "title": "YES！最幸でしょ♡",
+  "category": "CDシングル",
+  "artist": "道重さゆみ",
+  "releaseDate": "2025/07/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/93e15624b6ef45a3cbb08b82c9c3b7e6018d0520.jpg",
+    "/images/2ccb8c1a482de1a126234ca075227d11d25a3521.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/93e15624b6ef45a3cbb08b82c9c3b7e6018d0520.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "UFCW-1168",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "YES！最幸でしょ♡",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "K2-Dee",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "さゆみるふぃーゆ",
+              "duration": "03:34",
+              "credits": {
+                "作詞": "ありぼぼ",
+                "作曲": "こやまたくや",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "YES！最幸でしょ♡(Instrumental)",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "K2-Dee",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 4,
+              "title": "さゆみるふぃーゆ(Instrumental)",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "ありぼぼ",
+                "作曲": "こやまたくや",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/2ccb8c1a482de1a126234ca075227d11d25a3521.jpg",
+      "price": "￥1,200 (税抜価格 ￥1,091)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "UFCW-1170",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "YES！最幸でしょ♡(Music Video)",
+              "duration": "05:08",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "K2-Dee"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

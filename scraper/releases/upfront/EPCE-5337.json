@@ -1,0 +1,102 @@
+{
+  "code": "EPCE-5337",
+  "url": "/release/detail/EPCE-5337/",
+  "source": "upfront",
+  "title": "恋愛戦隊シツレンジャー",
+  "category": "CDシングル",
+  "artist": "後浦なつみ",
+  "releaseDate": "2004/10/06",
+  "label": "zetima",
+  "images": [
+    "/images/7dfaa078ae90eda44090763ac895a537eb069f99.jpg",
+    "/images/4d2f45e309694c6d2355ee6afba2271ad5858356.jpg"
+  ],
+  "editions": [
+    {
+      "name": "初回盤",
+      "image": "/images/7dfaa078ae90eda44090763ac895a537eb069f99.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5337",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋愛戦隊シツレンジャー",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "LOVE LIKE CRAZY",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋愛戦隊シツレンジャー(Instrumental)",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/images/4d2f45e309694c6d2355ee6afba2271ad5858356.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5338",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋愛戦隊シツレンジャー",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "LOVE LIKE CRAZY",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋愛戦隊シツレンジャー(Instrumental)",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

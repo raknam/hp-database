@@ -1,0 +1,93 @@
+{
+  "code": "EPXE-5028",
+  "url": "/release/detail/EPXE-5028/",
+  "source": "upfront",
+  "title": "アロハロ！2 ℃-ute Blu-ray Disc",
+  "category": "BD",
+  "artist": "℃-ute",
+  "releaseDate": "2012/07/11",
+  "label": "zetima",
+  "images": [
+    "/images/204fb62ec6c2cbc93eb1acc899edcfddd4be3ac3.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/204fb62ec6c2cbc93eb1acc899edcfddd4be3ac3.jpg",
+      "price": "￥6,285 (税抜価格 ￥5,714)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5028",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "01:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Pancake",
+              "duration": "06:54"
+            },
+            {
+              "index": 3,
+              "title": "Image in house",
+              "duration": "20:34"
+            },
+            {
+              "index": 4,
+              "title": "Jump Contest",
+              "duration": "21:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Image at beach",
+              "duration": "20:06"
+            },
+            {
+              "index": 6,
+              "title": "Battle",
+              "duration": "09:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Ranch",
+              "duration": "14:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Interview with image",
+              "duration": "11:16"
+            },
+            {
+              "index": 9,
+              "title": "君は自転車 私は電車で帰宅Sunset Ver.",
+              "duration": "06:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

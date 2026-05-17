@@ -1,0 +1,58 @@
+{
+  "code": "GOTH-1001",
+  "url": "/release/detail/GOTH-1001/",
+  "source": "upfront",
+  "title": "RENDEZVOUS",
+  "category": "CDシングル",
+  "artist": "GaGaalinG",
+  "releaseDate": "2007/10/10",
+  "label": "GOTHUALL",
+  "images": [
+    "/images/0f7c2d0684a7ccbdbe1c665286b38a8402f6da12.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/0f7c2d0684a7ccbdbe1c665286b38a8402f6da12.jpg",
+      "price": "￥550 (税抜価格 ￥500)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "GOTH-1001",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "RENDEZVOUS",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "GaGaalinG",
+                "作曲": "GaGaalinG",
+                "編曲": "GaGaalinG"
+              }
+            },
+            {
+              "index": 2,
+              "title": "道しるべ",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "GaGaalinG",
+                "作曲": "GaGaalinG",
+                "編曲": "GaGaalinG"
+              }
+            },
+            {
+              "index": 3,
+              "title": "desperate",
+              "duration": "02:37",
+              "credits": {
+                "作詞": "GaGaalinG",
+                "作曲": "GaGaalinG",
+                "編曲": "GaGaalinG"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

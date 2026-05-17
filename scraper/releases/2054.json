@@ -1,0 +1,107 @@
+{
+  "id": 2054,
+  "url": "/release/2054/",
+  "title": "美女学 Vol.7",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2011.3.9",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/65119bdf68e56dd530e8c428316d93d5657f12c3.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "真野恵里菜の手相鑑定 実践編に突入！",
+              "duration": "15:33",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "真野恵里菜の手相鑑定 実践編レベル2",
+              "duration": "12:00",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "実践編レベル31人で手相鑑定！①",
+              "duration": "13:26",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 4,
+              "title": "実践編レベル31人で手相鑑定！②",
+              "duration": "14:01",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 5,
+              "title": "モーニング娘。",
+              "duration": "05:08",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Berryz工房",
+              "duration": "04:40",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 7,
+              "title": "℃-ute",
+              "duration": "03:11",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 8,
+              "title": "真野恵里菜",
+              "duration": "03:41",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 9,
+              "title": "スマイレージ",
+              "duration": "03:37",
+              "credits": {
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 10,
+              "title": "美女学 特別授業！",
+              "duration": "02:20",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1077"
+        }
+      ]
+    }
+  ]
+}

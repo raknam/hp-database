@@ -1,0 +1,128 @@
+{
+  "code": "UFSN-1001",
+  "url": "/release/detail/UFSN-1001/",
+  "source": "upfront",
+  "title": "Carnival！",
+  "category": "CDアルバム",
+  "artist": "Bailagoza(バイラゴサ)",
+  "releaseDate": "2008/09/03",
+  "label": "SONIVO",
+  "images": [
+    "/images/bf9afc551362bcc7059e59a494d36bd7ebbc3236.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/bf9afc551362bcc7059e59a494d36bd7ebbc3236.jpg",
+      "price": "￥2,409 (税抜価格 ￥2,190)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "UFSN-1001",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Carnival (カーニバル)",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "NINAELISABETPERSSON,MAGNUSJOHANSVENINGSSON,",
+                "作曲": "NINAELISABETPERSSON,MAGNUSJOHANSVENINGSSON,",
+                "編曲": "StockholmSongsAB"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Move Over(ジャニスの祈り)",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "JANISJOPLIN",
+                "作曲": "JANISJOPLIN",
+                "編曲": "STRONGARMMUSIC"
+              }
+            },
+            {
+              "index": 3,
+              "title": "You Really Got Me (ユー・リアリー・ガット・ミー)",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "RaymondDouglasDavies",
+                "作曲": "RaymondDouglasDavies",
+                "編曲": "EdwardKassnerMusicCoLtd"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Girlfriend (ガールフレンド)",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "AvrilRamonaLavigne/LukaszGottwald",
+                "作曲": "AvrilRamonaLavigne/LukaszGottwald",
+                "編曲": "KaszMoneyPublishing/AlmoMusicCorporation/AvrilLavignePublishingLtd."
+              }
+            },
+            {
+              "index": 5,
+              "title": "I Will Always Love You (オールウェイズ・ラヴ・ユー)",
+              "duration": "03:26",
+              "credits": {
+                "作詞": "DollyParton",
+                "作曲": "DollyParton",
+                "編曲": "VELVETAPPLEMUSIC"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Breakout(ブレイクアウト)",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "ANDREWJOHNCONNELL/CORINNEDREWERY/",
+                "作曲": "ANDREWJOHNCONNELL/CORINNEDREWERY/",
+                "編曲": "ROCKTHEKAZMOLLC301"
+              }
+            },
+            {
+              "index": 7,
+              "title": "I Love Your Smile (アイ・ラヴ・ユア・スマイル)",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "JarvisLaRueBaker,SylvesterJrJackson,NaradaMichaelWalden&ShaniceWilson",
+                "作曲": "JarvisLaRueBaker,SylvesterJrJackson,NaradaMichaelWalden&ShaniceWilson",
+                "編曲": "EMIAPRILMUSICINC./GRATITUDESKYMUSICINC./SHANICE4UMUSIC"
+              }
+            },
+            {
+              "index": 8,
+              "title": "I Need To Be In Love(青春の輝き)",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "RichardLynnCarpenter/JohnBettis/AlbertHammond",
+                "作曲": "RichardLynnCarpenter/JohnBettis/AlbertHammond",
+                "編曲": "AlmoMusicCorporation/HammerAndNailsMusic/ALBERTHAMMONDMUSIC"
+              }
+            },
+            {
+              "index": 9,
+              "title": "Batucada(バトゥカーダ)",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "MarcosValle/PauloValle",
+                "作曲": "MarcosValle/PauloValle",
+                "編曲": "JaneiroMusicCo."
+              }
+            },
+            {
+              "index": 10,
+              "title": "Tout Tout Pour Ma Cherie (シェリーに口づけ)",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "MichelPolnareff",
+                "作曲": "MichelPolnareff",
+                "編曲": "MaMusic,Inc."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

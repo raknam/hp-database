@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5169",
+  "url": "/release/detail/EPCE-5169/",
+  "source": "upfront",
+  "title": "蜜蜂/SWEET MEMORIES",
+  "category": "CDシングル",
+  "artist": "flex life",
+  "releaseDate": "2002/07/31",
+  "label": "zetima",
+  "images": [
+    "/images/7610fa250878f9001bca2e1aaf5c159367b79fb0.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7610fa250878f9001bca2e1aaf5c159367b79fb0.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5169",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "蜜蜂",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "青木里枝",
+                "作曲": "大倉健",
+                "編曲": "flexlife"
+              }
+            },
+            {
+              "index": 2,
+              "title": "SWEET MEMORIES",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "松本隆",
+                "作曲": "大村雅朗",
+                "編曲": "flexlife"
+              }
+            },
+            {
+              "index": 3,
+              "title": "getting better(accoustic)",
+              "duration": "07:14",
+              "credits": {
+                "作詞": "青木里枝",
+                "作曲": "大倉健",
+                "編曲": "flexlife"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,687 @@
+{
+  "id": 5872,
+  "url": "/release/5872/",
+  "title": "微炭酸/ポツリと/Good bye & Good luck！",
+  "category": "CDシングル",
+  "artist": "Juice=Juice",
+  "releaseDate": "2019.2.13",
+  "label": "hachama",
+  "images": [
+    "/upload/images/a5b4a295d0d4d505be2ff56812ff480f18e9d25a.webp",
+    "/upload/images/a7bfb1700214197701f7f18044c499de1efd890a.webp",
+    "/upload/images/9c5887cd66bfbbf627763db005fc0869af90c582.webp",
+    "/upload/images/5de9bffffb821accf33e60493b7ed1e0f4893484.webp",
+    "/upload/images/8c2231611fadba34a41dd09e7d5c0a3f84690ddf.webp",
+    "/upload/images/c2df01c704a11cc3cb41c917ffd9026f4676e3de.webp",
+    "/upload/images/34ef2eec1541ff70bfde7a77383de1fc7ef154bb.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/a5b4a295d0d4d505be2ff56812ff480f18e9d25a.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "微炭酸",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ポツリと",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "浜田ピエール裕介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Good bye & Good luck！",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KOUGA",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "微炭酸",
+              "duration": "04:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ポツリと",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "浜田ピエール裕介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Good bye & Good luck！",
+              "duration": "04:50",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KOUGA",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50580"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "微炭酸",
+              "duration": "05:30",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/a7bfb1700214197701f7f18044c499de1efd890a.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "微炭酸",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ポツリと",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "浜田ピエール裕介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Good bye & Good luck！",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KOUGA",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "微炭酸",
+              "duration": "04:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ポツリと",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "浜田ピエール裕介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Good bye & Good luck！",
+              "duration": "04:50",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KOUGA",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50582"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ポツリと",
+              "duration": "05:24",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/9c5887cd66bfbbf627763db005fc0869af90c582.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "微炭酸",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ポツリと",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "浜田ピエール裕介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Good bye & Good luck！",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KOUGA",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "微炭酸",
+              "duration": "04:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ポツリと",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "浜田ピエール裕介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Good bye & Good luck！",
+              "duration": "04:50",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KOUGA",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50584"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Good bye & Good luck！",
+              "duration": "05:24",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KOUGA",
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/upload/images/5de9bffffb821accf33e60493b7ed1e0f4893484.webp",
+      "price": "￥1,980（税抜価格 ￥1,800）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "微炭酸",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ポツリと",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "浜田ピエール裕介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Good bye & Good luck！",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KOUGA",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "微炭酸",
+              "duration": "04:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ポツリと",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "浜田ピエール裕介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Good bye & Good luck！",
+              "duration": "04:50",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KOUGA",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50586"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "微炭酸",
+              "duration": "04:38",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ポツリと",
+              "duration": "04:29",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Good bye & Good luck！",
+              "duration": "04:57",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KOUGA",
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選応募券封入"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/8c2231611fadba34a41dd09e7d5c0a3f84690ddf.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "微炭酸",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ポツリと",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "浜田ピエール裕介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Good bye & Good luck！",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KOUGA",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "微炭酸",
+              "duration": "04:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ポツリと",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "浜田ピエール裕介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Good bye & Good luck！",
+              "duration": "04:50",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KOUGA",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50588"
+        }
+      ],
+      "note": "トレーディングカードソロ8種+集合1種よりランダムにて1枚封入(微炭酸 Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/c2df01c704a11cc3cb41c917ffd9026f4676e3de.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "微炭酸",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ポツリと",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "浜田ピエール裕介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Good bye & Good luck！",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KOUGA",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "微炭酸",
+              "duration": "04:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ポツリと",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "浜田ピエール裕介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Good bye & Good luck！",
+              "duration": "04:50",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KOUGA",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50589"
+        }
+      ],
+      "note": "トレーディングカードソロ8種+集合1種よりランダムにて1枚封入(ポツリと Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/upload/images/34ef2eec1541ff70bfde7a77383de1fc7ef154bb.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "微炭酸",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ポツリと",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "浜田ピエール裕介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Good bye & Good luck！",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KOUGA",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "微炭酸",
+              "duration": "04:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ポツリと",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "浜田ピエール裕介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Good bye & Good luck！",
+              "duration": "04:50",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KOUGA",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50590"
+        }
+      ],
+      "note": "トレーディングカードソロ8種+集合1種よりランダムにて1枚封入(Good bye & Good luck！ Ver.)※初回プレス分のみ"
+    }
+  ]
+}

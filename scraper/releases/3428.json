@@ -1,0 +1,109 @@
+{
+  "id": 3428,
+  "url": "/release/3428/",
+  "title": "はぴ☆はぴ サンデー！",
+  "category": "CDシングル",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "releaseDate": "2009.2.4",
+  "label": "zetima",
+  "images": [
+    "/upload/images/73a2e67fcdbd1e5525fdbb7faeb491259791a954.webp",
+    "/upload/images/52d6ed0ba32cd61564120eaeb7aeaa25e22bd373.webp"
+  ],
+  "editions": [
+    {
+      "name": "【完全生産限定盤】",
+      "image": "/upload/images/73a2e67fcdbd1e5525fdbb7faeb491259791a954.webp",
+      "price": "定価 ￥1,320（税抜価格 ￥1,200）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "はぴ☆はぴ サンデー！",
+              "duration": "03:41",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "前山田健一",
+                "歌": "月島きらり starring 久住小春"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ハッテン×JOY",
+              "duration": "03:26",
+              "credits": {
+                "作詞": "荒木啓六",
+                "作曲": "荒木啓六",
+                "編曲": "荒木啓六",
+                "歌": "月島きらり starring 久住小春"
+              }
+            },
+            {
+              "index": 3,
+              "title": "はぴ☆はぴ サンデー！",
+              "duration": "03:41",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "前山田健一",
+                "歌": "月島きらり starring 久住小春"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5615"
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/52d6ed0ba32cd61564120eaeb7aeaa25e22bd373.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "はぴ☆はぴ サンデー！",
+              "duration": "03:41",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "前山田健一",
+                "歌": "月島きらり starring 久住小春"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ハッテン×JOY",
+              "duration": "03:26",
+              "credits": {
+                "作詞": "荒木啓六",
+                "作曲": "荒木啓六",
+                "編曲": "荒木啓六",
+                "歌": "月島きらり starring 久住小春"
+              }
+            },
+            {
+              "index": 3,
+              "title": "はぴ☆はぴ サンデー！",
+              "duration": "03:41",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "前山田健一",
+                "歌": "月島きらり starring 久住小春"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5616"
+        }
+      ]
+    }
+  ]
+}

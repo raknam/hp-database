@@ -1,0 +1,719 @@
+{
+  "id": 7409,
+  "url": "/release/7409/",
+  "title": "My Days for You/悲しみがとまらない",
+  "category": "CDシングル",
+  "artist": "つばきファクトリー",
+  "releaseDate": "2025.6.4",
+  "label": "zetima",
+  "images": [
+    "/upload/images/938e90f5d2c93f90642f73f2c34a64a40edc3460.webp",
+    "/upload/images/9717277d945455bf1bbfd5bd82af01e6a6a46842.webp",
+    "/upload/images/21f4568f190458f38e47db5598d29515c4d1552f.webp",
+    "/upload/images/470f187479d2f12297a583b12287e2bc4261ccf8.webp",
+    "/upload/images/f46e7f3518e378addf8c47ecca0e8b49e9d78119.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/938e90f5d2c93f90642f73f2c34a64a40edc3460.webp",
+      "price": "￥2,090（税抜価格 ￥1,900）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "My Days for You",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "中島卓偉",
+                "編曲": "鈴木俊介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "悲しみがとまらない",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "康珍化",
+                "作曲": "林哲司",
+                "編曲": "炭竃智弘",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "My Days for You",
+              "duration": "04:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "中島卓偉",
+                "編曲": "鈴木俊介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "悲しみがとまらない",
+              "duration": "04:28",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "康珍化",
+                "作曲": "林哲司",
+                "編曲": "炭竃智弘",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7926"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "My Days for You",
+              "duration": "04:57",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "中島卓偉",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "My Days for You",
+              "duration": "04:39",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "中島卓偉",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "My Days for You",
+              "duration": "15:10",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "つばきファクトリー"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付(My Days for You MV+Dance Shot Ver.+メイキング映像)"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/9717277d945455bf1bbfd5bd82af01e6a6a46842.webp",
+      "price": "￥2,090（税抜価格 ￥1,900）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "My Days for You",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "中島卓偉",
+                "編曲": "鈴木俊介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "悲しみがとまらない",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "康珍化",
+                "作曲": "林哲司",
+                "編曲": "炭竃智弘",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "My Days for You",
+              "duration": "04:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "中島卓偉",
+                "編曲": "鈴木俊介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "悲しみがとまらない",
+              "duration": "04:28",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "康珍化",
+                "作曲": "林哲司",
+                "編曲": "炭竃智弘",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7928"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "悲しみがとまらない",
+              "duration": "04:57",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "康珍化",
+                "作曲": "林哲司",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "悲しみがとまらない",
+              "duration": "04:36",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "康珍化",
+                "作曲": "林哲司",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "悲しみがとまらない",
+              "duration": "15:04",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "つばきファクトリー"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付(悲しみがとまらないMV+Dance Shot Ver.+メイキング映像)"
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/upload/images/21f4568f190458f38e47db5598d29515c4d1552f.webp",
+      "price": "￥6,600（税抜価格 ￥6,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "My Days for You",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "中島卓偉",
+                "編曲": "鈴木俊介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "悲しみがとまらない",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "康珍化",
+                "作曲": "林哲司",
+                "編曲": "炭竃智弘",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "My Days for You",
+              "duration": "04:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "中島卓偉",
+                "編曲": "鈴木俊介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "悲しみがとまらない",
+              "duration": "04:28",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "康珍化",
+                "作曲": "林哲司",
+                "編曲": "炭竃智弘",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7930"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "01:18",
+              "credits": {
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "初恋サンライズ",
+              "duration": "02:51",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "山田祐輔",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "サマー・チャレンジャー",
+              "duration": "04:47",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "MC",
+              "duration": "03:02",
+              "credits": {
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "リゾナント ブルー",
+              "duration": "03:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "豫風瑠乃"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Fiesta! Fiesta!",
+              "duration": "03:09",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "エリック・フクサキ",
+                "出演": "谷本安美・河西結心・福田真琳"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Say Yeah！-もっとミラクルナイト-",
+              "duration": "03:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "石井泉羽・村田結生"
+              }
+            },
+            {
+              "index": 8,
+              "title": "真夏の光線",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 9,
+              "title": "サンバ！つばきジャネイロ",
+              "duration": "03:39",
+              "credits": {
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 10,
+              "title": "MC",
+              "duration": "03:44",
+              "credits": {
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 11,
+              "title": "同じ時給で働く友達の美人ママ",
+              "duration": "02:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "小野田紗栞・土居楓奏"
+              }
+            },
+            {
+              "index": 12,
+              "title": "嵐を起こすんだ Exciting Fight！",
+              "duration": "02:59",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "出演": "小野瑞歩・秋山眞緒・八木栞"
+              }
+            },
+            {
+              "index": 13,
+              "title": "夏 LOVE ロマンス",
+              "duration": "02:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 14,
+              "title": "Stay free & Stay tuned",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 15,
+              "title": "ナインティーンの蜃気楼",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 16,
+              "title": "君と僕の絆",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 17,
+              "title": "MC",
+              "duration": "03:06",
+              "credits": {
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 18,
+              "title": "ベイビースパイダー",
+              "duration": "02:50",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 19,
+              "title": "妄想だけならフリーダム",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "板垣祐介",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 20,
+              "title": "鼓動OK？",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 21,
+              "title": "青春エクサバイト",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Erik Lidbom/Julie Yu",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 22,
+              "title": "断捨ISM",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 23,
+              "title": "VTR",
+              "duration": "06:30",
+              "credits": {
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 24,
+              "title": "アイドル天職音頭",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 25,
+              "title": "MC",
+              "duration": "10:46",
+              "credits": {
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 26,
+              "title": "今夜だけ浮かれたかった",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 27,
+              "title": "帰ろう レッツゴー！",
+              "duration": "08:01",
+              "credits": {
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 28,
+              "title": "勇気 It's my Life！",
+              "duration": "03:49",
+              "suffix": "【昼公演】",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Samuel Waermo/Stefan Ekstedt",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 29,
+              "title": "ハッピークラッカー",
+              "duration": "03:31",
+              "suffix": "【昼公演】",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE",
+                "出演": "つばきファクトリー"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付「つばきファクトリーの夏祭り 2024～灼熱～」(2024/8/29 河口湖ステラシアター)"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/470f187479d2f12297a583b12287e2bc4261ccf8.webp",
+      "price": "定価 ￥1,300（税抜価格 ￥1,182）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "My Days for You",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "中島卓偉",
+                "編曲": "鈴木俊介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "悲しみがとまらない",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "康珍化",
+                "作曲": "林哲司",
+                "編曲": "炭竃智弘",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "大好きなのに、大好きだから",
+              "duration": "04:36",
+              "suffix": "【Additional Track】",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "中島卓偉",
+                "編曲": "炭竃智弘",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "My Days for You",
+              "duration": "04:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "中島卓偉",
+                "編曲": "鈴木俊介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "悲しみがとまらない",
+              "duration": "04:28",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "康珍化",
+                "作曲": "林哲司",
+                "編曲": "炭竃智弘",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "大好きなのに、大好きだから",
+              "duration": "04:36",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "中島卓偉",
+                "編曲": "炭竃智弘",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7932"
+        }
+      ],
+      "note": "トレーディングカードソロ11種＋集合1種よりランダムにて1枚封入(My Days for You Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/f46e7f3518e378addf8c47ecca0e8b49e9d78119.webp",
+      "price": "定価 ￥1,300（税抜価格 ￥1,182）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "My Days for You",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "中島卓偉",
+                "編曲": "鈴木俊介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "悲しみがとまらない",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "康珍化",
+                "作曲": "林哲司",
+                "編曲": "炭竃智弘",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "月夜のパ・ド・ドゥ",
+              "duration": "04:01",
+              "suffix": "【Additional Track】",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Albin Hillborg",
+                "編曲": "Albin Hillborg",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "My Days for You",
+              "duration": "04:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "中島卓偉",
+                "編曲": "鈴木俊介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "悲しみがとまらない",
+              "duration": "04:28",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "康珍化",
+                "作曲": "林哲司",
+                "編曲": "炭竃智弘",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "月夜のパ・ド・ドゥ",
+              "duration": "04:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Albin Hillborg",
+                "編曲": "Albin Hillborg",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7933"
+        }
+      ],
+      "note": "トレーディングカードソロ11種＋集合1種よりランダムにて1枚封入(悲しみがとまらない Ver.)※初回プレス分のみ"
+    }
+  ]
+}

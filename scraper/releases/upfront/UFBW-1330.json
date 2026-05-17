@@ -1,0 +1,66 @@
+{
+  "code": "UFBW-1330",
+  "url": "/release/detail/UFBW-1330/",
+  "source": "upfront",
+  "title": "ハロー!SATOYAMAライフ Vol.23",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2014/01/31",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/48c42ba16ad3ea7b9b81b8664de6ac22c7f49e06.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/48c42ba16ad3ea7b9b81b8664de6ac22c7f49e06.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1330",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "地域おこし協力隊 周防大島①",
+              "duration": "17:07",
+              "credits": {
+                "作詞": "本上遼、つんく",
+                "作曲": "本上遼、つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "地域おこし協力隊 周防大島②",
+              "duration": "12:28"
+            },
+            {
+              "index": 3,
+              "title": "地域おこし協力隊 周防大島③",
+              "duration": "18:38"
+            },
+            {
+              "index": 4,
+              "title": "Hello! Project 2013 SUMMER COOL HELLO!〜ソレゾーレ！〜 NEWS",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "角田崇徳/もりちよこ/つんく",
+                "作曲": "中島卓偉、もりちよこ、多喜紅葉・楠木エミリ、加藤裕介、角田崇徳/"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ダイヤレディー「レディーマーメイド」MV撮影に密着",
+              "duration": "09:18"
+            },
+            {
+              "index": 6,
+              "title": "HI-FIN「海岸清掃男子」MV撮影に密着",
+              "duration": "11:59"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

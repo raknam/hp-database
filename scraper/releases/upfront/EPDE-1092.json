@@ -1,0 +1,58 @@
+{
+  "code": "EPDE-1092",
+  "url": "/release/detail/EPDE-1092/",
+  "source": "upfront",
+  "title": "ア・カペラ",
+  "category": "CDシングル",
+  "artist": "布施明",
+  "releaseDate": "2001/07/25",
+  "label": "zetima",
+  "images": [
+    "/images/b32beb4e51075c843b9af037974d9cdaa8cc5d34.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/b32beb4e51075c843b9af037974d9cdaa8cc5d34.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1092",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ア・カペラ",
+              "duration": "05:44",
+              "credits": {
+                "作詞": "秋元康",
+                "作曲": "小池雄治",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 2,
+              "title": "オーボエ奏者の特別な一日",
+              "duration": "08:26",
+              "credits": {
+                "作詞": "三谷幸喜",
+                "作曲": "服部隆之",
+                "編曲": "服部隆之"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ア・カペラ(オリジナル・カラオケ)",
+              "duration": "05:44",
+              "credits": {
+                "作詞": "秋元康",
+                "作曲": "小池雄治",
+                "編曲": "小西貴雄"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "code": "EPBE-5157",
+  "url": "/release/detail/EPBE-5157/",
+  "source": "upfront",
+  "title": "それゆけ！ゴロッキーズ 〜ハッピーライフ〜 EXTRA",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2004/12/08",
+  "label": "zetima",
+  "images": [
+    "/images/c5fbaad76aed7ee5dfa5bc079ff4c32ee255a8cd.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/c5fbaad76aed7ee5dfa5bc079ff4c32ee255a8cd.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5157",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "EXTRA1 ｢人生とは仮想することだ！｣",
+              "duration": "16:52"
+            },
+            {
+              "index": 2,
+              "title": "EXTRA2 ｢人生とは推理することだ！｣",
+              "duration": "05:56"
+            },
+            {
+              "index": 3,
+              "title": "｢人生とは推理することだ！｣未公開映像",
+              "duration": "04:24"
+            },
+            {
+              "index": 4,
+              "title": "EXTRA3 未公開映像｢人生とは時間厳守だ！｣",
+              "duration": "22:28"
+            },
+            {
+              "index": 5,
+              "title": "EXTRA4 未公開映像｢人生にはことわざが必要だ！｣",
+              "duration": "25:51"
+            },
+            {
+              "index": 6,
+              "title": "特典映像 ｢総集編〜お好み焼きパーティー｣",
+              "duration": "27:58"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

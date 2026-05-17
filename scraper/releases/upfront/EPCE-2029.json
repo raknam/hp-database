@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-2029",
+  "url": "/release/detail/EPCE-2029/",
+  "source": "upfront",
+  "title": "夜明けの雨はピアニッシモ",
+  "category": "CDシングル",
+  "artist": "相田翔子",
+  "releaseDate": "2004/11/17",
+  "label": "地中海レーベル",
+  "images": [
+    "/images/44ff10841e75f981e5ba5f63bfbc105ffecf131e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/44ff10841e75f981e5ba5f63bfbc105ffecf131e.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-2029",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夜明けの雨はピアニッシモ",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "羽場仁志",
+                "編曲": "佐藤準"
+              }
+            },
+            {
+              "index": 2,
+              "title": "もっと ありのまま",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "相田翔子",
+                "作曲": "羽場仁志",
+                "編曲": "佐藤準"
+              }
+            },
+            {
+              "index": 3,
+              "title": "夜明けの雨はピアニッシモ(Instrumental)",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "羽場仁志",
+                "編曲": "佐藤準"
+              }
+            },
+            {
+              "index": 4,
+              "title": "もっと ありのまま(Instrumental)",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "相田翔子",
+                "作曲": "羽場仁志",
+                "編曲": "佐藤準"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

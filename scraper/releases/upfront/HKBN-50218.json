@@ -1,0 +1,55 @@
+{
+  "code": "HKBN-50218",
+  "url": "/release/detail/HKBN-50218/",
+  "source": "upfront",
+  "title": "マナーモード／キソクタダシクウツクシク／君だけじゃないさ...friends",
+  "category": "DVD",
+  "artist": "アンジュルム",
+  "releaseDate": "2017/12/13",
+  "label": "hachama",
+  "images": [
+    "/images/91bc2af25275652de5f02370c6ddd0567d361b63.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/91bc2af25275652de5f02370c6ddd0567d361b63.jpg",
+      "price": "￥2,037 (税抜価格 ￥1,852)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKBN-50218",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "マナーモード(Music Video)",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 2,
+              "title": "キソクタダシクウツクシク(Music Video)",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "亜伊林",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "君だけじゃないさ...friends(Music Video)",
+              "duration": "05:41",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

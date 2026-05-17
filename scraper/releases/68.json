@@ -1,0 +1,117 @@
+{
+  "id": 68,
+  "url": "/release/68/",
+  "title": "アロハロ！3 ℃-ute Blu-ray Disc",
+  "category": "BD",
+  "artist": "℃-ute",
+  "releaseDate": "2014.3.12",
+  "label": "zetima",
+  "images": [
+    "/upload/images/d51ca4432686d3fabda86c8f2a6b14bdb02cf45c.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "05:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Image at House",
+              "duration": "14:17",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "1st Game",
+              "duration": "08:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Image at Beach",
+              "duration": "13:21",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "2nd Game",
+              "duration": "08:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Yes I Can!",
+              "duration": "11:02",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 7,
+              "title": "3rd Game",
+              "duration": "06:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Girls Talk",
+              "duration": "10:51",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 9,
+              "title": "Interview",
+              "duration": "06:03",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 10,
+              "title": "Ending",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPXE-5044"
+        }
+      ]
+    }
+  ]
+}

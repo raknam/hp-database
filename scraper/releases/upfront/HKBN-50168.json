@@ -1,0 +1,55 @@
+{
+  "code": "HKBN-50168",
+  "url": "/release/detail/HKBN-50168/",
+  "source": "upfront",
+  "title": "シングルV「好きよ、純情反抗期。」",
+  "category": "DVDシングルV",
+  "artist": "スマイレージ",
+  "releaseDate": "2012/08/29",
+  "label": "hachama",
+  "images": [
+    "/images/be7dfb9dfc8542fadd8d2e6ca32a53a9f47d584b.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/be7dfb9dfc8542fadd8d2e6ca32a53a9f47d584b.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "HKBN-50168",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "好きよ、純情反抗期。(Music Video)",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "好きよ、純情反抗期。(Close-upVer.)",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "16:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

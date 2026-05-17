@@ -1,0 +1,235 @@
+{
+  "code": "EPCE-5901",
+  "url": "/release/detail/EPCE-5901/",
+  "source": "upfront",
+  "title": "⑬カラフルキャラクター",
+  "category": "CDアルバム",
+  "artist": "モーニング娘。",
+  "releaseDate": "2012/09/12",
+  "label": "zetima",
+  "images": [
+    "/images/88dded3117061636c370bec8f482efa131ff66fd.jpg",
+    "/images/41dca0fa1cfd3f292dd6a195cef2bb7a3340e3cf.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/88dded3117061636c370bec8f482efa131ff66fd.jpg",
+      "price": "￥3,960 (税抜価格 ￥3,600)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5901",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "One・Two・Three",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "What's Up？ 愛はどうなのよ〜",
+              "duration": "05:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Be Alive",
+              "duration": "05:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ラララのピピピ",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ドッカ〜ン カプリッチオ",
+              "duration": "03:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 6,
+              "title": "The 摩天楼ショー",
+              "duration": "05:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ゼロから始まる青春",
+              "duration": "05:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 8,
+              "title": "恋愛ハンター",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 9,
+              "title": "地球が泣いている",
+              "duration": "05:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 10,
+              "title": "涙一滴",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎"
+              }
+            },
+            {
+              "index": 11,
+              "title": "笑って！YOU",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 12,
+              "title": "ピョコピョコ ウルトラ",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/41dca0fa1cfd3f292dd6a195cef2bb7a3340e3cf.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5903",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "道重さゆみ",
+              "duration": "03:01"
+            },
+            {
+              "index": 2,
+              "title": "田中れいな",
+              "duration": "02:59"
+            },
+            {
+              "index": 3,
+              "title": "譜久村聖",
+              "duration": "03:08"
+            },
+            {
+              "index": 4,
+              "title": "生田衣梨奈",
+              "duration": "03:31"
+            },
+            {
+              "index": 5,
+              "title": "鞘師里保",
+              "duration": "03:56"
+            },
+            {
+              "index": 6,
+              "title": "鈴木香音",
+              "duration": "03:29"
+            },
+            {
+              "index": 7,
+              "title": "飯窪春菜",
+              "duration": "03:48"
+            },
+            {
+              "index": 8,
+              "title": "石田亜佑美",
+              "duration": "03:36"
+            },
+            {
+              "index": 9,
+              "title": "佐藤優樹",
+              "duration": "03:01"
+            },
+            {
+              "index": 10,
+              "title": "工藤 遥",
+              "duration": "03:18"
+            },
+            {
+              "index": 11,
+              "title": "アルバムジャケット撮影メイキング",
+              "duration": "10:53"
+            },
+            {
+              "index": 12,
+              "title": "怪傑ポジティブA",
+              "duration": "03:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 13,
+              "title": "My Way〜女子校花道〜",
+              "duration": "03:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

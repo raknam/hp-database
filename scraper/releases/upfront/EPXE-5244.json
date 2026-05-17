@@ -1,0 +1,629 @@
+{
+  "code": "EPXE-5244",
+  "url": "/release/detail/EPXE-5244/",
+  "source": "upfront",
+  "title": "さよなら中野サンプラザ音楽祭",
+  "category": "BD",
+  "artist": "V.A.",
+  "releaseDate": "2024/02/28",
+  "label": "zetima",
+  "images": [
+    "/images/af9df1e58f5f0412ab8e02c88a5a09e470882eee.jpg"
+  ],
+  "editions": [
+    {
+      "name": "＜Disc1＞【モーニング娘。'23】【アンジュルム】【Juice=Juice】【BEYOOOOONDS】",
+      "image": "/images/af9df1e58f5f0412ab8e02c88a5a09e470882eee.jpg",
+      "price": "￥9,900 (税抜価格 ￥9,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5244",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "HOW DO YOU LIKE JAPAN？～日本はどんな感じでっか？～",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ラヴ＆ピィ～ス！HEROがやって来たっ。",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "MC",
+              "duration": "05:31"
+            },
+            {
+              "index": 4,
+              "title": "青空がいつまでも続くような未来であれ！",
+              "duration": "04:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "同窓生",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "タデ食う虫もLike it!",
+              "duration": "03:17",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一"
+              }
+            },
+            {
+              "index": 7,
+              "title": "MC",
+              "duration": "23:14"
+            },
+            {
+              "index": 8,
+              "title": "大器晩成",
+              "duration": "06:03",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 9,
+              "title": "FUNKY FLUSHIN'",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "吉田美奈子",
+                "作曲": "山下達郎"
+              }
+            },
+            {
+              "index": 10,
+              "title": "如雨露",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "YUKO"
+              }
+            },
+            {
+              "index": 11,
+              "title": "MC",
+              "duration": "13:59"
+            },
+            {
+              "index": 12,
+              "title": "Magic of Love(J=J 2015Ver.)",
+              "duration": "08:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 13,
+              "title": "きのこたけのこ大戦記",
+              "duration": "06:09",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一"
+              }
+            },
+            {
+              "index": 14,
+              "title": "ニッポンノD・N・A！",
+              "duration": "04:44",
+              "credits": {
+                "作詞": "野沢トオル",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 15,
+              "title": "MC",
+              "duration": "20:10"
+            },
+            {
+              "index": 16,
+              "title": "オンリーロンリー",
+              "duration": "06:20",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "＜Disc2＞【つばきファクトリー】",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5245",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "01:01"
+            },
+            {
+              "index": 2,
+              "title": "七分咲きのつづき",
+              "duration": "03:41",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "スキップ・スキップ・スキップ",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "KOUGA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "うるわしのカメリア",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介"
+              }
+            },
+            {
+              "index": 5,
+              "title": "MC",
+              "duration": "02:25"
+            },
+            {
+              "index": 6,
+              "title": "ふわり、恋時計",
+              "duration": "03:00",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 7,
+              "title": "春恋歌",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "鈴木秋則"
+              }
+            },
+            {
+              "index": 8,
+              "title": "ハナモヨウ",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "KOUGA"
+              }
+            },
+            {
+              "index": 9,
+              "title": "純情cm(センチメートル)",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "大橋莉子",
+                "作曲": "大橋莉子"
+              }
+            },
+            {
+              "index": 10,
+              "title": "三回目のデート神話",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 11,
+              "title": "MC",
+              "duration": "05:05"
+            },
+            {
+              "index": 12,
+              "title": "恋のUFOキャッチャー",
+              "duration": "01:57",
+              "credits": {
+                "作詞": "ジンツチハシ",
+                "作曲": "ジンツチハシ"
+              }
+            },
+            {
+              "index": 13,
+              "title": "アイドル天職音頭",
+              "duration": "02:13",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 14,
+              "title": "断捨ISM",
+              "duration": "01:57",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE"
+              }
+            },
+            {
+              "index": 15,
+              "title": "だからなんなんだ！",
+              "duration": "03:01",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "酒井陽一"
+              }
+            },
+            {
+              "index": 16,
+              "title": "約束・連絡・記念日",
+              "duration": "03:08",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 17,
+              "title": "独り占め",
+              "duration": "02:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 18,
+              "title": "MC",
+              "duration": "00:25"
+            },
+            {
+              "index": 19,
+              "title": "マサユメ",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 20,
+              "title": "間違いじゃない 泣いたりしない",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Albin Hillborg Anders Dannvik"
+              }
+            },
+            {
+              "index": 21,
+              "title": "涙のヒロイン降板劇",
+              "duration": "03:08",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Josef Melin"
+              }
+            },
+            {
+              "index": 22,
+              "title": "アドレナリン・ダメ",
+              "duration": "03:33",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 23,
+              "title": "愛は今、愛を求めてる",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "隆勇人"
+              }
+            },
+            {
+              "index": 24,
+              "title": "MC",
+              "duration": "12:00"
+            },
+            {
+              "index": 25,
+              "title": "ふりさけみれば･･･",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "近藤圭一"
+              }
+            },
+            {
+              "index": 26,
+              "title": "17才【ENCORE】",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "有馬三恵子",
+                "作曲": "筒美京平"
+              }
+            },
+            {
+              "index": 27,
+              "title": "MC【ENCORE】",
+              "duration": "04:54"
+            },
+            {
+              "index": 28,
+              "title": "初恋サンライズ【ENCORE】",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "山田祐輔"
+              }
+            },
+            {
+              "index": 29,
+              "title": "My Darling ～Do you love me?～【ENCORE】",
+              "duration": "05:48",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "＜Disc3＞【OCHA NORMA/ハロプロ研修生ユニット'23/ハロプロ研修生】",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5246",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:49"
+            },
+            {
+              "index": 2,
+              "title": "天まで登れ！",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "彼女になりたいっ！！！",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "MC",
+              "duration": "02:17"
+            },
+            {
+              "index": 5,
+              "title": "きみの登場",
+              "duration": "02:45",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Say! Hello!",
+              "duration": "02:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Crying",
+              "duration": "02:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 8,
+              "title": "正しい青春ってなんだろう",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "古川貴浩"
+              }
+            },
+            {
+              "index": 9,
+              "title": "MC",
+              "duration": "05:42"
+            },
+            {
+              "index": 10,
+              "title": "ダイスキだけど付き合えない",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 11,
+              "title": "悪いヒト",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "大橋莉子",
+                "作曲": "大橋莉子"
+              }
+            },
+            {
+              "index": 12,
+              "title": "女で地球は回ってる",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 13,
+              "title": "MC",
+              "duration": "00:41"
+            },
+            {
+              "index": 14,
+              "title": "ちょっと情緒不安定？…夏",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "広瀬香美",
+                "作曲": "広瀬香美"
+              }
+            },
+            {
+              "index": 15,
+              "title": "Hello! 生まれた意味がきっとある",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 16,
+              "title": "ヨリドリ ME DREAM",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 17,
+              "title": "MC",
+              "duration": "10:14"
+            },
+            {
+              "index": 18,
+              "title": "ラヴィ・ダヴィ",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 19,
+              "title": "ウチらの地元は地球じゃん！",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 20,
+              "title": "素肌は熱帯夜",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "早川響介"
+              }
+            },
+            {
+              "index": 21,
+              "title": "オチャノマ マホロバ イコイノバ〜昭和も令和もワッチャワチャ～",
+              "duration": "05:07",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 22,
+              "title": "色とりどり伸びよ！！【ENCORE】",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "中村瑛彦",
+                "作曲": "中村瑛彦"
+              }
+            },
+            {
+              "index": 23,
+              "title": "かっちょ良い歌【ENCORE】",
+              "duration": "02:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 24,
+              "title": "恋のクラウチングスタート【ENCORE】",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 25,
+              "title": "MC【ENCORE】",
+              "duration": "02:37"
+            },
+            {
+              "index": 26,
+              "title": "Rainbow【ENCORE】",
+              "duration": "06:09",
+              "credits": {
+                "作詞": "KOUGA",
+                "作曲": "KOUGA/中村佳紀"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

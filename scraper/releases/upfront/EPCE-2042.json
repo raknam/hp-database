@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-2042",
+  "url": "/release/detail/EPCE-2042/",
+  "source": "upfront",
+  "title": "リチャードギアにはなれないけれど/今度生まれたら",
+  "category": "CDシングル",
+  "artist": "因幡晃",
+  "releaseDate": "2015/06/03",
+  "label": "zetima",
+  "images": [
+    "/images/c3ffcb22ec580eb11a035c49df484efdcdef4061.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/c3ffcb22ec580eb11a035c49df484efdcdef4061.jpg",
+      "price": "￥1,222 (税抜価格 ￥1,111)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-2042",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "リチャードギアにはなれないけれど",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "上田紅葉",
+                "作曲": "田尾将実",
+                "編曲": "塩入俊哉"
+              }
+            },
+            {
+              "index": 2,
+              "title": "今度生まれたら",
+              "duration": "04:59",
+              "credits": {
+                "作詞": "上田紅葉",
+                "作曲": "三木たかし",
+                "編曲": "塩入俊哉"
+              }
+            },
+            {
+              "index": 3,
+              "title": "リチャードギアにはなれないけれど(オリジナル・カラオケ)",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "上田紅葉",
+                "作曲": "田尾将実",
+                "編曲": "塩入俊哉"
+              }
+            },
+            {
+              "index": 4,
+              "title": "今度生まれたら(オリジナル・カラオケ)",
+              "duration": "04:59",
+              "credits": {
+                "作詞": "上田紅葉",
+                "作曲": "三木たかし",
+                "編曲": "塩入俊哉"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

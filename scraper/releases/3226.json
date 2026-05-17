@@ -1,0 +1,49 @@
+{
+  "id": 3226,
+  "url": "/release/3226/",
+  "title": "FOLK SONGS 2",
+  "category": "CDアルバム",
+  "artist": "中澤裕子/メロン記念日/松浦亜弥/石井リカ",
+  "releaseDate": "2002.5.22",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/resources/images/foundation/release-placeholder.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "てんとう虫のサンバ",
+              "duration": "02:46",
+              "credits": {
+                "作詞": "さいとう大三",
+                "作曲": "馬飼野俊一",
+                "編曲": "高橋諭一",
+                "歌": "松浦亜弥・石井リカ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "花嫁",
+              "duration": "02:48",
+              "credits": {
+                "作詞": "北山修",
+                "作曲": "端田宣彦・坂庭省悟",
+                "編曲": "熊田豊",
+                "歌": "メロン記念日"
+              }
+            }
+          ],
+          "catalogNo": "DCH-14037"
+        }
+      ]
+    }
+  ]
+}

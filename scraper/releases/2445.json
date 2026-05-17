@@ -1,0 +1,56 @@
+{
+  "id": 2445,
+  "url": "/release/2445/",
+  "title": "シングルV「乙女の祈り」",
+  "category": "DVDシングルV",
+  "artist": "真野恵里菜",
+  "releaseDate": "2009.3.25",
+  "label": "hachama",
+  "images": [
+    "/upload/images/ab994d5608f9fc85d366f8ff2b0e1a00c9db4c98.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "乙女の祈り",
+              "duration": "05:04",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "乙女の祈り",
+              "duration": "04:57",
+              "suffix": "(Piano Ver.)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "12:57",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKBN-50110"
+        }
+      ]
+    }
+  ]
+}

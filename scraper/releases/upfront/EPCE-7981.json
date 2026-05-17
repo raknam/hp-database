@@ -1,0 +1,250 @@
+{
+  "code": "EPCE-7981",
+  "url": "/release/detail/EPCE-7981/",
+  "source": "upfront",
+  "title": "Misery ～愛の天秤～/なんとかなるでしょ",
+  "category": "CDシングル",
+  "artist": "ロージークロニクル",
+  "releaseDate": "2026/03/18",
+  "label": "zetima",
+  "images": [
+    "/images/14585edc1ec2ce6f231c119f5557ea4c76f5415d.jpg",
+    "/images/2f33f1aa50125b65274288132b0cc8a8515e69c6.jpg",
+    "/images/c9146e219fad23ad4b986e513269598363eb8c1e.jpg",
+    "/images/0fa85e4330e85a8f5a9d74d6de9215fbe8965f97.jpg",
+    "/images/1c72d8eafd05c4ef771d72e694e10621edb26327.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/14585edc1ec2ce6f231c119f5557ea4c76f5415d.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7981",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Misery～愛の天秤～",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "なんとかなるでしょ",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Misery～愛の天秤～(Instrumental)",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 4,
+              "title": "なんとかなるでしょ(Instrumental)",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "炭竃智弘"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/2f33f1aa50125b65274288132b0cc8a8515e69c6.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7983",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Misery～愛の天秤～(Music Video)",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Misery～愛の天秤～(Dance Shot Ver.)",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Misery～愛の天秤～(メイキング映像)",
+              "duration": "13:37"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/images/c9146e219fad23ad4b986e513269598363eb8c1e.jpg",
+      "price": "￥4,950 (税抜価格 ￥4,500)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7985",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Misery～愛の天秤～",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "なんとかなるでしょ",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Misery～愛の天秤～(Instrumental)",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 4,
+              "title": "なんとかなるでしょ(Instrumental)",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "炭竃智弘"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/0fa85e4330e85a8f5a9d74d6de9215fbe8965f97.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7987",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "なんとかなるでしょ(Music Video)",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 2,
+              "title": "なんとかなるでしょ(Dance Shot Ver.)",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 3,
+              "title": "なんとかなるでしょ(メイキング映像)",
+              "duration": "11:13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/1c72d8eafd05c4ef771d72e694e10621edb26327.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7988",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Misery～愛の天秤～",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "なんとかなるでしょ",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Misery～愛の天秤～(Instrumental)",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 4,
+              "title": "なんとかなるでしょ(Instrumental)",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "炭竃智弘"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

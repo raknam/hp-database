@@ -1,0 +1,49 @@
+{
+  "id": 2339,
+  "url": "/release/2339/",
+  "title": "演劇女子部「僕たち可憐な少年合唱団」",
+  "category": "DVD",
+  "artist": "ハロプロ研修生",
+  "releaseDate": "2014.8.27",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/5a563e14b2f3b6576c659660d0b561cf0b18b92d.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アニーローリー編",
+              "duration": "00:00",
+              "suffix": "※特典映像:約24分",
+              "credits": {
+                "出演": "メインキャスト/田辺奈菜美(ハロプロ研修生)・室田瑞希(ハロプロ研修生)・山木梨沙(ハロプロ研修生)・大浦央菜(ハロプロ研修生)"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1361"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "気球にのってどこまでも編",
+              "duration": "00:00",
+              "credits": {
+                "出演": "メインキャスト/浜浦彩乃(ハロプロ研修生)・山岸理子(ハロプロ研修生)・加賀楓(ハロプロ研修生)・佐々木莉佳子(ハロプロ研修生)"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

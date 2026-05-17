@@ -1,0 +1,91 @@
+{
+  "id": 2055,
+  "url": "/release/2055/",
+  "title": "美女学 Vol.8",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2011.3.9",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/d959caed35d703d2d627f2148cf3092186f2cb2d.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Lesson1 ガールズバーベキューを学ぶ！",
+              "duration": "12:07",
+              "credits": {
+                "出演": "亀井絵里・ジュンジュン(モーニング娘。)/清水佐紀・熊井友理奈(Berryz工房)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Lesson2 簡単に作れる豪華メイン料理！",
+              "duration": "18:42",
+              "credits": {
+                "出演": "亀井絵里・ジュンジュン(モーニング娘。)/清水佐紀・熊井友理奈(Berryz工房)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Lesson1 体力レベルアップ術を学ぶ！",
+              "duration": "11:42",
+              "credits": {
+                "出演": "田中れいな・リンリン(モーニング娘。)/中島早貴・岡井千聖(℃-ute)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Lesson2 体幹トレーニングを学ぶ！",
+              "duration": "05:55",
+              "credits": {
+                "出演": "田中れいな・リンリン(モーニング娘。)/中島早貴・岡井千聖(℃-ute)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Lesson3 体操競技を学ぶ！",
+              "duration": "13:30",
+              "credits": {
+                "出演": "田中れいな・リンリン(モーニング娘。)/中島早貴・岡井千聖(℃-ute)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Lesson4 新体操を学ぶ！",
+              "duration": "14:39",
+              "credits": {
+                "出演": "田中れいな・リンリン(モーニング娘。)/中島早貴・岡井千聖(℃-ute)"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ガールズバーベキューを課外授業 反省会",
+              "duration": "03:55",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 8,
+              "title": "スポーツを課外授業 反省会",
+              "duration": "03:03",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1078"
+        }
+      ]
+    }
+  ]
+}

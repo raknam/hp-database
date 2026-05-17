@@ -1,0 +1,121 @@
+{
+  "code": "EPDE-1108",
+  "url": "/release/detail/EPDE-1108/",
+  "source": "upfront",
+  "title": "河",
+  "category": "CDシングル",
+  "artist": "堀内孝雄",
+  "releaseDate": "2003/03/19",
+  "label": "zetima",
+  "images": [
+    "/images/2af7dd866a35c5eabf776ccaafe7eb7b1a77f64c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/2af7dd866a35c5eabf776ccaafe7eb7b1a77f64c.jpg",
+      "price": "￥1,175 (税抜価格 ￥1,068)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1108",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "河",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ちぎれたボタン",
+              "duration": "05:08",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 3,
+              "title": "河(オリジナル・カラオケ)",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ちぎれたボタン(オリジナル・カラオケ)",
+              "duration": "05:08",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": null,
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "カセットテープシングル",
+          "catalogNo": "EPSE-1108",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "河",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ちぎれたボタン",
+              "duration": "05:08",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 3,
+              "title": "河(オリジナル・カラオケ)",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ちぎれたボタン(オリジナル・カラオケ)",
+              "duration": "05:08",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

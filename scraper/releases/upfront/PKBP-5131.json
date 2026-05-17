@@ -1,0 +1,51 @@
+{
+  "code": "PKBP-5131",
+  "url": "/release/detail/PKBP-5131/",
+  "source": "upfront",
+  "title": "シングルV「本気ボンバー！！」",
+  "category": "DVDシングルV",
+  "artist": "Berryz工房",
+  "releaseDate": "2010/07/21",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/1bc7243e1eefeb9a413ec995997c4ec75a70df43.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/1bc7243e1eefeb9a413ec995997c4ec75a70df43.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "PKBP-5131",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "本気ボンバー！！",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "本気ボンバー！！(Close-up Ver.)",
+              "duration": "03:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "23:33"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

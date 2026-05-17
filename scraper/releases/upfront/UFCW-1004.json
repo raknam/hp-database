@@ -1,0 +1,78 @@
+{
+  "code": "UFCW-1004",
+  "url": "/release/detail/UFCW-1004/",
+  "source": "upfront",
+  "title": "Birth",
+  "category": "CDミニアルバム",
+  "artist": "七奈美",
+  "releaseDate": "2009/09/30",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/410a98f886e071b2b32f9c367118f8b338afc623.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/410a98f886e071b2b32f9c367118f8b338afc623.jpg",
+      "price": "￥2,096 (税抜価格 ￥1,905)",
+      "discs": [
+        {
+          "type": "CDミニアルバム",
+          "catalogNo": "UFCW-1004",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Keep Your Smile",
+              "duration": "05:40",
+              "credits": {
+                "作詞": "七奈美",
+                "作曲": "山下宏明",
+                "編曲": "山下宏明/G.M.KAZ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Tina's Waltz",
+              "duration": "05:10",
+              "credits": {
+                "作詞": "七奈美",
+                "作曲": "山下宏明",
+                "編曲": "山下宏明/G.M.KAZ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Birthday Girl",
+              "duration": "05:26",
+              "credits": {
+                "作詞": "七奈美",
+                "作曲": "山下宏明",
+                "編曲": "山下宏明/G.M.KAZ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Be Shine",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "七奈美",
+                "作曲": "山下宏明",
+                "編曲": "山下宏明/G.M.KAZ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Unfixable",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "七奈美",
+                "作曲": "山下宏明",
+                "編曲": "山下宏明/G.M.KAZ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

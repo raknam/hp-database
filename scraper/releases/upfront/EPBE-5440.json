@@ -1,0 +1,58 @@
+{
+  "code": "EPBE-5440",
+  "url": "/release/detail/EPBE-5440/",
+  "source": "upfront",
+  "title": "ここが好き",
+  "category": "DVD",
+  "artist": "鈴木愛理",
+  "releaseDate": "2012/07/25",
+  "label": "zetima",
+  "images": [
+    "/images/26a58df9e1b27e4f07b83ee15b7360afed58fc71.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/26a58df9e1b27e4f07b83ee15b7360afed58fc71.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5440",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "00:34"
+            },
+            {
+              "index": 2,
+              "title": "街",
+              "duration": "10:23"
+            },
+            {
+              "index": 3,
+              "title": "学校",
+              "duration": "11:23"
+            },
+            {
+              "index": 4,
+              "title": "海",
+              "duration": "12:36"
+            },
+            {
+              "index": 5,
+              "title": "写真集「この風が好き」メイキング映像",
+              "duration": "23:44"
+            },
+            {
+              "index": 6,
+              "title": "エンドロール",
+              "duration": "01:06"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

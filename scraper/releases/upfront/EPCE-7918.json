@@ -1,0 +1,270 @@
+{
+  "code": "EPCE-7918",
+  "url": "/release/detail/EPCE-7918/",
+  "source": "upfront",
+  "title": "ロングラブレター/アニバーサリーはいらない",
+  "category": "CDシングル",
+  "artist": "譜久村聖",
+  "releaseDate": "2025/04/23",
+  "label": "zetima",
+  "images": [
+    "/images/7db9650066ee3416186651c4d11a998a2d5d1b0f.jpg",
+    "/images/6121d8058053ed69328001eac83aabfc8dc8cf25.jpg",
+    "/images/c750a8b857c1ed40147e258cb741bc546d1b1181.jpg",
+    "/images/b351570d905f26ee67bccaf91a8c1b3b0b985050.jpg",
+    "/images/e0f1168a0672d18c1ab83e26c34c12b63c4f8329.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/7db9650066ee3416186651c4d11a998a2d5d1b0f.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7918",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ロングラブレター",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "miwaflower",
+                "作曲": "miwaflower/Toshiya Hosokawa/DJ Georgia",
+                "編曲": "Toshiya Hosokawa/DJ Georgia"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アニバーサリーはいらない",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "suiu",
+                "編曲": "Ryo Kakuta"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ロングラブレター(Instrumental)",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "miwaflower",
+                "作曲": "miwaflower/Toshiya Hosokawa/DJ Georgia",
+                "編曲": "Toshiya Hosokawa/DJ Georgia"
+              }
+            },
+            {
+              "index": 4,
+              "title": "アニバーサリーはいらない(Instrumental)",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "suiu",
+                "編曲": "Ryo Kakuta"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/6121d8058053ed69328001eac83aabfc8dc8cf25.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7920",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ロングラブレター(Music Video)",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "miwaflower",
+                "作曲": "miwaflower/Toshiya Hosokawa/DJ Georgia"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ロングラブレター(Contemporary Dance Ver.)",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "miwaflower",
+                "作曲": "miwaflower/Toshiya Hosokawa/DJ Georgia"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ロングラブレター(メイキング映像)",
+              "duration": "08:52"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/images/c750a8b857c1ed40147e258cb741bc546d1b1181.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7922",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ロングラブレター",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "miwaflower",
+                "作曲": "miwaflower/Toshiya Hosokawa/DJ Georgia",
+                "編曲": "Toshiya Hosokawa/DJ Georgia"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アニバーサリーはいらない",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "suiu",
+                "編曲": "Ryo Kakuta"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ロングラブレター(Instrumental)",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "miwaflower",
+                "作曲": "miwaflower/Toshiya Hosokawa/DJ Georgia",
+                "編曲": "Toshiya Hosokawa/DJ Georgia"
+              }
+            },
+            {
+              "index": 4,
+              "title": "アニバーサリーはいらない(Instrumental)",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "suiu",
+                "編曲": "Ryo Kakuta"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/b351570d905f26ee67bccaf91a8c1b3b0b985050.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7924",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アニバーサリーはいらない(Music Video)",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "suiu"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アニバーサリーはいらない(Dance Shot Ver.)",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "suiu"
+              }
+            },
+            {
+              "index": 3,
+              "title": "アニバーサリーはいらない(メイキング映像)",
+              "duration": "11:42"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/e0f1168a0672d18c1ab83e26c34c12b63c4f8329.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7925",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ロングラブレター",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "miwaflower",
+                "作曲": "miwaflower/Toshiya Hosokawa/DJ Georgia",
+                "編曲": "Toshiya Hosokawa/DJ Georgia"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アニバーサリーはいらない",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "suiu",
+                "編曲": "Ryo Kakuta"
+              }
+            },
+            {
+              "index": 3,
+              "title": "エキストラ【Additional Track】",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ロングラブレター(Instrumental)",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "miwaflower",
+                "作曲": "miwaflower/Toshiya Hosokawa/DJ Georgia",
+                "編曲": "Toshiya Hosokawa/DJ Georgia"
+              }
+            },
+            {
+              "index": 5,
+              "title": "アニバーサリーはいらない(Instrumental)",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "suiu",
+                "編曲": "Ryo Kakuta"
+              }
+            },
+            {
+              "index": 6,
+              "title": "エキストラ(Instrumental)",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 2936,
+  "url": "/release/2936/",
+  "title": "シングルV 「ミニモ二。数え歌～お風呂ば～じょん」 「ミニモ二。数え歌～デートば～じょん～」",
+  "category": "DVDシングルV",
+  "artist": "ミニモニ｡",
+  "releaseDate": "2003.6.11",
+  "label": "zetima",
+  "images": [
+    "/upload/images/7e3e707804ad50663cbab85dc1ab457fd65ec83d.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ミニモ二。数え歌～お風呂ば～じょん～",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "出演": "ミニモニ。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ミニモ二。数え歌～デートば～じょん～",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "出演": "ミニモニ。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "出演": "ミニモニ。"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5076"
+        }
+      ]
+    }
+  ]
+}

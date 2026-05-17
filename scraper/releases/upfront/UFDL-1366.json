@@ -1,0 +1,48 @@
+{
+  "code": "UFDL-1366",
+  "url": "/release/detail/UFDL-1366/",
+  "source": "upfront",
+  "title": "愛の種(20th Anniversary Ver.)",
+  "category": "配信シングル",
+  "artist": "モーニング娘。20th",
+  "releaseDate": "2017/11/03",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/4673f094a5d806fc19bb03e0e33836cef6716632.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/4673f094a5d806fc19bb03e0e33836cef6716632.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信シングル",
+          "catalogNo": "UFDL-1366",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛の種(20th Anniversary Ver.)",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "サエキけんぞう",
+                "作曲": "桜井鉄太郎",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 1,
+              "title": "愛の種(20th Anniversary Ver.)(Instrumental)",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "サエキけんぞう",
+                "作曲": "桜井鉄太郎",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

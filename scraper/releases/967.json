@@ -1,0 +1,312 @@
+{
+  "id": 967,
+  "url": "/release/967/",
+  "title": "この街",
+  "category": "CDシングル",
+  "artist": "℃-ute",
+  "releaseDate": "2013.2.6",
+  "label": "zetima",
+  "images": [
+    "/upload/images/5832ae6ebbbc595dcb74b2d3c29580d105415a09.webp",
+    "/upload/images/e77b7bab7107143e074bde138c3ff810238947b7.webp",
+    "/upload/images/aded42e7230f0ca749cfa892406ef45c024b29ba.webp",
+    "/upload/images/49530783c3684ba66a5ca3ebabbdce7731aedca3.webp",
+    "/upload/images/5336ee7f2eff9652d75d92dfa689cacf4ac95e80.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/5832ae6ebbbc595dcb74b2d3c29580d105415a09.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "この街",
+              "duration": "05:13",
+              "credits": {
+                "作詞": "森高千里/セリフアレンジ:つんく",
+                "作曲": "斉藤英夫",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "雨",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "松浦誠二",
+                "編曲": "板垣祐介",
+                "歌": "矢島舞美"
+              }
+            },
+            {
+              "index": 3,
+              "title": "この街",
+              "duration": "05:13",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "森高千里/セリフアレンジ:つんく",
+                "作曲": "斉藤英夫",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5932"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "この街",
+              "duration": "05:24",
+              "suffix": "(Another Edition)",
+              "credits": {
+                "作詞": "森高千里/セリフアレンジ:つんく",
+                "作曲": "斉藤英夫",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "この街",
+              "duration": "05:30",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "森高千里/セリフアレンジ:つんく",
+                "作曲": "斉藤英夫",
+                "出演": "℃-ute"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD+イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/e77b7bab7107143e074bde138c3ff810238947b7.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "この街",
+              "duration": "05:13",
+              "credits": {
+                "作詞": "森高千里/セリフアレンジ:つんく",
+                "作曲": "斉藤英夫",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "雨",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "松浦誠二",
+                "編曲": "板垣祐介",
+                "歌": "矢島舞美"
+              }
+            },
+            {
+              "index": 3,
+              "title": "この街",
+              "duration": "05:13",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "森高千里/セリフアレンジ:つんく",
+                "作曲": "斉藤英夫",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5934"
+        }
+      ],
+      "note": "イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/aded42e7230f0ca749cfa892406ef45c024b29ba.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "この街",
+              "duration": "05:13",
+              "credits": {
+                "作詞": "森高千里/セリフアレンジ:つんく",
+                "作曲": "斉藤英夫",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ハエ男",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "森高千里",
+                "編曲": "藤澤慶昌",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "この街",
+              "duration": "05:13",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "森高千里/セリフアレンジ:つんく",
+                "作曲": "斉藤英夫",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5935"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "この街",
+              "duration": "05:24",
+              "suffix": "(Another Edition)",
+              "credits": {
+                "作詞": "森高千里/セリフアレンジ:つんく",
+                "作曲": "斉藤英夫",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "この街",
+              "duration": "05:30",
+              "suffix": "(5shot Ver.)",
+              "credits": {
+                "作詞": "森高千里/セリフアレンジ:つんく",
+                "作曲": "斉藤英夫",
+                "出演": "℃-ute"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD+イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤D】",
+      "image": "/upload/images/49530783c3684ba66a5ca3ebabbdce7731aedca3.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "この街",
+              "duration": "05:13",
+              "credits": {
+                "作詞": "森高千里/セリフアレンジ:つんく",
+                "作曲": "斉藤英夫",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ハエ男",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "森高千里",
+                "編曲": "藤澤慶昌",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "この街",
+              "duration": "05:13",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "森高千里/セリフアレンジ:つんく",
+                "作曲": "斉藤英夫",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5937"
+        }
+      ],
+      "note": "イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/5336ee7f2eff9652d75d92dfa689cacf4ac95e80.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "この街",
+              "duration": "05:13",
+              "credits": {
+                "作詞": "森高千里/セリフアレンジ:つんく",
+                "作曲": "斉藤英夫",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "この街",
+              "duration": "03:50",
+              "suffix": "(Dance Groove Ver.)",
+              "credits": {
+                "作詞": "森高千里/セリフアレンジ:つんく",
+                "作曲": "斉藤英夫",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "この街",
+              "duration": "05:13",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "森高千里/セリフアレンジ:つんく",
+                "作曲": "斉藤英夫",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5938"
+        }
+      ]
+    }
+  ]
+}

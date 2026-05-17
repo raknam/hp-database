@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5072",
+  "url": "/release/detail/EPCE-5072/",
+  "source": "upfront",
+  "title": "A・RA・WA",
+  "category": "CDシングル",
+  "artist": "谷村有美",
+  "releaseDate": "2000/10/12",
+  "label": "zetima",
+  "images": [
+    "/images/6c36ddeb12c6a5aa7762b4e0739741e26588fc45.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/6c36ddeb12c6a5aa7762b4e0739741e26588fc45.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5072",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "A・RA・WA",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "まこと",
+                "作曲": "たいせ－",
+                "編曲": "加藤道明"
+              }
+            },
+            {
+              "index": 2,
+              "title": "mobile girl",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "渡辺なつみ",
+                "作曲": "今井千尋",
+                "編曲": "加藤道明"
+              }
+            },
+            {
+              "index": 3,
+              "title": "A・RA・WA(Instrumental)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "まこと",
+                "作曲": "たいせ－",
+                "編曲": "加藤道明"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

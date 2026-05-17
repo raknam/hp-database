@@ -1,0 +1,26 @@
+{
+  "id": 4739,
+  "url": "/release/4739/",
+  "title": "リアル隠れんぼファイナル",
+  "category": "DVD",
+  "artist": "光井愛佳",
+  "releaseDate": "2011.1.7",
+  "label": "ブロードウェイ",
+  "images": [
+    "/resources/images/foundation/release-placeholder.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [],
+          "catalogNo": "BWD-2031"
+        }
+      ]
+    }
+  ]
+}

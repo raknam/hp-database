@@ -1,0 +1,48 @@
+{
+  "code": "UFDL-1449",
+  "url": "/release/detail/UFDL-1449/",
+  "source": "upfront",
+  "title": "都会のオンナ",
+  "category": "配信シングル",
+  "artist": "吉川友にぱいぱいでか美",
+  "releaseDate": "2020/03/11",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/549f8ed07032f198cc3ba43a05df152d5432ef7a.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/549f8ed07032f198cc3ba43a05df152d5432ef7a.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信シングル",
+          "catalogNo": "UFDL-1449",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "都会のオンナ",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "でか美",
+                "作曲": "でか美",
+                "編曲": "ENIXES/michitomo(GOLDTAIL)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "都会のオンナ(Instrumental)",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "でか美",
+                "作曲": "でか美",
+                "編曲": "ENIXES/michitomo(GOLDTAIL)"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

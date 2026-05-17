@@ -1,0 +1,51 @@
+{
+  "code": "HKBN-50121",
+  "url": "/release/detail/HKBN-50121/",
+  "source": "upfront",
+  "title": "シングルV「Love & Peace ＝ パラダイス」",
+  "category": "DVDシングルV",
+  "artist": "真野恵里菜",
+  "releaseDate": "2009/12/02",
+  "label": "hachama",
+  "images": [
+    "/images/89efa6debedb2bc1d9035eec8c7b82062628c603.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/89efa6debedb2bc1d9035eec8c7b82062628c603.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "HKBN-50121",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Love & Peace ＝ パラダイス",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "経塚泰誠"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Love & Peace ＝ パラダイス(Close-up Ver.)",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "経塚泰誠"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "12:02"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

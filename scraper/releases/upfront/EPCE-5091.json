@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5091",
+  "url": "/release/detail/EPCE-5091/",
+  "source": "upfront",
+  "title": "恋をしちゃいました！",
+  "category": "CDシングル",
+  "artist": "タンポポ",
+  "releaseDate": "2001/02/21",
+  "label": "zetima",
+  "images": [
+    "/images/de1a5191231c36e53d33e926617d5d7fa754b37f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/de1a5191231c36e53d33e926617d5d7fa754b37f.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5091",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋をしちゃいました！",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "渡部チェル"
+              }
+            },
+            {
+              "index": 2,
+              "title": "BABY CRY",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋をしちゃいました！(Instrumental)",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "渡部チェル"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

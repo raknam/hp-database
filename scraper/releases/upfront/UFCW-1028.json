@@ -1,0 +1,68 @@
+{
+  "code": "UFCW-1028",
+  "url": "/release/detail/UFCW-1028/",
+  "source": "upfront",
+  "title": "バレバレI LOVE YOU",
+  "category": "CDシングル",
+  "artist": "アップアップガールズ（仮）",
+  "releaseDate": "2012/06/03",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/31635eb5cca9adefc8180d542fd1b90d151ece33.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/31635eb5cca9adefc8180d542fd1b90d151ece33.jpg",
+      "price": "￥1,047 (税抜価格 ￥952)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "UFCW-1028",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "バレバレI LOVE YOU",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Rainbow",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "大華奈央香",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 3,
+              "title": "バレバレI LOVE YOU(Instrumental)",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Rainbow(Instrumental)",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "大華奈央香",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

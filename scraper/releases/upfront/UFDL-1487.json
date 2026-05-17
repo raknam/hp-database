@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1487",
+  "url": "/release/detail/UFDL-1487/",
+  "source": "upfront",
+  "title": "地球は今日も愛を育む",
+  "category": "配信",
+  "artist": "笠原桃奈",
+  "releaseDate": "2021/11/16",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/b294b38853733db65b79ba9b879e750ab6c1cdb3.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/b294b38853733db65b79ba9b879e750ab6c1cdb3.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1487",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "地球は今日も愛を育む",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "MEG.ME"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

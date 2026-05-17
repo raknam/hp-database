@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5373",
+  "url": "/release/detail/EPBE-5373/",
+  "source": "upfront",
+  "title": "シングルV「女が目立って なぜイケナイ」",
+  "category": "DVDシングルV",
+  "artist": "モーニング娘。",
+  "releaseDate": "2010/02/24",
+  "label": "zetima",
+  "images": [
+    "/images/96fe391662853a8667e2a25866952407141e87b0.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/96fe391662853a8667e2a25866952407141e87b0.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5373",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "女が目立って なぜイケナイ",
+              "duration": "04:05",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "女が目立って なぜイケナイ(Stage Ver.)",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "19:00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

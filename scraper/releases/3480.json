@@ -1,0 +1,72 @@
+{
+  "id": 3480,
+  "url": "/release/3480/",
+  "title": "恋のバカンス",
+  "category": "CDシングル",
+  "artist": "W",
+  "releaseDate": "2004.5.19",
+  "label": "zetima",
+  "images": [
+    "/upload/images/7340ddf3ad0fd920d104f288704f3d0069d44b9b.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋のバカンス",
+              "duration": "02:53",
+              "credits": {
+                "作詞": "岩谷時子",
+                "作曲": "宮川泰",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "W"
+              }
+            },
+            {
+              "index": 2,
+              "title": "月影のナポリ(TINTARELLA DI LUNA)",
+              "duration": "02:58",
+              "credits": {
+                "作詞": "FrancoMigliacci/訳詞:千家春",
+                "作曲": "BrunoDefilippi",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "W"
+              }
+            },
+            {
+              "index": 3,
+              "title": "悲しき16才(HEARTACHES AT SWEET SIXTEEN)",
+              "duration": "01:58",
+              "credits": {
+                "作詞": "IraKosloff,IrvingReid,TonySpringer/訳詞:音羽たかし",
+                "作曲": "IraKosloff,IrvingReid,TonySpringer",
+                "編曲": "高橋諭一",
+                "歌": "W"
+              }
+            },
+            {
+              "index": 4,
+              "title": "恋のバカンス",
+              "duration": "02:53",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "岩谷時子",
+                "作曲": "宮川泰",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "W"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5288"
+        }
+      ]
+    }
+  ]
+}

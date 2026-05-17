@@ -1,0 +1,102 @@
+{
+  "code": "PKCP-5022",
+  "url": "/release/detail/PKCP-5022/",
+  "source": "upfront",
+  "title": "スクランブル",
+  "category": "CDシングル",
+  "artist": "後藤真希",
+  "releaseDate": "2003/06/18",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/4cacd6e9249b5b01a7c6e2f6993e2d1f9541ce27.jpg",
+    "/images/8b7be6682a2da14132b585c5c25144738b81dea9.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回盤】",
+      "image": "/images/4cacd6e9249b5b01a7c6e2f6993e2d1f9541ce27.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5022",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "スクランブル",
+              "duration": "05:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "長電話",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "SHO-1"
+              }
+            },
+            {
+              "index": 3,
+              "title": "スクランブル(Instrumental)",
+              "duration": "05:08",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/8b7be6682a2da14132b585c5c25144738b81dea9.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5023",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "スクランブル",
+              "duration": "05:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "長電話",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "SHO-1"
+              }
+            },
+            {
+              "index": 3,
+              "title": "スクランブルInstrumental",
+              "duration": "05:08",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

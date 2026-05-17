@@ -1,0 +1,51 @@
+{
+  "code": "PKBP-5019",
+  "url": "/release/detail/PKBP-5019/",
+  "source": "upfront",
+  "title": "シングルV「ピリリと行こう！」",
+  "category": "DVDシングルV",
+  "artist": "Berryz工房",
+  "releaseDate": "2004/06/09",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/d21155f30c768f06d3591ae86370760a710ace7c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d21155f30c768f06d3591ae86370760a710ace7c.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "PKBP-5019",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ピリリと行こう！",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ピリリと行こう！(Close-up Ver.)",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "04:16"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

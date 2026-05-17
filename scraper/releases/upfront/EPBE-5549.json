@@ -1,0 +1,103 @@
+{
+  "code": "EPBE-5549",
+  "url": "/release/detail/EPBE-5549/",
+  "source": "upfront",
+  "title": "舞台「JKニンジャガールズ」",
+  "category": "DVD",
+  "artist": "こぶしファクトリー",
+  "releaseDate": "2017/07/05",
+  "label": "zetima",
+  "images": [
+    "/images/420914efa526ec9a09597e52b445ac340f319aa3.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/420914efa526ec9a09597e52b445ac340f319aa3.jpg",
+      "price": "￥4,584 (税抜価格 ￥4,167)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5549",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プロローグ",
+              "duration": "05:00"
+            },
+            {
+              "index": 2,
+              "title": "なにわニンジャガールズの東京アジト",
+              "duration": "09:31"
+            },
+            {
+              "index": 3,
+              "title": "JKニンジャガールズのアジト",
+              "duration": "11:11"
+            },
+            {
+              "index": 4,
+              "title": "2人の出会い",
+              "duration": "02:49"
+            },
+            {
+              "index": 5,
+              "title": "転校生",
+              "duration": "05:45"
+            },
+            {
+              "index": 6,
+              "title": "カラオケボックス",
+              "duration": "11:54"
+            },
+            {
+              "index": 7,
+              "title": "対決",
+              "duration": "08:40"
+            },
+            {
+              "index": 8,
+              "title": "選ぶ未来",
+              "duration": "03:10"
+            },
+            {
+              "index": 9,
+              "title": "これぞ忍の錬金術！",
+              "duration": "05:33"
+            },
+            {
+              "index": 10,
+              "title": "消滅の術",
+              "duration": "12:51"
+            },
+            {
+              "index": 11,
+              "title": "敵同士",
+              "duration": "03:49"
+            },
+            {
+              "index": 12,
+              "title": "女の忍道",
+              "duration": "04:09"
+            },
+            {
+              "index": 13,
+              "title": "東京タワー消滅作戦",
+              "duration": "05:24"
+            },
+            {
+              "index": 14,
+              "title": "闇に抜け駆け",
+              "duration": "11:20"
+            },
+            {
+              "index": 15,
+              "title": "JKニンジャガールズの使命",
+              "duration": "06:40"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

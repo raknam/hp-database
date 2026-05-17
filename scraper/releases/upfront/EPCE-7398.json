@@ -1,0 +1,222 @@
+{
+  "code": "EPCE-7398",
+  "url": "/release/detail/EPCE-7398/",
+  "source": "upfront",
+  "title": "Are you Happy?/A gonna",
+  "category": "CDシングル",
+  "artist": "モーニング娘。'18",
+  "releaseDate": "2018/06/13",
+  "label": "zetima",
+  "images": [
+    "/images/ee4e2e678a87e40400f2dcd2ca1c2b4d2c96dfed.jpg",
+    "/images/a343c40b0d20bbff50d8f9924f52f59c0f4f0e63.jpg",
+    "/images/175bb087368f009b95dc5592a4e62c844a841df1.jpg",
+    "/images/b1e7d08bc1c6c2915fcdae5c0d789351f707d466.jpg",
+    "/images/34187e5daab81e0b21734b425f05d22e4e5faae0.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/ee4e2e678a87e40400f2dcd2ca1c2b4d2c96dfed.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7398",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Are you Happy?",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "A gonna",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Are you Happy?(Instrumental)",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "A gonna(Instrumental)",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/a343c40b0d20bbff50d8f9924f52f59c0f4f0e63.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7400",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Are you Happy?(Music Video)",
+              "duration": "05:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/images/175bb087368f009b95dc5592a4e62c844a841df1.jpg",
+      "price": "￥1,870 (税抜価格 ￥1,700)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7402",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Are you Happy?",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "A gonna",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Are you Happy?(Instrumental)",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "A gonna(Instrumental)",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/b1e7d08bc1c6c2915fcdae5c0d789351f707d466.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7404",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "A gonna(Music Video)",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/34187e5daab81e0b21734b425f05d22e4e5faae0.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7405",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Are you Happy?",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "A gonna",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Are you Happy?(Instrumental)",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "A gonna(Instrumental)",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

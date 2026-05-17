@@ -1,0 +1,73 @@
+{
+  "id": 2204,
+  "url": "/release/2204/",
+  "title": "フォレストタイム/キャベツ白書",
+  "category": "CDシングル",
+  "artist": "ハーベスト",
+  "releaseDate": "2012.11.7",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/6b462e042510a848607010d2806b158a32a1dfe4.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "フォレストタイム",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一",
+                "歌": "ハーベスト"
+              }
+            },
+            {
+              "index": 2,
+              "title": "キャベツ白書",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "角田崇徳/Wolfgang Amadeus Mozart(PD)",
+                "編曲": "角田崇徳",
+                "歌": "ピーベリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "フォレストタイム",
+              "duration": "04:01",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一",
+                "歌": "ハーベスト"
+              }
+            },
+            {
+              "index": 4,
+              "title": "キャベツ白書",
+              "duration": "04:18",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "角田崇徳/Wolfgang Amadeus Mozart(PD)",
+                "編曲": "角田崇徳",
+                "歌": "ピーベリー"
+              }
+            }
+          ],
+          "catalogNo": "UFCW-1043"
+        }
+      ]
+    }
+  ]
+}

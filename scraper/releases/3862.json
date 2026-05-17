@@ -1,0 +1,85 @@
+{
+  "id": 3862,
+  "url": "/release/3862/",
+  "title": "西新宿で逢ったひと",
+  "category": "カセットテープシングル",
+  "artist": "前田有紀",
+  "releaseDate": "2004.9.29",
+  "label": "ライスミュージック",
+  "images": [
+    "/resources/images/foundation/release-placeholder.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CASSETTE",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "西新宿で逢ったひと",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "田形美喜子",
+                "作曲": "吉川慶",
+                "編曲": "馬飼野康二",
+                "歌": "前田有紀"
+              }
+            },
+            {
+              "index": 2,
+              "title": "月列車",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "峰崎林二郎",
+                "作曲": "花岡優平",
+                "編曲": "馬飼野康二",
+                "歌": "前田有紀"
+              }
+            },
+            {
+              "index": 3,
+              "title": "西新宿で逢ったひと",
+              "duration": "04:16",
+              "suffix": "(オリジナル・カラオケ)",
+              "credits": {
+                "作詞": "田形美喜子",
+                "作曲": "吉川慶",
+                "編曲": "馬飼野康二",
+                "歌": "前田有紀"
+              }
+            },
+            {
+              "index": 4,
+              "title": "月列車",
+              "duration": "04:11",
+              "suffix": "(オリジナル・カラオケ)",
+              "credits": {
+                "作詞": "峰崎林二郎",
+                "作曲": "花岡優平",
+                "編曲": "馬飼野康二",
+                "歌": "前田有紀"
+              }
+            },
+            {
+              "index": 5,
+              "title": "月列車",
+              "duration": "04:16",
+              "suffix": "(男性キー・カラオケ)",
+              "credits": {
+                "作詞": "田形美喜子",
+                "作曲": "吉川慶",
+                "編曲": "馬飼野康二",
+                "歌": "前田有紀"
+              }
+            }
+          ],
+          "catalogNo": "PKSP-2002"
+        }
+      ]
+    }
+  ]
+}

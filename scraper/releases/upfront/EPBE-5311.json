@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5311",
+  "url": "/release/detail/EPBE-5311/",
+  "source": "upfront",
+  "title": "シングルV「FOREVER LOVE」",
+  "category": "DVDシングルV",
+  "artist": "℃-ute",
+  "releaseDate": "2008/12/10",
+  "label": "zetima",
+  "images": [
+    "/images/5098f6cf3308227d3940e288cd6c71b7b633da18.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/5098f6cf3308227d3940e288cd6c71b7b633da18.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5311",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "FOREVER LOVE",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "FOREVER LOVE(Casual Dance Ver.)",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "PV撮影メイキング映像",
+              "duration": "05:23"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

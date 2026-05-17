@@ -1,0 +1,108 @@
+{
+  "code": "EPBE-5306",
+  "url": "/release/detail/EPBE-5306/",
+  "source": "upfront",
+  "title": "Real Challenge！！",
+  "category": "DVD",
+  "artist": "田中れいな",
+  "releaseDate": "2008/10/29",
+  "label": "zetima",
+  "images": [
+    "/images/97ef72a18517635a4aa9ade37f43392c18355d73.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/97ef72a18517635a4aa9ade37f43392c18355d73.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5306",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "01:03"
+            },
+            {
+              "index": 2,
+              "title": "写真集撮影①",
+              "duration": "05:03"
+            },
+            {
+              "index": 3,
+              "title": "チャレンジ発表",
+              "duration": "05:58"
+            },
+            {
+              "index": 4,
+              "title": "写真集撮影②",
+              "duration": "05:04"
+            },
+            {
+              "index": 5,
+              "title": "勉強①",
+              "duration": "01:17"
+            },
+            {
+              "index": 6,
+              "title": "れいな丼",
+              "duration": "03:33"
+            },
+            {
+              "index": 7,
+              "title": "勉強②",
+              "duration": "04:41"
+            },
+            {
+              "index": 8,
+              "title": "特製カレー作り①",
+              "duration": "01:46"
+            },
+            {
+              "index": 9,
+              "title": "勉強③",
+              "duration": "01:22"
+            },
+            {
+              "index": 10,
+              "title": "特製カレー作り②",
+              "duration": "05:49"
+            },
+            {
+              "index": 11,
+              "title": "バター作り",
+              "duration": "03:23"
+            },
+            {
+              "index": 12,
+              "title": "ソーセージ作り",
+              "duration": "05:05"
+            },
+            {
+              "index": 13,
+              "title": "ランチタイム",
+              "duration": "01:49"
+            },
+            {
+              "index": 14,
+              "title": "勉強④",
+              "duration": "06:58"
+            },
+            {
+              "index": 15,
+              "title": "リアルチャレンジ",
+              "duration": "04:31"
+            },
+            {
+              "index": 16,
+              "title": "エンディング",
+              "duration": "01:57"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

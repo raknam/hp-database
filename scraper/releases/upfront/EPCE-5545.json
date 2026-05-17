@@ -1,0 +1,214 @@
+{
+  "code": "EPCE-5545",
+  "url": "/release/detail/EPCE-5545/",
+  "source": "upfront",
+  "title": "3rd〜LOVE エスカレーション！〜",
+  "category": "CDアルバム",
+  "artist": "℃-ute",
+  "releaseDate": "2008/03/12",
+  "label": "zetima",
+  "images": [
+    "/images/af1c5fe54d03d9b35774d1580dd1725c7db35f36.jpg",
+    "/images/58df9b86f150b733103dbac706f2997fb36226ac.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/af1c5fe54d03d9b35774d1580dd1725c7db35f36.jpg",
+      "price": "￥3,960 (税抜価格 ￥3,600)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5545",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "都会っ子 純情",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "イメージカラー",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "乙女COCORO",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳"
+              }
+            },
+            {
+              "index": 4,
+              "title": "LALALA 幸せの歌",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ほめられ伸び子のテーマ曲",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 6,
+              "title": "めぐる恋の季節",
+              "duration": "03:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 7,
+              "title": "スイーーツ→→→ライブ",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 8,
+              "title": "桜チラリ",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 9,
+              "title": "晴れのプラチナ通り",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 10,
+              "title": "ドドンガドン音頭",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/58df9b86f150b733103dbac706f2997fb36226ac.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5547",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "LALALA 幸せの歌(Live Ver.)Hello! Project 2008 Winter 〜決定！ハロ☆プロ アワード '08〜より収録",
+              "duration": "03:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "LALALA 幸せの歌(梅田えりか Close-up Live Ver.)",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "LALALA 幸せの歌(矢島舞美 Close-up Live Ver.)",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "LALALA 幸せの歌(中島早貴 Close-up Live Ver.)",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "LALALA 幸せの歌(鈴木愛理 Close-up Live Ver.)",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "LALALA 幸せの歌(岡井千聖 Close-up Live Ver.)",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 7,
+              "title": "LALALA 幸せの歌(萩原舞 Close-up Live Ver.)",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 8,
+              "title": "LALALA 幸せの歌(有原栞菜 Close-up Live Ver.)",
+              "duration": "03:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

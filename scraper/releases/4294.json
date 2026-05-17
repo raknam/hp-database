@@ -1,0 +1,396 @@
+{
+  "id": 4294,
+  "url": "/release/4294/",
+  "title": "Hello! Project 2009 SUMMER 革命元年～ Hello!チャンプル ～",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2009.11.4",
+  "label": "hachama",
+  "images": [
+    "/resources/images/foundation/release-placeholder.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "01:07",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "グルグルJUMP",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 3,
+              "title": "ピリリと行こう！",
+              "duration": "02:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "VTR",
+              "duration": "01:41",
+              "suffix": "(メンバー紹介)",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 5,
+              "title": "MC",
+              "duration": "01:52",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 6,
+              "title": "ぁまのじゃく",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "S/mileage"
+              }
+            },
+            {
+              "index": 7,
+              "title": "おまかせ♪ガーディアン",
+              "duration": "02:12",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "斎藤悠弥",
+                "出演": "ガーディアンズ4"
+              }
+            },
+            {
+              "index": 8,
+              "title": "ミニモニ。ジャンケンぴょん！",
+              "duration": "02:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "新ミニモニ。"
+              }
+            },
+            {
+              "index": 9,
+              "title": "MC",
+              "duration": "05:37",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 10,
+              "title": "世界は サマー・パーティ",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 11,
+              "title": "暑中お見舞い申し上げます",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "喜多條忠",
+                "作曲": "佐瀬寿一",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 12,
+              "title": "青春バスガイド",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 13,
+              "title": "MC",
+              "duration": "02:24",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 14,
+              "title": "なんちゃって恋愛",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 15,
+              "title": "しょうがない 夢追い人",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 16,
+              "title": "MC",
+              "duration": "04:40",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 17,
+              "title": "デビュー！～恋する角には福来る～",
+              "duration": "02:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "アイスクリー娘。/ジュンジュン・リンリン(モーニング娘。)"
+              }
+            },
+            {
+              "index": 18,
+              "title": "夢と現実",
+              "duration": "02:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "あぁ！"
+              }
+            },
+            {
+              "index": 19,
+              "title": "ピラッ！乙女の願い",
+              "duration": "03:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "プッチモニV"
+              }
+            },
+            {
+              "index": 20,
+              "title": "MC",
+              "duration": "03:39",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 21,
+              "title": "部屋とYシャツと私",
+              "duration": "03:00",
+              "credits": {
+                "作詞": "平松愛理",
+                "作曲": "平松愛理",
+                "出演": "田中れいな(モーニング娘。)"
+              }
+            },
+            {
+              "index": 22,
+              "title": "アンブレラ",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "タンポポ#"
+              }
+            },
+            {
+              "index": 23,
+              "title": "MY BOY",
+              "duration": "02:45",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく",
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 24,
+              "title": "JUMP",
+              "duration": "03:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 25,
+              "title": "MC",
+              "duration": "04:39",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 26,
+              "title": "秋桜",
+              "duration": "02:19",
+              "credits": {
+                "作詞": "さだまさし",
+                "作曲": "さだまさし",
+                "出演": "高橋愛(モーニング娘。)"
+              }
+            },
+            {
+              "index": 27,
+              "title": "ONLY YOU",
+              "duration": "03:01",
+              "credits": {
+                "作詞": "氷室京介",
+                "作曲": "布袋寅泰",
+                "出演": "続・美勇伝"
+              }
+            },
+            {
+              "index": 28,
+              "title": "行くZYX! FLY HIGH",
+              "duration": "03:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "ZYX－α"
+              }
+            },
+            {
+              "index": 29,
+              "title": "Diamonds",
+              "duration": "02:51",
+              "credits": {
+                "作詞": "中山加奈子",
+                "作曲": "奥居香",
+                "出演": "High－King"
+              }
+            },
+            {
+              "index": 30,
+              "title": "C＼C (シンデレラ＼コンプレックス)",
+              "duration": "02:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "High－King"
+              }
+            },
+            {
+              "index": 31,
+              "title": "MC",
+              "duration": "05:40",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 32,
+              "title": "スッペシャル ジェネレ～ション",
+              "duration": "02:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 33,
+              "title": "都会っ子 純情",
+              "duration": "03:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 34,
+              "title": "MC",
+              "duration": "00:39",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 35,
+              "title": "リゾナント ブルー",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 36,
+              "title": "その場面でビビっちゃいけないじゃん！",
+              "duration": "03:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 37,
+              "title": "ここにいるぜぇ！",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 38,
+              "title": "MC",
+              "duration": "01:34",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 39,
+              "title": "青空がいつまでも続くような未来であれ！",
+              "duration": "09:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "HKBN-50120"
+        }
+      ]
+    }
+  ]
+}

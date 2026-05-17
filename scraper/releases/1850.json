@@ -1,0 +1,93 @@
+{
+  "id": 1850,
+  "url": "/release/1850/",
+  "title": "スッペシャル！ベストミニ 〜2、5枚目の彼〜",
+  "category": "CDアルバム",
+  "artist": "Berryz工房",
+  "releaseDate": "2005.12.7",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/upload/images/7ad928e62026127515054a73046d2447ae7504be.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ギャグ100回分愛してください",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ありがとう！おともだち。",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "スッペシャルジェネレ〜ション",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "馬飼野康二",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 4,
+              "title": "21時までのシンデレラ",
+              "duration": "03:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ピリリと行こう！",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 6,
+              "title": "あなたなしでは生きてゆけない",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA",
+                "歌": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5062"
+        }
+      ]
+    }
+  ]
+}

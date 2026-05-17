@@ -1,0 +1,250 @@
+{
+  "code": "EPCE-7867",
+  "url": "/release/detail/EPCE-7867/",
+  "source": "upfront",
+  "title": "ちはやぶる/友達天体図",
+  "category": "CDシングル",
+  "artist": "OCHA NORMA",
+  "releaseDate": "2024/09/11",
+  "label": "zetima",
+  "images": [
+    "/images/7ab3cbb3df5509b36a57ca4ae214daeb788e1780.jpg",
+    "/images/f24a4c06826cb106b1e119f58f49b79573c0df17.jpg",
+    "/images/ae5c519a13f886ec00c58a312c3090f0055d659f.jpg",
+    "/images/c12e06b14042c8adec895f272e3027360bb5b25c.jpg",
+    "/images/69fc1154d1f207a4a0e11fdd590d90c1f612aec7.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/7ab3cbb3df5509b36a57ca4ae214daeb788e1780.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7867",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ちはやぶる",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "友達天体図",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "山崎あおい",
+                "編曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ちはやぶる(Instrumental)",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 4,
+              "title": "友達天体図(Instrumental)",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "山崎あおい",
+                "編曲": "炭竃智弘"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/f24a4c06826cb106b1e119f58f49b79573c0df17.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7869",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ちはやぶる(Music Video)",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ちはやぶる(Dance Shot Ver.)",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ちはやぶる(メイキング映像)",
+              "duration": "14:28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/images/ae5c519a13f886ec00c58a312c3090f0055d659f.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7871",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ちはやぶる",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "友達天体図",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "山崎あおい",
+                "編曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ちはやぶる(Instrumental)",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 4,
+              "title": "友達天体図(Instrumental)",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "山崎あおい",
+                "編曲": "炭竃智弘"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/c12e06b14042c8adec895f272e3027360bb5b25c.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7873",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "友達天体図(Music Video)",
+              "duration": "05:16",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "山崎あおい"
+              }
+            },
+            {
+              "index": 2,
+              "title": "友達天体図(Dance Shot Ver.)",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "山崎あおい"
+              }
+            },
+            {
+              "index": 3,
+              "title": "友達天体図(メイキング映像)",
+              "duration": "13:05"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/69fc1154d1f207a4a0e11fdd590d90c1f612aec7.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7874",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ちはやぶる",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "友達天体図",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "山崎あおい",
+                "編曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ちはやぶる(Instrumental)",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 4,
+              "title": "友達天体図(Instrumental)",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "山崎あおい",
+                "編曲": "炭竃智弘"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

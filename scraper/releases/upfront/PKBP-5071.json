@@ -1,0 +1,51 @@
+{
+  "code": "PKBP-5071",
+  "url": "/release/detail/PKBP-5071/",
+  "source": "upfront",
+  "title": "シングルV「シークレット」",
+  "category": "DVDシングルV",
+  "artist": "後藤真希",
+  "releaseDate": "2007/04/25",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/41116323b23fdff3db18d72b603b954233f047d4.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/41116323b23fdff3db18d72b603b954233f047d4.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "PKBP-5071",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "シークレット",
+              "duration": "05:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "シークレット(Secret Ver.)",
+              "duration": "05:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "07:29"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

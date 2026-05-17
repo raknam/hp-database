@@ -1,0 +1,48 @@
+{
+  "code": "UFBW-2115",
+  "url": "/release/detail/UFBW-2115/",
+  "source": "upfront",
+  "title": "BS-TBS 開局15周年特別企画 クールジャパン 〜道〜 「演劇女子部ミュージカル 『LILIUM-リリウム 少女純潔歌劇-』感謝祭」",
+  "category": "DVD",
+  "artist": "モーニング娘。'15/アンジュルム",
+  "releaseDate": "2016/04/02",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/214b642007ce46b0f4587b2ae5e63b205cfab328.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/214b642007ce46b0f4587b2ae5e63b205cfab328.jpg",
+      "price": "￥4,074 (税抜価格 ￥3,704)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2115",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "00:24"
+            },
+            {
+              "index": 2,
+              "title": "LILIUM 感謝祭 演劇パート「二輪咲き」",
+              "duration": "32:14"
+            },
+            {
+              "index": 3,
+              "title": "LILIUM トークショー",
+              "duration": "23:17"
+            },
+            {
+              "index": 4,
+              "title": "劇中歌LIVE",
+              "duration": "50:55"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "code": "EPBE-5434",
+  "url": "/release/detail/EPBE-5434/",
+  "source": "upfront",
+  "title": "as it is",
+  "category": "DVD",
+  "artist": "新垣里沙",
+  "releaseDate": "2012/05/16",
+  "label": "zetima",
+  "images": [
+    "/images/711bd6210699d7908fe18bd577bb1041f439e268.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/711bd6210699d7908fe18bd577bb1041f439e268.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5434",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Wake up",
+              "duration": "10:52"
+            },
+            {
+              "index": 2,
+              "title": "Island",
+              "duration": "15:10"
+            },
+            {
+              "index": 3,
+              "title": "Walking forward",
+              "duration": "09:00"
+            },
+            {
+              "index": 4,
+              "title": "Making of 「ASCENSION」",
+              "duration": "13:49"
+            },
+            {
+              "index": 5,
+              "title": "Interview",
+              "duration": "06:48"
+            },
+            {
+              "index": 6,
+              "title": "Endroll",
+              "duration": "00:41"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

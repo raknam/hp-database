@@ -1,0 +1,200 @@
+{
+  "code": "PKCP-5123",
+  "url": "/release/detail/PKCP-5123/",
+  "source": "upfront",
+  "title": "5(FIVE)",
+  "category": "CDアルバム",
+  "artist": "Berryz工房",
+  "releaseDate": "2008/09/10",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/f7435528e246fd7aee61ee28db1be6f30858692e.jpg",
+    "/images/65fff7df05fa080e86bc03065ce6a21957fcadf6.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/f7435528e246fd7aee61ee28db1be6f30858692e.jpg",
+      "price": "￥3,960 (税抜価格 ￥3,600)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "PKCP-5123",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "HAPPY!Stand Up",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "この指とまれ！",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "バカにしないで",
+              "duration": "04:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳"
+              }
+            },
+            {
+              "index": 4,
+              "title": "行け 行け モンキーダンス",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Ah Merry-go-round",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 6,
+              "title": "CLAP!",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳"
+              }
+            },
+            {
+              "index": 7,
+              "title": "REAL LOVE",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 8,
+              "title": "夢を一粒〜Berryz仮面 Endingテーマ〜",
+              "duration": "02:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ジンギスカン",
+              "duration": "03:07",
+              "credits": {
+                "作詞": "Bernd Meinunger/訳詞：山本伊織",
+                "作曲": "Ralph Siegel",
+                "編曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 10,
+              "title": "付き合ってるのに片思い",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 11,
+              "title": "BE",
+              "duration": "05:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            },
+            {
+              "index": 12,
+              "title": "スッペシャル ジェネレ〜ション(エキセントリック Remix)",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "藤澤慶昌"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/65fff7df05fa080e86bc03065ce6a21957fcadf6.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKCP-5125",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "イベントPart1",
+              "duration": "15:44"
+            },
+            {
+              "index": 2,
+              "title": "マジ グッドチャンス サマー",
+              "duration": "04:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "イベントPart2",
+              "duration": "14:53"
+            },
+            {
+              "index": 4,
+              "title": "行け 行け モンキーダンス",
+              "duration": "05:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "エンディング",
+              "duration": "02:37"
+            },
+            {
+              "index": 6,
+              "title": "握手会",
+              "duration": "01:56"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

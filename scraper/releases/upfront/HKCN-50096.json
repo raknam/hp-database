@@ -1,0 +1,168 @@
+{
+  "code": "HKCN-50096",
+  "url": "/release/detail/HKCN-50096/",
+  "source": "upfront",
+  "title": "Love & Peace = パラダイス",
+  "category": "CDシングル",
+  "artist": "真野恵里菜",
+  "releaseDate": "2009/11/25",
+  "label": "hachama",
+  "images": [
+    "/images/1105b73d185dd956d931ff8a8980a0dd6d3262c5.jpg",
+    "/images/2a6b3a724506a6467d081a1beac8cb187c743f4f.jpg",
+    "/images/73aed6d72b3663ceb562328be8a915a7c97abe65.jpg",
+    "/images/04ee7093dd67bed33ed48419679b3d00a566eb97.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/1105b73d185dd956d931ff8a8980a0dd6d3262c5.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50096",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Love & Peace ＝ パラダイス",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "経塚泰誠",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Love & Peace ＝ パラダイス feat.ハローキティ",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "経塚泰誠",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "18才の季節",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "経塚泰誠",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Love & Peace ＝ パラダイス(Instrumental)",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "経塚泰誠",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/2a6b3a724506a6467d081a1beac8cb187c743f4f.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50098",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Love & Peace ＝ パラダイス(Dance Shot Ver.)",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "経塚泰誠"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/images/73aed6d72b3663ceb562328be8a915a7c97abe65.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50100",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Love & Peace ＝ パラダイス",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "経塚泰誠",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Love & Peace ＝ パラダイス feat.ハローキティ",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "経塚泰誠",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "18才の季節",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "経塚泰誠",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Love & Peace ＝ パラダイス(Instrumental)",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "経塚泰誠",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/04ee7093dd67bed33ed48419679b3d00a566eb97.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50101",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Love & Peace ＝ パラダイス(Buranko Ver.)",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "経塚泰誠"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

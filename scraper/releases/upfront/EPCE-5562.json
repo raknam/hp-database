@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5562",
+  "url": "/release/detail/EPCE-5562/",
+  "source": "upfront",
+  "title": "TOKYO FRIEND☆SHIPS",
+  "category": "CDシングル",
+  "artist": "SHIPS",
+  "releaseDate": "2008/06/25",
+  "label": "zetima",
+  "images": [
+    "/images/dd4b7baf148b123770a4870afaac0c686ef41ce3.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/dd4b7baf148b123770a4870afaac0c686ef41ce3.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5562",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "TOKYO FRIEND☆SHIPS",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "ササキオサム",
+                "作曲": "ササキオサム",
+                "編曲": "ササキオサム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "half of dream",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "谷藤律子",
+                "作曲": "若林充",
+                "編曲": "伊藤俊"
+              }
+            },
+            {
+              "index": 3,
+              "title": "TOKYO FRIEND☆SHIPS(Instrumental)",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "ササキオサム",
+                "作曲": "ササキオサム",
+                "編曲": "ササキオサム"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "code": "UFBW-1591",
+  "url": "/release/detail/UFBW-1591/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.41",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2018/03/14",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/031f0e0b7a7bd7f34613499f25c1a22501388624.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/031f0e0b7a7bd7f34613499f25c1a22501388624.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1591",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「Girls Talk」(リーダー編)",
+              "duration": "11:14"
+            },
+            {
+              "index": 2,
+              "title": "THINK BACK TO THE MUSIC「和太鼓」",
+              "duration": "08:32"
+            },
+            {
+              "index": 3,
+              "title": "The Girls Live Film in 旧古河庭園チャオ ベッラ チンクエッティ「卒業式～大人になる1ページ～」",
+              "duration": "10:16"
+            },
+            {
+              "index": 4,
+              "title": "選ばれし私達【スタジオライブ集】",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "愛のダイビング【スタジオライブ集】",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "一期一会【スタジオライブ集】",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 7,
+              "title": "私の魅力【スタジオライブ集】",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 8,
+              "title": "BRAND NEW MORNING【スタジオライブ集】",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Jean Luc Ponpon & 星部ショウ"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ジェラシー ジェラシー【スタジオライブ集】",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：U.M.E.D.Y.",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 10,
+              "title": "モーニング娘。'17 「BRAND NEW MORNING」MV撮影密着",
+              "duration": "05:29"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

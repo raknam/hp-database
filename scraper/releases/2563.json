@@ -1,0 +1,56 @@
+{
+  "id": 2563,
+  "url": "/release/2563/",
+  "title": "シングルV「Thanks!」",
+  "category": "DVDシングルV",
+  "artist": "GAM",
+  "releaseDate": "2006.9.20",
+  "label": "hachama",
+  "images": [
+    "/upload/images/41330fd01378cef39f49b0c8cd2936f988bf3248.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Thanks!",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "GAM"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Thanks!",
+              "duration": "04:11",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "GAM"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "09:16",
+              "credits": {
+                "出演": "GAM"
+              }
+            }
+          ],
+          "catalogNo": "HKBN-50073"
+        }
+      ]
+    }
+  ]
+}

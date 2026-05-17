@@ -1,0 +1,53 @@
+{
+  "code": "UFBW-1150",
+  "url": "/release/detail/UFBW-1150/",
+  "source": "upfront",
+  "title": "ハロプロ！TIME Vol.8",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012/05/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/cc3740b54fa553d814b8fb27665758de109d574d.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/cc3740b54fa553d814b8fb27665758de109d574d.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1150",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "高橋TIME「ファッションセンターしまむら」で鈴木香音をおしゃれコーディネート",
+              "duration": "25:02"
+            },
+            {
+              "index": 2,
+              "title": "中島TIME目指せ！！ボウリング親善大使",
+              "duration": "19:37"
+            },
+            {
+              "index": 3,
+              "title": "菅谷TIME超セクシー衣裳！！「ああ、夜が明ける」MV撮影でメンバー撮り",
+              "duration": "09:52"
+            },
+            {
+              "index": 4,
+              "title": "清水TIME自宅のペット＆家庭菜園自慢！！",
+              "duration": "10:11"
+            },
+            {
+              "index": 5,
+              "title": "鈴木TIME人気キャラ？「すーさん。」で夢を描いた！！",
+              "duration": "04:57"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

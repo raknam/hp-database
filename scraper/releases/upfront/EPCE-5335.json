@@ -1,0 +1,102 @@
+{
+  "code": "EPCE-5335",
+  "url": "/release/detail/EPCE-5335/",
+  "source": "upfront",
+  "title": "涙が止まらない放課後",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2004/11/03",
+  "label": "zetima",
+  "images": [
+    "/images/d45856ec68bfe664ca6f3946e48d8a7554f16bd5.jpg",
+    "/images/ddd14e42aa4968a6f427233e6bd51a55ba6e2186.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回盤】",
+      "image": "/images/d45856ec68bfe664ca6f3946e48d8a7554f16bd5.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5335",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "涙が止まらない放課後",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "寝坊です。デートなのに…",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "涙が止まらない放課後(Instrumental)",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/ddd14e42aa4968a6f427233e6bd51a55ba6e2186.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5336",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "涙が止まらない放課後",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "寝坊です。デートなのに…",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "涙が止まらない放課後(Instrumental)",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

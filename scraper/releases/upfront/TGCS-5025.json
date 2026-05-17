@@ -1,0 +1,48 @@
+{
+  "code": "TGCS-5025",
+  "url": "/release/detail/TGCS-5025/",
+  "source": "upfront",
+  "title": "マノピアノ",
+  "category": "CDシングル",
+  "artist": "真野恵里菜",
+  "releaseDate": "2008/06/29",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/74f8eba34d56d77926a92cbaade8150477e374cc.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/74f8eba34d56d77926a92cbaade8150477e374cc.jpg",
+      "price": "￥838 (税抜価格 ￥762)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "TGCS-5025",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "マノピアノ",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "たいせい"
+              }
+            },
+            {
+              "index": 2,
+              "title": "マノピアノ(Instrumental)",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "たいせい"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "code": "EPDE-1047",
+  "url": "/release/detail/EPDE-1047/",
+  "source": "upfront",
+  "title": "宇宙でLa Ta Ta",
+  "category": "CDシングル",
+  "artist": "太陽とシスコムーン",
+  "releaseDate": "1999/07/28",
+  "label": "zetima",
+  "images": [
+    "/images/9417a3e3bb8c499a388c05a32d8c5904d2ea9a04.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/9417a3e3bb8c499a388c05a32d8c5904d2ea9a04.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1047",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "宇宙でLa Ta Ta",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野伸"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ガタメキラ GTS more energy remix remixed by SATOSHI HIDAKA from GTS appears coutesy of AVEX INC.",
+              "duration": "07:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "SATOSHIHIDAKA(GTS)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ガタメキラ digital gigolo remix remixed by PISTON NISHIZAWA",
+              "duration": "05:05",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "PISTONNISHIZAWA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "宇宙でLa Ta Ta(instrumental)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野伸"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

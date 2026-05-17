@@ -1,0 +1,53 @@
+{
+  "code": "UFBW-1333",
+  "url": "/release/detail/UFBW-1333/",
+  "source": "upfront",
+  "title": "ハロー!SATOYAMAライフ Vol.26",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2014/05/14",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/e5fc38b2d6983ec83bf4927761310ba89763e4a4.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/e5fc38b2d6983ec83bf4927761310ba89763e4a4.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1333",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "埼玉日帰り 里山巡り",
+              "duration": "28:20"
+            },
+            {
+              "index": 2,
+              "title": "Berryz工房「もっとずっと一緒に居たかった」MV撮影に密着",
+              "duration": "09:27"
+            },
+            {
+              "index": 3,
+              "title": "Juice=Juice「イジワルしないで 抱きしめてよ」MV撮影に密着",
+              "duration": "16:51"
+            },
+            {
+              "index": 4,
+              "title": "Juice=Juice「初めてを経験中」MV撮影に密着",
+              "duration": "12:03"
+            },
+            {
+              "index": 5,
+              "title": "スマイレージ「ええか！？」MV撮影に密着",
+              "duration": "05:33"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

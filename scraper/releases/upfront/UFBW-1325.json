@@ -1,0 +1,58 @@
+{
+  "code": "UFBW-1325",
+  "url": "/release/detail/UFBW-1325/",
+  "source": "upfront",
+  "title": "おへその国からこんにちは/天まで登れ！",
+  "category": "DVD",
+  "artist": "ハロプロ研修生",
+  "releaseDate": "2013/12/20",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/b16714f9c04be6f16596f069de314b2e3dae49eb.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/b16714f9c04be6f16596f069de314b2e3dae49eb.jpg",
+      "price": "￥1,362 (税抜価格 ￥1,238)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1325",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "おへその国からこんにちは(Music Video)",
+              "duration": "04:09"
+            },
+            {
+              "index": 2,
+              "title": "天まで登れ！(Music Video)",
+              "duration": "05:07"
+            },
+            {
+              "index": 3,
+              "title": "おへその国からこんにちは(Dance Shot Ver.)",
+              "duration": "04:11"
+            },
+            {
+              "index": 4,
+              "title": "天まで登れ！(Dance Shot Ver.)",
+              "duration": "05:03"
+            },
+            {
+              "index": 5,
+              "title": "おへその国からこんにちは(カラオケ Ver.)",
+              "duration": "04:09"
+            },
+            {
+              "index": 6,
+              "title": "天まで登れ！(カラオケ Ver.)",
+              "duration": "05:13"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5101",
+  "url": "/release/detail/EPCE-5101/",
+  "source": "upfront",
+  "title": "奇跡の雨",
+  "category": "CDシングル",
+  "artist": "7HOUSE",
+  "releaseDate": "2001/04/18",
+  "label": "zetima",
+  "images": [
+    "/images/468c4a5dfff31594ac58a9cbd18bad0aec213e84.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/468c4a5dfff31594ac58a9cbd18bad0aec213e84.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5101",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "奇跡の雨",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "ケンジ＆つんく",
+                "作曲": "つんく",
+                "編曲": "セブンHOUSE&高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "曖昧LOVE",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "ケンジ＆つんく",
+                "作曲": "つんく",
+                "編曲": "セブンHOUSEブラスアレンジメント:山本公樹"
+              }
+            },
+            {
+              "index": 3,
+              "title": "奇跡の雨(Instrumental)",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "ケンジ＆つんく",
+                "作曲": "つんく",
+                "編曲": "セブンHOUSE&高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

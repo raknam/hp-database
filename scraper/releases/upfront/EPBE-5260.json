@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5260",
+  "url": "/release/detail/EPBE-5260/",
+  "source": "upfront",
+  "title": "シングルV「愛しき悪友へ」",
+  "category": "DVD",
+  "artist": "モーニング娘｡誕生10年記念隊",
+  "releaseDate": "2007/08/22",
+  "label": "zetima",
+  "images": [
+    "/images/c9e09b4ae67d81562dc6bfd153218e2af2670dc1.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/c9e09b4ae67d81562dc6bfd153218e2af2670dc1.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5260",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛しき悪友へ",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "愛しき悪友へ(5 Shot Ver.)",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "20:50"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

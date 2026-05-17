@@ -1,0 +1,351 @@
+{
+  "code": "EPCE-5863",
+  "url": "/release/detail/EPCE-5863/",
+  "source": "upfront",
+  "title": "君は自転車 私は電車で帰宅",
+  "category": "CDシングル",
+  "artist": "℃-ute",
+  "releaseDate": "2012/04/18",
+  "label": "zetima",
+  "images": [
+    "/images/b39a0705a128aa208c5474a67d529e9f5b7b8f86.jpg",
+    "/images/0caccf86d1c1739150155e6390ed9e272b6cd140.jpg",
+    "/images/0f02b2bbdb36a1b5664b5c94a0defd3c15df68fb.jpg",
+    "/images/54b54fe3f9119b2cef769ac988b567c080a5b66b.jpg",
+    "/images/087ee34a3bb5b8c646c880aab0a38bb6a3855b1e.jpg",
+    "/images/3c038ea92f546ab4fd2de8d0784be08534d5e58d.jpg",
+    "/images/e47f1b952cb136956d3a90135ec3f4a6e851a3b4.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/b39a0705a128aa208c5474a67d529e9f5b7b8f86.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5863",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "君は自転車 私は電車で帰宅",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳"
+              }
+            },
+            {
+              "index": 2,
+              "title": "「愛はいつもいつも」",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "corin."
+              }
+            },
+            {
+              "index": 3,
+              "title": "君は自転車 私は電車で帰宅(Instrumental)",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "初回生産限定盤B:矢島舞美版",
+      "image": "/images/0caccf86d1c1739150155e6390ed9e272b6cd140.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5865",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "君は自転車 私は電車で帰宅(Dance Shot Ver.)",
+              "duration": "05:08",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "初回生産限定盤C:中島早貴版",
+      "image": "/images/0f02b2bbdb36a1b5664b5c94a0defd3c15df68fb.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5866",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "君は自転車 私は電車で帰宅",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳"
+              }
+            },
+            {
+              "index": 2,
+              "title": "「愛はいつもいつも」",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "corin."
+              }
+            },
+            {
+              "index": 3,
+              "title": "君は自転車 私は電車で帰宅(矢島舞美Ver.)",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳"
+              }
+            },
+            {
+              "index": 4,
+              "title": "君は自転車 私は電車で帰宅(Instrumental)",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "初回生産限定盤D:鈴木愛理版",
+      "image": "/images/54b54fe3f9119b2cef769ac988b567c080a5b66b.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5867",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "君は自転車 私は電車で帰宅",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳"
+              }
+            },
+            {
+              "index": 2,
+              "title": "「愛はいつもいつも」",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "corin."
+              }
+            },
+            {
+              "index": 3,
+              "title": "君は自転車 私は電車で帰宅(中島早貴Ver.)",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳"
+              }
+            },
+            {
+              "index": 4,
+              "title": "君は自転車 私は電車で帰宅(Instrumental)",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "初回生産限定盤E:岡井千聖版",
+      "image": "/images/087ee34a3bb5b8c646c880aab0a38bb6a3855b1e.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5868",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "君は自転車 私は電車で帰宅",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳"
+              }
+            },
+            {
+              "index": 2,
+              "title": "「愛はいつもいつも」",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "corin."
+              }
+            },
+            {
+              "index": 3,
+              "title": "君は自転車 私は電車で帰宅(鈴木愛理Ver.)",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳"
+              }
+            },
+            {
+              "index": 4,
+              "title": "君は自転車 私は電車で帰宅(Instrumental)",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "初回生産限定盤F:萩原舞版",
+      "image": "/images/3c038ea92f546ab4fd2de8d0784be08534d5e58d.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5869",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "君は自転車 私は電車で帰宅",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳"
+              }
+            },
+            {
+              "index": 2,
+              "title": "「愛はいつもいつも」",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "corin."
+              }
+            },
+            {
+              "index": 3,
+              "title": "君は自転車 私は電車で帰宅(岡井千聖Ver.)",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳"
+              }
+            },
+            {
+              "index": 4,
+              "title": "君は自転車 私は電車で帰宅(Instrumental)",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/e47f1b952cb136956d3a90135ec3f4a6e851a3b4.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5870",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "君は自転車 私は電車で帰宅",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳"
+              }
+            },
+            {
+              "index": 2,
+              "title": "「愛はいつもいつも」",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "corin."
+              }
+            },
+            {
+              "index": 3,
+              "title": "君は自転車 私は電車で帰宅(萩原舞Ver.)",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳"
+              }
+            },
+            {
+              "index": 4,
+              "title": "君は自転車 私は電車で帰宅(Instrumental)",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

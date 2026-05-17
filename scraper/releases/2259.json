@@ -1,0 +1,59 @@
+{
+  "id": 2259,
+  "url": "/release/2259/",
+  "title": "ハロー!SATOYAMAライフ Vol.29",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2014.6.25",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/49aa78a5da73d8f67d4f96611f336d81b09acbd3.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "日帰り鎌倉 里山旅1",
+              "duration": "19:23",
+              "credits": {
+                "出演": "譜久村聖・飯窪春菜(モーニング娘。'14)/徳永千奈美・須藤茉麻(Berryz工房)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "日帰り鎌倉里山旅2",
+              "duration": "08:35",
+              "credits": {
+                "出演": "譜久村聖・飯窪春菜(モーニング娘。'14)/徳永千奈美・須藤茉麻(Berryz工房)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "日帰り鎌倉里山旅3",
+              "duration": "19:56",
+              "credits": {
+                "出演": "譜久村聖・飯窪春菜(モーニング娘。'14)/徳永千奈美・須藤茉麻(Berryz工房)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "日帰り鎌倉里山旅4",
+              "duration": "23:46",
+              "credits": {
+                "出演": "譜久村聖・飯窪春菜(モーニング娘。'14)/徳永千奈美・須藤茉麻(Berryz工房)"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1349"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "code": "UFBW-1630",
+  "url": "/release/detail/UFBW-1630/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.57",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2019/07/10",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/5535c2148c38b0ec8ce1cc0051f34db6bef613c2.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/5535c2148c38b0ec8ce1cc0051f34db6bef613c2.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1630",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "食品ロス",
+              "duration": "06:13"
+            },
+            {
+              "index": 2,
+              "title": "お部屋選び",
+              "duration": "10:08"
+            },
+            {
+              "index": 3,
+              "title": "睡眠",
+              "duration": "11:59"
+            },
+            {
+              "index": 4,
+              "title": "古民家",
+              "duration": "12:12"
+            },
+            {
+              "index": 5,
+              "title": "ヨガ",
+              "duration": "11:37"
+            },
+            {
+              "index": 6,
+              "title": "花が咲く 太陽浴びて【スタジオライブ集】",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 7,
+              "title": "笑って【スタジオライブ集】",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "津野米咲",
+                "作曲": "津野米咲"
+              }
+            },
+            {
+              "index": 8,
+              "title": "独り占め【スタジオライブ集】",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 9,
+              "title": "バッチ来い青春！【スタジオライブ集】",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン/炭竃智弘"
+              }
+            },
+            {
+              "index": 10,
+              "title": "これからだ！【スタジオライブ集】",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "横健介"
+              }
+            },
+            {
+              "index": 11,
+              "title": "KEEP ON 上昇志向！！【スタジオライブ集】",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

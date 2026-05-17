@@ -1,0 +1,305 @@
+{
+  "code": "EPCE-7227",
+  "url": "/release/detail/EPCE-7227/",
+  "source": "upfront",
+  "title": "サンバ！こぶしジャネイロ/バッチ来い青春！/オラはにんきもの",
+  "category": "CDシングル",
+  "artist": "こぶしファクトリー",
+  "releaseDate": "2016/07/27",
+  "label": "zetima",
+  "images": [
+    "/images/5957db57126e96fcdace855d7d4f37f15491320b.jpg",
+    "/images/f39beb3b9e7f2aaf789cb4b5d79faf939b6412e5.jpg",
+    "/images/bdb72e774536d51cbb5982465d8f17b95bbab686.jpg",
+    "/images/8bd351794bf0ae77f7d5094a69cc66574d3dea8c.jpg",
+    "/images/67148bd2b118de62f5404e0c8630194b09a89af6.jpg",
+    "/images/0027bc29117c1ee8ee69cc5e69d2077deaa6dacf.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/5957db57126e96fcdace855d7d4f37f15491320b.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7227",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "サンバ！こぶしジャネイロ",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "hasiejaneiro/ブラスアレンジ:竹上良成"
+              }
+            },
+            {
+              "index": 2,
+              "title": "バッチ来い青春！",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン/炭竃智弘",
+                "編曲": "gaokalab"
+              }
+            },
+            {
+              "index": 3,
+              "title": "オラはにんきもの",
+              "duration": "03:26",
+              "credits": {
+                "作詞": "里乃塚玲央",
+                "作曲": "小杉保夫",
+                "編曲": "菊谷知樹/ブラスアレンジ:竹上良成"
+              }
+            },
+            {
+              "index": 4,
+              "title": "サンバ！こぶしジャネイロ(Instrumental)",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "hasiejaneiro/ブラスアレンジ:竹上良成"
+              }
+            },
+            {
+              "index": 5,
+              "title": "バッチ来い青春！(Instrumental)",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン/炭竃智弘",
+                "編曲": "gaokalab"
+              }
+            },
+            {
+              "index": 6,
+              "title": "オラはにんきもの(Instrumental)",
+              "duration": "03:26",
+              "credits": {
+                "作詞": "里乃塚玲央",
+                "作曲": "小杉保夫",
+                "編曲": "菊谷知樹/ブラスアレンジ:竹上良成"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/f39beb3b9e7f2aaf789cb4b5d79faf939b6412e5.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7229",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "サンバ！こぶしジャネイロ(Music Video)",
+              "duration": "05:36",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/images/bdb72e774536d51cbb5982465d8f17b95bbab686.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7231",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "サンバ！こぶしジャネイロ",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "hasiejaneiro/ブラスアレンジ:竹上良成"
+              }
+            },
+            {
+              "index": 2,
+              "title": "バッチ来い青春！",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン/炭竃智弘",
+                "編曲": "gaokalab"
+              }
+            },
+            {
+              "index": 3,
+              "title": "オラはにんきもの",
+              "duration": "03:26",
+              "credits": {
+                "作詞": "里乃塚玲央",
+                "作曲": "小杉保夫",
+                "編曲": "菊谷知樹/ブラスアレンジ:竹上良成"
+              }
+            },
+            {
+              "index": 4,
+              "title": "サンバ！こぶしジャネイロ(Instrumental)",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "hasiejaneiro/ブラスアレンジ:竹上良成"
+              }
+            },
+            {
+              "index": 5,
+              "title": "バッチ来い青春！(Instrumental)",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン/炭竃智弘",
+                "編曲": "gaokalab"
+              }
+            },
+            {
+              "index": 6,
+              "title": "オラはにんきもの(Instrumental)",
+              "duration": "03:26",
+              "credits": {
+                "作詞": "里乃塚玲央",
+                "作曲": "小杉保夫",
+                "編曲": "菊谷知樹/ブラスアレンジ:竹上良成"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/8bd351794bf0ae77f7d5094a69cc66574d3dea8c.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7233",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "バッチ来い青春！(Music Video)",
+              "duration": "05:28",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン/炭竃智弘"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/67148bd2b118de62f5404e0c8630194b09a89af6.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7234",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "サンバ！こぶしジャネイロ",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "hasiejaneiro/ブラスアレンジ:竹上良成"
+              }
+            },
+            {
+              "index": 2,
+              "title": "バッチ来い青春！",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン/炭竃智弘",
+                "編曲": "gaokalab"
+              }
+            },
+            {
+              "index": 3,
+              "title": "オラはにんきもの",
+              "duration": "03:26",
+              "credits": {
+                "作詞": "里乃塚玲央",
+                "作曲": "小杉保夫",
+                "編曲": "菊谷知樹/ブラスアレンジ:竹上良成"
+              }
+            },
+            {
+              "index": 4,
+              "title": "サンバ！こぶしジャネイロ(Instrumental)",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "hasiejaneiro/ブラスアレンジ:竹上良成"
+              }
+            },
+            {
+              "index": 5,
+              "title": "バッチ来い青春！(Instrumental)",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン/炭竃智弘",
+                "編曲": "gaokalab"
+              }
+            },
+            {
+              "index": 6,
+              "title": "オラはにんきもの(Instrumental)",
+              "duration": "03:26",
+              "credits": {
+                "作詞": "里乃塚玲央",
+                "作曲": "小杉保夫",
+                "編曲": "菊谷知樹/ブラスアレンジ:竹上良成"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/images/0027bc29117c1ee8ee69cc5e69d2077deaa6dacf.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7235",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オラはにんきもの(Music Video)",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "里乃塚玲央",
+                "作曲": "小杉保夫"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

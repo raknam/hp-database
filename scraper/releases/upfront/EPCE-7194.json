@@ -1,0 +1,164 @@
+{
+  "code": "EPCE-7194",
+  "url": "/release/detail/EPCE-7194/",
+  "source": "upfront",
+  "title": "宝物/イツワリ",
+  "category": "CDシングル",
+  "artist": "LoVendoЯ",
+  "releaseDate": "2016/02/24",
+  "label": "zetima",
+  "images": [
+    "/images/10c1538324a113708c6f5480dfb47d7203bb9ebd.jpg",
+    "/images/e114fdb8f0d347787168910f69f5b51515ccb396.jpg",
+    "/images/4724489bb83efcf2d64eb445162af77c085a788c.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/10c1538324a113708c6f5480dfb47d7203bb9ebd.jpg",
+      "price": "￥2,037 (税抜価格 ￥1,852)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7194",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "宝物",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "田中れいな",
+                "作曲": "魚住有希",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "イツワリ",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "田中れいな",
+                "作曲": "鈴木盛広",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "宝物(Instrumental)",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "田中れいな",
+                "作曲": "魚住有希",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "イツワリ(Instrumental)",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "田中れいな",
+                "作曲": "鈴木盛広",
+                "編曲": "宮永治郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/e114fdb8f0d347787168910f69f5b51515ccb396.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7196",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "宝物(Music Video)",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "田中れいな",
+                "作曲": "魚住有希"
+              }
+            },
+            {
+              "index": 2,
+              "title": "イツワリ(Music Video)",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "田中れいな",
+                "作曲": "鈴木盛広"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/4724489bb83efcf2d64eb445162af77c085a788c.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7197",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "宝物",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "田中れいな",
+                "作曲": "魚住有希",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "イツワリ",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "田中れいな",
+                "作曲": "鈴木盛広",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "カレーライス",
+              "duration": "03:15",
+              "credits": {
+                "作詞": "岡田万里奈",
+                "作曲": "魚住有希",
+                "編曲": "魚住有希"
+              }
+            },
+            {
+              "index": 4,
+              "title": "宝物(Instrumental)",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "田中れいな",
+                "作曲": "魚住有希",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "イツワリ(Instrumental)",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "田中れいな",
+                "作曲": "鈴木盛広",
+                "編曲": "宮永治郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

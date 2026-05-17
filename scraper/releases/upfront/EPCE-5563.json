@@ -1,0 +1,102 @@
+{
+  "code": "EPCE-5563",
+  "url": "/release/detail/EPCE-5563/",
+  "source": "upfront",
+  "title": "パパンケーキ",
+  "category": "CDシングル",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "releaseDate": "2008/07/16",
+  "label": "zetima",
+  "images": [
+    "/images/64e230ab72462fcd8ee46420e85c41e4ac8f3f9f.jpg",
+    "/images/7e266380883023c62092a5a5f541422605ed651f.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【完全生産限定盤】",
+      "image": "/images/64e230ab72462fcd8ee46420e85c41e4ac8f3f9f.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5563",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "パパンケーキ",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "FIREWORKS",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Oh!トモダチ",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "BOUNCEBACK",
+                "編曲": "BOUNCEBACK"
+              }
+            },
+            {
+              "index": 3,
+              "title": "パパンケーキ(Instrumental)",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "FIREWORKS",
+                "編曲": "宮永治郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/7e266380883023c62092a5a5f541422605ed651f.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5564",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "パパンケーキ",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "FIREWORKS",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Oh!トモダチ",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "BOUNCEBACK",
+                "編曲": "BOUNCEBACK"
+              }
+            },
+            {
+              "index": 3,
+              "title": "パパンケーキ(Instrumental)",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "FIREWORKS",
+                "編曲": "宮永治郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

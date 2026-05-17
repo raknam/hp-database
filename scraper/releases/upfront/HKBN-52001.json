@@ -1,0 +1,121 @@
+{
+  "code": "HKBN-52001",
+  "url": "/release/detail/HKBN-52001/",
+  "source": "upfront",
+  "title": "Legends of Hawaii",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2004/04/28",
+  "label": "Pacific Heaven",
+  "images": [
+    "/images/nowprinting.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/nowprinting.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKBN-52001",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "00:42"
+            },
+            {
+              "index": 2,
+              "title": "解説",
+              "duration": "01:03"
+            },
+            {
+              "index": 3,
+              "title": "Ka Lihi Kai ‘O ka'ena",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "NoelaniChang",
+                "作曲": "RolandChang"
+              }
+            },
+            {
+              "index": 4,
+              "title": "解説",
+              "duration": "00:46"
+            },
+            {
+              "index": 5,
+              "title": "Ke Aloha Pau' ole",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "NoelaniChang",
+                "作曲": "NoelaniChang"
+              }
+            },
+            {
+              "index": 6,
+              "title": "解説",
+              "duration": "01:35"
+            },
+            {
+              "index": 7,
+              "title": "‘Opae E",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "IrmgardAluliPilahiPaki",
+                "作曲": "IrmgardAluliPilahiPaki"
+              }
+            },
+            {
+              "index": 8,
+              "title": "解説",
+              "duration": "00:50"
+            },
+            {
+              "index": 9,
+              "title": "Eia Ka Makana",
+              "duration": "03:10",
+              "credits": {
+                "作詞": "NoelaniChang",
+                "作曲": "NoelaniChang"
+              }
+            },
+            {
+              "index": 10,
+              "title": "カニラウ紹介",
+              "duration": "05:31",
+              "credits": {
+                "作詞": "BillLincoln",
+                "作曲": "BillLincoln"
+              }
+            },
+            {
+              "index": 11,
+              "title": "Ku'u lei Momi/Ka Lihi Kai ‘O Ka'ena(Sunset Live)",
+              "duration": "05:11",
+              "credits": {
+                "作詞": "SamuelK.HalsteadNoelaniChang",
+                "作曲": "SamuelK.HalsteadNoelaniChang"
+              }
+            },
+            {
+              "index": 12,
+              "title": "Ke Aloha Pau' ole(演奏バージョン)",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "NoelaniChang",
+                "作曲": "NoelaniChang"
+              }
+            },
+            {
+              "index": 13,
+              "title": "Pacific Heaven ラインナップ",
+              "duration": "00:34"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "code": "PKCP-5031",
+  "url": "/release/detail/PKCP-5031/",
+  "source": "upfront",
+  "title": "原色GAL 派手に行くべ！",
+  "category": "CDシングル",
+  "artist": "後藤真希",
+  "releaseDate": "2003/11/27",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/e134d7c08913aa28e7c914afd66501d2b4490858.jpg",
+    "/images/47523b18f8ebfc2e619d8fa0efbed3426cf6bf51.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回盤】",
+      "image": "/images/e134d7c08913aa28e7c914afd66501d2b4490858.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5031",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "原色GAL 派手に行くべ！",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋人募集中",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "原色GAL 派手に行くべ！Instrumental",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/47523b18f8ebfc2e619d8fa0efbed3426cf6bf51.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5032",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "原色GAL 派手に行くべ！",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋人募集中",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "原色GAL 派手に行くべ！Instrumental",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

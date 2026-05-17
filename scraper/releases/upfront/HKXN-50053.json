@@ -1,0 +1,53 @@
+{
+  "code": "HKXN-50053",
+  "url": "/release/detail/HKXN-50053/",
+  "source": "upfront",
+  "title": "bluest",
+  "category": "BD",
+  "artist": "宮本佳林",
+  "releaseDate": "2016/11/23",
+  "label": "hachama",
+  "images": [
+    "/images/c456e9ff0912209fe862dfe0af9716dee768920c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/c456e9ff0912209fe862dfe0af9716dee768920c.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKXN-50053",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Blue sky",
+              "duration": "11:51"
+            },
+            {
+              "index": 2,
+              "title": "Shining Blue",
+              "duration": "13:01"
+            },
+            {
+              "index": 3,
+              "title": "Ever Blue",
+              "duration": "11:43"
+            },
+            {
+              "index": 4,
+              "title": "Making of Photobook 「Sunflower」",
+              "duration": "16:03"
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "02:09"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

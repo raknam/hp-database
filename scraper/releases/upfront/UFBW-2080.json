@@ -1,0 +1,43 @@
+{
+  "code": "UFBW-2080",
+  "url": "/release/detail/UFBW-2080/",
+  "source": "upfront",
+  "title": "道重さゆみ写真集「美ルフィーユ」”メイキングDVD〜特別編集版〜",
+  "category": "DVD",
+  "artist": "道重さゆみ",
+  "releaseDate": "2013/03/22",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/nowprinting.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/nowprinting.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2080",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "First Day",
+              "duration": "13:25"
+            },
+            {
+              "index": 2,
+              "title": "Second Day",
+              "duration": "23:53"
+            },
+            {
+              "index": 3,
+              "title": "Third Day",
+              "duration": "18:33"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

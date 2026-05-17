@@ -1,0 +1,73 @@
+{
+  "code": "UFBW-2092",
+  "url": "/release/detail/UFBW-2092/",
+  "source": "upfront",
+  "title": "道重さゆみ写真集「Blue Rose」”メイキングDVD～特別編集版～",
+  "category": "DVD",
+  "artist": "道重さゆみ",
+  "releaseDate": "2013/12/19",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/nowprinting.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/nowprinting.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2092",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Chapter1",
+              "duration": "07:22"
+            },
+            {
+              "index": 2,
+              "title": "Chapter2",
+              "duration": "04:56"
+            },
+            {
+              "index": 3,
+              "title": "Chapter3",
+              "duration": "01:49"
+            },
+            {
+              "index": 4,
+              "title": "Chapter4",
+              "duration": "09:03"
+            },
+            {
+              "index": 5,
+              "title": "Chapter5",
+              "duration": "07:20"
+            },
+            {
+              "index": 6,
+              "title": "Chapter6",
+              "duration": "04:20"
+            },
+            {
+              "index": 7,
+              "title": "Chapter7",
+              "duration": "08:19"
+            },
+            {
+              "index": 8,
+              "title": "Chapter8",
+              "duration": "02:42"
+            },
+            {
+              "index": 9,
+              "title": "Chapter9",
+              "duration": "04:14"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

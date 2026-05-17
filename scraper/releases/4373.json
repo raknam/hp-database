@@ -1,0 +1,83 @@
+{
+  "id": 4373,
+  "url": "/release/4373/",
+  "title": "Hello! Project Station Archives Vol.1 『清水佐紀×矢島舞美 対談 2002〜2008』",
+  "category": "DVD",
+  "artist": "清水佐紀×矢島舞美",
+  "releaseDate": "2015.6.3",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/upload/images/d44675f18bced53218a13791b4117a404425eaf1.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "2002年",
+              "duration": "16:51",
+              "credits": {
+                "出演": "清水佐紀×矢島舞美"
+              }
+            },
+            {
+              "index": 2,
+              "title": "2003年",
+              "duration": "15:56",
+              "credits": {
+                "出演": "清水佐紀×矢島舞美"
+              }
+            },
+            {
+              "index": 3,
+              "title": "2004年",
+              "duration": "15:09",
+              "credits": {
+                "出演": "清水佐紀×矢島舞美"
+              }
+            },
+            {
+              "index": 4,
+              "title": "2005年",
+              "duration": "20:23",
+              "credits": {
+                "出演": "清水佐紀×矢島舞美"
+              }
+            },
+            {
+              "index": 5,
+              "title": "2006年",
+              "duration": "17:08",
+              "credits": {
+                "出演": "清水佐紀×矢島舞美"
+              }
+            },
+            {
+              "index": 6,
+              "title": "2007年",
+              "duration": "15:41",
+              "credits": {
+                "出演": "清水佐紀×矢島舞美"
+              }
+            },
+            {
+              "index": 7,
+              "title": "2008年",
+              "duration": "15:47",
+              "credits": {
+                "出演": "清水佐紀×矢島舞美"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-2108"
+        }
+      ]
+    }
+  ]
+}

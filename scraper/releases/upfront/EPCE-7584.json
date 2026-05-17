@@ -1,0 +1,217 @@
+{
+  "code": "EPCE-7584",
+  "url": "/release/detail/EPCE-7584/",
+  "source": "upfront",
+  "title": "青春の花/スタートライン",
+  "category": "CDシングル",
+  "artist": "こぶしファクトリー",
+  "releaseDate": "2020/03/04",
+  "label": "zetima",
+  "images": [
+    "/images/e43c27bb17ea4ca20eead9c6007fac572c06aab3.jpg",
+    "/images/cf0924d6a78c54d626c88bf05cd529d4ae265ecd.jpg",
+    "/images/1cb8d13dd206c3574eb6c818646dd7597509d311.jpg",
+    "/images/0bdf4514306ce103bc7ffe0a79a2b01433d26076.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/e43c27bb17ea4ca20eead9c6007fac572c06aab3.jpg",
+      "price": "￥1,870 (税抜価格 ￥1,700)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7584",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "青春の花",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "スタートライン",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "青春の花(Instrumental)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "スタートライン(Instrumental)",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "宮永治郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/cf0924d6a78c54d626c88bf05cd529d4ae265ecd.jpg",
+      "price": "￥1,870 (税抜価格 ￥1,700)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7586",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "青春の花(Music Video)",
+              "duration": "05:30",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青春の花(Close-up Ver.)",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/1cb8d13dd206c3574eb6c818646dd7597509d311.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7588",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "青春の花",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "スタートライン",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "青春の花(Instrumental)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "スタートライン(Instrumental)",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "宮永治郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/0bdf4514306ce103bc7ffe0a79a2b01433d26076.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7589",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "スタートライン(Music Video)",
+              "duration": "04:44",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "チョット愚直に！猪突猛進(アカペラ Ver.)",
+              "duration": "02:52",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "アカペラアレンジ：杉田篤史(INSPi)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "念には念(念入り Ver.)(アカペラ Ver.)",
+              "duration": "02:26",
+              "credits": {
+                "作詞": "アベショー",
+                "作曲": "アベショー",
+                "編曲": "アカペラアレンジ：杉田篤史(INSPi)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "GO TO THE TOP!!(アカペラ Ver.)",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "HaTo",
+                "編曲": "アカペラアレンジ：杉田篤史(INSPi)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "LOVEマシーン(アカペラ Ver.)",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "アカペラアレンジ：杉田篤史(INSPi)"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

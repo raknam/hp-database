@@ -1,0 +1,109 @@
+{
+  "code": "PKBP-5087",
+  "url": "/release/detail/PKBP-5087/",
+  "source": "upfront",
+  "title": "銀河鉄道物語～永遠への分岐点～ 第3集",
+  "category": "DVD",
+  "artist": "アニメーション",
+  "releaseDate": "2007/10/24",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/2c34f8f41621822228f261dd03efd69333967655.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/2c34f8f41621822228f261dd03efd69333967655.jpg",
+      "price": "￥20,743 (税抜価格 ￥18,857)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5087",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "第17話 未知への出発",
+              "duration": "23:07"
+            },
+            {
+              "index": 2,
+              "title": "第18話 槍を継ぐ者",
+              "duration": "23:06"
+            },
+            {
+              "index": 3,
+              "title": "第19話 霧が呼ぶ",
+              "duration": "23:06"
+            },
+            {
+              "index": 4,
+              "title": "銀河の車窓から ⑦",
+              "duration": "09:36"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": null,
+      "price": "￥20,743 (税抜価格 ￥18,857)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5088",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "第20話 旅路の果て",
+              "duration": "23:06"
+            },
+            {
+              "index": 2,
+              "title": "第21話 再会",
+              "duration": "23:06"
+            },
+            {
+              "index": 3,
+              "title": "第22話 運命という名の迷宮",
+              "duration": "23:07"
+            },
+            {
+              "index": 4,
+              "title": "銀河の車窓から ⑧",
+              "duration": "10:49"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": null,
+      "price": "￥20,743 (税抜価格 ￥18,857)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5089",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "第23話 嵐、その向こうに",
+              "duration": "23:07"
+            },
+            {
+              "index": 2,
+              "title": "第24話(最終話) 遥かなる誓い",
+              "duration": "23:18"
+            },
+            {
+              "index": 3,
+              "title": "銀河の車窓から ⑧",
+              "duration": "11:27"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

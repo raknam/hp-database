@@ -1,0 +1,53 @@
+{
+  "code": "PKBP-5061",
+  "url": "/release/detail/PKBP-5061/",
+  "source": "upfront",
+  "title": "銀河鉄道物語～忘れられた時の惑星～<第1話>",
+  "category": "DVD",
+  "artist": "アニメーション",
+  "releaseDate": "2007/01/24",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/e23fcb73c25725c8f90b6ba9f648eb35ce65c1e9.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/e23fcb73c25725c8f90b6ba9f648eb35ce65c1e9.jpg",
+      "price": "￥5,028 (税抜価格 ￥4,571)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5061",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "前半",
+              "duration": "12:04"
+            },
+            {
+              "index": 2,
+              "title": "後半",
+              "duration": "10:11"
+            },
+            {
+              "index": 3,
+              "title": "エンディング",
+              "duration": "02:35"
+            },
+            {
+              "index": 4,
+              "title": "予告1",
+              "duration": "00:32"
+            },
+            {
+              "index": 5,
+              "title": "予告2 (特典)",
+              "duration": "00:37"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

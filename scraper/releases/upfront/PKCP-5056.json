@@ -1,0 +1,58 @@
+{
+  "code": "PKCP-5056",
+  "url": "/release/detail/PKCP-5056/",
+  "source": "upfront",
+  "title": "21時までのシンデレラ",
+  "category": "CDシングル",
+  "artist": "Berryz工房",
+  "releaseDate": "2005/08/03",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/beff74920c62be84c7e10a95048537034226a672.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/beff74920c62be84c7e10a95048537034226a672.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5056",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "21時までのシンデレラ",
+              "duration": "03:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 2,
+              "title": "秘密のウ・タ・ヒ・メ",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "橋本由香利"
+              }
+            },
+            {
+              "index": 3,
+              "title": "21時までのシンデレラ(Instrumental)",
+              "duration": "03:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

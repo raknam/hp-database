@@ -1,0 +1,52 @@
+{
+  "code": "EPBE-5307",
+  "url": "/release/detail/EPBE-5307/",
+  "source": "upfront",
+  "title": "シングルV「タンタンターン！」",
+  "category": "DVDシングルV",
+  "artist": "MilkyWay",
+  "releaseDate": "2008/11/05",
+  "label": "zetima",
+  "images": [
+    "/images/7eb4bd0c7317e06a3c20dda11a91bc3c37f0551d.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7eb4bd0c7317e06a3c20dda11a91bc3c37f0551d.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5307",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "タンタンターン！",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "MilkyWayのワンポイントダンスレッスン",
+              "duration": "01:42"
+            },
+            {
+              "index": 3,
+              "title": "タンタンターン！(Dance Shot Ver.)",
+              "duration": "04:34"
+            },
+            {
+              "index": 4,
+              "title": "メイキング映像",
+              "duration": "06:57"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

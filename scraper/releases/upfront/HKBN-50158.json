@@ -1,0 +1,55 @@
+{
+  "code": "HKBN-50158",
+  "url": "/release/detail/HKBN-50158/",
+  "source": "upfront",
+  "title": "シングルV「プリーズ ミニスカ ポストウーマン!」",
+  "category": "DVDシングルV",
+  "artist": "スマイレージ",
+  "releaseDate": "2012/01/11",
+  "label": "hachama",
+  "images": [
+    "/images/f24f7316b91a5a6aa0bd3a2c29cddb01b72b0bda.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f24f7316b91a5a6aa0bd3a2c29cddb01b72b0bda.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "HKBN-50158",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プリーズ ミニスカ ポストウーマン！(Music Video)",
+              "duration": "05:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "プリーズ ミニスカ ポストウーマン！(Close-upVer.)",
+              "duration": "05:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "18:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

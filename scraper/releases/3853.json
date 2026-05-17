@@ -1,0 +1,73 @@
+{
+  "id": 3853,
+  "url": "/release/3853/",
+  "title": "さらさらの川",
+  "category": "カセットテープシングル",
+  "artist": "前田有紀",
+  "releaseDate": "2004.1.1",
+  "label": "zetima",
+  "images": [
+    "/resources/images/foundation/release-placeholder.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CASSETTE",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "さらさらの川",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "上田紅葉",
+                "作曲": "川口真",
+                "編曲": "小西貴雄",
+                "歌": "前田有紀"
+              }
+            },
+            {
+              "index": 2,
+              "title": "それは不思議",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "上田紅葉",
+                "作曲": "川口真",
+                "編曲": "小西貴雄",
+                "歌": "前田有紀"
+              }
+            },
+            {
+              "index": 3,
+              "title": "さらさらの川",
+              "duration": "04:20",
+              "suffix": "(オリジナル・カラオケ)",
+              "credits": {
+                "作詞": "上田紅葉",
+                "作曲": "川口真",
+                "編曲": "小西貴雄",
+                "歌": "前田有紀"
+              }
+            },
+            {
+              "index": 4,
+              "title": "それは不思議",
+              "duration": "04:06",
+              "suffix": "(オリジナル・カラオケ)",
+              "credits": {
+                "作詞": "上田紅葉",
+                "作曲": "川口真",
+                "編曲": "小西貴雄",
+                "歌": "前田有紀"
+              }
+            }
+          ],
+          "catalogNo": "EPSE-1114"
+        }
+      ]
+    }
+  ]
+}

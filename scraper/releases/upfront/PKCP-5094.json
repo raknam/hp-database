@@ -1,0 +1,162 @@
+{
+  "code": "PKCP-5094",
+  "url": "/release/detail/PKCP-5094/",
+  "source": "upfront",
+  "title": "How to use SEXY",
+  "category": "CDアルバム",
+  "artist": "後藤真希",
+  "releaseDate": "2007/09/19",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/6f373ab15c8ff85109117e3e19b53122e8bcfac0.jpg",
+    "/images/2471d0a22b68e13c59bc28952ec1e9a66b5e6793.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/6f373ab15c8ff85109117e3e19b53122e8bcfac0.jpg",
+      "price": "￥3,960 (税抜価格 ￥3,600)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "PKCP-5094",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "How to use Loneliness",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "田中直"
+              }
+            },
+            {
+              "index": 2,
+              "title": "GIVE ME LOVE",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "SOME BOYS! TOUCH",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "田中直"
+              }
+            },
+            {
+              "index": 4,
+              "title": "City Wind",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "田中直"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ねえ 寂しくて",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "田中直"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ガラスのパンプス",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 7,
+              "title": "DAYBREAK",
+              "duration": "05:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 8,
+              "title": "WOW 素敵！",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 9,
+              "title": "シークレット",
+              "duration": "05:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "田中直"
+              }
+            },
+            {
+              "index": 10,
+              "title": "LIFE",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/2471d0a22b68e13c59bc28952ec1e9a66b5e6793.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKCP-5096",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ガラスのパンプス(Mirror Ver)",
+              "duration": "04:28"
+            },
+            {
+              "index": 2,
+              "title": "SOME BOYS! TOUCH(Sexy Ver)",
+              "duration": "04:42"
+            },
+            {
+              "index": 3,
+              "title": "シークレット(Bathroom Ver)",
+              "duration": "05:22"
+            },
+            {
+              "index": 4,
+              "title": "メイキング映像",
+              "duration": "09:15"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

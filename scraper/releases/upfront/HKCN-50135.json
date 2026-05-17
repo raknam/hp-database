@@ -1,0 +1,148 @@
+{
+  "code": "HKCN-50135",
+  "url": "/release/detail/HKCN-50135/",
+  "source": "upfront",
+  "title": "同じ時給で働く友達の美人ママ",
+  "category": "CDシングル",
+  "artist": "スマイレージ",
+  "releaseDate": "2010/09/29",
+  "label": "hachama",
+  "images": [
+    "/images/9f32c517139fcebf8b27655f659b2aba571cd851.jpg",
+    "/images/6935a3fc9eaf20ccb5bf0c010826ba6fe92dffae.jpg",
+    "/images/d8cb24baf3ec188db4c82fb4354ebbad06b39323.jpg",
+    "/images/e8643315490e59d1373b43975921b6aa4d160f31.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/9f32c517139fcebf8b27655f659b2aba571cd851.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50135",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "同じ時給で働く友達の美人ママ",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ちょこっとLOVE",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "同じ時給で働く友達の美人ママ(Instrumental)",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/6935a3fc9eaf20ccb5bf0c010826ba6fe92dffae.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50137",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "同じ時給で働く友達の美人ママ(Dance Shot Ver.Pink)",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/images/d8cb24baf3ec188db4c82fb4354ebbad06b39323.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50139",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "同じ時給で働く友達の美人ママ",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ちょこっとLOVE",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "同じ時給で働く友達の美人ママ(Instrumental)",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/e8643315490e59d1373b43975921b6aa4d160f31.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50141",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "同じ時給で働く友達の美人ママ(Close-up Ver.)",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

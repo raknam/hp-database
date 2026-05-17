@@ -1,0 +1,626 @@
+{
+  "id": 6436,
+  "url": "/release/6436/",
+  "title": "DOWN TOWN/がんばれないよ",
+  "category": "CDシングル",
+  "artist": "Juice=Juice",
+  "releaseDate": "2021.4.28",
+  "label": "hachama",
+  "images": [
+    "/upload/images/81866535f1bd7a4ab150d241f236d89e3ce6e475.webp",
+    "/upload/images/16b9031ababb3173b847326bf9f9ded06b538a4c.webp",
+    "/upload/images/dcd23a7f08732c380774538f51c42bc0480d24e9.webp",
+    "/upload/images/bded12fe947aa4844ea73b89372cab9aae071035.webp",
+    "/upload/images/bc1f5e5dfb9c2cad15d7e3f80efe53608a1bf01b.webp",
+    "/upload/images/531e34e221b1597d2efd91876ad76b29b1c95605.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/81866535f1bd7a4ab150d241f236d89e3ce6e475.webp",
+      "price": "￥1,870（税抜価格 ￥1,700）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "DOWN TOWN",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "伊藤銀次",
+                "作曲": "山下達郎",
+                "編曲": "Anders Dannvik",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "がんばれないよ",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "DOWN TOWN",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "伊藤銀次",
+                "作曲": "山下達郎",
+                "編曲": "Anders Dannvik",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "がんばれないよ",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50646"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "DOWN TOWN",
+              "duration": "05:09",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "伊藤銀次",
+                "作曲": "山下達郎",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "DOWN TOWN",
+              "duration": "12:50",
+              "suffix": "(MV撮影メイキング)",
+              "credits": {
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/16b9031ababb3173b847326bf9f9ded06b538a4c.webp",
+      "price": "￥1,870（税抜価格 ￥1,700）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "DOWN TOWN",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "伊藤銀次",
+                "作曲": "山下達郎",
+                "編曲": "Anders Dannvik",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "がんばれないよ",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "DOWN TOWN",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "伊藤銀次",
+                "作曲": "山下達郎",
+                "編曲": "Anders Dannvik",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "がんばれないよ",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50648"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "がんばれないよ",
+              "duration": "05:37",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "がんばれないよ",
+              "duration": "12:43",
+              "suffix": "(MV撮影メイキング)",
+              "credits": {
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤SP1】",
+      "image": "/upload/images/dcd23a7f08732c380774538f51c42bc0480d24e9.webp",
+      "price": "￥2,750（税抜価格 ￥2,500）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "DOWN TOWN",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "伊藤銀次",
+                "作曲": "山下達郎",
+                "編曲": "Anders Dannvik",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "がんばれないよ",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "DOWN TOWN",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "伊藤銀次",
+                "作曲": "山下達郎",
+                "編曲": "Anders Dannvik",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "がんばれないよ",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50650"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "がんばれないよ",
+              "duration": "04:52",
+              "suffix": "(金澤朋子 ソロVer.)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "出演": "金澤朋子"
+              }
+            },
+            {
+              "index": 2,
+              "title": "がんばれないよ",
+              "duration": "04:52",
+              "suffix": "(植村あかり ソロVer.)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "出演": "植村あかり"
+              }
+            },
+            {
+              "index": 3,
+              "title": "がんばれないよ",
+              "duration": "04:52",
+              "suffix": "(稲場愛香 ソロVer.)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "出演": "稲場愛香"
+              }
+            },
+            {
+              "index": 4,
+              "title": "がんばれないよ",
+              "duration": "04:52",
+              "suffix": "(井上玲音 ソロVer.)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "出演": "井上玲音"
+              }
+            },
+            {
+              "index": 5,
+              "title": "がんばれないよ",
+              "duration": "04:52",
+              "suffix": "(段原瑠々 ソロVer.)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "出演": "段原瑠々"
+              }
+            },
+            {
+              "index": 6,
+              "title": "がんばれないよ",
+              "duration": "04:52",
+              "suffix": "(工藤由愛 ソロVer.)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "出演": "工藤由愛"
+              }
+            },
+            {
+              "index": 7,
+              "title": "がんばれないよ",
+              "duration": "04:59",
+              "suffix": "(松永里愛 ソロVer.)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "出演": "松永里愛"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤SP2】",
+      "image": "/upload/images/bded12fe947aa4844ea73b89372cab9aae071035.webp",
+      "price": "￥2,750（税抜価格 ￥2,500）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "DOWN TOWN",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "伊藤銀次",
+                "作曲": "山下達郎",
+                "編曲": "Anders Dannvik",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "がんばれないよ",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "DOWN TOWN",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "伊藤銀次",
+                "作曲": "山下達郎",
+                "編曲": "Anders Dannvik",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "がんばれないよ",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50652"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "DOWN TOWN",
+              "duration": "04:27",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "伊藤銀次",
+                "作曲": "山下達郎",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "「ひとりで生きられそう」って それってねえ、褒めているの？",
+              "duration": "04:07",
+              "suffix": "【「井上玲音がJuice=Juiceの歌を・・・」シリーズ】",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "出演": "井上玲音×たいせい"
+              }
+            },
+            {
+              "index": 3,
+              "title": "私が言う前に抱きしめなきゃね",
+              "duration": "02:55",
+              "suffix": "【「井上玲音がJuice=Juiceの歌を・・・」シリーズ】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "井上玲音"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ポツリと",
+              "duration": "02:59",
+              "suffix": "【「井上玲音がJuice=Juiceの歌を・・・」シリーズ】",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "出演": "井上玲音×金澤朋子"
+              }
+            },
+            {
+              "index": 5,
+              "title": "素直に甘えて",
+              "duration": "02:43",
+              "suffix": "【「井上玲音がJuice=Juiceの歌を・・・」シリーズ】",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "星部ショウ",
+                "出演": "井上玲音×植村あかり"
+              }
+            },
+            {
+              "index": 6,
+              "title": "CHOICE & CHANCE",
+              "duration": "02:45",
+              "suffix": "【「井上玲音がJuice=Juiceの歌を・・・」シリーズ】",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "井上玲音×高木紗友希"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ロマンスの途中",
+              "duration": "03:11",
+              "suffix": "【「井上玲音がJuice=Juiceの歌を・・・」シリーズ】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "井上玲音×宮本佳林"
+              }
+            },
+            {
+              "index": 8,
+              "title": "微炭酸",
+              "duration": "03:22",
+              "suffix": "【「井上玲音がJuice=Juiceの歌を・・・」シリーズ】",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "出演": "井上玲音×稲場愛香"
+              }
+            },
+            {
+              "index": 9,
+              "title": "好きって言ってよ",
+              "duration": "02:51",
+              "suffix": "【「井上玲音がJuice=Juiceの歌を・・・」シリーズ】",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "出演": "井上玲音×段原瑠々"
+              }
+            },
+            {
+              "index": 10,
+              "title": "泣いていいよ",
+              "duration": "03:33",
+              "suffix": "【「井上玲音がJuice=Juiceの歌を・・・」シリーズ】",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "中村瑛彦",
+                "出演": "井上玲音×工藤由愛・松永里愛"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/bc1f5e5dfb9c2cad15d7e3f80efe53608a1bf01b.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "DOWN TOWN",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "伊藤銀次",
+                "作曲": "山下達郎",
+                "編曲": "Anders Dannvik",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "がんばれないよ",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "DOWN TOWN",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "伊藤銀次",
+                "作曲": "山下達郎",
+                "編曲": "Anders Dannvik",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "がんばれないよ",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50654"
+        }
+      ],
+      "note": "トレーディングカードソロ7種+集合1種よりランダムにて1枚封入(DOWN TOWN Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/531e34e221b1597d2efd91876ad76b29b1c95605.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "DOWN TOWN",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "伊藤銀次",
+                "作曲": "山下達郎",
+                "編曲": "Anders Dannvik",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "がんばれないよ",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "DOWN TOWN",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "伊藤銀次",
+                "作曲": "山下達郎",
+                "編曲": "Anders Dannvik",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "がんばれないよ",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50655"
+        }
+      ],
+      "note": "トレーディングカードソロ7種+集合1種よりランダムにて1枚封入(がんばれないよ Ver.)※初回プレス分のみ"
+    }
+  ]
+}

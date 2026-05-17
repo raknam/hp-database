@@ -1,0 +1,114 @@
+{
+  "code": "UFBW-1526",
+  "url": "/release/detail/UFBW-1526/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.29",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2017/01/18",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/46bad66e7ca054a45b4e7860b221a9e50089e317.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/46bad66e7ca054a45b4e7860b221a9e50089e317.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1526",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ランラルン〜あなたに夢中〜【名物企画 衣装コーディネート】",
+              "duration": "09:58",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "Kern Jerome(PD)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Pi-Kan・Sweet Emotion!【名物企画 衣装コーディネート】",
+              "duration": "11:32",
+              "credits": {
+                "作詞": "Mt.3",
+                "作曲": "Mt.3"
+              }
+            },
+            {
+              "index": 3,
+              "title": "GIRLS BE AMBITIOUS【名物企画 衣装コーディネート】",
+              "duration": "14:11",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 4,
+              "title": "泣いて 泣いて 恋してる【名物企画 衣装コーディネート】",
+              "duration": "16:27",
+              "credits": {
+                "作詞": "唐沢美帆",
+                "作曲": "加藤裕介"
+              }
+            },
+            {
+              "index": 5,
+              "title": "恋はマグネット【スタジオライブ集】",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "Yasushi Watanabe"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ランラルン〜あなたに夢中〜【スタジオライブ集】",
+              "duration": "02:57",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "Kern Jerome(PD)"
+              }
+            },
+            {
+              "index": 7,
+              "title": "キャベツ白書〜春編〜【スタジオライブ集】",
+              "duration": "05:15",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "角田崇徳"
+              }
+            },
+            {
+              "index": 8,
+              "title": "パーリーピーポーエイリアン【スタジオライブ集】",
+              "duration": "05:07",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ラベビタEX【スタジオライブ集】",
+              "duration": "02:50",
+              "credits": {
+                "作詞": "岡田万里奈",
+                "作曲": "魚住有希"
+              }
+            },
+            {
+              "index": 10,
+              "title": "つばきファクトリー 初めてのスタジオライブに密着",
+              "duration": "03:07"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

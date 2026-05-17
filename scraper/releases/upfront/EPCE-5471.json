@@ -1,0 +1,122 @@
+{
+  "code": "EPCE-5471",
+  "url": "/release/detail/EPCE-5471/",
+  "source": "upfront",
+  "title": "僕は君のオモチャ",
+  "category": "CDミニアルバム",
+  "artist": "中島卓偉",
+  "releaseDate": "2007/05/09",
+  "label": "zetima",
+  "images": [
+    "/images/5870f394a95228e93ec1b9454a484fca6fd7977a.jpg",
+    "/images/6c04fde57128ee2a62c58704312504736b3ffc57.jpg"
+  ],
+  "editions": [
+    {
+      "name": "初回生産限定盤(DVD付き)",
+      "image": "/images/5870f394a95228e93ec1b9454a484fca6fd7977a.jpg",
+      "price": "￥2,934 (税抜価格 ￥2,667)",
+      "discs": [
+        {
+          "type": "CDミニアルバム",
+          "catalogNo": "EPCE-5471",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋の一方通行",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "増本直樹・中島卓偉"
+              }
+            },
+            {
+              "index": 2,
+              "title": "そのままで",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "増本直樹"
+              }
+            },
+            {
+              "index": 3,
+              "title": "It's up to you(きみしだい)",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "片寄明人",
+                "作曲": "中島卓偉",
+                "編曲": "増本直樹/中島卓偉"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ABSTRACT(完全な相関性)",
+              "duration": "02:57",
+              "credits": {
+                "作詞": "黒沢健一",
+                "作曲": "中島卓偉",
+                "編曲": "増本直樹/中島卓偉"
+              }
+            },
+            {
+              "index": 5,
+              "title": "僕らのヒーロー",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "木下裕晴",
+                "作曲": "中島卓偉",
+                "編曲": "増本直樹"
+              }
+            },
+            {
+              "index": 6,
+              "title": "僕は君のオモチャ",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "宮原芽映",
+                "作曲": "中島卓偉",
+                "編曲": "増本直樹"
+              }
+            },
+            {
+              "index": 7,
+              "title": "テレビジョン",
+              "duration": "05:24",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "増本直樹"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/images/6c04fde57128ee2a62c58704312504736b3ffc57.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5473",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「蜃気楼」 REBORN THE COUNTDOWN 06ー07",
+              "duration": "05:18"
+            },
+            {
+              "index": 2,
+              "title": "PHOTO SESSION & VIDEO CLIP MAKING",
+              "duration": "07:36"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

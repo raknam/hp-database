@@ -1,0 +1,58 @@
+{
+  "code": "EPDE-1012",
+  "url": "/release/detail/EPDE-1012/",
+  "source": "upfront",
+  "title": "ワイン恋物語",
+  "category": "CDシングル",
+  "artist": "スターダスト☆レビュー",
+  "releaseDate": "1998/10/21",
+  "label": "zetima",
+  "images": [
+    "/images/6725a9ec256549c901736e137981fc5515e5daa3.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/6725a9ec256549c901736e137981fc5515e5daa3.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1012",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ワイン恋物語テレビ東京「ワイン娘恋物語」ドラマ主題歌",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "渡辺なつみ",
+                "作曲": "根本要",
+                "編曲": "光田健一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ジャスミン",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "根本要＆渡辺なつみ",
+                "作曲": "根本要",
+                "編曲": "光田健一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ワイン恋物語(Instrumental)",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "渡辺なつみ",
+                "作曲": "根本要",
+                "編曲": "光田健一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

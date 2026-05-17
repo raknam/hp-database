@@ -1,0 +1,136 @@
+{
+  "code": "HKCN-20002",
+  "url": "/release/detail/HKCN-20002/",
+  "source": "upfront",
+  "title": "KAPONO-Hawaii-",
+  "category": "CDアルバム",
+  "artist": "Henry Kapono",
+  "releaseDate": "2003/06/18",
+  "label": "Pacific Heaven",
+  "images": [
+    "/images/0c4c458e5996885c00a0bbab0f9d3fc3399b2a0a.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/0c4c458e5996885c00a0bbab0f9d3fc3399b2a0a.jpg",
+      "price": "￥2,750 (税抜価格 ￥2,500)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "HKCN-20002",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "All Because I Love You",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "HenryKapono",
+                "作曲": "HenryKapono"
+              }
+            },
+            {
+              "index": 2,
+              "title": "I Will Always Remember",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "HenryKapono&JoeThomas",
+                "作曲": "HenryKapono&JoeThomas"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Friends",
+              "duration": "02:57",
+              "credits": {
+                "作詞": "HenryKapono",
+                "作曲": "HenryKapono"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Matter Of Time",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "JoeThomas&HenryKapono",
+                "作曲": "JoeThomas&HenryKapono"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Stand In The Light",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "HenryKapono",
+                "作曲": "HenryKapono"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Tell Me Why",
+              "duration": "02:41",
+              "credits": {
+                "作詞": "HenryKapono",
+                "作曲": "HenryKapono"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Kona Winds",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "HenryKapono",
+                "作曲": "YukihideTakekawa"
+              }
+            },
+            {
+              "index": 8,
+              "title": "I'll Be Here",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "HenryKapono",
+                "作曲": "HenryKapono"
+              }
+            },
+            {
+              "index": 9,
+              "title": "White Rose",
+              "duration": "07:09",
+              "credits": {
+                "作詞": "HenryKapono",
+                "作曲": "HenryKapono"
+              }
+            },
+            {
+              "index": 10,
+              "title": "Song For Someone",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "HenryKapono",
+                "作曲": "HenryKapono"
+              }
+            },
+            {
+              "index": 11,
+              "title": "Friend For Life",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "HenryKapono",
+                "作曲": "HenryKapono"
+              }
+            },
+            {
+              "index": 12,
+              "title": "Home In The Islands",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "HenryKapono",
+                "作曲": "HenryKapono"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

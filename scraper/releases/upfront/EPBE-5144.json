@@ -1,0 +1,83 @@
+{
+  "code": "EPBE-5144",
+  "url": "/release/detail/EPBE-5144/",
+  "source": "upfront",
+  "title": "ハロー!モーニング。ハロモニ。劇場 Vol.7 「駅前交番物語 特別編」",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2004/07/28",
+  "label": "zetima",
+  "images": [
+    "/images/bd21da7e0bc6d64df0bbae2940c0c0789471f5b1.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/bd21da7e0bc6d64df0bbae2940c0c0789471f5b1.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5144",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "01:17"
+            },
+            {
+              "index": 2,
+              "title": "頑固夫婦の愛のカタチ",
+              "duration": "07:35"
+            },
+            {
+              "index": 3,
+              "title": "頑固兄弟 悲しみの着物",
+              "duration": "07:38"
+            },
+            {
+              "index": 4,
+              "title": "頑固一家のクリスマス 前編",
+              "duration": "15:58"
+            },
+            {
+              "index": 5,
+              "title": "頑固一家のクリスマス 後編",
+              "duration": "09:16"
+            },
+            {
+              "index": 6,
+              "title": "頑固一家のお正月 前編",
+              "duration": "08:24"
+            },
+            {
+              "index": 7,
+              "title": "頑固一家のお正月 後編",
+              "duration": "07:23"
+            },
+            {
+              "index": 8,
+              "title": "頑固兄弟の交通ルール",
+              "duration": "11:05"
+            },
+            {
+              "index": 9,
+              "title": "ハロモニ。幼稚園交通安全教室",
+              "duration": "07:52"
+            },
+            {
+              "index": 10,
+              "title": "頑固一家の初レストラン",
+              "duration": "11:13"
+            },
+            {
+              "index": 11,
+              "title": "トメ子のお弁当",
+              "duration": "07:40"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

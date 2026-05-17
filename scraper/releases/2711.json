@@ -1,0 +1,45 @@
+{
+  "id": 2711,
+  "url": "/release/2711/",
+  "title": "シングルV「気がつけば あなた」",
+  "category": "DVDシングルV",
+  "artist": "松浦亜弥",
+  "releaseDate": "2005.9.28",
+  "label": "zetima",
+  "images": [
+    "/upload/images/ff893cd3a5ef7ab362a18902c319f10e9671edb5.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "気がつけば あなた",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "松浦亜弥"
+              }
+            },
+            {
+              "index": 2,
+              "title": "メイキング映像",
+              "duration": "27:30",
+              "credits": {
+                "出演": "松浦亜弥"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5181"
+        }
+      ]
+    }
+  ]
+}

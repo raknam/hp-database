@@ -1,0 +1,104 @@
+{
+  "id": 5901,
+  "url": "/release/5901/",
+  "title": "The Girls Live Vol.51",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2019.1.16",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/13f79afb91beb4f03363719562521dec98f605ec.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「アンジュルム未来会議」 /♪キソクタダシクウツクシク",
+              "duration": "16:17",
+              "credits": {
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "「Juice=Juice未来会議」 /♪Fiesta! Fiesta!",
+              "duration": "18:20",
+              "credits": {
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "「2017年 今年の漢字」",
+              "duration": "16:45",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "ナルシス カマってちゃん協奏曲第5番",
+              "duration": "04:22",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 5,
+              "title": "青春Say A-HA",
+              "duration": "03:47",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 5,
+              "title": "マナーモード",
+              "duration": "04:05",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "炭竃智弘",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "君だけじゃないさ...friends",
+              "duration": "04:05",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 7,
+              "title": "アンジュルム未来会議より「グループを良くするために必要なこと」",
+              "duration": "02:14",
+              "suffix": "【未公開映像】",
+              "credits": {
+                "出演": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1616"
+        }
+      ]
+    }
+  ]
+}

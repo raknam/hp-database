@@ -1,0 +1,48 @@
+{
+  "code": "UFDL-1553",
+  "url": "/release/detail/UFDL-1553/",
+  "source": "upfront",
+  "title": "ガオガオガオ",
+  "category": "配信",
+  "artist": "ロージークロニクル",
+  "releaseDate": "2025/04/05",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/06dca0464bb81a97bee4eb38eb388f182c8af22f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/06dca0464bb81a97bee4eb38eb388f182c8af22f.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1553",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ガオガオガオ",
+              "duration": "03:04",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO",
+                "編曲": "大沢圭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ガオガオガオ(アニメサイズ)",
+              "duration": "00:31",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO",
+                "編曲": "大沢圭一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 2082,
+  "url": "/release/2082/",
+  "title": "ハロプロ！TIME Vol.19",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012.10.9",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/d03980b766eedff83c21bb0aa75d4a76db67a81f.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Buono!TIME",
+              "duration": "14:00",
+              "suffix": "ライブinパリに密着",
+              "credits": {
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "真野TIME",
+              "duration": "22:33",
+              "suffix": "秋葉原デート ①",
+              "credits": {
+                "出演": "真野恵里菜・嗣永桃子(Berryz工房)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "真野TIME",
+              "duration": "16:20",
+              "suffix": "秋葉原デート ②",
+              "credits": {
+                "出演": "真野恵里菜・嗣永桃子(Berryz工房)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "℃-uteTIME",
+              "duration": "19:57",
+              "suffix": "1年ぶりの単独ツアーに密着！！",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1188"
+        }
+      ]
+    }
+  ]
+}

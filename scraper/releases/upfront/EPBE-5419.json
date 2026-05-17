@@ -1,0 +1,68 @@
+{
+  "code": "EPBE-5419",
+  "url": "/release/detail/EPBE-5419/",
+  "source": "upfront",
+  "title": "アロハロ！5 モーニング娘。DVD",
+  "category": "DVD",
+  "artist": "モーニング娘。",
+  "releaseDate": "2011/09/28",
+  "label": "zetima",
+  "images": [
+    "/images/fe2b304d81a3c1ec46594b03919a1062f35dcf8e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/fe2b304d81a3c1ec46594b03919a1062f35dcf8e.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5419",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "02:01"
+            },
+            {
+              "index": 2,
+              "title": "Beach battle",
+              "duration": "34:49"
+            },
+            {
+              "index": 3,
+              "title": "Treasure hunting",
+              "duration": "30:16"
+            },
+            {
+              "index": 4,
+              "title": "Play backwards",
+              "duration": "04:56"
+            },
+            {
+              "index": 5,
+              "title": "Award meeting",
+              "duration": "39:37"
+            },
+            {
+              "index": 6,
+              "title": "Solo images",
+              "duration": "06:25"
+            },
+            {
+              "index": 7,
+              "title": "Making of photobook",
+              "duration": "15:29"
+            },
+            {
+              "index": 8,
+              "title": "Ending",
+              "duration": "03:14"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

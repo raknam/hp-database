@@ -1,0 +1,68 @@
+{
+  "code": "UFDL-1512",
+  "url": "/release/detail/UFDL-1512/",
+  "source": "upfront",
+  "title": "どっち(Special Edition)",
+  "category": "配信",
+  "artist": "小片リサ",
+  "releaseDate": "2022/10/26",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/e414b6e74969c33ada1a0106429cd63da88a0bfc.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/e414b6e74969c33ada1a0106429cd63da88a0bfc.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1512",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "どっち",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "tsubomi",
+                "作曲": "Shusui/tsubomi/Zeyun",
+                "編曲": "Zeyun"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Kitty",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "miwaflower",
+                "作曲": "miwaflower/Kevin Charge",
+                "編曲": "Kevin Charge"
+              }
+            },
+            {
+              "index": 3,
+              "title": "じらして愛して",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "星部ショウ",
+                "編曲": "めんま"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Oh, Sunny Days！",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "NA.ZU.NA",
+                "編曲": "NA.ZU.NA"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

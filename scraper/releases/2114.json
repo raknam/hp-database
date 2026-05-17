@@ -1,0 +1,107 @@
+{
+  "id": 2114,
+  "url": "/release/2114/",
+  "title": "大人の麦茶×ゲキハロ「ごがくゆう」",
+  "category": "DVD",
+  "artist": "モーニング娘。",
+  "releaseDate": "2013.11.27",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/15f3ef4421e0a88337d06df8a7eb99e34b6ee5e6.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "サザーヌ波止場",
+              "duration": "02:48",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "K国のプリンセスの失踪",
+              "duration": "15:57",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 3,
+              "title": "パスカル食堂の珍客",
+              "duration": "06:39",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "プリンセスフェイの報道写真",
+              "duration": "02:27",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 5,
+              "title": "ひとを見る目がないなぁ",
+              "duration": "05:04",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 6,
+              "title": "前王妃の娘 リュウ",
+              "duration": "04:26",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 7,
+              "title": "オレたちは庶民だ",
+              "duration": "12:42",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 8,
+              "title": "わたし、ここ、渡らない",
+              "duration": "18:15",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 9,
+              "title": "滅びのジャンプ",
+              "duration": "18:51",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 10,
+              "title": "ごがくゆう",
+              "duration": "30:57",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1282"
+        }
+      ]
+    }
+  ]
+}

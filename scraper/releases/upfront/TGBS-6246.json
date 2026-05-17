@@ -1,0 +1,73 @@
+{
+  "code": "TGBS-6246",
+  "url": "/release/detail/TGBS-6246/",
+  "source": "upfront",
+  "title": "イベントV「タチアガール」",
+  "category": "DVD",
+  "artist": "スマイレージ",
+  "releaseDate": "2011/10/12",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/e29fb7609931a9192422ecd28d4fb729e6f019ba.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/e29fb7609931a9192422ecd28d4fb729e6f019ba.jpg",
+      "price": "￥2,096 (税抜価格 ￥1,905)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "TGBS-6246",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "タチアガール(1期メンバーVer.)",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "タチアガール(和田彩花Close-up Ver.)",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "タチアガール(前田憂佳Close-up Ver.)",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "タチアガール(福田花音Close-up Ver.)",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "タチアガール(サブメンVer.)",
+              "duration": "04:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

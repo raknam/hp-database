@@ -1,0 +1,53 @@
+{
+  "code": "UFXW-2019",
+  "url": "/release/detail/UFXW-2019/",
+  "source": "upfront",
+  "title": "Greeting 〜梁川奈々美・船木結〜",
+  "category": "BD",
+  "artist": "梁川奈々美/船木結",
+  "releaseDate": "2017/05/11",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/3c083ab8cd099403062e6e28d7aa88269d471f0d.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/3c083ab8cd099403062e6e28d7aa88269d471f0d.jpg",
+      "price": "￥6,600 (税抜価格 ￥6,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "UFXW-2019",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Amusement Park",
+              "duration": "12:38"
+            },
+            {
+              "index": 2,
+              "title": "Friends Park",
+              "duration": "27:35"
+            },
+            {
+              "index": 3,
+              "title": "Animal Park",
+              "duration": "15:53"
+            },
+            {
+              "index": 4,
+              "title": "Making",
+              "duration": "13:44"
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "01:34"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

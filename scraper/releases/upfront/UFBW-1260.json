@@ -1,0 +1,174 @@
+{
+  "code": "UFBW-1260",
+  "url": "/release/detail/UFBW-1260/",
+  "source": "upfront",
+  "title": "劇団ゲキハロ特別公演 「さくらの花束」",
+  "category": "DVD",
+  "artist": "℃-ute",
+  "releaseDate": "2013/07/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/f7a0df06b4b9747729ae4fc392a998d90a0c40f8.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f7a0df06b4b9747729ae4fc392a998d90a0c40f8.jpg",
+      "price": "￥6,285 (税抜価格 ￥5,714)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1260",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "chapter1",
+              "duration": "20:42"
+            },
+            {
+              "index": 2,
+              "title": "chapter2",
+              "duration": "17:24"
+            },
+            {
+              "index": 3,
+              "title": "chapter3",
+              "duration": "08:42"
+            },
+            {
+              "index": 4,
+              "title": "chapter4",
+              "duration": "13:30"
+            },
+            {
+              "index": 5,
+              "title": "chapter5",
+              "duration": "05:15"
+            },
+            {
+              "index": 6,
+              "title": "chapter6",
+              "duration": "14:14"
+            },
+            {
+              "index": 7,
+              "title": "特典映像(ミニトークショー)",
+              "duration": "22:15"
+            },
+            {
+              "index": 8,
+              "title": "特典映像(舞台裏移動シーンダイジェスト)",
+              "duration": "08:04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": null,
+      "price": "￥6,285 (税抜価格 ￥5,714)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1261",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "chapter1",
+              "duration": "16:29"
+            },
+            {
+              "index": 2,
+              "title": "chapter2",
+              "duration": "15:30"
+            },
+            {
+              "index": 3,
+              "title": "chapter3",
+              "duration": "21:58"
+            },
+            {
+              "index": 4,
+              "title": "chapter4",
+              "duration": "09:07"
+            },
+            {
+              "index": 5,
+              "title": "chapter5",
+              "duration": "10:04"
+            },
+            {
+              "index": 6,
+              "title": "chapter6",
+              "duration": "05:08"
+            },
+            {
+              "index": 7,
+              "title": "特典映像(ミニトークショー)",
+              "duration": "18:37"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": null,
+      "price": "￥6,285 (税抜価格 ￥5,714)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1262",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "chapter1",
+              "duration": "10:28"
+            },
+            {
+              "index": 2,
+              "title": "chapter2",
+              "duration": "13:31"
+            },
+            {
+              "index": 3,
+              "title": "chapter3",
+              "duration": "11:19"
+            },
+            {
+              "index": 4,
+              "title": "chapter4",
+              "duration": "11:46"
+            },
+            {
+              "index": 5,
+              "title": "chapter5",
+              "duration": "12:12"
+            },
+            {
+              "index": 6,
+              "title": "chapter6",
+              "duration": "07:44"
+            },
+            {
+              "index": 7,
+              "title": "chapter7",
+              "duration": "09:47"
+            },
+            {
+              "index": 8,
+              "title": "chapter8",
+              "duration": "06:23"
+            },
+            {
+              "index": 9,
+              "title": "特典映像(ミニトークショー)",
+              "duration": "18:00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

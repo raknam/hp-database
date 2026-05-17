@@ -1,0 +1,68 @@
+{
+  "code": "UFCW-1032",
+  "url": "/release/detail/UFCW-1032/",
+  "source": "upfront",
+  "title": "アッパーカット！/夕立ち！スルー・ザ・レインボー",
+  "category": "CDシングル",
+  "artist": "アップアップガールズ（仮）",
+  "releaseDate": "2012/06/30",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/23501dd9200eaeb9fc4cd6f9656a7403f63624a8.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/23501dd9200eaeb9fc4cd6f9656a7403f63624a8.jpg",
+      "price": "￥1,047 (税抜価格 ￥952)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "UFCW-1032",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アッパーカット！",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "PandaBoY",
+                "作曲": "PandaBoY",
+                "編曲": "PandaBoY"
+              }
+            },
+            {
+              "index": 2,
+              "title": "夕立ち！スルー・ザ・レインボー",
+              "duration": "04:05",
+              "credits": {
+                "作詞": "fu_mou",
+                "作曲": "fu_mou",
+                "編曲": "fu_mou"
+              }
+            },
+            {
+              "index": 3,
+              "title": "アッパーカット！(Instrumental)",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "PandaBoY",
+                "作曲": "PandaBoY",
+                "編曲": "PandaBoY"
+              }
+            },
+            {
+              "index": 4,
+              "title": "夕立ち！スルー・ザ・レインボー(Instrumental)",
+              "duration": "04:05",
+              "credits": {
+                "作詞": "fu_mou",
+                "作曲": "fu_mou",
+                "編曲": "fu_mou"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "code": "UFBW-2111",
+  "url": "/release/detail/UFBW-2111/",
+  "source": "upfront",
+  "title": "佐々木莉佳子写真集「RIKAKO」メイキングDVD〜特別編集版〜",
+  "category": "DVD",
+  "artist": "佐々木莉佳子",
+  "releaseDate": "2015/09/15",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/nowprinting.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/nowprinting.jpg",
+      "price": "￥2,750 (税抜価格 ￥2,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2111",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "DAY1",
+              "duration": "11:51"
+            },
+            {
+              "index": 1,
+              "title": "DAY2",
+              "duration": "22:22"
+            },
+            {
+              "index": 1,
+              "title": "DAY3",
+              "duration": "16:02"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

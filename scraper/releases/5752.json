@@ -1,0 +1,49 @@
+{
+  "id": 5752,
+  "url": "/release/5752/",
+  "title": "待てないアフターファイブ/傘をさす先輩",
+  "category": "配信",
+  "artist": "カントリー・ガールズ",
+  "releaseDate": "2018.8.24",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/f16f4c00fe5fbe30097c1d7fd945b097f7985764.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "待てないアフターファイブ",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "石井健太郎",
+                "編曲": "石井健太郎",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "傘をさす先輩",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA",
+                "歌": "カントリー・ガールズ"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1404"
+        }
+      ]
+    }
+  ]
+}

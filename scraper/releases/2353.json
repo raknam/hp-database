@@ -1,0 +1,75 @@
+{
+  "id": 2353,
+  "url": "/release/2353/",
+  "title": "Greeting 〜植村あかり〜",
+  "category": "DVD",
+  "artist": "植村あかり",
+  "releaseDate": "2014.7.19",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/f5879a055475a2437792de6ebc872b4e84e929c8.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "School Road",
+              "duration": "10:49",
+              "credits": {
+                "出演": "植村あかり"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Summer breeze",
+              "duration": "10:30",
+              "credits": {
+                "出演": "植村あかり"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Interview",
+              "duration": "09:36",
+              "credits": {
+                "出演": "植村あかり"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Dress up to the Beach",
+              "duration": "13:04",
+              "credits": {
+                "出演": "植村あかり"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Behind the shots",
+              "duration": "03:56",
+              "credits": {
+                "出演": "植村あかり"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "02:14",
+              "credits": {
+                "出演": "植村あかり"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-2104"
+        }
+      ]
+    }
+  ]
+}

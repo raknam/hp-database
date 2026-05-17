@@ -1,0 +1,73 @@
+{
+  "code": "EPBE-5428",
+  "url": "/release/detail/EPBE-5428/",
+  "source": "upfront",
+  "title": "シングルV「初恋サイダー/DEEP MIND」",
+  "category": "DVDシングルV",
+  "artist": "Buono!",
+  "releaseDate": "2012/01/25",
+  "label": "zetima",
+  "images": [
+    "/images/130a9e5667fb0c03b9c2b776f26e4efce8a39dec.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/130a9e5667fb0c03b9c2b776f26e4efce8a39dec.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5428",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "初恋サイダー(Music Video)",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "しほり"
+              }
+            },
+            {
+              "index": 2,
+              "title": "DEEP MIND(Music Video)",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "おのりく",
+                "作曲": "AKIRASTAR"
+              }
+            },
+            {
+              "index": 3,
+              "title": "初恋サイダー(MOMOKO Ver.)",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "しほり"
+              }
+            },
+            {
+              "index": 4,
+              "title": "初恋サイダー(MIYABI Ver.)",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "しほり"
+              }
+            },
+            {
+              "index": 5,
+              "title": "初恋サイダー(AIRI Ver.)",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "しほり"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

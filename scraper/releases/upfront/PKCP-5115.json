@@ -1,0 +1,68 @@
+{
+  "code": "PKCP-5115",
+  "url": "/release/detail/PKCP-5115/",
+  "source": "upfront",
+  "title": "約束の場所",
+  "category": "CDシングル",
+  "artist": "アツキヨ",
+  "releaseDate": "2008/02/27",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/2ffc4113c02c56ec7e647188534d402efac5afdc.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/2ffc4113c02c56ec7e647188534d402efac5afdc.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5115",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "約束の場所",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "MIZUE",
+                "作曲": "田辺恵二",
+                "編曲": "田辺恵二"
+              }
+            },
+            {
+              "index": 2,
+              "title": "江ノ電に乗って",
+              "duration": "03:22",
+              "credits": {
+                "作詞": "山上路夫",
+                "作曲": "佐々木厚",
+                "編曲": "福嶋康明"
+              }
+            },
+            {
+              "index": 3,
+              "title": "約束の場所(Instrumental)",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "MIZUE",
+                "作曲": "田辺恵二",
+                "編曲": "田辺恵二"
+              }
+            },
+            {
+              "index": 4,
+              "title": "江ノ電に乗って(Instrumental)",
+              "duration": "03:22",
+              "credits": {
+                "作詞": "山上路夫",
+                "作曲": "佐々木厚",
+                "編曲": "福嶋康明"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": 2664,
+  "url": "/release/2664/",
+  "title": "モーニング娘。新春！LOVEストーリーズ",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2002.3.13",
+  "label": "hachama",
+  "images": [
+    "/upload/images/7a4d81965b224cd755a0d63df5abbe0d48692a68.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "01:16",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "伊豆の踊子/原作:川端康成 脚本:寺田敏雄",
+              "duration": "49:10",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 3,
+              "title": "はいからさんが通る/原作:大和和紀 脚本:遠藤彩見",
+              "duration": "25:13",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "時をかける少女/原作:筒井康隆 脚本:寺田敏雄",
+              "duration": "44:49",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 5,
+              "title": "エンドロール",
+              "duration": "02:02",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 1,
+              "title": "＜DVD特典＞SPECIAL EDITION メイキング NG集",
+              "duration": "15:23",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "HKBN-50007"
+        }
+      ]
+    }
+  ]
+}

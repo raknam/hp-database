@@ -1,0 +1,61 @@
+{
+  "id": 1050,
+  "url": "/release/1050/",
+  "title": "LOVEマシーン",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "1999.9.9",
+  "label": "zetima",
+  "images": [
+    "/upload/images/33378b4bf13f0b049d71ac8a6406d4de4f18211f.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "LOVEマシーン",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "21世紀",
+              "duration": "04:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "編曲:鈴木俊介 ストリングスアレンジ:村山達哉",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "LOVEマシーン",
+              "duration": "05:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPDE-1052"
+        }
+      ]
+    }
+  ]
+}

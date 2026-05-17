@@ -1,0 +1,93 @@
+{
+  "code": "EPBE-5315",
+  "url": "/release/detail/EPBE-5315/",
+  "source": "upfront",
+  "title": "20 DREAMS",
+  "category": "DVD",
+  "artist": "亀井絵里",
+  "releaseDate": "2009/01/14",
+  "label": "zetima",
+  "images": [
+    "/images/5f3644a7ac5017e0135358f74924d5bcf1edcd1d.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/5f3644a7ac5017e0135358f74924d5bcf1edcd1d.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5315",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "01:54"
+            },
+            {
+              "index": 2,
+              "title": "サイクリング",
+              "duration": "03:22"
+            },
+            {
+              "index": 3,
+              "title": "DREAM 1",
+              "duration": "02:54"
+            },
+            {
+              "index": 4,
+              "title": "写真集メイキング1",
+              "duration": "02:38"
+            },
+            {
+              "index": 5,
+              "title": "DREAM 2",
+              "duration": "11:00"
+            },
+            {
+              "index": 6,
+              "title": "散歩",
+              "duration": "03:22"
+            },
+            {
+              "index": 7,
+              "title": "休憩",
+              "duration": "01:44"
+            },
+            {
+              "index": 8,
+              "title": "DREAM 3",
+              "duration": "01:23"
+            },
+            {
+              "index": 9,
+              "title": "写真集メイキング2",
+              "duration": "02:27"
+            },
+            {
+              "index": 10,
+              "title": "DREAM 4",
+              "duration": "04:13"
+            },
+            {
+              "index": 11,
+              "title": "写真集メイキング3",
+              "duration": "05:44"
+            },
+            {
+              "index": 12,
+              "title": "DREAM 5",
+              "duration": "05:29"
+            },
+            {
+              "index": 13,
+              "title": "エンディング",
+              "duration": "08:33"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

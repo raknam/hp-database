@@ -1,0 +1,410 @@
+{
+  "id": 5129,
+  "url": "/release/5129/",
+  "title": "BRAND NEW MORNING/ジェラシー ジェラシー",
+  "category": "CDシングル",
+  "artist": "モーニング娘。'17",
+  "releaseDate": "2017.3.8",
+  "label": "zetima",
+  "images": [
+    "/upload/images/a3d9928e80884aab7e32960b766ad7aad157f718.webp",
+    "/upload/images/9fba1797cfe179e8d6a25d9ecd1f96f2b124d080.webp",
+    "/upload/images/e7ce444f857931068ac22e9ca58b69d499cc8325.webp",
+    "/upload/images/e6072a20c1178613948ae1c6221a6be4a0714526.webp",
+    "/upload/images/b0216cd6dbb464f1fae340965b1824bab65d38a7.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/a3d9928e80884aab7e32960b766ad7aad157f718.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "BRAND NEW MORNING",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Jean Luc Ponpon & 星部ショウ",
+                "編曲": "Jean Luc Ponpon",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ジェラシー ジェラシー",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ:U.M.E.D.Y.",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 3,
+              "title": "BRAND NEW MORNING",
+              "duration": "04:18",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Jean Luc Ponpon & 星部ショウ",
+                "編曲": "Jean Luc Ponpon",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ジェラシー ジェラシー",
+              "duration": "04:34",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ:U.M.E.D.Y.",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'17"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7306"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "BRAND NEW MORNING",
+              "duration": "06:07",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Jean Luc Ponpon & 星部ショウ",
+                "出演": "モーニング娘。'17"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/9fba1797cfe179e8d6a25d9ecd1f96f2b124d080.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "BRAND NEW MORNING",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Jean Luc Ponpon & 星部ショウ",
+                "編曲": "Jean Luc Ponpon",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ジェラシー ジェラシー",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ:U.M.E.D.Y.",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 3,
+              "title": "BRAND NEW MORNING",
+              "duration": "04:18",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Jean Luc Ponpon & 星部ショウ",
+                "編曲": "Jean Luc Ponpon",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ジェラシー ジェラシー",
+              "duration": "04:34",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ:U.M.E.D.Y.",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'17"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7308"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ジェラシー ジェラシー",
+              "duration": "05:48",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ:U.M.E.D.Y.",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'17"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/upload/images/e7ce444f857931068ac22e9ca58b69d499cc8325.webp",
+      "price": "￥1,980（税抜価格 ￥1,800）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "BRAND NEW MORNING",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Jean Luc Ponpon & 星部ショウ",
+                "編曲": "Jean Luc Ponpon",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ジェラシー ジェラシー",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ:U.M.E.D.Y.",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 3,
+              "title": "モーニングみそ汁",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Get you!",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "秋元康",
+                "作曲": "板垣祐介",
+                "編曲": "板垣祐介",
+                "歌": "サシニング娘。(モーニング娘。'17&指原莉乃)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "BRAND NEW MORNING",
+              "duration": "04:18",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Jean Luc Ponpon & 星部ショウ",
+                "編曲": "Jean Luc Ponpon",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ジェラシー ジェラシー",
+              "duration": "04:34",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ:U.M.E.D.Y.",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'17"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7310"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "モーニングみそ汁",
+              "duration": "04:40",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 2,
+              "title": "BRAND NEW MORNING",
+              "duration": "04:34",
+              "suffix": "(Dance Shot ver.)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Jean Luc Ponpon & 星部ショウ",
+                "出演": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ジェラシー ジェラシー",
+              "duration": "04:50",
+              "suffix": "(Dance Shot ver.)",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ:U.M.E.D.Y.",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'17"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/e6072a20c1178613948ae1c6221a6be4a0714526.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "BRAND NEW MORNING",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Jean Luc Ponpon & 星部ショウ",
+                "編曲": "Jean Luc Ponpon",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ジェラシー ジェラシー",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ:U.M.E.D.Y.",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 3,
+              "title": "BRAND NEW MORNING",
+              "duration": "04:18",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Jean Luc Ponpon & 星部ショウ",
+                "編曲": "Jean Luc Ponpon",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ジェラシー ジェラシー",
+              "duration": "04:34",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ:U.M.E.D.Y.",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'17"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7312"
+        }
+      ],
+      "note": "トレーディングカード ソロ12種+集合1種よりランダムにて1枚封入(BRAND NEW MORNING Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/b0216cd6dbb464f1fae340965b1824bab65d38a7.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "BRAND NEW MORNING",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Jean Luc Ponpon & 星部ショウ",
+                "編曲": "Jean Luc Ponpon",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ジェラシー ジェラシー",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ:U.M.E.D.Y.",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 3,
+              "title": "BRAND NEW MORNING",
+              "duration": "04:18",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "Jean Luc Ponpon & 星部ショウ",
+                "編曲": "Jean Luc Ponpon",
+                "歌": "モーニング娘。'17"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ジェラシー ジェラシー",
+              "duration": "04:34",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ:U.M.E.D.Y.",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'17"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7313"
+        }
+      ],
+      "note": "トレーディングカード ソロ12種+集合1種よりランダムにて1枚封入(ジェラシー ジェラシー Ver.)※初回プレス分のみ"
+    }
+  ]
+}

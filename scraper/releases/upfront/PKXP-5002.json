@@ -1,0 +1,48 @@
+{
+  "code": "PKXP-5002",
+  "url": "/release/detail/PKXP-5002/",
+  "source": "upfront",
+  "title": "アロハロ！2 Berryz工房 Blu-ray Disc",
+  "category": "BD",
+  "artist": "Berryz工房",
+  "releaseDate": "2011/02/16",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/2dda3d25f05c8f9f2e6b8dbdf8db8547ee4dc98c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/2dda3d25f05c8f9f2e6b8dbdf8db8547ee4dc98c.jpg",
+      "price": "￥6,285 (税抜価格 ￥5,714)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "PKXP-5002",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Short Story",
+              "duration": "05:53"
+            },
+            {
+              "index": 2,
+              "title": "Image Movie",
+              "duration": "01:05:50"
+            },
+            {
+              "index": 3,
+              "title": "Beach Party in Hawaii",
+              "duration": "05:03"
+            },
+            {
+              "index": 4,
+              "title": "Ending",
+              "duration": "09:32"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "code": "EPDE-1041",
+  "url": "/release/detail/EPDE-1041/",
+  "source": "upfront",
+  "title": "もう一度今を選ぶかな？",
+  "category": "CDシングル",
+  "artist": "Temiyan",
+  "releaseDate": "1999/07/01",
+  "label": "zetima",
+  "images": [
+    "/images/f7fbcce78257767978b29557582706256c88adef.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f7fbcce78257767978b29557582706256c88adef.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1041",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "もう一度今を選ぶかな？",
+              "duration": "05:09",
+              "credits": {
+                "作詞": "林紀勝",
+                "作曲": "伊藤真太朗",
+                "編曲": "伊藤真太朗"
+              }
+            },
+            {
+              "index": 2,
+              "title": "渚のかげろう",
+              "duration": "05:43",
+              "credits": {
+                "作詞": "宮手健雄",
+                "作曲": "宮手健雄",
+                "編曲": "Hajimu/友常正巳"
+              }
+            },
+            {
+              "index": 3,
+              "title": "もう一度今を選ぶかな？(Instrumental)",
+              "duration": "05:09",
+              "credits": {
+                "作詞": "林紀勝",
+                "作曲": "伊藤真太朗",
+                "編曲": "伊藤真太朗"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

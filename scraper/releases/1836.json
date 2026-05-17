@@ -1,0 +1,62 @@
+{
+  "id": 1836,
+  "url": "/release/1836/",
+  "title": "行くZYX! FLY HIGH",
+  "category": "CDシングル",
+  "artist": "ZYX",
+  "releaseDate": "2003.8.6",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/upload/images/166092c1a3bfce8f92f6ef4de53f16e5ffbb9e96.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "行くZYX! FLY HIGH",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野伸",
+                "歌": "ZYX"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ガタメキラ",
+              "duration": "04:52",
+              "suffix": "(ZYX Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "SHO-1",
+                "歌": "ZYX"
+              }
+            },
+            {
+              "index": 3,
+              "title": "行くZYX! FLY HIGH",
+              "duration": "05:03",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野伸",
+                "歌": "ZYX"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5025"
+        }
+      ]
+    }
+  ]
+}

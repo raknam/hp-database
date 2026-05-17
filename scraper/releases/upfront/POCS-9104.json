@@ -1,0 +1,161 @@
+{
+  "code": "POCS-9104",
+  "url": "/release/detail/POCS-9104/",
+  "source": "upfront",
+  "title": "YOU the 3rd. 〜WILDFLOWER〜",
+  "category": "CDアルバム",
+  "artist": "吉川友",
+  "releaseDate": "2015/10/14",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/d4ebbfc24b4971392cedad36cdb4a96242421f24.jpg",
+    "/images/b51708b28d8fd7088c3a1f43d17b96ad2c898b25.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/d4ebbfc24b4971392cedad36cdb4a96242421f24.jpg",
+      "price": "￥4,074 (税抜価格 ￥3,704)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "POCS-9104",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "URAHARA テンプテーション",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アカネディスコ",
+              "duration": "05:15",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "KOJI oba"
+              }
+            },
+            {
+              "index": 3,
+              "title": "「すき」の数え方",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "サカノウエヨースケ",
+                "作曲": "サカノウエヨースケ",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 4,
+              "title": "あまいメロディー",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 5,
+              "title": "プラネタリウム",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "石橋光",
+                "作曲": "石橋光",
+                "編曲": "石橋光"
+              }
+            },
+            {
+              "index": 6,
+              "title": "いいじゃん",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 7,
+              "title": "こんな愛しちゃ",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "michitomo",
+                "編曲": "KOJI oba"
+              }
+            },
+            {
+              "index": 8,
+              "title": "花",
+              "duration": "17:25",
+              "credits": {
+                "作詞": "NOBE/大森靖子/大華奈央香",
+                "作曲": "michitomo",
+                "編曲": "KOJI oba/michitomo"
+              }
+            },
+            {
+              "index": 9,
+              "title": "WILDSTRAWBERRY",
+              "duration": "05:07",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 10,
+              "title": "Stairways",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "fu_mou",
+                "作曲": "fu_mou",
+                "編曲": "fu_mou"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/b51708b28d8fd7088c3a1f43d17b96ad2c898b25.jpg",
+      "price": "￥3,056 (税抜価格 ￥2,778)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "POCS-1366",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "WILDSTRAWBERRYMusic Video",
+              "duration": "05:20",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "michitomo"
+              }
+            },
+            {
+              "index": 2,
+              "title": "WILDSTRAWBERRYメイキング映像",
+              "duration": "16:13"
+            },
+            {
+              "index": 3,
+              "title": "吉川友 初の台湾公演！ゆるゆるドキュメンタリー",
+              "duration": "16:29"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

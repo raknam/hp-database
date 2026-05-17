@@ -1,0 +1,48 @@
+{
+  "code": "UFDL-1408",
+  "url": "/release/detail/UFDL-1408/",
+  "source": "upfront",
+  "title": "最高のオンナ",
+  "category": "配信シングル",
+  "artist": "吉川友にぱいぱいでか美",
+  "releaseDate": "2018/09/12",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/7146826a038502595750d119d6a98cc04c80d7eb.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7146826a038502595750d119d6a98cc04c80d7eb.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信シングル",
+          "catalogNo": "UFDL-1408",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "最高のオンナ",
+              "duration": "03:00",
+              "credits": {
+                "作詞": "でか美",
+                "作曲": "でか美",
+                "編曲": "michitomo/かずぼーい"
+              }
+            },
+            {
+              "index": 1,
+              "title": "最高のオンナ(Instrumental)",
+              "duration": "03:00",
+              "credits": {
+                "作詞": "でか美",
+                "作曲": "でか美",
+                "編曲": "michitomo/かずぼーい"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

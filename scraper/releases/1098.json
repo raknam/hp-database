@@ -1,0 +1,83 @@
+{
+  "id": 1098,
+  "url": "/release/1098/",
+  "title": "アロハロ！4 モーニング娘。Blu-ray Disc",
+  "category": "BD",
+  "artist": "モーニング娘。",
+  "releaseDate": "2010.11.24",
+  "label": "zetima",
+  "images": [
+    "/upload/images/fecd12d7502476be91311d7961cc424ea609347f.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "02:01",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "PV MEETING",
+              "duration": "02:12",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ORIGINAL ACCESSORY",
+              "duration": "16:41",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 4,
+              "title": "元気ピカッピカッ！〜Original PV in Hawaii〜",
+              "duration": "04:27",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 5,
+              "title": "8 IMAGES",
+              "duration": "15:49",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 6,
+              "title": "MAKING",
+              "duration": "18:37",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ENDING",
+              "duration": "04:44",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPXE-5002"
+        }
+      ]
+    }
+  ]
+}

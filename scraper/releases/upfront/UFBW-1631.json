@@ -1,0 +1,107 @@
+{
+  "code": "UFBW-1631",
+  "url": "/release/detail/UFBW-1631/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.58",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2019/08/07",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/9cf70d29f453af69a8d2b297ecf86bf6817b3091.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/9cf70d29f453af69a8d2b297ecf86bf6817b3091.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1631",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "雨の有効活用",
+              "duration": "10:03"
+            },
+            {
+              "index": 2,
+              "title": "和太鼓エクササイズ",
+              "duration": "07:14"
+            },
+            {
+              "index": 3,
+              "title": "英会話",
+              "duration": "10:26"
+            },
+            {
+              "index": 4,
+              "title": "発酵食品",
+              "duration": "11:38"
+            },
+            {
+              "index": 5,
+              "title": "川柳",
+              "duration": "12:43"
+            },
+            {
+              "index": 6,
+              "title": "魔女っ子メグちゃん【スタジオライブ集】",
+              "duration": "03:04",
+              "credits": {
+                "作詞": "千家和也",
+                "作曲": "渡辺岳夫"
+              }
+            },
+            {
+              "index": 7,
+              "title": "泣いていいよ【スタジオライブ集】",
+              "duration": "04:54",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "中村瑛彦"
+              }
+            },
+            {
+              "index": 8,
+              "title": "SEXY SEXY【スタジオライブ集】",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 9,
+              "title": "明日テンキになあれ【スタジオライブ集】",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "横健介"
+              }
+            },
+            {
+              "index": 10,
+              "title": "I Need You ～夜空の観覧車～【スタジオライブ集】",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 11,
+              "title": "Style of my love【スタジオライブ集】",
+              "duration": "04:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

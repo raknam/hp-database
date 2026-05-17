@@ -1,0 +1,78 @@
+{
+  "code": "EPBE-5103",
+  "url": "/release/detail/EPBE-5103/",
+  "source": "upfront",
+  "title": "アロハロ！高橋愛DVD",
+  "category": "DVD",
+  "artist": "高橋愛",
+  "releaseDate": "2003/12/17",
+  "label": "zetima",
+  "images": [
+    "/images/55571848082bafe868b20e58e70acdfab4a1b361.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/55571848082bafe868b20e58e70acdfab4a1b361.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5103",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "08:06 インラインスケートでアロハ！！",
+              "duration": "01:59"
+            },
+            {
+              "index": 2,
+              "title": "09:20 バギーに初挑戦！！",
+              "duration": "07:30"
+            },
+            {
+              "index": 3,
+              "title": "10:48 ビーチとお友達",
+              "duration": "03:37"
+            },
+            {
+              "index": 4,
+              "title": "12:04 お昼ごはんです！！",
+              "duration": "04:07"
+            },
+            {
+              "index": 5,
+              "title": "12:54 ショッピング！！",
+              "duration": "05:29"
+            },
+            {
+              "index": 6,
+              "title": "14:16 アシカと遊ぼう！！",
+              "duration": "04:36"
+            },
+            {
+              "index": 7,
+              "title": "15:05 プールはきもちいー♥",
+              "duration": "03:21"
+            },
+            {
+              "index": 8,
+              "title": "16:00 ハンモックでお昼寝です",
+              "duration": "02:20"
+            },
+            {
+              "index": 9,
+              "title": "17:41 夕景のクルーズ",
+              "duration": "05:59"
+            },
+            {
+              "index": 10,
+              "title": "写真集メイキング",
+              "duration": "17:25"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

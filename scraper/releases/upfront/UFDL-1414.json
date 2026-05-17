@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1414",
+  "url": "/release/detail/UFDL-1414/",
+  "source": "upfront",
+  "title": "愛をみせてくれませんか",
+  "category": "配信",
+  "artist": "矢島舞美",
+  "releaseDate": "2018/11/21",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/f197150d6ed731662440c31b4f960181b072de1e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f197150d6ed731662440c31b4f960181b072de1e.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1414",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛をみせてくれませんか",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "宮嶋淳子",
+                "作曲": "中島卓偉",
+                "編曲": "荒幡亮平"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

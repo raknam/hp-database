@@ -1,0 +1,51 @@
+{
+  "code": "PKBP-5123",
+  "url": "/release/detail/PKBP-5123/",
+  "source": "upfront",
+  "title": "シングルV「流星ボーイ」",
+  "category": "DVDシングルV",
+  "artist": "Berryz工房",
+  "releaseDate": "2009/11/18",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/45ff8e10d223a2ba1a4246ee2703ed85d9ecfa44.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/45ff8e10d223a2ba1a4246ee2703ed85d9ecfa44.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "PKBP-5123",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "流星ボーイ",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "流星ボーイ(Close-up Ver.)",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "12:21"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

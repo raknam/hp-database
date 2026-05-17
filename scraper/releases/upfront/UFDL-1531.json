@@ -1,0 +1,78 @@
+{
+  "code": "UFDL-1531",
+  "url": "/release/detail/UFDL-1531/",
+  "source": "upfront",
+  "title": "圧倒的LØVE/Pink Temperature(Special Edition)",
+  "category": "配信",
+  "artist": "稲場愛香",
+  "releaseDate": "2024/04/17",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/7fd014339fb1c75b28837ad05361f1b00dd5dfea.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7fd014339fb1c75b28837ad05361f1b00dd5dfea.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1531",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "圧倒的LØVE",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "金子麻友美",
+                "作曲": "真下正樹",
+                "編曲": "大沢圭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Pink Temperature",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Julie Yu/Gustav Mared/Carlos Okabe",
+                "編曲": "Gustav"
+              }
+            },
+            {
+              "index": 3,
+              "title": "LOVE is BLIND",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Karrinator/ERECA",
+                "編曲": "Karrinator"
+              }
+            },
+            {
+              "index": 4,
+              "title": "チャプターⅡ",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "江上浩太郎",
+                "編曲": "江上浩太郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "C＼C(シンデレラ＼コンプレックス)'24 稲場愛香 Solo Ver.",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "戸嶋友祐"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

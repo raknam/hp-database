@@ -1,0 +1,109 @@
+{
+  "id": 5948,
+  "url": "/release/5948/",
+  "title": "The Girls Live Vol.54",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2019.4.10",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/eaa13cd9690faba86f4cc2bd5e417620bf9e087a.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ヨガ",
+              "duration": "13:00",
+              "credits": {
+                "出演": "高橋愛/野中美希(モーニング娘。'18)/笠原桃奈(アンジュルム)/船木結(アンジュルム/カントリー・ガールズ)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "100均グッズ収納",
+              "duration": "14:19",
+              "credits": {
+                "出演": "熊井友理奈/石田亜佑美(モーニング娘。'18)/中西香菜(アンジュルム)/梁川奈々美(Juice=Juice/カントリー・ガールズ)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "モーニングコーヒー(20th Anniversary Ver.）",
+              "duration": "06:04",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ハナモヨウ",
+              "duration": "04:29",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "KOUGA",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Never Never Surrender",
+              "duration": "04:45",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "五線譜のたすき",
+              "duration": "04:27",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "モーニング娘。'18"
+              }
+            },
+            {
+              "index": 7,
+              "title": "春恋歌",
+              "duration": "04:36",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "鈴木秋則",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 8,
+              "title": "GO TO THE TOP!!",
+              "duration": "03:49",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "HaTo",
+                "出演": "こぶしファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1621"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": 2785,
+  "url": "/release/2785/",
+  "title": "電話待っています",
+  "category": "CDシングル",
+  "artist": "メロン記念日",
+  "releaseDate": "2001.3.7",
+  "label": "zetima",
+  "images": [
+    "/upload/images/3104d235139aa478489c298d961f28487376f338.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "電話待っています",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "船山基紀",
+                "歌": "メロン記念日"
+              }
+            },
+            {
+              "index": 2,
+              "title": "もう 待てませ～ん！",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "メロン記念日"
+              }
+            },
+            {
+              "index": 3,
+              "title": "電話待っています",
+              "duration": "03:47",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "船山基紀",
+                "歌": "メロン記念日"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5077"
+        }
+      ]
+    }
+  ]
+}

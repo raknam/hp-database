@@ -1,0 +1,356 @@
+{
+  "id": 690,
+  "url": "/release/690/",
+  "title": "3rd〜LOVE エスカレーション！〜",
+  "category": "CDアルバム",
+  "artist": "℃-ute",
+  "releaseDate": "2008.3.12",
+  "label": "zetima",
+  "images": [
+    "/upload/images/af1c5fe54d03d9b35774d1580dd1725c7db35f36.webp",
+    "/upload/images/58df9b86f150b733103dbac706f2997fb36226ac.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/upload/images/af1c5fe54d03d9b35774d1580dd1725c7db35f36.webp",
+      "price": "￥3,960（税抜価格 ￥3,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "都会っ子 純情",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "イメージカラー",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "矢島舞美・鈴木愛理"
+              }
+            },
+            {
+              "index": 3,
+              "title": "乙女COCORO",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "LALALA 幸せの歌",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ほめられ伸び子のテーマ曲",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 6,
+              "title": "めぐる恋の季節",
+              "duration": "03:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 7,
+              "title": "スイーーツ→→→ライブ",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "岡井千聖・有原栞菜"
+              }
+            },
+            {
+              "index": 8,
+              "title": "桜チラリ",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 9,
+              "title": "晴れのプラチナ通り",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "中島早貴・萩原舞"
+              }
+            },
+            {
+              "index": 10,
+              "title": "ドドンガドン音頭",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一",
+                "歌": "テンション上げ子 with ℃-ute合唱団"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5545"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "LALALA 幸せの歌",
+              "duration": "03:14",
+              "suffix": "(Live Ver.)Hello! Project 2008 Winter 〜決定！ハロ☆プロ アワード '08〜より収録",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "LALALA 幸せの歌",
+              "duration": "03:13",
+              "suffix": "(梅田えりか Close-up Live Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "LALALA 幸せの歌",
+              "duration": "03:13",
+              "suffix": "(矢島舞美 Close-up Live Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "LALALA 幸せの歌",
+              "duration": "03:13",
+              "suffix": "(中島早貴 Close-up Live Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "LALALA 幸せの歌",
+              "duration": "03:13",
+              "suffix": "(鈴木愛理 Close-up Live Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 6,
+              "title": "LALALA 幸せの歌",
+              "duration": "03:13",
+              "suffix": "(岡井千聖 Close-up Live Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 7,
+              "title": "LALALA 幸せの歌",
+              "duration": "03:13",
+              "suffix": "(萩原舞 Close-up Live Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 8,
+              "title": "LALALA 幸せの歌",
+              "duration": "03:17",
+              "suffix": "(有原栞菜 Close-up Live Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント参加券封入"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/58df9b86f150b733103dbac706f2997fb36226ac.webp",
+      "price": "定価 ￥3,300（税抜価格 ￥3,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "都会っ子 純情",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "イメージカラー",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "矢島舞美・鈴木愛理"
+              }
+            },
+            {
+              "index": 3,
+              "title": "乙女COCORO",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "LALALA 幸せの歌",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ほめられ伸び子のテーマ曲",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 6,
+              "title": "めぐる恋の季節",
+              "duration": "03:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 7,
+              "title": "スイーーツ→→→ライブ",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "岡井千聖・有原栞菜"
+              }
+            },
+            {
+              "index": 8,
+              "title": "桜チラリ",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 9,
+              "title": "晴れのプラチナ通り",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "中島早貴・萩原舞"
+              }
+            },
+            {
+              "index": 10,
+              "title": "ドドンガドン音頭",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一",
+                "歌": "テンション上げ子 with ℃-ute合唱団"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5547"
+        }
+      ],
+      "note": "通常盤･初回仕様 イベント参加券封入"
+    }
+  ]
+}

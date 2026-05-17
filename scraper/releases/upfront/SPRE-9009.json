@@ -1,0 +1,68 @@
+{
+  "code": "SPRE-9009",
+  "url": "/release/detail/SPRE-9009/",
+  "source": "upfront",
+  "title": "とりあえず生",
+  "category": "CDシングル",
+  "artist": "豚骨ピストンズ",
+  "releaseDate": "2007/07/18",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/1daa97330475edbdc582d95edc441630e67c7240.jpg"
+  ],
+  "editions": [
+    {
+      "name": "九州限定発売",
+      "image": "/images/1daa97330475edbdc582d95edc441630e67c7240.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "SPRE-9009",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "とりあえず生",
+              "duration": "03:14",
+              "credits": {
+                "作詞": "山﨑徹",
+                "作曲": "山﨑徹",
+                "編曲": "豚骨ピストンズ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "三振かホームラン",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "山﨑弘",
+                "作曲": "山﨑弘",
+                "編曲": "豚骨ピストンズ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "とりあえず生(Instrumental)",
+              "duration": "03:14",
+              "credits": {
+                "作詞": "山﨑徹",
+                "作曲": "山﨑徹",
+                "編曲": "豚骨ピストンズ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "三振かホームラン(Instrumental)",
+              "duration": "03:41",
+              "credits": {
+                "作詞": "山﨑弘",
+                "作曲": "山﨑弘",
+                "編曲": "豚骨ピストンズ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

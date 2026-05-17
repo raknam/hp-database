@@ -1,0 +1,565 @@
+{
+  "id": 4592,
+  "url": "/release/4592/",
+  "title": "次々続々/糸島Distance/恋ならとっくに始まってる",
+  "category": "CDシングル",
+  "artist": "アンジュルム",
+  "releaseDate": "2016.4.27",
+  "label": "hachama",
+  "images": [
+    "/upload/images/943d66157dbe5886c12eae41036969ad503f2708.webp",
+    "/upload/images/e3bb9f45e30d96a78791fbd1f45d4722ba97ce8c.webp",
+    "/upload/images/0b68cd11f46b92ac26e4256d362136cc3e335223.webp",
+    "/upload/images/e42f3e11d86ae6360fe83831f537ef2fc4aee78e.webp",
+    "/upload/images/e812c2424112386ac8ba7e57a77b4dc196b10922.webp",
+    "/upload/images/49d17a27ad27f84b9fdd32f97bfae48e6df424f6.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/943d66157dbe5886c12eae41036969ad503f2708.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "次々続々",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "平田祥一郎",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "糸島Distance",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "Mari-Joe",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋ならとっくに始まってる",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "次々続々",
+              "duration": "04:57",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "平田祥一郎",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 5,
+              "title": "糸島Distance",
+              "duration": "04:52",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "Mari-Joe",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "恋ならとっくに始まってる",
+              "duration": "04:27",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50481"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "次々続々",
+              "duration": "06:12",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "平田祥一郎",
+                "出演": "アンジュルム"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/e3bb9f45e30d96a78791fbd1f45d4722ba97ce8c.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "次々続々",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "平田祥一郎",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "糸島Distance",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "Mari-Joe",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋ならとっくに始まってる",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "次々続々",
+              "duration": "04:57",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "平田祥一郎",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 5,
+              "title": "糸島Distance",
+              "duration": "04:52",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "Mari-Joe",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "恋ならとっくに始まってる",
+              "duration": "04:27",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50483"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "糸島Distance",
+              "duration": "06:08",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "Mari-Joe",
+                "作曲": "星部ショウ",
+                "出演": "アンジュルム"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/0b68cd11f46b92ac26e4256d362136cc3e335223.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "次々続々",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "平田祥一郎",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "糸島Distance",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "Mari-Joe",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋ならとっくに始まってる",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "次々続々",
+              "duration": "04:57",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "平田祥一郎",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 5,
+              "title": "糸島Distance",
+              "duration": "04:52",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "Mari-Joe",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "恋ならとっくに始まってる",
+              "duration": "04:27",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50485"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋ならとっくに始まってる",
+              "duration": "05:42",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "アンジュルム"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/e42f3e11d86ae6360fe83831f537ef2fc4aee78e.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "次々続々",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "平田祥一郎",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "糸島Distance",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "Mari-Joe",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋ならとっくに始まってる",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "次々続々",
+              "duration": "04:57",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "平田祥一郎",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 5,
+              "title": "糸島Distance",
+              "duration": "04:52",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "Mari-Joe",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "恋ならとっくに始まってる",
+              "duration": "04:27",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50489"
+        }
+      ],
+      "note": "トレカサイズ生写真ソロ9種+集合1種よりランダムにて1枚封入(次々続々 Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/e812c2424112386ac8ba7e57a77b4dc196b10922.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "次々続々",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "平田祥一郎",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "糸島Distance",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "Mari-Joe",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋ならとっくに始まってる",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "次々続々",
+              "duration": "04:57",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "平田祥一郎",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 5,
+              "title": "糸島Distance",
+              "duration": "04:52",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "Mari-Joe",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "恋ならとっくに始まってる",
+              "duration": "04:27",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50490"
+        }
+      ],
+      "note": "トレカサイズ生写真ソロ9種+集合1種よりランダムにて1枚封入(糸島Distance Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/upload/images/49d17a27ad27f84b9fdd32f97bfae48e6df424f6.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "次々続々",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "平田祥一郎",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "糸島Distance",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "Mari-Joe",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋ならとっくに始まってる",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "次々続々",
+              "duration": "04:57",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "平田祥一郎",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 5,
+              "title": "糸島Distance",
+              "duration": "04:52",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "Mari-Joe",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "恋ならとっくに始まってる",
+              "duration": "04:27",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50491"
+        }
+      ],
+      "note": "トレカサイズ生写真ソロ9種+集合1種よりランダムにて1枚封入(恋ならとっくに始まってる Ver.)※初回プレス分のみ"
+    }
+  ]
+}

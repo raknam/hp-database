@@ -1,0 +1,82 @@
+{
+  "code": "HKCN-50050",
+  "url": "/release/detail/HKCN-50050/",
+  "source": "upfront",
+  "title": "Too far away〜女のこころ〜",
+  "category": "CDシングル",
+  "artist": "安倍なつみ",
+  "releaseDate": "2007/05/09",
+  "label": "hachama",
+  "images": [
+    "/images/952a01e1fdd4c76cc9af32997ce81a8fffd9374a.jpg",
+    "/images/a238a91a7b4273e3ae605319682ba1a5f6de2969.jpg"
+  ],
+  "editions": [
+    {
+      "name": "初回生産限定盤(DVD付き)",
+      "image": "/images/952a01e1fdd4c76cc9af32997ce81a8fffd9374a.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50050",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Too far away〜女のこころ〜",
+              "duration": "05:18",
+              "credits": {
+                "作詞": "伊藤薫",
+                "作曲": "伊藤薫",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Too far away",
+              "duration": "05:17",
+              "credits": {
+                "作詞": "伊藤薫",
+                "作曲": "伊藤薫",
+                "編曲": "松田眞樹"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Too far away〜女のこころ〜(Instrumental)",
+              "duration": "05:18",
+              "credits": {
+                "作詞": "伊藤薫",
+                "作曲": "伊藤薫",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/images/a238a91a7b4273e3ae605319682ba1a5f6de2969.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50052",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "JAKET MAKING & INTERVIEW",
+              "duration": "14:47"
+            },
+            {
+              "index": 2,
+              "title": "PHOTE SLIDE SHOW",
+              "duration": "02:26"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

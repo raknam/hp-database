@@ -1,0 +1,62 @@
+{
+  "id": 3917,
+  "url": "/release/3917/",
+  "title": "幸せビーム！好き好きビーム！",
+  "category": "CDシングル",
+  "artist": "ハッピー♡7",
+  "releaseDate": "2002.7.3",
+  "label": "zetima",
+  "images": [
+    "/upload/images/1eb6b7eecb0e41de4b08f0594b4e17442eb9b36c.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "幸せビーム！好き好きビーム！",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "TATOO",
+                "歌": "ハッピー♡7"
+              }
+            },
+            {
+              "index": 2,
+              "title": "よくある親子のセレナーデ",
+              "duration": "04:09",
+              "suffix": "(ハッピー♡7 Version)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "SHO-1",
+                "歌": "ハッピー♡7"
+              }
+            },
+            {
+              "index": 3,
+              "title": "幸せビーム！好き好きビーム！",
+              "duration": "03:45",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "TATOO",
+                "歌": "ハッピー♡7"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5165"
+        }
+      ]
+    }
+  ]
+}

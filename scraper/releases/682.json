@@ -1,0 +1,125 @@
+{
+  "id": 682,
+  "url": "/release/682/",
+  "title": "青春!LOVEランチ",
+  "category": "CDシングル",
+  "artist": "アテナ＆ロビケロッツ",
+  "releaseDate": "2008.2.14",
+  "label": "zetima",
+  "images": [
+    "/upload/images/6d07f17956ce49276bc6c4eedacac813566335d6.webp",
+    "/upload/images/03c269652025d3e486fea74b7211b2622aae9620.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/upload/images/6d07f17956ce49276bc6c4eedacac813566335d6.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "青春！LOVEランチ",
+              "duration": "03:05",
+              "credits": {
+                "作詞": "磯崎健史",
+                "作曲": "磯崎健史",
+                "編曲": "nishi-ken",
+                "歌": "アテナ&ロビケロッツ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "夕暮れ☆シャーベット",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "meg rock",
+                "作曲": "meg rock",
+                "編曲": "加藤大祐",
+                "歌": "アテナ&ロビケロッツ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "青春！LOVEランチ",
+              "duration": "03:05",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "磯崎健史",
+                "作曲": "磯崎健史",
+                "編曲": "nishi-ken",
+                "歌": "アテナ&ロビケロッツ"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5536"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 0,
+              "title": "ジャケット&プロモーションビデオ",
+              "duration": "00:00"
+            },
+            {
+              "index": 0,
+              "title": "撮影メイキング映像",
+              "duration": "00:00"
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/03c269652025d3e486fea74b7211b2622aae9620.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "青春！LOVEランチ",
+              "duration": "03:05",
+              "credits": {
+                "作詞": "磯崎健史",
+                "作曲": "磯崎健史",
+                "編曲": "nishi-ken",
+                "歌": "アテナ&ロビケロッツ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "夕暮れ☆シャーベット",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "meg rock",
+                "作曲": "meg rock",
+                "編曲": "加藤大祐",
+                "歌": "アテナ&ロビケロッツ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "青春！LOVEランチ",
+              "duration": "03:05",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "磯崎健史",
+                "作曲": "磯崎健史",
+                "編曲": "nishi-ken",
+                "歌": "アテナ&ロビケロッツ"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5538"
+        }
+      ]
+    }
+  ]
+}

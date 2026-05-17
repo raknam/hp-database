@@ -1,0 +1,116 @@
+{
+  "code": "UFBW-1627",
+  "url": "/release/detail/UFBW-1627/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.56",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2019/06/12",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/927e00e149d37c660d57d1c41c14283a4f61ff4c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/927e00e149d37c660d57d1c41c14283a4f61ff4c.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1627",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "大仏",
+              "duration": "06:38"
+            },
+            {
+              "index": 2,
+              "title": "古地図",
+              "duration": "08:52"
+            },
+            {
+              "index": 3,
+              "title": "美文字",
+              "duration": "10:51"
+            },
+            {
+              "index": 4,
+              "title": "「SATOYAMA & SATOUMIへ行こう2018」公開収録",
+              "duration": "11:38"
+            },
+            {
+              "index": 5,
+              "title": "リサイクル",
+              "duration": "08:44"
+            },
+            {
+              "index": 6,
+              "title": "臥薪嘗胆【スタジオライブ集】",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "gridoor",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Goal～明日はあっちだよ～【スタジオライブ集】",
+              "duration": "05:08",
+              "credits": {
+                "作詞": "近藤薫",
+                "作曲": "近藤薫"
+              }
+            },
+            {
+              "index": 8,
+              "title": "TOKYOグライダー【スタジオライブ集】",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "唐沢美帆",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 9,
+              "title": "辛夷の花【スタジオライブ集】",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 10,
+              "title": "私がオバさんになっても【スタジオライブ集】",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "斉藤英夫"
+              }
+            },
+            {
+              "index": 11,
+              "title": "幸せの形【未公開スタジオライブ集】",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 12,
+              "title": "ダーリンとマドンナ【未公開スタジオライブ集】",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "SmileR",
+                "作曲": "SmileR"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

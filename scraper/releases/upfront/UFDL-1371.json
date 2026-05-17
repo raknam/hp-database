@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1371",
+  "url": "/release/detail/UFDL-1371/",
+  "source": "upfront",
+  "title": "明日、知らない風に吹かれて",
+  "category": "配信",
+  "artist": "矢島舞美",
+  "releaseDate": "2017/11/17",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/bfcdf8e24c9b0dc83711d817dd9127ae08ca819f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/bfcdf8e24c9b0dc83711d817dd9127ae08ca819f.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1371",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "明日、知らない風に吹かれて",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "星部ショウ",
+                "編曲": "SHIKI"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

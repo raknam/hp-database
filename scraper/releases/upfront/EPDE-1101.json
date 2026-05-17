@@ -1,0 +1,121 @@
+{
+  "code": "EPDE-1101",
+  "url": "/release/detail/EPDE-1101/",
+  "source": "upfront",
+  "title": "夢なかば",
+  "category": "CDシングル",
+  "artist": "湯原昌幸",
+  "releaseDate": "2002/07/17",
+  "label": "zetima",
+  "images": [
+    "/images/cab2833653e8adf6a7eff7db74cd24c8a4937d8f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/cab2833653e8adf6a7eff7db74cd24c8a4937d8f.jpg",
+      "price": "￥1,175 (税抜価格 ￥1,068)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1101",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夢なかば",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "杉本真人",
+                "編曲": "今泉敏郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "雨のバラード",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "こうじはるか",
+                "作曲": "植田嘉靖",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 3,
+              "title": "夢なかば(オリジナル・カラオケ)",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "杉本真人",
+                "編曲": "今泉敏郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "雨のバラード(オリジナル・カラオケ)",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "こうじはるか",
+                "作曲": "植田嘉靖",
+                "編曲": "川村栄二"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": null,
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "カセットテープシングル",
+          "catalogNo": "EPSE-1101",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夢なかば",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "杉本真人",
+                "編曲": "今泉敏郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "雨のバラード",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "こうじはるか",
+                "作曲": "植田嘉靖",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 3,
+              "title": "夢なかば(オリジナル・カラオケ)",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "杉本真人",
+                "編曲": "今泉敏郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "雨のバラード(オリジナル・カラオケ)",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "植田嘉靖",
+                "編曲": "川村栄二"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "code": "EPBE-5345",
+  "url": "/release/detail/EPBE-5345/",
+  "source": "upfront",
+  "title": "20’s time.",
+  "category": "DVD",
+  "artist": "道重さゆみ",
+  "releaseDate": "2009/07/22",
+  "label": "zetima",
+  "images": [
+    "/images/ca8ff9cc5910e43ad1d5f3a694648ce985df79f0.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/ca8ff9cc5910e43ad1d5f3a694648ce985df79f0.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5345",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "05:49"
+            },
+            {
+              "index": 2,
+              "title": "プール",
+              "duration": "07:28"
+            },
+            {
+              "index": 3,
+              "title": "キックボクシング",
+              "duration": "14:11"
+            },
+            {
+              "index": 4,
+              "title": "写真集メイキング①",
+              "duration": "06:21"
+            },
+            {
+              "index": 5,
+              "title": "食事",
+              "duration": "13:30"
+            },
+            {
+              "index": 6,
+              "title": "写真集メイキング②",
+              "duration": "07:43"
+            },
+            {
+              "index": 7,
+              "title": "10年後のさゆみへ",
+              "duration": "01:48"
+            },
+            {
+              "index": 8,
+              "title": "エンディング",
+              "duration": "01:21"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

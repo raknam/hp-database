@@ -1,0 +1,48 @@
+{
+  "code": "HKBN-50032",
+  "url": "/release/detail/HKBN-50032/",
+  "source": "upfront",
+  "title": "モーニング娘。サスペンスドラマスペシャル 「三毛猫ホームズの犯罪学講座」 「おれがあいつであいつがおれで」",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2003/07/16",
+  "label": "hachama",
+  "images": [
+    "/images/05ec990565a6f3d44353a62c13b49f01e9b5b346.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/05ec990565a6f3d44353a62c13b49f01e9b5b346.jpg",
+      "price": "￥4,715 (税抜価格 ￥4,286)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKBN-50032",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "opening",
+              "duration": "01:12"
+            },
+            {
+              "index": 2,
+              "title": "「三毛猫ホームズの犯罪学講座」 原作:赤川次郎 脚本:稲葉一広",
+              "duration": "00:00"
+            },
+            {
+              "index": 3,
+              "title": "「おれがあいつであいつがおれで」 原作:山中恒/脚本:遠藤彩見",
+              "duration": "44:47"
+            },
+            {
+              "index": 4,
+              "title": "サイドB ドラマの裏側！メイキング＆NG",
+              "duration": "34:45"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

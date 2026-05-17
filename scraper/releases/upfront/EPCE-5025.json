@@ -1,0 +1,281 @@
+{
+  "code": "EPCE-5025",
+  "url": "/release/detail/EPCE-5025/",
+  "source": "upfront",
+  "title": "セカンドモーニング",
+  "category": "CDアルバム",
+  "artist": "モーニング娘。",
+  "releaseDate": "1999/07/28",
+  "label": "zetima",
+  "images": [
+    "/images/e2b3fa34255419af99422daba17909de8854fa5f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/e2b3fa34255419af99422daba17909de8854fa5f.jpg",
+      "price": "￥3,204 (税抜価格 ￥2,913)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5025",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "NIGHT OF TOKYO CITY",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 2,
+              "title": "真夏の光線(Vacation Mix)",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野 伸"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Memory 青春の光",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 4,
+              "title": "好きで×5",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ふるさと",
+              "duration": "05:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 6,
+              "title": "抱いてHOLD ON ME!(N.Y.Mix)",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 7,
+              "title": "パパに似ている彼",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 8,
+              "title": "せんこう花火",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 9,
+              "title": "恋の始発列車(Album Version)",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 10,
+              "title": "乙女の心理学",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野 伸"
+              }
+            },
+            {
+              "index": 11,
+              "title": "Never Forget(Large Vocal Mix)",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 12,
+              "title": "ダディドゥデドダディ！",
+              "duration": "05:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": null,
+      "price": "￥3,204 (税抜価格 ￥2,913)",
+      "discs": [
+        {
+          "type": "CDMD",
+          "catalogNo": "EPYE-5025",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "NIGHT OF TOKYO CITY",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 2,
+              "title": "真夏の光線(Vacation Mix)",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野 伸"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Memory 青春の光",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 4,
+              "title": "好きで×5",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ふるさと",
+              "duration": "05:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 6,
+              "title": "抱いてHOLD ON ME!(N.Y.Mix)",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 7,
+              "title": "パパに似ている彼",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 8,
+              "title": "せんこう花火",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 9,
+              "title": "恋の始発列車(Album Version)",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 10,
+              "title": "乙女の心理学",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野 伸"
+              }
+            },
+            {
+              "index": 11,
+              "title": "Never Forget(Large Vocal Mix)",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 12,
+              "title": "ダディドゥデドダディ！",
+              "duration": "05:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

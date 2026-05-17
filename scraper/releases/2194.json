@@ -1,0 +1,26 @@
+{
+  "id": 2194,
+  "url": "/release/2194/",
+  "title": "ホワイト",
+  "category": "DVD",
+  "artist": "徳永千奈美",
+  "releaseDate": "2013.9.7",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/b346754bc8cbcaac6177b3458b66d381746adb53.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [],
+          "catalogNo": "UFBW-2087"
+        }
+      ]
+    }
+  ]
+}

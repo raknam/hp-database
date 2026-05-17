@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5118",
+  "url": "/release/detail/EPCE-5118/",
+  "source": "upfront",
+  "title": "溢れちゃう．．．BE IN LOVE",
+  "category": "CDシングル",
+  "artist": "後藤真希",
+  "releaseDate": "2001/09/19",
+  "label": "zetima",
+  "images": [
+    "/images/a27d54982961641f869cdd1a340378ece6459f7b.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/a27d54982961641f869cdd1a340378ece6459f7b.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5118",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "溢れちゃう．．．BE IN LOVE",
+              "duration": "03:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "LIKE A GAME",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 3,
+              "title": "溢れちゃう．．．BE IN LOVE(Instrumental)",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": 5127,
+  "url": "/release/5127/",
+  "title": "Greeting〜野村みな美・田口夏実〜",
+  "category": "BD",
+  "artist": "野村みな美/田口夏実",
+  "releaseDate": "2017.1.26",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/92a94105ae25287f2e25d45f17ae2caed1aa9d24.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Summer School",
+              "duration": "16:21",
+              "credits": {
+                "出演": "野村みな美・田口夏実(こぶしファクトリー)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Summer Beach",
+              "duration": "12:38",
+              "credits": {
+                "出演": "野村みな美・田口夏実(こぶしファクトリー)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Interveiw",
+              "duration": "26:54",
+              "credits": {
+                "出演": "野村みな美・田口夏実(こぶしファクトリー)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "My Garden",
+              "duration": "09:52",
+              "credits": {
+                "出演": "野村みな美・田口夏実(こぶしファクトリー)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Making",
+              "duration": "07:32",
+              "credits": {
+                "出演": "野村みな美・田口夏実(こぶしファクトリー)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "02:42",
+              "credits": {
+                "出演": "野村みな美・田口夏実(こぶしファクトリー)"
+              }
+            }
+          ],
+          "catalogNo": "UFXW-2017"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": 3331,
+  "url": "/release/3331/",
+  "title": "シングルVクリップス①",
+  "category": "DVD",
+  "artist": "プッチモニ",
+  "releaseDate": "2004.6.16",
+  "label": "zetima",
+  "images": [
+    "/upload/images/ec8d1028ef7ca528122904152b76b64d24afd513.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ちょこっとLOVE",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "プッチモニ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青春時代 1.2.3！",
+              "duration": "05:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "プッチモニ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "BABY! 恋に KNOCK OUT!",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "プッチモニ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ぴったりしたいX'mas!",
+              "duration": "04:05",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "プッチモニ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "青春時代 1.2.3！",
+              "duration": "05:29",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "プッチモニ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "BABY! 恋に KNOCK OUT!",
+              "duration": "04:10",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "プッチモニ"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ぴったりしたいX'mas!",
+              "duration": "03:38",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "プッチモニ"
+              }
+            },
+            {
+              "index": 8,
+              "title": "＜TVーCM集＞",
+              "duration": "01:05",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "プッチモニ"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5128"
+        }
+      ]
+    }
+  ]
+}

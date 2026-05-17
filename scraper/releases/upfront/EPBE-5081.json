@@ -1,0 +1,85 @@
+{
+  "code": "EPBE-5081",
+  "url": "/release/detail/EPBE-5081/",
+  "source": "upfront",
+  "title": "シングルV「壊れない愛がほしいの・GET UP！ラッパー・BE ALL RIGHT！」",
+  "category": "DVDシングルV",
+  "artist": "7AIR･SALT5･11WATER",
+  "releaseDate": "2003/07/09",
+  "label": "zetima",
+  "images": [
+    "/images/d724f13b859ce49e27f6b1036dedfd35e545c7aa.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d724f13b859ce49e27f6b1036dedfd35e545c7aa.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5081",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "壊れない愛がほしいの",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "GET UP!ラッパー",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 3,
+              "title": "BE ALL RIGHT!",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 4,
+              "title": "メイキング＆コメント",
+              "duration": "09:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "メイキング＆コメント",
+              "duration": "09:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "メイキング＆コメント",
+              "duration": "10:08",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

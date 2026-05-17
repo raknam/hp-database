@@ -1,0 +1,259 @@
+{
+  "id": 2535,
+  "url": "/release/2535/",
+  "title": "NEXT MY SELF",
+  "category": "CDシングル",
+  "artist": "真野恵里菜",
+  "releaseDate": "2012.12.12",
+  "label": "hachama",
+  "images": [
+    "/upload/images/2c123025b544cfc73e3473c0206cfb306101e648.webp",
+    "/upload/images/9d944b8f91c1ee9de80c02312ab4e51199fe2a28.webp",
+    "/upload/images/baa0dcba34826e79d2bf6457eb369f28f7546b00.webp",
+    "/upload/images/4258cf334808bcb7b44a5f9054211c7218a1dae4.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/2c123025b544cfc73e3473c0206cfb306101e648.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "NEXT MY SELF",
+              "duration": "04:51",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO",
+                "編曲": "鈴木俊介",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青春 レインボウ",
+              "duration": "03:28",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "MIKOTO",
+                "編曲": "木之下慶行",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "NEXT MY SELF",
+              "duration": "04:51",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO",
+                "編曲": "鈴木俊介",
+                "歌": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50264"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "NEXT MY SELF",
+              "duration": "04:52",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO",
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "NEXT MY SELF",
+              "duration": "05:02",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO",
+                "出演": "真野恵里菜"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付き"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/9d944b8f91c1ee9de80c02312ab4e51199fe2a28.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "NEXT MY SELF",
+              "duration": "04:51",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO",
+                "編曲": "鈴木俊介",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青春 レインボウ",
+              "duration": "03:28",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "MIKOTO",
+                "編曲": "木之下慶行",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "NEXT MY SELF",
+              "duration": "04:51",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO",
+                "編曲": "鈴木俊介",
+                "歌": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50266"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "NEXT MY SELF",
+              "duration": "04:52",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO",
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "NEXT MY SELF",
+              "duration": "11:57",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付き"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/baa0dcba34826e79d2bf6457eb369f28f7546b00.webp",
+      "price": "￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "NEXT MY SELF",
+              "duration": "04:51",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO",
+                "編曲": "鈴木俊介",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青春 レインボウ",
+              "duration": "03:28",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "MIKOTO",
+                "編曲": "木之下慶行",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "NEXT MY SELF",
+              "duration": "04:51",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO",
+                "編曲": "鈴木俊介",
+                "歌": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50268"
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/4258cf334808bcb7b44a5f9054211c7218a1dae4.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "NEXT MY SELF",
+              "duration": "04:51",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO",
+                "編曲": "鈴木俊介",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青春 レインボウ",
+              "duration": "03:28",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "MIKOTO",
+                "編曲": "木之下慶行",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "NEXT MY SELF",
+              "duration": "04:51",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "MIKOTO",
+                "作曲": "MIKOTO",
+                "編曲": "鈴木俊介",
+                "歌": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50269"
+        }
+      ]
+    }
+  ]
+}

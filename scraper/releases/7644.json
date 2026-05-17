@@ -1,0 +1,38 @@
+{
+  "id": 7644,
+  "url": "/release/7644/",
+  "title": "ワッチャ☆フューチャー",
+  "category": "配信",
+  "artist": "DECA！BEAT",
+  "releaseDate": "2026.3.11",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/4389e593bee11c8cb8530a618c71c619333e1799.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ワッチャ☆フューチャー",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘",
+                "歌": "DECA！BEAT"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1581"
+        }
+      ]
+    }
+  ]
+}

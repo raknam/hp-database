@@ -1,0 +1,58 @@
+{
+  "code": "UFBW-2089",
+  "url": "/release/detail/UFBW-2089/",
+  "source": "upfront",
+  "title": "sweet kana",
+  "category": "DVD",
+  "artist": "中西香菜",
+  "releaseDate": "2013/10/03",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/292929ba1ad2e620aed7a5fb2879a6a81b719891.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/292929ba1ad2e620aed7a5fb2879a6a81b719891.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2089",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "00:43"
+            },
+            {
+              "index": 2,
+              "title": "A balmy breeze",
+              "duration": "14:25"
+            },
+            {
+              "index": 3,
+              "title": "A little break",
+              "duration": "14:32"
+            },
+            {
+              "index": 4,
+              "title": "Rainy days",
+              "duration": "14:23"
+            },
+            {
+              "index": 5,
+              "title": "Making movie",
+              "duration": "07:22"
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "01:10"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

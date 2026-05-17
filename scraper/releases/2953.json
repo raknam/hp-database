@@ -1,0 +1,61 @@
+{
+  "id": 2953,
+  "url": "/release/2953/",
+  "title": "ロックンロール県庁所在地～おぼえちゃいなシリーズ～",
+  "category": "CDシングル",
+  "artist": "ミニモニ｡",
+  "releaseDate": "2003.4.9",
+  "label": "zetima",
+  "images": [
+    "/upload/images/f597b2f21efdabcaf622c63f806e5c4ff1f27aca.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ロックンロール県庁所在地～おぼえちゃいなシリーズ～",
+              "duration": "02:36",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "森高千里",
+                "編曲": "高橋諭一",
+                "歌": "ミニモニ。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "おしゃべりすきやねん",
+              "duration": "03:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "ミニモニ。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ロックンロール県庁所在地～おぼえちゃいなシリーズ～",
+              "duration": "02:39",
+              "suffix": "(オリジナル・カラオケ)",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "森高千里",
+                "編曲": "高橋諭一",
+                "歌": "ミニモニ。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5207"
+        }
+      ]
+    }
+  ]
+}

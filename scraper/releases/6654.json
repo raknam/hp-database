@@ -1,0 +1,37 @@
+{
+  "id": 6654,
+  "url": "/release/6654/",
+  "title": "あなたを想う帰り道",
+  "category": "配信",
+  "artist": "金澤朋子",
+  "releaseDate": "2021.11.25",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/d553cb3f98a22bb2cd47ebdad35d4248df5f6c74.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "あなたを想う帰り道",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "歌": "金澤朋子(Juice=Juice)"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1488"
+        }
+      ]
+    }
+  ]
+}

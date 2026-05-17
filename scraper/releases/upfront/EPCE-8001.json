@@ -1,0 +1,91 @@
+{
+  "code": "EPCE-8001",
+  "url": "/release/detail/EPCE-8001/",
+  "source": "upfront",
+  "title": "Don't Vanish Love",
+  "category": "CDシングル",
+  "artist": "Emyli",
+  "releaseDate": "2006/10/25",
+  "label": "Seventh Code",
+  "images": [
+    "/images/f816cf296fab94aaa5fb214183144135c0b89b75.jpg",
+    "/images/f816cf296fab94aaa5fb214183144135c0b89b75.jpg"
+  ],
+  "editions": [
+    {
+      "name": "初回生産限定盤(DVD付き)",
+      "image": "/images/f816cf296fab94aaa5fb214183144135c0b89b75.jpg",
+      "price": "￥1,430 (税抜価格 ￥1,300)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-8001",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Don't Vanish Love",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "Emyli",
+                "作曲": "YukohK",
+                "編曲": "川端良征"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Far, Far Away",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "Emyli",
+                "作曲": "Emyli",
+                "編曲": "中西亮輔"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Don't Vanish Love(Instrumental)",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "Emyli",
+                "作曲": "YukohK",
+                "編曲": "川端良征"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Far, Far Away(Instrumental)",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "Emyli",
+                "作曲": "Emyli",
+                "編曲": "中西亮輔"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/images/f816cf296fab94aaa5fb214183144135c0b89b75.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-8003",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Don't Vanish Love",
+              "duration": "05:35",
+              "credits": {
+                "作詞": "Emyli",
+                "作曲": "YukohK"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

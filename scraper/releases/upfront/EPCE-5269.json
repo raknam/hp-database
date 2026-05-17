@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-5269",
+  "url": "/release/detail/EPCE-5269/",
+  "source": "upfront",
+  "title": "最初の扉",
+  "category": "CDシングル",
+  "artist": "犬神サーカス団",
+  "releaseDate": "2004/04/14",
+  "label": "zetima",
+  "images": [
+    "/images/1c6e2ddcb78b7dfd084c9700a2c7ca3590b89972.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/1c6e2ddcb78b7dfd084c9700a2c7ca3590b89972.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5269",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "最初の扉",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "犬神明",
+                "作曲": "犬神明",
+                "編曲": "犬神サーカス団/岩戸崇"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋の炎",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "犬神明",
+                "作曲": "西田昌史",
+                "編曲": "犬神サーカス団"
+              }
+            },
+            {
+              "index": 3,
+              "title": "退化",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "犬神明",
+                "作曲": "犬神明",
+                "編曲": "犬神サーカス団"
+              }
+            },
+            {
+              "index": 4,
+              "title": "三つの扉",
+              "duration": "12:18",
+              "credits": {
+                "作詞": "犬神明",
+                "作曲": "犬神明",
+                "編曲": "犬神サーカス団"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

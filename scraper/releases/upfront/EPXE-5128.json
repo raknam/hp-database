@@ -1,0 +1,63 @@
+{
+  "code": "EPXE-5128",
+  "url": "/release/detail/EPXE-5128/",
+  "source": "upfront",
+  "title": "Blanc",
+  "category": "BD",
+  "artist": "牧野真莉愛",
+  "releaseDate": "2018/03/07",
+  "label": "zetima",
+  "images": [
+    "/images/f3d997e0f5c13ee7ef50136f96f6ab9342cb59fb.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f3d997e0f5c13ee7ef50136f96f6ab9342cb59fb.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5128",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Foggy Forest",
+              "duration": "04:29"
+            },
+            {
+              "index": 2,
+              "title": "Hidden Cave",
+              "duration": "04:15"
+            },
+            {
+              "index": 3,
+              "title": "The Beach",
+              "duration": "17:16"
+            },
+            {
+              "index": 4,
+              "title": "Walking in the Sunset",
+              "duration": "05:21"
+            },
+            {
+              "index": 5,
+              "title": "The Woods",
+              "duration": "01:56"
+            },
+            {
+              "index": 6,
+              "title": "The Making of 『マリア17歳』",
+              "duration": "22:28"
+            },
+            {
+              "index": 7,
+              "title": "Ending",
+              "duration": "01:24"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

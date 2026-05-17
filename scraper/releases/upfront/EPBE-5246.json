@@ -1,0 +1,73 @@
+{
+  "code": "EPBE-5246",
+  "url": "/release/detail/EPBE-5246/",
+  "source": "upfront",
+  "title": "メロン記念日シングルVクリップス③",
+  "category": "DVD",
+  "artist": "メロン記念日",
+  "releaseDate": "2007/05/09",
+  "label": "zetima",
+  "images": [
+    "/images/37a2516af21ba921765c9f0e192eabc8c10878fd.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/37a2516af21ba921765c9f0e192eabc8c10878fd.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5246",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "涙の太陽",
+              "duration": "02:51",
+              "credits": {
+                "作詞": "助川和子",
+                "作曲": "中島安敏"
+              }
+            },
+            {
+              "index": 2,
+              "title": "シャンパンの恋",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "今井千尋"
+              }
+            },
+            {
+              "index": 3,
+              "title": "肉体は正直なEROS",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "お願い魅惑のターゲット",
+              "duration": "05:08",
+              "credits": {
+                "作詞": "上田ケンジ",
+                "作曲": "田中秀典"
+              }
+            },
+            {
+              "index": 5,
+              "title": "アンフォゲッタブル",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "海野真司",
+                "作曲": "上野浩司"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

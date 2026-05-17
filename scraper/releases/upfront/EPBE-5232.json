@@ -1,0 +1,38 @@
+{
+  "code": "EPBE-5232",
+  "url": "/release/detail/EPBE-5232/",
+  "source": "upfront",
+  "title": "ハロプロアワー Vol.8",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2007/03/07",
+  "label": "zetima",
+  "images": [
+    "/images/fbe22de2f7cb5117e0d1f979f1c44b220067ff0e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/fbe22de2f7cb5117e0d1f979f1c44b220067ff0e.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5232",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "♯17",
+              "duration": "27:45"
+            },
+            {
+              "index": 2,
+              "title": "♯18",
+              "duration": "29:17"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

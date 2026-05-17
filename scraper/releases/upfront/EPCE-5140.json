@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-5140",
+  "url": "/release/detail/EPCE-5140/",
+  "source": "upfront",
+  "title": "ミニモニ。ひなまつり！/ミニ。ストロベリ～パイ",
+  "category": "CDシングル",
+  "artist": "ミニモニ｡",
+  "releaseDate": "2002/01/30",
+  "label": "zetima",
+  "images": [
+    "/images/fddeab3ca8b05df3b7f53d2fca68384448f797b4.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/fddeab3ca8b05df3b7f53d2fca68384448f797b4.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5140",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ミニモニ。ひなまつり！",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ミニ。ストロベリ～パイ",
+              "duration": "03:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "酒井ミキオ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ミニモニ。ひなまつり！(オリジナル・カラオケ)",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ミニ。ストロベリ～パイ(オリジナル・カラオケ)",
+              "duration": "03:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "酒井ミキオ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

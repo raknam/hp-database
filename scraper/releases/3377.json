@@ -1,0 +1,107 @@
+{
+  "id": 3377,
+  "url": "/release/3377/",
+  "title": "“亀井絵里写真集「えりりん」”メイキングDVD〜特別編集版〜",
+  "category": "DVD",
+  "artist": "亀井絵里",
+  "releaseDate": "2010.11.22",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/resources/images/foundation/release-placeholder.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "00:17",
+              "credits": {
+                "出演": "亀井絵里"
+              }
+            },
+            {
+              "index": 2,
+              "title": "プール",
+              "duration": "04:08",
+              "credits": {
+                "出演": "亀井絵里"
+              }
+            },
+            {
+              "index": 3,
+              "title": "キャンパス",
+              "duration": "08:11",
+              "credits": {
+                "出演": "亀井絵里"
+              }
+            },
+            {
+              "index": 4,
+              "title": "テニス",
+              "duration": "04:42",
+              "credits": {
+                "出演": "亀井絵里"
+              }
+            },
+            {
+              "index": 5,
+              "title": "エクササイズ",
+              "duration": "00:54",
+              "credits": {
+                "出演": "亀井絵里"
+              }
+            },
+            {
+              "index": 6,
+              "title": "就職活動",
+              "duration": "03:16",
+              "credits": {
+                "出演": "亀井絵里"
+              }
+            },
+            {
+              "index": 7,
+              "title": "カラオケ",
+              "duration": "03:50",
+              "credits": {
+                "出演": "亀井絵里"
+              }
+            },
+            {
+              "index": 8,
+              "title": "アルバイト",
+              "duration": "05:15",
+              "credits": {
+                "出演": "亀井絵里"
+              }
+            },
+            {
+              "index": 9,
+              "title": "合宿",
+              "duration": "13:18",
+              "credits": {
+                "出演": "亀井絵里"
+              }
+            },
+            {
+              "index": 10,
+              "title": "ビーチ",
+              "duration": "11:00",
+              "credits": {
+                "出演": "亀井絵里"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-2013"
+        }
+      ]
+    }
+  ]
+}

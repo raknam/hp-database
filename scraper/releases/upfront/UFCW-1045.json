@@ -1,0 +1,68 @@
+{
+  "code": "UFCW-1045",
+  "url": "/release/detail/UFCW-1045/",
+  "source": "upfront",
+  "title": "Boys be ambitious !/フォレフォレ 〜Forest For Rest〜",
+  "category": "CDシングル",
+  "artist": "GREENFIELDS／DIY",
+  "releaseDate": "2012/11/07",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/ee359c37cb98668ba82846842e886eda279b0b1c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/ee359c37cb98668ba82846842e886eda279b0b1c.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "UFCW-1045",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Boys be ambitious !",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "牧穂エミ",
+                "作曲": "はたけ",
+                "編曲": "はたけ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "フォレフォレ 〜Forest For Rest〜",
+              "duration": "03:41",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "MEG.ME",
+                "編曲": "生田真心"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Boys be ambitious !(Instrumental)",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "牧穂エミ",
+                "作曲": "はたけ",
+                "編曲": "はたけ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "フォレフォレ 〜Forest For Rest〜(Instrumental)",
+              "duration": "03:03",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "MEG.ME",
+                "編曲": "生田真心"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

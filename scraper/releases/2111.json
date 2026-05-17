@@ -1,0 +1,51 @@
+{
+  "id": 2111,
+  "url": "/release/2111/",
+  "title": "ハロー!SATOYAMAライフ Vol.15",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2013.10.9",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/13a4b41dc295bd24310d624d37303c94b8925750.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "雪の畑で野菜を収穫しよう！",
+              "duration": "22:48",
+              "credits": {
+                "出演": "矢島舞美・中島早貴(℃-ute)/宮崎由加(Juice=Juice)/光井愛佳"
+              }
+            },
+            {
+              "index": 2,
+              "title": "大根のプリン作りにチャレンジ！",
+              "duration": "15:35",
+              "credits": {
+                "出演": "矢島舞美・中島早貴(℃-ute)/宮崎由加(Juice=Juice)/光井愛佳"
+              }
+            },
+            {
+              "index": 3,
+              "title": "蔵民宿にお泊まり！",
+              "duration": "32:19",
+              "credits": {
+                "出演": "矢島舞美・中島早貴(℃-ute)/宮崎由加(Juice=Juice)/光井愛佳"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1278"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": 3863,
+  "url": "/release/3863/",
+  "title": "お前の涙を俺にくれ",
+  "category": "カセットテープシングル",
+  "artist": "前田有紀",
+  "releaseDate": "2006.7.26",
+  "label": "ライスミュージック",
+  "images": [
+    "/resources/images/foundation/release-placeholder.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CASSETTE",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "お前の涙を俺にくれ",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "星野哲郎",
+                "作曲": "榊薫人",
+                "編曲": "南郷達也",
+                "歌": "前田有紀"
+              }
+            },
+            {
+              "index": 2,
+              "title": "風海峡",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "峰崎林二郎",
+                "作曲": "榊薫人",
+                "編曲": "南郷達也",
+                "歌": "前田有紀"
+              }
+            },
+            {
+              "index": 3,
+              "title": "お前の涙を俺にくれ",
+              "duration": "04:45",
+              "suffix": "(オリジナル・カラオケ)",
+              "credits": {
+                "作詞": "星野哲郎",
+                "作曲": "榊薫人",
+                "編曲": "南郷達也",
+                "歌": "前田有紀"
+              }
+            },
+            {
+              "index": 4,
+              "title": "風海峡",
+              "duration": "04:49",
+              "suffix": "(オリジナル・カラオケ)",
+              "credits": {
+                "作詞": "峰崎林二郎",
+                "作曲": "榊薫人",
+                "編曲": "南郷達也",
+                "歌": "前田有紀"
+              }
+            }
+          ],
+          "catalogNo": "PKSP-2023"
+        }
+      ]
+    }
+  ]
+}

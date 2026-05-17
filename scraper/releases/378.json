@@ -1,0 +1,43 @@
+{
+  "id": 378,
+  "url": "/release/378/",
+  "title": "ハロプロアワー Vol.8",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2007.3.7",
+  "label": "zetima",
+  "images": [
+    "/upload/images/fbe22de2f7cb5117e0d1f979f1c44b220067ff0e.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "♯17",
+              "duration": "27:45",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "♯18",
+              "duration": "29:17",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5232"
+        }
+      ]
+    }
+  ]
+}

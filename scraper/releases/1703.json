@@ -1,0 +1,62 @@
+{
+  "id": 1703,
+  "url": "/release/1703/",
+  "title": "シングルV「みんなのたまご」",
+  "category": "DVD",
+  "artist": "しゅごキャラエッグ！",
+  "releaseDate": "2009.1.21",
+  "label": "ポニーキャニオン",
+  "images": [
+    "/upload/images/6c67455aabb10ef5943193f7a2c16c5a3b3a9e70.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "みんなのたまご",
+              "duration": "00:00",
+              "suffix": "(Music Clip)",
+              "credits": {
+                "出演": "しゅごキャラエッグ！"
+              }
+            },
+            {
+              "index": 2,
+              "title": "みんなのたまご",
+              "duration": "00:00",
+              "suffix": "(Close Up Version)",
+              "credits": {
+                "出演": "しゅごキャラエッグ！"
+              }
+            },
+            {
+              "index": 3,
+              "title": "みんなのたまご",
+              "duration": "00:00",
+              "suffix": "(Dance Shot Version)",
+              "credits": {
+                "出演": "しゅごキャラエッグ！"
+              }
+            },
+            {
+              "index": 4,
+              "title": "PV・ジャケット撮影メイキング Part.2",
+              "duration": "00:00",
+              "credits": {
+                "出演": "しゅごキャラエッグ！"
+              }
+            }
+          ],
+          "catalogNo": "PCBP-51925"
+        }
+      ]
+    }
+  ]
+}

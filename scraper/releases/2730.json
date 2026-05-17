@@ -1,0 +1,61 @@
+{
+  "id": 2730,
+  "url": "/release/2730/",
+  "title": "The 美学",
+  "category": "CDシングル",
+  "artist": "松浦亜弥",
+  "releaseDate": "2002.9.19",
+  "label": "zetima",
+  "images": [
+    "/upload/images/32b4f84e730e2b6378f2b91a4d28502526f6ef6b.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "The 美学",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "松浦亜弥"
+              }
+            },
+            {
+              "index": 2,
+              "title": "I know",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野伸",
+                "歌": "松浦亜弥"
+              }
+            },
+            {
+              "index": 3,
+              "title": "The 美学",
+              "duration": "04:04",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "松浦亜弥"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5176"
+        }
+      ]
+    }
+  ]
+}

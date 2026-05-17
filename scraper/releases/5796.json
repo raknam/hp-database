@@ -1,0 +1,83 @@
+{
+  "id": 5796,
+  "url": "/release/5796/",
+  "title": "One day",
+  "category": "BD",
+  "artist": "譜久村聖",
+  "releaseDate": "2018.12.5",
+  "label": "zetima",
+  "images": [
+    "/upload/images/d4dc6250cb130b8db2414d728483474df744dcf7.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "One day",
+              "duration": "02:42",
+              "credits": {
+                "出演": "譜久村聖"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Late morning",
+              "duration": "14:54",
+              "credits": {
+                "出演": "譜久村聖"
+              }
+            },
+            {
+              "index": 3,
+              "title": "My garden pool",
+              "duration": "08:36",
+              "credits": {
+                "出演": "譜久村聖"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Feel the wind",
+              "duration": "14:48",
+              "credits": {
+                "出演": "譜久村聖"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Night pool",
+              "duration": "10:15",
+              "credits": {
+                "出演": "譜久村聖"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Making of 「Makana」",
+              "duration": "07:13",
+              "credits": {
+                "出演": "譜久村聖"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Ending",
+              "duration": "02:06",
+              "credits": {
+                "出演": "譜久村聖"
+              }
+            }
+          ],
+          "catalogNo": "EPXE-5145"
+        }
+      ]
+    }
+  ]
+}

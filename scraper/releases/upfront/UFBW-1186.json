@@ -1,0 +1,48 @@
+{
+  "code": "UFBW-1186",
+  "url": "/release/detail/UFBW-1186/",
+  "source": "upfront",
+  "title": "ハロプロ！TIME Vol.17",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012/09/07",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/90b2e19cf04b439819eefde85add344c9af9c7e2.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/90b2e19cf04b439819eefde85add344c9af9c7e2.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1186",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "9期TIME4人初めての女子会",
+              "duration": "07:32"
+            },
+            {
+              "index": 2,
+              "title": "9期TIME卒業する新垣へ サプライズプレゼント",
+              "duration": "16:55"
+            },
+            {
+              "index": 3,
+              "title": "モーニング娘。TIME勝つのはどっち！？9期vs10期",
+              "duration": "21:58"
+            },
+            {
+              "index": 4,
+              "title": "モーニング娘。TIME勝つのはどっち！？9期vs10期②",
+              "duration": "24:58"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

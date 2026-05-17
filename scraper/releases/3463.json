@@ -1,0 +1,83 @@
+{
+  "id": 3463,
+  "url": "/release/3463/",
+  "title": "フィギュア",
+  "category": "DVD",
+  "artist": "高橋愛",
+  "releaseDate": "2010.6.2",
+  "label": "zetima",
+  "images": [
+    "/upload/images/a43db84e2698e009d59e051baee7c240181b9417.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "00:33",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            },
+            {
+              "index": 2,
+              "title": "A girl at cafe",
+              "duration": "02:59",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Date with her",
+              "duration": "07:22",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Billiards",
+              "duration": "04:34",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            },
+            {
+              "index": 5,
+              "title": "To the beach",
+              "duration": "08:59",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Making of 『形』",
+              "duration": "25:11",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Ending",
+              "duration": "04:50",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5377"
+        }
+      ]
+    }
+  ]
+}

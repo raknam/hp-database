@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1518",
+  "url": "/release/detail/UFDL-1518/",
+  "source": "upfront",
+  "title": "You're My Friend feat.KIKI",
+  "category": "配信",
+  "artist": "浅倉樹々",
+  "releaseDate": "2023/04/03",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/07d256665c4a0ce1ea904aa1063cd3122fb30f16.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/07d256665c4a0ce1ea904aa1063cd3122fb30f16.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1518",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "You're My Friend feat.KIKI",
+              "duration": "05:56",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "AKIRASTAR",
+                "編曲": "荒幡亮平"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

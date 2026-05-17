@@ -1,0 +1,78 @@
+{
+  "code": "UFBW-1380",
+  "url": "/release/detail/UFBW-1380/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.1",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2014/09/03",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/269a2037c85bf33f93f142c1a44bdbf61ca7954e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/269a2037c85bf33f93f142c1a44bdbf61ca7954e.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1380",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "イジワルしないで 抱きしめてよ【名物企画 衣装コーディネート】",
+              "duration": "11:04"
+            },
+            {
+              "index": 2,
+              "title": "What is LOVE?【名物企画 衣装コーディネート】",
+              "duration": "08:25"
+            },
+            {
+              "index": 3,
+              "title": "都会の一人暮らし【名物企画 衣装コーディネート】",
+              "duration": "11:22"
+            },
+            {
+              "index": 4,
+              "title": "アジアン セレブレイション【名物企画 衣装コーディネート】",
+              "duration": "09:48"
+            },
+            {
+              "index": 5,
+              "title": "旅立ちの春が来た【名物企画 衣装コーディネート】",
+              "duration": "09:51"
+            },
+            {
+              "index": 6,
+              "title": "笑顔の君は太陽さ【スタジオライブ集】",
+              "duration": "04:41"
+            },
+            {
+              "index": 7,
+              "title": "君の代わりは居やしない【スタジオライブ集】",
+              "duration": "04:31"
+            },
+            {
+              "index": 8,
+              "title": "大人なのよ！【スタジオライブ集】",
+              "duration": "04:55"
+            },
+            {
+              "index": 9,
+              "title": "ロマンスの途中【スタジオライブ集】",
+              "duration": "04:59"
+            },
+            {
+              "index": 10,
+              "title": "Hello! Project 2014 WINTER @中野サンプラザ",
+              "duration": "06:30"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

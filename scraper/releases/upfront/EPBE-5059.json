@@ -1,0 +1,38 @@
+{
+  "code": "EPBE-5059",
+  "url": "/release/detail/EPBE-5059/",
+  "source": "upfront",
+  "title": "シングルV「モーニング娘。のひょっこりひょうたん島」",
+  "category": "DVDシングルV",
+  "artist": "モーニング娘。",
+  "releaseDate": "2003/02/19",
+  "label": "zetima",
+  "images": [
+    "/images/4e41585ecf90963e08b7bb4461c34931d293b7bd.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/4e41585ecf90963e08b7bb4461c34931d293b7bd.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5059",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "タイトル",
+              "duration": "03:57"
+            },
+            {
+              "index": 2,
+              "title": "メイキング映像",
+              "duration": "05:19"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

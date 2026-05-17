@@ -1,0 +1,53 @@
+{
+  "code": "EPBE-5452",
+  "url": "/release/detail/EPBE-5452/",
+  "source": "upfront",
+  "title": "HARUKA",
+  "category": "DVD",
+  "artist": "工藤遥",
+  "releaseDate": "2012/11/07",
+  "label": "zetima",
+  "images": [
+    "/images/d82d1ad45a220542f2430f748793bde2d414d70a.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d82d1ad45a220542f2430f748793bde2d414d70a.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5452",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Urban sky",
+              "duration": "09:28"
+            },
+            {
+              "index": 2,
+              "title": "Splash water",
+              "duration": "08:01"
+            },
+            {
+              "index": 3,
+              "title": "House with Garden",
+              "duration": "20:26"
+            },
+            {
+              "index": 4,
+              "title": "Making of 「Do」",
+              "duration": "15:32"
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "02:57"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

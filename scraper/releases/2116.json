@@ -1,0 +1,75 @@
+{
+  "id": 2116,
+  "url": "/release/2116/",
+  "title": "ハロー!SATOYAMAライフ Vol.17",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2013.11.8",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/48b8b01e8e053f8672b06aadd6d77d37b2ed63db.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "SATOYAMAへ行こう 企画ミーティング",
+              "duration": "10:47",
+              "credits": {
+                "出演": "道重さゆみ・鞘師里保・飯窪春菜・石田亜佑美(モーニング娘。)/清水佐紀・嗣永桃子・徳永千奈美・須藤茉麻(Berryz工房)/矢島舞美・中島早貴(℃-ute)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "SATOYAMAへ行こう 水耕栽培を用意しよう",
+              "duration": "05:21",
+              "credits": {
+                "出演": "宮崎由加(Juice=Juice)/光井愛佳"
+              }
+            },
+            {
+              "index": 3,
+              "title": "SATOYAMAへ行こう 桃の木を用意しよう",
+              "duration": "01:51",
+              "credits": {
+                "出演": "譜久村聖・飯窪春菜・石田亜佑美(モーニング娘。)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "SATOYAMAへ行こう 大豆でコラボ商品を作ろう",
+              "duration": "20:42",
+              "credits": {
+                "出演": "譜久村聖・飯窪春菜・石田亜佑美(モーニング娘。)/和田彩花・福田花音(スマイレージ)/ピーベリー/GREEN FIELDS/ハーベスト/DIY♡"
+              }
+            },
+            {
+              "index": 5,
+              "title": "SATOYAMAへ行こう 会場準備をしよう",
+              "duration": "05:14",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 6,
+              "title": "SATOYAMAへ行こう＆ひな祭りフェスティバル2013前夜祭",
+              "duration": "30:53",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1308"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,837 @@
+{
+  "id": 6737,
+  "url": "/release/6737/",
+  "title": "Hello! Project Year-End Party 2021 ～GOOD BYE & HELLO ! ～",
+  "category": "BD",
+  "artist": "V.A.",
+  "releaseDate": "2022.6.22",
+  "label": "zetima",
+  "images": [
+    "/upload/images/fffcdb2cc3986f60e44b9c4401f4726c1bbf8a2d.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:44",
+              "suffix": "【アンジュルム プレミアム】",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "限りあるMoment",
+              "duration": "04:46",
+              "suffix": "【アンジュルム プレミアム】",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "オオヤギヒロオ",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 3,
+              "title": "次々続々",
+              "duration": "04:57",
+              "suffix": "【アンジュルム プレミアム】",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "平田祥一郎",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "出すぎた杭は打たれない",
+              "duration": "04:27",
+              "suffix": "【アンジュルム プレミアム】",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "魚住有希",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 5,
+              "title": "MC",
+              "duration": "01:36",
+              "suffix": "【アンジュルム プレミアム】",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 6,
+              "title": "きみの登場",
+              "duration": "03:59",
+              "suffix": "【アンジュルム プレミアム】",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "出演": "ハロプロ研修生"
+              }
+            },
+            {
+              "index": 7,
+              "title": "MC",
+              "duration": "01:48",
+              "suffix": "【アンジュルム プレミアム】",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 8,
+              "title": "Go Your Way",
+              "duration": "04:24",
+              "suffix": "【アンジュルム プレミアム】",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "渡辺泰司",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 9,
+              "title": "MC",
+              "duration": "00:12",
+              "suffix": "【アンジュルム プレミアム】",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 10,
+              "title": "「良い奴」",
+              "duration": "04:39",
+              "suffix": "【アンジュルム プレミアム】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "勝田里奈・竹内朱莉"
+              }
+            },
+            {
+              "index": 11,
+              "title": "どうして僕らにはやる気がないのか(2021)",
+              "duration": "04:23",
+              "suffix": "【アンジュルム プレミアム】",
+              "credits": {
+                "作詞": "永井葉子",
+                "作曲": "田仲圭太",
+                "出演": "宮本佳林"
+              }
+            },
+            {
+              "index": 12,
+              "title": "MC",
+              "duration": "05:27",
+              "suffix": "【アンジュルム プレミアム】",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 13,
+              "title": "はっきりしようぜ",
+              "duration": "03:45",
+              "suffix": "【アンジュルム プレミアム】",
+              "credits": {
+                "作詞": "根本要",
+                "作曲": "根本要",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 14,
+              "title": "泳げないMermaid",
+              "duration": "04:04",
+              "suffix": "【アンジュルム プレミアム】",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 15,
+              "title": "大器晩成",
+              "duration": "04:29",
+              "suffix": "【アンジュルム プレミアム】",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 16,
+              "title": "MC",
+              "duration": "00:40",
+              "suffix": "【アンジュルム プレミアム】",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 17,
+              "title": "46億年LOVE",
+              "duration": "04:55",
+              "suffix": "【アンジュルム プレミアム】",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "林田健司",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 18,
+              "title": "OPENING",
+              "duration": "00:45",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 19,
+              "title": "眼鏡の男の子",
+              "duration": "04:50",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 20,
+              "title": "こんなハズジャナカッター！",
+              "duration": "04:26",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "作詞": "星部ショウ/野沢トオル",
+                "作曲": "星部ショウ",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 21,
+              "title": "三年バンジージャンプ",
+              "duration": "04:24",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 22,
+              "title": "MC",
+              "duration": "00:13",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 23,
+              "title": "友情 純情 oh 青春",
+              "duration": "03:39",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "須藤茉麻・夏焼雅・熊井友理奈"
+              }
+            },
+            {
+              "index": 24,
+              "title": "雨音はショパンの調べ",
+              "duration": "03:52",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "作詞": "GAZEBO/P.L.Gimbini/日本語詞：松任谷由実",
+                "作曲": "GAZEBO/P.L.Gimbini",
+                "出演": "小片リサ"
+              }
+            },
+            {
+              "index": 25,
+              "title": "MC",
+              "duration": "02:08",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 26,
+              "title": "激辛LOVE",
+              "duration": "03:32",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "作詞": "Barry Blue/Paul Greedus/日本語詞：星部ショウ",
+                "作曲": "Barry Blue/Paul Greedus",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 27,
+              "title": "Now Now Ningen",
+              "duration": "04:07",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 28,
+              "title": "フレフレ・エブリデイ",
+              "duration": "04:15",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 29,
+              "title": "MC",
+              "duration": "01:37",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 30,
+              "title": "伸びしろ～Beyond the World～",
+              "duration": "07:11",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 1,
+              "title": "ビートの惑星",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "出演": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 2,
+              "title": "46億年LOVE",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "林田健司",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "プラスティック・ラブ",
+              "duration": "04:44",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "約束・連絡・記念日",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "フレフレ・エブリデイ",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            }
+          ],
+          "catalogNo": "EPXE-5203"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:45",
+              "suffix": "【モーニング娘。'21 プレミアム】",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "よしよししてほしいの",
+              "duration": "03:59",
+              "suffix": "【モーニング娘。'21 プレミアム】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 3,
+              "title": "ギューされたいだけなのに",
+              "duration": "03:58",
+              "suffix": "【モーニング娘。'21 プレミアム】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "ビートの惑星",
+              "duration": "03:48",
+              "suffix": "【モーニング娘。'21 プレミアム】",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 5,
+              "title": "MC",
+              "duration": "01:38",
+              "suffix": "【モーニング娘。'21 プレミアム】",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 6,
+              "title": "色とりどり伸びよ！！",
+              "duration": "04:17",
+              "suffix": "【モーニング娘。'21 プレミアム】",
+              "credits": {
+                "作詞": "中村瑛彦",
+                "作曲": "中村瑛彦",
+                "出演": "ハロプロ研修生"
+              }
+            },
+            {
+              "index": 7,
+              "title": "MC",
+              "duration": "01:41",
+              "suffix": "【モーニング娘。'21 プレミアム】",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 8,
+              "title": "デート前夜狂想曲",
+              "duration": "03:05",
+              "suffix": "【モーニング娘。'21 プレミアム】",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/ha-j",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 9,
+              "title": "MC",
+              "duration": "00:11",
+              "suffix": "【モーニング娘。'21 プレミアム】",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 10,
+              "title": "夏DOKI リップスティック",
+              "duration": "03:09",
+              "suffix": "【モーニング娘。'21 プレミアム】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "矢島舞美"
+              }
+            },
+            {
+              "index": 11,
+              "title": "元気＋",
+              "duration": "04:11",
+              "suffix": "【モーニング娘。'21 プレミアム】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "田中れいな"
+              }
+            },
+            {
+              "index": 12,
+              "title": "MC",
+              "duration": "02:50",
+              "suffix": "【モーニング娘。'21 プレミアム】",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 13,
+              "title": "Only you",
+              "duration": "05:16",
+              "suffix": "【モーニング娘。'21 プレミアム】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 14,
+              "title": "Teenage Solution",
+              "duration": "04:27",
+              "suffix": "【モーニング娘。'21 プレミアム】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 15,
+              "title": "このまま！",
+              "duration": "04:03",
+              "suffix": "【モーニング娘。'21 プレミアム】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 16,
+              "title": "MC",
+              "duration": "03:12",
+              "suffix": "【モーニング娘。'21 プレミアム】",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 17,
+              "title": "ブラボー！",
+              "duration": "05:32",
+              "suffix": "【モーニング娘。'21 プレミアム】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 18,
+              "title": "OPENING",
+              "duration": "00:46",
+              "suffix": "【Juice=Juice プレミアム】",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 19,
+              "title": "Future Smile",
+              "duration": "03:12",
+              "suffix": "【Juice=Juice プレミアム】",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 20,
+              "title": "プラスティック・ラブ",
+              "duration": "04:40",
+              "suffix": "【Juice=Juice プレミアム】",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 21,
+              "title": "プラトニック・プラネット",
+              "duration": "04:09",
+              "suffix": "【Juice=Juice プレミアム】",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "炭竃智弘",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 22,
+              "title": "MC",
+              "duration": "00:14",
+              "suffix": "【Juice=Juice プレミアム】",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 23,
+              "title": "ハイビート気分",
+              "duration": "04:02",
+              "suffix": "【Juice=Juice プレミアム】",
+              "credits": {
+                "作詞": "唐沢美帆/TATSUNE",
+                "作曲": "原一博",
+                "出演": "鈴木愛理"
+              }
+            },
+            {
+              "index": 24,
+              "title": "氷点下",
+              "duration": "04:29",
+              "suffix": "【Juice=Juice プレミアム】",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "出演": "宮本佳林"
+              }
+            },
+            {
+              "index": 25,
+              "title": "MC",
+              "duration": "02:20",
+              "suffix": "【Juice=Juice プレミアム】",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 26,
+              "title": "Fiesta! Fiesta!",
+              "duration": "04:24",
+              "suffix": "【Juice=Juice プレミアム】",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "エリック・フクサキ",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 27,
+              "title": "Borderline",
+              "duration": "04:09",
+              "suffix": "【Juice=Juice プレミアム】",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 28,
+              "title": "Familia",
+              "duration": "03:44",
+              "suffix": "【Juice=Juice プレミアム】",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "Shusui/Shim Zeyun/tsubomi",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 29,
+              "title": "MC",
+              "duration": "02:17",
+              "suffix": "【Juice=Juice プレミアム】",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 30,
+              "title": "Goal～明日はあっちだよ～",
+              "duration": "06:21",
+              "suffix": "【Juice=Juice プレミアム】",
+              "credits": {
+                "作詞": "近藤薫",
+                "作曲": "近藤薫",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 31,
+              "title": "OPENING",
+              "duration": "00:44",
+              "suffix": "【つばきファクトリー プレミアム】",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 32,
+              "title": "ガラクタDIAMOND",
+              "duration": "04:14",
+              "suffix": "【つばきファクトリー プレミアム】",
+              "credits": {
+                "作詞": "森由里子",
+                "作曲": "馬飼野康二/鎌田俊哉",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 33,
+              "title": "表面張力～Surface Tension～",
+              "duration": "04:22",
+              "suffix": "【つばきファクトリー プレミアム】",
+              "credits": {
+                "作詞": "チーム飛松/児玉雨子",
+                "作曲": "チーム飛松/白戸佑輔",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 34,
+              "title": "恋のUFOキャッチャー",
+              "duration": "03:52",
+              "suffix": "【つばきファクトリー プレミアム】",
+              "credits": {
+                "作詞": "ジンツチハシ",
+                "作曲": "ジンツチハシ",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 35,
+              "title": "MC",
+              "duration": "00:12",
+              "suffix": "【つばきファクトリー プレミアム】",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 36,
+              "title": "世の中薔薇色",
+              "duration": "03:53",
+              "suffix": "【つばきファクトリー プレミアム】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "須藤茉麻・夏焼雅・熊井友理奈"
+              }
+            },
+            {
+              "index": 37,
+              "title": "真夜中のドア～stay with me",
+              "duration": "04:29",
+              "suffix": "【つばきファクトリー プレミアム】",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "林哲司",
+                "出演": "小片リサ"
+              }
+            },
+            {
+              "index": 38,
+              "title": "MC",
+              "duration": "02:26",
+              "suffix": "【つばきファクトリー プレミアム】",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 39,
+              "title": "約束・連絡・記念日",
+              "duration": "04:26",
+              "suffix": "【つばきファクトリー プレミアム】",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 40,
+              "title": "今夜だけ浮かれたかった",
+              "duration": "03:48",
+              "suffix": "【つばきファクトリー プレミアム】",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 41,
+              "title": "マサユメ",
+              "duration": "04:03",
+              "suffix": "【つばきファクトリー プレミアム】",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 42,
+              "title": "MC",
+              "duration": "01:54",
+              "suffix": "【つばきファクトリー プレミアム】",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 43,
+              "title": "涙のヒロイン降板劇",
+              "duration": "05:29",
+              "suffix": "【つばきファクトリー プレミアム】",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Josef Melin",
+                "出演": "V.A."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

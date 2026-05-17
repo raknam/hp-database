@@ -1,0 +1,127 @@
+{
+  "id": 1886,
+  "url": "/release/1886/",
+  "title": "抱きしめて 抱きしめて",
+  "category": "CDシングル",
+  "artist": "Berryz工房",
+  "releaseDate": "2009.3.11",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/upload/images/032bea672fb412dd325d4e4e37bfc0a398ad54cf.webp",
+    "/upload/images/61ea184b104b8cbae58fda74446574ac8979c43e.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/upload/images/032bea672fb412dd325d4e4e37bfc0a398ad54cf.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "抱きしめて 抱きしめて",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "そのすべての愛に",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "上杉洋史",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "抱きしめて 抱きしめて",
+              "duration": "03:50",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5133"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "抱きしめて抱きしめて",
+              "duration": "04:03",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/61ea184b104b8cbae58fda74446574ac8979c43e.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "抱きしめて 抱きしめて",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "そのすべての愛に",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "上杉洋史",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "抱きしめて 抱きしめて",
+              "duration": "03:50",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎",
+                "歌": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5135"
+        }
+      ],
+      "note": "イベント抽選シリアルナンバーカード封入"
+    }
+  ]
+}

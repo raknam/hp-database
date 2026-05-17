@@ -1,0 +1,66 @@
+{
+  "code": "UFBW-1266",
+  "url": "/release/detail/UFBW-1266/",
+  "source": "upfront",
+  "title": "ハロー!SATOYAMAライフ Vol.12",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2013/08/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/4c9b155428c15af54ff191c412afcfea29c8d770.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/4c9b155428c15af54ff191c412afcfea29c8d770.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1266",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ガーデンハウス作りに挑戦",
+              "duration": "31:04"
+            },
+            {
+              "index": 2,
+              "title": "ガーデンハウス作りに挑戦 2日目",
+              "duration": "03:53"
+            },
+            {
+              "index": 3,
+              "title": "ガーデンハウス作りに挑戦 3日目",
+              "duration": "11:17"
+            },
+            {
+              "index": 4,
+              "title": "春菊の種まきをしよう",
+              "duration": "03:32"
+            },
+            {
+              "index": 5,
+              "title": "モーニング娘。「Help me!!」MV撮影に密着",
+              "duration": "10:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "モーニング娘。小田さくらデビューまでの道のり",
+              "duration": "12:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

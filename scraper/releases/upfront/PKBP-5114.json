@@ -1,0 +1,51 @@
+{
+  "code": "PKBP-5114",
+  "url": "/release/detail/PKBP-5114/",
+  "source": "upfront",
+  "title": "シングルV「青春バスガイド」",
+  "category": "DVDシングルV",
+  "artist": "Berryz工房",
+  "releaseDate": "2009/06/24",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/2d835feb275c5719584a73e80c4b551d5b3880f6.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/2d835feb275c5719584a73e80c4b551d5b3880f6.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "PKBP-5114",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "青春バスガイド",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青春バスガイド(Dance Shot Ver.)",
+              "duration": "03:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "青春バスガイドメイキング映像",
+              "duration": "13:55"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "code": "EPDE-3017",
+  "url": "/release/detail/EPDE-3017/",
+  "source": "upfront",
+  "title": "木蘭の涙",
+  "category": "CDシングル",
+  "artist": "スターダスト☆レビュー",
+  "releaseDate": "1998/05/21",
+  "label": "zetima",
+  "images": [
+    "/images/d97d3cdd58fa018766fb54b131ff8ca589a323a7.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d97d3cdd58fa018766fb54b131ff8ca589a323a7.jpg",
+      "price": "￥961 (税抜価格 ￥874)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-3017",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "木蘭の涙",
+              "duration": "04:51",
+              "credits": {
+                "作詞": "山田ひろし",
+                "作曲": "柿沼清史",
+                "編曲": "三谷泰弘"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Endless Dream (Live from 'SOLA' Tour)",
+              "duration": "05:53",
+              "credits": {
+                "作詞": "葉庭敏貴",
+                "作曲": "根本要/三谷泰弘"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

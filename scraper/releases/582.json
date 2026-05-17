@@ -1,0 +1,73 @@
+{
+  "id": 582,
+  "url": "/release/582/",
+  "title": "LOVEマシーン",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2005.3.2",
+  "label": "zetima",
+  "images": [
+    "/upload/images/609a8e32e771412d0c53132e1a7b236c84031a6d.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "LOVEマシーン",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "21世紀",
+              "duration": "04:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介 ストリングスアレンジ:村山達哉",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "LOVEマシーン",
+              "duration": "04:59",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 4,
+              "title": "LOVEマシーン",
+              "duration": "04:58",
+              "suffix": "(Early Unison Version)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5319"
+        }
+      ]
+    }
+  ]
+}

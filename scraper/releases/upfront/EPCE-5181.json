@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5181",
+  "url": "/release/detail/EPCE-5181/",
+  "source": "upfront",
+  "title": "BYE BYE 最後の夜",
+  "category": "CDシングル",
+  "artist": "カントリー娘｡に石川梨華(モーニング娘｡)",
+  "releaseDate": "2002/11/13",
+  "label": "zetima",
+  "images": [
+    "/images/34d17106901cd46f34aa959538a8a4dd016ec234.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/34d17106901cd46f34aa959538a8a4dd016ec234.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5181",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "BYE BYE 最後の夜",
+              "duration": "03:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "酒井ミキオ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "BYE BYE 最後の夜(Airly X'mas present Remix)",
+              "duration": "04:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "REO"
+              }
+            },
+            {
+              "index": 3,
+              "title": "BYE BYE 最後の夜(Instrumental)",
+              "duration": "03:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "酒井ミキオ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

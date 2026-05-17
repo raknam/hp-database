@@ -1,0 +1,62 @@
+{
+  "code": "UFBW-1120",
+  "url": "/release/detail/UFBW-1120/",
+  "source": "upfront",
+  "title": "ハロプロ！TIME Vol.2",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2011/11/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/0066a065acdb4c8a8a04d856d2cfd13ee7c22154.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/0066a065acdb4c8a8a04d856d2cfd13ee7c22154.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1120",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "℃-uteTIME・アイドル3人休日にお台場デート ・主演舞台の稽古＆極上焼肉にご満悦 ・1人孤独なテスト勉強",
+              "duration": "17:08"
+            },
+            {
+              "index": 2,
+              "title": "田中TIME9期メンバーとカラオケデート",
+              "duration": "19:28"
+            },
+            {
+              "index": 3,
+              "title": "岡井TIME「桃色スパークリング」ジャケット写真＆MV撮影のウラ側",
+              "duration": "05:17"
+            },
+            {
+              "index": 4,
+              "title": "道重TIME道重ママも登場！！自宅でクッキング",
+              "duration": "15:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "福田TIME新メンバー募集＆発表のウラ側",
+              "duration": "05:23"
+            },
+            {
+              "index": 6,
+              "title": "夏焼TIME「愛の弾丸」ジャケット写真＆MV撮影でセクシー対決！！",
+              "duration": "07:33"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

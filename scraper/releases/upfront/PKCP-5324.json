@@ -1,0 +1,68 @@
+{
+  "code": "PKCP-5324",
+  "url": "/release/detail/PKCP-5324/",
+  "source": "upfront",
+  "title": "29歳",
+  "category": "CDシングル",
+  "artist": "Bitter ＆ Sweet",
+  "releaseDate": "2024/10/23",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/1efca733d5868662f32696d6b076ad71ea9ca028.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/1efca733d5868662f32696d6b076ad71ea9ca028.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5324",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "29歳",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "重ねた道",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "Bitter & Sweet",
+                "作曲": "増田武史",
+                "編曲": "増田武史"
+              }
+            },
+            {
+              "index": 3,
+              "title": "29歳(Instrumental)",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "重ねた道(Instrumental)",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "Bitter & Sweet",
+                "作曲": "増田武史",
+                "編曲": "増田武史"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

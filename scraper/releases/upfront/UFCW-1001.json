@@ -1,0 +1,68 @@
+{
+  "code": "UFCW-1001",
+  "url": "/release/detail/UFCW-1001/",
+  "source": "upfront",
+  "title": "Eternal Way",
+  "category": "CDシングル",
+  "artist": "能登谷麻理子",
+  "releaseDate": "2008/05/14",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/6f0d97e092603fc2ac0f81a813eb5cf9b550ee08.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/6f0d97e092603fc2ac0f81a813eb5cf9b550ee08.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "UFCW-1001",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Eternal Way",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "稲葉エミ",
+                "作曲": "岡ナオキ",
+                "編曲": "岡ナオキ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Callin' me",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "稲葉エミ",
+                "作曲": "岡ナオキ",
+                "編曲": "岡ナオキ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Eternal Way(Instrumental)",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "稲葉エミ",
+                "作曲": "岡ナオキ",
+                "編曲": "岡ナオキ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Callin' me(Instrumental)",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "稲葉エミ",
+                "作曲": "岡ナオキ",
+                "編曲": "岡ナオキ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

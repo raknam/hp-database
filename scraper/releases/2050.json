@@ -1,0 +1,26 @@
+{
+  "id": 2050,
+  "url": "/release/2050/",
+  "title": "Le Soleil",
+  "category": "DVD",
+  "artist": "菅谷梨沙子",
+  "releaseDate": "2011.2.15",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/05995db735514b4cc21e8a2d58dda9174a15d535.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [],
+          "catalogNo": "UFBW-1061"
+        }
+      ]
+    }
+  ]
+}

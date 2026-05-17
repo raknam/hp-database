@@ -1,0 +1,545 @@
+{
+  "id": 6261,
+  "url": "/release/6261/",
+  "title": "ポップミュージック/好きって言ってよ",
+  "category": "CDシングル",
+  "artist": "Juice=Juice",
+  "releaseDate": "2020.4.1",
+  "label": "hachama",
+  "images": [
+    "/upload/images/77b52d2b239d4b1dc4d398780e5f9e0b472ef4da.webp",
+    "/upload/images/4f3452f64ebcf8d4343226f0c8825e99a52b7c95.webp",
+    "/upload/images/389eb82dbeec1fa366b55e190d63d0473e562603.webp",
+    "/upload/images/f94b6c9c981cbb18eae4aea1df1f59d88ad85d79.webp",
+    "/upload/images/26316112ea6b06d6c8479bc5b32740bf504dd466.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/77b52d2b239d4b1dc4d398780e5f9e0b472ef4da.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ポップミュージック",
+              "duration": "05:18",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "好きって言ってよ",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "続いていくSTORY",
+              "duration": "05:17",
+              "suffix": "(Symphonic Version feat. Karin)",
+              "credits": {
+                "作詞": "近藤薫",
+                "作曲": "近藤薫",
+                "編曲": "上杉洋史",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ポップミュージック",
+              "duration": "05:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "好きって言ってよ",
+              "duration": "04:16",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "続いていくSTORY",
+              "duration": "05:17",
+              "suffix": "(Symphonic Version feat. Karin)(Instrumental)",
+              "credits": {
+                "作詞": "近藤薫",
+                "作曲": "近藤薫",
+                "編曲": "上杉洋史",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50630"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ポップミュージック",
+              "duration": "06:27",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/4f3452f64ebcf8d4343226f0c8825e99a52b7c95.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ポップミュージック",
+              "duration": "05:18",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "好きって言ってよ",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "続いていくSTORY",
+              "duration": "05:17",
+              "suffix": "(Symphonic Version feat. Karin)",
+              "credits": {
+                "作詞": "近藤薫",
+                "作曲": "近藤薫",
+                "編曲": "上杉洋史",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ポップミュージック",
+              "duration": "05:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "好きって言ってよ",
+              "duration": "04:16",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "続いていくSTORY",
+              "duration": "05:17",
+              "suffix": "(Symphonic Version feat. Karin)(Instrumental)",
+              "credits": {
+                "作詞": "近藤薫",
+                "作曲": "近藤薫",
+                "編曲": "上杉洋史",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50632"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "好きって言ってよ",
+              "duration": "05:11",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/upload/images/389eb82dbeec1fa366b55e190d63d0473e562603.webp",
+      "price": "￥1,870（税抜価格 ￥1,700）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ポップミュージック",
+              "duration": "05:18",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "好きって言ってよ",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "続いていくSTORY",
+              "duration": "05:17",
+              "suffix": "(Symphonic Version feat. Karin)",
+              "credits": {
+                "作詞": "近藤薫",
+                "作曲": "近藤薫",
+                "編曲": "上杉洋史",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ポップミュージック",
+              "duration": "05:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "好きって言ってよ",
+              "duration": "04:16",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "続いていくSTORY",
+              "duration": "05:17",
+              "suffix": "(Symphonic Version feat. Karin)(Instrumental)",
+              "credits": {
+                "作詞": "近藤薫",
+                "作曲": "近藤薫",
+                "編曲": "上杉洋史",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50634"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ポップミュージック",
+              "duration": "05:33",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "好きって言ってよ",
+              "duration": "04:25",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "出演": "Juice=Juice"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/f94b6c9c981cbb18eae4aea1df1f59d88ad85d79.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ポップミュージック",
+              "duration": "05:18",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "好きって言ってよ",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "続いていくSTORY",
+              "duration": "05:17",
+              "suffix": "(Symphonic Version feat. Karin)",
+              "credits": {
+                "作詞": "近藤薫",
+                "作曲": "近藤薫",
+                "編曲": "上杉洋史",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Borderline",
+              "duration": "04:10",
+              "suffix": "【Additional Track】",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ポップミュージック",
+              "duration": "05:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "好きって言ってよ",
+              "duration": "04:16",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 7,
+              "title": "続いていくSTORY",
+              "duration": "05:17",
+              "suffix": "(Symphonic Version feat. Karin)(Instrumental)",
+              "credits": {
+                "作詞": "近藤薫",
+                "作曲": "近藤薫",
+                "編曲": "上杉洋史",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Borderline",
+              "duration": "04:10",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50636"
+        }
+      ],
+      "note": "トレーディングカードソロ8種+集合1種よりランダムにて1枚封入(ポップミュージック Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/26316112ea6b06d6c8479bc5b32740bf504dd466.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ポップミュージック",
+              "duration": "05:18",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 2,
+              "title": "好きって言ってよ",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "続いていくSTORY",
+              "duration": "05:17",
+              "suffix": "(Symphonic Version feat. Karin)",
+              "credits": {
+                "作詞": "近藤薫",
+                "作曲": "近藤薫",
+                "編曲": "上杉洋史",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Va-Va-Voom",
+              "duration": "03:36",
+              "suffix": "【Additional Track】",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ポップミュージック",
+              "duration": "05:17",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "好きって言ってよ",
+              "duration": "04:16",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "鈴木俊介",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 7,
+              "title": "続いていくSTORY",
+              "duration": "05:17",
+              "suffix": "(Symphonic Version feat. Karin)(Instrumental)",
+              "credits": {
+                "作詞": "近藤薫",
+                "作曲": "近藤薫",
+                "編曲": "上杉洋史",
+                "歌": "Juice=Juice"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Va-Va-Voom",
+              "duration": "03:36",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50637"
+        }
+      ],
+      "note": "トレーディングカードソロ8種+集合1種よりランダムにて1枚封入(好きって言ってよ Ver.)※初回プレス分のみ"
+    }
+  ]
+}

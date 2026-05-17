@@ -1,0 +1,664 @@
+{
+  "id": 7284,
+  "url": "/release/7284/",
+  "title": "ちはやぶる/友達天体図",
+  "category": "CDシングル",
+  "artist": "OCHA NORMA",
+  "releaseDate": "2024.9.11",
+  "label": "zetima",
+  "images": [
+    "/upload/images/7ab3cbb3df5509b36a57ca4ae214daeb788e1780.webp",
+    "/upload/images/f24a4c06826cb106b1e119f58f49b79573c0df17.webp",
+    "/upload/images/ae5c519a13f886ec00c58a312c3090f0055d659f.webp",
+    "/upload/images/c12e06b14042c8adec895f272e3027360bb5b25c.webp",
+    "/upload/images/69fc1154d1f207a4a0e11fdd590d90c1f612aec7.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/7ab3cbb3df5509b36a57ca4ae214daeb788e1780.webp",
+      "price": "￥2,090（税抜価格 ￥1,900）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ちはやぶる",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "友達天体図",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "山崎あおい",
+                "編曲": "炭竃智弘",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ちはやぶる",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "友達天体図",
+              "duration": "04:52",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "山崎あおい",
+                "編曲": "炭竃智弘",
+                "歌": "OCHA NORMA"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7867"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ちはやぶる",
+              "duration": "04:22",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ちはやぶる",
+              "duration": "03:53",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ちはやぶる",
+              "duration": "14:28",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "OCHA NORMA"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付(ちはやぶるMV+Dance Shot Ver.+メイキング映像)"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/f24a4c06826cb106b1e119f58f49b79573c0df17.webp",
+      "price": "￥2,090（税抜価格 ￥1,900）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ちはやぶる",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "友達天体図",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "山崎あおい",
+                "編曲": "炭竃智弘",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ちはやぶる",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "友達天体図",
+              "duration": "04:52",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "山崎あおい",
+                "編曲": "炭竃智弘",
+                "歌": "OCHA NORMA"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7869"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "友達天体図",
+              "duration": "05:16",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "山崎あおい",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "友達天体図",
+              "duration": "04:56",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "山崎あおい",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "友達天体図",
+              "duration": "13:05",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "OCHA NORMA"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付(友達天体図MV+Dance Shot Ver.+メイキング映像)"
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/upload/images/ae5c519a13f886ec00c58a312c3090f0055d659f.webp",
+      "price": "￥5,500（税抜価格 ￥5,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ちはやぶる",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "友達天体図",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "山崎あおい",
+                "編曲": "炭竃智弘",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ちはやぶる",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "友達天体図",
+              "duration": "04:52",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "山崎あおい",
+                "編曲": "炭竃智弘",
+                "歌": "OCHA NORMA"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7871"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:53",
+              "credits": {
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ウチらの地元は地球じゃん！",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "cha cha SING",
+              "duration": "04:29",
+              "suffix": "(2024 OCHA NORMA Ver.)",
+              "credits": {
+                "作詞": "Mook Ake Chongmankhong/日本語詞：つんく",
+                "作曲": "Sudsan Wongsamut",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "MC",
+              "duration": "03:06",
+              "credits": {
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ちょっと情緒不安定？…夏",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "広瀬香美",
+                "作曲": "広瀬香美",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 6,
+              "title": "宇宙規模でダイスキ宣言！",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 7,
+              "title": "素肌は熱帯夜",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "早川響介",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Loving you Too much",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "Apisit Opasimlikit/日本語詞：つんく",
+                "作曲": "Thana Lawasut",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 9,
+              "title": "MC",
+              "duration": "05:57",
+              "credits": {
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 10,
+              "title": "イージーイージー",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Josef Melin",
+                "出演": "斉藤円香・広本瑠璃・窪田七海"
+              }
+            },
+            {
+              "index": 11,
+              "title": "1/2",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "徳田光希",
+                "作曲": "徳田光希",
+                "出演": "石栗奏美・中山夏月姫・西﨑美空"
+              }
+            },
+            {
+              "index": 12,
+              "title": "Peek a Boo",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Karrinator/Suhyun Kim",
+                "出演": "米村姫良々・田代すみれ・北原もも・筒井澪心"
+              }
+            },
+            {
+              "index": 13,
+              "title": "MC",
+              "duration": "02:32",
+              "credits": {
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 14,
+              "title": "オチャノマ マホロバ イコイノバ 〜昭和も令和もワッチャワチャ～",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 15,
+              "title": "ラヴィ・ダヴィ",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 16,
+              "title": "抱いてよ！PLEASE GO ON",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 17,
+              "title": "MC",
+              "duration": "00:25",
+              "credits": {
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 18,
+              "title": "恋のクラウチングスタート",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 19,
+              "title": "Hello! 生まれた意味がきっとある",
+              "duration": "04:19",
+              "suffix": "(OCHA NORMA Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 20,
+              "title": "シェケナーレ",
+              "duration": "05:12",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "ANDW",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 21,
+              "title": "今じゃなきゃ、君じゃなきゃ",
+              "duration": "04:42",
+              "suffix": "【ENCORE】",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "星部ショウ",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 22,
+              "title": "MC",
+              "duration": "15:57",
+              "suffix": "【ENCORE】",
+              "credits": {
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 23,
+              "title": "Good Luckの胸騒ぎ",
+              "duration": "05:59",
+              "suffix": "【ENCORE】",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "OCHA NORMA"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付(OCHA NORMA LIVE TOUR 2024 〜ウチらの地元は日本じゃん！〜(6月23日 長崎 DRUM Be-7)ライブ映像)"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/c12e06b14042c8adec895f272e3027360bb5b25c.webp",
+      "price": "定価 ￥1,300（税抜価格 ￥1,182）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ちはやぶる",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "友達天体図",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "山崎あおい",
+                "編曲": "炭竃智弘",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Super Duper Sugar Power",
+              "duration": "03:09",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom",
+                "編曲": "Erik Lidbom",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ちはやぶる",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 5,
+              "title": "友達天体図",
+              "duration": "04:52",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "山崎あおい",
+                "編曲": "炭竃智弘",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Super Duper Sugar Power",
+              "duration": "03:09",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom",
+                "編曲": "Erik Lidbom",
+                "歌": "OCHA NORMA"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7873"
+        }
+      ],
+      "note": "トレーディングカードソロ10種＋集合1種よりランダムにて1枚封入(ちはやぶる Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/69fc1154d1f207a4a0e11fdd590d90c1f612aec7.webp",
+      "price": "定価 ￥1,300（税抜価格 ￥1,182）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ちはやぶる",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "友達天体図",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "山崎あおい",
+                "編曲": "炭竃智弘",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ウットーシー！",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ちはやぶる",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 5,
+              "title": "友達天体図",
+              "duration": "04:52",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "山崎あおい",
+                "編曲": "炭竃智弘",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ウットーシー！",
+              "duration": "03:53",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "OCHA NORMA"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7874"
+        }
+      ],
+      "note": "トレーディングカードソロ10種＋集合1種よりランダムにて1枚封入(友達天体図 Ver.)※初回プレス分のみ"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 6769,
+  "url": "/release/6769/",
+  "title": "もしも…",
+  "category": "配信",
+  "artist": "稲場愛香",
+  "releaseDate": "2022.5.31",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/cba072b30923789a4f5f7033511c379a8af0c398.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "もしも…",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "稲場愛香(Juice=Juice)"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1498"
+        }
+      ]
+    }
+  ]
+}

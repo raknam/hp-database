@@ -1,0 +1,68 @@
+{
+  "code": "PKCP-2040",
+  "url": "/release/detail/PKCP-2040/",
+  "source": "upfront",
+  "title": "反逆者のうた",
+  "category": "CDシングル",
+  "artist": "桂 雀三郎 with まんぷくブラザーズ",
+  "releaseDate": "2008/08/27",
+  "label": "ライスミュージック",
+  "images": [
+    "/images/6b8a894a4f0dcdeb32805665cd5050c128643fa2.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/6b8a894a4f0dcdeb32805665cd5050c128643fa2.jpg",
+      "price": "￥1,572 (税抜価格 ￥1,429)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-2040",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "反逆者のうた",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "リピート山中",
+                "作曲": "リピート山中",
+                "編曲": "土井淳"
+              }
+            },
+            {
+              "index": 2,
+              "title": "あぁ青春の上方落語",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "リピート山中",
+                "作曲": "リピート山中",
+                "編曲": "まんぷくブラザーズ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "寿限無",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "リピート山中",
+                "作曲": "リピート山中",
+                "編曲": "里見匡一"
+              }
+            },
+            {
+              "index": 4,
+              "title": "反逆者のうた(オリジナル・カラオケ)",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "リピート山中",
+                "作曲": "リピート山中",
+                "編曲": "土井淳"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "code": "EPCE-5971",
+  "url": "/release/detail/EPCE-5971/",
+  "source": "upfront",
+  "title": "くまモンもん",
+  "category": "CDシングル",
+  "artist": "くまモン",
+  "releaseDate": "2013/09/25",
+  "label": "zetima",
+  "images": [
+    "/images/8fc55d41dd5a2b35bdd5bf3d982aa44db857daae.jpg",
+    "/images/171c0598d648c4b8d3f7be8912a364869ccca86b.jpg"
+  ],
+  "editions": [
+    {
+      "name": "CD＋DVD版",
+      "image": "/images/8fc55d41dd5a2b35bdd5bf3d982aa44db857daae.jpg",
+      "price": "￥1,572 (税抜価格 ￥1,429)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5971",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "くまモンもん",
+              "duration": "02:18",
+              "credits": {
+                "作詞": "KAN/小山薫堂",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 2,
+              "title": "くまもとサプライズ！(くまモン体操)",
+              "duration": "02:47",
+              "credits": {
+                "作詞": "ボンボ藤井",
+                "作曲": "ボンボ藤井",
+                "編曲": "ボンボ藤井"
+              }
+            },
+            {
+              "index": 3,
+              "title": "くまモンもん(オリジナル・カラオケ)",
+              "duration": "02:18",
+              "credits": {
+                "作詞": "KAN/小山薫堂",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 4,
+              "title": "くまもとサプライズ！(オリジナル・カラオケ)",
+              "duration": "02:47",
+              "credits": {
+                "作詞": "ボンボ藤井",
+                "作曲": "ボンボ藤井",
+                "編曲": "ボンボ藤井"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CD版",
+      "image": "/images/171c0598d648c4b8d3f7be8912a364869ccca86b.jpg",
+      "price": "￥1,047 (税抜価格 ￥952)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5973",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "くまモンもん(ミュージックビデオ)",
+              "duration": "02:39",
+              "credits": {
+                "作詞": "KAN/小山薫堂",
+                "作曲": "KAN"
+              }
+            },
+            {
+              "index": 2,
+              "title": "くまモンもん(みんなで踊ろう！バージョン)",
+              "duration": "02:29",
+              "credits": {
+                "作詞": "KAN/小山薫堂",
+                "作曲": "KAN"
+              }
+            },
+            {
+              "index": 3,
+              "title": "くまもとサプライズ！(みんなで踊ろう！バージョン)",
+              "duration": "03:04",
+              "credits": {
+                "作詞": "ボンボ藤井",
+                "作曲": "ボンボ藤井"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

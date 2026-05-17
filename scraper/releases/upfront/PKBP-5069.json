@@ -1,0 +1,53 @@
+{
+  "code": "PKBP-5069",
+  "url": "/release/detail/PKBP-5069/",
+  "source": "upfront",
+  "title": "銀河鉄道物語～忘れられた時の惑星～Vol.3",
+  "category": "DVD",
+  "artist": "アニメーション",
+  "releaseDate": "2007/03/28",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/a75be1323daaaedb725f6553cb7faca46fffd1b1.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/a75be1323daaaedb725f6553cb7faca46fffd1b1.jpg",
+      "price": "￥5,028 (税抜価格 ￥4,571)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5069",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "前半",
+              "duration": "10:09"
+            },
+            {
+              "index": 2,
+              "title": "後半",
+              "duration": "14:10"
+            },
+            {
+              "index": 3,
+              "title": "エンディング",
+              "duration": "02:35"
+            },
+            {
+              "index": 4,
+              "title": "予告1",
+              "duration": "00:32"
+            },
+            {
+              "index": 5,
+              "title": "予告2 (特典)",
+              "duration": "00:37"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

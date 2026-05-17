@@ -1,0 +1,68 @@
+{
+  "code": "UFBW-1487",
+  "url": "/release/detail/UFBW-1487/",
+  "source": "upfront",
+  "title": "Hello! Projectが行く！ナルチカ日帰り里山旅2016",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2016/07/26",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/7061dc47d64a6381f1011f34a0dfd6bacbddb302.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7061dc47d64a6381f1011f34a0dfd6bacbddb302.jpg",
+      "price": "￥3,259 (税抜価格 ￥2,963)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1487",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Hello! Projectが行く！ナルチカ日帰り里山旅2016 前編",
+              "duration": "06:40"
+            },
+            {
+              "index": 2,
+              "title": "Hello! Projectが行く！ナルチカ日帰り里山旅2016 後編",
+              "duration": "23:28"
+            },
+            {
+              "index": 3,
+              "title": "ナレーションを終えた小川",
+              "duration": "00:26"
+            },
+            {
+              "index": 4,
+              "title": "トランプ対決",
+              "duration": "07:14"
+            },
+            {
+              "index": 5,
+              "title": "トランプ対決 罰ゲーム",
+              "duration": "03:45"
+            },
+            {
+              "index": 6,
+              "title": "ハロプロ女子会 前編",
+              "duration": "10:08"
+            },
+            {
+              "index": 7,
+              "title": "ハロプロ女子会 〜腕相撲対決〜",
+              "duration": "06:45"
+            },
+            {
+              "index": 8,
+              "title": "ハロプロ女子会 後編",
+              "duration": "12:47"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "code": "EPCE-5483",
+  "url": "/release/detail/EPCE-5483/",
+  "source": "upfront",
+  "title": "女に 幸あれ",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2007/07/25",
+  "label": "zetima",
+  "images": [
+    "/images/fb393534e4bb608796c744d60e31fcd5405806f0.jpg",
+    "/images/23fe23edafda8ffcc927869ef0b51ca12049a284.jpg",
+    "/images/2284b0bd157885dcf28dbee1676c906197a8af34.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤 A】",
+      "image": "/images/fb393534e4bb608796c744d60e31fcd5405806f0.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5483",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "女に 幸あれ",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Please!自由の扉",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "女に 幸あれ(Instrumental)",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤 B】",
+      "image": "/images/23fe23edafda8ffcc927869ef0b51ca12049a284.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5485",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "女に 幸あれ(Dance Shot Ver.)",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/2284b0bd157885dcf28dbee1676c906197a8af34.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5486",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "女に 幸あれ",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Please!自由の扉",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "女に 幸あれ(Instrumental)",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

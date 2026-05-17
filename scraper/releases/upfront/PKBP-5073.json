@@ -1,0 +1,43 @@
+{
+  "code": "PKBP-5073",
+  "url": "/release/detail/PKBP-5073/",
+  "source": "upfront",
+  "title": "銀河鉄道物語～忘れられた時の惑星～Vol.4",
+  "category": "DVD",
+  "artist": "アニメーション",
+  "releaseDate": "2007/04/25",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/51b543a326123f9158c577274cb904cce9cf64c9.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/51b543a326123f9158c577274cb904cce9cf64c9.jpg",
+      "price": "￥5,028 (税抜価格 ￥4,571)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5073",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "前半",
+              "duration": "11:27"
+            },
+            {
+              "index": 2,
+              "title": "後半",
+              "duration": "09:41"
+            },
+            {
+              "index": 3,
+              "title": "エンディング",
+              "duration": "02:45"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

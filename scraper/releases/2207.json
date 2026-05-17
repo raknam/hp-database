@@ -1,0 +1,50 @@
+{
+  "id": 2207,
+  "url": "/release/2207/",
+  "title": "彼女になりたいっ！！！",
+  "category": "CDシングル",
+  "artist": "ハロプロ研修生",
+  "releaseDate": "2012.10.27",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/5942d9998e15b7fbee1d4385e1c728d68717ce8f.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "彼女になりたいっ！！！",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "ハロプロ研修生"
+              }
+            },
+            {
+              "index": 2,
+              "title": "彼女になりたいっ！！！",
+              "duration": "04:07",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "ハロプロ研修生"
+              }
+            }
+          ],
+          "catalogNo": "UFCW-1047"
+        }
+      ]
+    }
+  ]
+}

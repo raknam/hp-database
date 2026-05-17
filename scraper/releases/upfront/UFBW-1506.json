@@ -1,0 +1,46 @@
+{
+  "code": "UFBW-1506",
+  "url": "/release/detail/UFBW-1506/",
+  "source": "upfront",
+  "title": "独り占め/私がオバさんになっても",
+  "category": "DVD",
+  "artist": "つばきファクトリー",
+  "releaseDate": "2016/08/06",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/e871488dde505821315d0dd8326981042045dc93.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/e871488dde505821315d0dd8326981042045dc93.jpg",
+      "price": "￥1,528 (税抜価格 ￥1,389)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1506",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "独り占め(Music Video)",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "私がオバさんになっても(Music Video)",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "斉藤英夫"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

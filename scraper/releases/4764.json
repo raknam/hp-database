@@ -1,0 +1,120 @@
+{
+  "id": 4764,
+  "url": "/release/4764/",
+  "title": "つばきファクトリー SOUND＋VISION Vol.1",
+  "category": "DVD",
+  "artist": "つばきファクトリー",
+  "releaseDate": "2016.5.18",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/11b3acc63f50b1259ad94ec4c92214b31949f323.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "青春まんまんなか！",
+              "duration": "04:43",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "KOUGA",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "気高く咲き誇れ！",
+              "duration": "04:16",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "児玉雨子/Rap詞:角田崇徳",
+                "作曲": "Jean Luc Ponpon",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "17才",
+              "duration": "04:05",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "有馬三恵子",
+                "作曲": "筒美京平",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "キャベツ白書〜春編〜",
+              "duration": "05:29",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "角田崇徳",
+                "出演": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1488"
+        },
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "青春まんまんなか！",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "KOUGA",
+                "編曲": "CMJK",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "気高く咲き誇れ！",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "児玉雨子/Rap詞:角田崇徳",
+                "作曲": "Jean Luc Ponpon",
+                "編曲": "Jean Luc Ponpon",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "17才",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "有馬三恵子",
+                "作曲": "筒美京平",
+                "編曲": "近藤圭一",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "キャベツ白書〜春編〜",
+              "duration": "05:16",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "角田崇徳",
+                "編曲": "上杉洋史",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

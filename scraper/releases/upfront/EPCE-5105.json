@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5105",
+  "url": "/release/detail/EPCE-5105/",
+  "source": "upfront",
+  "title": "トロピカ〜ル恋して〜る",
+  "category": "CDシングル",
+  "artist": "松浦亜弥",
+  "releaseDate": "2001/06/13",
+  "label": "zetima",
+  "images": [
+    "/images/d94da858cb6c3eb577ecb47c16c87a03387a15fd.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d94da858cb6c3eb577ecb47c16c87a03387a15fd.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5105",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "トロピカ〜ル恋して〜る",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "渡部チェル"
+              }
+            },
+            {
+              "index": 2,
+              "title": "夕暮れ",
+              "duration": "04:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "渡部チェル"
+              }
+            },
+            {
+              "index": 3,
+              "title": "トロピカ〜ル恋して〜る(Instrumental)",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "渡部チェル"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

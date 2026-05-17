@@ -1,0 +1,116 @@
+{
+  "id": 366,
+  "url": "/release/366/",
+  "title": "ミュージックV特集①〜キューティービジュアル〜",
+  "category": "DVD",
+  "artist": "℃-ute",
+  "releaseDate": "2006.9.6",
+  "label": "zetima",
+  "images": [
+    "/upload/images/3aeceb13aeb6d2827c30e016bca09de5d510b270.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "大きな愛でもてなして",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "まっさらブルージーンズ",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "即 抱きしめて",
+              "duration": "03:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "まっさらブルージーンズ",
+              "duration": "05:07",
+              "suffix": "5月7日 さいたまスーパーアリーナのライブ映像",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "わっきゃない(Z)",
+              "duration": "03:21",
+              "suffix": "5月7日 さいたまスーパーアリーナのライブ映像",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 6,
+              "title": "スペシャルインタビュー",
+              "duration": "10:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 7,
+              "title": "メイキング映像",
+              "duration": "07:31",
+              "suffix": "大きな愛でもてなして",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 8,
+              "title": "メイキング映像",
+              "duration": "07:19",
+              "suffix": "まっさらブルージーンズ",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 9,
+              "title": "メイキング映像",
+              "duration": "05:05",
+              "suffix": "即 抱きしめて",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5205"
+        }
+      ]
+    }
+  ]
+}

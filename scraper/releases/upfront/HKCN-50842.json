@@ -1,0 +1,462 @@
+{
+  "code": "HKCN-50842",
+  "url": "/release/detail/HKCN-50842/",
+  "source": "upfront",
+  "title": "キケンな魔法/ビースト！",
+  "category": "CDシングル",
+  "artist": "宮本佳林",
+  "releaseDate": "2025/06/11",
+  "label": "hachama",
+  "images": [
+    "/images/1b07b4240aab6261752245e92df61d311e2d4ef2.jpg",
+    "/images/d27456968004bec026b4b5c57e3a4a4061ebfaf7.jpg",
+    "/images/75b2d610c0a76c2d6b12e4ee93fe5057b2df0b37.jpg",
+    "/images/b6f2b019f2bef34a519ceb769335e1d921357464.jpg",
+    "/images/e18ac6183ecbfbdb4bfe3aa5be6c63b49d44acd2.jpg",
+    "/images/c185bbe42a002b5c6a3ceda89e5b34226b718494.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/1b07b4240aab6261752245e92df61d311e2d4ef2.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50842",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "キケンな魔法",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "渡辺和紀",
+                "編曲": "戸嶋友祐"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ビースト！",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "平井佑果",
+                "作曲": "フジノタカフミ",
+                "編曲": "宮原康平/フジノタカフミ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "キケンな魔法(Instrumental)",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "渡辺和紀",
+                "編曲": "戸嶋友祐"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ビースト！(Instrumental)",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "平井佑果",
+                "作曲": "フジノタカフミ",
+                "編曲": "宮原康平/フジノタカフミ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/d27456968004bec026b4b5c57e3a4a4061ebfaf7.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKCN-50844",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "キケンな魔法(Music Video)",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "渡辺和紀"
+              }
+            },
+            {
+              "index": 2,
+              "title": "キケンな魔法(Dance Shot Ver.)",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "渡辺和紀"
+              }
+            },
+            {
+              "index": 3,
+              "title": "キケンな魔法(メイキング映像)",
+              "duration": "13:36"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP1】",
+      "image": "/images/75b2d610c0a76c2d6b12e4ee93fe5057b2df0b37.jpg",
+      "price": "￥6,600 (税抜価格 ￥6,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50846",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "キケンな魔法",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "渡辺和紀",
+                "編曲": "戸嶋友祐"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ビースト！",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "平井佑果",
+                "作曲": "フジノタカフミ",
+                "編曲": "宮原康平/フジノタカフミ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "キケンな魔法(Instrumental)",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "渡辺和紀",
+                "編曲": "戸嶋友祐"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ビースト！(Instrumental)",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "平井佑果",
+                "作曲": "フジノタカフミ",
+                "編曲": "宮原康平/フジノタカフミ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP2】",
+      "image": "/images/b6f2b019f2bef34a519ceb769335e1d921357464.jpg",
+      "price": "￥6,600 (税抜価格 ￥6,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKCN-50848",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ビースト！(Music Video)",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "平井佑果",
+                "作曲": "フジノタカフミ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ビースト！(Dance Shot Ver.)",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "平井佑果",
+                "作曲": "フジノタカフミ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ビースト！(メイキング映像)",
+              "duration": "09:55"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/e18ac6183ecbfbdb4bfe3aa5be6c63b49d44acd2.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50850",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "キケンな魔法",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "渡辺和紀",
+                "編曲": "戸嶋友祐"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ビースト！",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "平井佑果",
+                "作曲": "フジノタカフミ",
+                "編曲": "宮原康平/フジノタカフミ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "SUPER IDOL -Especial-(Single Ver.)【Additional Track】",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "石黑剛/常楽寺澪",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 4,
+              "title": "キケンな魔法(Instrumental)",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "渡辺和紀",
+                "編曲": "戸嶋友祐"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ビースト！(Instrumental)",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "平井佑果",
+                "作曲": "フジノタカフミ",
+                "編曲": "宮原康平/フジノタカフミ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "SUPER IDOL -Especial-(Single Ver.)(Instrumental)",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "石黑剛/常楽寺澪",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/c185bbe42a002b5c6a3ceda89e5b34226b718494.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKCN-50851",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "01:59"
+            },
+            {
+              "index": 2,
+              "title": "愛してるの言葉だけで",
+              "duration": "06:07",
+              "credits": {
+                "作詞": "宮嶋淳子",
+                "作曲": "トミタカズキ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "規格外のロマンス",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Caroline Gustavsson/Chris Meyer"
+              }
+            },
+            {
+              "index": 4,
+              "title": "MC",
+              "duration": "01:49"
+            },
+            {
+              "index": 5,
+              "title": "迷宮のアンドローラ",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "松本隆",
+                "作曲": "筒美京平"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ポツリと",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Lonely Bus",
+              "duration": "03:22",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 8,
+              "title": "優柔不断だね、Guilty",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "大橋莉子",
+                "作曲": "大橋莉子"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ビーズに願いを",
+              "duration": "03:33",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 10,
+              "title": "なんてったって I Love You",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "武田将弥"
+              }
+            },
+            {
+              "index": 11,
+              "title": "MC",
+              "duration": "01:39"
+            },
+            {
+              "index": 12,
+              "title": "未来のフィラメント",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "michitomo"
+              }
+            },
+            {
+              "index": 13,
+              "title": "氷点下",
+              "duration": "05:32",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい"
+              }
+            },
+            {
+              "index": 14,
+              "title": "Only choice",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "坪田文",
+                "作曲": "和田俊輔"
+              }
+            },
+            {
+              "index": 15,
+              "title": "MC",
+              "duration": "02:12"
+            },
+            {
+              "index": 16,
+              "title": "千本桜",
+              "duration": "05:13",
+              "credits": {
+                "作詞": "黒うさP",
+                "作曲": "黒うさP"
+              }
+            },
+            {
+              "index": 17,
+              "title": "ポラリス・コンパス",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "依田伸隆"
+              }
+            },
+            {
+              "index": 18,
+              "title": "夜明けまでのララバイ",
+              "duration": "04:59",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Caroline Gustavsson/Chris Meyer"
+              }
+            },
+            {
+              "index": 19,
+              "title": "チョコレート魂【ENCORE】",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "山沢大洋"
+              }
+            },
+            {
+              "index": 19,
+              "title": "SUPER IDOL -Especial-【ENCORE】",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "石黑剛/常楽寺澪"
+              }
+            },
+            {
+              "index": 20,
+              "title": "MC【ENCORE】",
+              "duration": "04:41"
+            },
+            {
+              "index": 20,
+              "title": "Happy Days【ENCORE】",
+              "duration": "06:13",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "KOUGA"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

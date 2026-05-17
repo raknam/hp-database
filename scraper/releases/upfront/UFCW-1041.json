@@ -1,0 +1,68 @@
+{
+  "code": "UFCW-1041",
+  "url": "/release/detail/UFCW-1041/",
+  "source": "upfront",
+  "title": "End Of The Season",
+  "category": "CDシングル",
+  "artist": "アップアップガールズ（仮）",
+  "releaseDate": "2012/09/23",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/d226b5b88f4bc9f9d2a538631e20c38a2bdcdff7.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d226b5b88f4bc9f9d2a538631e20c38a2bdcdff7.jpg",
+      "price": "￥1,047 (税抜価格 ￥952)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "UFCW-1041",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "End Of The Season",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "RAMRIDER",
+                "作曲": "RAMRIDER",
+                "編曲": "RAMRIDER/編曲補:Koichiro Irokawa"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Beautiful Days!",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "RAMRIDER",
+                "作曲": "RAMRIDER",
+                "編曲": "RAMRIDER/編曲補:Koichiro Irokawa"
+              }
+            },
+            {
+              "index": 3,
+              "title": "End Of The Season(Instrumental)",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "RAMRIDER",
+                "作曲": "RAMRIDER",
+                "編曲": "RAMRIDER/編曲補:Koichiro Irokawa"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Beautiful Days!(Instrumental)",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "RAMRIDER",
+                "作曲": "RAMRIDER",
+                "編曲": "RAMRIDER/編曲補:Koichiro Irokawa"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

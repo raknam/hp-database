@@ -1,0 +1,252 @@
+{
+  "code": "EPCE-7485",
+  "url": "/release/detail/EPCE-7485/",
+  "source": "upfront",
+  "title": "Oh No 懊悩/ハルウララ",
+  "category": "CDシングル",
+  "artist": "こぶしファクトリー",
+  "releaseDate": "2019/04/24",
+  "label": "zetima",
+  "images": [
+    "/images/3d36a93b73cba6a64eb347f464b4b76274b9f9ef.jpg",
+    "/images/cf52e4c558a1f76ef67ed705c5f9162fa8f313a7.jpg",
+    "/images/49d6144b67fc9b5b3dc29d8cacf06d4ab103a5f9.jpg",
+    "/images/3cc61493ee671d4a10e1f299690658dde6a589c4.jpg",
+    "/images/6307d3be50d0a4ad81c5636055d528abd3d70564.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/3d36a93b73cba6a64eb347f464b4b76274b9f9ef.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7485",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Oh No 懊悩",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ハルウララ",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "原田雄一",
+                "編曲": "原田雄一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "念には念(アカペラ Ver.)【Additional Track】",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "アベショー",
+                "作曲": "アベショー",
+                "編曲": "アカペラアレンジ：杉田篤史(INSPi)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Oh No 懊悩(Instrumental)",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ハルウララ(Instrumental)",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "原田雄一",
+                "編曲": "原田雄一"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/cf52e4c558a1f76ef67ed705c5f9162fa8f313a7.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7487",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Oh No 懊悩(Music Video)",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/images/49d6144b67fc9b5b3dc29d8cacf06d4ab103a5f9.jpg",
+      "price": "￥1,870 (税抜価格 ￥1,700)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7489",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Oh No 懊悩",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ハルウララ",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "原田雄一",
+                "編曲": "原田雄一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "念には念(アカペラ Ver.)【Additional Track】",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "アベショー",
+                "作曲": "アベショー",
+                "編曲": "アカペラアレンジ：杉田篤史(INSPi)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Oh No 懊悩(Instrumental)",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ハルウララ(Instrumental)",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "原田雄一",
+                "編曲": "原田雄一"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/3cc61493ee671d4a10e1f299690658dde6a589c4.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7491",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ハルウララ(Music Video)",
+              "duration": "05:36",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "原田雄一"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/6307d3be50d0a4ad81c5636055d528abd3d70564.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7492",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Oh No 懊悩",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ハルウララ",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "原田雄一",
+                "編曲": "原田雄一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "念には念(アカペラ Ver.)【Additional Track】",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "アベショー",
+                "作曲": "アベショー",
+                "編曲": "アカペラアレンジ：杉田篤史(INSPi)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Oh No 懊悩(Instrumental)",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ハルウララ(Instrumental)",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "原田雄一",
+                "編曲": "原田雄一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

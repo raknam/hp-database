@@ -1,0 +1,124 @@
+{
+  "id": 705,
+  "url": "/release/705/",
+  "title": "FOREVER LOVE",
+  "category": "CDシングル",
+  "artist": "℃-ute",
+  "releaseDate": "2008.11.26",
+  "label": "zetima",
+  "images": [
+    "/upload/images/34ff288a9b86a42114b7a8ce4e70f0a021a22817.webp",
+    "/upload/images/7e54a341fe7b5ad1c095e48741f0fd16f0b0389c.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/upload/images/34ff288a9b86a42114b7a8ce4e70f0a021a22817.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "FOREVER LOVE",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "セブンティーンズ VOW",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "FOREVER LOVE",
+              "duration": "04:04",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5586"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ジャケット撮影メイキング",
+              "duration": "12:44",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/7e54a341fe7b5ad1c095e48741f0fd16f0b0389c.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "FOREVER LOVE",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "セブンティーンズ VOW",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "FOREVER LOVE",
+              "duration": "04:04",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5588"
+        }
+      ],
+      "note": "通常盤･初回仕様 イベント抽選シリアルナンバーカード封入"
+    }
+  ]
+}

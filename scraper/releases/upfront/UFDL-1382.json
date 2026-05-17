@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1382",
+  "url": "/release/detail/UFDL-1382/",
+  "source": "upfront",
+  "title": "ウーロンハイの女",
+  "category": "配信",
+  "artist": "岡井千聖",
+  "releaseDate": "2017/12/08",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/c1ca72dfeeb4d3b4a15420ca1d7de9c0c77da545.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/c1ca72dfeeb4d3b4a15420ca1d7de9c0c77da545.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1382",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ウーロンハイの女",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

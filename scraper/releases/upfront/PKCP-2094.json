@@ -1,0 +1,68 @@
+{
+  "code": "PKCP-2094",
+  "url": "/release/detail/PKCP-2094/",
+  "source": "upfront",
+  "title": "青二才～わが友よ",
+  "category": "CDシングル",
+  "artist": "堀内孝雄",
+  "releaseDate": "2024/04/17",
+  "label": "ライスミュージック",
+  "images": [
+    "/images/04fc47420bd76efbd4dfe43902a79038e77e0180.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/04fc47420bd76efbd4dfe43902a79038e77e0180.jpg",
+      "price": "￥1,400 (税抜価格 ￥1,273)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-2094",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "青二才～わが友よ",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "石原信一",
+                "作曲": "堀内孝雄",
+                "編曲": "和田春彦"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ユズリハ",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "谷村新司",
+                "作曲": "堀内孝雄",
+                "編曲": "和田春彦"
+              }
+            },
+            {
+              "index": 3,
+              "title": "青二才～わが友よ(オリジナル・カラオケ)",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "石原信一",
+                "作曲": "堀内孝雄",
+                "編曲": "和田春彦"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ユズリハ(オリジナル・カラオケ)",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "谷村新司",
+                "作曲": "堀内孝雄",
+                "編曲": "和田春彦"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

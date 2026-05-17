@@ -1,0 +1,61 @@
+{
+  "id": 2812,
+  "url": "/release/2812/",
+  "title": "告白記念日",
+  "category": "CDシングル",
+  "artist": "メロン記念日",
+  "releaseDate": "2000.6.28",
+  "label": "zetima",
+  "images": [
+    "/upload/images/35306bf7b3f35599a6402af254b0880404dc1e4b.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "告白記念日",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野伸",
+                "歌": "メロン記念日"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ふわふわふ－",
+              "duration": "04:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "メロン記念日"
+              }
+            },
+            {
+              "index": 3,
+              "title": "告白記念日",
+              "duration": "04:33",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野伸",
+                "歌": "メロン記念日"
+              }
+            }
+          ],
+          "catalogNo": "EPDE-1078"
+        }
+      ]
+    }
+  ]
+}

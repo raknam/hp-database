@@ -1,0 +1,48 @@
+{
+  "code": "UFBW-1352",
+  "url": "/release/detail/UFBW-1352/",
+  "source": "upfront",
+  "title": "ハロー!SATOYAMAライフ Vol.32",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2014/08/06",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/92c22db122ff6635f02de53511a0460d9492f11d.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/92c22db122ff6635f02de53511a0460d9492f11d.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1352",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Berryz工房 武道館ライブSP",
+              "duration": "24:17"
+            },
+            {
+              "index": 2,
+              "title": "Berryz工房 武道館ライブSP 未公開映像",
+              "duration": "06:41"
+            },
+            {
+              "index": 3,
+              "title": "SATOYAMA忘年会",
+              "duration": "33:56"
+            },
+            {
+              "index": 4,
+              "title": "SATOYAMA忘年会未公開映像",
+              "duration": "04:37"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

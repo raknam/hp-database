@@ -1,0 +1,38 @@
+{
+  "id": 7279,
+  "url": "/release/7279/",
+  "title": "愛はまるで静電気",
+  "category": "配信",
+  "artist": "山﨑夢羽",
+  "releaseDate": "2024.6.28",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/f080ad21b66aaaf709467de4adc5b707e10d8698.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛はまるで静電気",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "山﨑夢羽(BEYOOOOONDS)"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1541"
+        }
+      ]
+    }
+  ]
+}

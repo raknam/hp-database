@@ -1,0 +1,63 @@
+{
+  "code": "EPXE-5002",
+  "url": "/release/detail/EPXE-5002/",
+  "source": "upfront",
+  "title": "アロハロ！4 モーニング娘。Blu-ray Disc",
+  "category": "BD",
+  "artist": "モーニング娘。",
+  "releaseDate": "2010/11/24",
+  "label": "zetima",
+  "images": [
+    "/images/fecd12d7502476be91311d7961cc424ea609347f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/fecd12d7502476be91311d7961cc424ea609347f.jpg",
+      "price": "￥6,285 (税抜価格 ￥5,714)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5002",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "02:01"
+            },
+            {
+              "index": 2,
+              "title": "PV MEETING",
+              "duration": "02:12"
+            },
+            {
+              "index": 3,
+              "title": "ORIGINAL ACCESSORY",
+              "duration": "16:41"
+            },
+            {
+              "index": 4,
+              "title": "元気ピカッピカッ！〜Original PV in Hawaii〜",
+              "duration": "04:27"
+            },
+            {
+              "index": 5,
+              "title": "8 IMAGES",
+              "duration": "15:49"
+            },
+            {
+              "index": 6,
+              "title": "MAKING",
+              "duration": "18:37"
+            },
+            {
+              "index": 7,
+              "title": "ENDING",
+              "duration": "04:44"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

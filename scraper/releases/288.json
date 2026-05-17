@@ -1,0 +1,35 @@
+{
+  "id": 288,
+  "url": "/release/288/",
+  "title": "モー娘。走る！ピンチランナー",
+  "category": "VHS",
+  "artist": "モーニング娘。",
+  "releaseDate": "2001.2.21",
+  "label": "東映ビデオ",
+  "images": [
+    "/upload/images/f817948364c4ed3799866218205c327329a40d5e.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "VHS",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "モー娘。走る！ピンチランナー",
+              "duration": "00:00",
+              "credits": {
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "DSTD-2006V"
+        }
+      ]
+    }
+  ]
+}

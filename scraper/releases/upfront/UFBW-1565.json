@@ -1,0 +1,79 @@
+{
+  "code": "UFBW-1565",
+  "url": "/release/detail/UFBW-1565/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.38",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2017/12/13",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/4eac3dfef372ac7176448ce3df50ac78942c345f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/4eac3dfef372ac7176448ce3df50ac78942c345f.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1565",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "℃-ute 卒業スペシャル",
+              "duration": "28:26"
+            },
+            {
+              "index": 2,
+              "title": "嗣永桃子 卒業スペシャル",
+              "duration": "14:07"
+            },
+            {
+              "index": 3,
+              "title": "Good Boy Bad Girl【スタジオライブ集】",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ピーナッツバタージェリーラブ【スタジオライブ集】",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "エリック・フクサキ＆三浦徳子",
+                "作曲": "エリック・フクサキ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "わかっているのにごめんね【スタジオライブ集】",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介"
+              }
+            },
+            {
+              "index": 6,
+              "title": "恋泥棒【スタジオライブ集】",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "村カワ基成"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Buono!ラストライブの舞台裏密着【未公開映像】",
+              "duration": "05:22"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

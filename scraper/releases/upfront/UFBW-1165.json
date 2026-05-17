@@ -1,0 +1,48 @@
+{
+  "code": "UFBW-1165",
+  "url": "/release/detail/UFBW-1165/",
+  "source": "upfront",
+  "title": "ハロプロ！TIME Vol.11",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012/06/08",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/43fd91849e418fb47784f29ac9a3b0375e562bc4.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/43fd91849e418fb47784f29ac9a3b0375e562bc4.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1165",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「ブスにならない哲学」MV撮影現場でメンバー撮り！",
+              "duration": "34:10"
+            },
+            {
+              "index": 2,
+              "title": "観客1万人！よみうりランドEAST ハロー！プロジェクト☆フェスティバル2011",
+              "duration": "25:07"
+            },
+            {
+              "index": 3,
+              "title": "モーニング娘。10期メンバーに密着！ハロー！プロジェクト☆フェスティバル2011",
+              "duration": "11:12"
+            },
+            {
+              "index": 4,
+              "title": "清水TIME20歳のアニバーサリーイベント",
+              "duration": "03:38"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

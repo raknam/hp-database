@@ -1,0 +1,58 @@
+{
+  "code": "EPDE-1024",
+  "url": "/release/detail/EPDE-1024/",
+  "source": "upfront",
+  "title": "Motto",
+  "category": "CDシングル",
+  "artist": "タンポポ",
+  "releaseDate": "1999/03/10",
+  "label": "zetima",
+  "images": [
+    "/images/84f910f9443c0b7575b3a4c18b084e58babfa555.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/84f910f9443c0b7575b3a4c18b084e58babfa555.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1024",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Motto",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野伸"
+              }
+            },
+            {
+              "index": 2,
+              "title": "愛の唄",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Motto (Instrumental)",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野伸"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

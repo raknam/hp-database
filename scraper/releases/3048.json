@@ -1,0 +1,74 @@
+{
+  "id": 3048,
+  "url": "/release/3048/",
+  "title": "好きすぎて バカみたい",
+  "category": "CDシングル",
+  "artist": "DEF.DIVA",
+  "releaseDate": "2005.10.19",
+  "label": "zetima",
+  "images": [
+    "/upload/images/388f7cfb7aa140a132292d14e1e1a68b8a23fbf3.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "好きすぎて バカみたい",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "DEF.DIVA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "好きすぎて バカみたい",
+              "duration": "04:46",
+              "suffix": "(CRAZY J-G JAZZ リミックス)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "田中直",
+                "歌": "DEF.DIVA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "好きすぎて バカみたい",
+              "duration": "04:04",
+              "suffix": "(女王リミックス)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA",
+                "歌": "DEF.DIVA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "好きすぎて バカみたい",
+              "duration": "04:55",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "DEF.DIVA"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5381"
+        }
+      ]
+    }
+  ]
+}

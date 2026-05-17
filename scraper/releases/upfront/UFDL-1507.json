@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1507",
+  "url": "/release/detail/UFDL-1507/",
+  "source": "upfront",
+  "title": "ほたる祭りの日",
+  "category": "配信",
+  "artist": "佐藤優樹×宮本佳林",
+  "releaseDate": "2022/08/13",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/3a9fd51b1c7ca55c4334778e34c9e9a7dbe00e00.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/3a9fd51b1c7ca55c4334778e34c9e9a7dbe00e00.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1507",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ほたる祭りの日",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "角田崇徳",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

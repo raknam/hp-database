@@ -1,0 +1,43 @@
+{
+  "id": 4435,
+  "url": "/release/4435/",
+  "title": "道重カメラ 特別編",
+  "category": "DVD",
+  "artist": "モーニング娘。'14",
+  "releaseDate": "2015.4.25",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/d0ec54ce3b615d609d6ecd18c71d106ea33fdba9.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "道重カメラ",
+              "duration": "44:49",
+              "credits": {
+                "出演": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 2,
+              "title": "道重カメラ未公開 特典映像",
+              "duration": "59:36",
+              "credits": {
+                "出演": "モーニング娘。'14"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1442"
+        }
+      ]
+    }
+  ]
+}

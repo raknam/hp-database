@@ -1,0 +1,56 @@
+{
+  "id": 434,
+  "url": "/release/434/",
+  "title": "シングルV「暑中お見舞い申し上げます」",
+  "category": "DVDシングルV",
+  "artist": "℃-ute",
+  "releaseDate": "2009.7.8",
+  "label": "zetima",
+  "images": [
+    "/upload/images/bbc14244837fbb88f1f9232220742aa9534e1db4.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "暑中お見舞い申し上げます",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "喜多條忠",
+                "作曲": "佐瀬寿一",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "暑中お見舞い申し上げます",
+              "duration": "03:07",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "喜多條忠",
+                "作曲": "佐瀬寿一",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "14:25",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5340"
+        }
+      ]
+    }
+  ]
+}

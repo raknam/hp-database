@@ -1,0 +1,68 @@
+{
+  "code": "PKCP-2034",
+  "url": "/release/detail/PKCP-2034/",
+  "source": "upfront",
+  "title": "浪花恋唄",
+  "category": "CDシングル",
+  "artist": "山口のり",
+  "releaseDate": "2008/01/23",
+  "label": "ライスミュージック",
+  "images": [
+    "/images/b0ea115e52b453c8a4d3c3258b61323ce0a589f0.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/b0ea115e52b453c8a4d3c3258b61323ce0a589f0.jpg",
+      "price": "￥1,257 (税抜価格 ￥1,143)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-2034",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "浪花恋唄",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "月光寺照行",
+                "作曲": "前田俊明",
+                "編曲": "前田俊明"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ふたりで帰ろう",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "上田紅葉",
+                "作曲": "石倉重信",
+                "編曲": "石倉重信"
+              }
+            },
+            {
+              "index": 3,
+              "title": "浪花恋唄(オリジナル・カラオケ)",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "月光寺照行",
+                "作曲": "前田俊明",
+                "編曲": "前田俊明"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ふたりで帰ろう(オリジナル・カラオケ)",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "上田紅葉",
+                "作曲": "石倉重信",
+                "編曲": "石倉重信"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

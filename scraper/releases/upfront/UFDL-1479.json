@@ -1,0 +1,88 @@
+{
+  "code": "UFDL-1479",
+  "url": "/release/detail/UFDL-1479/",
+  "source": "upfront",
+  "title": "COVER EP \"NAKED\"",
+  "category": "配信",
+  "artist": "中島卓偉",
+  "releaseDate": "2021/06/03",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/d29323a58acd9b5c3bf5ef54079858949e308161.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d29323a58acd9b5c3bf5ef54079858949e308161.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1479",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "悲しい色やね",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "康珍化",
+                "作曲": "林哲司",
+                "編曲": "中島卓偉/荒幡亮平"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Another Orion",
+              "duration": "05:21",
+              "credits": {
+                "作詞": "藤井フミヤ",
+                "作曲": "増本直樹",
+                "編曲": "中島卓偉/荒幡亮平"
+              }
+            },
+            {
+              "index": 3,
+              "title": "想いあふれて",
+              "duration": "06:16",
+              "credits": {
+                "作詞": "popY",
+                "作曲": "中野雄太",
+                "編曲": "中島卓偉/荒幡亮平"
+              }
+            },
+            {
+              "index": 4,
+              "title": "空に太陽がある限り",
+              "duration": "02:57",
+              "credits": {
+                "作詞": "浜口庫之助",
+                "作曲": "浜口庫之助",
+                "編曲": "中島卓偉/荒幡亮平"
+              }
+            },
+            {
+              "index": 5,
+              "title": "GLORIA",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "森重樹一",
+                "作曲": "森重樹一",
+                "編曲": "中島卓偉/荒幡亮平"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Swallowtail Butterfly～あいのうた～",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "岩井俊二/CHARA/小林武史",
+                "作曲": "小林武史",
+                "編曲": "中島卓偉/荒幡亮平"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

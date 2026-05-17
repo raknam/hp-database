@@ -1,0 +1,68 @@
+{
+  "code": "HKCN-50529",
+  "url": "/release/detail/HKCN-50529/",
+  "source": "upfront",
+  "title": "飾らない歌",
+  "category": "CDシングル",
+  "artist": "エリック・フクサキ",
+  "releaseDate": "2017/10/04",
+  "label": "hachama",
+  "images": [
+    "/images/6f94e97076c75a2c948fe441a6c0dac2faf792dd.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/6f94e97076c75a2c948fe441a6c0dac2faf792dd.jpg",
+      "price": "￥1,731 (税抜価格 ￥1,574)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50529",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "飾らない歌",
+              "duration": "05:15",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "エリック・フクサキ",
+                "編曲": "KEN for 2SOUL MUSIC, Inc. / エリック・フクサキ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "真夜中のマリア",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "Blumio / 亜伊林",
+                "作曲": "エリック・フクサキ",
+                "編曲": "KEN for 2SOUL MUSIC, Inc. / エリック・フクサキ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "飾らない歌(Instrumental)",
+              "duration": "05:15",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "エリック・フクサキ",
+                "編曲": "KEN for 2SOUL MUSIC, Inc. / エリック・フクサキ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "真夜中のマリア(Instrumental)",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "エリック・フクサキ",
+                "編曲": "KEN for 2SOUL MUSIC, Inc. / エリック・フクサキ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

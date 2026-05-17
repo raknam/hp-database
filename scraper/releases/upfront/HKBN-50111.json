@@ -1,0 +1,83 @@
+{
+  "code": "HKBN-50111",
+  "url": "/release/detail/HKBN-50111/",
+  "source": "upfront",
+  "title": "マノグアム",
+  "category": "DVD",
+  "artist": "真野恵里菜",
+  "releaseDate": "2009/04/01",
+  "label": "hachama",
+  "images": [
+    "/images/7cc211cbdf71a4936638daef0d5f0c2298feae87.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7cc211cbdf71a4936638daef0d5f0c2298feae87.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKBN-50111",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "マノピアノ メイキング",
+              "duration": "01:45"
+            },
+            {
+              "index": 2,
+              "title": "オープンカーでお買い物",
+              "duration": "09:14"
+            },
+            {
+              "index": 3,
+              "title": "写真集メイキング その①",
+              "duration": "14:07"
+            },
+            {
+              "index": 4,
+              "title": "SLING SHOT",
+              "duration": "07:02"
+            },
+            {
+              "index": 5,
+              "title": "1日の終わり",
+              "duration": "03:19"
+            },
+            {
+              "index": 6,
+              "title": "マノピアノ",
+              "duration": "02:05"
+            },
+            {
+              "index": 7,
+              "title": "写真集メイキング その②",
+              "duration": "05:19"
+            },
+            {
+              "index": 8,
+              "title": "ビーチ",
+              "duration": "05:28"
+            },
+            {
+              "index": 9,
+              "title": "POOL",
+              "duration": "05:55"
+            },
+            {
+              "index": 10,
+              "title": "メッセージ",
+              "duration": "01:52"
+            },
+            {
+              "index": 11,
+              "title": "エンディング ーラッキーオーラー",
+              "duration": "05:09"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

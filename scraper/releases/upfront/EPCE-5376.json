@@ -1,0 +1,102 @@
+{
+  "code": "EPCE-5376",
+  "url": "/release/detail/EPCE-5376/",
+  "source": "upfront",
+  "title": "気がつけば あなた",
+  "category": "CDシングル",
+  "artist": "松浦亜弥",
+  "releaseDate": "2005/09/21",
+  "label": "zetima",
+  "images": [
+    "/images/4dc705d02cef6e5f177fce8ffbf0aa3a4cf25e51.jpg",
+    "/images/b261a31ec559b4e1745d443df9257a05e212e243.jpg"
+  ],
+  "editions": [
+    {
+      "name": "初回盤：DVD付き",
+      "image": "/images/4dc705d02cef6e5f177fce8ffbf0aa3a4cf25e51.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5376",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "気がつけば あなた",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行/名越由貴夫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "友情～上カルビ～",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 3,
+              "title": "気がつけば あなた(Instrumental)",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行/名越由貴夫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/images/b261a31ec559b4e1745d443df9257a05e212e243.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5378",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "気がつけば あなた",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行/名越由貴夫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "友情～上カルビ～",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 3,
+              "title": "気がつけば あなた(Instrumental)",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行/名越由貴夫"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

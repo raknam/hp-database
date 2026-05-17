@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5411",
+  "url": "/release/detail/EPBE-5411/",
+  "source": "upfront",
+  "title": "シングルV「夏ダカラ！」",
+  "category": "DVDシングルV",
+  "artist": "Buono!",
+  "releaseDate": "2011/07/27",
+  "label": "zetima",
+  "images": [
+    "/images/1597b06406d62f60efc34f7fa8f0d685d95789bf.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/1597b06406d62f60efc34f7fa8f0d685d95789bf.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5411",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夏ダカラ！(Music Video)",
+              "duration": "05:10",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "今井千尋"
+              }
+            },
+            {
+              "index": 2,
+              "title": "夏ダカラ！(Close-up Ver.)",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "今井千尋"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "14:42"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

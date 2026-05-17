@@ -1,0 +1,75 @@
+{
+  "id": 3462,
+  "url": "/release/3462/",
+  "title": "I.",
+  "category": "DVD",
+  "artist": "高橋愛",
+  "releaseDate": "2009.6.17",
+  "label": "zetima",
+  "images": [
+    "/upload/images/9193b45b3cfe2b433c70bd0981135e5e6dbc362a.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "The Making of 「私」",
+              "duration": "32:47",
+              "credits": {
+                "出演": "高橋愛(モーニング娘。)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Introduction",
+              "duration": "03:50",
+              "credits": {
+                "出演": "高橋愛(モーニング娘。)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Chaminade University",
+              "duration": "07:03",
+              "credits": {
+                "出演": "高橋愛(モーニング娘。)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Image Scene",
+              "duration": "04:54",
+              "credits": {
+                "出演": "高橋愛(モーニング娘。)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "The Actors Workshop",
+              "duration": "09:00",
+              "credits": {
+                "出演": "高橋愛(モーニング娘。)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "02:37",
+              "credits": {
+                "出演": "高橋愛(モーニング娘。)"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5327"
+        }
+      ]
+    }
+  ]
+}

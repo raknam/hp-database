@@ -1,0 +1,121 @@
+{
+  "code": "HKCN-50126",
+  "url": "/release/detail/HKCN-50126/",
+  "source": "upfront",
+  "title": "元気者で行こう！",
+  "category": "CDシングル",
+  "artist": "真野恵里菜",
+  "releaseDate": "2010/09/15",
+  "label": "hachama",
+  "images": [
+    "/images/8bd91079286d2e83665425a302e7223d6cdbb89e.jpg",
+    "/images/47b2aeb4f90ccc92bcb247063cfeb6dd7bbecfb5.jpg",
+    "/images/b2ca068cee20afb6c27c017a387c3bdb68f9b4a4.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/8bd91079286d2e83665425a302e7223d6cdbb89e.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50126",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "元気者で行こう！",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "畠山俊昭",
+                "編曲": "河合英嗣"
+              }
+            },
+            {
+              "index": 2,
+              "title": "家へ帰ろう",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "畠山俊昭",
+                "編曲": "津沢崇"
+              }
+            },
+            {
+              "index": 3,
+              "title": "元気者で行こう！(Instrumental)",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "畠山俊昭",
+                "編曲": "河合英嗣"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/47b2aeb4f90ccc92bcb247063cfeb6dd7bbecfb5.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50128",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ジャケット撮影メイキング映像",
+              "duration": "04:21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/b2ca068cee20afb6c27c017a387c3bdb68f9b4a4.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50131",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "元気者で行こう！",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "畠山俊昭",
+                "編曲": "河合英嗣"
+              }
+            },
+            {
+              "index": 2,
+              "title": "家へ帰ろう",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "畠山俊昭",
+                "編曲": "津沢崇"
+              }
+            },
+            {
+              "index": 3,
+              "title": "元気者で行こう！(Instrumental)",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "畠山俊昭",
+                "編曲": "河合英嗣"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

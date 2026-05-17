@@ -1,0 +1,48 @@
+{
+  "code": "EPBE-5122",
+  "url": "/release/detail/EPBE-5122/",
+  "source": "upfront",
+  "title": "ミニモニ。でブレーメンの音楽隊 Vol.2",
+  "category": "DVD",
+  "artist": "ミニモニ｡",
+  "releaseDate": "2004/04/28",
+  "label": "zetima",
+  "images": [
+    "/images/a1e155887854eca6ff2b03727a73dfc5ee8559a2.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/a1e155887854eca6ff2b03727a73dfc5ee8559a2.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5122",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "第5回 ネコの傘がない",
+              "duration": "24:56"
+            },
+            {
+              "index": 2,
+              "title": "第6回 ネコに白いギター",
+              "duration": "24:56"
+            },
+            {
+              "index": 3,
+              "title": "第7回 ネコが熱中",
+              "duration": "24:57"
+            },
+            {
+              "index": 4,
+              "title": "第8回 ネコで大逆転！",
+              "duration": "25:06"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

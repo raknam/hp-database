@@ -1,0 +1,55 @@
+{
+  "code": "HKBN-50147",
+  "url": "/release/detail/HKBN-50147/",
+  "source": "upfront",
+  "title": "シングルV「恋にBooing ブー！」",
+  "category": "DVDシングルV",
+  "artist": "スマイレージ",
+  "releaseDate": "2011/05/11",
+  "label": "hachama",
+  "images": [
+    "/images/3fb1a959a69c2dc3a78669be0141883ae98cc64b.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/3fb1a959a69c2dc3a78669be0141883ae98cc64b.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "HKBN-50147",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋にBooing ブー！(MUSIC VIDEO)",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋にBooing ブー！(Close-up Ver.)",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "14:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

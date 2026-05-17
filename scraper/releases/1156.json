@@ -1,0 +1,59 @@
+{
+  "id": 1156,
+  "url": "/release/1156/",
+  "title": "シングルV「有頂天LOVE」",
+  "category": "DVDシングルV",
+  "artist": "スマイレージ",
+  "releaseDate": "2011.8.10",
+  "label": "hachama",
+  "images": [
+    "/upload/images/0ee35d395dcc596a7b6a0b1015e9751d465ffffc.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "有頂天LOVE",
+              "duration": "04:16",
+              "suffix": "(MUSIC VIDEO)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "有頂天LOVE",
+              "duration": "04:24",
+              "suffix": "(超Close-upVer.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "15:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "HKBN-50151"
+        }
+      ]
+    }
+  ]
+}

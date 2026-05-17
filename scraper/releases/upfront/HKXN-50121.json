@@ -1,0 +1,628 @@
+{
+  "code": "HKXN-50121",
+  "url": "/release/detail/HKXN-50121/",
+  "source": "upfront",
+  "title": "Hello! Project 25th ANNIVERSARY CONCERT「Theme Of Hello!」「ALL FOR ONE & ONE FOR ALL!」",
+  "category": "BD",
+  "artist": "V.A.",
+  "releaseDate": "2024/03/20",
+  "label": "hachama",
+  "images": [
+    "/images/6869449fa320964692857d493d0ab06bd9337c85.jpg"
+  ],
+  "editions": [
+    {
+      "name": "＜Disc1＞「Theme Of Hello!」",
+      "image": "/images/6869449fa320964692857d493d0ab06bd9337c85.jpg",
+      "price": "￥14,300 (税抜価格 ￥13,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKXN-50121",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "02:40"
+            },
+            {
+              "index": 2,
+              "title": "Hello!のテーマ",
+              "duration": "02:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "MC",
+              "duration": "02:00"
+            },
+            {
+              "index": 4,
+              "title": "彼女になりたいっ！！！",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "女で地球は回ってる",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "夢見る 15歳",
+              "duration": "02:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 7,
+              "title": "スタートライン",
+              "duration": "02:53",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 8,
+              "title": "シェケナーレ",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "ANDW"
+              }
+            },
+            {
+              "index": 9,
+              "title": "白いTOKYO～グルグルJUMP～赤いフリージア",
+              "duration": "05:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 10,
+              "title": "恋する銀河",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "加藤裕介"
+              }
+            },
+            {
+              "index": 11,
+              "title": "MC",
+              "duration": "01:52"
+            },
+            {
+              "index": 12,
+              "title": "妄想だけならフリーダム",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "板垣祐介"
+              }
+            },
+            {
+              "index": 13,
+              "title": "情熱行き 未来船",
+              "duration": "02:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 14,
+              "title": "記憶の迷路",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 15,
+              "title": "プライド・ブライト",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい"
+              }
+            },
+            {
+              "index": 16,
+              "title": "アイノケダモノ",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 17,
+              "title": "気まぐれプリンセス",
+              "duration": "02:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 18,
+              "title": "きみの登場",
+              "duration": "02:45",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 19,
+              "title": "HEAVY GATE",
+              "duration": "04:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 20,
+              "title": "MC",
+              "duration": "02:01"
+            },
+            {
+              "index": 21,
+              "title": "My Days for You",
+              "duration": "03:08",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 22,
+              "title": "お祭りデビューだぜ！",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 23,
+              "title": "ニッポンノD・N・A！",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "野沢トオル",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 24,
+              "title": "Kiss me 愛してる",
+              "duration": "03:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 25,
+              "title": "アドレナリン・ダメ",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 26,
+              "title": "Go Girl ～恋のヴィクトリー～",
+              "duration": "02:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 27,
+              "title": "MC",
+              "duration": "00:37"
+            },
+            {
+              "index": 28,
+              "title": "恋の呪縛",
+              "duration": "03:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 29,
+              "title": "What is LOVE?",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 30,
+              "title": "Fiesta! Fiesta!",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "エリック・フクサキ"
+              }
+            },
+            {
+              "index": 31,
+              "title": "初恋サイダー",
+              "duration": "02:26",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "しほり"
+              }
+            },
+            {
+              "index": 32,
+              "title": "お願い魅惑のターゲット",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "上田ケンジ",
+                "作曲": "田中秀典"
+              }
+            },
+            {
+              "index": 33,
+              "title": "大器晩成",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 34,
+              "title": "MC",
+              "duration": "01:49"
+            },
+            {
+              "index": 35,
+              "title": "LOVEマシーン(updated 23 Ver.)",
+              "duration": "06:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 36,
+              "title": "Sunset Summer Fever(オープニングアクト)",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "西寺郷太",
+                "作曲": "西寺郷太/大樋祐大"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "＜Disc2＞「ALL FOR ONE & ONE FOR ALL!」ACT Ⅰ",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "特典映像",
+          "catalogNo": "HKXN-50122",
+          "tracks": [
+            {
+              "index": 37,
+              "title": "バックステージ映像",
+              "duration": "17:31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "＜Disc3＞「ALL FOR ONE & ONE FOR ALL!」ACT Ⅱ",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKXN-50123",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "02:43"
+            },
+            {
+              "index": 2,
+              "title": "黄色いお空で BOOM BOOM BOOM",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "大きな愛でもてなして",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "恋のテレフォンGOAL",
+              "duration": "03:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "This is 運命",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "新堂敦士/つんく",
+                "作曲": "新堂敦士"
+              }
+            },
+            {
+              "index": 6,
+              "title": "抱いてよ！PLEASE GO ON",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Yeah！めっちゃホリディ",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 8,
+              "title": "ロマンティック 浮かれモード",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 9,
+              "title": "MC",
+              "duration": "03:22"
+            },
+            {
+              "index": 10,
+              "title": "カッチョイイゼ！JAPAN",
+              "duration": "03:05",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 11,
+              "title": "恋する♡エンジェル♡ハート",
+              "duration": "02:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 12,
+              "title": "MC",
+              "duration": "02:28"
+            },
+            {
+              "index": 13,
+              "title": "ガタメキラ",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 14,
+              "title": "Magic of Love",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 15,
+              "title": "MC",
+              "duration": "02:37"
+            },
+            {
+              "index": 16,
+              "title": "FIRST KISS",
+              "duration": "02:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 17,
+              "title": "サウスポー",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "阿久悠",
+                "作曲": "都倉俊一"
+              }
+            },
+            {
+              "index": 18,
+              "title": "浮気なハニーパイ",
+              "duration": "02:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 19,
+              "title": "ラララのピピピ",
+              "duration": "03:05",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 20,
+              "title": "MC",
+              "duration": "03:30"
+            },
+            {
+              "index": 21,
+              "title": "ミニモニ。ジャンケンぴょん！",
+              "duration": "02:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 22,
+              "title": "ちょこっとLOVE",
+              "duration": "02:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 23,
+              "title": "恋をしちゃいました！",
+              "duration": "03:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 24,
+              "title": "MC",
+              "duration": "03:10"
+            },
+            {
+              "index": 25,
+              "title": "悔し涙 ぽろり",
+              "duration": "02:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 26,
+              "title": "サマーナイトタウン",
+              "duration": "02:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 27,
+              "title": "ザ☆ピ～ス！",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 28,
+              "title": "Do it! Now",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 29,
+              "title": "大きい瞳",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 30,
+              "title": "リゾナント ブルー",
+              "duration": "03:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 31,
+              "title": "恋愛レボリュ－ション21",
+              "duration": "03:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 32,
+              "title": "MC",
+              "duration": "06:01"
+            },
+            {
+              "index": 33,
+              "title": "ALL FOR ONE & ONE FOR ALL！",
+              "duration": "07:36",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

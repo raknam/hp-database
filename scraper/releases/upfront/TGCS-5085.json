@@ -1,0 +1,48 @@
+{
+  "code": "TGCS-5085",
+  "url": "/release/detail/TGCS-5085/",
+  "source": "upfront",
+  "title": "ラッキーオーラ",
+  "category": "CDシングル",
+  "artist": "真野恵里菜",
+  "releaseDate": "2008/10/04",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/a8747eb41b47e80845b40594cae8b59124d977e3.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/a8747eb41b47e80845b40594cae8b59124d977e3.jpg",
+      "price": "￥838 (税抜価格 ￥762)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "TGCS-5085",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ラッキーオーラ",
+              "duration": "04:54",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "たいせい"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ラッキーオーラ(Instrumental)",
+              "duration": "04:54",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "編曲": "たいせい"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

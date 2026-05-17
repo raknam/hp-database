@@ -1,0 +1,68 @@
+{
+  "code": "EPDE-1051",
+  "url": "/release/detail/EPDE-1051/",
+  "source": "upfront",
+  "title": "Everyday Everywhere",
+  "category": "CDシングル",
+  "artist": "太陽とシスコムーン",
+  "releaseDate": "1999/08/25",
+  "label": "zetima",
+  "images": [
+    "/images/2336e4ded9d2271388c4d235710e5b7641c6bc25.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/2336e4ded9d2271388c4d235710e5b7641c6bc25.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1051",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Everyday Everywhere",
+              "duration": "05:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "村山晋一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "宇宙でLa Ta Tasuper afro remix remixed by ORIENTA－RHYTHM for BASEMENT FACTORY PRODUCTIONS",
+              "duration": "05:08",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ORIENTA－RHYTHM"
+              }
+            },
+            {
+              "index": 3,
+              "title": "宇宙でLa Ta Taafter summer remix remixed by CHiBUN",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "CHiBUN"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Everyday Everywhere (instrumental)",
+              "duration": "05:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "村山晋一郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

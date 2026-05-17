@@ -1,0 +1,63 @@
+{
+  "code": "UFBW-1057",
+  "url": "/release/detail/UFBW-1057/",
+  "source": "upfront",
+  "title": "陽だまり",
+  "category": "DVD",
+  "artist": "中島早貴",
+  "releaseDate": "2011/02/04",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/03531e45c266f9b3847d04a7564531034157a40e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/03531e45c266f9b3847d04a7564531034157a40e.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1057",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "01:15"
+            },
+            {
+              "index": 2,
+              "title": "School girl",
+              "duration": "12:56"
+            },
+            {
+              "index": 3,
+              "title": "at Caf?",
+              "duration": "10:43"
+            },
+            {
+              "index": 4,
+              "title": "in the Room",
+              "duration": "11:16"
+            },
+            {
+              "index": 5,
+              "title": "Interview",
+              "duration": "10:44"
+            },
+            {
+              "index": 6,
+              "title": "Making",
+              "duration": "04:39"
+            },
+            {
+              "index": 7,
+              "title": "Ending",
+              "duration": "00:46"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": 6717,
+  "url": "/release/6717/",
+  "title": "Hello! Projectが行く！ナルチカ日帰り里山旅2022",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2022.4.9",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/55d0388b128c035ca057e56746cf136f6d0dcec3.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "10:00",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "釣り堀＆BBQ",
+              "duration": "11:01",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 3,
+              "title": "富崎館再建",
+              "duration": "02:52",
+              "credits": {
+                "出演": "石田亜佑美・野中美希・小野田紗栞・石栗奏美"
+              }
+            },
+            {
+              "index": 4,
+              "title": "イチゴ狩り＆ドレッシング作り",
+              "duration": "04:49",
+              "credits": {
+                "出演": "加賀楓・為永幸音・浅倉樹々・西﨑美空"
+              }
+            },
+            {
+              "index": 5,
+              "title": "古民家 南極スペースで料理",
+              "duration": "05:15",
+              "credits": {
+                "出演": "石田亜佑美・野中美希・小野田紗栞・石栗奏美"
+              }
+            },
+            {
+              "index": 6,
+              "title": "エンディング",
+              "duration": "01:06",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 7,
+              "title": "おまけ",
+              "duration": "03:37",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 8,
+              "title": "ナレーション撮りを終えて・・・",
+              "duration": "01:08",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 9,
+              "title": "ナルチカ里山旅 ハロプロ女子会",
+              "duration": "23:04",
+              "suffix": "【DVD特別企画】",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1666"
+        }
+      ]
+    }
+  ]
+}

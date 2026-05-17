@@ -1,0 +1,53 @@
+{
+  "code": "UFXW-2014",
+  "url": "/release/detail/UFXW-2014/",
+  "source": "upfront",
+  "title": "Greeting〜羽賀朱音〜",
+  "category": "BD",
+  "artist": "羽賀朱音",
+  "releaseDate": "2016/08/18",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/ebd83f4687f2228ef14914fa63001831e9d299b8.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/ebd83f4687f2228ef14914fa63001831e9d299b8.jpg",
+      "price": "￥6,600 (税抜価格 ￥6,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "UFXW-2014",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Fresh Green",
+              "duration": "15:08"
+            },
+            {
+              "index": 2,
+              "title": "By the lake & Interview with Akane Haga",
+              "duration": "18:20"
+            },
+            {
+              "index": 3,
+              "title": "Fairy Forest",
+              "duration": "09:50"
+            },
+            {
+              "index": 4,
+              "title": "The Making",
+              "duration": "04:33"
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "02:27"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

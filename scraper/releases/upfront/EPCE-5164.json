@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5164",
+  "url": "/release/detail/EPCE-5164/",
+  "source": "upfront",
+  "title": "幸せですか？",
+  "category": "CDシングル",
+  "artist": "セクシー8",
+  "releaseDate": "2002/07/03",
+  "label": "zetima",
+  "images": [
+    "/images/f67214974416c79fc824071d81bf285fb38524a4.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f67214974416c79fc824071d81bf285fb38524a4.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5164",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "幸せですか？",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "よくある親子のセレナーデ(セクシー8 Version)",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "SHO-1"
+              }
+            },
+            {
+              "index": 3,
+              "title": "幸せですか？(Instrumental)",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

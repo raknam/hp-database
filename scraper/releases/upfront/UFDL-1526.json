@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1526",
+  "url": "/release/detail/UFDL-1526/",
+  "source": "upfront",
+  "title": "世界に刻め！イナズママーク Short Size",
+  "category": "配信",
+  "artist": "T-Pistonz",
+  "releaseDate": "2023/12/24",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/82b73253a17cad2e2d505d58c3ff6d7c71f0afe7.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/82b73253a17cad2e2d505d58c3ff6d7c71f0afe7.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1526",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "世界に刻め！イナズママーク Short Size",
+              "duration": "01:40",
+              "credits": {
+                "作詞": "山崎徹",
+                "作曲": "山崎徹",
+                "編曲": "S.KAWAI"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

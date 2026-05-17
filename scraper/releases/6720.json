@@ -1,0 +1,573 @@
+{
+  "id": 6720,
+  "url": "/release/6720/",
+  "title": "恋のクラウチングスタート/お祭りデビューだぜ！",
+  "category": "CDシングル",
+  "artist": "OCHA NORMA",
+  "releaseDate": "2022.7.13",
+  "label": "zetima",
+  "images": [
+    "/upload/images/8df0e36019125fb7695c65675861a2142645e8f3.webp",
+    "/upload/images/f046533bfb2677ec928e9f36f428b0c860245ec6.webp",
+    "/upload/images/26b4674d10d47dc204afedc3d281ae1eac64dd44.webp",
+    "/upload/images/4461680d3b4b5e887c98f27b15351ae353a76e50.webp",
+    "/upload/images/a65ad6e3073335e15f84e04b7fa23274a2cea6e2.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/8df0e36019125fb7695c65675861a2142645e8f3.webp",
+      "price": "￥2,090（税抜価格 ￥1,900）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋のクラウチングスタート",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "お祭りデビューだぜ！",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘/星部ショウ",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋のクラウチングスタート",
+              "duration": "03:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "お祭りデビューだぜ！",
+              "duration": "04:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘/星部ショウ",
+                "歌": "OCHA NORMA"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7694"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋のクラウチングスタート",
+              "duration": "04:22",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋のクラウチングスタート",
+              "duration": "03:54",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋のクラウチングスタート",
+              "duration": "14:41",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "OCHA NORMA"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/f046533bfb2677ec928e9f36f428b0c860245ec6.webp",
+      "price": "￥2,090（税抜価格 ￥1,900）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋のクラウチングスタート",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "お祭りデビューだぜ！",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘/星部ショウ",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋のクラウチングスタート",
+              "duration": "03:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "お祭りデビューだぜ！",
+              "duration": "04:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘/星部ショウ",
+                "歌": "OCHA NORMA"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7696"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "お祭りデビューだぜ！",
+              "duration": "05:22",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "お祭りデビューだぜ！",
+              "duration": "04:34",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "お祭りデビューだぜ！",
+              "duration": "14:48",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "OCHA NORMA"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付"
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/upload/images/26b4674d10d47dc204afedc3d281ae1eac64dd44.webp",
+      "price": "￥2,310（税抜価格 ￥2,100）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋のクラウチングスタート",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "お祭りデビューだぜ！",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘/星部ショウ",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋のクラウチングスタート",
+              "duration": "03:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "お祭りデビューだぜ！",
+              "duration": "04:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘/星部ショウ",
+                "歌": "OCHA NORMA"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7698"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋のクラウチングスタート",
+              "duration": "03:55",
+              "suffix": "(Stadium Dance Shot Ver.)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "お祭りデビューだぜ！",
+              "duration": "04:29",
+              "suffix": "(お茶の間 Ver.)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "好きすぎてバカみたい",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "斉藤円香"
+              }
+            },
+            {
+              "index": 4,
+              "title": "明日テンキになあれ",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン",
+                "出演": "広本瑠璃"
+              }
+            },
+            {
+              "index": 5,
+              "title": "何故 人は争うんだろう？",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "出演": "石栗奏美"
+              }
+            },
+            {
+              "index": 6,
+              "title": "This is 運命",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "新堂敦士/つんく",
+                "作曲": "新堂敦士",
+                "出演": "米村姫良々"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ピーナッツバタージェリーラブ",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "エリック・フクサキ/三浦徳子",
+                "作曲": "エリック・フクサキ",
+                "出演": "窪田七海"
+              }
+            },
+            {
+              "index": 8,
+              "title": "愛の園～Touch My Heart!～",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "田代すみれ"
+              }
+            },
+            {
+              "index": 9,
+              "title": "恋ING",
+              "duration": "05:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "中山夏月姫"
+              }
+            },
+            {
+              "index": 10,
+              "title": "ボーイフレンド",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "西﨑美空"
+              }
+            },
+            {
+              "index": 11,
+              "title": "ガラスのパンプス",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "北原もも"
+              }
+            },
+            {
+              "index": 12,
+              "title": "Love take it all",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "筒井澪心"
+              }
+            },
+            {
+              "index": 13,
+              "title": "Documentary of OCHA NORMA",
+              "duration": "37:02",
+              "credits": {
+                "出演": "OCHA NORMA"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/4461680d3b4b5e887c98f27b15351ae353a76e50.webp",
+      "price": "定価 ￥1,300（税抜価格 ￥1,182）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋のクラウチングスタート",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "お祭りデビューだぜ！",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘/星部ショウ",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "デート前夜狂想曲",
+              "duration": "03:00",
+              "suffix": "【Additional Track】",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/ha-j",
+                "編曲": "ha-j",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "恋のクラウチングスタート",
+              "duration": "03:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 5,
+              "title": "お祭りデビューだぜ！",
+              "duration": "04:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘/星部ショウ",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 6,
+              "title": "デート前夜狂想曲",
+              "duration": "03:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/ha-j",
+                "編曲": "ha-j",
+                "歌": "OCHA NORMA"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7700"
+        }
+      ],
+      "note": "トレーディングカードソロ10種＋キラ仕様集合1種よりランダムにて1枚封入(恋のクラウチングスタート Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/a65ad6e3073335e15f84e04b7fa23274a2cea6e2.webp",
+      "price": "定価 ￥1,300（税抜価格 ￥1,182）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋のクラウチングスタート",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "お祭りデビューだぜ！",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘/星部ショウ",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ラーメン大好き小泉さんの唄",
+              "duration": "04:06",
+              "suffix": "(Single Ver.)【Additional Track】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "シャ乱Q",
+                "編曲": "平田祥一郎",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "恋のクラウチングスタート",
+              "duration": "03:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 5,
+              "title": "お祭りデビューだぜ！",
+              "duration": "04:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "炭竃智弘/星部ショウ",
+                "歌": "OCHA NORMA"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ラーメン大好き小泉さんの唄",
+              "duration": "04:05",
+              "suffix": "(Single Ver.)(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "シャ乱Q",
+                "編曲": "平田祥一郎",
+                "歌": "OCHA NORMA"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7701"
+        }
+      ],
+      "note": "トレーディングカードソロ10種＋キラ仕様集合1種よりランダムにて1枚封入(お祭りデビューだぜ！ Ver.)※初回プレス分のみ"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1047,
+  "url": "/release/1047/",
+  "title": "Memory 青春の光",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "1999.2.10",
+  "label": "zetima",
+  "images": [
+    "/upload/images/c24c5d4abd12028e2d1d7fa18fc2e6c7a734c35d.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Memory 青春の光",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Happy Night",
+              "duration": "05:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Never Forget",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Memory 青春の光",
+              "duration": "05:03",
+              "suffix": "(オリジナルカラオケ)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPDE-1020"
+        }
+      ]
+    }
+  ]
+}

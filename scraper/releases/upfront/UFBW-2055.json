@@ -1,0 +1,110 @@
+{
+  "code": "UFBW-2055",
+  "url": "/release/detail/UFBW-2055/",
+  "source": "upfront",
+  "title": "道重さゆみのモベキマスってなに??1",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012/07/19",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/47d727a8ddb34d2cbb1629a59f2cd206424b145b.jpg",
+    "/images/14b595e4517cf0e4f8bba56972fadb1a5f4fd11e.jpg",
+    "/images/4a7f6ab268f1d16bdc440891cc689c0f3909890e.jpg",
+    "/images/b31cb340ceb262d2175c968f1982836f8827fe43.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/47d727a8ddb34d2cbb1629a59f2cd206424b145b.jpg",
+      "price": "￥2,096 (税抜価格 ￥1,905)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2055",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "第1回 ゲスト 和田彩花・福田花音(スマイレージ)",
+              "duration": "41:31"
+            },
+            {
+              "index": 2,
+              "title": "第2回 ゲスト 飯窪春菜・石田亜佑美・佐藤優樹(モーニング娘。)",
+              "duration": "51:19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": "/images/14b595e4517cf0e4f8bba56972fadb1a5f4fd11e.jpg",
+      "price": "￥2,096 (税抜価格 ￥1,905)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2056",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "第3回 ゲスト 真野恵里菜",
+              "duration": "53:09"
+            },
+            {
+              "index": 2,
+              "title": "第4回 ゲスト 嗣永桃子・徳永千奈美・熊井友理奈(Berryz工房)",
+              "duration": "52:39"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": "/images/4a7f6ab268f1d16bdc440891cc689c0f3909890e.jpg",
+      "price": "￥2,096 (税抜価格 ￥1,905)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2057",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "第5回 ゲスト 矢島舞美・岡井千聖(℃-ute)",
+              "duration": "59:55"
+            },
+            {
+              "index": 2,
+              "title": "第6回 ゲスト 鞘師里保・工藤遥(モーニング娘。)・鈴木愛理(℃-ute)",
+              "duration": "01:13:31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": "/images/b31cb340ceb262d2175c968f1982836f8827fe43.jpg",
+      "price": "￥2,096 (税抜価格 ￥1,905)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2058",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "第7回 ゲスト 新垣里沙・田中れいな(モーニング娘。)・光井愛佳",
+              "duration": "56:38"
+            },
+            {
+              "index": 2,
+              "title": "第8回 ゲスト 清水佐紀・嗣永桃子(Berryz工房)・矢島舞美(℃-ute)",
+              "duration": "01:19:48"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,433 @@
+{
+  "id": 6544,
+  "url": "/release/6544/",
+  "title": "演劇女子部「眠れる森のビヨ」",
+  "category": "BD",
+  "artist": "BEYOOOOONDS",
+  "releaseDate": "2021.9.15",
+  "label": "zetima",
+  "images": [
+    "/upload/images/e8f6407d7d3bb54b7b8a100b5bd189c1bf0786c2.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "はじまりの朝",
+              "duration": "04:23",
+              "credits": {
+                "出演": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "華山高校演劇部",
+              "duration": "10:14",
+              "credits": {
+                "出演": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ヒカルとヒマリ",
+              "duration": "09:06",
+              "credits": {
+                "出演": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "稽古の時間",
+              "duration": "04:55",
+              "credits": {
+                "出演": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ツムギの特訓",
+              "duration": "03:40",
+              "credits": {
+                "出演": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ツムギの特訓2",
+              "duration": "05:02",
+              "credits": {
+                "出演": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 7,
+              "title": "あとは脚本だけだね",
+              "duration": "01:10",
+              "credits": {
+                "出演": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 8,
+              "title": "不穏",
+              "duration": "02:15",
+              "credits": {
+                "出演": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 9,
+              "title": "眠れる森の美女",
+              "duration": "11:51",
+              "credits": {
+                "出演": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 10,
+              "title": "エンディングについて",
+              "duration": "02:22",
+              "credits": {
+                "出演": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 11,
+              "title": "眠れる森の美女2",
+              "duration": "03:08",
+              "credits": {
+                "出演": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 12,
+              "title": "ヒマリの想い",
+              "duration": "02:34",
+              "credits": {
+                "出演": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 13,
+              "title": "亡霊",
+              "duration": "04:37",
+              "credits": {
+                "出演": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 14,
+              "title": "幸福の日々",
+              "duration": "08:05",
+              "credits": {
+                "出演": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 15,
+              "title": "ヒカルとツムギ",
+              "duration": "03:36",
+              "credits": {
+                "出演": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 16,
+              "title": "違和感",
+              "duration": "04:05",
+              "credits": {
+                "出演": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 17,
+              "title": "破壊と再生",
+              "duration": "07:07",
+              "credits": {
+                "出演": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 18,
+              "title": "みんながいるよ",
+              "duration": "02:18",
+              "credits": {
+                "出演": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 19,
+              "title": "行かないで",
+              "duration": "02:30",
+              "credits": {
+                "出演": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 20,
+              "title": "真実",
+              "duration": "07:04",
+              "credits": {
+                "出演": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 21,
+              "title": "君達の目的",
+              "duration": "01:23",
+              "credits": {
+                "出演": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 22,
+              "title": "祈り、願い",
+              "duration": "07:24",
+              "credits": {
+                "出演": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 23,
+              "title": "夢の終わり",
+              "duration": "04:37",
+              "credits": {
+                "出演": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 24,
+              "title": "いつもの朝",
+              "duration": "05:22",
+              "credits": {
+                "出演": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 25,
+              "title": "続く世界",
+              "duration": "02:19",
+              "credits": {
+                "出演": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 26,
+              "title": "カーテンコール",
+              "duration": "10:06",
+              "credits": {
+                "出演": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 27,
+              "title": "みんなと歌おう",
+              "duration": "04:44",
+              "credits": {
+                "出演": "演劇女子部(BEYOOOOONDS)"
+              }
+            }
+          ],
+          "catalogNo": "EPXE-5197"
+        },
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "祈り",
+              "duration": "01:06",
+              "credits": {
+                "作曲": "和田俊輔",
+                "編曲": "原嘉宏",
+                "歌": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "朝が来た",
+              "duration": "02:06",
+              "credits": {
+                "作詞": "中島庸介",
+                "作曲": "和田俊輔",
+                "編曲": "文愛実",
+                "歌": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "始まりの光",
+              "duration": "01:27",
+              "credits": {
+                "作詞": "中島庸介",
+                "作曲": "和田俊輔",
+                "編曲": "文愛実",
+                "歌": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "青春を作ろう",
+              "duration": "02:54",
+              "credits": {
+                "作詞": "中島庸介",
+                "作曲": "和田俊輔",
+                "編曲": "文愛実",
+                "歌": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "穏やかな時に包まれて",
+              "duration": "00:33",
+              "credits": {
+                "作曲": "和田俊輔",
+                "編曲": "原嘉宏",
+                "歌": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "みんなと歩こう",
+              "duration": "01:32",
+              "credits": {
+                "作詞": "中島庸介",
+                "作曲": "和田俊輔",
+                "編曲": "文愛実",
+                "歌": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 7,
+              "title": "眠れる森の美女の世界",
+              "duration": "16:48",
+              "credits": {
+                "作詞": "中島庸介",
+                "作曲": "和田俊輔",
+                "編曲": "はるきねる",
+                "歌": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 8,
+              "title": "永遠になればいいのに",
+              "duration": "02:34",
+              "credits": {
+                "作詞": "中島庸介",
+                "作曲": "和田俊輔",
+                "編曲": "文愛実",
+                "歌": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 9,
+              "title": "永遠になればいいのに2",
+              "duration": "01:25",
+              "credits": {
+                "作詞": "中島庸介",
+                "作曲": "和田俊輔",
+                "編曲": "和田俊輔",
+                "歌": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 10,
+              "title": "枯れた声",
+              "duration": "02:02",
+              "credits": {
+                "作詞": "中島庸介",
+                "作曲": "和田俊輔",
+                "編曲": "原嘉宏",
+                "歌": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 11,
+              "title": "やりなおそう",
+              "duration": "02:21",
+              "credits": {
+                "作詞": "中島庸介",
+                "作曲": "和田俊輔",
+                "編曲": "文愛実",
+                "歌": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 12,
+              "title": "永遠になればいいのに3",
+              "duration": "01:30",
+              "credits": {
+                "作詞": "中島庸介",
+                "作曲": "和田俊輔",
+                "編曲": "和田俊輔",
+                "歌": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 13,
+              "title": "光と陰",
+              "duration": "01:35",
+              "credits": {
+                "作詞": "中島庸介",
+                "作曲": "和田俊輔",
+                "編曲": "文愛実",
+                "歌": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 14,
+              "title": "眠るあなた",
+              "duration": "02:26",
+              "credits": {
+                "作詞": "中島庸介",
+                "作曲": "和田俊輔",
+                "編曲": "原嘉宏",
+                "歌": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 15,
+              "title": "みんなと歩こう2",
+              "duration": "02:18",
+              "credits": {
+                "作詞": "中島庸介",
+                "作曲": "和田俊輔",
+                "編曲": "文愛実",
+                "歌": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 16,
+              "title": "夜が来て、朝が来る",
+              "duration": "02:58",
+              "credits": {
+                "作詞": "中島庸介",
+                "作曲": "和田俊輔",
+                "編曲": "文愛実",
+                "歌": "演劇女子部(BEYOOOOONDS)"
+              }
+            },
+            {
+              "index": 17,
+              "title": "夢の世界",
+              "duration": "02:17",
+              "credits": {
+                "作詞": "中島庸介",
+                "作曲": "和田俊輔",
+                "編曲": "和田俊輔",
+                "歌": "演劇女子部(BEYOOOOONDS)"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

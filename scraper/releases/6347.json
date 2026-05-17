@@ -1,0 +1,377 @@
+{
+  "id": 6347,
+  "url": "/release/6347/",
+  "title": "限りあるMoment/ミラー・ミラー",
+  "category": "CDシングル",
+  "artist": "アンジュルム",
+  "releaseDate": "2020.8.26",
+  "label": "hachama",
+  "images": [
+    "/upload/images/2a71dc2de5cf42c623a4e9897fef409cba4b2cb5.webp",
+    "/upload/images/0a34f4635c50645a46dd1653099ac72993503a77.webp",
+    "/upload/images/19c8f8878b4aa3152d2a1c0543cde5dd60021d6f.webp",
+    "/upload/images/5dd7f3e1489822dc29f46cc3df19cb86d9f451ae.webp",
+    "/upload/images/ec6dbfe698f7439ba802cccece270b09b3cf8653.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/2a71dc2de5cf42c623a4e9897fef409cba4b2cb5.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "限りあるMoment",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "オオヤギヒロオ",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ミラー・ミラー",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/Anders Dannvik/Kalle Persson",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "限りあるMoment",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "オオヤギヒロオ",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ミラー・ミラー",
+              "duration": "04:09",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/Anders Dannvik/Kalle Persson",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50638"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "限りあるMoment",
+              "duration": "00:00",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "オオヤギヒロオ",
+                "出演": "アンジュルム"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/0a34f4635c50645a46dd1653099ac72993503a77.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "限りあるMoment",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "オオヤギヒロオ",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ミラー・ミラー",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/Anders Dannvik/Kalle Persson",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "限りあるMoment",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "オオヤギヒロオ",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ミラー・ミラー",
+              "duration": "04:09",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/Anders Dannvik/Kalle Persson",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50640"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ミラー・ミラー",
+              "duration": "00:00",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/Anders Dannvik/Kalle Persson",
+                "出演": "アンジュルム"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/upload/images/19c8f8878b4aa3152d2a1c0543cde5dd60021d6f.webp",
+      "price": "￥1,870（税抜価格 ￥1,700）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "限りあるMoment",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "オオヤギヒロオ",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ミラー・ミラー",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/Anders Dannvik/Kalle Persson",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "限りあるMoment",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "オオヤギヒロオ",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ミラー・ミラー",
+              "duration": "04:09",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/Anders Dannvik/Kalle Persson",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50642"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "限りあるMoment",
+              "duration": "00:00",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "オオヤギヒロオ",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 1,
+              "title": "ミラー・ミラー",
+              "duration": "00:00",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/Anders Dannvik/Kalle Persson",
+                "出演": "アンジュルム"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選応募券封入"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/5dd7f3e1489822dc29f46cc3df19cb86d9f451ae.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "限りあるMoment",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "オオヤギヒロオ",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ミラー・ミラー",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/Anders Dannvik/Kalle Persson",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "限りあるMoment",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "オオヤギヒロオ",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ミラー・ミラー",
+              "duration": "04:09",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/Anders Dannvik/Kalle Persson",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50644"
+        }
+      ],
+      "note": "トレーディングカードソロ8種+集合1種よりランダムにて1枚封入(限りあるＭoment Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/ec6dbfe698f7439ba802cccece270b09b3cf8653.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "限りあるMoment",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "オオヤギヒロオ",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ミラー・ミラー",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/Anders Dannvik/Kalle Persson",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "限りあるMoment",
+              "duration": "04:48",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "オオヤギヒロオ",
+                "編曲": "オオヤギヒロオ",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ミラー・ミラー",
+              "duration": "04:09",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/Anders Dannvik/Kalle Persson",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50645"
+        }
+      ],
+      "note": "トレーディングカードソロ8種+集合1種よりランダムにて1枚封入(ミラー・ミラー Ver.)※初回プレス分のみ"
+    }
+  ]
+}

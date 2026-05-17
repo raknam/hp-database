@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5142",
+  "url": "/release/detail/EPBE-5142/",
+  "source": "upfront",
+  "title": "シングルV「女子かしまし物語」",
+  "category": "DVDシングルV",
+  "artist": "モーニング娘。",
+  "releaseDate": "2004/07/22",
+  "label": "zetima",
+  "images": [
+    "/images/a51726fe87d1d095a2701c89dd8b35d24a858eb6.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/a51726fe87d1d095a2701c89dd8b35d24a858eb6.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5142",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "女子かしまし物語",
+              "duration": "06:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "女子かしまし物語(パニックトレイン Ver.)",
+              "duration": "06:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "09:09"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

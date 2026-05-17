@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-5114",
+  "url": "/release/detail/EPCE-5114/",
+  "source": "upfront",
+  "title": "ザ☆ピ〜ス！",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2001/07/25",
+  "label": "zetima",
+  "images": [
+    "/images/6002ed5b2537077e8b78416f3e68570974a38afb.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/6002ed5b2537077e8b78416f3e68570974a38afb.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5114",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ザ☆ピ〜ス！",
+              "duration": "05:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン (horn arrangement by 川松久"
+              }
+            },
+            {
+              "index": 2,
+              "title": "でっかい宇宙に愛がある",
+              "duration": "05:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ザ☆ピ〜ス！(Instrumental)",
+              "duration": "05:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン (horn arrangement by 川松久"
+              }
+            },
+            {
+              "index": 4,
+              "title": "でっかい宇宙に愛がある(Instrumental)",
+              "duration": "05:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

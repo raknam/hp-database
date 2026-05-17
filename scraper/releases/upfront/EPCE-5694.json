@@ -1,0 +1,175 @@
+{
+  "code": "EPCE-5694",
+  "url": "/release/detail/EPCE-5694/",
+  "source": "upfront",
+  "title": "ショッキング5",
+  "category": "CDアルバム",
+  "artist": "℃-ute",
+  "releaseDate": "2010/02/24",
+  "label": "zetima",
+  "images": [
+    "/images/0a5a35864c31652c10517e4ad75aea614b36b8e3.jpg",
+    "/images/86d48136d96e5b45956419b53e032ce542ecbb12.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/0a5a35864c31652c10517e4ad75aea614b36b8e3.jpg",
+      "price": "￥3,960 (税抜価格 ￥3,600)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5694",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "EVERYDAY 絶好調！！",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "The Party！",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "嗚呼 恋",
+              "duration": "03:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Bye Bye Bye!",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Lonely girl's night",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介"
+              }
+            },
+            {
+              "index": 6,
+              "title": "君の戦法",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳"
+              }
+            },
+            {
+              "index": 7,
+              "title": "SHOCK!",
+              "duration": "03:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介"
+              }
+            },
+            {
+              "index": 8,
+              "title": "四月宣言",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳"
+              }
+            },
+            {
+              "index": 9,
+              "title": "「残暑 お見舞い 申し上げます。」",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "はたけ",
+                "編曲": "板垣祐介"
+              }
+            },
+            {
+              "index": 10,
+              "title": "夢があるから",
+              "duration": "05:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "朝井泰生"
+              }
+            },
+            {
+              "index": 11,
+              "title": "暑中お見舞い申し上げます(H22 Remix)",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "喜多條忠",
+                "作曲": "佐瀬寿一",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/86d48136d96e5b45956419b53e032ce542ecbb12.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5696",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "四月宣言",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ジャケット＆PV撮影メイキング映像",
+              "duration": "11:30"
+            },
+            {
+              "index": 3,
+              "title": "オフショットスライドショー",
+              "duration": "02:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

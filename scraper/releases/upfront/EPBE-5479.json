@@ -1,0 +1,53 @@
+{
+  "code": "EPBE-5479",
+  "url": "/release/detail/EPBE-5479/",
+  "source": "upfront",
+  "title": "Blue Wind",
+  "category": "DVD",
+  "artist": "矢島舞美",
+  "releaseDate": "2014/04/09",
+  "label": "zetima",
+  "images": [
+    "/images/0a03e04abae5d3e7f8fda5597a95559fc876a7b4.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/0a03e04abae5d3e7f8fda5597a95559fc876a7b4.jpg",
+      "price": "￥4,400 (税抜価格 ￥4,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5479",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "My Town",
+              "duration": "06:37"
+            },
+            {
+              "index": 2,
+              "title": "Blue Wind",
+              "duration": "13:11"
+            },
+            {
+              "index": 3,
+              "title": "Home Work",
+              "duration": "12:57"
+            },
+            {
+              "index": 4,
+              "title": "Making of 「PURE EYES」",
+              "duration": "18:05"
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "01:06"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

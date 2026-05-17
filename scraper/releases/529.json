@@ -1,0 +1,91 @@
+{
+  "id": 529,
+  "url": "/release/529/",
+  "title": "アロハロ！モーニング娘。9期・10期 DVD",
+  "category": "DVD",
+  "artist": "モーニング娘。",
+  "releaseDate": "2013.1.16",
+  "label": "zetima",
+  "images": [
+    "/upload/images/4925f0d648055f8f45ced5f6f22ac72b1f3bf65b.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "00:20",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ディスクゴルフ対決9期編",
+              "duration": "29:07",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Image9",
+              "duration": "08:42",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ディスクゴルフ対決10期編",
+              "duration": "27:29",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Image10",
+              "duration": "05:04",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 6,
+              "title": "対決結果発表",
+              "duration": "08:40",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 7,
+              "title": "写真集メイキング",
+              "duration": "18:37",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 8,
+              "title": "エンディング",
+              "duration": "01:00",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5461"
+        }
+      ]
+    }
+  ]
+}

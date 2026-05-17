@@ -1,0 +1,63 @@
+{
+  "id": 2075,
+  "url": "/release/2075/",
+  "title": "ハロプロ！TIME Vol.13",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012.7.9",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/54427b21ed587b4d43d936ca5baa7d9affa840af.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "鈴木TIME",
+              "duration": "04:27",
+              "suffix": "鈴木愛理画伯 4コマ漫画に挑戦",
+              "credits": {
+                "出演": "鈴木愛理・萩原舞(℃-ute)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "鈴木TIME",
+              "duration": "20:44",
+              "suffix": "世界の「おいしい」をどれだけ覚えられるのか？ベリキュー暗記対決！",
+              "credits": {
+                "出演": "鈴木愛理・岡井千聖(℃-ute) 徳永千奈美・須藤茉麻(Berryz工房）"
+              }
+            },
+            {
+              "index": 3,
+              "title": "真野TIME",
+              "duration": "36:40",
+              "suffix": "後輩と真剣勝負！！大好きな食品サンプル作りに挑戦",
+              "credits": {
+                "出演": "真野恵里菜・鞘師里保(モーニング娘。)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "徳永TIME",
+              "duration": "08:39",
+              "suffix": "足つぼ初体験で疲れを癒す",
+              "credits": {
+                "出演": "徳永千奈美・熊井友理奈(Berryz工房)"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1167"
+        }
+      ]
+    }
+  ]
+}

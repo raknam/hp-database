@@ -1,0 +1,103 @@
+{
+  "id": 5640,
+  "url": "/release/5640/",
+  "title": "The Girls Live Vol.43",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2018.5.16",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/569ca38706005a5865c391c1c590f23e10730238.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "PICK UP MUSIC「大人のマナー講座」チャオ ベッラ チンクエッティ/♪さくら",
+              "duration": "15:48",
+              "credits": {
+                "出演": "チャオ ベッラ チンクエッティ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "PICK UP MUSIC「キャニオニング」古川小夏・関根梓・新井愛瞳(アップアップガールズ(仮))/♪アッパーディスコ",
+              "duration": "15:48",
+              "credits": {
+                "出演": "古川小夏・関根梓・新井愛瞳(アップアップガールズ(仮))"
+              }
+            },
+            {
+              "index": 3,
+              "title": "「未来会議」Juice=Juice/♪Feel！感じるよ",
+              "duration": "15:34",
+              "credits": {
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 4,
+              "title": "地団駄ダンス",
+              "duration": "03:50",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "BLACC HOLE＆ NOBB-D",
+                "出演": "Juice＝Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Goal～明日はあっちだよ～",
+              "duration": "05:08",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "近藤薫",
+                "作曲": "近藤薫",
+                "出演": "Juice＝Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "サバイバルガールズ",
+              "duration": "04:03",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "michitomo",
+                "作曲": "michitomo",
+                "出演": "アップアップガールズ(仮)"
+              }
+            },
+            {
+              "index": 7,
+              "title": "桜色のロマンチック",
+              "duration": "05:21",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "本上遼",
+                "作曲": "本上遼",
+                "出演": "チャオ ベッラ チンクエッティ"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Juice＝Juice「地団駄ダンス」 MV撮影密着",
+              "duration": "05:11",
+              "credits": {
+                "出演": "Juice＝Juice"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1598"
+        }
+      ]
+    }
+  ]
+}

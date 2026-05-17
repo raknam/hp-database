@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5255",
+  "url": "/release/detail/EPBE-5255/",
+  "source": "upfront",
+  "title": "シングルV「女に 幸あれ」",
+  "category": "DVDシングルV",
+  "artist": "モーニング娘。",
+  "releaseDate": "2007/08/01",
+  "label": "zetima",
+  "images": [
+    "/images/04a644daa2c5b52bae92b18d8c295daaf388fc15.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/04a644daa2c5b52bae92b18d8c295daaf388fc15.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5255",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "女に 幸あれ",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "女に 幸あれ(Close-up Ver.)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "16:16"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

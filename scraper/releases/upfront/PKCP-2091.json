@@ -1,0 +1,68 @@
+{
+  "code": "PKCP-2091",
+  "url": "/release/detail/PKCP-2091/",
+  "source": "upfront",
+  "title": "みんな少年だった",
+  "category": "CDシングル",
+  "artist": "堀内孝雄",
+  "releaseDate": "2018/08/22",
+  "label": "ライスミュージック",
+  "images": [
+    "/images/5f308fa835b99d35290953c6877dd27a0f58cad2.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/5f308fa835b99d35290953c6877dd27a0f58cad2.jpg",
+      "price": "￥1,324 (税抜価格 ￥1,204)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-2091",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "みんな少年だった",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "田久保真見",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 2,
+              "title": "旅人のように＜ニューバージョン＞",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 3,
+              "title": "みんな少年だった(オリジナル・カラオケ)",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "田久保真見",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 4,
+              "title": "旅人のように＜ニューバージョン＞(オリジナル・カラオケ)",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

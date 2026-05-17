@@ -1,0 +1,68 @@
+{
+  "code": "UFCW-1159",
+  "url": "/release/detail/UFCW-1159/",
+  "source": "upfront",
+  "title": "私が飛行機を嫌いな理由/雪と花火",
+  "category": "CDシングル",
+  "artist": "Bitter ＆ Sweet",
+  "releaseDate": "2023/07/19",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/85ff65e9c45e7b5df099ad666f33ca1ae81d9d00.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/85ff65e9c45e7b5df099ad666f33ca1ae81d9d00.jpg",
+      "price": "￥1,200 (税抜価格 ￥1,091)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "UFCW-1159",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "私が飛行機を嫌いな理由",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "田﨑あさひ",
+                "作曲": "川島章裕/角田崇徳",
+                "編曲": "川島章裕"
+              }
+            },
+            {
+              "index": 2,
+              "title": "雪と花火",
+              "duration": "05:17",
+              "credits": {
+                "作詞": "長谷川萌美",
+                "作曲": "枝松研一",
+                "編曲": "川島章裕"
+              }
+            },
+            {
+              "index": 3,
+              "title": "私が飛行機を嫌いな理由(Instrumental)",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "田﨑あさひ",
+                "作曲": "川島章裕/角田崇徳",
+                "編曲": "川島章裕"
+              }
+            },
+            {
+              "index": 4,
+              "title": "雪と花火(Instrumental)",
+              "duration": "05:17",
+              "credits": {
+                "作詞": "長谷川萌美",
+                "作曲": "枝松研一",
+                "編曲": "川島章裕"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

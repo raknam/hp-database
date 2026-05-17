@@ -1,0 +1,67 @@
+{
+  "id": 61,
+  "url": "/release/61/",
+  "title": "Riho's Fashion Archive",
+  "category": "DVD",
+  "artist": "鞘師里保",
+  "releaseDate": "2014.3.12",
+  "label": "zetima",
+  "images": [
+    "/upload/images/aa9a89e093fffd15064747f9751760fa16b91b9e.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:39",
+              "credits": {
+                "出演": "鞘師里保"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Archive1.FASHION",
+              "duration": "28:45",
+              "credits": {
+                "出演": "鞘師里保"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Archive2.REAL",
+              "duration": "07:30",
+              "credits": {
+                "出演": "鞘師里保"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Archive3.MAKING OF「太陽」",
+              "duration": "13:21",
+              "credits": {
+                "出演": "鞘師里保"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ENDING",
+              "duration": "02:08",
+              "credits": {
+                "出演": "鞘師里保"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5476"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 6970,
+  "url": "/release/6970/",
+  "title": "You're My Friend feat.KIKI",
+  "category": "配信",
+  "artist": "浅倉樹々",
+  "releaseDate": "2023.4.3",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/07d256665c4a0ce1ea904aa1063cd3122fb30f16.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "You're My Friend feat.KIKI",
+              "duration": "05:56",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "AKIRASTAR",
+                "編曲": "荒幡亮平",
+                "歌": "浅倉樹々(つばきファクトリー)"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1518"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "code": "UFBW-1514",
+  "url": "/release/detail/UFBW-1514/",
+  "source": "upfront",
+  "title": "ソラシド〜ねえねえ〜",
+  "category": "DVD",
+  "artist": "Buono!",
+  "releaseDate": "2016/09/21",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/ebf5b98ec6ee26d214743ab0732fbe27b4e0ef77.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/ebf5b98ec6ee26d214743ab0732fbe27b4e0ef77.jpg",
+      "price": "￥1,528 (税抜価格 ￥1,389)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1514",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ソラシド〜ねえねえ〜(Music Video)",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "津野米咲",
+                "作曲": "津野米咲"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ソラシド〜ねえねえ〜(Dance Shot Ver.)",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "津野米咲",
+                "作曲": "津野米咲"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "特典映像",
+          "catalogNo": "UFBW-1515",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ロックの聖地(@Recording)",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "諸星ハッピー"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

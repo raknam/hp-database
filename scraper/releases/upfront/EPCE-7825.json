@@ -1,0 +1,278 @@
+{
+  "code": "EPCE-7825",
+  "url": "/release/detail/EPCE-7825/",
+  "source": "upfront",
+  "title": "圧倒的LØVE/Pink Temperature",
+  "category": "CDシングル",
+  "artist": "稲場愛香",
+  "releaseDate": "2024/04/17",
+  "label": "zetima",
+  "images": [
+    "/images/0b11429070111f73ed7f656fd72a281ecd91951e.jpg",
+    "/images/71afc81fefa0c58f48db562c88c130c414847611.jpg",
+    "/images/29b8f869ee533795fad150e087883e275a87464f.jpg",
+    "/images/efbbc4c9e8f6e71bdc6c5844df81037fdeaca7e6.jpg",
+    "/images/8d2052ea85eab92ea97ad03425a9e158b8c396e2.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/0b11429070111f73ed7f656fd72a281ecd91951e.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7825",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "圧倒的LØVE",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "金子麻友美",
+                "作曲": "真下正樹",
+                "編曲": "大沢圭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Pink Temperature",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Julie Yu/Gustav Mared/Carlos Okabe",
+                "編曲": "Gustav Mared for Hitfire Production"
+              }
+            },
+            {
+              "index": 3,
+              "title": "圧倒的LØVE(Instrumental)",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "金子麻友美",
+                "作曲": "真下正樹",
+                "編曲": "大沢圭一"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Pink Temperature(Instrumental)",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Julie Yu/Gustav Mared/Carlos Okabe",
+                "編曲": "Gustav Mared for Hitfire Production"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/71afc81fefa0c58f48db562c88c130c414847611.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7827",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "圧倒的LØVE(Music Video)",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "金子麻友美",
+                "作曲": "真下正樹"
+              }
+            },
+            {
+              "index": 2,
+              "title": "圧倒的LØVE(Dance Shot Ver.)",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "金子麻友美",
+                "作曲": "真下正樹"
+              }
+            },
+            {
+              "index": 3,
+              "title": "圧倒的LØVE(メイキング映像)",
+              "duration": "07:41",
+              "credits": {
+                "作詞": "金子麻友美",
+                "作曲": "真下正樹"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/29b8f869ee533795fad150e087883e275a87464f.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7829",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "圧倒的LØVE",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "金子麻友美",
+                "作曲": "真下正樹",
+                "編曲": "大沢圭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Pink Temperature",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Julie Yu/Gustav Mared/Carlos Okabe",
+                "編曲": "Gustav Mared for Hitfire Production"
+              }
+            },
+            {
+              "index": 3,
+              "title": "圧倒的LØVE(Instrumental)",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "金子麻友美",
+                "作曲": "真下正樹",
+                "編曲": "大沢圭一"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Pink Temperature(Instrumental)",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Julie Yu/Gustav Mared/Carlos Okabe",
+                "編曲": "Gustav Mared for Hitfire Production"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/efbbc4c9e8f6e71bdc6c5844df81037fdeaca7e6.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7830",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Pink Temperature(Music Video)",
+              "duration": "04:54",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Julie Yu/Gustav Mared/Carlos Okabe"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Pink Temperature(Dance Shot Ver.)",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Julie Yu/Gustav Mared/Carlos Okabe"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Pink Temperature(メイキング映像)",
+              "duration": "09:34",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Julie Yu/Gustav Mared/Carlos Okabe"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/images/8d2052ea85eab92ea97ad03425a9e158b8c396e2.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7831",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "圧倒的LØVE",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "金子麻友美",
+                "作曲": "真下正樹",
+                "編曲": "大沢圭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Pink Temperature",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Julie Yu/Gustav Mared/Carlos Okabe",
+                "編曲": "Gustav Mared for Hitfire Production"
+              }
+            },
+            {
+              "index": 3,
+              "title": "LOVE is BLIND【Additional Track】",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Karrinator/ERECA",
+                "編曲": "Karrinator"
+              }
+            },
+            {
+              "index": 4,
+              "title": "圧倒的LØVE(Instrumental)",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "金子麻友美",
+                "作曲": "真下正樹",
+                "編曲": "大沢圭一"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Pink Temperature(Instrumental)",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Julie Yu/Gustav Mared/Carlos Okabe",
+                "編曲": "Gustav Mared for Hitfire Production"
+              }
+            },
+            {
+              "index": 6,
+              "title": "LOVE is BLIND(Instrumental)",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Karrinator/ERECA",
+                "編曲": "Karrinator"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

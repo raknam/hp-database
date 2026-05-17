@@ -1,0 +1,58 @@
+{
+  "code": "HKCN-50004",
+  "url": "/release/detail/HKCN-50004/",
+  "source": "upfront",
+  "title": "ロマンティック 浮かれモード",
+  "category": "CDシングル",
+  "artist": "藤本美貴",
+  "releaseDate": "2002/09/04",
+  "label": "hachama",
+  "images": [
+    "/images/67c812b8cf4a744a6a3bd1662bd88854427df4be.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/67c812b8cf4a744a6a3bd1662bd88854427df4be.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50004",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ロマンティック 浮かれモード",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "上杉洋史"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ケーキ止めました",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "花田裕之"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ロマンティック 浮かれモード(Instrumental)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "上杉洋史"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

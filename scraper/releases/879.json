@@ -1,0 +1,149 @@
+{
+  "id": 879,
+  "url": "/release/879/",
+  "title": "初恋サイダー/DEEP MIND",
+  "category": "CDシングル",
+  "artist": "Buono!",
+  "releaseDate": "2012.1.18",
+  "label": "zetima",
+  "images": [
+    "/upload/images/9940228b19addef1f853640c0d2e2192d7e58d0f.webp",
+    "/upload/images/63025e6271f02ea5fbbcf2aaeaa08d927a337ad1.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/upload/images/9940228b19addef1f853640c0d2e2192d7e58d0f.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "初恋サイダー",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "しほり",
+                "編曲": "宮永治郎",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "DEEP MIND",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "おのりく",
+                "作曲": "AKIRASTAR",
+                "編曲": "AKIRASTAR",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 3,
+              "title": "初恋サイダー",
+              "duration": "03:29",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "しほり",
+                "編曲": "宮永治郎",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 4,
+              "title": "DEEP MIND",
+              "duration": "04:14",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "おのりく",
+                "作曲": "AKIRASTAR",
+                "編曲": "AKIRASTAR",
+                "歌": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5833"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "初恋サイダー",
+              "duration": "03:46",
+              "suffix": "(Close-up BUONO! Ver.)",
+              "credits": {
+                "出演": "Buono!"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント応募ハガキ封入、Zepp Tokyo追加公演チケット特別先行受付＜1/18(水)12：00〜1/24(火)23：59＞用紙封入"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/63025e6271f02ea5fbbcf2aaeaa08d927a337ad1.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "初恋サイダー",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "しほり",
+                "編曲": "宮永治郎",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "DEEP MIND",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "おのりく",
+                "作曲": "AKIRASTAR",
+                "編曲": "AKIRASTAR",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 3,
+              "title": "初恋サイダー",
+              "duration": "03:29",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "しほり",
+                "編曲": "宮永治郎",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 4,
+              "title": "DEEP MIND",
+              "duration": "04:14",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "おのりく",
+                "作曲": "AKIRASTAR",
+                "編曲": "AKIRASTAR",
+                "歌": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5835"
+        }
+      ],
+      "note": "通常盤･初回仕様 イベント応募ハガキ封入、Zepp Tokyo追加公演チケット特別先行受付＜1/18(水)12：00〜1/24(火)23：59＞用紙封入"
+    }
+  ]
+}

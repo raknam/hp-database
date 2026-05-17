@@ -1,0 +1,38 @@
+{
+  "id": 7627,
+  "url": "/release/7627/",
+  "title": "盛れ！ミ・アモーレ - From THE FIRST TAKE",
+  "category": "配信",
+  "artist": "Juice=Juice",
+  "releaseDate": "2025.12.23",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/f5f0f8944b3a49ba5f162628022a8464dc18dc1d.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "盛れ！ミ・アモーレ - From THE FIRST TAKE",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "炭竃智弘",
+                "歌": "Juice=Juice"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1573"
+        }
+      ]
+    }
+  ]
+}

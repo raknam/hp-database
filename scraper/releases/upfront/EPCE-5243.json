@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-5243",
+  "url": "/release/detail/EPCE-5243/",
+  "source": "upfront",
+  "title": "先輩 〜LOVE AGAIN〜",
+  "category": "CDシングル",
+  "artist": "カントリー娘｡に紺野と藤本(モーニング娘｡)",
+  "releaseDate": "2003/11/12",
+  "label": "zetima",
+  "images": [
+    "/images/b001a3d4cb7d59a391a5a676eda0c69f6c53806c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/b001a3d4cb7d59a391a5a676eda0c69f6c53806c.jpg",
+      "price": "￥1,430 (税抜価格 ￥1,300)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5243",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "先輩 〜LOVE AGAIN〜",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "丸い太陽(2003Ver.)",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "土肥真生"
+              }
+            },
+            {
+              "index": 3,
+              "title": "何が愛かわからないけど…",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "たいせー",
+                "編曲": "湯浅公一"
+              }
+            },
+            {
+              "index": 4,
+              "title": "先輩 〜LOVE AGAIN〜(Instrumental)",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

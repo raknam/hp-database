@@ -1,0 +1,59 @@
+{
+  "id": 3473,
+  "url": "/release/3473/",
+  "title": "“田中れいな写真集「きら☆きら」”メイキングDVD〜特別編集版〜",
+  "category": "DVD",
+  "artist": "田中れいな",
+  "releaseDate": "2012.6.30",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/df1698f1952d09a3925e75b1c6bc074298bdf037.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "First day",
+              "duration": "09:20",
+              "credits": {
+                "出演": "田中れいな"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Second day",
+              "duration": "21:26",
+              "credits": {
+                "出演": "田中れいな"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Third day",
+              "duration": "15:44",
+              "credits": {
+                "出演": "田中れいな"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Final day",
+              "duration": "12:18",
+              "credits": {
+                "出演": "田中れいな"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-2059"
+        }
+      ]
+    }
+  ]
+}

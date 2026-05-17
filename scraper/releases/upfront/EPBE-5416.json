@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5416",
+  "url": "/release/detail/EPBE-5416/",
+  "source": "upfront",
+  "title": "シングルV「世界一HAPPYな女の子」",
+  "category": "DVDシングルV",
+  "artist": "℃-ute",
+  "releaseDate": "2011/09/14",
+  "label": "zetima",
+  "images": [
+    "/images/e5f0f5f73404b7a6aa35583027e67f7f56d8373f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/e5f0f5f73404b7a6aa35583027e67f7f56d8373f.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5416",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "世界一HAPPYな女の子",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "世界一HAPPYな女の子(Close-up Ver.)",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "22:14"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

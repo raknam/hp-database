@@ -1,0 +1,81 @@
+{
+  "id": 3076,
+  "url": "/release/3076/",
+  "title": "ハロー！プロジェクト ラジオドラマ vol.2",
+  "category": "CDアルバム",
+  "artist": "V.A.",
+  "releaseDate": "2003.10.29",
+  "label": "zetima",
+  "images": [
+    "/upload/images/7055b8db89ded17f98b807c5178c9830842bdc28.webp",
+    "/upload/images/98106273b112cc4497c215aa9efdcc1a8f58bbe0.webp"
+  ],
+  "editions": [
+    {
+      "name": "初回盤",
+      "image": "/upload/images/7055b8db89ded17f98b807c5178c9830842bdc28.webp",
+      "price": "定価 ￥3,080（税抜価格 ￥2,800）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ラジオ・フレンズ",
+              "duration": "24:56",
+              "credits": {
+                "作詞": "原作:掛川浩司",
+                "作曲": "脚本:楠野一郎",
+                "歌": "後藤真希・矢口真里・斉藤瞳"
+              }
+            },
+            {
+              "index": 2,
+              "title": "星砂の島・私の島",
+              "duration": "41:46",
+              "credits": {
+                "作詞": "原作:喜多一郎",
+                "作曲": "脚本:楠野一郎",
+                "歌": "松浦亜弥・中澤裕子"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5244"
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/upload/images/98106273b112cc4497c215aa9efdcc1a8f58bbe0.webp",
+      "price": "定価 ￥3,080（税抜価格 ￥2,800）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ラジオ・フレンズ",
+              "duration": "24:56",
+              "credits": {
+                "作詞": "原作:掛川浩司",
+                "作曲": "脚本:楠野一郎",
+                "歌": "後藤真希・矢口真里・斉藤瞳"
+              }
+            },
+            {
+              "index": 2,
+              "title": "星砂の島・私の島",
+              "duration": "41:46",
+              "credits": {
+                "作詞": "原作:喜多一郎",
+                "作曲": "脚本:楠野一郎",
+                "歌": "松浦亜弥・中澤裕子"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5245"
+        }
+      ]
+    }
+  ]
+}

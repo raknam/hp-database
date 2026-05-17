@@ -1,0 +1,179 @@
+{
+  "id": 344,
+  "url": "/release/344/",
+  "title": "プッチベスト DVD",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2004.12.15",
+  "label": "zetima",
+  "images": [
+    "/upload/images/6755d9bfc2644afcd6a58f38272c17567cb43f2e.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ちょこっとLOVE",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "プッチモニ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "黄色いお空でBOOM BOOM BOOM",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "黄色5"
+              }
+            },
+            {
+              "index": 3,
+              "title": "青いスポーツカーの男",
+              "duration": "03:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "青色7"
+              }
+            },
+            {
+              "index": 4,
+              "title": "赤い日記帳",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "あか組4"
+              }
+            },
+            {
+              "index": 5,
+              "title": "たんぽぽ",
+              "duration": "05:25",
+              "suffix": "(Single Version)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "タンポポ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "聖なる鐘がひびく夜",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "タンポポ"
+              }
+            },
+            {
+              "index": 7,
+              "title": "LOVEマシーン",
+              "duration": "05:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 8,
+              "title": "恋のダンスサイト",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 9,
+              "title": "丸い太陽－winter ver.－",
+              "duration": "05:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "太陽とシスコムーン"
+              }
+            },
+            {
+              "index": 10,
+              "title": "DON'T STOP恋愛中",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "T&Cボンバー"
+              }
+            },
+            {
+              "index": 11,
+              "title": "純情行進曲",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "堀内孝雄",
+                "出演": "中澤ゆうこ"
+              }
+            },
+            {
+              "index": 12,
+              "title": "アナタの夢になりたい",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "牧穂エミ",
+                "作曲": "はたけ",
+                "出演": "平家みちよ"
+              }
+            },
+            {
+              "index": 13,
+              "title": "ダイキライ",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "牧穂エミ",
+                "作曲": "はたけ",
+                "出演": "平家みちよ"
+              }
+            },
+            {
+              "index": 14,
+              "title": "DANCE & CHANCE",
+              "duration": "05:08",
+              "credits": {
+                "作詞": "つんく (英訳)Lynne Hobday",
+                "作曲": "つんく",
+                "出演": "ココナッツ娘。"
+              }
+            },
+            {
+              "index": 15,
+              "title": "サマーナイトタウン",
+              "duration": "03:59",
+              "suffix": "(English Version)",
+              "credits": {
+                "作詞": "つんく (英訳)MARIE",
+                "作曲": "つんく",
+                "出演": "ココナッツ娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5159"
+        }
+      ]
+    }
+  ]
+}

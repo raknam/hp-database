@@ -1,0 +1,189 @@
+{
+  "code": "PKCP-5155",
+  "url": "/release/detail/PKCP-5155/",
+  "source": "upfront",
+  "title": "6th 雄叫びアルバム",
+  "category": "CDアルバム",
+  "artist": "Berryz工房",
+  "releaseDate": "2010/03/31",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/1c5bb3f59ba73e3d75c515c842da030543ce196c.jpg",
+    "/images/4bef1d0d487ceb5cd1e1bddeecab2fa22491459e.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/1c5bb3f59ba73e3d75c515c842da030543ce196c.jpg",
+      "price": "￥3,960 (税抜価格 ￥3,600)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "PKCP-5155",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "雄叫びボーイ WAO！",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "オダクラユウ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ライバル",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "流星ボーイ",
+              "duration": "03:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 4,
+              "title": "愛には 愛でしょ",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "青春バスガイド",
+              "duration": "03:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 6,
+              "title": "君の友達",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "田中直"
+              }
+            },
+            {
+              "index": 7,
+              "title": "グランドでも廊下でも目立つ君",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 8,
+              "title": "友達は友達なんだ！",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "オオバコウスケ"
+              }
+            },
+            {
+              "index": 9,
+              "title": "希望の夜",
+              "duration": "05:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            },
+            {
+              "index": 10,
+              "title": "抱きしめて 抱きしめて",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎"
+              }
+            },
+            {
+              "index": 11,
+              "title": "ヤキモチをください！",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "藤澤慶昌"
+              }
+            },
+            {
+              "index": 12,
+              "title": "私の未来のだんな様",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/4bef1d0d487ceb5cd1e1bddeecab2fa22491459e.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKCP-5157",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "友達は友達なんだ！",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "友達は友達なんだ！(Close-up Ver.)",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "友達は友達なんだ！(メイキング映像)",
+              "duration": "14:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "code": "HKBN-50095",
+  "url": "/release/detail/HKBN-50095/",
+  "source": "upfront",
+  "title": "シングルV「16歳の恋なんて」",
+  "category": "DVDシングルV",
+  "artist": "安倍なつみ＆矢島舞美",
+  "releaseDate": "2008/02/06",
+  "label": "hachama",
+  "images": [
+    "/images/05d6c6f50ee2d431ae73fd132731cce1ce1f95eb.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/05d6c6f50ee2d431ae73fd132731cce1ce1f95eb.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "HKBN-50095",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "16歳の恋なんて",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN"
+              }
+            },
+            {
+              "index": 2,
+              "title": "16歳の恋なんて(Close-up Ver.)",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "11:26",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN"
+              }
+            },
+            {
+              "index": 4,
+              "title": "スペシャルエンドロール",
+              "duration": "04:13",
+              "credits": {
+                "作曲": "KAN"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

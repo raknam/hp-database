@@ -1,0 +1,48 @@
+{
+  "code": "TGCS-5700",
+  "url": "/release/detail/TGCS-5700/",
+  "source": "upfront",
+  "title": "ピンチはチャンス バカになろうぜ！",
+  "category": "CDシングル",
+  "artist": "メロン記念日×ニューロティカ",
+  "releaseDate": "2009/07/22",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/e531d6eea84cac1552309ce809abbd895aa112d1.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/e531d6eea84cac1552309ce809abbd895aa112d1.jpg",
+      "price": "￥838 (税抜価格 ￥762)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "TGCS-5700",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ピンチはチャンス バカになろうぜ！",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "ATSUSHI",
+                "作曲": "KATARU",
+                "編曲": "NEW ROTE'KA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ピンチはチャンス バカになろうぜ！(Instrumental)",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "ATSUSHI",
+                "作曲": "KATARU",
+                "編曲": "NEW ROTE'KA"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

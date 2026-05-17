@@ -1,0 +1,58 @@
+{
+  "code": "EPDE-1019",
+  "url": "/release/detail/EPDE-1019/",
+  "source": "upfront",
+  "title": "はなればなれに？",
+  "category": "CDシングル",
+  "artist": "加藤紀子",
+  "releaseDate": "1999/01/13",
+  "label": "地中海レーベル",
+  "images": [
+    "/images/11f06b00b64ac8af06028300c5d5724bd2b244b6.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/11f06b00b64ac8af06028300c5d5724bd2b244b6.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1019",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "はなればなれに？KC CARD「WAKU WAKU 1・2・3ｷｬﾝﾍﾟ-ﾝ」TVCMｿﾝｸﾞ",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "加藤紀子",
+                "作曲": "加地秀基",
+                "編曲": "加地秀基ストリングス&ﾎ-ﾝ村山達哉"
+              }
+            },
+            {
+              "index": 2,
+              "title": "悲しい言葉",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "加藤紀子",
+                "作曲": "堀江博久",
+                "編曲": "堀江博久"
+              }
+            },
+            {
+              "index": 3,
+              "title": "はなればなれに？(Instrumental)",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "加藤紀子",
+                "作曲": "加地秀基",
+                "編曲": "加地秀基ｽﾄﾘﾝｸﾞｽ&ﾎ-ﾝ村山達哉"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

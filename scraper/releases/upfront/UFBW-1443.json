@@ -1,0 +1,56 @@
+{
+  "code": "UFBW-1443",
+  "url": "/release/detail/UFBW-1443/",
+  "source": "upfront",
+  "title": "念には念/サバイバー",
+  "category": "DVD",
+  "artist": "こぶしファクトリー",
+  "releaseDate": "2015/03/26",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/a37abcd40e34404ffec69f8e34a8432941a224e1.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/a37abcd40e34404ffec69f8e34a8432941a224e1.jpg",
+      "price": "￥2,037 (税抜価格 ￥1,852)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1443",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "念には念(LIVE MUSIC VIDEO)",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "アベショー",
+                "作曲": "アベショー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "サバイバー(REC & DANCE SHOT)",
+              "duration": "03:18",
+              "credits": {
+                "作詞": "太田善也",
+                "作曲": "和田俊輔"
+              }
+            },
+            {
+              "index": 3,
+              "title": "「念には念/サバイバー」オフショット映像",
+              "duration": "10:01"
+            },
+            {
+              "index": 4,
+              "title": "演劇女子部 ミュージカル「Week End Survivor」パンフレットインタビューダイジェスト",
+              "duration": "05:15"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

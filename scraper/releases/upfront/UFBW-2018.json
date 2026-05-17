@@ -1,0 +1,63 @@
+{
+  "code": "UFBW-2018",
+  "url": "/release/detail/UFBW-2018/",
+  "source": "upfront",
+  "title": "モーニング娘。高橋愛＆新垣里沙 リアルエチュード「高橋さん家と新垣さん家 ゲスト：松崎しげる編」",
+  "category": "DVD",
+  "artist": "高橋愛&新垣里沙",
+  "releaseDate": "2011/07/08",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/993e6ebcf99733028bc22c7109df61895d27517f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/993e6ebcf99733028bc22c7109df61895d27517f.jpg",
+      "price": "￥3,981 (税抜価格 ￥3,619)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2018",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "03:44"
+            },
+            {
+              "index": 2,
+              "title": "実話 新垣里沙 編",
+              "duration": "16:12"
+            },
+            {
+              "index": 3,
+              "title": "実話 松崎しげる 編",
+              "duration": "05:46"
+            },
+            {
+              "index": 4,
+              "title": "松崎しげる 新垣里沙 編",
+              "duration": "12:46"
+            },
+            {
+              "index": 5,
+              "title": "松崎しげる 高橋愛 編",
+              "duration": "11:51"
+            },
+            {
+              "index": 6,
+              "title": "実話 高橋愛 編",
+              "duration": "15:47"
+            },
+            {
+              "index": 7,
+              "title": "実話 高橋愛 編 其の二",
+              "duration": "17:57"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

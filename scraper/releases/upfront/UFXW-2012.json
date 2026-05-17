@@ -1,0 +1,58 @@
+{
+  "code": "UFXW-2012",
+  "url": "/release/detail/UFXW-2012/",
+  "source": "upfront",
+  "title": "Greeting〜小関舞〜",
+  "category": "BD",
+  "artist": "小関舞",
+  "releaseDate": "2016/04/28",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/b5ac4560c5c7d8290799679eddf1f1205b0a888b.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/b5ac4560c5c7d8290799679eddf1f1205b0a888b.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "UFXW-2012",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Going to school",
+              "duration": "08:16"
+            },
+            {
+              "index": 2,
+              "title": "One on one",
+              "duration": "14:42"
+            },
+            {
+              "index": 3,
+              "title": "Interview with Mai Ozeki",
+              "duration": "09:12"
+            },
+            {
+              "index": 4,
+              "title": "Sweet hunter",
+              "duration": "10:37"
+            },
+            {
+              "index": 5,
+              "title": "The Making Of The Day",
+              "duration": "05:17"
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "03:08"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

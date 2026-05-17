@@ -1,0 +1,190 @@
+{
+  "code": "UFBW-1355",
+  "url": "/release/detail/UFBW-1355/",
+  "source": "upfront",
+  "title": "嗚呼、素晴らしき日々よ/Dream Last Train/木立を抜ける風のように",
+  "category": "DVD",
+  "artist": "さとのあかり／トリプレット／ODATOMO",
+  "releaseDate": "2014/04/23",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/db4caaff6b6c0ac32008fe51e48d5ee82dc72010.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/db4caaff6b6c0ac32008fe51e48d5ee82dc72010.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1355",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "嗚呼、素晴らしき日々よ",
+              "duration": "05:18"
+            },
+            {
+              "index": 2,
+              "title": "Dream Last Train",
+              "duration": "03:40"
+            },
+            {
+              "index": 3,
+              "title": "木立を抜ける風のように",
+              "duration": "04:40"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "特典映像1",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1355",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "嗚呼、素晴らしき日々よ(another ver.)",
+              "duration": "05:18"
+            },
+            {
+              "index": 2,
+              "title": "Dream Last Train(another ver.)",
+              "duration": "03:26"
+            },
+            {
+              "index": 3,
+              "title": "木立を抜ける風のように(another ver.)",
+              "duration": "04:29"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "特典映像2(カラオケVer.)",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1355",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "嗚呼、素晴らしき日々よ",
+              "duration": "05:18"
+            },
+            {
+              "index": 2,
+              "title": "Dream Last Train",
+              "duration": "03:40"
+            },
+            {
+              "index": 3,
+              "title": "木立を抜ける風のように",
+              "duration": "04:28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "特典映像3",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1355",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "MUSIC VIDEO撮影メイキング映像",
+              "duration": "15:08"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "catalogNo": "UFBW-1356",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "嗚呼、素晴らしき日々よ",
+              "duration": "05:10",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "角田崇徳",
+                "編曲": "角田崇徳"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Dream Last Train",
+              "duration": "03:22",
+              "credits": {
+                "作詞": "アベショー",
+                "作曲": "大西克巳",
+                "編曲": "大西克巳"
+              }
+            },
+            {
+              "index": 3,
+              "title": "木立を抜ける風のように",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "山口寛雄",
+                "編曲": "陶山隼"
+              }
+            },
+            {
+              "index": 4,
+              "title": "嗚呼、素晴らしき日々よ(Instrumental)",
+              "duration": "05:10",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "角田崇徳",
+                "編曲": "角田崇徳"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Dream Last Train(Instrumental)",
+              "duration": "03:22",
+              "credits": {
+                "作詞": "アベショー",
+                "作曲": "大西克巳",
+                "編曲": "大西克巳"
+              }
+            },
+            {
+              "index": 6,
+              "title": "木立を抜ける風のように(Instrumental)",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "山口寛雄",
+                "編曲": "陶山隼"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

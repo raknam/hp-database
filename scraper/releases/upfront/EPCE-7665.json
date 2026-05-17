@@ -1,0 +1,311 @@
+{
+  "code": "EPCE-7665",
+  "url": "/release/detail/EPCE-7665/",
+  "source": "upfront",
+  "title": "英雄～笑って！ショパン先輩～/ハムカツ黙示録",
+  "category": "CDシングル",
+  "artist": "BEYOOOOONDS",
+  "releaseDate": "2022/03/02",
+  "label": "zetima",
+  "images": [
+    "/images/324da941dd299b8d6d46150db333d105c02010ae.jpg",
+    "/images/79d69074f389e6a8dd17e2bdffdc6e2e38135d63.jpg",
+    "/images/a3484189d5e9841ad7f61499d7a0bb62528e3f9c.jpg",
+    "/images/132ebd15784fa379e6b9e8189de7f5bbe71e65e4.jpg",
+    "/images/30dc324ece3505a68150d7b990b4c72e8a6a8eec.jpg",
+    "/images/955c74b4970cf44ff130a63efd1dfc3b624086a2.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/324da941dd299b8d6d46150db333d105c02010ae.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7665",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "英雄～笑って！ショパン先輩～",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "FREDERIC FRANCOIS CHOPIN",
+                "編曲": "加藤裕介/星部ショウ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ハムカツ黙示録",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "英雄～笑って！ショパン先輩～(Instrumental)",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "FREDERIC FRANCOIS CHOPIN",
+                "編曲": "加藤裕介/星部ショウ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ハムカツ黙示録(Instrumental)",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/79d69074f389e6a8dd17e2bdffdc6e2e38135d63.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7667",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "英雄～笑って！ショパン先輩～(Music Video)",
+              "duration": "05:40",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "FREDERIC FRANCOIS CHOPIN"
+              }
+            },
+            {
+              "index": 2,
+              "title": "英雄～笑って！ショパン先輩～(Dance Shot Ver.)",
+              "duration": "04:47",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "FREDERIC FRANCOIS CHOPIN"
+              }
+            },
+            {
+              "index": 3,
+              "title": "英雄～笑って！ショパン先輩～(メイキング映像)",
+              "duration": "18:43"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP1】",
+      "image": "/images/a3484189d5e9841ad7f61499d7a0bb62528e3f9c.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7669",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "英雄～笑って！ショパン先輩～",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "FREDERIC FRANCOIS CHOPIN",
+                "編曲": "加藤裕介/星部ショウ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ハムカツ黙示録",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "英雄～笑って！ショパン先輩～(Instrumental)",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "FREDERIC FRANCOIS CHOPIN",
+                "編曲": "加藤裕介/星部ショウ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ハムカツ黙示録(Instrumental)",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP2】",
+      "image": "/images/132ebd15784fa379e6b9e8189de7f5bbe71e65e4.jpg",
+      "price": "￥1,540 (税抜価格 ￥1,400)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7671",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ハムカツ黙示録(Music Video)",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ハムカツ黙示録(Dance Shot Ver.)",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ハムカツ黙示録(メイキング映像)",
+              "duration": "19:09"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/30dc324ece3505a68150d7b990b4c72e8a6a8eec.jpg",
+      "price": "￥1,200 (税抜価格 ￥1,091)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7672",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "英雄～笑って！ショパン先輩～",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "FREDERIC FRANCOIS CHOPIN",
+                "編曲": "加藤裕介/星部ショウ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ハムカツ黙示録",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "フレフレ・エブリデイ【Additional Track】",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "英雄～笑って！ショパン先輩～(Instrumental)",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "FREDERIC FRANCOIS CHOPIN",
+                "編曲": "加藤裕介/星部ショウ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ハムカツ黙示録(Instrumental)",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "フレフレ・エブリデイ(Instrumental)",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "編曲": "星部ショウ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/955c74b4970cf44ff130a63efd1dfc3b624086a2.jpg",
+      "price": "￥1,200 (税抜価格 ￥1,091)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7673",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "英雄～笑って！ショパン先輩～(Music Video ぐるぐるピアノ Ver.)",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "FREDERIC FRANCOIS CHOPIN"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ハムカツ黙示録(Music Video 厚切りハムカツ Ver.)",
+              "duration": "06:07",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "フレフレ・エブリデイ(Music Video)",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

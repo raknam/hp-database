@@ -1,0 +1,53 @@
+{
+  "code": "EPXE-5076",
+  "url": "/release/detail/EPXE-5076/",
+  "source": "upfront",
+  "title": "夕映え",
+  "category": "BD",
+  "artist": "譜久村聖",
+  "releaseDate": "2016/01/20",
+  "label": "zetima",
+  "images": [
+    "/images/9b7187cea91fa1de3e16b67a0e1f8c338ecff59a.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/9b7187cea91fa1de3e16b67a0e1f8c338ecff59a.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5076",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Caf? terrace",
+              "duration": "11:14"
+            },
+            {
+              "index": 2,
+              "title": "Orange beach",
+              "duration": "17:21"
+            },
+            {
+              "index": 3,
+              "title": "Hill with view",
+              "duration": "10:38"
+            },
+            {
+              "index": 4,
+              "title": "Making of Photobook「かがやき」",
+              "duration": "14:29"
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "01:29"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

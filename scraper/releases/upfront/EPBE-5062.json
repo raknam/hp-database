@@ -1,0 +1,73 @@
+{
+  "code": "EPBE-5062",
+  "url": "/release/detail/EPBE-5062/",
+  "source": "upfront",
+  "title": "アロハロ！松浦亜弥DVD",
+  "category": "DVD",
+  "artist": "松浦亜弥",
+  "releaseDate": "2003/02/26",
+  "label": "zetima",
+  "images": [
+    "/images/d734465de6729869f327c0af7fbab07323914905.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d734465de6729869f327c0af7fbab07323914905.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5062",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "タイトル",
+              "duration": "07:12"
+            },
+            {
+              "index": 2,
+              "title": "シーライフパーク",
+              "duration": "10:43"
+            },
+            {
+              "index": 3,
+              "title": "アイスクリーム",
+              "duration": "03:08"
+            },
+            {
+              "index": 4,
+              "title": "ラニカイビーチ",
+              "duration": "05:15"
+            },
+            {
+              "index": 5,
+              "title": "フルーツショップ",
+              "duration": "03:12"
+            },
+            {
+              "index": 6,
+              "title": "クアロア牧場",
+              "duration": "05:02"
+            },
+            {
+              "index": 7,
+              "title": "フラダンス",
+              "duration": "05:44"
+            },
+            {
+              "index": 8,
+              "title": "パイナップル畑",
+              "duration": "03:00"
+            },
+            {
+              "index": 9,
+              "title": "写真集お家",
+              "duration": "04:01"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

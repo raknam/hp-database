@@ -1,0 +1,75 @@
+{
+  "id": 39,
+  "url": "/release/39/",
+  "title": "Greeting 〜宮本佳林〜",
+  "category": "DVD",
+  "artist": "宮本佳林",
+  "releaseDate": "2014.3.3",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/bb7eb6397bc2d88fe73e86d3bdef182b46e8929b.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Cold Morning",
+              "duration": "13:27",
+              "credits": {
+                "出演": "宮本佳林"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Warm Living Room",
+              "duration": "11:20",
+              "credits": {
+                "出演": "宮本佳林"
+              }
+            },
+            {
+              "index": 3,
+              "title": "My Garden",
+              "duration": "06:04",
+              "credits": {
+                "出演": "宮本佳林"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Interview with Karin Miyamoto",
+              "duration": "12:00",
+              "credits": {
+                "出演": "宮本佳林"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Time Goes On",
+              "duration": "06:56",
+              "credits": {
+                "出演": "宮本佳林"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "00:51",
+              "credits": {
+                "出演": "宮本佳林"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-2098"
+        }
+      ]
+    }
+  ]
+}

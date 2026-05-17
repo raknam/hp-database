@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1510",
+  "url": "/release/detail/UFDL-1510/",
+  "source": "upfront",
+  "title": "Pink Shadow(ANIMALS Ver.)",
+  "category": "配信",
+  "artist": "鈴木愛理",
+  "releaseDate": "2022/09/21",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/0cebddae8adbc646b721c603f28f5835d9056efc.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/0cebddae8adbc646b721c603f28f5835d9056efc.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1510",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Pink Shadow(ANIMALS Ver.)",
+              "duration": "03:26",
+              "credits": {
+                "作詞": "⼭崎あおい",
+                "作曲": "⼭崎あおい",
+                "編曲": "⻘城希"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

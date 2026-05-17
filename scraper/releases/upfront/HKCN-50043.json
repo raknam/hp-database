@@ -1,0 +1,130 @@
+{
+  "code": "HKCN-50043",
+  "url": "/release/detail/HKCN-50043/",
+  "source": "upfront",
+  "title": "25〜ヴァンサンク〜",
+  "category": "CDアルバム",
+  "artist": "安倍なつみ",
+  "releaseDate": "2007/03/14",
+  "label": "hachama",
+  "images": [
+    "/images/c78867d5d19d88044796150bd46476b86f3348e8.jpg",
+    "/images/135432447995406a804a9adf60a8e1d34a842427.jpg"
+  ],
+  "editions": [
+    {
+      "name": "初回生産限定盤(DVD付き)",
+      "image": "/images/c78867d5d19d88044796150bd46476b86f3348e8.jpg",
+      "price": "￥2,934 (税抜価格 ￥2,667)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "HKCN-50043",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛しき人",
+              "duration": "05:07",
+              "credits": {
+                "作詞": "鈴木美穂+西澤貴子",
+                "作曲": "若林充",
+                "編曲": "柳沢英樹"
+              }
+            },
+            {
+              "index": 2,
+              "title": "スイートホリック",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "BULGE",
+                "作曲": "BULGE",
+                "編曲": "BULGE"
+              }
+            },
+            {
+              "index": 3,
+              "title": "大人へのエレベーター",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "鈴木美穂",
+                "作曲": "柳沢英樹",
+                "編曲": "柳沢英樹"
+              }
+            },
+            {
+              "index": 4,
+              "title": "25〜ヴァンサンク〜",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "西村ちさと",
+                "作曲": "斉藤悠弥",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 5,
+              "title": "くちびるで止めて",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "音羽志保",
+                "作曲": "菊池達也",
+                "編曲": "菊池達也"
+              }
+            },
+            {
+              "index": 6,
+              "title": "月色の光",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "MAKI+すやまちえこ",
+                "作曲": "安岡洋一郎",
+                "編曲": "安岡洋一郎"
+              }
+            },
+            {
+              "index": 7,
+              "title": "甘すぎた果実",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "BULGE/海老根祐子/古屋真",
+                "作曲": "迫茂樹",
+                "編曲": "矢野博康"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/images/135432447995406a804a9adf60a8e1d34a842427.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50045",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "甘すぎた果実 (Live at Shibuya O-EAST)",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "BULGE/海老根祐子 /古屋真",
+                "作曲": "迫茂樹"
+              }
+            },
+            {
+              "index": 2,
+              "title": "スイートホリック (Live at Shibuya O-EAST)",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "BULGE",
+                "作曲": "BULGE"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

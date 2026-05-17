@@ -1,0 +1,121 @@
+{
+  "code": "EPCE-5791",
+  "url": "/release/detail/EPCE-5791/",
+  "source": "upfront",
+  "title": "夏ダカラ!",
+  "category": "CDシングル",
+  "artist": "Buono!",
+  "releaseDate": "2011/07/20",
+  "label": "zetima",
+  "images": [
+    "/images/94db9c375807af1cdb7730d043b6361681a96218.jpg",
+    "/images/c1ded878a3db43059766b65d212d3ca66e9ebb9f.jpg",
+    "/images/b30050726350250b577a9c32f27be51d559ce569.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/94db9c375807af1cdb7730d043b6361681a96218.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5791",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夏ダカラ！",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "今井千尋",
+                "編曲": "石崎光"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Ice Mermaid",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "鈴木美穂",
+                "作曲": "柳沢英樹",
+                "編曲": "田原伸浩 ブラスアレンジ:竹上良成"
+              }
+            },
+            {
+              "index": 3,
+              "title": "夏ダカラ！(Instrumental)",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "今井千尋",
+                "編曲": "石崎光"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/c1ded878a3db43059766b65d212d3ca66e9ebb9f.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5793",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夏ダカラ！(3Shot Lip Ver.Sofa)",
+              "duration": "05:10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/b30050726350250b577a9c32f27be51d559ce569.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5795",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夏ダカラ！",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "今井千尋",
+                "編曲": "石崎光"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Ice Mermaid",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "鈴木美穂",
+                "作曲": "柳沢英樹",
+                "編曲": "田原伸浩 ブラスアレンジ:竹上良成"
+              }
+            },
+            {
+              "index": 3,
+              "title": "夏ダカラ！(Instrumental)",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "今井千尋",
+                "編曲": "石崎光"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

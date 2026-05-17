@@ -1,0 +1,61 @@
+{
+  "id": 2804,
+  "url": "/release/2804/",
+  "title": "カリスマ・綺麗",
+  "category": "CDシングル",
+  "artist": "メロン記念日",
+  "releaseDate": "2008.3.19",
+  "label": "zetima",
+  "images": [
+    "/upload/images/7b77813550f8eed03ccec5f6ac6dd0db740c2646.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "カリスマ・綺麗",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "コモリタミノル",
+                "作曲": "コモリタミノル",
+                "編曲": "コモリタミノル",
+                "歌": "メロン記念日"
+              }
+            },
+            {
+              "index": 2,
+              "title": "オンナザカリ",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "コモリタミノル",
+                "作曲": "コモリタミノル",
+                "編曲": "コモリタミノル",
+                "歌": "メロン記念日"
+              }
+            },
+            {
+              "index": 3,
+              "title": "カリスマ・綺麗",
+              "duration": "04:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "コモリタミノル",
+                "作曲": "コモリタミノル",
+                "編曲": "コモリタミノル",
+                "歌": "メロン記念日"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5548"
+        }
+      ]
+    }
+  ]
+}

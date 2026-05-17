@@ -1,0 +1,91 @@
+{
+  "code": "UFWT-9011",
+  "url": "/release/detail/UFWT-9011/",
+  "source": "upfront",
+  "title": "TANPOPO 1",
+  "category": "アナログアルバム",
+  "artist": "タンポポ",
+  "releaseDate": "2019/04/01",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/02258ec8c419ad9e5ea4db29356e70d6cbe1a5b9.jpg"
+  ],
+  "editions": [
+    {
+      "name": "＜Disc1＞",
+      "image": "/images/02258ec8c419ad9e5ea4db29356e70d6cbe1a5b9.jpg",
+      "price": "￥5,940 (税抜価格 ￥5,400)",
+      "discs": [
+        {
+          "type": "アナログアルバム",
+          "catalogNo": "UFWT-9011",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ラストキッス(single version)",
+              "duration": "04:05",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 2,
+              "title": "わかってないじゃない",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "センチメンタル南向き",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野伸"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "＜Disc2＞",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "アナログアルバム",
+          "catalogNo": "UFWT-9012",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Motto(album mix)",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野伸"
+              }
+            },
+            {
+              "index": 2,
+              "title": "誕生日の朝",
+              "duration": "05:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

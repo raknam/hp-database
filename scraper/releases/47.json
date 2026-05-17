@@ -1,0 +1,199 @@
+{
+  "id": 47,
+  "url": "/release/47/",
+  "title": "嗚呼、素晴らしき日々よ/Dream Last Train/木立を抜ける風のように",
+  "category": "DVD",
+  "artist": "さとのあかり／トリプレット／ODATOMO",
+  "releaseDate": "2014.4.23",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/db4caaff6b6c0ac32008fe51e48d5ee82dc72010.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "嗚呼、素晴らしき日々よ",
+              "duration": "05:18",
+              "credits": {
+                "出演": "さとのあかり"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Dream Last Train",
+              "duration": "03:40",
+              "credits": {
+                "出演": "トリプレット"
+              }
+            },
+            {
+              "index": 3,
+              "title": "木立を抜ける風のように",
+              "duration": "04:40",
+              "credits": {
+                "出演": "ODATOMO"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1355"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "嗚呼、素晴らしき日々よ",
+              "duration": "05:18",
+              "suffix": "(another ver.)",
+              "credits": {
+                "出演": "さとのあかり"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Dream Last Train",
+              "duration": "03:26",
+              "suffix": "(another ver.)",
+              "credits": {
+                "出演": "トリプレット"
+              }
+            },
+            {
+              "index": 3,
+              "title": "木立を抜ける風のように",
+              "duration": "04:29",
+              "suffix": "(another ver.)",
+              "credits": {
+                "出演": "ODATOMO"
+              }
+            }
+          ]
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "嗚呼、素晴らしき日々よ",
+              "duration": "05:18",
+              "credits": {
+                "出演": "さとのあかり"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Dream Last Train",
+              "duration": "03:40",
+              "credits": {
+                "出演": "トリプレット"
+              }
+            },
+            {
+              "index": 3,
+              "title": "木立を抜ける風のように",
+              "duration": "04:28",
+              "credits": {
+                "出演": "ODATOMO"
+              }
+            }
+          ]
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "MUSIC VIDEO撮影メイキング映像",
+              "duration": "15:08",
+              "credits": {
+                "出演": "さとのあかり/トリプレット/ODATOMO"
+              }
+            }
+          ]
+        },
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "嗚呼、素晴らしき日々よ",
+              "duration": "05:10",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "角田崇徳",
+                "編曲": "角田崇徳",
+                "歌": "さとのあかり"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Dream Last Train",
+              "duration": "03:22",
+              "credits": {
+                "作詞": "アベショー",
+                "作曲": "大西克巳",
+                "編曲": "大西克巳",
+                "歌": "トリプレット"
+              }
+            },
+            {
+              "index": 3,
+              "title": "木立を抜ける風のように",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "山口寛雄",
+                "編曲": "陶山隼",
+                "歌": "ODATOMO"
+              }
+            },
+            {
+              "index": 4,
+              "title": "嗚呼、素晴らしき日々よ",
+              "duration": "05:10",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "角田崇徳",
+                "編曲": "角田崇徳",
+                "歌": "さとのあかり"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Dream Last Train",
+              "duration": "03:22",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "アベショー",
+                "作曲": "大西克巳",
+                "編曲": "大西克巳",
+                "歌": "トリプレット"
+              }
+            },
+            {
+              "index": 6,
+              "title": "木立を抜ける風のように",
+              "duration": "04:32",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "山口寛雄",
+                "編曲": "陶山隼",
+                "歌": "ODATOMO"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

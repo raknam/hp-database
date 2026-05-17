@@ -1,0 +1,105 @@
+{
+  "code": "EPCE-2045",
+  "url": "/release/detail/EPCE-2045/",
+  "source": "upfront",
+  "title": "君に会えて･･･会えてよかった/吹く風まかせ～Going My Way～",
+  "category": "CDシングル",
+  "artist": "ブラザーズ5",
+  "releaseDate": "2019/02/06",
+  "label": "zetima",
+  "images": [
+    "/images/2164ce7da51e5f58ad26fc4efffb57a3a9fef0e4.jpg",
+    "/images/5fcd9ec6d64726dcec347116a7886634f2425bef.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/2164ce7da51e5f58ad26fc4efffb57a3a9fef0e4.jpg",
+      "price": "￥1,834 (税抜価格 ￥1,667)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-2045",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "君に会えて･･･会えてよかった",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "石原信一",
+                "作曲": "馬飼野康二",
+                "編曲": "和田笑店"
+              }
+            },
+            {
+              "index": 2,
+              "title": "吹く風まかせ～Going My Way～",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "石原信一",
+                "作曲": "馬飼野康二",
+                "編曲": "和田笑店"
+              }
+            },
+            {
+              "index": 3,
+              "title": "君に会えて･･･会えてよかった(オリジナル・カラオケ)",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "石原信一",
+                "作曲": "馬飼野康二",
+                "編曲": "和田笑店"
+              }
+            },
+            {
+              "index": 4,
+              "title": "吹く風まかせ～Going My Way～(オリジナル・カラオケ)",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "石原信一",
+                "作曲": "馬飼野康二",
+                "編曲": "和田笑店"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/5fcd9ec6d64726dcec347116a7886634f2425bef.jpg",
+      "price": "￥1,222 (税抜価格 ￥1,111)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-2047",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "君に会えて･･･会えてよかった(Music Video)",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "石原信一",
+                "作曲": "馬飼野康二"
+              }
+            },
+            {
+              "index": 2,
+              "title": "吹く風まかせ～Going My Way～(Music Video)",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "石原信一",
+                "作曲": "馬飼野康二"
+              }
+            },
+            {
+              "index": 3,
+              "title": "アフタートーク",
+              "duration": "26:53"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

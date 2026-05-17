@@ -1,0 +1,38 @@
+{
+  "code": "EPBE-5227",
+  "url": "/release/detail/EPBE-5227/",
+  "source": "upfront",
+  "title": "ハロプロアワー Vol.5",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2007/01/24",
+  "label": "zetima",
+  "images": [
+    "/images/cef1dff6308826b4cb6b2482402b3265e67da196.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/cef1dff6308826b4cb6b2482402b3265e67da196.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5227",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "♯9",
+              "duration": "38:00"
+            },
+            {
+              "index": 2,
+              "title": "♯12",
+              "duration": "31:44"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

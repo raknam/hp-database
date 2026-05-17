@@ -1,0 +1,781 @@
+{
+  "id": 6340,
+  "url": "/release/6340/",
+  "title": "Hello! Project ひなフェス 2020 【アンジュルム プレミアム】",
+  "category": "BD",
+  "artist": "V.A.",
+  "releaseDate": "2020.8.19",
+  "label": "zetima",
+  "images": [
+    "/upload/images/4c0d10298a3f5ac0d4aa81ac759da134e7db3dd7.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:23",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "赤いイヤホン",
+              "duration": "04:44",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "MC",
+              "duration": "01:05",
+              "credits": {
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "泣けないぜ・・・共感詐欺",
+              "duration": "03:08",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 5,
+              "title": "次々続々",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "平田祥一郎",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "MC",
+              "duration": "01:14",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 7,
+              "title": "ありがた迷惑物語",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "ハロプロ研修生"
+              }
+            },
+            {
+              "index": 8,
+              "title": "アツイ！",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 9,
+              "title": "MC",
+              "duration": "00:34",
+              "credits": {
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 10,
+              "title": "元年バンジージャンプ",
+              "duration": "03:02",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 11,
+              "title": "ニッポンノD・N・A！",
+              "duration": "02:45",
+              "credits": {
+                "作詞": "野沢トオル",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 12,
+              "title": "春恋歌",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "鈴木秋則",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 13,
+              "title": "MC",
+              "duration": "00:39",
+              "credits": {
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 14,
+              "title": "独り占め",
+              "duration": "02:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 15,
+              "title": "純情cm(センチメートル)",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "大橋莉子",
+                "作曲": "大橋莉子",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 16,
+              "title": "MC",
+              "duration": "00:28",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 17,
+              "title": "恋はアッチャアッチャ",
+              "duration": "02:31",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 18,
+              "title": "Uraha=Lover",
+              "duration": "03:11",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 19,
+              "title": "MC",
+              "duration": "00:49",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 20,
+              "title": "ハピネス ～幸福歓迎！～",
+              "duration": "02:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "橋迫鈴"
+              }
+            },
+            {
+              "index": 21,
+              "title": "MC",
+              "duration": "00:12",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 22,
+              "title": "スキちゃん",
+              "duration": "03:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "ハロプロ研修生ユニット"
+              }
+            },
+            {
+              "index": 23,
+              "title": "桜ナイトフィーバー",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "出演": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 24,
+              "title": "MC",
+              "duration": "00:35",
+              "credits": {
+                "出演": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 25,
+              "title": "Come with me",
+              "duration": "03:02",
+              "credits": {
+                "作詞": "中村瑛彦",
+                "作曲": "中村瑛彦",
+                "出演": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 26,
+              "title": "ドカンとBREAK！",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "corin.",
+                "出演": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 27,
+              "title": "Borderline",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 28,
+              "title": "好きって言ってよ",
+              "duration": "02:50",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 29,
+              "title": "MC",
+              "duration": "00:49",
+              "credits": {
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 30,
+              "title": "ポップミュージック",
+              "duration": "05:19",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 31,
+              "title": "LOVEペディア",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "出演": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 32,
+              "title": "人間関係No way way",
+              "duration": "03:22",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "オオヤギヒロオ",
+                "出演": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 33,
+              "title": "MC",
+              "duration": "01:10",
+              "credits": {
+                "出演": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 34,
+              "title": "Tokyoという片隅",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 35,
+              "title": "MC",
+              "duration": "05:04",
+              "credits": {
+                "出演": "室田瑞希"
+              }
+            },
+            {
+              "index": 36,
+              "title": "君だけじゃないさ...friends",
+              "duration": "03:47",
+              "suffix": "(アコースティックVer.)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "室田瑞希"
+              }
+            },
+            {
+              "index": 37,
+              "title": "カクゴして！",
+              "duration": "03:18",
+              "credits": {
+                "作詞": "THE☆FUNKS",
+                "作曲": "THE☆FUNKS",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 38,
+              "title": "恋ならとっくに始まってる",
+              "duration": "03:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 39,
+              "title": "大器晩成",
+              "duration": "03:19",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 40,
+              "title": "46億年LOVE",
+              "duration": "02:24",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "林田健司",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 41,
+              "title": "友よ",
+              "duration": "05:43",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 42,
+              "title": "ENDING",
+              "duration": "02:17",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "EPXE-5177"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "きっと私は",
+              "duration": "04:10",
+              "suffix": "【こぶしファクトリー プレミアム】",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：U.M.E.D.Y.",
+                "作曲": "つんく",
+                "出演": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "MC",
+              "duration": "02:56",
+              "suffix": "【こぶしファクトリー プレミアム】",
+              "credits": {
+                "出演": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "チョット愚直に！猪突猛進",
+              "duration": "02:50",
+              "suffix": "【こぶしファクトリー プレミアム】",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "出演": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "シャララ！やれるはずさ",
+              "duration": "04:08",
+              "suffix": "【こぶしファクトリー プレミアム】",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "消せやしないキモチ",
+              "duration": "03:27",
+              "suffix": "【こぶしファクトリー プレミアム】",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "これからだ！",
+              "duration": "03:31",
+              "suffix": "【こぶしファクトリー プレミアム】",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "横健介",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 7,
+              "title": "彼女になりたいっ！！！",
+              "duration": "02:56",
+              "suffix": "【こぶしファクトリー プレミアム】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "浜浦彩乃"
+              }
+            },
+            {
+              "index": 8,
+              "title": "未熟半熟トロトロ",
+              "duration": "03:42",
+              "suffix": "【こぶしファクトリー プレミアム】",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "KOJI oba",
+                "出演": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 9,
+              "title": "急がば回れ",
+              "duration": "03:21",
+              "suffix": "【こぶしファクトリー プレミアム】",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "イイジマケン/炭竃智弘",
+                "出演": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 10,
+              "title": "念には念(念入り Ver.)",
+              "duration": "02:31",
+              "suffix": "【こぶしファクトリー プレミアム】",
+              "credits": {
+                "作詞": "アベショー",
+                "作曲": "アベショー",
+                "出演": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 11,
+              "title": "明日テンキになあれ",
+              "duration": "02:53",
+              "suffix": "【こぶしファクトリー プレミアム】",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン",
+                "出演": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 12,
+              "title": "スタートライン",
+              "duration": "04:14",
+              "suffix": "【こぶしファクトリー プレミアム】",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 13,
+              "title": "恋愛奉行",
+              "duration": "04:35",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 14,
+              "title": "MC",
+              "duration": "00:40",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 15,
+              "title": "元年バンジージャンプ",
+              "duration": "03:01",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 16,
+              "title": "ニッポンノD・N・A！",
+              "duration": "02:46",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "作詞": "野沢トオル",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 17,
+              "title": "やっちゃえ！GO！GO！",
+              "duration": "04:09",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "作詞": "中谷信行",
+                "作曲": "中谷信行",
+                "出演": "ハロプロ研修生"
+              }
+            },
+            {
+              "index": 18,
+              "title": "ハナモヨウ",
+              "duration": "02:42",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "KOUGA",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 19,
+              "title": "開き直っちゃえ！",
+              "duration": "02:50",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "出演": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 20,
+              "title": "都営大江戸線の六本木駅で抱きしめて",
+              "duration": "02:47",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "ハロプロ研修生ユニット"
+              }
+            },
+            {
+              "index": 21,
+              "title": "GIRL ZONE",
+              "duration": "03:29",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "作詞": "大森靖子",
+                "作曲": "大森靖子",
+                "出演": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 22,
+              "title": "ガラスのパンプス",
+              "duration": "03:07",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "平井美葉"
+              }
+            },
+            {
+              "index": 23,
+              "title": "ミステイク",
+              "duration": "03:54",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "中島卓偉",
+                "出演": "ハロプロ研修生ユニット"
+              }
+            },
+            {
+              "index": 24,
+              "title": "Va-Va-Voom",
+              "duration": "02:34",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Shusui/Josef Melin",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 25,
+              "title": "私、ちょいとカワイイ裏番長",
+              "duration": "04:10",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 26,
+              "title": "I surrender 愛されど愛",
+              "duration": "03:00",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 27,
+              "title": "眼鏡の男の子",
+              "duration": "04:49",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 28,
+              "title": "恋のおスウィング",
+              "duration": "04:05",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 29,
+              "title": "MC",
+              "duration": "00:34",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 30,
+              "title": "MADAYADE",
+              "duration": "02:27",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 31,
+              "title": "Go Waist",
+              "duration": "03:08",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "作詞": "Henri Belolo/Victor Edward Willis/日本語詞：児玉雨子",
+                "作曲": "Jacques Morali",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 32,
+              "title": "アツイ！",
+              "duration": "05:27",
+              "suffix": "【BEYOOOOONDS プレミアム】",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "BEYOOOOONDS"
+              }
+            },
+            {
+              "index": 1,
+              "title": "バックステージ映像",
+              "duration": "26:41",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

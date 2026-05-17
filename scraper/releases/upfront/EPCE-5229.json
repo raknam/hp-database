@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-5229",
+  "url": "/release/detail/EPCE-5229/",
+  "source": "upfront",
+  "title": "夢のつれづれ",
+  "category": "CDシングル",
+  "artist": "高山厳",
+  "releaseDate": "2003/07/09",
+  "label": "zetima",
+  "images": [
+    "/images/62e381c435ee07e70d64abec3156065aa53b2e5c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/62e381c435ee07e70d64abec3156065aa53b2e5c.jpg",
+      "price": "￥1,210 (税抜価格 ￥1,100)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5229",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夢のつれづれ",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "高山厳",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 2,
+              "title": "うたかた",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "高山厳",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 3,
+              "title": "夢のつれづれ(オリジナル・カラオケ)",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "高山厳",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 4,
+              "title": "うたかた(オリジナル・カラオケ)",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "高山厳",
+                "編曲": "川村栄二"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

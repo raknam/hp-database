@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1375",
+  "url": "/release/detail/UFDL-1375/",
+  "source": "upfront",
+  "title": "Sweet Girl's Night",
+  "category": "配信シングル",
+  "artist": "PINK CRES.",
+  "releaseDate": "2017/12/01",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/02c543528011e138b846c65d4fd06c1de7218f7f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/02c543528011e138b846c65d4fd06c1de7218f7f.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信シングル",
+          "catalogNo": "UFDL-1375",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Sweet Girl's Night",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "nozomi",
+                "作曲": "原田雄一",
+                "編曲": "松田純一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

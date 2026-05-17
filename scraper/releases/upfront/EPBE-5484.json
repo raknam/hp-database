@@ -1,0 +1,53 @@
+{
+  "code": "EPBE-5484",
+  "url": "/release/detail/EPBE-5484/",
+  "source": "upfront",
+  "title": "Pancake",
+  "category": "DVD",
+  "artist": "譜久村聖",
+  "releaseDate": "2014/08/06",
+  "label": "zetima",
+  "images": [
+    "/images/d4d32ded3da6c276524b677d66014458a73e9a6e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d4d32ded3da6c276524b677d66014458a73e9a6e.jpg",
+      "price": "￥4,400 (税抜価格 ￥4,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5484",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Sunday Morning",
+              "duration": "14:01"
+            },
+            {
+              "index": 2,
+              "title": "Train to the Beach",
+              "duration": "15:54"
+            },
+            {
+              "index": 3,
+              "title": "Sweet Pancake",
+              "duration": "06:09"
+            },
+            {
+              "index": 4,
+              "title": "Making of 『うたかた』",
+              "duration": "15:37"
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "03:23"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

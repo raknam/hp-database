@@ -1,0 +1,307 @@
+{
+  "code": "EPCE-7989",
+  "url": "/release/detail/EPCE-7989/",
+  "source": "upfront",
+  "title": "Selenite",
+  "category": "CDアルバム",
+  "artist": "稲場愛香",
+  "releaseDate": "2026/03/25",
+  "label": "zetima",
+  "images": [
+    "/images/4087e33c706ca85d5b882800243ffa9e48ff413e.jpg",
+    "/images/6c3d53d3dcf490ff224b111ab0a24630294d8179.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/4087e33c706ca85d5b882800243ffa9e48ff413e.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-7989",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "NEWAY",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "馬瀬みさき",
+                "作曲": "馬瀬みさき",
+                "編曲": "馬瀬みさき"
+              }
+            },
+            {
+              "index": 2,
+              "title": "圧倒的LØVE",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "金子麻友美",
+                "作曲": "真下正樹",
+                "編曲": "大沢圭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "終わらないインソムニア",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "zopp",
+                "作曲": "大島こうすけ",
+                "編曲": "大島こうすけ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Bubble Up",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "nozomi*",
+                "作曲": "木下龍平",
+                "編曲": "木下龍平"
+              }
+            },
+            {
+              "index": 5,
+              "title": "口先だけのマニフェスト",
+              "duration": "02:52",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Erik Lidbom",
+                "編曲": "Erik Lidbom for Hitfire Production"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Pink Temperature",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Julie Yu/Gustav Mared/Carlos Okabe",
+                "編曲": "Gustav Mared for Hitfire Production"
+              }
+            },
+            {
+              "index": 7,
+              "title": "チャプターⅡ",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "江上浩太郎",
+                "編曲": "江上浩太郎"
+              }
+            },
+            {
+              "index": 8,
+              "title": "いい子じゃいられNight",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "zopp",
+                "作曲": "大島こうすけ",
+                "編曲": "大島こうすけ"
+              }
+            },
+            {
+              "index": 9,
+              "title": "Love Physics",
+              "duration": "03:03",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Scott Russell Stoddart/Anna Timgren/Alexej Viktorovitch",
+                "編曲": "Scott Russell Stoddart"
+              }
+            },
+            {
+              "index": 10,
+              "title": "前略、",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "原田雄一",
+                "編曲": "原田雄一"
+              }
+            },
+            {
+              "index": 11,
+              "title": "星屑のエスケープ",
+              "duration": "03:14",
+              "credits": {
+                "作詞": "常楽寺澪",
+                "作曲": "Andreas Ohrn/Peter Bostrom/David Bonk/Julia Bergen",
+                "編曲": "Peter Bostrom"
+              }
+            },
+            {
+              "index": 12,
+              "title": "LOVE is BLIND",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Karrinator/ERECA",
+                "編曲": "Karrinator"
+              }
+            },
+            {
+              "index": 13,
+              "title": "熱狂バイレ",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "原田雄一",
+                "作曲": "原田雄一",
+                "編曲": "原田雄一"
+              }
+            },
+            {
+              "index": 14,
+              "title": "Pop Star",
+              "duration": "05:08",
+              "credits": {
+                "作詞": "富永美杜",
+                "作曲": "山木隆一郎",
+                "編曲": "山木隆一郎"
+              }
+            },
+            {
+              "index": 15,
+              "title": "ユートピアン",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Jan Andersson/Peter Heden/YoZi Ngoo",
+                "編曲": "Jan Andersson/Peter Heden"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/6c3d53d3dcf490ff224b111ab0a24630294d8179.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7991",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "圧倒的LØVE(Music Video)",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "金子麻友美",
+                "作曲": "真下正樹"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Pink Temperature(Music Video)",
+              "duration": "04:54",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Julie Yu/Gustav Mared/Carlos Okabe"
+              }
+            },
+            {
+              "index": 3,
+              "title": "星屑のエスケープ(Music Video)",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "常楽寺澪",
+                "作曲": "Andreas Ohrn/Peter Bostrom/David Bonk/Julia Bergen"
+              }
+            },
+            {
+              "index": 4,
+              "title": "終わらないインソムニア(Music Video)",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "zopp",
+                "作曲": "大島こうすけ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "NEWAY(Music Video)",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "馬瀬みさき",
+                "作曲": "馬瀬みさき"
+              }
+            },
+            {
+              "index": 6,
+              "title": "圧倒的LØVE(Dance Shot Ver.)",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "金子麻友美",
+                "作曲": "真下正樹"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Pink Temperature(Dance Shot Ver.)",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Julie Yu/Gustav Mared/Carlos Okabe"
+              }
+            },
+            {
+              "index": 8,
+              "title": "星屑のエスケープ(Dance Shot Ver.)",
+              "duration": "03:17",
+              "credits": {
+                "作詞": "常楽寺澪",
+                "作曲": "Andreas Ohrn/Peter Bostrom/David Bonk/Julia Bergen"
+              }
+            },
+            {
+              "index": 9,
+              "title": "終わらないインソムニア(Dance Shot Ver.)",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "zopp",
+                "作曲": "大島こうすけ"
+              }
+            },
+            {
+              "index": 10,
+              "title": "NEWAY(Dance Shot Ver.)",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "馬瀬みさき",
+                "作曲": "馬瀬みさき"
+              }
+            },
+            {
+              "index": 11,
+              "title": "NEWAY(MVメイキング映像)",
+              "duration": "10:20"
+            },
+            {
+              "index": 12,
+              "title": "圧倒的LØVE(TV-SPOT)",
+              "duration": "00:30"
+            },
+            {
+              "index": 13,
+              "title": "Pink Temperature(TV-SPOT)",
+              "duration": "00:30"
+            },
+            {
+              "index": 14,
+              "title": "星屑のエスケープ(TV-SPOT)",
+              "duration": "00:30"
+            },
+            {
+              "index": 15,
+              "title": "終わらないインソムニア(TV-SPOT)",
+              "duration": "00:41"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "code": "EPCE-5632",
+  "url": "/release/detail/EPCE-5632/",
+  "source": "upfront",
+  "title": "Bye Bye Bye！",
+  "category": "CDシングル",
+  "artist": "℃-ute",
+  "releaseDate": "2009/04/15",
+  "label": "zetima",
+  "images": [
+    "/images/df16a381762d2850882f18c2fc2ba612dbc77444.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/df16a381762d2850882f18c2fc2ba612dbc77444.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5632",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Bye Bye Bye!",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Go Go Go!",
+              "duration": "04:05",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Bye Bye Bye!(Instrumental)",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": null,
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5634",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Bye Bye Bye!(Dance Shot Ver.)",
+              "duration": "04:18"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "code": "PKCP-5074",
+  "url": "/release/detail/PKCP-5074/",
+  "source": "upfront",
+  "title": "胸さわぎスカーレット",
+  "category": "CDシングル",
+  "artist": "Berryz工房",
+  "releaseDate": "2006/12/06",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/a5920a93404a242afa78638161227447f33788fa.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/a5920a93404a242afa78638161227447f33788fa.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5074",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "胸さわぎスカーレット",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "あいたいけど…",
+              "duration": "04:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "胸さわぎスカーレット(Instrumental)",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

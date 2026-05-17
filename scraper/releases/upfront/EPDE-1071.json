@@ -1,0 +1,58 @@
+{
+  "code": "EPDE-1071",
+  "url": "/release/detail/EPDE-1071/",
+  "source": "upfront",
+  "title": "黄色いお空で BOOM BOOM BOOM",
+  "category": "CDシングル",
+  "artist": "黄色5",
+  "releaseDate": "2000/03/08",
+  "label": "zetima",
+  "images": [
+    "/images/2d0e5a7d88f7165725845bfae8740470bf4b0cc7.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/2d0e5a7d88f7165725845bfae8740470bf4b0cc7.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1071",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "黄色いお空で BOOM BOOM BOOM",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野伸"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Hello!のテーマ(黄色5version)",
+              "duration": "02:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 3,
+              "title": "黄色いお空で BOOM BOOM BOOM(Instrumental)",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野伸"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

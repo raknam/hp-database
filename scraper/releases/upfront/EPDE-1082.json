@@ -1,0 +1,121 @@
+{
+  "code": "EPDE-1082",
+  "url": "/release/detail/EPDE-1082/",
+  "source": "upfront",
+  "title": "隅田川",
+  "category": "CDシングル",
+  "artist": "城之内早苗",
+  "releaseDate": "2000/07/26",
+  "label": "zetima",
+  "images": [
+    "/images/0d0aa7b3cac3bb5d992db6fb3177840307e367fc.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/0d0aa7b3cac3bb5d992db6fb3177840307e367fc.jpg",
+      "price": "￥1,175 (税抜価格 ￥1,068)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1082",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "隅田川",
+              "duration": "05:39",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "弦哲也",
+                "編曲": "南郷達也"
+              }
+            },
+            {
+              "index": 2,
+              "title": "白河夜船",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "弦哲也",
+                "編曲": "南郷達也"
+              }
+            },
+            {
+              "index": 3,
+              "title": "隅田川(オリジナル・カラオケ)",
+              "duration": "05:39",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "弦哲也",
+                "編曲": "南郷達也"
+              }
+            },
+            {
+              "index": 4,
+              "title": "白河夜船(オリジナル・カラオケ)",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "弦哲也",
+                "編曲": "南郷達也"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": null,
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "カセットテープシングル",
+          "catalogNo": "EPSE-1082",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "隅田川",
+              "duration": "05:38",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "弦哲也",
+                "編曲": "南郷達也"
+              }
+            },
+            {
+              "index": 2,
+              "title": "白河夜船",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "弦哲也",
+                "編曲": "南郷達也"
+              }
+            },
+            {
+              "index": 3,
+              "title": "隅田川(オリジナル・カラオケ)",
+              "duration": "05:39",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "弦哲也",
+                "編曲": "南郷達也"
+              }
+            },
+            {
+              "index": 4,
+              "title": "白河夜船(オリジナル・カラオケ)",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "弦哲也",
+                "編曲": "南郷達也"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

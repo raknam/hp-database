@@ -1,0 +1,78 @@
+{
+  "code": "EPCE-5716",
+  "url": "/release/detail/EPCE-5716/",
+  "source": "upfront",
+  "title": "明日への階段",
+  "category": "CDシングル",
+  "artist": "中島卓偉",
+  "releaseDate": "2010/06/23",
+  "label": "zetima",
+  "images": [
+    "/images/40d0ee032455a7355e17fcd3e4f2ae48062399f9.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/40d0ee032455a7355e17fcd3e4f2ae48062399f9.jpg",
+      "price": "￥1,572 (税抜価格 ￥1,429)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5716",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "明日への階段",
+              "duration": "05:45",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉/弦編曲:菊谷知樹"
+              }
+            },
+            {
+              "index": 2,
+              "title": "風穴メモリー",
+              "duration": "03:28",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 3,
+              "title": "すてちまえよ",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 4,
+              "title": "再会",
+              "duration": "03:17",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 5,
+              "title": "明日への階段-vocal off version-",
+              "duration": "05:45",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉/弦編曲:菊谷知樹"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": 2040,
+  "url": "/release/2040/",
+  "title": "ハロー！チャンネル the DVD Vol.3",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2011.3.2",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/8064100fb7a0a84c226024451fdd44d9af1ee3bb.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「スペシャルグラビア撮影」",
+              "duration": "19:56",
+              "credits": {
+                "出演": "高橋愛・鈴木愛理"
+              }
+            },
+            {
+              "index": 2,
+              "title": "カンフー修行編",
+              "duration": "16:04",
+              "credits": {
+                "出演": "新垣里沙・夏焼雅・矢島舞美"
+              }
+            },
+            {
+              "index": 3,
+              "title": "北関東ミステリーツアー",
+              "duration": "19:52",
+              "credits": {
+                "出演": "高橋愛・熊井友理奈・和田彩花"
+              }
+            },
+            {
+              "index": 4,
+              "title": "マクドナルド",
+              "duration": "29:47",
+              "credits": {
+                "出演": "高橋愛・須藤茉麻・中島早貴・福田花音"
+              }
+            },
+            {
+              "index": 5,
+              "title": "そば店でそば打ち",
+              "duration": "15:09",
+              "credits": {
+                "出演": "菅谷梨沙子・矢島舞美"
+              }
+            },
+            {
+              "index": 6,
+              "title": "幼稚園の先生",
+              "duration": "12:37",
+              "credits": {
+                "出演": "道重さゆみ・嗣永桃子"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1050"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「探訪！佐渡島＆里田米稲刈り」",
+              "duration": "36:13",
+              "credits": {
+                "出演": "清水佐紀・徳永千奈美"
+              }
+            },
+            {
+              "index": 2,
+              "title": "「田中軍団が行く！渋谷の街をキレイにしよう！」",
+              "duration": "10:17",
+              "credits": {
+                "出演": "田中れいな・光井愛佳・萩原舞・福田花音・小川紗季"
+              }
+            },
+            {
+              "index": 3,
+              "title": "田中れいなの「漢気一直線！」",
+              "duration": "10:33",
+              "credits": {
+                "出演": "田中れいな"
+              }
+            },
+            {
+              "index": 4,
+              "title": "「真野恵里菜のアイドル100万ボルト」",
+              "duration": "06:26",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 5,
+              "title": "「チャレンジャー岡井千聖のあくなき闘い！！」",
+              "duration": "09:47",
+              "credits": {
+                "出演": "岡井千聖"
+              }
+            },
+            {
+              "index": 6,
+              "title": "「戦国グラビア撮影」",
+              "duration": "22:49",
+              "credits": {
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 7,
+              "title": "エンディング",
+              "duration": "00:39",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

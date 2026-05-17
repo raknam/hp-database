@@ -1,0 +1,38 @@
+{
+  "id": 5731,
+  "url": "/release/5731/",
+  "title": "夏将軍",
+  "category": "配信",
+  "artist": "アンジュルム",
+  "releaseDate": "2018.7.21",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/f16f4c00fe5fbe30097c1d7fd945b097f7985764.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夏将軍",
+              "duration": "05:17",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE/STAND ALONE",
+                "編曲": "STAND ALONE",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1403"
+        }
+      ]
+    }
+  ]
+}

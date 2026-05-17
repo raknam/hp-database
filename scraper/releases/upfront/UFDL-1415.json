@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1415",
+  "url": "/release/detail/UFDL-1415/",
+  "source": "upfront",
+  "title": "泣きたくないのに",
+  "category": "配信",
+  "artist": "矢島舞美",
+  "releaseDate": "2018/11/21",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/aa8ed47fb715361651c7697cfb151b612e87ec6b.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/aa8ed47fb715361651c7697cfb151b612e87ec6b.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1415",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "泣きたくないのに",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "荒幡亮平"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

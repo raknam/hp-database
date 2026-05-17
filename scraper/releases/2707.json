@@ -1,0 +1,56 @@
+{
+  "id": 2707,
+  "url": "/release/2707/",
+  "title": "シングルV「渡良瀬橋」",
+  "category": "DVDシングルV",
+  "artist": "松浦亜弥",
+  "releaseDate": "2004.11.10",
+  "label": "zetima",
+  "images": [
+    "/upload/images/5b982401c797245782f2c53d7fbd6fd6825cb440.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "渡良瀬橋",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "斉藤英夫",
+                "出演": "松浦亜弥"
+              }
+            },
+            {
+              "index": 2,
+              "title": "渡良瀬橋",
+              "duration": "04:20",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "斉藤英夫",
+                "出演": "松浦亜弥"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "06:07",
+              "credits": {
+                "出演": "松浦亜弥"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5148"
+        }
+      ]
+    }
+  ]
+}

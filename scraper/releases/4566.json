@@ -1,0 +1,565 @@
+{
+  "id": 4566,
+  "url": "/release/4566/",
+  "title": "ブギウギLOVE/恋はマグネット/ランラルン〜あなたに夢中〜",
+  "category": "CDシングル",
+  "artist": "カントリー・ガールズ",
+  "releaseDate": "2016.3.9",
+  "label": "zetima",
+  "images": [
+    "/upload/images/c0e381fc25d21dd412fa6392e615c7bc33936996.webp",
+    "/upload/images/3a602842df0b8fc4524de89d3b1baa49044e2e3b.webp",
+    "/upload/images/775df2901b1cedc082e61330b5f3d44a18647592.webp",
+    "/upload/images/ce782003e18a7005d791240ff7b8be4f940b94d5.webp",
+    "/upload/images/ae4e79b4422c2d803b3b5e90e9e8217b6b2d1a55.webp",
+    "/upload/images/5073a083f7a8b8fa1a8cecfff71f091591816218.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/c0e381fc25d21dd412fa6392e615c7bc33936996.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ブギウギLOVE",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "菊谷知樹/ブラスアレンジ:竹上良成",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋はマグネット",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "Yasushi Watanabe",
+                "編曲": "Yasushi Watanabe",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ランラルン〜あなたに夢中〜",
+              "duration": "02:55",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "Kern Jerome(PD)",
+                "編曲": "加藤裕介",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ブギウギLOVE",
+              "duration": "03:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "菊谷知樹/ブラスアレンジ:竹上良成",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "恋はマグネット",
+              "duration": "04:28",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "Yasushi Watanabe",
+                "編曲": "Yasushi Watanabe",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ランラルン〜あなたに夢中〜",
+              "duration": "02:54",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "Kern Jerome(PD)",
+                "編曲": "加藤裕介",
+                "歌": "カントリー・ガールズ"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7173"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ブギウギLOVE",
+              "duration": "00:00",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "出演": "カントリー・ガールズ"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/3a602842df0b8fc4524de89d3b1baa49044e2e3b.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ブギウギLOVE",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "菊谷知樹/ブラスアレンジ:竹上良成",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋はマグネット",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "Yasushi Watanabe",
+                "編曲": "Yasushi Watanabe",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ランラルン〜あなたに夢中〜",
+              "duration": "02:55",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "Kern Jerome(PD)",
+                "編曲": "加藤裕介",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ブギウギLOVE",
+              "duration": "03:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "菊谷知樹/ブラスアレンジ:竹上良成",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "恋はマグネット",
+              "duration": "04:28",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "Yasushi Watanabe",
+                "編曲": "Yasushi Watanabe",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ランラルン〜あなたに夢中〜",
+              "duration": "02:54",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "Kern Jerome(PD)",
+                "編曲": "加藤裕介",
+                "歌": "カントリー・ガールズ"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7175"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋はマグネット",
+              "duration": "00:00",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "Yasushi Watanabe",
+                "出演": "カントリー・ガールズ"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/775df2901b1cedc082e61330b5f3d44a18647592.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ブギウギLOVE",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "菊谷知樹/ブラスアレンジ:竹上良成",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋はマグネット",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "Yasushi Watanabe",
+                "編曲": "Yasushi Watanabe",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ランラルン〜あなたに夢中〜",
+              "duration": "02:55",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "Kern Jerome(PD)",
+                "編曲": "加藤裕介",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ブギウギLOVE",
+              "duration": "03:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "菊谷知樹/ブラスアレンジ:竹上良成",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "恋はマグネット",
+              "duration": "04:28",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "Yasushi Watanabe",
+                "編曲": "Yasushi Watanabe",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ランラルン〜あなたに夢中〜",
+              "duration": "02:54",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "Kern Jerome(PD)",
+                "編曲": "加藤裕介",
+                "歌": "カントリー・ガールズ"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7177"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ランラルン〜あなたに夢中〜",
+              "duration": "00:00",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "Kern Jerome(PD)",
+                "出演": "カントリー・ガールズ"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/ce782003e18a7005d791240ff7b8be4f940b94d5.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ブギウギLOVE",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "菊谷知樹/ブラスアレンジ:竹上良成",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋はマグネット",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "Yasushi Watanabe",
+                "編曲": "Yasushi Watanabe",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ランラルン〜あなたに夢中〜",
+              "duration": "02:55",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "Kern Jerome(PD)",
+                "編曲": "加藤裕介",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ブギウギLOVE",
+              "duration": "03:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "菊谷知樹/ブラスアレンジ:竹上良成",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "恋はマグネット",
+              "duration": "04:28",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "Yasushi Watanabe",
+                "編曲": "Yasushi Watanabe",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ランラルン〜あなたに夢中〜",
+              "duration": "02:54",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "Kern Jerome(PD)",
+                "編曲": "加藤裕介",
+                "歌": "カントリー・ガールズ"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7179"
+        }
+      ],
+      "note": "トレカサイズ生写真ソロ7種+集合1種よりランダムにて1枚封入(ブギウギLOVE Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/ae4e79b4422c2d803b3b5e90e9e8217b6b2d1a55.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ブギウギLOVE",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "菊谷知樹/ブラスアレンジ:竹上良成",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋はマグネット",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "Yasushi Watanabe",
+                "編曲": "Yasushi Watanabe",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ランラルン〜あなたに夢中〜",
+              "duration": "02:55",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "Kern Jerome(PD)",
+                "編曲": "加藤裕介",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ブギウギLOVE",
+              "duration": "03:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "菊谷知樹/ブラスアレンジ:竹上良成",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "恋はマグネット",
+              "duration": "04:28",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "Yasushi Watanabe",
+                "編曲": "Yasushi Watanabe",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ランラルン〜あなたに夢中〜",
+              "duration": "02:54",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "Kern Jerome(PD)",
+                "編曲": "加藤裕介",
+                "歌": "カントリー・ガールズ"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7181"
+        }
+      ],
+      "note": "トレカサイズ生写真ソロ7種+集合1種よりランダムにて1枚封入(恋はマグネット Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/upload/images/5073a083f7a8b8fa1a8cecfff71f091591816218.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ブギウギLOVE",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "菊谷知樹/ブラスアレンジ:竹上良成",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋はマグネット",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "Yasushi Watanabe",
+                "編曲": "Yasushi Watanabe",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ランラルン〜あなたに夢中〜",
+              "duration": "02:55",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "Kern Jerome(PD)",
+                "編曲": "加藤裕介",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ブギウギLOVE",
+              "duration": "03:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "菊谷知樹/ブラスアレンジ:竹上良成",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "恋はマグネット",
+              "duration": "04:28",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "Yasushi Watanabe",
+                "編曲": "Yasushi Watanabe",
+                "歌": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ランラルン〜あなたに夢中〜",
+              "duration": "02:54",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "Kern Jerome(PD)",
+                "編曲": "加藤裕介",
+                "歌": "カントリー・ガールズ"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7182"
+        }
+      ],
+      "note": "トレカサイズ生写真ソロ7種+集合1種よりランダムにて1枚封入(ランラルン〜あなたに夢中〜 Ver.)※初回プレス分のみ"
+    }
+  ]
+}

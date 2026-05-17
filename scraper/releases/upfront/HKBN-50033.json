@@ -1,0 +1,53 @@
+{
+  "code": "HKBN-50033",
+  "url": "/release/detail/HKBN-50033/",
+  "source": "upfront",
+  "title": "シングルV「22歳の私」",
+  "category": "DVDシングルV",
+  "artist": "安倍なつみ",
+  "releaseDate": "2003/08/13",
+  "label": "hachama",
+  "images": [
+    "/images/d1b31d33930522820475aa1b773981ed23ef3f4f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d1b31d33930522820475aa1b773981ed23ef3f4f.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "HKBN-50033",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "22歳の私",
+              "duration": "05:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 2,
+              "title": "22歳の私〜Closeーup Version〜",
+              "duration": "05:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング＆インタビュー",
+              "duration": "10:20"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

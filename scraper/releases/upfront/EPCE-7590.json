@@ -1,0 +1,186 @@
+{
+  "code": "EPCE-7590",
+  "url": "/release/detail/EPCE-7590/",
+  "source": "upfront",
+  "title": "断捨ISM/イマナンジ？",
+  "category": "CDシングル",
+  "artist": "つばきファクトリー",
+  "releaseDate": "2020/09/30",
+  "label": "zetima",
+  "images": [
+    "/images/7c211c75ad942b7b855944796473b398a84498e5.jpg",
+    "/images/7da12a4de664270c22f158231f0885cf15309efa.jpg",
+    "/images/9513bbf8b618461668a202e65709bea763848d03.jpg",
+    "/images/ca933cb287990b90f2777ec4e64c2b773852536a.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/7c211c75ad942b7b855944796473b398a84498e5.jpg",
+      "price": "￥1,870 (税抜価格 ￥1,700)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7590",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "断捨ISM",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE",
+                "編曲": "草野将史"
+              }
+            },
+            {
+              "index": 2,
+              "title": "イマナンジ？",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "Soflan Daichi",
+                "作曲": "玉木千尋",
+                "編曲": "玉木千尋"
+              }
+            },
+            {
+              "index": 3,
+              "title": "断捨ISM(Instrumental)",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE",
+                "編曲": "草野将史"
+              }
+            },
+            {
+              "index": 4,
+              "title": "イマナンジ？(Instrumental)",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "Soflan Daichi",
+                "作曲": "玉木千尋",
+                "編曲": "玉木千尋"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/7da12a4de664270c22f158231f0885cf15309efa.jpg",
+      "price": "￥1,870 (税抜価格 ￥1,700)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7592",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "断捨ISM(Music Video)",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE"
+              }
+            },
+            {
+              "index": 2,
+              "title": "断捨ISM(Dance Shot Ver.)",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/9513bbf8b618461668a202e65709bea763848d03.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7594",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "断捨ISM",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE",
+                "編曲": "草野将史"
+              }
+            },
+            {
+              "index": 2,
+              "title": "イマナンジ？",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "Soflan Daichi",
+                "作曲": "玉木千尋",
+                "編曲": "玉木千尋"
+              }
+            },
+            {
+              "index": 3,
+              "title": "断捨ISM(Instrumental)",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE",
+                "編曲": "草野将史"
+              }
+            },
+            {
+              "index": 4,
+              "title": "イマナンジ？(Instrumental)",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "Soflan Daichi",
+                "作曲": "玉木千尋",
+                "編曲": "玉木千尋"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/ca933cb287990b90f2777ec4e64c2b773852536a.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7595",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "イマナンジ？(Music Video)",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "Soflan Daichi",
+                "作曲": "玉木千尋"
+              }
+            },
+            {
+              "index": 1,
+              "title": "イマナンジ？(Dance Shot Ver.)",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "Soflan Daichi",
+                "作曲": "玉木千尋"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

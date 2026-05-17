@@ -1,0 +1,127 @@
+{
+  "code": "EPBE-5544",
+  "url": "/release/detail/EPBE-5544/",
+  "source": "upfront",
+  "title": "ミュージック・ビデオ・コレクション 1993-2000",
+  "category": "DVD",
+  "artist": "スターダスト☆レビュー",
+  "releaseDate": "2017/04/05",
+  "label": "zetima",
+  "images": [
+    "/images/c2f573dbcbbca52805d24b6f14f3326938f5b775.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/c2f573dbcbbca52805d24b6f14f3326938f5b775.jpg",
+      "price": "￥3,565 (税抜価格 ￥3,241)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5544",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "木蘭の涙",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "山田ひろし",
+                "作曲": "柿沼清史"
+              }
+            },
+            {
+              "index": 2,
+              "title": "クレイジ－・ラブ",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "渡辺なつみ",
+                "作曲": "柿沼清史"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ふたり",
+              "duration": "05:21",
+              "credits": {
+                "作詞": "渡辺なつみ",
+                "作曲": "柿沼清史"
+              }
+            },
+            {
+              "index": 4,
+              "title": "会えないよ",
+              "duration": "05:11",
+              "credits": {
+                "作詞": "渡辺なつみ",
+                "作曲": "根本要"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Get Up My Soul",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "渡辺なつみ",
+                "作曲": "根本要"
+              }
+            },
+            {
+              "index": 6,
+              "title": "もうチョットだけ何か足りない",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "並河祥太",
+                "作曲": "根本要"
+              }
+            },
+            {
+              "index": 7,
+              "title": "何やってんだろう",
+              "duration": "05:20",
+              "credits": {
+                "作詞": "並河祥太",
+                "作曲": "柿沼清史"
+              }
+            },
+            {
+              "index": 8,
+              "title": "7月7日",
+              "duration": "05:20",
+              "credits": {
+                "作詞": "康珍化",
+                "作曲": "根本要"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ワイン恋物語",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "渡辺なつみ",
+                "作曲": "根本要"
+              }
+            },
+            {
+              "index": 10,
+              "title": "どうして",
+              "duration": "05:09",
+              "credits": {
+                "作詞": "根本要/山田ひろし",
+                "作曲": "根本要"
+              }
+            },
+            {
+              "index": 11,
+              "title": "What is Love?",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "根本要",
+                "作曲": "根本要"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

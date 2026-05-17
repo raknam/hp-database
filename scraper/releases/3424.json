@@ -1,0 +1,109 @@
+{
+  "id": 3424,
+  "url": "/release/3424/",
+  "title": "チャンス！",
+  "category": "CDシングル",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "releaseDate": "2007.11.7",
+  "label": "zetima",
+  "images": [
+    "/upload/images/fe651073b3ef7638dcc0049ecb6eaafa40f4067e.webp",
+    "/upload/images/b2ad4d33cf497baadf0833cf054228cd8098b4e8.webp"
+  ],
+  "editions": [
+    {
+      "name": "【完全生産限定盤】",
+      "image": "/upload/images/fe651073b3ef7638dcc0049ecb6eaafa40f4067e.webp",
+      "price": "定価 ￥1,320（税抜価格 ￥1,200）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "チャンス！",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "織田哲郎",
+                "編曲": "家原正樹",
+                "歌": "月島きらり starring 久住小春"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ラムタラ",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "斎藤悠弥",
+                "編曲": "斎藤悠弥",
+                "歌": "月島きらり starring 久住小春"
+              }
+            },
+            {
+              "index": 3,
+              "title": "チャンス！",
+              "duration": "03:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "織田哲郎",
+                "編曲": "家原正樹",
+                "歌": "月島きらり starring 久住小春"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5510"
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/b2ad4d33cf497baadf0833cf054228cd8098b4e8.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "チャンス！",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "織田哲郎",
+                "編曲": "家原正樹",
+                "歌": "月島きらり starring 久住小春"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ラムタラ",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "斎藤悠弥",
+                "編曲": "斎藤悠弥",
+                "歌": "月島きらり starring 久住小春"
+              }
+            },
+            {
+              "index": 3,
+              "title": "チャンス！",
+              "duration": "03:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "織田哲郎",
+                "編曲": "家原正樹",
+                "歌": "月島きらり starring 久住小春"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5511"
+        }
+      ]
+    }
+  ]
+}

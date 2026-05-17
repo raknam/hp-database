@@ -1,0 +1,93 @@
+{
+  "code": "UFBW-1603",
+  "url": "/release/detail/UFBW-1603/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.46",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2018/08/15",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/81dcddc7481d5816c15aad149cffd02325f8061a.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/81dcddc7481d5816c15aad149cffd02325f8061a.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1603",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "PICK UP MUSIC「ビジネスマナー講座」小片リサ、岸本ゆめの、小野瑞歩(つばきファクトリー)/♪就活センセーション",
+              "duration": "15:39"
+            },
+            {
+              "index": 2,
+              "title": "PICK UP MUSIC「ファッション企画」夏焼雅(PINK CRES.)/♪Summer wonderland",
+              "duration": "12:05"
+            },
+            {
+              "index": 3,
+              "title": "PICK UP MUSIC「アクティビティスポット」古川小夏、関根梓、新井愛瞳(アップアップガールズ(仮))/♪UPPER ROCK(DISCO ver.)",
+              "duration": "15:51"
+            },
+            {
+              "index": 4,
+              "title": "この世界は捨てたもんじゃない【スタジオライブ集】",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "中村瑛彦"
+              }
+            },
+            {
+              "index": 5,
+              "title": "fun fun fun【スタジオライブ集】",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "MEROA",
+                "作曲": "Carlos K./MEROA"
+              }
+            },
+            {
+              "index": 6,
+              "title": "キレイ・カワイ・ミライ【スタジオライブ集】",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "＆ STUDY",
+                "作曲": "原田雄一"
+              }
+            },
+            {
+              "index": 7,
+              "title": "パーリーピーポーエイリアン【スタジオライブ集】",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo"
+              }
+            },
+            {
+              "index": 8,
+              "title": "贈りものには愛がある【スタジオライブ集】",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ビジネスマナー講座より「挨拶編」【未公開映像】",
+              "duration": "02:49"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

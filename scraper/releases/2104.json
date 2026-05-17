@@ -1,0 +1,79 @@
+{
+  "id": 2104,
+  "url": "/release/2104/",
+  "title": "ハロー!SATOYAMAライフ Vol.12",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2013.8.9",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/4c9b155428c15af54ff191c412afcfea29c8d770.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ガーデンハウス作りに挑戦",
+              "duration": "31:04",
+              "credits": {
+                "出演": "須藤茉麻(Berryz工房)/中島早貴(℃-ute)/福田花音(スマイレージ)/宮崎由加(Juice=Juice)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ガーデンハウス作りに挑戦 2日目",
+              "duration": "03:53",
+              "credits": {
+                "出演": "須藤茉麻(Berryz工房)/中島早貴(℃-ute)/福田花音(スマイレージ)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ガーデンハウス作りに挑戦 3日目",
+              "duration": "11:17",
+              "credits": {
+                "出演": "譜久村聖・鈴木香音・飯窪春菜・工藤 遥(モーニング娘。)/須藤茉麻(Berryz工房)/中島早貴・岡井千聖(℃-ute)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "春菊の種まきをしよう",
+              "duration": "03:32",
+              "credits": {
+                "出演": "須藤茉麻(Berryz工房)/福田花音(スマイレージ)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "モーニング娘。「Help me!!」MV撮影に密着",
+              "duration": "10:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 6,
+              "title": "モーニング娘。小田さくらデビューまでの道のり",
+              "duration": "12:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1266"
+        }
+      ]
+    }
+  ]
+}

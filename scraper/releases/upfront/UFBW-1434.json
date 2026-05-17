@@ -1,0 +1,101 @@
+{
+  "code": "UFBW-1434",
+  "url": "/release/detail/UFBW-1434/",
+  "source": "upfront",
+  "title": "モーニング娘。'14 SPECIAL EVENT IN 品川",
+  "category": "DVD",
+  "artist": "モーニング娘。'14",
+  "releaseDate": "2015/04/29",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/230932fb10f70b734c7dffd03a0f78ad178fea9c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/230932fb10f70b734c7dffd03a0f78ad178fea9c.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1434",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "TIKI BUN(Album Version)",
+              "duration": "05:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "笑えない話",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "MC",
+              "duration": "27:36"
+            },
+            {
+              "index": 4,
+              "title": "私は私なんだ",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "大人になれば 大人になれる",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "キラリと光る星",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 7,
+              "title": "恋人には絶対に知られたくない真実",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 8,
+              "title": "MC",
+              "duration": "05:44"
+            },
+            {
+              "index": 9,
+              "title": "明日を作るのは君",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "id": 426,
+  "url": "/release/426/",
+  "title": "劇団ゲキハロ第4回公演『携帯小説家』",
+  "category": "DVD",
+  "artist": "℃-ute",
+  "releaseDate": "2009.1.21",
+  "label": "zetima",
+  "images": [
+    "/upload/images/6e5816975746fb3dfdfa6d3b37fda123dca79eeb.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プロローグ",
+              "duration": "04:33",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "【サムライ☆ベイビー】",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "太田善也",
+                "作曲": "たいせい",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "1場",
+              "duration": "09:05",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "2場",
+              "duration": "25:58",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "3場",
+              "duration": "26:58",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 6,
+              "title": "4場",
+              "duration": "20:06",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 7,
+              "title": "エピローグ",
+              "duration": "13:30",
+              "credits": {
+                "作詞": "太田善也",
+                "作曲": "たいせい",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 8,
+              "title": "【乙女COCORO】",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 9,
+              "title": "【涙の色】",
+              "duration": "07:49",
+              "credits": {
+                "作詞": "つんく/太田善也",
+                "作曲": "つんく/たいせい",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 10,
+              "title": "稽古場メイキング",
+              "duration": "08:47",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 11,
+              "title": "千秋楽メイキング(2008.10.26)",
+              "duration": "06:45",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5317"
+        }
+      ]
+    }
+  ]
+}

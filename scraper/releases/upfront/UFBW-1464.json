@@ -1,0 +1,123 @@
+{
+  "code": "UFBW-1464",
+  "url": "/release/detail/UFBW-1464/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.15",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2015/11/04",
+  "label": "zetima",
+  "images": [
+    "/images/b79bdb281a08a8b89e7e83d29d6681caed24d0d2.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/b79bdb281a08a8b89e7e83d29d6681caed24d0d2.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1464",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "伊達じゃないよ うちの人生は【名物企画 衣装コーディネート】",
+              "duration": "11:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "One･Two･Three【名物企画 衣装コーディネート】",
+              "duration": "12:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "愛おしくってごめんね【名物企画 衣装コーディネート】",
+              "duration": "10:14",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "加藤裕介"
+              }
+            },
+            {
+              "index": 4,
+              "title": "スタート【名物企画 衣装コーディネート】",
+              "duration": "12:11",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 5,
+              "title": "乙女の逆襲【スタジオライブ集】",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "川辺ヒロシ・上田禎"
+              }
+            },
+            {
+              "index": 6,
+              "title": "The Middle Management〜女性中間管理職〜【スタジオライブ集】",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "DANIEL MERLOT / AURELIEN POUDAT / HYON D / TAKANORI TSUNODA / STEFAN BROADLEY"
+              }
+            },
+            {
+              "index": 7,
+              "title": "美女の野獣【スタジオライブ集】",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "michitomo",
+                "作曲": "michitomo"
+              }
+            },
+            {
+              "index": 8,
+              "title": "イマココカラ【スタジオライブ集】",
+              "duration": "03:10",
+              "credits": {
+                "作詞": "青木久美子",
+                "作曲": "高取ヒデアキ"
+              }
+            },
+            {
+              "index": 9,
+              "title": "恋泥棒【スタジオライブ集】",
+              "duration": "03:34",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "村カワ基成"
+              }
+            },
+            {
+              "index": 10,
+              "title": "あなたなしでは生きてゆけない〜Love together!【スタジオライブ集】",
+              "duration": "08:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 11,
+              "title": "Berryz工房 ラストライブ",
+              "duration": "06:48"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

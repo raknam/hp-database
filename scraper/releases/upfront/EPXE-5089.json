@@ -1,0 +1,73 @@
+{
+  "code": "EPXE-5089",
+  "url": "/release/detail/EPXE-5089/",
+  "source": "upfront",
+  "title": "わたしの季節",
+  "category": "BD",
+  "artist": "矢島舞美",
+  "releaseDate": "2016/09/28",
+  "label": "zetima",
+  "images": [
+    "/images/d4f29b0a345433b66b41c1e5d5de59fb10bbe9b3.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d4f29b0a345433b66b41c1e5d5de59fb10bbe9b3.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5089",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Rainy Morning",
+              "duration": "04:19"
+            },
+            {
+              "index": 2,
+              "title": "Going out",
+              "duration": "07:15"
+            },
+            {
+              "index": 3,
+              "title": "Silent Swimming",
+              "duration": "08:03"
+            },
+            {
+              "index": 4,
+              "title": "Beach in front",
+              "duration": "03:52"
+            },
+            {
+              "index": 5,
+              "title": "New day",
+              "duration": "02:03"
+            },
+            {
+              "index": 6,
+              "title": "Scuba Diving",
+              "duration": "05:59"
+            },
+            {
+              "index": 7,
+              "title": "End of Season",
+              "duration": "07:15"
+            },
+            {
+              "index": 8,
+              "title": "Maiking of Photobook「ひとりの季節」",
+              "duration": "10:31"
+            },
+            {
+              "index": 9,
+              "title": "Ending",
+              "duration": "00:50"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

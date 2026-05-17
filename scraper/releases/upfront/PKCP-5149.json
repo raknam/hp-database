@@ -1,0 +1,168 @@
+{
+  "code": "PKCP-5149",
+  "url": "/release/detail/PKCP-5149/",
+  "source": "upfront",
+  "title": "雄叫びボーイ WAO！/友達は友達なんだ！",
+  "category": "CDシングル",
+  "artist": "Berryz工房",
+  "releaseDate": "2010/03/03",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/d85b1853c88a66ff7c47a3859e7e7e9183135c13.jpg",
+    "/images/444d43fdb43da31b154b6bdc7b5462542a1fa196.jpg",
+    "/images/7255503646612e34441b8810ff46faefe7806a42.jpg",
+    "/images/511e385cc0bb9aca6278e6c2d0f710dce07c8fb6.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/d85b1853c88a66ff7c47a3859e7e7e9183135c13.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5149",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "雄叫びボーイ WAO！",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "オダクラユウ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "友達は友達なんだ！",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "オオバコウスケ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "雄叫びボーイ WAO！(Instrumental)",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "オダクラユウ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "友達は友達なんだ！(Instrumental)",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "オオバコウスケ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/444d43fdb43da31b154b6bdc7b5462542a1fa196.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKCP-5151",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "雄叫びボーイ WAO!(Close-up Ver.)",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/images/7255503646612e34441b8810ff46faefe7806a42.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5153",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "雄叫びボーイ WAO！",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "オダクラユウ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "友達は友達なんだ！",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "オオバコウスケ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "雄叫びボーイ WAO！(Instrumental)",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "オダクラユウ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "友達は友達なんだ！(Instrumental)",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "オオバコウスケ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/511e385cc0bb9aca6278e6c2d0f710dce07c8fb6.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKCP-5154",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "友達は友達なんだ！(Dance Shot Ver.)",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

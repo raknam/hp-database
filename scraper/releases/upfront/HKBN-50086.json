@@ -1,0 +1,51 @@
+{
+  "code": "HKBN-50086",
+  "url": "/release/detail/HKBN-50086/",
+  "source": "upfront",
+  "title": "シングルV「Too far away〜女のこころ〜」",
+  "category": "DVDシングルV",
+  "artist": "安倍なつみ",
+  "releaseDate": "2007/05/30",
+  "label": "hachama",
+  "images": [
+    "/images/d35c31eb6c5bf22d0098802c9d3b8f6e768fbe99.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d35c31eb6c5bf22d0098802c9d3b8f6e768fbe99.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "HKBN-50086",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Too far away〜女のこころ〜",
+              "duration": "05:29",
+              "credits": {
+                "作詞": "伊藤薫",
+                "作曲": "伊藤薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Too far away〜女のこころ〜(Elegant Ver.)",
+              "duration": "05:26",
+              "credits": {
+                "作詞": "伊藤薫",
+                "作曲": "伊藤薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "06:25"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "code": "HKCN-50720",
+  "url": "/release/detail/HKCN-50720/",
+  "source": "upfront",
+  "title": "なんてったって I Love You/ハウリング",
+  "category": "CDシングル",
+  "artist": "宮本佳林",
+  "releaseDate": "2022/06/22",
+  "label": "hachama",
+  "images": [
+    "/images/b104b2e253b24972c216246b85c776a08f1bc7d2.jpg",
+    "/images/8f3bc5b13bc9315d51d1570383c8422041339cd6.jpg",
+    "/images/2a98ef4aed2f29fb763ed040100d3e37b4a825a4.jpg",
+    "/images/cee79b3a74f2cf6a9ea6a1723eeb3c96c6055ec4.jpg",
+    "/images/f25622e40c050e7f07a82a545cb3429c39539384.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/b104b2e253b24972c216246b85c776a08f1bc7d2.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50720",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "なんてったって I Love You",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "武田将弥",
+                "編曲": "椿山日南子"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ハウリング",
+              "duration": "03:25",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "上田起士",
+                "編曲": "ArmySlick"
+              }
+            },
+            {
+              "index": 3,
+              "title": "なんてったって I Love You(Instrumental)",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "武田将弥",
+                "編曲": "椿山日南子"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ハウリング(Instrumental)",
+              "duration": "03:25",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "上田起士",
+                "編曲": "ArmySlick"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/8f3bc5b13bc9315d51d1570383c8422041339cd6.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKCN-50722",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "なんてったって I Love You(Music Video)",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "武田将弥"
+              }
+            },
+            {
+              "index": 2,
+              "title": "なんてったって I Love You(Dance Shot Ver.)",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "武田将弥"
+              }
+            },
+            {
+              "index": 3,
+              "title": "なんてったって I Love You(メイキング映像)",
+              "duration": "10:19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/images/2a98ef4aed2f29fb763ed040100d3e37b4a825a4.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50724",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "なんてったって I Love You",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "武田将弥",
+                "編曲": "椿山日南子"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ハウリング",
+              "duration": "03:25",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "上田起士",
+                "編曲": "ArmySlick"
+              }
+            },
+            {
+              "index": 3,
+              "title": "なんてったって I Love You(Instrumental)",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "武田将弥",
+                "編曲": "椿山日南子"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ハウリング(Instrumental)",
+              "duration": "03:25",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "上田起士",
+                "編曲": "ArmySlick"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/cee79b3a74f2cf6a9ea6a1723eeb3c96c6055ec4.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKCN-50725",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ハウリング(Music Video)",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "上田起士"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ハウリング(Dance Shot Ver.)",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "上田起士"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ハウリング(メイキング映像)",
+              "duration": "11:35"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/f25622e40c050e7f07a82a545cb3429c39539384.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50726",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "なんてったって I Love You",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "武田将弥",
+                "編曲": "椿山日南子"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ハウリング",
+              "duration": "03:25",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "上田起士",
+                "編曲": "ArmySlick"
+              }
+            },
+            {
+              "index": 3,
+              "title": "少女K",
+              "duration": "03:08",
+              "credits": {
+                "作詞": "桑原静香",
+                "作曲": "宮崎歩",
+                "編曲": "宮崎歩"
+              }
+            },
+            {
+              "index": 4,
+              "title": "なんてったって I Love You(Instrumental)",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "武田将弥",
+                "編曲": "椿山日南子"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ハウリング(Instrumental)",
+              "duration": "03:25",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "上田起士",
+                "編曲": "ArmySlick"
+              }
+            },
+            {
+              "index": 6,
+              "title": "少女K(Instrumental)",
+              "duration": "03:08",
+              "credits": {
+                "作詞": "桑原静香",
+                "作曲": "宮崎歩",
+                "編曲": "宮崎歩"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

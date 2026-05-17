@@ -1,0 +1,124 @@
+{
+  "code": "HKCN-20010",
+  "url": "/release/detail/HKCN-20010/",
+  "source": "upfront",
+  "title": "オーシャン・ブリーズ",
+  "category": "CDアルバム",
+  "artist": "ダニエル･ホー",
+  "releaseDate": "2003/07/16",
+  "label": "Pacific Heaven",
+  "images": [
+    "/images/7f0be4fdb4a6641342b23573af0277d8237e5115.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7f0be4fdb4a6641342b23573af0277d8237e5115.jpg",
+      "price": "￥2,750 (税抜価格 ￥2,500)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "HKCN-20010",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Lia",
+              "duration": "04:15",
+              "credits": {
+                "作曲": "Daniel Ho"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Sacred Journey",
+              "duration": "04:26",
+              "credits": {
+                "作曲": "June Kuramoto & Daniel Ho"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Kumu Mele(Simple As A Sunrise)",
+              "duration": "03:55",
+              "credits": {
+                "作曲": "Daniel Ho"
+              }
+            },
+            {
+              "index": 4,
+              "title": "A World Away",
+              "duration": "04:15",
+              "credits": {
+                "作曲": "Daniel Ho"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Slack Tides",
+              "duration": "03:38",
+              "credits": {
+                "作曲": "Daniel Ho"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Haiku",
+              "duration": "02:06",
+              "credits": {
+                "作曲": "Daniel Ho"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Plantation Waltz",
+              "duration": "03:16",
+              "credits": {
+                "作曲": "Daniel Ho"
+              }
+            },
+            {
+              "index": 8,
+              "title": "So Far, So Good",
+              "duration": "02:53",
+              "credits": {
+                "作曲": "Daniel Ho"
+              }
+            },
+            {
+              "index": 9,
+              "title": "Napili Meditation",
+              "duration": "02:49",
+              "credits": {
+                "作曲": "Daniel Ho"
+              }
+            },
+            {
+              "index": 10,
+              "title": "Another Day, Another Life",
+              "duration": "03:49",
+              "credits": {
+                "作曲": "Daniel Ho"
+              }
+            },
+            {
+              "index": 11,
+              "title": "Lia(Solo Guitar Reprise)",
+              "duration": "05:04",
+              "credits": {
+                "作曲": "Daniel Ho"
+              }
+            },
+            {
+              "index": 12,
+              "title": "Beyond Blue",
+              "duration": "01:47",
+              "credits": {
+                "作曲": "Daniel Ho"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

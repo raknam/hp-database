@@ -1,0 +1,114 @@
+{
+  "code": "PKBP-5076",
+  "url": "/release/detail/PKBP-5076/",
+  "source": "upfront",
+  "title": "銀河鉄道物語～永遠への分岐点～ 第1集",
+  "category": "DVD",
+  "artist": "アニメーション",
+  "releaseDate": "2007/06/27",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/a54d3131a7438700c0fa0c84bb0a8d73335a70f7.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/a54d3131a7438700c0fa0c84bb0a8d73335a70f7.jpg",
+      "price": "￥20,743 (税抜価格 ￥18,857)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5076",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "第1話 新たなる旅立ち",
+              "duration": "23:09"
+            },
+            {
+              "index": 2,
+              "title": "第2話 冷静と暴走の狭間",
+              "duration": "23:09"
+            },
+            {
+              "index": 3,
+              "title": "第3話 宇宙に咲く花",
+              "duration": "23:08"
+            },
+            {
+              "index": 4,
+              "title": "特典映像",
+              "duration": "13:18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5077",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "第4話 スターダスト・ブルース",
+              "duration": "23:08"
+            },
+            {
+              "index": 2,
+              "title": "第5話 奈落の淵にて",
+              "duration": "23:09"
+            },
+            {
+              "index": 3,
+              "title": "第6話 卒 業",
+              "duration": "23:08"
+            },
+            {
+              "index": 4,
+              "title": "銀河の車窓から ②",
+              "duration": "13:56"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5078",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "第7話 青い薔薇",
+              "duration": "23:08"
+            },
+            {
+              "index": 2,
+              "title": "第8話 二人だけの任務",
+              "duration": "23:09"
+            },
+            {
+              "index": 3,
+              "title": "第25話 我が心のシリウス小隊",
+              "duration": "23:11"
+            },
+            {
+              "index": 4,
+              "title": "銀河の車窓から ③",
+              "duration": "09:52"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

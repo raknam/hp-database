@@ -1,0 +1,68 @@
+{
+  "code": "EPBE-5041",
+  "url": "/release/detail/EPBE-5041/",
+  "source": "upfront",
+  "title": "シングルV「幸せビーム！好き好きビーム！」「幸せですか？」「幸せきょうりゅう音頭」",
+  "category": "DVDシングルV",
+  "artist": "ハッピー♡7・セクシー8・おどる♡11",
+  "releaseDate": "2002/08/21",
+  "label": "zetima",
+  "images": [
+    "/images/130370bf7ca319bf206ffebab4c9948fe8330dd9.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/130370bf7ca319bf206ffebab4c9948fe8330dd9.jpg",
+      "price": "￥2,075 (税抜価格 ￥1,886)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5041",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "幸せビーム！好き好きビーム！",
+              "duration": "02:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "TATOO"
+              }
+            },
+            {
+              "index": 2,
+              "title": "幸せですか？",
+              "duration": "03:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 3,
+              "title": "幸せきょうりゅう音頭",
+              "duration": "03:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 4,
+              "title": "メイキング映像",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "SHO-1"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "code": "UFWT-1010",
+  "url": "/release/detail/UFWT-1010/",
+  "source": "upfront",
+  "title": "MAN",
+  "category": "CDアルバム",
+  "artist": "KAN",
+  "releaseDate": "2010/10/27",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/168234371b204c2c18f95694e327150c782714ef.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/168234371b204c2c18f95694e327150c782714ef.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "UFWT-1010",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "涙の夕焼け",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN/小林信吾"
+              }
+            },
+            {
+              "index": 2,
+              "title": "8 days A week",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN/小林信吾"
+              }
+            },
+            {
+              "index": 3,
+              "title": "MAN",
+              "duration": "05:58",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN/小林信吾"
+              }
+            },
+            {
+              "index": 4,
+              "title": "夏は二の腕発情期",
+              "duration": "03:25",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN/小林信吾"
+              }
+            },
+            {
+              "index": 5,
+              "title": "今度君に会ったら",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN/小林信吾"
+              }
+            },
+            {
+              "index": 6,
+              "title": "DISCO 80's",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN/小林信吾"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ひざまくら～うれしい こりゃいい やわらかい～",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN/小林信吾"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Autumn Song",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN/小林信吾"
+              }
+            },
+            {
+              "index": 9,
+              "title": "Mr. Moonlight",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN/小林信吾"
+              }
+            },
+            {
+              "index": 10,
+              "title": "指輪",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN/小林信吾"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

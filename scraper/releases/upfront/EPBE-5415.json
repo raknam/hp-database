@@ -1,0 +1,93 @@
+{
+  "code": "EPBE-5415",
+  "url": "/release/detail/EPBE-5415/",
+  "source": "upfront",
+  "title": "劇団ゲキハロ第10回公演「大正浪漫 ハイカラ探偵王 青いルビー殺人事件」",
+  "category": "DVD",
+  "artist": "田中れいな、清水佐紀、須藤茉麻",
+  "releaseDate": "2011/09/07",
+  "label": "zetima",
+  "images": [
+    "/images/d301b0ae03cd2f6422da8ad075111a5ae9d7c924.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d301b0ae03cd2f6422da8ad075111a5ae9d7c924.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5415",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "01:47"
+            },
+            {
+              "index": 2,
+              "title": "第1場",
+              "duration": "23:28"
+            },
+            {
+              "index": 3,
+              "title": "第2場",
+              "duration": "09:25"
+            },
+            {
+              "index": 4,
+              "title": "第3場",
+              "duration": "16:52"
+            },
+            {
+              "index": 5,
+              "title": "第4場",
+              "duration": "08:26"
+            },
+            {
+              "index": 6,
+              "title": "第5場",
+              "duration": "16:27"
+            },
+            {
+              "index": 7,
+              "title": "第6場",
+              "duration": "32:09"
+            },
+            {
+              "index": 8,
+              "title": "第7場",
+              "duration": "02:49"
+            },
+            {
+              "index": 9,
+              "title": "エンディング",
+              "duration": "04:19"
+            },
+            {
+              "index": 10,
+              "title": "記者発表記者会見",
+              "duration": "01:46"
+            },
+            {
+              "index": 11,
+              "title": "舞台初日記者会見",
+              "duration": "00:53"
+            },
+            {
+              "index": 12,
+              "title": "千秋楽カーテンコール",
+              "duration": "05:48"
+            },
+            {
+              "index": 13,
+              "title": "インタビュー(清水・須藤・田中)",
+              "duration": "03:48"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

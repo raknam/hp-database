@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5165",
+  "url": "/release/detail/EPCE-5165/",
+  "source": "upfront",
+  "title": "幸せビーム！好き好きビーム！",
+  "category": "CDシングル",
+  "artist": "ハッピー♡7",
+  "releaseDate": "2002/07/03",
+  "label": "zetima",
+  "images": [
+    "/images/1eb6b7eecb0e41de4b08f0594b4e17442eb9b36c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/1eb6b7eecb0e41de4b08f0594b4e17442eb9b36c.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5165",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "幸せビーム！好き好きビーム！",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "TATOO"
+              }
+            },
+            {
+              "index": 2,
+              "title": "よくある親子のセレナーデ(ハッピー♡7 Version)",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "SHO-1"
+              }
+            },
+            {
+              "index": 3,
+              "title": "幸せビーム！好き好きビーム！(Instrumental)",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "TATOO"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

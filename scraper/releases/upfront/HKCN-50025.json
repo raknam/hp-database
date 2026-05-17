@@ -1,0 +1,102 @@
+{
+  "code": "HKCN-50025",
+  "url": "/release/detail/HKCN-50025/",
+  "source": "upfront",
+  "title": "夢ならば",
+  "category": "CDシングル",
+  "artist": "安倍なつみ",
+  "releaseDate": "2005/04/20",
+  "label": "hachama",
+  "images": [
+    "/images/f75439512d1d52403f5fc31d9f16c82e0f9f8f54.jpg",
+    "/images/a041a50e9a1efb57012c64c6661554417245552a.jpg"
+  ],
+  "editions": [
+    {
+      "name": "初回盤",
+      "image": "/images/f75439512d1d52403f5fc31d9f16c82e0f9f8f54.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50025",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夢ならば",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "空 LIFE GOES ON",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "夢ならば(Instrumental)",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/images/a041a50e9a1efb57012c64c6661554417245552a.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50026",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夢ならば",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "空 LIFE GOES ON",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "夢ならば(Instrumental)",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

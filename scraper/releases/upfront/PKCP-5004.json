@@ -1,0 +1,58 @@
+{
+  "code": "PKCP-5004",
+  "url": "/release/detail/PKCP-5004/",
+  "source": "upfront",
+  "title": "人生がもう始まってる",
+  "category": "CDシングル",
+  "artist": "市井紗耶香 in CUBIC-CROSS",
+  "releaseDate": "2002/04/24",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/96e519bb624b4e153b71f34033e5c336ba90e98f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/96e519bb624b4e153b71f34033e5c336ba90e98f.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5004",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "人生がもう始まってる",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "たいせー",
+                "編曲": "たいせー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "空",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "市井紗耶香",
+                "作曲": "たいせー",
+                "編曲": "たいせー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "人生がもう始まってる(Instrumental)",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "たいせー",
+                "編曲": "たいせー"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

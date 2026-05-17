@@ -1,0 +1,134 @@
+{
+  "id": 1730,
+  "url": "/release/1730/",
+  "title": "しゅごしゅご!",
+  "category": "CDシングル",
+  "artist": "しゅごキャラエッグ！",
+  "releaseDate": "2009.2.25",
+  "label": "ポニーキャニオン",
+  "images": [
+    "/upload/images/3b7757e23866e3320be6a5e9a4a9db1bcf55aa56.webp",
+    "/upload/images/3c7ba9490a170fb3a36c310252eb39f412e9dd94.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回限定盤】",
+      "image": "/upload/images/3b7757e23866e3320be6a5e9a4a9db1bcf55aa56.webp",
+      "price": "定価 ￥1,650（税抜価格 ￥1,500）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "しゅごしゅご！",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "TATSUYA",
+                "編曲": "安部潤",
+                "歌": "しゅごキャラエッグ！"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ワンダーランドにつれてって",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "BOUNCEBACK",
+                "編曲": "BOUNCEBACK",
+                "歌": "しゅごキャラエッグ！"
+              }
+            },
+            {
+              "index": 3,
+              "title": "しゅごしゅご！",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "TATSUYA",
+                "編曲": "安部潤",
+                "歌": "しゅごキャラエッグ！"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ワンダーランドにつれてって",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "BOUNCEBACK",
+                "編曲": "BOUNCEBACK",
+                "歌": "しゅごキャラエッグ！"
+              }
+            }
+          ],
+          "catalogNo": "PCCA-02850"
+        }
+      ],
+      "note": "【初回限定盤】特典映像 しゅごキャラ！じお 番外編"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/3c7ba9490a170fb3a36c310252eb39f412e9dd94.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "しゅごしゅご！",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "TATSUYA",
+                "編曲": "安部潤",
+                "歌": "しゅごキャラエッグ！"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ワンダーランドにつれてって",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "BOUNCEBACK",
+                "編曲": "BOUNCEBACK",
+                "歌": "しゅごキャラエッグ！"
+              }
+            },
+            {
+              "index": 3,
+              "title": "しゅごしゅご！",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "TATSUYA",
+                "編曲": "安部潤",
+                "歌": "しゅごキャラエッグ！"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ワンダーランドにつれてって",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "BOUNCEBACK",
+                "編曲": "BOUNCEBACK",
+                "歌": "しゅごキャラエッグ！"
+              }
+            }
+          ],
+          "catalogNo": "PCCA-70239"
+        }
+      ]
+    }
+  ]
+}

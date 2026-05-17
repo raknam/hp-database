@@ -1,0 +1,60 @@
+{
+  "code": "PKBP-5142",
+  "url": "/release/detail/PKBP-5142/",
+  "source": "upfront",
+  "title": "劇団ゲキハロ第11回公演 戦国自衛隊〜女性自衛官帰還セヨ〜",
+  "category": "DVD",
+  "artist": "Berryz工房",
+  "releaseDate": "2011/11/30",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/8b1f98b18cd82d91dace25a95b0b60975f039b62.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/8b1f98b18cd82d91dace25a95b0b60975f039b62.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5142",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "第一場",
+              "duration": "33:22"
+            },
+            {
+              "index": 2,
+              "title": "第二場",
+              "duration": "38:00",
+              "credits": {
+                "作曲": "BARTHOLDY FELIX J L、MENDELSSOHN"
+              }
+            },
+            {
+              "index": 3,
+              "title": "第三場",
+              "duration": "43:10"
+            },
+            {
+              "index": 4,
+              "title": "主題歌『青春劇場』",
+              "duration": "05:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "特典:メイキング映像",
+              "duration": "07:28"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

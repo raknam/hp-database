@@ -1,0 +1,68 @@
+{
+  "code": "PKCP-2032",
+  "url": "/release/detail/PKCP-2032/",
+  "source": "upfront",
+  "title": "吐息のループ",
+  "category": "CDシングル",
+  "artist": "部長と桜子",
+  "releaseDate": "2007/10/24",
+  "label": "ライスミュージック",
+  "images": [
+    "/images/b377ce9d014dd22bd295232a86cc86bb74ab9b6e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/b377ce9d014dd22bd295232a86cc86bb74ab9b6e.jpg",
+      "price": "￥1,257 (税抜価格 ￥1,143)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-2032",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "吐息のループ",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "蝶千代",
+                "作曲": "杉村俊博",
+                "編曲": "杉村俊博"
+              }
+            },
+            {
+              "index": 2,
+              "title": "風に吹かれて",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "蝶千代",
+                "作曲": "杉村俊博",
+                "編曲": "杉村俊博"
+              }
+            },
+            {
+              "index": 3,
+              "title": "吐息のループ(オリジナル・カラオケ)",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "蝶千代",
+                "作曲": "杉村俊博",
+                "編曲": "杉村俊博"
+              }
+            },
+            {
+              "index": 4,
+              "title": "風に吹かれて(オリジナル・カラオケ)",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "蝶千代",
+                "作曲": "杉村俊博",
+                "編曲": "杉村俊博"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

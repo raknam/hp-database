@@ -1,0 +1,129 @@
+{
+  "code": "UFBW-2072",
+  "url": "/release/detail/UFBW-2072/",
+  "source": "upfront",
+  "title": "ハロー！チャンネル the DVD Vol.10",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012/12/21",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/60c25c50e9d1986667593af87b527defc5e63ba3.jpg"
+  ],
+  "editions": [
+    {
+      "name": "＜Disc1＞",
+      "image": "/images/60c25c50e9d1986667593af87b527defc5e63ba3.jpg",
+      "price": "￥5,170 (税抜価格 ￥4,700)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2072",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "モーニング娘。In Hawaii <インタビュー>",
+              "duration": "03:35"
+            },
+            {
+              "index": 2,
+              "title": "“歌姫”降臨！ 11期メンバー小田さくらの素顔",
+              "duration": "04:15"
+            },
+            {
+              "index": 3,
+              "title": "Berryz工房 徳永千奈美＆須藤茉麻 富士山山頂をめざす！",
+              "duration": "21:01"
+            },
+            {
+              "index": 4,
+              "title": "道重さゆみ＆石田亜佑美 In 仙台",
+              "duration": "33:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "JR東京駅発 駅弁食べくらべ大会",
+              "duration": "17:23"
+            },
+            {
+              "index": 6,
+              "title": "食品サンプルを作ろう！ 合羽橋散策も",
+              "duration": "13:59"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "＜Disc2＞",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2073",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ハロー！ SATOYAMAライフ 密着してみました！！！",
+              "duration": "05:06"
+            },
+            {
+              "index": 2,
+              "title": "コスプレでいこう！ 第2回",
+              "duration": "13:09"
+            },
+            {
+              "index": 3,
+              "title": "めざせ！ マンガ家への道！",
+              "duration": "12:03"
+            },
+            {
+              "index": 4,
+              "title": "ハロプロ イラストアカデミー 第3回",
+              "duration": "08:46"
+            },
+            {
+              "index": 5,
+              "title": "鞘師里保のDance! Dance! World! 第2回",
+              "duration": "08:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "モーニング娘。佐藤優樹、工藤遥13年の人生を語る",
+              "duration": "03:04"
+            },
+            {
+              "index": 7,
+              "title": "スマイレージのお悩み相談室",
+              "duration": "13:43"
+            },
+            {
+              "index": 8,
+              "title": "Show My Selfmake",
+              "duration": "12:20"
+            },
+            {
+              "index": 9,
+              "title": "Berryz工房「タイ訪問」<インタビュー>",
+              "duration": "02:59"
+            },
+            {
+              "index": 10,
+              "title": "真野恵里菜のアイドル100万ボルト at富津・鋸山",
+              "duration": "12:09"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

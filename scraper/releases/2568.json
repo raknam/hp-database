@@ -1,0 +1,128 @@
+{
+  "id": 2568,
+  "url": "/release/2568/",
+  "title": "メロディーズ",
+  "category": "CDシングル",
+  "artist": "GAM",
+  "releaseDate": "2006.10.18",
+  "label": "hachama",
+  "images": [
+    "/upload/images/607050fd5c282fbee1a531c17da345b6c6ea70cc.webp",
+    "/upload/images/ff2d06b9b1d839d2def1abef07b18283ecaa8eb2.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/upload/images/607050fd5c282fbee1a531c17da345b6c6ea70cc.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "メロディーズ",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "GAM"
+              }
+            },
+            {
+              "index": 2,
+              "title": "メロディーズ",
+              "duration": "03:32",
+              "suffix": "(ピアノ独唱Version)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "上杉洋史",
+                "歌": "GAM"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メロディーズ",
+              "duration": "04:26",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "GAM"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50040"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "メロディーズ",
+              "duration": "04:39",
+              "suffix": "(SPECIAL EDITION)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "GAM"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付き"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/ff2d06b9b1d839d2def1abef07b18283ecaa8eb2.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "メロディーズ",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "GAM"
+              }
+            },
+            {
+              "index": 2,
+              "title": "メロディーズ",
+              "duration": "03:32",
+              "suffix": "(ピアノ独唱Version)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "上杉洋史",
+                "歌": "GAM"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メロディーズ",
+              "duration": "04:26",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "GAM"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50042"
+        }
+      ]
+    }
+  ]
+}

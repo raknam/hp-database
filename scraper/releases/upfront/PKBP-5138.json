@@ -1,0 +1,51 @@
+{
+  "code": "PKBP-5138",
+  "url": "/release/detail/PKBP-5138/",
+  "source": "upfront",
+  "title": "シングルV「ヒロインになろうか！ 」",
+  "category": "DVDシングルV",
+  "artist": "Berryz工房",
+  "releaseDate": "2011/03/09",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/88c056a4b33a3e00fd6f20350a3bf3aaeb1c1945.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/88c056a4b33a3e00fd6f20350a3bf3aaeb1c1945.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "PKBP-5138",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ヒロインになろうか！",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ヒロインになろうか！(Close-up Ver.)",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "15:35"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

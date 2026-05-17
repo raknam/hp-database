@@ -1,0 +1,88 @@
+{
+  "code": "PKCP-2056",
+  "url": "/release/detail/PKCP-2056/",
+  "source": "upfront",
+  "title": "ANAK(息子)〜ニューバージョン〜",
+  "category": "CDシングル",
+  "artist": "杉田二郎",
+  "releaseDate": "2010/02/24",
+  "label": "ライスミュージック",
+  "images": [
+    "/images/4ac815496a7bab357edeaa35dfc04fc7afb41c67.jpg"
+  ],
+  "editions": [
+    {
+      "name": "DVD付き",
+      "image": "/images/4ac815496a7bab357edeaa35dfc04fc7afb41c67.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-2056",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ANAK(息子)～ニューバージョン～",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "FREDDIEAGUILAR/日本語詞:なかにし礼",
+                "作曲": "FREDDIEAGUILAR",
+                "編曲": "塩入俊哉"
+              }
+            },
+            {
+              "index": 2,
+              "title": "あの歌を覚えているか",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "石原信一",
+                "作曲": "杉田二郎",
+                "編曲": "塩入俊哉"
+              }
+            },
+            {
+              "index": 3,
+              "title": "前向きに倒れてみたい",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "きたやまおさむ",
+                "作曲": "杉田二郎",
+                "編曲": "塩入俊哉"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ANAK(息子)～ニューバージョン～(オリジナル・カラオケ)",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "FREDDIEAGUILAR/日本語詞:なかにし礼",
+                "作曲": "FREDDIEAGUILAR",
+                "編曲": "塩入俊哉"
+              }
+            },
+            {
+              "index": 5,
+              "title": "あの歌を覚えているか(オリジナル・カラオケ)",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "石原信一",
+                "作曲": "杉田二郎",
+                "編曲": "塩入俊哉"
+              }
+            },
+            {
+              "index": 6,
+              "title": "前向きに倒れてみたい(オリジナル・カラオケ)",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "きたやまおさむ",
+                "作曲": "杉田二郎",
+                "編曲": "塩入俊哉"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

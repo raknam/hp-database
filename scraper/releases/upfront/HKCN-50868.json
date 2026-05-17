@@ -1,0 +1,51 @@
+{
+  "code": "HKCN-50868",
+  "url": "/release/detail/HKCN-50868/",
+  "source": "upfront",
+  "title": "MORE! MORE! EP",
+  "category": "CDアルバム",
+  "artist": "Juice=Juice",
+  "releaseDate": "2026/06/24",
+  "label": "hachama",
+  "images": [
+    "/images/nowprinting.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/nowprinting.jpg",
+      "price": "￥11,000 (税抜価格 ￥10,000)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "HKCN-50868",
+          "tracks": []
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": null,
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKCN-50870",
+          "tracks": []
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": null,
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "HKCN-50872",
+          "tracks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": 2956,
+  "url": "/release/2956/",
+  "title": "CRAZY ABOUT YOU",
+  "category": "CDシングル",
+  "artist": "ミニモニ｡",
+  "releaseDate": "2003.10.16",
+  "label": "zetima",
+  "images": [
+    "/upload/images/4c2d13f33d8dd4c38eda7d5b92d2464ac98a5681.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "CRAZY ABOUT YOU",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "田中直",
+                "歌": "ミニモニ。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋愛一周年",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA",
+                "歌": "ミニモニ。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "CRAZY ABOUT YOU",
+              "duration": "03:13",
+              "suffix": "(オリジナル・カラオケ)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "田中直",
+                "歌": "ミニモニ。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5236"
+        }
+      ]
+    }
+  ]
+}

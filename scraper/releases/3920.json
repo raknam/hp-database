@@ -1,0 +1,62 @@
+{
+  "id": 3920,
+  "url": "/release/3920/",
+  "title": "サマーれげぇ！レインボー",
+  "category": "CDシングル",
+  "artist": "7人祭",
+  "releaseDate": "2001.7.4",
+  "label": "zetima",
+  "images": [
+    "/upload/images/93566fba6fb854a9d1cac2a96dec63afb0890a49.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "サマーれげぇ！レインボー",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "hasie",
+                "歌": "7人祭"
+              }
+            },
+            {
+              "index": 2,
+              "title": "HELLO!また会おうね",
+              "duration": "03:29",
+              "suffix": "(7人祭 version)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "7人祭"
+              }
+            },
+            {
+              "index": 3,
+              "title": "サマーれげぇ！レインボー",
+              "duration": "04:52",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "hasie",
+                "歌": "7人祭"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5112"
+        }
+      ]
+    }
+  ]
+}

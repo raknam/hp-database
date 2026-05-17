@@ -1,0 +1,91 @@
+{
+  "id": 3465,
+  "url": "/release/3465/",
+  "title": "AI loves you I love AI",
+  "category": "DVD",
+  "artist": "高橋愛",
+  "releaseDate": "2011.4.20",
+  "label": "zetima",
+  "images": [
+    "/upload/images/5de7b787bfe63b9aa7301f2a15f0859d4e6710cc.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "00:41",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            },
+            {
+              "index": 2,
+              "title": "With AI",
+              "duration": "05:17",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            },
+            {
+              "index": 3,
+              "title": "On the way",
+              "duration": "01:25",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Beach",
+              "duration": "18:09",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Sunset",
+              "duration": "16:44",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            },
+            {
+              "index": 6,
+              "title": "New day",
+              "duration": "03:09",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Making of 「LOVE NO.10」",
+              "duration": "17:20",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Ending",
+              "duration": "01:26",
+              "credits": {
+                "出演": "高橋愛"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5404"
+        }
+      ]
+    }
+  ]
+}

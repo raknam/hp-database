@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-5904",
+  "url": "/release/detail/EPCE-5904/",
+  "source": "upfront",
+  "title": "しょっぱいね",
+  "category": "CDシングル",
+  "artist": "つんく♂",
+  "releaseDate": "2012/09/26",
+  "label": "zetima",
+  "images": [
+    "/images/497be3faad9a3e3c5c144961cbcaa1aa26132787.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/497be3faad9a3e3c5c144961cbcaa1aa26132787.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5904",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "しょっぱいね",
+              "duration": "04:47",
+              "credits": {
+                "作詞": "上田紅葉",
+                "作曲": "三木たかし",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "地下鉄の涙",
+              "duration": "05:07",
+              "credits": {
+                "作詞": "上田紅葉",
+                "作曲": "三木たかし",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "しょっぱいね(オリジナル・カラオケ)",
+              "duration": "04:47",
+              "credits": {
+                "作詞": "上田紅葉",
+                "作曲": "三木たかし",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 4,
+              "title": "地下鉄の涙(オリジナル・カラオケ)",
+              "duration": "05:08",
+              "credits": {
+                "作詞": "上田紅葉",
+                "作曲": "三木たかし",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

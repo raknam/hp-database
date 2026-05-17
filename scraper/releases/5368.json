@@ -1,0 +1,38 @@
+{
+  "id": 5368,
+  "url": "/release/5368/",
+  "title": "一尺玉でぶっ放せ！",
+  "category": "配信",
+  "artist": "ハロプロ研修生",
+  "releaseDate": "2017.6.30",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/f16f4c00fe5fbe30097c1d7fd945b097f7985764.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "一尺玉でぶっ放せ！",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "ピエール (the swiss porno)",
+                "編曲": "ピエール (the swiss porno)",
+                "歌": "ハロプロ研修生"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1351"
+        }
+      ]
+    }
+  ]
+}

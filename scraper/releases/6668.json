@@ -1,0 +1,38 @@
+{
+  "id": 6668,
+  "url": "/release/6668/",
+  "title": "ラーメン大好き小泉さんの唄",
+  "category": "配信",
+  "artist": "OCHA NORMA",
+  "releaseDate": "2022.1.8",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/e95494021fcb8f79843563f8938f204029599647.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ラーメン大好き小泉さんの唄",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "シャ乱Q",
+                "編曲": "平田祥一郎",
+                "歌": "OCHA NORMA"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1492"
+        }
+      ]
+    }
+  ]
+}

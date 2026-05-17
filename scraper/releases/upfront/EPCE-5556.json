@@ -1,0 +1,102 @@
+{
+  "code": "EPCE-5556",
+  "url": "/release/detail/EPCE-5556/",
+  "source": "upfront",
+  "title": "アナタボシ",
+  "category": "CDシングル",
+  "artist": "MilkyWay",
+  "releaseDate": "2008/04/30",
+  "label": "zetima",
+  "images": [
+    "/images/9c7430bdc33d65fcef70427850414447c23516e9.jpg",
+    "/images/c0d982bdf27db2fcca00d1c2737cb6710440c917.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【完全生産限定盤】",
+      "image": "/images/9c7430bdc33d65fcef70427850414447c23516e9.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5556",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アナタボシ",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "斎藤悠弥",
+                "編曲": "斎藤悠弥"
+              }
+            },
+            {
+              "index": 2,
+              "title": "サンサンGOGO",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "吉田勝弥",
+                "編曲": "吉田勝弥"
+              }
+            },
+            {
+              "index": 3,
+              "title": "アナタボシ(Instrumental)",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "斎藤悠弥",
+                "編曲": "斎藤悠弥"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/c0d982bdf27db2fcca00d1c2737cb6710440c917.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5557",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アナタボシ",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "斎藤悠弥",
+                "編曲": "斎藤悠弥"
+              }
+            },
+            {
+              "index": 2,
+              "title": "サンサンGOGO",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "吉田勝弥",
+                "編曲": "吉田勝弥"
+              }
+            },
+            {
+              "index": 3,
+              "title": "アナタボシ(Instrumental)",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "斎藤悠弥",
+                "編曲": "斎藤悠弥"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

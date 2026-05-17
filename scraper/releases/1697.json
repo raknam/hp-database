@@ -1,0 +1,63 @@
+{
+  "id": 1697,
+  "url": "/release/1697/",
+  "title": "シングルV「ホントのじぶん」",
+  "category": "DVDシングルV",
+  "artist": "Buono!",
+  "releaseDate": "2007.11.12",
+  "label": "ポニーキャニオン",
+  "images": [
+    "/upload/images/6338a3dde57b9a44b28d41b52f6eb89907e5241b.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ホントのじぶん",
+              "duration": "00:00",
+              "suffix": "(Music Clip)",
+              "credits": {
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ホントのじぶん",
+              "duration": "00:00",
+              "suffix": "(Music Clip Making)",
+              "credits": {
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ホントのじぶん",
+              "duration": "00:00",
+              "suffix": "(Close Up Version)",
+              "credits": {
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 4,
+              "title": "しゅごキャラ！",
+              "duration": "00:00",
+              "suffix": "(TV SPOT)",
+              "credits": {
+                "出演": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "PCBP-51907"
+        }
+      ]
+    }
+  ]
+}

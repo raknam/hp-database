@@ -1,0 +1,59 @@
+{
+  "id": 2326,
+  "url": "/release/2326/",
+  "title": "Greeting〜金澤朋子〜",
+  "category": "DVD",
+  "artist": "金澤朋子",
+  "releaseDate": "2014.6.26",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/1e75636a583413f8e38acd3c3d65a12334e0ffcc.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Bayside",
+              "duration": "14:18",
+              "credits": {
+                "出演": "金澤朋子"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Interview with Tomoko Kanazawa",
+              "duration": "17:05",
+              "credits": {
+                "出演": "金澤朋子"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Sunset river",
+              "duration": "18:01",
+              "credits": {
+                "出演": "金澤朋子"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Ending",
+              "duration": "00:49",
+              "credits": {
+                "出演": "金澤朋子"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-2102"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 2080,
+  "url": "/release/2080/",
+  "title": "ハロプロ！TIME Vol.17",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012.9.7",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/90b2e19cf04b439819eefde85add344c9af9c7e2.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "9期TIME",
+              "duration": "07:32",
+              "suffix": "4人初めての女子会",
+              "credits": {
+                "出演": "譜久村聖・生田衣梨奈・鞘師里保・鈴木香音(モーニング娘。)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "9期TIME",
+              "duration": "16:55",
+              "suffix": "卒業する新垣へ サプライズプレゼント",
+              "credits": {
+                "出演": "譜久村聖・生田衣梨奈・鞘師里保・鈴木香音(モーニング娘。)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "モーニング娘。TIME",
+              "duration": "21:58",
+              "suffix": "勝つのはどっち！？9期vs10期",
+              "credits": {
+                "出演": "新垣里沙・モーニング娘。9期メンバー/10期メンバー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "モーニング娘。TIME",
+              "duration": "24:58",
+              "suffix": "勝つのはどっち！？9期vs10期②",
+              "credits": {
+                "出演": "新垣里沙・モーニング娘。9期メンバー/10期メンバー"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1186"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "code": "EPXE-5145",
+  "url": "/release/detail/EPXE-5145/",
+  "source": "upfront",
+  "title": "One day",
+  "category": "BD",
+  "artist": "譜久村聖",
+  "releaseDate": "2018/12/05",
+  "label": "zetima",
+  "images": [
+    "/images/d4dc6250cb130b8db2414d728483474df744dcf7.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d4dc6250cb130b8db2414d728483474df744dcf7.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5145",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "One day",
+              "duration": "02:42"
+            },
+            {
+              "index": 2,
+              "title": "Late morning",
+              "duration": "14:54"
+            },
+            {
+              "index": 3,
+              "title": "My garden pool",
+              "duration": "08:36"
+            },
+            {
+              "index": 4,
+              "title": "Feel the wind",
+              "duration": "14:48"
+            },
+            {
+              "index": 5,
+              "title": "Night pool",
+              "duration": "10:15"
+            },
+            {
+              "index": 6,
+              "title": "Making of 「Makana」",
+              "duration": "07:13"
+            },
+            {
+              "index": 7,
+              "title": "Ending",
+              "duration": "02:06"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": 2674,
+  "url": "/release/2674/",
+  "title": "モーニング娘。サスペンスドラマスペシャル 「三毛猫ホームズの犯罪学講座」 「おれがあいつであいつがおれで」",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2003.7.16",
+  "label": "hachama",
+  "images": [
+    "/upload/images/05ec990565a6f3d44353a62c13b49f01e9b5b346.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "opening",
+              "duration": "01:12",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "「三毛猫ホームズの犯罪学講座」 原作:赤川次郎 脚本:稲葉一広",
+              "duration": "00:00",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 3,
+              "title": "「おれがあいつであいつがおれで」 原作:山中恒/脚本:遠藤彩見",
+              "duration": "44:47",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "サイドB ドラマの裏側！メイキング＆NG",
+              "duration": "34:45",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "HKBN-50032"
+        }
+      ]
+    }
+  ]
+}

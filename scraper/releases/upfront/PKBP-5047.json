@@ -1,0 +1,78 @@
+{
+  "code": "PKBP-5047",
+  "url": "/release/detail/PKBP-5047/",
+  "source": "upfront",
+  "title": "アロハロ！2 後藤真希DVD",
+  "category": "DVD",
+  "artist": "後藤真希",
+  "releaseDate": "2006/03/29",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/9eaeb90ec948e56e573e02074f07ee3bc20a7468.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/9eaeb90ec948e56e573e02074f07ee3bc20a7468.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5047",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "00:34"
+            },
+            {
+              "index": 2,
+              "title": "Dog",
+              "duration": "07:54"
+            },
+            {
+              "index": 3,
+              "title": "Cessna operation",
+              "duration": "11:04"
+            },
+            {
+              "index": 4,
+              "title": "Dessert time",
+              "duration": "04:11"
+            },
+            {
+              "index": 5,
+              "title": "Starlit sky",
+              "duration": "05:36"
+            },
+            {
+              "index": 6,
+              "title": "Adventure swimming pool",
+              "duration": "07:44"
+            },
+            {
+              "index": 7,
+              "title": "Inside talk",
+              "duration": "07:59"
+            },
+            {
+              "index": 8,
+              "title": "Bar",
+              "duration": "08:21"
+            },
+            {
+              "index": 9,
+              "title": "Special track",
+              "duration": "03:36"
+            },
+            {
+              "index": 10,
+              "title": "Making",
+              "duration": "02:32"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

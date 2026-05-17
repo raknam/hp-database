@@ -1,0 +1,73 @@
+{
+  "id": 576,
+  "url": "/release/576/",
+  "title": "モーニングコーヒー",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2005.3.2",
+  "label": "zetima",
+  "images": [
+    "/upload/images/397c9e849b90039bb32e9949edc57c7a60b07fb1.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "モーニングコーヒー",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "桜井鉄太郎",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "愛の種",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "サエキけんぞう",
+                "作曲": "桜井鉄太郎",
+                "編曲": "桜井鉄太郎",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "モーニングコーヒー",
+              "duration": "04:33",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "桜井鉄太郎",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 4,
+              "title": "モーニングコーヒー",
+              "duration": "04:29",
+              "suffix": "(Unreleased”B♭”Version)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "桜井鉄太郎",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5313"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "code": "UFCW-1112",
+  "url": "/release/detail/UFCW-1112/",
+  "source": "upfront",
+  "title": "演劇女子部 「気絶するほど愛してる！」 オリジナルサウンドトラック",
+  "category": "CDシングル",
+  "artist": "カントリー・ガールズ/つばきファクトリー",
+  "releaseDate": "2016/06/01",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/a0fbfaed8433945fd78b2890f37beba2f6d25ef6.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/a0fbfaed8433945fd78b2890f37beba2f6d25ef6.jpg",
+      "price": "￥1,528 (税抜価格 ￥1,389)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "UFCW-1112",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "気絶するほど愛してる！",
+              "duration": "02:00",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "和田俊輔",
+                "編曲": "和田俊輔"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ロックンロールに掴みたい",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "和田俊輔",
+                "編曲": "和田俊輔"
+              }
+            },
+            {
+              "index": 3,
+              "title": "本当の姉妹みたい",
+              "duration": "06:02",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "和田俊輔",
+                "編曲": "和田俊輔"
+              }
+            },
+            {
+              "index": 4,
+              "title": "約束してね",
+              "duration": "08:23",
+              "credits": {
+                "作詞": "太田善也",
+                "作曲": "和田俊輔",
+                "編曲": "和田俊輔"
+              }
+            },
+            {
+              "index": 5,
+              "title": "これが夢なら",
+              "duration": "10:16",
+              "credits": {
+                "作詞": "太田善也",
+                "作曲": "和田俊輔",
+                "編曲": "和田俊輔"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

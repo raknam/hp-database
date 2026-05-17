@@ -1,0 +1,58 @@
+{
+  "code": "EPDA-56",
+  "url": "/release/detail/EPDA-56/",
+  "source": "upfront",
+  "title": "モーニングコーヒー",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "1998/01/28",
+  "label": "zetima",
+  "images": [
+    "/images/8a419355c49758b87a7013c98883b277116643d3.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/8a419355c49758b87a7013c98883b277116643d3.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDA-56",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "モーニングコーヒー",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "桜井鉄太郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "愛の種",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "サエキけんぞう",
+                "作曲": "桜井鉄太郎",
+                "編曲": "桜井鉄太郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "モーニングコーヒー(Instrumental)",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "桜井鉄太郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": 552,
+  "url": "/release/552/",
+  "title": "Mr.Moonlight〜愛のビッグバンド〜",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2001.10.31",
+  "label": "zetima",
+  "images": [
+    "/upload/images/ef1661f2919525a8fb0081199b335b43e850a78f.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Mr.Moonlight〜愛のビッグバンド〜",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介 ブラスアレンジ:小林正弘",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ポップコーンラブ！",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野 伸",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Mr.Moonlight〜愛のビッグバンド〜",
+              "duration": "04:03",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介 ブラスアレンジ:小林正弘",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5124"
+        }
+      ]
+    }
+  ]
+}

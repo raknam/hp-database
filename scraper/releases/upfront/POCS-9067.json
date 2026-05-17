@@ -1,0 +1,150 @@
+{
+  "code": "POCS-9067",
+  "url": "/release/detail/POCS-9067/",
+  "source": "upfront",
+  "title": "あまいメロディー/「すき」の数え方",
+  "category": "CDシングル",
+  "artist": "吉川友",
+  "releaseDate": "2014/10/29",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/2f077cfcc7cea33678a65c2894900514f0fd132b.jpg",
+    "/images/c621f6590f4f7dd8c7242652c306b5feee01bb7f.jpg",
+    "/images/40a351be74a2e1848dd24155854a7b4dc8ae7077.jpg"
+  ],
+  "editions": [
+    {
+      "name": "初回生産限定盤A",
+      "image": "/images/2f077cfcc7cea33678a65c2894900514f0fd132b.jpg",
+      "price": "￥1,731 (税抜価格 ￥1,574)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "POCS-9067",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "あまいメロディー",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 2,
+              "title": "「すき」の数え方",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "サカノウエヨースケ",
+                "作曲": "サカノウエヨースケ",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 3,
+              "title": "あまいメロディー(Instrumental)",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 4,
+              "title": "「すき」の数え方(Instrumental)",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "サカノウエヨースケ",
+                "作曲": "サカノウエヨースケ",
+                "編曲": "michitomo"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "初回生産限定盤B",
+      "image": "/images/c621f6590f4f7dd8c7242652c306b5feee01bb7f.jpg",
+      "price": "￥1,731 (税抜価格 ￥1,574)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "POCS-9068",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "あまいメロディー(Music Video)",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo"
+              }
+            },
+            {
+              "index": 2,
+              "title": "あまいメロディー(メイキング映像)",
+              "duration": "08:49"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/images/40a351be74a2e1848dd24155854a7b4dc8ae7077.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "POCS-1187",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "あまいメロディー",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 2,
+              "title": "「すき」の数え方",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "サカノウエヨースケ",
+                "作曲": "サカノウエヨースケ",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 3,
+              "title": "あまいメロディー(Instrumental)",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 4,
+              "title": "「すき」の数え方(Instrumental)",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "サカノウエヨースケ",
+                "作曲": "サカノウエヨースケ",
+                "編曲": "michitomo"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

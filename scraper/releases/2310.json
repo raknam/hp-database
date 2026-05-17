@@ -1,0 +1,67 @@
+{
+  "id": 2310,
+  "url": "/release/2310/",
+  "title": "Pancake",
+  "category": "DVD",
+  "artist": "譜久村聖",
+  "releaseDate": "2014.8.6",
+  "label": "zetima",
+  "images": [
+    "/upload/images/d4d32ded3da6c276524b677d66014458a73e9a6e.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Sunday Morning",
+              "duration": "14:01",
+              "credits": {
+                "出演": "譜久村聖"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Train to the Beach",
+              "duration": "15:54",
+              "credits": {
+                "出演": "譜久村聖"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Sweet Pancake",
+              "duration": "06:09",
+              "credits": {
+                "出演": "譜久村聖"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Making of 『うたかた』",
+              "duration": "15:37",
+              "credits": {
+                "出演": "譜久村聖"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "03:23",
+              "credits": {
+                "出演": "譜久村聖"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5484"
+        }
+      ]
+    }
+  ]
+}

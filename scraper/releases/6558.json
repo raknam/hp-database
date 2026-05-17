@@ -1,0 +1,30 @@
+{
+  "id": 6558,
+  "url": "/release/6558/",
+  "title": "風のブーケ(DVD付)",
+  "category": "CDシングル",
+  "artist": "松原健之 feat. 植村あかり(Juice=Juice)＆川村文乃(アンジュルム)＆小片リサ",
+  "releaseDate": "2021.9.29",
+  "label": "TEICHIKU RECORDS",
+  "images": [
+    "/upload/images/c3f1aeb19aff92535fa645bf4f45bda24d72c3c4.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [],
+          "catalogNo": "TECA-21033"
+        },
+        {
+          "type": "DVD",
+          "tracks": []
+        }
+      ]
+    }
+  ]
+}

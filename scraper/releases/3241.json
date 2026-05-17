@@ -1,0 +1,124 @@
+{
+  "id": 3241,
+  "url": "/release/3241/",
+  "title": "アイドルをさがせ！ヒストリー2～ハロプロメンバー総出演！～",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2002.4.3",
+  "label": "hachama",
+  "images": [
+    "/resources/images/foundation/release-placeholder.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "00:26",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "モーニング娘。＆平家みちよ",
+              "duration": "19:05",
+              "suffix": "初Hello！ お正月ライブ(1999年1月)",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 3,
+              "title": "新生タンポポ 初活動の裏側 完全密着",
+              "duration": "06:01",
+              "suffix": "(2000年6月)",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "新生プッチモニ 初活動の裏側 完全密着",
+              "duration": "03:41",
+              "suffix": "(2000年7月)",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 5,
+              "title": "メロン記念日「This is 運命」 PV撮影密着",
+              "duration": "02:43",
+              "suffix": "(2001年10月)",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 6,
+              "title": "松浦亜弥「100回のKISS」 PV撮影密着",
+              "duration": "02:12",
+              "suffix": "(2001年11月)",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 7,
+              "title": "「愛のバカやろう」 PV撮影密着",
+              "duration": "00:53",
+              "suffix": "(2001年3月)",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 8,
+              "title": "「I WISH」 PV撮影密着",
+              "duration": "13:26",
+              "suffix": "(2000年9月)",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 9,
+              "title": "番組初代MC 中澤・平家が選ぶ 名勝負！！",
+              "duration": "10:57",
+              "suffix": "(1999年1月～12月)",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 10,
+              "title": "2002年Hello! お正月ライブ ハロプロコンサートの裏側",
+              "duration": "19:45",
+              "suffix": "～あるプロゴルファー2人の約束～",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 1,
+              "title": "番組未公開映像",
+              "duration": "08:54",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "HKBN-50013"
+        }
+      ]
+    }
+  ]
+}

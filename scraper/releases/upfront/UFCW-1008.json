@@ -1,0 +1,48 @@
+{
+  "code": "UFCW-1008",
+  "url": "/release/detail/UFCW-1008/",
+  "source": "upfront",
+  "title": "情熱ヴィクトリー～2010楽天イーグルス公式応援歌～",
+  "category": "CDシングル",
+  "artist": "杉田二郎&ばんばひろふみ",
+  "releaseDate": "2010/03/20",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/df7a053261409b0a7f1addf35c026e07d52e061f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/df7a053261409b0a7f1addf35c026e07d52e061f.jpg",
+      "price": "￥1,047 (税抜価格 ￥952)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "UFCW-1008",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "情熱ヴィクトリー～2010楽天イーグルス公式応援歌～",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "まこと",
+                "作曲": "杉田二郎/ばんばひろふみ",
+                "編曲": "鈴木豪"
+              }
+            },
+            {
+              "index": 2,
+              "title": "情熱ヴィクトリー～2010楽天イーグルス公式応援歌～(オリジナル・カラオケ)",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "まこと",
+                "作曲": "杉田二郎/ばんばひろふみ",
+                "編曲": "鈴木豪"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,417 @@
+{
+  "id": 6396,
+  "url": "/release/6396/",
+  "title": "純情エビデンス/ギューされたいだけなのに",
+  "category": "CDシングル",
+  "artist": "モーニング娘。'20",
+  "releaseDate": "2020.12.16",
+  "label": "zetima",
+  "images": [
+    "/upload/images/edaf1fce594a4bff6dd4b4610dad0334470653aa.webp",
+    "/upload/images/e627c97e5d6b6da3c8bc5b172435df5d31ad06d2.webp",
+    "/upload/images/eefd3b3e43fbdbec0a312531d2e7732b2fbaf04d.webp",
+    "/upload/images/08b221a5fb93da4d06880ddb241066b5e9604acc.webp",
+    "/upload/images/322423ca48ad8efa170da9548589133d8b34f1dd.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/edaf1fce594a4bff6dd4b4610dad0334470653aa.webp",
+      "price": "￥1,870（税抜価格 ￥1,700）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "純情エビデンス",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ギューされたいだけなのに",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 3,
+              "title": "純情エビデンス",
+              "duration": "04:12",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ギューされたいだけなのに",
+              "duration": "03:58",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'20"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7600"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "純情エビデンス",
+              "duration": "05:16",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 2,
+              "title": "純情エビデンス",
+              "duration": "15:18",
+              "suffix": "(MV撮影メイキング)",
+              "credits": {
+                "出演": "モーニング娘。'20"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/e627c97e5d6b6da3c8bc5b172435df5d31ad06d2.webp",
+      "price": "￥1,870（税抜価格 ￥1,700）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "純情エビデンス",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ギューされたいだけなのに",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 3,
+              "title": "純情エビデンス",
+              "duration": "04:12",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ギューされたいだけなのに",
+              "duration": "03:58",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'20"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7602"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ギューされたいだけなのに",
+              "duration": "04:20",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ギューされたいだけなのに",
+              "duration": "14:32",
+              "suffix": "(MV撮影メイキング)",
+              "credits": {
+                "出演": "モーニング娘。'20"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/upload/images/eefd3b3e43fbdbec0a312531d2e7732b2fbaf04d.webp",
+      "price": "￥1,980（税抜価格 ￥1,800）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "純情エビデンス",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ギューされたいだけなのに",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 3,
+              "title": "純情エビデンス",
+              "duration": "04:12",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ギューされたいだけなのに",
+              "duration": "03:58",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'20"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7604"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "純情エビデンス",
+              "duration": "04:17",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ギューされたいだけなのに",
+              "duration": "04:00",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 3,
+              "title": "純情エビデンス",
+              "duration": "04:18",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ギューされたいだけなのに",
+              "duration": "04:09",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'20"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/08b221a5fb93da4d06880ddb241066b5e9604acc.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "純情エビデンス",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ギューされたいだけなのに",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 3,
+              "title": "純情エビデンス",
+              "duration": "04:12",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ギューされたいだけなのに",
+              "duration": "03:58",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'20"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7606"
+        }
+      ],
+      "note": "トレーディングカードソロ14種+集合1種よりランダムにて1枚封入(純情エビデンス Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/322423ca48ad8efa170da9548589133d8b34f1dd.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "純情エビデンス",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ギューされたいだけなのに",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 3,
+              "title": "純情エビデンス",
+              "duration": "04:12",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "モーニング娘。'20"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ギューされたいだけなのに",
+              "duration": "03:58",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'20"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7607"
+        }
+      ],
+      "note": "トレーディングカードソロ14種+集合1種よりランダムにて1枚封入(ギューされたいだけなのに Ver.)※初回プレス分のみ"
+    }
+  ]
+}

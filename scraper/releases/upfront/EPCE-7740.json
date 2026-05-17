@@ -1,0 +1,398 @@
+{
+  "code": "EPCE-7740",
+  "url": "/release/detail/EPCE-7740/",
+  "source": "upfront",
+  "title": "Ding Dong/ロマンティックなんてガラじゃない",
+  "category": "CDシングル",
+  "artist": "佐藤優樹",
+  "releaseDate": "2023/03/29",
+  "label": "zetima",
+  "images": [
+    "/images/4d35448ae037536c179ee72cefebbd9c68893aea.jpg",
+    "/images/a5ed86bc2c1b52242e2f1ba063d78ddf49f39fd8.jpg",
+    "/images/f6e30fb4270878c745a6e5ec288ab8d4c1d390b8.jpg",
+    "/images/20d787544fbb8cd5fc9db6d9f350ddcb30939825.jpg",
+    "/images/98a1417d581e20888f068a42dd02bd2fe5b02541.jpg",
+    "/images/cd74a6954152891042b234a113d64deeaaaaa356.jpg",
+    "/images/56cf4f9b62349476c0c663396584e70d127913df.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/4d35448ae037536c179ee72cefebbd9c68893aea.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7740",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Ding Dong",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "徳田光希",
+                "編曲": "徳田光希"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ロマンティックなんてガラじゃない",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "zopp",
+                "作曲": "shusui/Anders Dannvik",
+                "編曲": "Anders Dannvik"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Ding Dong(Instrumental)",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "徳田光希",
+                "編曲": "徳田光希"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ロマンティックなんてガラじゃない(Instrumental)",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "zopp",
+                "作曲": "shusui/Anders Dannvik",
+                "編曲": "Anders Dannvik"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/a5ed86bc2c1b52242e2f1ba063d78ddf49f39fd8.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7742",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Ding Dong(Music Video)",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "徳田光希"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Ding Dong(Dance Edit.)",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "徳田光希"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Ding Dong(メイキング映像)",
+              "duration": "13:14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/images/f6e30fb4270878c745a6e5ec288ab8d4c1d390b8.jpg",
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7744",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Ding Dong",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "徳田光希",
+                "編曲": "徳田光希"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ロマンティックなんてガラじゃない",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "zopp",
+                "作曲": "shusui/Anders Dannvik",
+                "編曲": "Anders Dannvik"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Ding Dong(Instrumental)",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "徳田光希",
+                "編曲": "徳田光希"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ロマンティックなんてガラじゃない(Instrumental)",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "zopp",
+                "作曲": "shusui/Anders Dannvik",
+                "編曲": "Anders Dannvik"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/20d787544fbb8cd5fc9db6d9f350ddcb30939825.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPCE-7745",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ロマンティックなんてガラじゃない(Music Video)",
+              "duration": "04:44",
+              "credits": {
+                "作詞": "zopp",
+                "作曲": "shusui/Anders Dannvik"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ロマンティックなんてガラじゃない(Room Ver.)",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "zopp",
+                "作曲": "shusui/Anders Dannvik"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ロマンティックなんてガラじゃない(メイキング映像)",
+              "duration": "14:47"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/98a1417d581e20888f068a42dd02bd2fe5b02541.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7746",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Ding Dong",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "徳田光希",
+                "編曲": "徳田光希"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ロマンティックなんてガラじゃない",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "zopp",
+                "作曲": "shusui/Anders Dannvik",
+                "編曲": "Anders Dannvik"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Ding Dong(Instrumental)",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "徳田光希",
+                "編曲": "徳田光希"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ロマンティックなんてガラじゃない(Instrumental)",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "zopp",
+                "作曲": "shusui/Anders Dannvik",
+                "編曲": "Anders Dannvik"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/images/cd74a6954152891042b234a113d64deeaaaaa356.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7747",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Ding Dong",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "徳田光希",
+                "編曲": "徳田光希"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ロマンティックなんてガラじゃない",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "zopp",
+                "作曲": "shusui/Anders Dannvik",
+                "編曲": "Anders Dannvik"
+              }
+            },
+            {
+              "index": 3,
+              "title": "愛のサバイバー【Additional Track】",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Jean Luc Ponpon/星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Ding Dong(Instrumental)",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "徳田光希",
+                "編曲": "徳田光希"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ロマンティックなんてガラじゃない(Instrumental)",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "zopp",
+                "作曲": "shusui/Anders Dannvik",
+                "編曲": "Anders Dannvik"
+              }
+            },
+            {
+              "index": 6,
+              "title": "愛のサバイバー(Instrumental)",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Jean Luc Ponpon/星部ショウ",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤D】",
+      "image": "/images/56cf4f9b62349476c0c663396584e70d127913df.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7748",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Ding Dong",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "徳田光希",
+                "編曲": "徳田光希"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ロマンティックなんてガラじゃない",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "zopp",
+                "作曲": "shusui/Anders Dannvik",
+                "編曲": "Anders Dannvik"
+              }
+            },
+            {
+              "index": 3,
+              "title": "夢に出てこないでよ【Additional Track】",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "zopp",
+                "作曲": "Shusui/Anders Dannvik",
+                "編曲": "Anders Dannvik"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Ding Dong(Instrumental)",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "徳田光希",
+                "編曲": "徳田光希"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ロマンティックなんてガラじゃない(Instrumental)",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "zopp",
+                "作曲": "shusui/Anders Dannvik",
+                "編曲": "Anders Dannvik"
+              }
+            },
+            {
+              "index": 6,
+              "title": "夢に出てこないでよ(Instrumental)",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "zopp",
+                "作曲": "Shusui/Anders Dannvik",
+                "編曲": "Anders Dannvik"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

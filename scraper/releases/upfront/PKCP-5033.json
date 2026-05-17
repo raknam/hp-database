@@ -1,0 +1,58 @@
+{
+  "code": "PKCP-5033",
+  "url": "/release/detail/PKCP-5033/",
+  "source": "upfront",
+  "title": "白いTOKYO",
+  "category": "CDシングル",
+  "artist": "ZYX",
+  "releaseDate": "2003/12/10",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/262aa31a8f5d0cce5f348c967333720cddf04ae9.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/262aa31a8f5d0cce5f348c967333720cddf04ae9.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5033",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "白いTOKYO",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "常夏娘(ZYX Ver.)",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "田中直"
+              }
+            },
+            {
+              "index": 3,
+              "title": "白いTOKYO(Instrumental)",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

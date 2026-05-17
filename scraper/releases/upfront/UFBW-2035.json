@@ -1,0 +1,58 @@
+{
+  "code": "UFBW-2035",
+  "url": "/release/detail/UFBW-2035/",
+  "source": "upfront",
+  "title": "IMP. GIRL",
+  "category": "DVD",
+  "artist": "岡井千聖",
+  "releaseDate": "2011/12/08",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/30c04ff3fc5a2fd5542e7cf59052ec396ad0fb10.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/30c04ff3fc5a2fd5542e7cf59052ec396ad0fb10.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2035",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "00:48"
+            },
+            {
+              "index": 2,
+              "title": "Sea side",
+              "duration": "08:56"
+            },
+            {
+              "index": 3,
+              "title": "Beach",
+              "duration": "12:12"
+            },
+            {
+              "index": 4,
+              "title": "Break",
+              "duration": "21:16"
+            },
+            {
+              "index": 5,
+              "title": "Pink on white",
+              "duration": "13:49"
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "01:09"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

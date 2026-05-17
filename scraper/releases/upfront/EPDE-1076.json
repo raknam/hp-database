@@ -1,0 +1,58 @@
+{
+  "code": "EPDE-1076",
+  "url": "/release/detail/EPDE-1076/",
+  "source": "upfront",
+  "title": "DON’T STOP 恋愛中",
+  "category": "CDシングル",
+  "artist": "T&Cボンバ－",
+  "releaseDate": "2000/04/19",
+  "label": "zetima",
+  "images": [
+    "/images/915a28ad090dee37fa4733732b2b460f81f15a63.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/915a28ad090dee37fa4733732b2b460f81f15a63.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1076",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "DON'T STOP 恋愛中",
+              "duration": "04:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野伸"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ゴーゴー東京",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "DON'T STOP 恋愛中(Instrumental)",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野伸"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

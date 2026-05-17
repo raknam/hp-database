@@ -1,0 +1,58 @@
+{
+  "code": "EPBE-5327",
+  "url": "/release/detail/EPBE-5327/",
+  "source": "upfront",
+  "title": "I.",
+  "category": "DVD",
+  "artist": "高橋愛",
+  "releaseDate": "2009/06/17",
+  "label": "zetima",
+  "images": [
+    "/images/9193b45b3cfe2b433c70bd0981135e5e6dbc362a.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/9193b45b3cfe2b433c70bd0981135e5e6dbc362a.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5327",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "The Making of 「私」",
+              "duration": "32:47"
+            },
+            {
+              "index": 2,
+              "title": "Introduction",
+              "duration": "03:50"
+            },
+            {
+              "index": 3,
+              "title": "Chaminade University",
+              "duration": "07:03"
+            },
+            {
+              "index": 4,
+              "title": "Image Scene",
+              "duration": "04:54"
+            },
+            {
+              "index": 5,
+              "title": "The Actors Workshop",
+              "duration": "09:00"
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "02:37"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

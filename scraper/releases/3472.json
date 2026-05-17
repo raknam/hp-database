@@ -1,0 +1,75 @@
+{
+  "id": 3472,
+  "url": "/release/3472/",
+  "title": "attracted",
+  "category": "DVD",
+  "artist": "田中れいな",
+  "releaseDate": "2011.3.11",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/47fbc517294fdd0a0794c72a2b66e7f328611b2c.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Scene1",
+              "duration": "09:08",
+              "credits": {
+                "出演": "田中れいな"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Scene2",
+              "duration": "14:41",
+              "credits": {
+                "出演": "田中れいな"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Scene3",
+              "duration": "10:49",
+              "credits": {
+                "出演": "田中れいな"
+              }
+            },
+            {
+              "index": 4,
+              "title": "nterview",
+              "duration": "10:54",
+              "credits": {
+                "出演": "田中れいな"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "01:50",
+              "credits": {
+                "出演": "田中れいな"
+              }
+            },
+            {
+              "index": 6,
+              "title": "DVD Making",
+              "duration": "07:42",
+              "credits": {
+                "出演": "田中れいな"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1068"
+        }
+      ]
+    }
+  ]
+}

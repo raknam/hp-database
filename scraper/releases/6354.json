@@ -1,0 +1,359 @@
+{
+  "id": 6354,
+  "url": "/release/6354/",
+  "title": "断捨ISM/イマナンジ？",
+  "category": "CDシングル",
+  "artist": "つばきファクトリー",
+  "releaseDate": "2020.9.30",
+  "label": "zetima",
+  "images": [
+    "/upload/images/7c211c75ad942b7b855944796473b398a84498e5.webp",
+    "/upload/images/7da12a4de664270c22f158231f0885cf15309efa.webp",
+    "/upload/images/9513bbf8b618461668a202e65709bea763848d03.webp",
+    "/upload/images/ca933cb287990b90f2777ec4e64c2b773852536a.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/7c211c75ad942b7b855944796473b398a84498e5.webp",
+      "price": "￥1,870（税抜価格 ￥1,700）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "断捨ISM",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE",
+                "編曲": "草野将史",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "イマナンジ？",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "Soflan Daichi",
+                "作曲": "玉木千尋",
+                "編曲": "玉木千尋",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "断捨ISM",
+              "duration": "04:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE",
+                "編曲": "草野将史",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "イマナンジ？",
+              "duration": "04:03",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "Soflan Daichi",
+                "作曲": "玉木千尋",
+                "編曲": "玉木千尋",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7590"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "断捨ISM",
+              "duration": "04:37",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "断捨ISM",
+              "duration": "04:16",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE",
+                "出演": "つばきファクトリー"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/7da12a4de664270c22f158231f0885cf15309efa.webp",
+      "price": "￥1,870（税抜価格 ￥1,700）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "断捨ISM",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE",
+                "編曲": "草野将史",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "イマナンジ？",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "Soflan Daichi",
+                "作曲": "玉木千尋",
+                "編曲": "玉木千尋",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "断捨ISM",
+              "duration": "04:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE",
+                "編曲": "草野将史",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "イマナンジ？",
+              "duration": "04:03",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "Soflan Daichi",
+                "作曲": "玉木千尋",
+                "編曲": "玉木千尋",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7592"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "イマナンジ？",
+              "duration": "04:22",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "Soflan Daichi",
+                "作曲": "玉木千尋",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 1,
+              "title": "イマナンジ？",
+              "duration": "04:11",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "Soflan Daichi",
+                "作曲": "玉木千尋",
+                "出演": "つばきファクトリー"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/9513bbf8b618461668a202e65709bea763848d03.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "断捨ISM",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE",
+                "編曲": "草野将史",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "イマナンジ？",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "Soflan Daichi",
+                "作曲": "玉木千尋",
+                "編曲": "玉木千尋",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "My Darling ～Do you love me?～",
+              "duration": "04:32",
+              "suffix": "【Additional Track】",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "板垣祐介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "断捨ISM",
+              "duration": "04:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE",
+                "編曲": "草野将史",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "イマナンジ？",
+              "duration": "04:03",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "Soflan Daichi",
+                "作曲": "玉木千尋",
+                "編曲": "玉木千尋",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "My Darling ～Do you love me?～",
+              "duration": "04:32",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "板垣祐介",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7594"
+        }
+      ],
+      "note": "トレーディングカードソロ9種+集合1種よりランダムにて1枚封入※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/ca933cb287990b90f2777ec4e64c2b773852536a.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "断捨ISM",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE",
+                "編曲": "草野将史",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "イマナンジ？",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "Soflan Daichi",
+                "作曲": "玉木千尋",
+                "編曲": "玉木千尋",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋のUFOキャッチャー",
+              "duration": "03:52",
+              "suffix": "【Additional Track】",
+              "credits": {
+                "作詞": "ジンツチハシ",
+                "作曲": "ジンツチハシ",
+                "編曲": "ジンツチハシ",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "断捨ISM",
+              "duration": "04:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE",
+                "編曲": "草野将史",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "イマナンジ？",
+              "duration": "04:03",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "Soflan Daichi",
+                "作曲": "玉木千尋",
+                "編曲": "玉木千尋",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "恋のUFOキャッチャー",
+              "duration": "03:52",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "ジンツチハシ",
+                "作曲": "ジンツチハシ",
+                "編曲": "ジンツチハシ",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7595"
+        }
+      ],
+      "note": "トレーディングカードソロ9種+集合1種よりランダムにて1枚封入※初回プレス分のみ"
+    }
+  ]
+}

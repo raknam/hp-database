@@ -1,0 +1,108 @@
+{
+  "code": "UFDL-1574",
+  "url": "/release/detail/UFDL-1574/",
+  "source": "upfront",
+  "title": "T-Pis First〜英雄たちのヴィクトリーロード〜テーマ曲集",
+  "category": "配信",
+  "artist": "T-Pis",
+  "releaseDate": "2025/12/24",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/d3bd7461b87d2ddc2ecd4aebceda7d4a512afe7b.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d3bd7461b87d2ddc2ecd4aebceda7d4a512afe7b.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1574",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "笑顔がゴール！",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "山﨑徹/高木貴司",
+                "作曲": "山﨑徹/S.KAWAI",
+                "編曲": "S.KAWAI"
+              }
+            },
+            {
+              "index": 2,
+              "title": "勇者の魂",
+              "duration": "03:14",
+              "credits": {
+                "作詞": "山﨑徹/高木貴司",
+                "作曲": "山﨑徹/S.KAWAI",
+                "編曲": "S.KAWAI"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ビビルなっ！",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "高木貴司",
+                "作曲": "山﨑徹/S.KAWAI",
+                "編曲": "S.KAWAI"
+              }
+            },
+            {
+              "index": 4,
+              "title": "炸裂俺らの青い春",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "山﨑徹/高木貴司",
+                "作曲": "山﨑徹/S.KAWAI",
+                "編曲": "S.KAWAI"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ガンガンガガン！",
+              "duration": "03:41",
+              "credits": {
+                "作詞": "山﨑徹/高木貴司",
+                "作曲": "山﨑徹/S.KAWAI",
+                "編曲": "S.KAWAI"
+              }
+            },
+            {
+              "index": 6,
+              "title": "大・団・円",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "高木貴司",
+                "作曲": "山﨑徹/S.KAWAI",
+                "編曲": "S.KAWAI"
+              }
+            },
+            {
+              "index": 7,
+              "title": "世界に刻め！イナズママーク",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "山﨑徹",
+                "作曲": "山﨑徹",
+                "編曲": "S.KAWAI"
+              }
+            },
+            {
+              "index": 8,
+              "title": "ザ・ヴィクトリーヨ！",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "山﨑徹/高木貴司",
+                "作曲": "山﨑徹/S.KAWAI",
+                "編曲": "S.KAWAI"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

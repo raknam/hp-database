@@ -1,0 +1,63 @@
+{
+  "code": "UFBW-1245",
+  "url": "/release/detail/UFBW-1245/",
+  "source": "upfront",
+  "title": "ハロー!SATOYAMAライフ Vol.7",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2013/06/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/1a0771ff1e3fba786a1bbaa6743a87e895aad1a3.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/1a0771ff1e3fba786a1bbaa6743a87e895aad1a3.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1245",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "モーニング娘。11期メンバー小田さくら合格までの軌跡",
+              "duration": "24:14"
+            },
+            {
+              "index": 2,
+              "title": "白菜とキャベツの種まきをしよう",
+              "duration": "03:31"
+            },
+            {
+              "index": 3,
+              "title": "モーニング娘。11期メンバー小田さくらお披露目ステージの舞台裏",
+              "duration": "21:49"
+            },
+            {
+              "index": 4,
+              "title": "枝豆とサツマイモの収穫に挑戦",
+              "duration": "11:15"
+            },
+            {
+              "index": 5,
+              "title": "モーニング娘。初の世界握手会ツアーinタイ",
+              "duration": "01:40"
+            },
+            {
+              "index": 6,
+              "title": "GREEN FIELDS「Boys be ambitious !」MV撮影に密着",
+              "duration": "08:38"
+            },
+            {
+              "index": 7,
+              "title": "SATOYAMA movement ステージ初パフォーマンス",
+              "duration": "14:24"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

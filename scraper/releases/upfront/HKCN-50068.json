@@ -1,0 +1,68 @@
+{
+  "code": "HKCN-50068",
+  "url": "/release/detail/HKCN-50068/",
+  "source": "upfront",
+  "title": "涙～世界のどこかで瞬間",
+  "category": "CDシングル",
+  "artist": "Kenny",
+  "releaseDate": "2009/02/18",
+  "label": "hachama",
+  "images": [
+    "/images/bbeb4667a05f9b3d20876530cbee93282f4890c8.jpg"
+  ],
+  "editions": [
+    {
+      "name": "DVD付き",
+      "image": "/images/bbeb4667a05f9b3d20876530cbee93282f4890c8.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50068",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "涙～世界のどこかで瞬間",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "YukikoK.",
+                "作曲": "山路敦司",
+                "編曲": "山路敦司/MOTOG3"
+              }
+            },
+            {
+              "index": 2,
+              "title": "あなたの海",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "YukikoK./みかみ麗緒",
+                "作曲": "重永亮介",
+                "編曲": "MOTOG3"
+              }
+            },
+            {
+              "index": 3,
+              "title": "涙～世界のどこかで瞬間(Instrumental)",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "YukikoK.",
+                "作曲": "山路敦司",
+                "編曲": "山路敦司/MOTOG3"
+              }
+            },
+            {
+              "index": 4,
+              "title": "あなたの海(Instrumental)",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "YukikoK./みかみ麗緒",
+                "作曲": "重永亮介",
+                "編曲": "MOTOG3"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

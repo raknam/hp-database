@@ -1,0 +1,53 @@
+{
+  "code": "EPBE-5476",
+  "url": "/release/detail/EPBE-5476/",
+  "source": "upfront",
+  "title": "Riho's Fashion Archive",
+  "category": "DVD",
+  "artist": "鞘師里保",
+  "releaseDate": "2014/03/12",
+  "label": "zetima",
+  "images": [
+    "/images/aa9a89e093fffd15064747f9751760fa16b91b9e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/aa9a89e093fffd15064747f9751760fa16b91b9e.jpg",
+      "price": "￥4,400 (税抜価格 ￥4,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5476",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:39"
+            },
+            {
+              "index": 2,
+              "title": "Archive1.FASHION",
+              "duration": "28:45"
+            },
+            {
+              "index": 3,
+              "title": "Archive2.REAL",
+              "duration": "07:30"
+            },
+            {
+              "index": 4,
+              "title": "Archive3.MAKING OF「太陽」",
+              "duration": "13:21"
+            },
+            {
+              "index": 5,
+              "title": "ENDING",
+              "duration": "02:08"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

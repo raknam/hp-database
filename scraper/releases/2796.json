@@ -1,0 +1,61 @@
+{
+  "id": 2796,
+  "url": "/release/2796/",
+  "title": "涙の太陽",
+  "category": "CDシングル",
+  "artist": "メロン記念日",
+  "releaseDate": "2004.6.9",
+  "label": "zetima",
+  "images": [
+    "/upload/images/a0e7f03bafe58049415e94b123bc235866defbb8.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "涙の太陽",
+              "duration": "02:41",
+              "credits": {
+                "作詞": "助川和子",
+                "作曲": "中島安敏",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "メロン記念日"
+              }
+            },
+            {
+              "index": 2,
+              "title": "さあ、早速盛り上げて 行こか〜！！",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "メロン記念日"
+              }
+            },
+            {
+              "index": 3,
+              "title": "涙の太陽",
+              "duration": "02:42",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "助川和子",
+                "作曲": "中島安敏",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "メロン記念日"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5282"
+        }
+      ]
+    }
+  ]
+}

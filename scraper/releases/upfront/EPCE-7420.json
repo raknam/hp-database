@@ -1,0 +1,88 @@
+{
+  "code": "EPCE-7420",
+  "url": "/release/detail/EPCE-7420/",
+  "source": "upfront",
+  "title": "仲間",
+  "category": "CDシングル",
+  "artist": "上々軍団",
+  "releaseDate": "2018/07/25",
+  "label": "zetima",
+  "images": [
+    "/images/d8e3bbbb5a46ef0e02546e3e0b022b47b82c0d78.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d8e3bbbb5a46ef0e02546e3e0b022b47b82c0d78.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7420",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "仲間",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "鈴木啓太",
+                "作曲": "さわやか五郎",
+                "編曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 2,
+              "title": "20歳",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "鈴木啓太/さわやか五郎",
+                "作曲": "さわやか五郎",
+                "編曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 3,
+              "title": "感謝感激マジマンジ＜Bonus Track＞",
+              "duration": "03:16",
+              "credits": {
+                "作詞": "さわやか五郎",
+                "作曲": "さわやか五郎",
+                "編曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 4,
+              "title": "素直になれないサクランボ＜Bonus Track＞",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "鈴木啓太",
+                "作曲": "さわやか五郎",
+                "編曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 5,
+              "title": "仲間(Instrumental)",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "鈴木啓太",
+                "作曲": "さわやか五郎",
+                "編曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 6,
+              "title": "20歳(Instrumental)",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "鈴木啓太/さわやか五郎",
+                "作曲": "さわやか五郎",
+                "編曲": "中島卓偉"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

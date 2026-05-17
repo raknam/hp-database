@@ -1,0 +1,98 @@
+{
+  "code": "EPBE-5082",
+  "url": "/release/detail/EPBE-5082/",
+  "source": "upfront",
+  "title": "ラブハロ！矢口真里DVD",
+  "category": "DVD",
+  "artist": "矢口真里",
+  "releaseDate": "2003/07/16",
+  "label": "zetima",
+  "images": [
+    "/images/1d438b8a5853fc32f7334b747c9a3d58be007f43.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/1d438b8a5853fc32f7334b747c9a3d58be007f43.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5082",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "旅のはじまり(オープニング)",
+              "duration": "04:01"
+            },
+            {
+              "index": 2,
+              "title": "アオザイ作り",
+              "duration": "03:52"
+            },
+            {
+              "index": 3,
+              "title": "ベトナムのお寺",
+              "duration": "04:41"
+            },
+            {
+              "index": 4,
+              "title": "10年後の矢口真里へ",
+              "duration": "03:52"
+            },
+            {
+              "index": 5,
+              "title": "プールにて",
+              "duration": "05:26"
+            },
+            {
+              "index": 6,
+              "title": "ジェットスキー初体験",
+              "duration": "03:34"
+            },
+            {
+              "index": 7,
+              "title": "夕日と砂丘",
+              "duration": "05:33"
+            },
+            {
+              "index": 8,
+              "title": "市場にて",
+              "duration": "02:37"
+            },
+            {
+              "index": 9,
+              "title": "ショッピング！！",
+              "duration": "10:39"
+            },
+            {
+              "index": 10,
+              "title": "シクロ初体験",
+              "duration": "02:32"
+            },
+            {
+              "index": 11,
+              "title": "サイゴン川クルーズ！？",
+              "duration": "05:38"
+            },
+            {
+              "index": 12,
+              "title": "10年後の矢口真里へpart2",
+              "duration": "04:04"
+            },
+            {
+              "index": 13,
+              "title": "大人のバー",
+              "duration": "03:26"
+            },
+            {
+              "index": 14,
+              "title": "メイキング",
+              "duration": "06:35"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

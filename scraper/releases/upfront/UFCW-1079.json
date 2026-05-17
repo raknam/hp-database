@@ -1,0 +1,128 @@
+{
+  "code": "UFCW-1079",
+  "url": "/release/detail/UFCW-1079/",
+  "source": "upfront",
+  "title": "Smile...♥",
+  "category": "CDアルバム",
+  "artist": "安倍なつみ",
+  "releaseDate": "2014/08/13",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/1ebf306c4ea546185baf6ea92c1c398c2100369a.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/1ebf306c4ea546185baf6ea92c1c398c2100369a.jpg",
+      "price": "￥4,074 (税抜価格 ￥3,704)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "UFCW-1079",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Best Friend(2014 Smile Ver.)",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "みどりこ",
+                "作曲": "飯田清澄",
+                "編曲": "和田春彦"
+              }
+            },
+            {
+              "index": 2,
+              "title": "愛しき人(2014 Smile Ver.)",
+              "duration": "05:04",
+              "credits": {
+                "作詞": "鈴木美穂+西澤貴子",
+                "作曲": "若林充",
+                "編曲": "和田春彦"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ふるさと(2014 Smile Ver.)",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ツルノリヒロ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "スイートホリック(2014 Smile Ver.)",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "BULGE",
+                "作曲": "BULGE",
+                "編曲": "和田春彦"
+              }
+            },
+            {
+              "index": 5,
+              "title": "トウモロコシと空と風(2014 Smile Ver.)",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "和田春彦"
+              }
+            },
+            {
+              "index": 6,
+              "title": "せんこう花火(2014 Smile Ver.)",
+              "duration": "04:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "和田春彦"
+              }
+            },
+            {
+              "index": 7,
+              "title": "息を重ねましょう(2014 Smile Ver.)",
+              "duration": "05:11",
+              "credits": {
+                "作詞": "久保田洋司",
+                "作曲": "her0ism",
+                "編曲": "ツルノリヒロ"
+              }
+            },
+            {
+              "index": 8,
+              "title": "空LIFE GOES ON(2014 Smile Ver.)",
+              "duration": "05:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ツルノリヒロ"
+              }
+            },
+            {
+              "index": 9,
+              "title": "夕暮れ作戦会議(2014 Smile Ver.)",
+              "duration": "05:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "和田春彦"
+              }
+            },
+            {
+              "index": 10,
+              "title": "33(トラントトロワ)〜Smile Life〜",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "森知華",
+                "作曲": "斉藤悠弥",
+                "編曲": "ツルノリヒロ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

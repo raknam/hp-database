@@ -1,0 +1,116 @@
+{
+  "code": "UFBW-1636",
+  "url": "/release/detail/UFBW-1636/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.60",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2019/10/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/275edf481dd0d71cd2836ad6ab3273f428a17bf4.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/275edf481dd0d71cd2836ad6ab3273f428a17bf4.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1636",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "飴細工",
+              "duration": "10:47"
+            },
+            {
+              "index": 2,
+              "title": "ボルダフィット",
+              "duration": "09:26"
+            },
+            {
+              "index": 3,
+              "title": "江戸風鈴",
+              "duration": "09:42"
+            },
+            {
+              "index": 4,
+              "title": "話し方",
+              "duration": "13:42"
+            },
+            {
+              "index": 5,
+              "title": "書道",
+              "duration": "06:41"
+            },
+            {
+              "index": 6,
+              "title": "Are you Happy?【スタジオライブ集】",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 7,
+              "title": "君だけじゃないさ...friends(2018アコースティックVer.)【スタジオライブ集】",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Uraha=Lover【スタジオライブ集】",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ハッピークラッカー【スタジオライブ集】",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE"
+              }
+            },
+            {
+              "index": 10,
+              "title": "雪のプラネタリウム【スタジオライブ集】",
+              "duration": "03:41",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "KOUGA"
+              }
+            },
+            {
+              "index": 11,
+              "title": "純情cm(センチメートル)【スタジオライブ集】",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "大橋莉子",
+                "作曲": "大橋莉子"
+              }
+            },
+            {
+              "index": 12,
+              "title": "DISTANCE【スタジオライブ集】",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "Ryosuke Imai",
+                "作曲": "Ryosuke Imai/Tasuku Maeda"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

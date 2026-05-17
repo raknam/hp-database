@@ -1,0 +1,73 @@
+{
+  "id": 2824,
+  "url": "/release/2824/",
+  "title": "純情行進曲",
+  "category": "カセットテープシングル",
+  "artist": "中澤裕子",
+  "releaseDate": "1999.6.9",
+  "label": "zetima",
+  "images": [
+    "/resources/images/foundation/release-placeholder.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CASSETTE",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "純情行進曲",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "堀内孝雄",
+                "編曲": "船山基紀",
+                "歌": "中澤裕子"
+              }
+            },
+            {
+              "index": 2,
+              "title": "平成ラプソディー",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "堀内孝雄",
+                "編曲": "船山基紀",
+                "歌": "中澤裕子"
+              }
+            },
+            {
+              "index": 3,
+              "title": "純情行進曲",
+              "duration": "03:29",
+              "suffix": "(オリジナル・カラオケ)",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "堀内孝雄",
+                "編曲": "船山基紀",
+                "歌": "中澤裕子"
+              }
+            },
+            {
+              "index": 4,
+              "title": "平成ラプソディー",
+              "duration": "03:30",
+              "suffix": "(オリジナル・カラオケ)",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "堀内孝雄",
+                "編曲": "船山基紀",
+                "歌": "中澤裕子"
+              }
+            }
+          ],
+          "catalogNo": "EPSE-1031"
+        }
+      ]
+    }
+  ]
+}

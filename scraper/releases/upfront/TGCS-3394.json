@@ -1,0 +1,48 @@
+{
+  "code": "TGCS-3394",
+  "url": "/release/detail/TGCS-3394/",
+  "source": "upfront",
+  "title": "大きな愛でもてなして",
+  "category": "CDシングル",
+  "artist": "℃-ute",
+  "releaseDate": "2006/07/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/ece934a58a7e8e35a24fb917b6f69eac91341bb2.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/ece934a58a7e8e35a24fb917b6f69eac91341bb2.jpg",
+      "price": "￥838 (税抜価格 ￥762)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "TGCS-3394",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "大きな愛でもてなして",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "大きな愛でもてなして(Instrumental)",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

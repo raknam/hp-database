@@ -1,0 +1,117 @@
+{
+  "code": "EPCE-2038",
+  "url": "/release/detail/EPCE-2038/",
+  "source": "upfront",
+  "title": "入っておいで この里に/この街で/ 地球が生まれた日",
+  "category": "CDシングル",
+  "artist": "ブラザーズ5",
+  "releaseDate": "2014/10/01",
+  "label": "zetima",
+  "images": [
+    "/images/f3aff06e9175b37249ec794c5d511e407c0ccdb1.jpg",
+    "/images/2953be520b77da27e22f8add6f3b18984583b909.jpg"
+  ],
+  "editions": [
+    {
+      "name": "初回生産限定盤",
+      "image": "/images/f3aff06e9175b37249ec794c5d511e407c0ccdb1.jpg",
+      "price": "￥1,834 (税抜価格 ￥1,667)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-2038",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "入っておいで この里に",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "アメリカ民謡/日本語詞:兵頭 剛",
+                "作曲": "アメリカ民謡",
+                "編曲": "和田春彦"
+              }
+            },
+            {
+              "index": 2,
+              "title": "この街で",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "新井満",
+                "作曲": "新井満/三宮麻由子",
+                "編曲": "和田春彦"
+              }
+            },
+            {
+              "index": 3,
+              "title": "地球が生まれた日",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "ゲール語民謡/日本語詞:三浦徳子",
+                "作曲": "ゲール語民謡",
+                "編曲": "和田春彦"
+              }
+            },
+            {
+              "index": 4,
+              "title": "入っておいで この里に(オリジナル・カラオケ)",
+              "duration": "03:34",
+              "credits": {
+                "作詞": "アメリカ民謡/日本語詞:兵頭 剛",
+                "作曲": "アメリカ民謡",
+                "編曲": "和田春彦"
+              }
+            },
+            {
+              "index": 5,
+              "title": "この街で(オリジナル・カラオケ)",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "新井満",
+                "作曲": "新井満/三宮麻由子",
+                "編曲": "和田春彦"
+              }
+            },
+            {
+              "index": 6,
+              "title": "地球が生まれた日(オリジナル・カラオケ)",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "ゲール語民謡/日本語詞:三浦徳子",
+                "作曲": "ゲール語民謡",
+                "編曲": "和田春彦"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/images/2953be520b77da27e22f8add6f3b18984583b909.jpg",
+      "price": "￥1,222 (税抜価格 ￥1,111)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-2040",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "入っておいで この里に(Music Video)",
+              "duration": "03:36"
+            },
+            {
+              "index": 2,
+              "title": "この街で(Music Video New Ver.)",
+              "duration": "05:01"
+            },
+            {
+              "index": 3,
+              "title": "地球が生まれた日(Music Video)",
+              "duration": "04:20"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

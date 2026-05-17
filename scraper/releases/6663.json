@@ -1,0 +1,39 @@
+{
+  "id": 6663,
+  "url": "/release/6663/",
+  "title": "女子かしまし物語 (モーニング娘。'21 Ver.)",
+  "category": "配信",
+  "artist": "モーニング娘。'21",
+  "releaseDate": "2021.12.14",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/094822b7481a14e10e597a36e4932acbabdbc676.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "女子かしまし物語",
+              "duration": "05:18",
+              "suffix": "(モーニング娘。'21 Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "モーニング娘。'21"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1491"
+        }
+      ]
+    }
+  ]
+}

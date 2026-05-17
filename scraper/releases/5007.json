@@ -1,0 +1,145 @@
+{
+  "id": 5007,
+  "url": "/release/5007/",
+  "title": "The Girls Live Vol.27",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2016.11.9",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/d3bdcd72614486fd1d142882cd4f9b41fb44ac11.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "カラダだけが大人になったんじゃない",
+              "duration": "10:37",
+              "suffix": "【名物企画 衣装コーディネート】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice/コーディネーター 飯窪春菜(モーニング娘。'16)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "キャモン！〜主役は私だ！(お前もな！)〜",
+              "duration": "10:58",
+              "suffix": "【名物企画 衣装コーディネート】",
+              "credits": {
+                "作詞": "Mt.3",
+                "作曲": "Mt.3",
+                "出演": "チャオ ベッラ チンクエッティ/コーディネーター 石田亜佑美(モーニング娘。'16)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "オレンジライン",
+              "duration": "12:09",
+              "suffix": "【名物企画 衣装コーディネート】",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "出演": "Bitter & Sweet/コーディネーター 諸塚香奈実(チャオ ベッラ チンクエッティ)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "チョット愚直に！猪突猛進",
+              "duration": "12:36",
+              "suffix": "【名物企画 衣装コーディネート】",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "出演": "こぶしファクトリー/コーディネーター 佐々木莉佳子(アンジュルム)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Next is you!",
+              "duration": "04:33",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "NEXT YOU"
+              }
+            },
+            {
+              "index": 6,
+              "title": "一期一会",
+              "duration": "04:28",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "中島卓偉",
+                "出演": "チャオ ベッラ チンクエッティ"
+              }
+            },
+            {
+              "index": 7,
+              "title": "どうしよう、わたし",
+              "duration": "03:38",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "AKIRA",
+                "出演": "チャオ ベッラ チンクエッティ"
+              }
+            },
+            {
+              "index": 8,
+              "title": "ブギウギLOVE",
+              "duration": "03:35",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "出演": "カントリー・ガールズ"
+              }
+            },
+            {
+              "index": 9,
+              "title": "桜ナイトフィーバー",
+              "duration": "05:03",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "出演": "こぶしファクトリー"
+              }
+            },
+            {
+              "index": 10,
+              "title": "ハレルヤ",
+              "duration": "04:45",
+              "suffix": "【スタジオライブ集】",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "出演": "Bitter & Sweet"
+              }
+            },
+            {
+              "index": 11,
+              "title": "こぶしファクトリー「桜ナイトフィーバー」MV密着",
+              "duration": "02:12",
+              "credits": {
+                "出演": "こぶしファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1516"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "code": "EPDE-1096",
+  "url": "/release/detail/EPDE-1096/",
+  "source": "upfront",
+  "title": "雪肌草",
+  "category": "CDシングル",
+  "artist": "城之内早苗",
+  "releaseDate": "2002/02/27",
+  "label": "zetima",
+  "images": [
+    "/images/884a50503c05b6ed02fd4af8f5e2678453eddaf7.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/884a50503c05b6ed02fd4af8f5e2678453eddaf7.jpg",
+      "price": "￥1,175 (税抜価格 ￥1,068)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1096",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "雪肌草",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "弦哲也",
+                "編曲": "南郷達也"
+              }
+            },
+            {
+              "index": 2,
+              "title": "冬の旅路",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "弦哲也",
+                "編曲": "南郷達也"
+              }
+            },
+            {
+              "index": 3,
+              "title": "雪肌草(オリジナル・カラオケ)",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "弦哲也",
+                "編曲": "南郷達也"
+              }
+            },
+            {
+              "index": 4,
+              "title": "冬の旅路(オリジナル・カラオケ)",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "弦哲也",
+                "編曲": "南郷達也"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": null,
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "カセットテープシングル",
+          "catalogNo": "EPSE-1096",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "雪肌草",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "弦哲也",
+                "編曲": "南郷達也"
+              }
+            },
+            {
+              "index": 2,
+              "title": "冬の旅路",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "弦哲也",
+                "編曲": "南郷達也"
+              }
+            },
+            {
+              "index": 3,
+              "title": "雪肌草(オリジナル・カラオケ)",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "弦哲也",
+                "編曲": "南郷達也"
+              }
+            },
+            {
+              "index": 4,
+              "title": "冬の旅路(オリジナル・カラオケ)",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "弦哲也",
+                "編曲": "南郷達也"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

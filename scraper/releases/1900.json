@@ -1,0 +1,289 @@
+{
+  "id": 1900,
+  "url": "/release/1900/",
+  "title": "雄叫びボーイ WAO！/友達は友達なんだ！",
+  "category": "CDシングル",
+  "artist": "Berryz工房",
+  "releaseDate": "2010.3.3",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/upload/images/d85b1853c88a66ff7c47a3859e7e7e9183135c13.webp",
+    "/upload/images/444d43fdb43da31b154b6bdc7b5462542a1fa196.webp",
+    "/upload/images/7255503646612e34441b8810ff46faefe7806a42.webp",
+    "/upload/images/511e385cc0bb9aca6278e6c2d0f710dce07c8fb6.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/d85b1853c88a66ff7c47a3859e7e7e9183135c13.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "雄叫びボーイ WAO！",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "オダクラユウ",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "友達は友達なんだ！",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "オオバコウスケ",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "雄叫びボーイ WAO！",
+              "duration": "03:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "オダクラユウ",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 4,
+              "title": "友達は友達なんだ！",
+              "duration": "03:50",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "オオバコウスケ",
+                "歌": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5149"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "雄叫びボーイ WAO!",
+              "duration": "03:42",
+              "suffix": "(Close-up Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/444d43fdb43da31b154b6bdc7b5462542a1fa196.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "雄叫びボーイ WAO！",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "オダクラユウ",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "友達は友達なんだ！",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "オオバコウスケ",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "雄叫びボーイ WAO！",
+              "duration": "03:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "オダクラユウ",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 4,
+              "title": "友達は友達なんだ！",
+              "duration": "03:50",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "オオバコウスケ",
+                "歌": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5151"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "友達は友達なんだ！",
+              "duration": "04:07",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/7255503646612e34441b8810ff46faefe7806a42.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "雄叫びボーイ WAO！",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "オダクラユウ",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "友達は友達なんだ！",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "オオバコウスケ",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "雄叫びボーイ WAO！",
+              "duration": "03:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "オダクラユウ",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 4,
+              "title": "友達は友達なんだ！",
+              "duration": "03:49",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "オオバコウスケ",
+                "歌": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5153"
+        }
+      ],
+      "note": "イベント抽選シリアルナンバーカード封入"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/511e385cc0bb9aca6278e6c2d0f710dce07c8fb6.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "雄叫びボーイ WAO！",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "オダクラユウ",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "友達は友達なんだ！",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "オオバコウスケ",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "雄叫びボーイ WAO！",
+              "duration": "03:31",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "オダクラユウ",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 4,
+              "title": "友達は友達なんだ！",
+              "duration": "03:50",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "オオバコウスケ",
+                "歌": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5154"
+        }
+      ],
+      "note": "イナズマイレブンアニメプレミアムカード1種封入※初回プレス分のみ"
+    }
+  ]
+}

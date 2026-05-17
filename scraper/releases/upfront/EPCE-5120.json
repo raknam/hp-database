@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5120",
+  "url": "/release/detail/EPCE-5120/",
+  "source": "upfront",
+  "title": "This is 運命",
+  "category": "CDシングル",
+  "artist": "メロン記念日",
+  "releaseDate": "2001/10/11",
+  "label": "zetima",
+  "images": [
+    "/images/5d5137728ffa9cc8f0af249575276c16b87e9e7f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/5d5137728ffa9cc8f0af249575276c16b87e9e7f.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5120",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "This is 運命",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "新堂敦士＆つんく",
+                "作曲": "新堂敦士",
+                "編曲": "team124"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Wa! かっちょEなッ！",
+              "duration": "03:14",
+              "credits": {
+                "作詞": "新堂敦士",
+                "作曲": "新堂敦士",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 3,
+              "title": "This is 運命(Instrumental)",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "新堂敦士＆つんく",
+                "作曲": "新堂敦士",
+                "編曲": "team124"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

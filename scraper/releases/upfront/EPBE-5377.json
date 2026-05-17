@@ -1,0 +1,63 @@
+{
+  "code": "EPBE-5377",
+  "url": "/release/detail/EPBE-5377/",
+  "source": "upfront",
+  "title": "フィギュア",
+  "category": "DVD",
+  "artist": "高橋愛",
+  "releaseDate": "2010/06/02",
+  "label": "zetima",
+  "images": [
+    "/images/a43db84e2698e009d59e051baee7c240181b9417.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/a43db84e2698e009d59e051baee7c240181b9417.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5377",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "00:33"
+            },
+            {
+              "index": 2,
+              "title": "A girl at cafe",
+              "duration": "02:59"
+            },
+            {
+              "index": 3,
+              "title": "Date with her",
+              "duration": "07:22"
+            },
+            {
+              "index": 4,
+              "title": "Billiards",
+              "duration": "04:34"
+            },
+            {
+              "index": 5,
+              "title": "To the beach",
+              "duration": "08:59"
+            },
+            {
+              "index": 6,
+              "title": "Making of 『形』",
+              "duration": "25:11"
+            },
+            {
+              "index": 7,
+              "title": "Ending",
+              "duration": "04:50"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

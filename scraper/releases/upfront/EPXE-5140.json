@@ -1,0 +1,68 @@
+{
+  "code": "EPXE-5140",
+  "url": "/release/detail/EPXE-5140/",
+  "source": "upfront",
+  "title": "等身大",
+  "category": "BD",
+  "artist": "船木結",
+  "releaseDate": "2018/09/12",
+  "label": "zetima",
+  "images": [
+    "/images/44c22198ec8883b8f6595d3be323673562970f69.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/44c22198ec8883b8f6595d3be323673562970f69.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5140",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "グアム到着",
+              "duration": "02:50"
+            },
+            {
+              "index": 2,
+              "title": "海だ！",
+              "duration": "08:57"
+            },
+            {
+              "index": 3,
+              "title": "初めてのお買い物",
+              "duration": "11:39"
+            },
+            {
+              "index": 4,
+              "title": "BBQ",
+              "duration": "03:44"
+            },
+            {
+              "index": 5,
+              "title": "公園で",
+              "duration": "10:41"
+            },
+            {
+              "index": 6,
+              "title": "帰る時間",
+              "duration": "03:03"
+            },
+            {
+              "index": 7,
+              "title": "写真集「結色」メイキング映像",
+              "duration": "12:08"
+            },
+            {
+              "index": 8,
+              "title": "エンディング",
+              "duration": "02:09"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

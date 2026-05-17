@@ -1,0 +1,102 @@
+{
+  "code": "EPCE-5237",
+  "url": "/release/detail/EPCE-5237/",
+  "source": "upfront",
+  "title": "Go Girl 〜恋のヴィクトリー〜",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2003/11/06",
+  "label": "zetima",
+  "images": [
+    "/images/a1ad5aa612ec252189aa00de74ee192f80b11624.jpg",
+    "/images/5fb6b0c4b2cc1bb725ef825e79ce9870f3d1f366.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回盤】",
+      "image": "/images/a1ad5aa612ec252189aa00de74ee192f80b11624.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5237",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Go Girl 〜恋のヴィクトリー〜",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋ING",
+              "duration": "05:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Go Girl 〜恋のヴィクトリー〜(Instrumental)",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/5fb6b0c4b2cc1bb725ef825e79ce9870f3d1f366.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5238",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Go Girl 〜恋のヴィクトリー〜",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋ING",
+              "duration": "05:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Go Girl 〜恋のヴィクトリー〜(Instrumental)",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

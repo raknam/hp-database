@@ -1,0 +1,51 @@
+{
+  "code": "PKBP-5038",
+  "url": "/release/detail/PKBP-5038/",
+  "source": "upfront",
+  "title": "シングルV「ギャグ100回分愛してください」",
+  "category": "DVDシングルV",
+  "artist": "Berryz工房",
+  "releaseDate": "2005/12/07",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/674d3fec1ba7922c25080189ed105bb123c16f27.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/674d3fec1ba7922c25080189ed105bb123c16f27.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "PKBP-5038",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ギャグ100回分愛してください",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ギャグ100回分愛してください(Dance Shot Ver.)",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "12:31"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

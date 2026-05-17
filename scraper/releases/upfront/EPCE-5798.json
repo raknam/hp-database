@@ -1,0 +1,108 @@
+{
+  "code": "EPCE-5798",
+  "url": "/release/detail/EPCE-5798/",
+  "source": "upfront",
+  "title": "partenza",
+  "category": "CDミニアルバム",
+  "artist": "Buono!",
+  "releaseDate": "2011/08/10",
+  "label": "zetima",
+  "images": [
+    "/images/be9f13e908eb16cc95a8a701514ebc7bbcad9090.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/be9f13e908eb16cc95a8a701514ebc7bbcad9090.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "CDミニアルバム",
+          "catalogNo": "EPCE-5798",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "partenza〜レッツゴー！！！〜",
+              "duration": "04:59",
+              "credits": {
+                "作詞": "NaNa★MUSiC",
+                "作曲": "NaNa★MUSiC、Sunny Boy",
+                "編曲": "Sunny Boy"
+              }
+            },
+            {
+              "index": 2,
+              "title": "雑草のうた",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "井上慎二郎",
+                "編曲": "井上慎二郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "フランキンセンスΨ",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "BOUNCEBACK",
+                "作曲": "BOUNCEBACK",
+                "編曲": "BOUNCEBACK"
+              }
+            },
+            {
+              "index": 4,
+              "title": "My alright sky",
+              "duration": "05:54",
+              "credits": {
+                "作詞": "林よしみ",
+                "作曲": "林よしみ",
+                "編曲": "安岡洋一郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "夏ダカラ！",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "今井千尋",
+                "編曲": "石崎光"
+              }
+            },
+            {
+              "index": 6,
+              "title": "キアオラ・グラシャス・ありがと",
+              "duration": "03:16",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "八木雄一",
+                "編曲": "八木雄一"
+              }
+            },
+            {
+              "index": 7,
+              "title": "JUICY HE@RT",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "おのりく",
+                "作曲": "HA",
+                "編曲": "土肥真生"
+              }
+            },
+            {
+              "index": 8,
+              "title": "1/3の純情な感情",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "SIAM SHADE",
+                "作曲": "SIAM SHADE",
+                "編曲": "土肥真生"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

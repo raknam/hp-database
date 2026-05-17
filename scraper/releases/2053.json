@@ -1,0 +1,83 @@
+{
+  "id": 2053,
+  "url": "/release/2053/",
+  "title": "海風",
+  "category": "DVD",
+  "artist": "矢島舞美",
+  "releaseDate": "2011.3.30",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/cf0bce64da37fb3e468e25eebfd4444693f89cc6.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Morning",
+              "duration": "15:25",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "In the Room",
+              "duration": "09:49",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Garden",
+              "duration": "09:44",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Beach",
+              "duration": "06:47",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Evening",
+              "duration": "11:24",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "nterview",
+              "duration": "08:51",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Ending",
+              "duration": "01:08",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1073"
+        }
+      ]
+    }
+  ]
+}

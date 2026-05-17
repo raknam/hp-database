@@ -1,0 +1,75 @@
+{
+  "id": 5090,
+  "url": "/release/5090/",
+  "title": "Greeting〜小関舞〜",
+  "category": "BD",
+  "artist": "小関舞",
+  "releaseDate": "2016.4.28",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/b5ac4560c5c7d8290799679eddf1f1205b0a888b.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Going to school",
+              "duration": "08:16",
+              "credits": {
+                "出演": "小関舞(カントリー・ガールズ)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "One on one",
+              "duration": "14:42",
+              "credits": {
+                "出演": "小関舞(カントリー・ガールズ)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Interview with Mai Ozeki",
+              "duration": "09:12",
+              "credits": {
+                "出演": "小関舞(カントリー・ガールズ)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Sweet hunter",
+              "duration": "10:37",
+              "credits": {
+                "出演": "小関舞(カントリー・ガールズ)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "The Making Of The Day",
+              "duration": "05:17",
+              "credits": {
+                "出演": "小関舞(カントリー・ガールズ)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "03:08",
+              "credits": {
+                "出演": "小関舞(カントリー・ガールズ)"
+              }
+            }
+          ],
+          "catalogNo": "UFXW-2012"
+        }
+      ]
+    }
+  ]
+}

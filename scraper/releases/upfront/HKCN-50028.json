@@ -1,0 +1,58 @@
+{
+  "code": "HKCN-50028",
+  "url": "/release/detail/HKCN-50028/",
+  "source": "upfront",
+  "title": "恋の花",
+  "category": "CDシングル",
+  "artist": "安倍なつみ",
+  "releaseDate": "2005/08/31",
+  "label": "hachama",
+  "images": [
+    "/images/e4af2875b03ff69e0007cf22411c96848260391c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/e4af2875b03ff69e0007cf22411c96848260391c.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50028",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋の花",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "BULGE",
+                "作曲": "BULGE",
+                "編曲": "BULGE"
+              }
+            },
+            {
+              "index": 2,
+              "title": "愛ひとひら",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "BULGE",
+                "作曲": "たいせー",
+                "編曲": "たいせー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋の花(Instrumental)",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "BULGE",
+                "作曲": "BULGE",
+                "編曲": "BULGE"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

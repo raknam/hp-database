@@ -1,0 +1,59 @@
+{
+  "id": 2221,
+  "url": "/release/2221/",
+  "title": "ゴメンナサイ",
+  "category": "DVD",
+  "artist": "Buono!",
+  "releaseDate": "2012.2.8",
+  "label": "バップ",
+  "images": [
+    "/upload/images/7dc0517c6ed08581c819e55bf39c46e21f404c0e.webp",
+    "/resources/images/foundation/release-placeholder.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【DVD豪華版】",
+      "image": "/upload/images/7dc0517c6ed08581c819e55bf39c46e21f404c0e.webp",
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ゴメンナサイ",
+              "duration": "00:00",
+              "credits": {
+                "出演": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "VPBT-13665"
+        }
+      ],
+      "note": "【DVD豪華版】ブックレット予定"
+    },
+    {
+      "name": "【DVD通常版】",
+      "image": "/resources/images/foundation/release-placeholder.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ゴメンナサイ",
+              "duration": "00:00",
+              "credits": {
+                "出演": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "VPBT-13666"
+        }
+      ],
+      "note": "【DVD通常版】ブックレット予定"
+    }
+  ]
+}

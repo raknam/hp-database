@@ -1,0 +1,61 @@
+{
+  "id": 3035,
+  "url": "/release/3035/",
+  "title": "ドアの向こうでBellが鳴ってた",
+  "category": "CDシングル",
+  "artist": "飯田圭織",
+  "releaseDate": "2004.7.28",
+  "label": "地中海レーベル",
+  "images": [
+    "/upload/images/e486af277a9c0fa9311846c83da0fabe798bf504.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ドアの向こうでBellが鳴ってた",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく",
+                "編曲": "馬飼野康二",
+                "歌": "飯田圭織"
+              }
+            },
+            {
+              "index": 2,
+              "title": "泣かずにいられない私です",
+              "duration": "03:41",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく",
+                "編曲": "馬飼野康二",
+                "歌": "飯田圭織"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ドアの向こうでBellが鳴ってた",
+              "duration": "04:11",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "つんく",
+                "編曲": "馬飼野康二",
+                "歌": "飯田圭織"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-2025"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": 619,
+  "url": "/release/619/",
+  "title": "ハロー！プロジェクト ラジオドラマ大阪編 Vol.3",
+  "category": "CDアルバム",
+  "artist": "V.A.",
+  "releaseDate": "2006.7.26",
+  "label": "zetima",
+  "images": [
+    "/upload/images/0ce69834fd709937a8966d87858d8c35743acd2a.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「真夜中の迷走タクシー」",
+              "duration": "47:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "歌": "安倍なつみ・飯田圭織・保田圭・アヤカ(ココナッツ娘。)・ あさみ(カントリー娘。)・萩原舞(℃-ute)他"
+              }
+            },
+            {
+              "index": 2,
+              "title": "＜特典＞ インタビュー",
+              "duration": "01:19",
+              "credits": {
+                "歌": "安倍なつみ"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5417"
+        },
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「ガール☆ドライバー」",
+              "duration": "48:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "歌": "藤本美貴(モーニング娘。)・道重さゆみ(モーニング娘。)・里田まい(カントリー娘。)・鈴木愛理(℃-ute)他"
+              }
+            },
+            {
+              "index": 2,
+              "title": "＜特典＞ インタビュー",
+              "duration": "02:08",
+              "credits": {
+                "歌": "里田まい・道重さゆみ・藤本美貴"
+              }
+            },
+            {
+              "index": 3,
+              "title": "＜特典＞ NG集",
+              "duration": "02:33",
+              "credits": {
+                "歌": "V.A."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

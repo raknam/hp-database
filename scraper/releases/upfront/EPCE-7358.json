@@ -1,0 +1,88 @@
+{
+  "code": "EPCE-7358",
+  "url": "/release/detail/EPCE-7358/",
+  "source": "upfront",
+  "title": "Яe:Start",
+  "category": "CDミニアルバム",
+  "artist": "LoVendoЯ",
+  "releaseDate": "2017/09/06",
+  "label": "zetima",
+  "images": [
+    "/images/624878c20b7e377e58063b42d699379a1c9a2f6f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/624878c20b7e377e58063b42d699379a1c9a2f6f.jpg",
+      "price": "￥2,750 (税抜価格 ￥2,500)",
+      "discs": [
+        {
+          "type": "CDミニアルバム",
+          "catalogNo": "EPCE-7358",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ぶっぱなせ！ Baby, I Love Ya!",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ギラギラ伝説",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "田中れいな",
+                "作曲": "千聖",
+                "編曲": "河合英嗣"
+              }
+            },
+            {
+              "index": 3,
+              "title": "シンデレラタイム♪",
+              "duration": "03:45",
+              "credits": {
+                "作詞": "田中れいな",
+                "作曲": "神谷礼",
+                "編曲": "神谷礼"
+              }
+            },
+            {
+              "index": 4,
+              "title": "出発の鐘",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "岡田万里奈",
+                "作曲": "岡田万里奈",
+                "編曲": "河合英嗣"
+              }
+            },
+            {
+              "index": 5,
+              "title": "GAME",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "田中れいな",
+                "作曲": "千聖",
+                "編曲": "河合英嗣"
+              }
+            },
+            {
+              "index": 6,
+              "title": "CARRY ON",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "Kohei by SIMONSAYZ",
+                "作曲": "Kohei by SIMONSAYZ",
+                "編曲": "Kohei by SIMONSAYZ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

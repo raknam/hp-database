@@ -1,0 +1,67 @@
+{
+  "id": 5091,
+  "url": "/release/5091/",
+  "title": "Greeting〜浜浦彩乃・和田桜子〜",
+  "category": "BD",
+  "artist": "浜浦彩乃/和田桜子",
+  "releaseDate": "2016.6.21",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/48e843a805fe0c20e2a732be1f96069acd48c126.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opeing",
+              "duration": "01:07",
+              "credits": {
+                "出演": "浜浦彩乃・和田桜子(こぶしファクトリー)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "New friends",
+              "duration": "20:16",
+              "credits": {
+                "出演": "浜浦彩乃・和田桜子(こぶしファクトリー)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "After school & Interview",
+              "duration": "26:12",
+              "credits": {
+                "出演": "浜浦彩乃・和田桜子(こぶしファクトリー)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Girls sunset",
+              "duration": "08:24",
+              "credits": {
+                "出演": "浜浦彩乃・和田桜子(こぶしファクトリー)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Making",
+              "duration": "15:01",
+              "credits": {
+                "出演": "浜浦彩乃・和田桜子(こぶしファクトリー)"
+              }
+            }
+          ],
+          "catalogNo": "UFXW-2013"
+        }
+      ]
+    }
+  ]
+}

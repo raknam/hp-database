@@ -1,0 +1,62 @@
+{
+  "id": 1701,
+  "url": "/release/1701/",
+  "title": "シングルV「ロッタラ ロッタラ」",
+  "category": "DVDシングルV",
+  "artist": "Buono!",
+  "releaseDate": "2008.12.3",
+  "label": "ポニーキャニオン",
+  "images": [
+    "/upload/images/331e2e949b50c33dc865c04893cc545495d1805f.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ロッタラ ロッタラ",
+              "duration": "00:00",
+              "suffix": "(Music Clip)",
+              "credits": {
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ロッタラ ロッタラ",
+              "duration": "00:00",
+              "suffix": "(TV Program Version)",
+              "credits": {
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ロッタラ ロッタラ",
+              "duration": "00:00",
+              "suffix": "(Close Up Version)",
+              "credits": {
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 4,
+              "title": "PV・ジャケット撮影メイキング Part.2",
+              "duration": "00:00",
+              "credits": {
+                "出演": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "PCBP-51922"
+        }
+      ]
+    }
+  ]
+}

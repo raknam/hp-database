@@ -1,0 +1,74 @@
+{
+  "id": 2074,
+  "url": "/release/2074/",
+  "title": "ハロプロ！TIME Vol.12",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012.7.9",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/b62c2cdbbe0a5930af439b1694cddf9b6d1ef554.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "光井TIME",
+              "duration": "08:15",
+              "suffix": "「ピョコピョコ ウルトラ」ひよこの衣装でMV撮影！！",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "6期TIME",
+              "duration": "06:31",
+              "suffix": "6期コンビで初ディナーショー＆超ハイテンショントーク！！",
+              "credits": {
+                "出演": "道重さゆみ・田中れいな(モーニング娘。)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "10期TIME",
+              "duration": "16:44",
+              "suffix": "10期メンバーのリハーサル＆初コンサートに密着！！",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 4,
+              "title": "まことTIME",
+              "duration": "21:27",
+              "suffix": "Hello! Projectコンサートでの裏側で2012年の目標＆運試し",
+              "credits": {
+                "作詞": "つんく/本上 遼",
+                "作曲": "つんく/本上 遼",
+                "出演": "Hello! Project"
+              }
+            },
+            {
+              "index": 5,
+              "title": "光井TIME",
+              "duration": "16:42",
+              "suffix": "ピョコピョコ ウルトラ巻きに挑戦！！",
+              "credits": {
+                "出演": "光井愛佳・譜久村聖・鈴木香音・飯窪春菜・石田亜佑美・工藤遥(モーニング娘)"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1166"
+        }
+      ]
+    }
+  ]
+}

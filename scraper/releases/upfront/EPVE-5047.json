@@ -1,0 +1,48 @@
+{
+  "code": "EPVE-5047",
+  "url": "/release/detail/EPVE-5047/",
+  "source": "upfront",
+  "title": "シングルV「げんき印の大盛りソング/お菓子つくっておっかすぃ～！」",
+  "category": "VHSシングルV",
+  "artist": "ミニモニ｡と高橋愛+4KIDS",
+  "releaseDate": "2002/11/27",
+  "label": "zetima",
+  "images": [
+    "/images/5148c272b36dc8c09dc75524302e5d47b2307047.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/5148c272b36dc8c09dc75524302e5d47b2307047.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "VHSシングルV",
+          "catalogNo": "EPVE-5047",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "げんき印の大盛りソング",
+              "duration": "04:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 2,
+              "title": "お菓子つくっておっかすぃ～！",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "渡部チェル"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

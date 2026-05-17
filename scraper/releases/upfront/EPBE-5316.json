@@ -1,0 +1,73 @@
+{
+  "code": "EPBE-5316",
+  "url": "/release/detail/EPBE-5316/",
+  "source": "upfront",
+  "title": "アロハロ！2 新垣里沙 DVD",
+  "category": "DVD",
+  "artist": "新垣里沙",
+  "releaseDate": "2009/01/21",
+  "label": "zetima",
+  "images": [
+    "/images/05a7fbaacd2c70333a832e63e149158ab426a24f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/05a7fbaacd2c70333a832e63e149158ab426a24f.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5316",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:33"
+            },
+            {
+              "index": 2,
+              "title": "Taxi",
+              "duration": "05:02"
+            },
+            {
+              "index": 3,
+              "title": "Airplane",
+              "duration": "01:03"
+            },
+            {
+              "index": 4,
+              "title": "Airplane",
+              "duration": "06:08"
+            },
+            {
+              "index": 5,
+              "title": "Drive",
+              "duration": "11:37"
+            },
+            {
+              "index": 6,
+              "title": "Ship",
+              "duration": "09:47"
+            },
+            {
+              "index": 7,
+              "title": "Dinner",
+              "duration": "06:09"
+            },
+            {
+              "index": 8,
+              "title": "Room",
+              "duration": "14:23"
+            },
+            {
+              "index": 9,
+              "title": "Ending",
+              "duration": "01:01"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

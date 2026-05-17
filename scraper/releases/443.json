@@ -1,0 +1,115 @@
+{
+  "id": 443,
+  "url": "/release/443/",
+  "title": "萩原舞 in 八丈島",
+  "category": "DVD",
+  "artist": "萩原舞",
+  "releaseDate": "2009.10.21",
+  "label": "zetima",
+  "images": [
+    "/upload/images/0dea18176dbe2cb057972c4eb18fe97c6397f777.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "03:32",
+              "credits": {
+                "出演": "萩原舞(℃-ute)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "八丈島日記 1日目 写真集撮影",
+              "duration": "05:54",
+              "credits": {
+                "出演": "萩原舞(℃-ute)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "八丈島日記 2日目 写真集撮影",
+              "duration": "04:07",
+              "credits": {
+                "出演": "萩原舞(℃-ute)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "八丈島日記 2日目 黄八丈織物体験",
+              "duration": "04:23",
+              "credits": {
+                "出演": "萩原舞(℃-ute)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "八丈島日記 3日目 プール遊び",
+              "duration": "05:10",
+              "credits": {
+                "出演": "萩原舞(℃-ute)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "舞ちゃんへの質問コーナー",
+              "duration": "03:37",
+              "credits": {
+                "出演": "萩原舞(℃-ute)"
+              }
+            },
+            {
+              "index": 7,
+              "title": "八丈島日記 3日目 海釣り体験",
+              "duration": "11:17",
+              "credits": {
+                "出演": "萩原舞(℃-ute)"
+              }
+            },
+            {
+              "index": 8,
+              "title": "八丈島日記 3日目 お一人様BBQ",
+              "duration": "10:25",
+              "credits": {
+                "出演": "萩原舞(℃-ute)"
+              }
+            },
+            {
+              "index": 9,
+              "title": "八丈島日記 3日目 八丈太鼓体験",
+              "duration": "08:00",
+              "credits": {
+                "出演": "萩原舞(℃-ute)"
+              }
+            },
+            {
+              "index": 10,
+              "title": "八丈島日記 NG集",
+              "duration": "01:48",
+              "credits": {
+                "出演": "萩原舞(℃-ute)"
+              }
+            },
+            {
+              "index": 11,
+              "title": "写真集 九十九里での撮影風景",
+              "duration": "03:22",
+              "credits": {
+                "出演": "萩原舞(℃-ute)"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5356"
+        }
+      ]
+    }
+  ]
+}

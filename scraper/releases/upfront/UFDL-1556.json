@@ -1,0 +1,78 @@
+{
+  "code": "UFDL-1556",
+  "url": "/release/detail/UFDL-1556/",
+  "source": "upfront",
+  "title": "キケンな魔法/ビースト！(Special Edition)",
+  "category": "配信",
+  "artist": "宮本佳林",
+  "releaseDate": "2025/06/11",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/7dd53b134ca11960a2a3f8bc8591e080b789edb7.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7dd53b134ca11960a2a3f8bc8591e080b789edb7.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1556",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "キケンな魔法",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "渡辺和紀",
+                "編曲": "戸嶋友祐"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ビースト！",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "平井佑果",
+                "作曲": "フジノタカフミ",
+                "編曲": "宮原康平/フジノタカフミ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "SUPER IDOL -Especial-(Single Ver.)",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "石黑剛/常楽寺澪",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ハートビジョン",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "卯乃",
+                "作曲": "卯乃",
+                "編曲": "卯乃"
+              }
+            },
+            {
+              "index": 5,
+              "title": "トランジットタイム",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "平井佑果",
+                "作曲": "藤田卓也",
+                "編曲": "藤田卓也"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

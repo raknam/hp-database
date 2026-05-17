@@ -1,0 +1,78 @@
+{
+  "code": "EPCE-5808",
+  "url": "/release/detail/EPCE-5808/",
+  "source": "upfront",
+  "title": "3号線",
+  "category": "CDシングル",
+  "artist": "中島卓偉",
+  "releaseDate": "2011/11/02",
+  "label": "zetima",
+  "images": [
+    "/images/2abc73c2d51831f5535f2adc466d9a2a702b1601.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/2abc73c2d51831f5535f2adc466d9a2a702b1601.jpg",
+      "price": "￥1,572 (税抜価格 ￥1,429)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5808",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "3号線",
+              "duration": "05:53",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉/弦編曲:雨宮麻未子"
+              }
+            },
+            {
+              "index": 2,
+              "title": "キャンディの涙",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 3,
+              "title": "4時20分",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 4,
+              "title": "LONG WAY",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 5,
+              "title": "3号線-vocal off version-",
+              "duration": "05:53",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉/弦編曲:雨宮麻未子"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

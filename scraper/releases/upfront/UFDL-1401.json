@@ -1,0 +1,48 @@
+{
+  "code": "UFDL-1401",
+  "url": "/release/detail/UFDL-1401/",
+  "source": "upfront",
+  "title": "NEO SUGAR SUGAR YOU",
+  "category": "配信シングル",
+  "artist": "吉川友",
+  "releaseDate": "2018/05/23",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/4314942852a3ab302b78d17da5c3f7d189b412c2.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/4314942852a3ab302b78d17da5c3f7d189b412c2.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信シングル",
+          "catalogNo": "UFDL-1401",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "NEO SUGAR SUGAR YOU",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "理姫",
+                "作曲": "奥脇達也",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 2,
+              "title": "NEO SUGAR SUGAR YOU(Instrumental)",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "理姫",
+                "作曲": "奥脇達也",
+                "編曲": "michitomo"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

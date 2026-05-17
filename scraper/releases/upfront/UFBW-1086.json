@@ -1,0 +1,83 @@
+{
+  "code": "UFBW-1086",
+  "url": "/release/detail/UFBW-1086/",
+  "source": "upfront",
+  "title": "万才！ガッタス Gatas Long Interview",
+  "category": "DVD",
+  "artist": "Gatas Brilhantes H.P.",
+  "releaseDate": "2011/05/10",
+  "label": "hachama",
+  "images": [
+    "/images/d3a352afee664896f1a0794fc207a3cd60b8be82.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d3a352afee664896f1a0794fc207a3cd60b8be82.jpg",
+      "price": "￥4,715 (税抜価格 ￥4,286)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1086",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "序章",
+              "duration": "02:12"
+            },
+            {
+              "index": 2,
+              "title": "紺野スタメン事件",
+              "duration": "04:41"
+            },
+            {
+              "index": 3,
+              "title": "「キャプテン愛！！」",
+              "duration": "09:07"
+            },
+            {
+              "index": 4,
+              "title": "「共生を計る勝負師！！」",
+              "duration": "06:17"
+            },
+            {
+              "index": 5,
+              "title": "「後ろめたさに苦しむ」",
+              "duration": "07:30"
+            },
+            {
+              "index": 6,
+              "title": "一回目の卒業",
+              "duration": "03:18"
+            },
+            {
+              "index": 7,
+              "title": "勃発！ハワイ事件",
+              "duration": "05:18"
+            },
+            {
+              "index": 8,
+              "title": "「壊し屋と呼ばれた女！！」",
+              "duration": "05:40"
+            },
+            {
+              "index": 9,
+              "title": "「助っ人ではない！！」",
+              "duration": "09:51"
+            },
+            {
+              "index": 10,
+              "title": "激闘！十条FC戦！！",
+              "duration": "07:38"
+            },
+            {
+              "index": 11,
+              "title": "「卒業！！」",
+              "duration": "10:11"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

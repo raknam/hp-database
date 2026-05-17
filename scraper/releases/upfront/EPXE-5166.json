@@ -1,0 +1,572 @@
+{
+  "code": "EPXE-5166",
+  "url": "/release/detail/EPXE-5166/",
+  "source": "upfront",
+  "title": "辛夷音楽映像集",
+  "category": "BD",
+  "artist": "こぶしファクトリー",
+  "releaseDate": "2020/03/25",
+  "label": "zetima",
+  "images": [
+    "/images/d9ce539fdad841916a51b4fece64c3ba7a96a8fe.jpg"
+  ],
+  "editions": [
+    {
+      "name": "＜円盤壱＞",
+      "image": "/images/d9ce539fdad841916a51b4fece64c3ba7a96a8fe.jpg",
+      "price": "￥5,240 (税抜価格 ￥4,764)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5166",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "念には念(LIVE MUSIC VIDEO)",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "アベショー",
+                "作曲": "アベショー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "サバイバ－(REC & DANCE SHOT)",
+              "duration": "03:17",
+              "credits": {
+                "作詞": "太田善也",
+                "作曲": "和田俊輔"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ドスコイ！ケンキョにダイタン(Music Video)",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ドスコイ！ケンキョにダイタン(Dance Shot Ver.)",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ドスコイ！ケンキョにダイタン(Close-up Ver.)",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ラーメン大好き小泉さんの唄(Music Video)",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "シャ乱Q"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ラーメン大好き小泉さんの唄(Dance Shot Ver.)",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "シャ乱Q"
+              }
+            },
+            {
+              "index": 8,
+              "title": "ラーメン大好き小泉さんの唄(Close-up Ver.)",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "シャ乱Q"
+              }
+            },
+            {
+              "index": 9,
+              "title": "念には念(念入り Ver.)(Music Video)",
+              "duration": "04:57",
+              "credits": {
+                "作詞": "アベショー",
+                "作曲": "アベショー"
+              }
+            },
+            {
+              "index": 10,
+              "title": "念には念(念入り Ver.)(Dance Shot Ver.)",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "アベショー",
+                "作曲": "アベショー"
+              }
+            },
+            {
+              "index": 11,
+              "title": "念には念(念入り Ver.)(Dance Shot Ver.Ⅱ)",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "アベショー",
+                "作曲": "アベショー"
+              }
+            },
+            {
+              "index": 12,
+              "title": "桜ナイトフィーバー(Music Video)",
+              "duration": "05:54",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN"
+              }
+            },
+            {
+              "index": 13,
+              "title": "桜ナイトフィーバー(フィーバー Ver.)",
+              "duration": "05:17",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN"
+              }
+            },
+            {
+              "index": 14,
+              "title": "桜ナイトフィーバー(Dance Shot Ver.)",
+              "duration": "05:20",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN"
+              }
+            },
+            {
+              "index": 15,
+              "title": "桜ナイトフィーバー(Close-up Ver.)",
+              "duration": "05:20",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN"
+              }
+            },
+            {
+              "index": 16,
+              "title": "チョット愚直に！猪突猛進(Music Video)",
+              "duration": "05:28",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一"
+              }
+            },
+            {
+              "index": 17,
+              "title": "チョット愚直に！猪突猛進(Dance Shot Ver.)",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一"
+              }
+            },
+            {
+              "index": 18,
+              "title": "チョット愚直に！猪突猛進(Close-up Ver.)",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一"
+              }
+            },
+            {
+              "index": 19,
+              "title": "押忍！こぶし魂(Music Video)",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 20,
+              "title": "押忍！こぶし魂(Dance Shot Ver.)",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 21,
+              "title": "押忍！こぶし魂(Close-up Ver.)",
+              "duration": "03:32",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 22,
+              "title": "サンバ！こぶしジャネイロ(Music Video)",
+              "duration": "05:28",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 23,
+              "title": "サンバ！こぶしジャネイロ(Dance Shot Ver.)",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 24,
+              "title": "サンバ！こぶしジャネイロ(Close-up Ver.)",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 25,
+              "title": "バッチ来い青春！(Music Video)",
+              "duration": "05:22",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン/炭竃智弘"
+              }
+            },
+            {
+              "index": 26,
+              "title": "バッチ来い青春！(Dance Shot Ver.)",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン/炭竃智弘"
+              }
+            },
+            {
+              "index": 27,
+              "title": "バッチ来い青春！(Close-up Ver.)",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン/炭竃智弘"
+              }
+            },
+            {
+              "index": 28,
+              "title": "オラはにんきもの(Music Video)",
+              "duration": "03:41",
+              "credits": {
+                "作詞": "里乃塚玲央",
+                "作曲": "小杉保夫"
+              }
+            },
+            {
+              "index": 29,
+              "title": "オラはにんきもの(Dance Shot Ver.)",
+              "duration": "03:33",
+              "credits": {
+                "作詞": "里乃塚玲央",
+                "作曲": "小杉保夫"
+              }
+            },
+            {
+              "index": 30,
+              "title": "オラはにんきもの(Close-up Ver.)",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "里乃塚玲央",
+                "作曲": "小杉保夫"
+              }
+            },
+            {
+              "index": 31,
+              "title": "辛夷の花(Music Video)",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 32,
+              "title": "シャララ！やれるはずさ(Music Video)",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 33,
+              "title": "シャララ！やれるはずさ(Dance Shot Ver.)",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 34,
+              "title": "シャララ！やれるはずさ(Close-up Ver.)",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 35,
+              "title": "エエジャナイカ ニンジャナイカ(Music Video)",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 36,
+              "title": "エエジャナイカ ニンジャナイカ(Dance Shot Ver.)",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 37,
+              "title": "エエジャナイカ ニンジャナイカ(Close-up Ver.)",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "＜円盤弐＞",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5167",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "これからだ！(Music Video)",
+              "duration": "05:43",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "横健介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "これからだ！(Front Shot Ver.)",
+              "duration": "05:04",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "横健介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "これからだ！(Close-up Ver.)",
+              "duration": "05:04",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "横健介"
+              }
+            },
+            {
+              "index": 4,
+              "title": "明日テンキになあれ(Music Video)",
+              "duration": "06:26",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン"
+              }
+            },
+            {
+              "index": 5,
+              "title": "明日テンキになあれ(Front Shot Ver.)",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン"
+              }
+            },
+            {
+              "index": 6,
+              "title": "明日テンキになあれ(Close-up Ver.)",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "イイジマケン"
+              }
+            },
+            {
+              "index": 7,
+              "title": "きっと私は(Music Video)",
+              "duration": "06:11",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：U.M.E.D.Y.",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 8,
+              "title": "きっと私は(Dance Shot Ver.)",
+              "duration": "05:30",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：U.M.E.D.Y.",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 9,
+              "title": "きっと私は(Close-up Ver.)",
+              "duration": "05:27",
+              "credits": {
+                "作詞": "つんく/Rapアレンジ：U.M.E.D.Y.",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 10,
+              "title": "ナセバナル(Music Video)",
+              "duration": "04:51",
+              "credits": {
+                "作詞": "及川眠子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 11,
+              "title": "ナセバナル(Close-up Ver.)",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "及川眠子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 12,
+              "title": "Oh No 懊悩(Music Video)",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 13,
+              "title": "Oh No 懊悩(Dance Shot Ver.)",
+              "duration": "03:44",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 14,
+              "title": "Oh No 懊悩(Close-up Ver.)",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 15,
+              "title": "ハルウララ(Music Video)",
+              "duration": "05:31",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "原田雄一"
+              }
+            },
+            {
+              "index": 16,
+              "title": "ハルウララ(Dance Shot Ver.)",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "原田雄一"
+              }
+            },
+            {
+              "index": 17,
+              "title": "ハルウララ(Close-up Ver.)",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "原田雄一"
+              }
+            },
+            {
+              "index": 18,
+              "title": "青春の花(Music Video)",
+              "duration": "05:29",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 19,
+              "title": "青春の花(Close-up Ver.)",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 20,
+              "title": "スタートライン(Music Video)",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 21,
+              "title": "スタートライン(Dance Shot Ver.)",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 22,
+              "title": "スタートライン(5Shot Ver.)",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

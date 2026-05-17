@@ -1,0 +1,99 @@
+{
+  "code": "EPBE-5317",
+  "url": "/release/detail/EPBE-5317/",
+  "source": "upfront",
+  "title": "劇団ゲキハロ第4回公演『携帯小説家』",
+  "category": "DVD",
+  "artist": "℃-ute",
+  "releaseDate": "2009/01/21",
+  "label": "zetima",
+  "images": [
+    "/images/6e5816975746fb3dfdfa6d3b37fda123dca79eeb.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/6e5816975746fb3dfdfa6d3b37fda123dca79eeb.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5317",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プロローグ",
+              "duration": "04:33"
+            },
+            {
+              "index": 2,
+              "title": "【サムライ☆ベイビー】",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "太田善也",
+                "作曲": "たいせい"
+              }
+            },
+            {
+              "index": 3,
+              "title": "1場",
+              "duration": "09:05"
+            },
+            {
+              "index": 4,
+              "title": "2場",
+              "duration": "25:58"
+            },
+            {
+              "index": 5,
+              "title": "3場",
+              "duration": "26:58"
+            },
+            {
+              "index": 6,
+              "title": "4場",
+              "duration": "20:06"
+            },
+            {
+              "index": 7,
+              "title": "エピローグ",
+              "duration": "13:30",
+              "credits": {
+                "作詞": "太田善也",
+                "作曲": "たいせい"
+              }
+            },
+            {
+              "index": 8,
+              "title": "【乙女COCORO】",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 9,
+              "title": "【涙の色】",
+              "duration": "07:49",
+              "credits": {
+                "作詞": "つんく/太田善也",
+                "作曲": "つんく/たいせい"
+              }
+            },
+            {
+              "index": 10,
+              "title": "稽古場メイキング",
+              "duration": "08:47"
+            },
+            {
+              "index": 11,
+              "title": "千秋楽メイキング(2008.10.26)",
+              "duration": "06:45"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

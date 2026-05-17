@@ -1,0 +1,709 @@
+{
+  "id": 6739,
+  "url": "/release/6739/",
+  "title": "アドレナリン・ダメ/弱さじゃないよ、恋は/アイドル天職音頭",
+  "category": "CDシングル",
+  "artist": "つばきファクトリー",
+  "releaseDate": "2022.6.29",
+  "label": "zetima",
+  "images": [
+    "/upload/images/4b904561137ce6b49086638eb8a0de634323b923.webp",
+    "/upload/images/aa41677d1f8174d180dc9db00e42994da66a7819.webp",
+    "/upload/images/7f20365d5703481c2d10614e7185db267d3cc762.webp",
+    "/upload/images/c2aa08d1e84b15acbd86369209615c8d8a3a9d39.webp",
+    "/upload/images/fe2ac2c87e9b6af1d5caf92654a68b2e37884b0a.webp",
+    "/upload/images/e99c81303f5e52ca758eebc55fe1dcca90b5dec1.webp",
+    "/upload/images/a65c46e163498f9102f13bc638e836b9fc06b273.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/4b904561137ce6b49086638eb8a0de634323b923.webp",
+      "price": "￥2,200（税抜価格 ￥2,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アドレナリン・ダメ",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "編曲": "炭竃智弘",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "弱さじゃないよ、恋は",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "アイドル天職音頭",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "アドレナリン・ダメ",
+              "duration": "03:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "編曲": "炭竃智弘",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "弱さじゃないよ、恋は",
+              "duration": "04:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "アイドル天職音頭",
+              "duration": "04:06",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7684"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アドレナリン・ダメ",
+              "duration": "04:01",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アドレナリン・ダメ",
+              "duration": "03:38",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "アドレナリン・ダメ",
+              "duration": "18:14",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "つばきファクトリー"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD(「アドレナリン・ダメ」MV+Dance Shot Ver.+メイキング映像)付"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/aa41677d1f8174d180dc9db00e42994da66a7819.webp",
+      "price": "￥2,200（税抜価格 ￥2,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アドレナリン・ダメ",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "編曲": "炭竃智弘",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "弱さじゃないよ、恋は",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "アイドル天職音頭",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "アドレナリン・ダメ",
+              "duration": "03:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "編曲": "炭竃智弘",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "弱さじゃないよ、恋は",
+              "duration": "04:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "アイドル天職音頭",
+              "duration": "04:06",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7686"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "弱さじゃないよ、恋は",
+              "duration": "05:00",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Josef Melin",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "弱さじゃないよ、恋は",
+              "duration": "15:46",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "弱さじゃないよ、恋は",
+              "duration": "04:36",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Josef Melin",
+                "出演": "つばきファクトリー"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD(「弱さじゃないよ、恋は」MV+Dance Shot Ver.+メイキング映像)付"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/7f20365d5703481c2d10614e7185db267d3cc762.webp",
+      "price": "￥2,200（税抜価格 ￥2,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アドレナリン・ダメ",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "編曲": "炭竃智弘",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "弱さじゃないよ、恋は",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "アイドル天職音頭",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "アドレナリン・ダメ",
+              "duration": "03:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "編曲": "炭竃智弘",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "弱さじゃないよ、恋は",
+              "duration": "04:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "アイドル天職音頭",
+              "duration": "04:06",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7688"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アイドル天職音頭",
+              "duration": "04:25",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アイドル天職音頭",
+              "duration": "04:12",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "アイドル天職音頭",
+              "duration": "14:36",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "つばきファクトリー"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD(「アイドル天職音頭」MV+Dance Shot Ver.+メイキング映像)付"
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/upload/images/c2aa08d1e84b15acbd86369209615c8d8a3a9d39.webp",
+      "price": "￥1,650（税抜価格 ￥1,500）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アドレナリン・ダメ",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "編曲": "炭竃智弘",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "弱さじゃないよ、恋は",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "アイドル天職音頭",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "アドレナリン・ダメ",
+              "duration": "03:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "編曲": "炭竃智弘",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "弱さじゃないよ、恋は",
+              "duration": "04:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "アイドル天職音頭",
+              "duration": "04:06",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7690"
+        }
+      ],
+      "note": "フリーアングルぐるっと動画ダウンロードカード12種より1種ランダム封入"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/fe2ac2c87e9b6af1d5caf92654a68b2e37884b0a.webp",
+      "price": "定価 ￥1,300（税抜価格 ￥1,182）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アドレナリン・ダメ",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "編曲": "炭竃智弘",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "弱さじゃないよ、恋は",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "アイドル天職音頭",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "アドレナリン・ダメ",
+              "duration": "03:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "編曲": "炭竃智弘",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "弱さじゃないよ、恋は",
+              "duration": "04:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "アイドル天職音頭",
+              "duration": "04:06",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7691"
+        }
+      ],
+      "note": "トレーディングカードソロ12種＋キラ仕様集合1種よりランダムにて1枚封入(アドレナリン・ダメ Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/e99c81303f5e52ca758eebc55fe1dcca90b5dec1.webp",
+      "price": "定価 ￥1,300（税抜価格 ￥1,182）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アドレナリン・ダメ",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "編曲": "炭竃智弘",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "弱さじゃないよ、恋は",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "アイドル天職音頭",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "アドレナリン・ダメ",
+              "duration": "03:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "編曲": "炭竃智弘",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "弱さじゃないよ、恋は",
+              "duration": "04:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "アイドル天職音頭",
+              "duration": "04:06",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7692"
+        }
+      ],
+      "note": "トレーディングカードソロ12種＋キラ仕様集合1種よりランダムにて1枚封入(弱さじゃないよ、恋は Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/upload/images/a65c46e163498f9102f13bc638e836b9fc06b273.webp",
+      "price": "定価 ￥1,300（税抜価格 ￥1,182）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "アドレナリン・ダメ",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "編曲": "炭竃智弘",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "弱さじゃないよ、恋は",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "アイドル天職音頭",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "アドレナリン・ダメ",
+              "duration": "03:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉",
+                "編曲": "炭竃智弘",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 5,
+              "title": "弱さじゃないよ、恋は",
+              "duration": "04:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 6,
+              "title": "アイドル天職音頭",
+              "duration": "04:06",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7693"
+        }
+      ],
+      "note": "トレーディングカードソロ12種＋キラ仕様集合1種よりランダムにて1枚封入(アイドル天職音頭 Ver.)※初回プレス分のみ"
+    }
+  ]
+}

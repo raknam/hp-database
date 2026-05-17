@@ -1,0 +1,86 @@
+{
+  "code": "EPCE-5037",
+  "url": "/release/detail/EPCE-5037/",
+  "source": "upfront",
+  "title": "ガレージ・オープニングソング集 Vol.2",
+  "category": "CDシングル",
+  "artist": "THE GARAGE",
+  "releaseDate": "1999/10/27",
+  "label": "zetima",
+  "images": [
+    "/images/9751469b0a55262a25d5f51ffc83b7380feb3bca.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/9751469b0a55262a25d5f51ffc83b7380feb3bca.jpg",
+      "price": "￥1,282 (税抜価格 ￥1,165)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5037",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "好きさ 好きさ 好きさ(7月度オープニング)",
+              "duration": "03:19",
+              "credits": {
+                "作詞": "C.White/訳詞:漣健児",
+                "作曲": "C.White",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "想い出の渚(8月度オープニング)",
+              "duration": "02:59",
+              "credits": {
+                "作詞": "鳥塚繁樹",
+                "作曲": "加瀬邦彦",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "銀色のグラス(9月度オープニング)",
+              "duration": "02:58",
+              "credits": {
+                "作詞": "橋本淳",
+                "作曲": "鈴木邦彦"
+              }
+            },
+            {
+              "index": 4,
+              "title": "好きさ 好きさ 好きさ(Instrumental)",
+              "duration": "03:19",
+              "credits": {
+                "作詞": "C.White/訳詞:漣健児",
+                "作曲": "C.White",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 5,
+              "title": "想い出の渚(Instrumental)",
+              "duration": "02:59",
+              "credits": {
+                "作詞": "鳥塚繁樹",
+                "作曲": "加瀬邦彦",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 6,
+              "title": "銀色のグラス(Instrumental)",
+              "duration": "02:58",
+              "credits": {
+                "作詞": "橋本淳",
+                "作曲": "鈴木邦彦"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

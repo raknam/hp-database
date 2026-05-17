@@ -1,0 +1,57 @@
+{
+  "code": "UFBW-2031",
+  "url": "/release/detail/UFBW-2031/",
+  "source": "upfront",
+  "title": "a rainy day",
+  "category": "DVD",
+  "artist": "矢島舞美",
+  "releaseDate": "2011/09/30",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/aab28ae793b85caeba5885ecaf420a93e4ae7b30.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/aab28ae793b85caeba5885ecaf420a93e4ae7b30.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2031",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Arrival to Hotel",
+              "duration": "10:23"
+            },
+            {
+              "index": 2,
+              "title": "Clean Bed Room",
+              "duration": "14:39"
+            },
+            {
+              "index": 3,
+              "title": "Nail with Humming",
+              "duration": "09:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Still rainy day",
+              "duration": "10:34"
+            },
+            {
+              "index": 5,
+              "title": "Last evening",
+              "duration": "17:00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

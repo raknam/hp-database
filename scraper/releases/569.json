@@ -1,0 +1,74 @@
+{
+  "id": 569,
+  "url": "/release/569/",
+  "title": "さくら満開",
+  "category": "CDシングル",
+  "artist": "モーニング娘。さくら組",
+  "releaseDate": "2004.2.25",
+  "label": "zetima",
+  "images": [
+    "/upload/images/4d5be78b43766c224f29241511106f93b8ebed0e.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "さくら満開",
+              "duration": "06:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "モーニング娘。さくら組"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Say Yeah!-もっとミラクルナイト-",
+              "duration": "03:57",
+              "suffix": "(モーニング娘。さくら組Version)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "守尾 崇",
+                "歌": "モーニング娘。さくら組"
+              }
+            },
+            {
+              "index": 3,
+              "title": "抱いて HOLD ON ME!",
+              "duration": "02:56",
+              "suffix": "(モーニング娘。さくら組Version)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明",
+                "歌": "モーニング娘。さくら組"
+              }
+            },
+            {
+              "index": 4,
+              "title": "さくら満開",
+              "duration": "06:32",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "モーニング娘。さくら組"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5267"
+        }
+      ]
+    }
+  ]
+}

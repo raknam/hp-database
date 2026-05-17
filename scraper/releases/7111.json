@@ -1,0 +1,160 @@
+{
+  "id": 7111,
+  "url": "/release/7111/",
+  "title": "ハロプロダンスアカデミー",
+  "category": "BD",
+  "artist": "V.A.",
+  "releaseDate": "2023.11.15",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/ce1b7e2adf6db589e0d3f1845bd57f9a23db611c.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "#01 LOCKダンス 初級編",
+              "duration": "22:57",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "#02 LOCKダンス 中級編",
+              "duration": "22:29",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 3,
+              "title": "#03 LOCKダンス 上級編",
+              "duration": "23:46",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "LOCKダンス特典映像",
+              "duration": "05:35",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 5,
+              "title": "#04 WAACKダンス 初級編",
+              "duration": "23:09",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 6,
+              "title": "#05 WAACKダンス 中級編",
+              "duration": "23:03",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 7,
+              "title": "#06 WAACKダンス 上級編",
+              "duration": "23:51",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 8,
+              "title": "WAACKダンス特典映像",
+              "duration": "05:29",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "UFXW-1034"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "#07 KRUMPダンス 初級編",
+              "duration": "22:57",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "#08 KRUMPダンス 中級編",
+              "duration": "22:29",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 3,
+              "title": "#09 KRUMPダンス 上級編",
+              "duration": "23:46",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "KRUMPダンス特典映像",
+              "duration": "05:35",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 5,
+              "title": "#10 HIPHOPダンス 初級編",
+              "duration": "23:09",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 6,
+              "title": "#11 HIPHOPダンス 中級編",
+              "duration": "23:03",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 7,
+              "title": "#12 HIPHOPダンス 上級編",
+              "duration": "23:51",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 8,
+              "title": "HIPHOPダンス特典映像",
+              "duration": "05:21",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

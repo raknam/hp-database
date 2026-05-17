@@ -1,0 +1,51 @@
+{
+  "code": "PKBP-5096",
+  "url": "/release/detail/PKBP-5096/",
+  "source": "upfront",
+  "title": "シングルV「ジンギスカン」",
+  "category": "DVDシングルV",
+  "artist": "Berryz工房",
+  "releaseDate": "2008/03/26",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/dd9644f54a30f3c0d9918029feb259998be1fa9c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/dd9644f54a30f3c0d9918029feb259998be1fa9c.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "PKBP-5096",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ジンギスカン",
+              "duration": "03:19",
+              "credits": {
+                "作詞": "Bernd Meinunger/訳詞：山本伊織",
+                "作曲": "Ralph Siegel"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ジンギスカン(Close-up Ver.)",
+              "duration": "03:16",
+              "credits": {
+                "作詞": "Bernd Meinunger/訳詞：山本伊織",
+                "作曲": "Ralph Siegel"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "21:23"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

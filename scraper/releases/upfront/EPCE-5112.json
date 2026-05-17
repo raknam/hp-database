@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5112",
+  "url": "/release/detail/EPCE-5112/",
+  "source": "upfront",
+  "title": "サマーれげぇ！レインボー",
+  "category": "CDシングル",
+  "artist": "7人祭",
+  "releaseDate": "2001/07/04",
+  "label": "zetima",
+  "images": [
+    "/images/93566fba6fb854a9d1cac2a96dec63afb0890a49.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/93566fba6fb854a9d1cac2a96dec63afb0890a49.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5112",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "サマーれげぇ！レインボー",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "hasie"
+              }
+            },
+            {
+              "index": 2,
+              "title": "HELLO!また会おうね(7人祭 version)",
+              "duration": "03:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "サマーれげぇ！レインボー(Instrumental)",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "hasie"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

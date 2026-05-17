@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-5123",
+  "url": "/release/detail/EPCE-5123/",
+  "source": "upfront",
+  "title": "恋のダイヤル6700〜papaya ver.〜",
+  "category": "CDシングル",
+  "artist": "奥田綾乃",
+  "releaseDate": "2001/11/07",
+  "label": "zetima",
+  "images": [
+    "/images/c4c779818691440572c56e898567b829bd0ee5ca.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/c4c779818691440572c56e898567b829bd0ee5ca.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5123",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋のダイヤル6700〜papaya ver.〜",
+              "duration": "03:05",
+              "credits": {
+                "作詞": "阿久悠",
+                "作曲": "井上忠夫",
+                "編曲": "多田暁"
+              }
+            },
+            {
+              "index": 2,
+              "title": "つばさがあれば〜papaya ver.〜",
+              "duration": "04:05",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "たきのえいじ",
+                "編曲": "多田暁"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋のダイヤル6700〜papaya ver.〜(Instrumental)",
+              "duration": "03:04",
+              "credits": {
+                "作詞": "阿久悠",
+                "作曲": "井上忠夫",
+                "編曲": "多田暁"
+              }
+            },
+            {
+              "index": 4,
+              "title": "つばさがあれば〜papaya ver.〜(Instrumental)",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "たきのえいじ",
+                "作曲": "たきのえいじ",
+                "編曲": "多田暁"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

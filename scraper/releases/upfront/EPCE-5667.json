@@ -1,0 +1,148 @@
+{
+  "code": "EPCE-5667",
+  "url": "/release/detail/EPCE-5667/",
+  "source": "upfront",
+  "title": "気まぐれプリンセス",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2009/10/28",
+  "label": "zetima",
+  "images": [
+    "/images/2be57f97c1abec5a9e0c4cd33d97ab8c19eb142c.jpg",
+    "/images/daa589ff72b89f0b41edabb4f349c19bbc185d39.jpg",
+    "/images/2c7bf62f576758b543d5ec5d5b1993b628371424.jpg",
+    "/images/e4339a6db17c436e13f055c3107ab0e750db2791.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/2be57f97c1abec5a9e0c4cd33d97ab8c19eb142c.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5667",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "気まぐれプリンセス",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "愛して 愛して 後一分",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "気まぐれプリンセス(Instrumental)",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/daa589ff72b89f0b41edabb4f349c19bbc185d39.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5669",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "気まぐれプリンセス(Dance Shot Ver.)",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/images/2c7bf62f576758b543d5ec5d5b1993b628371424.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5671",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "気まぐれプリンセス",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "愛して 愛して 後一分",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "気まぐれプリンセス(Instrumental)",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/e4339a6db17c436e13f055c3107ab0e750db2791.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5672",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "気まぐれプリンセス(Close-up Ver.)",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

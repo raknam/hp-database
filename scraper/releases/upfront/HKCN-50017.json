@@ -1,0 +1,102 @@
+{
+  "code": "HKCN-50017",
+  "url": "/release/detail/HKCN-50017/",
+  "source": "upfront",
+  "title": "だって 生きてかなくちゃ",
+  "category": "CDシングル",
+  "artist": "安倍なつみ",
+  "releaseDate": "2004/06/02",
+  "label": "hachama",
+  "images": [
+    "/images/dbcb37526d4f1c7146073895445586ddcb7a0ca4.jpg",
+    "/images/f894f0f1caf84a1eb80248bd613f3c13105dc83e.jpg"
+  ],
+  "editions": [
+    {
+      "name": "初回盤",
+      "image": "/images/dbcb37526d4f1c7146073895445586ddcb7a0ca4.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50017",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "だって 生きてかなくちゃ",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋にジェラシー申し上げます",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "だって 生きてかなくちゃ(Instrumental)",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/images/f894f0f1caf84a1eb80248bd613f3c13105dc83e.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50018",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "だって 生きてかなくちゃ",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋にジェラシー申し上げます",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "だって 生きてかなくちゃ(Instrumental)",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

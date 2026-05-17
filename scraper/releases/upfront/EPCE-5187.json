@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5187",
+  "url": "/release/detail/EPCE-5187/",
+  "source": "upfront",
+  "title": "ミニハムずの結婚ソング",
+  "category": "CDシングル",
+  "artist": "ミニハムず",
+  "releaseDate": "2002/12/04",
+  "label": "zetima",
+  "images": [
+    "/images/d47423a51cb953ef5fd923b981d954bf1d56c117.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d47423a51cb953ef5fd923b981d954bf1d56c117.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5187",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ミニハムずの結婚ソング",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ミニハム汽車",
+              "duration": "03:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ミニハムずの結婚ソング(オリジナル・カラオケ)",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

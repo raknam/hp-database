@@ -1,0 +1,92 @@
+{
+  "code": "UFBW-1621",
+  "url": "/release/detail/UFBW-1621/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.54",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2019/04/10",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/eaa13cd9690faba86f4cc2bd5e417620bf9e087a.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/eaa13cd9690faba86f4cc2bd5e417620bf9e087a.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1621",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ヨガ",
+              "duration": "13:00"
+            },
+            {
+              "index": 2,
+              "title": "100均グッズ収納",
+              "duration": "14:19"
+            },
+            {
+              "index": 3,
+              "title": "モーニングコーヒー(20th Anniversary Ver.）【スタジオライブ集】",
+              "duration": "06:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ハナモヨウ【スタジオライブ集】",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "MEG.ME",
+                "作曲": "KOUGA"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Never Never Surrender【スタジオライブ集】",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "五線譜のたすき【スタジオライブ集】",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 7,
+              "title": "春恋歌【スタジオライブ集】",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "鈴木秋則"
+              }
+            },
+            {
+              "index": 8,
+              "title": "GO TO THE TOP!!【スタジオライブ集】",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "HaTo"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

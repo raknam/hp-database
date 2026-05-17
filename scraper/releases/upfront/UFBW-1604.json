@@ -1,0 +1,98 @@
+{
+  "code": "UFBW-1604",
+  "url": "/release/detail/UFBW-1604/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.47",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2018/09/12",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/d48e508e66b7f89463ce991190eb58a464adb1bd.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d48e508e66b7f89463ce991190eb58a464adb1bd.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1604",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Girls Talk「新天地での馴染み方」",
+              "duration": "13:13"
+            },
+            {
+              "index": 2,
+              "title": "PICK UP MUSIC「エディブルフラワー」新沼希空、谷本安美、小野田紗栞(つばきファクトリー)/♪ハナモヨウ",
+              "duration": "13:22"
+            },
+            {
+              "index": 3,
+              "title": "PICK UP MUSIC「夏の風物詩 流しそうめん」チャオ ベッラ チンクエッティ/♪ハイテンション！我っが人生！",
+              "duration": "16:16"
+            },
+            {
+              "index": 4,
+              "title": "笑って【スタジオライブ集】",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "津野米咲",
+                "作曲": "津野米咲"
+              }
+            },
+            {
+              "index": 5,
+              "title": "LOVE CANDY【スタジオライブ集】",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "MEROA",
+                "作曲": "MEROA"
+              }
+            },
+            {
+              "index": 6,
+              "title": "夕立ち！スルー・ザ・レインボー【スタジオライブ集】",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "fu_mou",
+                "作曲": "fu_mou"
+              }
+            },
+            {
+              "index": 7,
+              "title": "サマービーム！(メロウver.)【スタジオライブ集】",
+              "duration": "05:51",
+              "credits": {
+                "作詞": "PandaBoY",
+                "作曲": "PandaBoY"
+              }
+            },
+            {
+              "index": 8,
+              "title": "轍【スタジオライブ集】",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "渡辺未来/鈴木静那",
+                "作曲": "渡辺未来"
+              }
+            },
+            {
+              "index": 9,
+              "title": "「新グループの発表を聞いた時」【未公開映像 新天地での馴染み方より】",
+              "duration": "02:31"
+            },
+            {
+              "index": 10,
+              "title": "「加入してわかった事」【未公開映像 新天地での馴染み方より】",
+              "duration": "02:35"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

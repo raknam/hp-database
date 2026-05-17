@@ -1,0 +1,160 @@
+{
+  "code": "EPCE-5569",
+  "url": "/release/detail/EPCE-5569/",
+  "source": "upfront",
+  "title": "きらりん☆レボリューション・ソング・セレクション3",
+  "category": "CDミニアルバム",
+  "artist": "V.A.",
+  "releaseDate": "2008/07/23",
+  "label": "zetima",
+  "images": [
+    "/images/0b9b7b37ca4933ae93fe5e7c3e74fa33e0b55e75.jpg",
+    "/images/9e30120e789788bdb6dc0f2ba4f8db9d90d8873b.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/0b9b7b37ca4933ae93fe5e7c3e74fa33e0b55e75.jpg",
+      "price": "￥2,619 (税抜価格 ￥2,381)",
+      "discs": [
+        {
+          "type": "CDミニアルバム",
+          "catalogNo": "EPCE-5569",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "チャンス！",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "織田哲郎",
+                "編曲": "家原正樹"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ラムタラ",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "斎藤悠弥",
+                "編曲": "斎藤悠弥"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Olala",
+              "duration": "03:09",
+              "credits": {
+                "作詞": "小山哉枝/田代智一",
+                "作曲": "田代智一",
+                "編曲": "安岡洋一郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "アナタボシ",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "斎藤悠弥",
+                "編曲": "斎藤悠弥"
+              }
+            },
+            {
+              "index": 5,
+              "title": "サンサンGOGO",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "吉田勝弥",
+                "編曲": "吉田勝弥"
+              }
+            },
+            {
+              "index": 6,
+              "title": "チャンス！(オリジナルカラオケ)",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "織田哲郎",
+                "編曲": "家原正樹"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ラムタラ(オリジナルカラオケ)",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "斎藤悠弥",
+                "編曲": "斎藤悠弥"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Olala(オリジナルカラオケ)",
+              "duration": "03:09",
+              "credits": {
+                "作詞": "小山哉枝/田代智一",
+                "作曲": "田代智一",
+                "編曲": "安岡洋一郎"
+              }
+            },
+            {
+              "index": 9,
+              "title": "アナタボシ(オリジナルカラオケ)",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "斎藤悠弥",
+                "編曲": "斎藤悠弥"
+              }
+            },
+            {
+              "index": 10,
+              "title": "サンサンGOGO",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "吉田勝弥",
+                "編曲": "吉田勝弥"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/9e30120e789788bdb6dc0f2ba4f8db9d90d8873b.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5571",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "チャンス！(アニメVer.)",
+              "duration": "01:33",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "織田哲郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Olala(アニメVer.)",
+              "duration": "01:37",
+              "credits": {
+                "作詞": "小山哉枝/田代智一",
+                "作曲": "田代智一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

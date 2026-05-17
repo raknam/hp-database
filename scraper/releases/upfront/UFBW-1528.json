@@ -1,0 +1,114 @@
+{
+  "code": "UFBW-1528",
+  "url": "/release/detail/UFBW-1528/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.31",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2017/05/17",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/6330cc41db0f51f8e52725f35178a1313ca6ff14.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/6330cc41db0f51f8e52725f35178a1313ca6ff14.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1528",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "乙女の逆襲【名物企画 衣装コーディネート】",
+              "duration": "13:24",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "川辺ヒロシ・上田禎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "チャーミング勝負世代【名物企画 衣装コーディネート】",
+              "duration": "12:04",
+              "credits": {
+                "作詞": "理姫",
+                "作曲": "奥脇達也"
+              }
+            },
+            {
+              "index": 3,
+              "title": "真夜中のLonely【名物企画 衣装コーディネート】",
+              "duration": "13:48",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "パーリーピーポーエイリアン【名物企画 衣装コーディネート】",
+              "duration": "13:57",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ブギウギLOVE【スタジオライブ集】",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "糸島Distance【スタジオライブ集】",
+              "duration": "04:54",
+              "credits": {
+                "作詞": "Mari-Joe",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 7,
+              "title": "羨んじゃう【スタジオライブ集】",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "YASUSHI WATANABE"
+              }
+            },
+            {
+              "index": 8,
+              "title": "The Vision【スタジオライブ集】",
+              "duration": "05:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 9,
+              "title": "泡沫サタデーナイト！【スタジオライブ集】",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "津野米咲",
+                "作曲": "津野米咲"
+              }
+            },
+            {
+              "index": 10,
+              "title": "モーニング娘。'16「泡沫サタデーナイト！」MV撮影密着",
+              "duration": "03:48"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

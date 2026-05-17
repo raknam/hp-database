@@ -1,0 +1,541 @@
+{
+  "code": "HKCN-50677",
+  "url": "/release/detail/HKCN-50677/",
+  "source": "upfront",
+  "title": "プラスティック・ラブ/Familia/Future Smile",
+  "category": "CDシングル",
+  "artist": "Juice=Juice",
+  "releaseDate": "2021/12/22",
+  "label": "hachama",
+  "images": [
+    "/images/0d92b5f1677ca33caeaff1c0534bf18aa8c44589.jpg",
+    "/images/f13b1e9ff331c30dbaa92d7dfa5352235e1bebf1.jpg",
+    "/images/73fd668cf1851edbba8cd2a6d8724904dc664b53.jpg",
+    "/images/0b4fa768d7a97a82216fc3fa5875791b580f1f77.jpg",
+    "/images/8025591ded21eace6676ddb497ed97f37fec3c08.jpg",
+    "/images/db8efbfe1e5d5b012c78c9bb2ddccb9e8126acd9.jpg",
+    "/images/5bc4ad2abc9b60b82892a575c3df5abd1ffcb68c.jpg",
+    "/images/e784fcdcc92a86a627d9bb35d62ec2ba5a4a8c66.jpg",
+    "/images/2c1a07b0cc9c9f2d1193712c9e22da73e565d4ee.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/0d92b5f1677ca33caeaff1c0534bf18aa8c44589.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50677",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プラスティック・ラブ",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Anders Dannvik"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Familia",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "Shusui/Shim Zeyun/tsubomi",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Future Smile",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin"
+              }
+            },
+            {
+              "index": 4,
+              "title": "プラスティック・ラブ(Instrumental)",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Anders Dannvik"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Familia(Instrumental)",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "Shusui/Shim Zeyun/tsubomi",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Future Smile(Instrumental)",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/f13b1e9ff331c30dbaa92d7dfa5352235e1bebf1.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKCN-50679",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プラスティック・ラブ(Music Video)",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや"
+              }
+            },
+            {
+              "index": 2,
+              "title": "プラスティック・ラブ(Dance Shot Ver.)",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや"
+              }
+            },
+            {
+              "index": 3,
+              "title": "プラスティック・ラブ メイキング映像",
+              "duration": "16:10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/images/73fd668cf1851edbba8cd2a6d8724904dc664b53.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50681",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プラスティック・ラブ",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Anders Dannvik"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Familia",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "Shusui/Shim Zeyun/tsubomi",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Future Smile",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin"
+              }
+            },
+            {
+              "index": 4,
+              "title": "プラスティック・ラブ(Instrumental)",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Anders Dannvik"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Familia(Instrumental)",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "Shusui/Shim Zeyun/tsubomi",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Future Smile(Instrumental)",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP1】",
+      "image": "/images/0b4fa768d7a97a82216fc3fa5875791b580f1f77.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKCN-50683",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Familia(Music Video)",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "Shusui/Shim Zeyun/tsubomi"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Familia(Dance Shot Ver.)",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "Shusui/Shim Zeyun/tsubomi"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Familia メイキング映像",
+              "duration": "14:42"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP2】",
+      "image": "/images/8025591ded21eace6676ddb497ed97f37fec3c08.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50685",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プラスティック・ラブ",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Anders Dannvik"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Familia",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "Shusui/Shim Zeyun/tsubomi",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Future Smile",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin"
+              }
+            },
+            {
+              "index": 4,
+              "title": "プラスティック・ラブ(Instrumental)",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Anders Dannvik"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Familia(Instrumental)",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "Shusui/Shim Zeyun/tsubomi",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Future Smile(Instrumental)",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/db8efbfe1e5d5b012c78c9bb2ddccb9e8126acd9.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKCN-50686",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Future Smile(Music Video)",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Future Smile(Dance Shot Ver.)",
+              "duration": "03:16",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Future Smile メイキング映像",
+              "duration": "12:59"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/5bc4ad2abc9b60b82892a575c3df5abd1ffcb68c.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50687",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プラスティック・ラブ",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Anders Dannvik"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Familia",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "Shusui/Shim Zeyun/tsubomi",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Future Smile",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin"
+              }
+            },
+            {
+              "index": 4,
+              "title": "プラスティック・ラブ(Instrumental)",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Anders Dannvik"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Familia(Instrumental)",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "Shusui/Shim Zeyun/tsubomi",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Future Smile(Instrumental)",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/images/e784fcdcc92a86a627d9bb35d62ec2ba5a4a8c66.jpg",
+      "price": "￥1,300 (税抜価格 ￥1,182)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "HKCN-50688",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "赤い日記帳",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋ならとっくに始まってる",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "My Days for You",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 4,
+              "title": "オーディションオムニバス映像",
+              "duration": "21:11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【金澤朋子卒業記念盤】※ポニーキャニオンショッピングクラブ限定販売商品",
+      "image": "/images/2c1a07b0cc9c9f2d1193712c9e22da73e565d4ee.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCP-50001",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プラスティック・ラブ",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Anders Dannvik"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Familia",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "Shusui/Shim Zeyun/tsubomi",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Future Smile",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin"
+              }
+            },
+            {
+              "index": 4,
+              "title": "プラスティック・ラブ(Instrumental)",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや",
+                "編曲": "Anders Dannvik"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Familia(Instrumental)",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "イイジマケン",
+                "作曲": "Shusui/Shim Zeyun/tsubomi",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Future Smile(Instrumental)",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "Shusui/Josef Melin",
+                "編曲": "Josef Melin"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

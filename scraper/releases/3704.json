@@ -1,0 +1,74 @@
+{
+  "id": 3704,
+  "url": "/release/3704/",
+  "title": "SHALL WE LOVE?",
+  "category": "CDシングル",
+  "artist": "ごまっとう",
+  "releaseDate": "2002.11.20",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/upload/images/1e2bd502728931a3f898d78f38d4e4a66909a835.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "SHALL WE LOVE？",
+              "duration": "04:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA",
+                "歌": "ごまっとう"
+              }
+            },
+            {
+              "index": 2,
+              "title": "SHALL WE LOVE？",
+              "duration": "03:34",
+              "suffix": "(Cool groove mix)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "SHO-1",
+                "歌": "ごまっとう"
+              }
+            },
+            {
+              "index": 3,
+              "title": "SHALL WE LOVE？",
+              "duration": "05:09",
+              "suffix": "(Airly healing mix)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山村哲也",
+                "歌": "ごまっとう"
+              }
+            },
+            {
+              "index": 4,
+              "title": "SHALL WE LOVE？",
+              "duration": "04:55",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA",
+                "歌": "ごまっとう"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5012"
+        }
+      ]
+    }
+  ]
+}

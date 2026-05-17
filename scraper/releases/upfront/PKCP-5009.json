@@ -1,0 +1,58 @@
+{
+  "code": "PKCP-5009",
+  "url": "/release/detail/PKCP-5009/",
+  "source": "upfront",
+  "title": "届け！恋のテレパシー",
+  "category": "CDアルバム",
+  "artist": "市井紗耶香 in CUBIC-CROSS",
+  "releaseDate": "2002/09/11",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/6a51294d3341cb0af42e41a7cc6f82d3e74e3370.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/6a51294d3341cb0af42e41a7cc6f82d3e74e3370.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "PKCP-5009",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "届け！恋のテレパシー",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "市井紗耶香",
+                "作曲": "たいせー",
+                "編曲": "たいせー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "がんばってみるよ",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "たいせー",
+                "編曲": "たいせー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "届け！恋のテレパシー(Instrumental)",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "市井紗耶香",
+                "作曲": "たいせー",
+                "編曲": "たいせー"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

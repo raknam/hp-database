@@ -1,0 +1,59 @@
+{
+  "id": 2313,
+  "url": "/release/2313/",
+  "title": "ハロー!SATOYAMAライフ Vol.32",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2014.8.6",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/92c22db122ff6635f02de53511a0460d9492f11d.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Berryz工房 武道館ライブSP",
+              "duration": "24:17",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Berryz工房 武道館ライブSP 未公開映像",
+              "duration": "06:41",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "SATOYAMA忘年会",
+              "duration": "33:56",
+              "credits": {
+                "出演": "飯窪春菜(モーニング娘。'14)/清水佐紀・須藤茉麻(Berryz工房)/矢島舞美・中島早貴(℃-ute)/宮崎由加(Juice＝Juice)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "SATOYAMA忘年会未公開映像",
+              "duration": "04:37",
+              "credits": {
+                "出演": "飯窪春菜(モーニング娘。'14)/清水佐紀・須藤茉麻(Berryz工房)/矢島舞美・中島早貴(℃-ute)/宮崎由加(Juice＝Juice)"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1352"
+        }
+      ]
+    }
+  ]
+}

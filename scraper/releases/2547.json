@@ -1,0 +1,50 @@
+{
+  "id": 2547,
+  "url": "/release/2547/",
+  "title": "マノピアノ",
+  "category": "CDシングル",
+  "artist": "真野恵里菜",
+  "releaseDate": "2008.6.29",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/74f8eba34d56d77926a92cbaade8150477e374cc.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "マノピアノ",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "たいせい",
+                "歌": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "マノピアノ",
+              "duration": "03:52",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "たいせい",
+                "歌": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "TGCS-5025"
+        }
+      ]
+    }
+  ]
+}

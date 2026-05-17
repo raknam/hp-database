@@ -1,0 +1,555 @@
+{
+  "code": "EPXE-5211",
+  "url": "/release/detail/EPXE-5211/",
+  "source": "upfront",
+  "title": "Hello! Project ひなフェス 2022【アンジュルム/Juice=Juice プレミアム】",
+  "category": "BD",
+  "artist": "V.A.",
+  "releaseDate": "2022/09/07",
+  "label": "zetima",
+  "images": [
+    "/images/73d423afb37588bb9f04a9520cba8c6d9fd37293.jpg"
+  ],
+  "editions": [
+    {
+      "name": "＜Disc1＞【アンジュルム プレミアム】",
+      "image": "/images/73d423afb37588bb9f04a9520cba8c6d9fd37293.jpg",
+      "price": "￥8,800 (税抜価格 ￥8,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5211",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:45"
+            },
+            {
+              "index": 2,
+              "title": "愛・魔性",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "エリック・フクサキ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "MC",
+              "duration": "01:11"
+            },
+            {
+              "index": 4,
+              "title": "泳げないMermaid",
+              "duration": "03:13",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "はっきりしようぜ",
+              "duration": "02:59",
+              "credits": {
+                "作詞": "根本要",
+                "作曲": "根本要"
+              }
+            },
+            {
+              "index": 6,
+              "title": "MC",
+              "duration": "02:17"
+            },
+            {
+              "index": 7,
+              "title": "色とりどり伸びよ！！",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "中村瑛彦",
+                "作曲": "中村瑛彦"
+              }
+            },
+            {
+              "index": 8,
+              "title": "恋のクラウチングスタート",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ラーメン大好き小泉さんの唄",
+              "duration": "03:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "シャ乱Q"
+              }
+            },
+            {
+              "index": 10,
+              "title": "MC",
+              "duration": "01:28"
+            },
+            {
+              "index": 11,
+              "title": "Hello! 生まれた意味がきっとある",
+              "duration": "05:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 12,
+              "title": "ガラクタDIAMOND",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "森由里子",
+                "作曲": "馬飼野康二/鎌田俊哉"
+              }
+            },
+            {
+              "index": 13,
+              "title": "MC",
+              "duration": "01:15"
+            },
+            {
+              "index": 14,
+              "title": "抱きしめられてみたい",
+              "duration": "03:01",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大橋莉子"
+              }
+            },
+            {
+              "index": 15,
+              "title": "三回目のデート神話",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 16,
+              "title": "Chu Chu Chu 僕らの未来",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 17,
+              "title": "MC",
+              "duration": "01:45"
+            },
+            {
+              "index": 18,
+              "title": "よしよししてほしいの",
+              "duration": "03:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 19,
+              "title": "Hey! Unfair Baby",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 20,
+              "title": "MC",
+              "duration": "01:36"
+            },
+            {
+              "index": 21,
+              "title": "情熱エクスタシー",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "中村佳紀",
+                "作曲": "中村佳紀"
+              }
+            },
+            {
+              "index": 22,
+              "title": "21時までのシンデレラ",
+              "duration": "02:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 23,
+              "title": "ソラシド～ねえねえ～",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "津野米咲",
+                "作曲": "津野米咲"
+              }
+            },
+            {
+              "index": 24,
+              "title": "英雄～笑って！ショパン先輩～",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "FREDERIC FRANCOIS CHOPIN"
+              }
+            },
+            {
+              "index": 25,
+              "title": "MC",
+              "duration": "00:38"
+            },
+            {
+              "index": 26,
+              "title": "ビタミンME",
+              "duration": "02:54",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 27,
+              "title": "虎視タンタ・ターン",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "前山田健一"
+              }
+            },
+            {
+              "index": 28,
+              "title": "STAGE～アガッてみな～",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "徳田光希",
+                "作曲": "徳田光希"
+              }
+            },
+            {
+              "index": 29,
+              "title": "MC",
+              "duration": "02:08"
+            },
+            {
+              "index": 30,
+              "title": "Fiesta! Fiesta!",
+              "duration": "03:09",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "エリック・フクサキ"
+              }
+            },
+            {
+              "index": 31,
+              "title": "私が言う前に抱きしめなきゃね",
+              "duration": "02:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 32,
+              "title": "MC",
+              "duration": "00:50"
+            },
+            {
+              "index": 33,
+              "title": "同じ時給で働く友達の美人ママ",
+              "duration": "02:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 34,
+              "title": "赤いイヤホン",
+              "duration": "03:02",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 35,
+              "title": "限りあるMoment",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "オオヤギヒロオ"
+              }
+            },
+            {
+              "index": 36,
+              "title": "MC",
+              "duration": "00:33"
+            },
+            {
+              "index": 37,
+              "title": "愛されルート A or B？",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎真吾"
+              }
+            },
+            {
+              "index": 38,
+              "title": "次々続々",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 39,
+              "title": "MC",
+              "duration": "02:10"
+            },
+            {
+              "index": 40,
+              "title": "ハデにやっちゃいな！",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい"
+              }
+            },
+            {
+              "index": 41,
+              "title": "大器晩成",
+              "duration": "03:19",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 42,
+              "title": "愛すべきべき Human Life",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "堂島孝平",
+                "作曲": "堂島孝平"
+              }
+            },
+            {
+              "index": 43,
+              "title": "MC",
+              "duration": "01:23"
+            },
+            {
+              "index": 44,
+              "title": "友よ",
+              "duration": "07:08",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "＜Disc2＞【Juice=Juice プレミアム】",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5212",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "00:47"
+            },
+            {
+              "index": 2,
+              "title": "Borderline",
+              "duration": "04:10",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "MC",
+              "duration": "01:34"
+            },
+            {
+              "index": 4,
+              "title": "TOKYOグライダー",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "唐沢美帆",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "KEEP ON 上昇志向！！",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一"
+              }
+            },
+            {
+              "index": 6,
+              "title": "MC",
+              "duration": "01:07"
+            },
+            {
+              "index": 7,
+              "title": "3､2､1 BREAKIN'OUT！",
+              "duration": "03:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 8,
+              "title": "恋する♡エンジェル♡ハート",
+              "duration": "02:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 9,
+              "title": "The 摩天楼ショー",
+              "duration": "03:36",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 10,
+              "title": "MC",
+              "duration": "00:44"
+            },
+            {
+              "index": 11,
+              "title": "地団駄ダンス",
+              "duration": "02:40",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "BLACC HOLE＆NOBB-D"
+              }
+            },
+            {
+              "index": 12,
+              "title": "プラスティック・ラブ",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "竹内まりや",
+                "作曲": "竹内まりや"
+              }
+            },
+            {
+              "index": 13,
+              "title": "裸の裸の裸のKISS",
+              "duration": "02:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 14,
+              "title": "MC",
+              "duration": "00:32"
+            },
+            {
+              "index": 15,
+              "title": "GIRLS BE AMBITIOUS! 2022",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 16,
+              "title": "MC",
+              "duration": "01:04"
+            },
+            {
+              "index": 17,
+              "title": "STAGE～アガッてみな～",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "徳田光希",
+                "作曲": "徳田光希"
+              }
+            },
+            {
+              "index": 18,
+              "title": "ポップミュージック",
+              "duration": "05:19",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN"
+              }
+            },
+            {
+              "index": 19,
+              "title": "Goal～明日はあっちだよ～",
+              "duration": "05:07",
+              "credits": {
+                "作詞": "近藤薫",
+                "作曲": "近藤薫"
+              }
+            },
+            {
+              "index": 20,
+              "title": "Magic of Love(J=J 2015Ver.)",
+              "duration": "05:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 21,
+              "title": "MC",
+              "duration": "01:23"
+            },
+            {
+              "index": 22,
+              "title": "「ひとりで生きられそう」って それってねえ、褒めているの？",
+              "duration": "06:07",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

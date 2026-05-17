@@ -1,0 +1,67 @@
+{
+  "id": 41,
+  "url": "/release/41/",
+  "title": "ハロー!SATOYAMAライフ Vol.21",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2014.1.9",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/172ab4adf88398a6015c90b22effc5920c6965ad.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "常陸太田市 里山第二弾バスツアー",
+              "duration": "08:20",
+              "credits": {
+                "出演": "鞘師里保(モーニング娘。)/清水佐紀(Berryz工房)/和田彩(スマイレージ)/宮崎由加(Juice＝Juice)/光井愛佳"
+              }
+            },
+            {
+              "index": 2,
+              "title": "夏野菜の種植え 収穫したほうれん草でオムレツランチ",
+              "duration": "21:08",
+              "credits": {
+                "出演": "生田衣梨奈・飯窪春菜・石田亜佑美(モーニング娘。)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Juice=Juiceメジャーデビューサプライズ発表 NEWS",
+              "duration": "01:50",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "里山ミーティング傑作選①",
+              "duration": "22:11",
+              "credits": {
+                "出演": "生田衣梨奈・鞘師里保・飯窪春菜(モーニング娘。)/中島早貴・鈴木愛理(℃-ute)/竹内朱莉(スマイレージ)/宮崎由加(Juice＝Juice)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "里山ミーティング傑作選②",
+              "duration": "16:58",
+              "credits": {
+                "出演": "生田衣梨奈・鞘師里保・飯窪春菜(モーニング娘。)/中島早貴・鈴木愛理(℃-ute)/竹内朱莉(スマイレージ)/宮崎由加(Juice＝Juice)"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1328"
+        }
+      ]
+    }
+  ]
+}

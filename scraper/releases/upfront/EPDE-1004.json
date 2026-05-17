@@ -1,0 +1,57 @@
+{
+  "code": "EPDE-1004",
+  "url": "/release/detail/EPDE-1004/",
+  "source": "upfront",
+  "title": "海まで5分",
+  "category": "CDシングル",
+  "artist": "森高千里",
+  "releaseDate": "1998/07/01",
+  "label": "zetima",
+  "images": [
+    "/images/153222bd858022292241974abf0837fd32bc4aeb.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/153222bd858022292241974abf0837fd32bc4aeb.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1004",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "海まで5分(TBS系ドラマ東芝日曜劇場｢海まで5分｣主題歌)",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "久保田利伸",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Sleepless Night Blues",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "森高千里"
+              }
+            },
+            {
+              "index": 3,
+              "title": "海まで5分(ORIGINAL KARAOKE)",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "久保田利伸",
+                "編曲": "前嶋康明"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

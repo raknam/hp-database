@@ -1,0 +1,102 @@
+{
+  "code": "EPCE-5216",
+  "url": "/release/detail/EPCE-5216/",
+  "source": "upfront",
+  "title": "GOOD BYE 夏男",
+  "category": "CDシングル",
+  "artist": "松浦亜弥",
+  "releaseDate": "2003/06/04",
+  "label": "zetima",
+  "images": [
+    "/images/bffd6d080caf6527c63191be48c6071fdf30dd66.jpg",
+    "/images/99b2e4e66221db2190df2f9b8c487d9fcf7d554b.jpg"
+  ],
+  "editions": [
+    {
+      "name": "初回盤",
+      "image": "/images/bffd6d080caf6527c63191be48c6071fdf30dd66.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5216",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "GOOD BYE 夏男",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "私の予定",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "GOOD BYE 夏男(Instrumental)",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/images/99b2e4e66221db2190df2f9b8c487d9fcf7d554b.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5217",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "GOOD BYE 夏男",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "私の予定",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "GOOD BYE 夏男(Instrumental)",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

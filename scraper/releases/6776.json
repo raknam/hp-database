@@ -1,0 +1,26 @@
+{
+  "id": 6776,
+  "url": "/release/6776/",
+  "title": "みかん",
+  "category": "配信",
+  "artist": "森戸知沙希",
+  "releaseDate": "2022.6.21",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/9e04c6499dd7229b2b903655226df96f7d6b3085.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [],
+          "catalogNo": "UFDL-1499"
+        }
+      ]
+    }
+  ]
+}

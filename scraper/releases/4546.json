@@ -1,0 +1,67 @@
+{
+  "id": 4546,
+  "url": "/release/4546/",
+  "title": "夕映え",
+  "category": "BD",
+  "artist": "譜久村聖",
+  "releaseDate": "2016.1.20",
+  "label": "zetima",
+  "images": [
+    "/upload/images/9b7187cea91fa1de3e16b67a0e1f8c338ecff59a.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Caf? terrace",
+              "duration": "11:14",
+              "credits": {
+                "出演": "譜久村聖"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Orange beach",
+              "duration": "17:21",
+              "credits": {
+                "出演": "譜久村聖"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Hill with view",
+              "duration": "10:38",
+              "credits": {
+                "出演": "譜久村聖"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Making of Photobook「かがやき」",
+              "duration": "14:29",
+              "credits": {
+                "出演": "譜久村聖"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "01:29",
+              "credits": {
+                "出演": "譜久村聖"
+              }
+            }
+          ],
+          "catalogNo": "EPXE-5076"
+        }
+      ]
+    }
+  ]
+}

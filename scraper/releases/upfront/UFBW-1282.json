@@ -1,0 +1,78 @@
+{
+  "code": "UFBW-1282",
+  "url": "/release/detail/UFBW-1282/",
+  "source": "upfront",
+  "title": "大人の麦茶×ゲキハロ「ごがくゆう」",
+  "category": "DVD",
+  "artist": "モーニング娘。",
+  "releaseDate": "2013/11/27",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/15f3ef4421e0a88337d06df8a7eb99e34b6ee5e6.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/15f3ef4421e0a88337d06df8a7eb99e34b6ee5e6.jpg",
+      "price": "￥4,400 (税抜価格 ￥4,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1282",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "サザーヌ波止場",
+              "duration": "02:48"
+            },
+            {
+              "index": 2,
+              "title": "K国のプリンセスの失踪",
+              "duration": "15:57"
+            },
+            {
+              "index": 3,
+              "title": "パスカル食堂の珍客",
+              "duration": "06:39"
+            },
+            {
+              "index": 4,
+              "title": "プリンセスフェイの報道写真",
+              "duration": "02:27"
+            },
+            {
+              "index": 5,
+              "title": "ひとを見る目がないなぁ",
+              "duration": "05:04"
+            },
+            {
+              "index": 6,
+              "title": "前王妃の娘 リュウ",
+              "duration": "04:26"
+            },
+            {
+              "index": 7,
+              "title": "オレたちは庶民だ",
+              "duration": "12:42"
+            },
+            {
+              "index": 8,
+              "title": "わたし、ここ、渡らない",
+              "duration": "18:15"
+            },
+            {
+              "index": 9,
+              "title": "滅びのジャンプ",
+              "duration": "18:51"
+            },
+            {
+              "index": 10,
+              "title": "ごがくゆう",
+              "duration": "30:57"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

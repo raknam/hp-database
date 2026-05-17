@@ -1,0 +1,62 @@
+{
+  "id": 3923,
+  "url": "/release/3923/",
+  "title": "青いスポーツカーの男",
+  "category": "CDシングル",
+  "artist": "青色7",
+  "releaseDate": "2000.3.8",
+  "label": "zetima",
+  "images": [
+    "/upload/images/0188a397f98a9225c41cf3b9462d43fba152e273.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "青いスポーツカーの男",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "松原憲",
+                "歌": "青色7"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Hello!のテーマ",
+              "duration": "02:41",
+              "suffix": "(青色7version)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明",
+                "歌": "青色7"
+              }
+            },
+            {
+              "index": 3,
+              "title": "青いスポーツカーの男",
+              "duration": "04:25",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "松原憲",
+                "歌": "青色7"
+              }
+            }
+          ],
+          "catalogNo": "EPDE-1072"
+        }
+      ]
+    }
+  ]
+}

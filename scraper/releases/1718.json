@@ -1,0 +1,148 @@
+{
+  "id": 1718,
+  "url": "/release/1718/",
+  "title": "恋愛♥ライダー",
+  "category": "CDシングル",
+  "artist": "Buono!",
+  "releaseDate": "2008.2.6",
+  "label": "ポニーキャニオン",
+  "images": [
+    "/upload/images/a0cc8641a869a71489b872e5c399266ed42e6830.webp",
+    "/upload/images/37f7e1837d2c4e221878d67b81cf9a3aa6d5e33b.webp"
+  ],
+  "editions": [
+    {
+      "name": "初回限定盤",
+      "image": "/upload/images/a0cc8641a869a71489b872e5c399266ed42e6830.webp",
+      "price": "定価 ￥1,650（税抜価格 ￥1,500）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋愛♥ライダー",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "AKIRASTAR",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "じゃなきゃもったいないっ！",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "小林哲也",
+                "編曲": "知野芳彦",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋愛♥ライダー",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "AKIRASTAR",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 4,
+              "title": "じゃなきゃもったいないっ！",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "小林哲也",
+                "編曲": "知野芳彦",
+                "歌": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "PCCA-02602"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ホントのじぶん",
+              "duration": "00:00",
+              "credits": {
+                "出演": "Buono!"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "【初回生産限定盤】イベント参加抽選シリアルナンバーカード＋Buono!オリジナルトレーディングカード"
+    },
+    {
+      "name": "通常盤",
+      "image": "/upload/images/37f7e1837d2c4e221878d67b81cf9a3aa6d5e33b.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋愛♥ライダー",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "AKIRASTAR",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "じゃなきゃもったいないっ!",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "小林哲也",
+                "編曲": "知野芳彦",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋愛♥ライダー",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "岩里祐穂",
+                "作曲": "AKIRASTAR",
+                "編曲": "西川進",
+                "歌": "Buono!"
+              }
+            },
+            {
+              "index": 4,
+              "title": "じゃなきゃもったいないっ！",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "小林哲也",
+                "編曲": "知野芳彦",
+                "歌": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "PCCA-70206"
+        }
+      ],
+      "note": "【通常盤】イベント参加抽選シリアルナンバーカード＋Buono!オリジナルトレーディングカード"
+    }
+  ]
+}

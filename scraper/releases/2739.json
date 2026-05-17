@@ -1,0 +1,109 @@
+{
+  "id": 2739,
+  "url": "/release/2739/",
+  "title": "THE LAST NIGHT",
+  "category": "CDシングル",
+  "artist": "松浦亜弥",
+  "releaseDate": "2003.9.26",
+  "label": "zetima",
+  "images": [
+    "/upload/images/8ec68f66bbfd1b11f587f2f01f69a88aae70071f.webp",
+    "/upload/images/8bf382c8362f98000665a313a801685f92b07e38.webp"
+  ],
+  "editions": [
+    {
+      "name": "初回盤",
+      "image": "/upload/images/8ec68f66bbfd1b11f587f2f01f69a88aae70071f.webp",
+      "price": "定価 ￥1,650（税抜価格 ￥1,500）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "THE LAST NIGHT",
+              "duration": "05:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介/ｽﾄﾘﾝｸﾞｽｱﾚﾝｼﾞ:村山達哉",
+                "歌": "松浦亜弥"
+              }
+            },
+            {
+              "index": 2,
+              "title": "DO YOU LOVE ME？",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "松浦亜弥"
+              }
+            },
+            {
+              "index": 3,
+              "title": "THE LAST NIGHT",
+              "duration": "05:11",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介/ｽﾄﾘﾝｸﾞｽｱﾚﾝｼﾞ:村山達哉",
+                "歌": "松浦亜弥"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5239"
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/upload/images/8bf382c8362f98000665a313a801685f92b07e38.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "THE LAST NIGHT",
+              "duration": "05:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介/ｽﾄﾘﾝｸﾞｽｱﾚﾝｼﾞ:村山達哉",
+                "歌": "松浦亜弥"
+              }
+            },
+            {
+              "index": 2,
+              "title": "DO YOU LOVE ME？",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "松浦亜弥"
+              }
+            },
+            {
+              "index": 3,
+              "title": "THE LAST NIGHT",
+              "duration": "05:11",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介/ｽﾄﾘﾝｸﾞｽｱﾚﾝｼﾞ:村山達哉",
+                "歌": "松浦亜弥"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5240"
+        }
+      ]
+    }
+  ]
+}

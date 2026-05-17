@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1515",
+  "url": "/release/detail/UFDL-1515/",
+  "source": "upfront",
+  "title": "Give me 愛",
+  "category": "配信",
+  "artist": "加賀楓",
+  "releaseDate": "2022/12/11",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/c87157415b7cdcbf9218a4532664495bb4c2e7d0.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/c87157415b7cdcbf9218a4532664495bb4c2e7d0.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1515",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Give me 愛",
+              "duration": "04:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

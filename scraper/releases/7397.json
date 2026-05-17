@@ -1,0 +1,38 @@
+{
+  "id": 7397,
+  "url": "/release/7397/",
+  "title": "ワタシ・プレミアム",
+  "category": "配信",
+  "artist": "GOODM!X PREMIUM",
+  "releaseDate": "2025.2.14",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/c96b3ea39de0ef98c5542e1bc8a6cd7943c2bc43.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ワタシ・プレミアム",
+              "duration": "03:14",
+              "credits": {
+                "作詞": "山崎あおい/星部ショウ",
+                "作曲": "山崎あおい/星部ショウ",
+                "編曲": "YZKG/柴山慧/炭竃智弘",
+                "歌": "GOODM!X PREMIUM"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1551"
+        }
+      ]
+    }
+  ]
+}

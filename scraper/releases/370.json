@@ -1,0 +1,43 @@
+{
+  "id": 370,
+  "url": "/release/370/",
+  "title": "ハロプロアワー Vol.2",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2006.11.22",
+  "label": "zetima",
+  "images": [
+    "/upload/images/6f2875ec8e8aa7618153d04c1627527f2203b0f2.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "♯3",
+              "duration": "32:33",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "♯4",
+              "duration": "29:57",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5214"
+        }
+      ]
+    }
+  ]
+}

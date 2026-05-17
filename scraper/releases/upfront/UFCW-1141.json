@@ -1,0 +1,100 @@
+{
+  "code": "UFCW-1141",
+  "url": "/release/detail/UFCW-1141/",
+  "source": "upfront",
+  "title": "トウキョウ・コンフュージョン/宇宙の女は甘くない",
+  "category": "CDシングル",
+  "artist": "PINK CRES.",
+  "releaseDate": "2019/05/22",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/9298e80ffaf2063cb85476b708e5f7dd5a3c4cde.jpg",
+    "/images/0dd4dc4caccb6cbdf7cda1c596a7b6f14856a3a0.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/9298e80ffaf2063cb85476b708e5f7dd5a3c4cde.jpg",
+      "price": "￥1,834 (税抜価格 ￥1,667)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "UFCW-1141",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "トウキョウ・コンフュージョン",
+              "duration": "03:41",
+              "credits": {
+                "作詞": "児玉雨子/Rap詞：角田崇徳",
+                "作曲": "星部ショウ/ケンカイヨシ",
+                "編曲": "ケンカイヨシ/Tomohiko Togashi"
+              }
+            },
+            {
+              "index": 2,
+              "title": "宇宙の女は甘くない",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "コモリタミノル",
+                "編曲": "コモリタミノル"
+              }
+            },
+            {
+              "index": 3,
+              "title": "トウキョウ・コンフュージョン(Instrumental)",
+              "duration": "03:41",
+              "credits": {
+                "作詞": "児玉雨子/Rap詞：角田崇徳",
+                "作曲": "星部ショウ/ケンカイヨシ",
+                "編曲": "ケンカイヨシ/Tomohiko Togashi"
+              }
+            },
+            {
+              "index": 4,
+              "title": "宇宙の女は甘くない(Instrumental)",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "コモリタミノル",
+                "編曲": "コモリタミノル"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/0dd4dc4caccb6cbdf7cda1c596a7b6f14856a3a0.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFCW-1143",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "トウキョウ・コンフュージョン(Music Video)",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "児玉雨子/Rap詞：角田崇徳",
+                "作曲": "星部ショウ/ケンカイヨシ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "宇宙の女は甘くない(Music Video)",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "コモリタミノル"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

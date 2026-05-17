@@ -1,0 +1,687 @@
+{
+  "id": 5607,
+  "url": "/release/5607/",
+  "title": "泣けないぜ・・・共感詐欺/Uraha=Lover/君だけじゃないさ...friends(2018アコースティックVer.)",
+  "category": "CDシングル",
+  "artist": "アンジュルム",
+  "releaseDate": "2018.5.9",
+  "label": "hachama",
+  "images": [
+    "/upload/images/287d803591de7825cd4fe94ff61a005c334b4c66.webp",
+    "/upload/images/1d1ea554702942662d605777f53e094cfb9ccaf5.webp",
+    "/upload/images/c83a917f2776c12f7876c5efd77f7080812d6fde.webp",
+    "/upload/images/8625d853fc479e588b13e40614a902d975e42679.webp",
+    "/resources/images/foundation/release-placeholder.jpg",
+    "/upload/images/157542bac15b0902e58061240905e6c45ca6a231.webp",
+    "/upload/images/6de8b04e2a140ed0d49ace57137039469417e0e7.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/287d803591de7825cd4fe94ff61a005c334b4c66.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "泣けないぜ･･･共感詐欺",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Uraha=Lover",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "浜田ピエール裕介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "君だけじゃないさ...friends(2018アコースティックVer.)",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "泣けないぜ･･･共感詐欺",
+              "duration": "04:09",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Uraha=Lover",
+              "duration": "04:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "浜田ピエール裕介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "君だけじゃないさ...friends(2018アコースティックVer.)",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50553"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "泣けないぜ・・・共感詐欺",
+              "duration": "04:38",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "出演": "アンジュルム"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/1d1ea554702942662d605777f53e094cfb9ccaf5.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "泣けないぜ･･･共感詐欺",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Uraha=Lover",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "浜田ピエール裕介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "君だけじゃないさ...friends(2018アコースティックVer.)",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "泣けないぜ･･･共感詐欺",
+              "duration": "04:09",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Uraha=Lover",
+              "duration": "04:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "浜田ピエール裕介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "君だけじゃないさ...friends(2018アコースティックVer.)",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50555"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Uraha=Lover",
+              "duration": "04:55",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "出演": "アンジュルム"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/c83a917f2776c12f7876c5efd77f7080812d6fde.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "泣けないぜ･･･共感詐欺",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Uraha=Lover",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "浜田ピエール裕介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "君だけじゃないさ...friends(2018アコースティックVer.)",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "泣けないぜ･･･共感詐欺",
+              "duration": "04:09",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Uraha=Lover",
+              "duration": "04:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "浜田ピエール裕介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "君だけじゃないさ...friends(2018アコースティックVer.)",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50557"
+        },
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "君だけじゃないさ...friends(2018アコースティックVer.)",
+              "duration": "05:27",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "歌": "アンジュルム"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/upload/images/8625d853fc479e588b13e40614a902d975e42679.webp",
+      "price": "￥1,980（税抜価格 ￥1,800）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "泣けないぜ･･･共感詐欺",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Uraha=Lover",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "浜田ピエール裕介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "君だけじゃないさ...friends(2018アコースティックVer.)",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "泣けないぜ･･･共感詐欺",
+              "duration": "04:09",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Uraha=Lover",
+              "duration": "04:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "浜田ピエール裕介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "君だけじゃないさ...friends(2018アコースティックVer.)",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50559"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "泣けないぜ・・・共感詐欺",
+              "duration": "04:15",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Uraha=Lover",
+              "duration": "04:40",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "出演": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "君だけじゃないさ...friends(2018アコースティックVer.)",
+              "duration": "04:05",
+              "suffix": "(Front Shot Ver.)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "出演": "アンジュルム"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付＋イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/resources/images/foundation/release-placeholder.jpg",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "泣けないぜ･･･共感詐欺",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Uraha=Lover",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "浜田ピエール裕介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "君だけじゃないさ...friends(2018アコースティックVer.)",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "泣けないぜ･･･共感詐欺",
+              "duration": "04:09",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Uraha=Lover",
+              "duration": "04:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "浜田ピエール裕介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "君だけじゃないさ...friends(2018アコースティックVer.)",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50561"
+        }
+      ],
+      "note": "トレカサイズ生写真ソロ10種＋集合1種よりランダムにて1枚封入(泣けないぜ・・・共感詐欺 Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/157542bac15b0902e58061240905e6c45ca6a231.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "泣けないぜ･･･共感詐欺",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Uraha=Lover",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "浜田ピエール裕介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "君だけじゃないさ...friends(2018アコースティックVer.)",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "泣けないぜ･･･共感詐欺",
+              "duration": "04:09",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Uraha=Lover",
+              "duration": "04:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "浜田ピエール裕介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "君だけじゃないさ...friends(2018アコースティックVer.)",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50562"
+        }
+      ],
+      "note": "トレカサイズ生写真ソロ10種＋集合1種よりランダムにて1枚封入(Uraha=Lover Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/upload/images/6de8b04e2a140ed0d49ace57137039469417e0e7.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "泣けないぜ･･･共感詐欺",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Uraha=Lover",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "浜田ピエール裕介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 3,
+              "title": "君だけじゃないさ...friends(2018アコースティックVer.)",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 4,
+              "title": "泣けないぜ･･･共感詐欺",
+              "duration": "04:09",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "平田祥一郎",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Uraha=Lover",
+              "duration": "04:30",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "山崎あおい",
+                "編曲": "浜田ピエール裕介",
+                "歌": "アンジュルム"
+              }
+            },
+            {
+              "index": 6,
+              "title": "君だけじゃないさ...friends(2018アコースティックVer.)",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介",
+                "歌": "アンジュルム"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50563"
+        }
+      ],
+      "note": "トレカサイズ生写真ソロ10種＋集合1種よりランダムにて1枚封入(君だけじゃないさ...friends(2018アコースティックVer.) Ver.)※初回プレス分のみ"
+    }
+  ]
+}

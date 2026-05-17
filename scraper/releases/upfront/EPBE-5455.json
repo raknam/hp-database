@@ -1,0 +1,78 @@
+{
+  "code": "EPBE-5455",
+  "url": "/release/detail/EPBE-5455/",
+  "source": "upfront",
+  "title": "劇団ゲキハロ第12回公演キャッツ・アイ A",
+  "category": "DVD",
+  "artist": "℃-ute",
+  "releaseDate": "2012/12/19",
+  "label": "zetima",
+  "images": [
+    "/images/dac296e378dfe7ab33588d4e488926815044d9f2.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/dac296e378dfe7ab33588d4e488926815044d9f2.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5455",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "chapter.1 キャッツ♥アイ登場！",
+              "duration": "07:33",
+              "credits": {
+                "作詞": "三浦徳子/rap詞:太田善也",
+                "作曲": "小田裕一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "chapter.2 報われぬ恋〜瞳と俊夫〜",
+              "duration": "30:12",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "小田裕一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "chapter.3 許されぬ恋〜瞳と俊夫〜",
+              "duration": "42:44"
+            },
+            {
+              "index": 4,
+              "title": "chapter.4 最後の闘い〜さようなら〜",
+              "duration": "24:21",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "小田裕一郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "chapter.5 エピローグ",
+              "duration": "11:59",
+              "credits": {
+                "作詞": "三浦徳子/rap詞:太田善也",
+                "作曲": "小田裕一郎"
+              }
+            },
+            {
+              "index": 6,
+              "title": "バックステージ映像アフタートークショーダイジェスト",
+              "duration": "11:04",
+              "credits": {
+                "作詞": "三浦徳子/rap詞:太田善也",
+                "作曲": "小田裕一郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

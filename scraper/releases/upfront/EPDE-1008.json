@@ -1,0 +1,112 @@
+{
+  "code": "EPDE-1008",
+  "url": "/release/detail/EPDE-1008/",
+  "source": "upfront",
+  "title": "抱いて HOLD ON ME!",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2005/03/02",
+  "label": "zetima",
+  "images": [
+    "/images/0b3f8a58081fd079dde136b6aa2e9577a08691c9.jpg",
+    "/images/f8666fad2bbceb82ae8694569e42f783bb6902d7.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/0b3f8a58081fd079dde136b6aa2e9577a08691c9.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5315",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "抱いてHOLD ON ME!",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 2,
+              "title": "例えば",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "須藤 豪& LH Project"
+              }
+            },
+            {
+              "index": 3,
+              "title": "抱いてHOLD ON ME!(Instrumental)",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 4,
+              "title": "抱いてHOLD ON ME!(「モーニング刑事」Version)",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": "/images/f8666fad2bbceb82ae8694569e42f783bb6902d7.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1008",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "抱いて HOLD ON ME!※映画「モ－ニング刑事。(コップ)」エンディングテ－マ",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 2,
+              "title": "例えば",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "須藤 豪& LH Project"
+              }
+            },
+            {
+              "index": 3,
+              "title": "抱いて HOLD ON ME!(Instrumental)",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "前嶋康明"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,630 @@
+{
+  "id": 14,
+  "url": "/release/14/",
+  "title": "笑顔の君は太陽さ/君の代わりは居やしない/What is LOVE?",
+  "category": "CDシングル",
+  "artist": "モーニング娘。'14",
+  "releaseDate": "2014.1.29",
+  "label": "zetima",
+  "images": [
+    "/upload/images/e61fb702c079eeec6fa162889f0875736b8cf079.webp",
+    "/upload/images/d23734fb6119c6f9d0a298ab5f12d57143ecb3df.webp",
+    "/upload/images/90577bb9de2e89314a4dc8cea7ecdca5ee2317a9.webp",
+    "/upload/images/5e2f5f6d1004c01fc965dca909121e4d173a5ddc.webp",
+    "/upload/images/5096fd773f8c5db7beb8ac15145edb7e09347e84.webp",
+    "/upload/images/0c210a23d2c063d4d545dd65c325d08853b72e62.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/e61fb702c079eeec6fa162889f0875736b8cf079.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "笑顔の君は太陽さ",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 2,
+              "title": "君の代わりは居やしない",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 3,
+              "title": "What is LOVE？",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 4,
+              "title": "笑顔の君は太陽さ",
+              "duration": "04:34",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 5,
+              "title": "君の代わりは居やしない",
+              "duration": "04:29",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 6,
+              "title": "What is LOVE？",
+              "duration": "03:13",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7016"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "笑顔の君は太陽さ",
+              "duration": "04:47",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 2,
+              "title": "笑顔の君は太陽さ",
+              "duration": "04:52",
+              "suffix": "(Close-upVer.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'14"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付き"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/d23734fb6119c6f9d0a298ab5f12d57143ecb3df.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "笑顔の君は太陽さ",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 2,
+              "title": "君の代わりは居やしない",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 3,
+              "title": "What is LOVE？",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 4,
+              "title": "笑顔の君は太陽さ",
+              "duration": "04:34",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 5,
+              "title": "君の代わりは居やしない",
+              "duration": "04:29",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 6,
+              "title": "What is LOVE？",
+              "duration": "03:13",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7018"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "君の代わりは居やしない",
+              "duration": "04:39",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 2,
+              "title": "君の代わりは居やしない",
+              "duration": "04:44",
+              "suffix": "(DanceShotVer.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'14"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付き"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/90577bb9de2e89314a4dc8cea7ecdca5ee2317a9.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "笑顔の君は太陽さ",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 2,
+              "title": "君の代わりは居やしない",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 3,
+              "title": "What is LOVE？",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 4,
+              "title": "笑顔の君は太陽さ",
+              "duration": "04:34",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 5,
+              "title": "君の代わりは居やしない",
+              "duration": "04:29",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 6,
+              "title": "What is LOVE？",
+              "duration": "03:13",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7020"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "What is LOVE?",
+              "duration": "03:20",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 2,
+              "title": "What is LOVE?",
+              "duration": "03:26",
+              "suffix": "(DanceShotVer.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'14"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付き"
+    },
+    {
+      "name": "【初回生産限定盤D】",
+      "image": "/upload/images/5e2f5f6d1004c01fc965dca909121e4d173a5ddc.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "笑顔の君は太陽さ",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 2,
+              "title": "君の代わりは居やしない",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 3,
+              "title": "What is LOVE？",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 4,
+              "title": "笑顔の君は太陽さ",
+              "duration": "04:34",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 5,
+              "title": "君の代わりは居やしない",
+              "duration": "04:29",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 6,
+              "title": "What is LOVE？",
+              "duration": "03:13",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7022"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「笑顔の君は太陽さ」ダンスレクチャービデオ",
+              "duration": "11:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 2,
+              "title": "笑顔の君は太陽さ",
+              "duration": "04:47",
+              "suffix": "(DanceShotVer.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 3,
+              "title": "「笑顔の君は太陽さ」「君の代わりは居やしない」メイキング&オフショット映像",
+              "duration": "29:27",
+              "credits": {
+                "出演": "モーニング娘。'14"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付き"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/5096fd773f8c5db7beb8ac15145edb7e09347e84.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "笑顔の君は太陽さ",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 2,
+              "title": "君の代わりは居やしない",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 3,
+              "title": "What is LOVE？",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 4,
+              "title": "笑顔の君は太陽さ",
+              "duration": "04:34",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 5,
+              "title": "君の代わりは居やしない",
+              "duration": "04:29",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 6,
+              "title": "What is LOVE？",
+              "duration": "03:13",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7024"
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/0c210a23d2c063d4d545dd65c325d08853b72e62.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "笑顔の君は太陽さ",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 2,
+              "title": "君の代わりは居やしない",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 3,
+              "title": "What is LOVE？",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 4,
+              "title": "笑顔の君は太陽さ",
+              "duration": "04:34",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 5,
+              "title": "君の代わりは居やしない",
+              "duration": "04:29",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 6,
+              "title": "What is LOVE？",
+              "duration": "03:13",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'14"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7025"
+        }
+      ]
+    }
+  ]
+}

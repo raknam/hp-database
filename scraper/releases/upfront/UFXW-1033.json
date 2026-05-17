@@ -1,0 +1,64 @@
+{
+  "code": "UFXW-1033",
+  "url": "/release/detail/UFXW-1033/",
+  "source": "upfront",
+  "title": "シングルV「行かなくちゃ」",
+  "category": "BD",
+  "artist": "アンジュルム",
+  "releaseDate": "2023/07/12",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/d82484dc9a93fd9683f4ce23b74f3ac2dc4a3157.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d82484dc9a93fd9683f4ce23b74f3ac2dc4a3157.jpg",
+      "price": "￥2,000 (税抜価格 ￥1,818)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "UFXW-1033",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "行かなくちゃ(Music Video)",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "堂島孝平",
+                "作曲": "堂島孝平"
+              }
+            },
+            {
+              "index": 2,
+              "title": "アイノケダモノ(feat.竹内朱莉 Ver.)",
+              "duration": "05:06",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "同窓生(feat.竹内朱莉 Ver.)",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "行かなくちゃ(メイキング映像)",
+              "duration": "10:11",
+              "credits": {
+                "作詞": "堂島孝平",
+                "作曲": "堂島孝平"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

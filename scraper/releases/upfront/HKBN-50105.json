@@ -1,0 +1,51 @@
+{
+  "code": "HKBN-50105",
+  "url": "/release/detail/HKBN-50105/",
+  "source": "upfront",
+  "title": "シングルV「スクリーン」",
+  "category": "DVDシングルV",
+  "artist": "安倍なつみ",
+  "releaseDate": "2008/12/17",
+  "label": "hachama",
+  "images": [
+    "/images/573488c307371c6197402c363e08736ab2ea2d3b.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/573488c307371c6197402c363e08736ab2ea2d3b.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "HKBN-50105",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "スクリーン",
+              "duration": "05:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "スクリーン(Rolling Ver.)",
+              "duration": "04:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "12:08"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

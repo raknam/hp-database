@@ -1,0 +1,437 @@
+{
+  "id": 6728,
+  "url": "/release/6728/",
+  "title": "Chu Chu Chu 僕らの未来/大・人生 Never Been Better!",
+  "category": "CDシングル",
+  "artist": "モーニング娘。'22",
+  "releaseDate": "2022.6.8",
+  "label": "zetima",
+  "images": [
+    "/upload/images/8e1e0dc9a007da2422246368b335c333feb10ff1.webp",
+    "/upload/images/a523ed32aad0627ce05f65142760c65efd2c967c.webp",
+    "/upload/images/167629827d22250e259f6e44e8eebbe3260ed0df.webp",
+    "/upload/images/80cde836ab6be1547062cc478379f16a6210d328.webp",
+    "/upload/images/73bf729aa2a59cad1fffbd34d0b5c9118e3f800b.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/8e1e0dc9a007da2422246368b335c333feb10ff1.webp",
+      "price": "￥2,090（税抜価格 ￥1,900）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Chu Chu Chu 僕らの未来",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'22"
+              }
+            },
+            {
+              "index": 2,
+              "title": "大・人生 Never Been Better!",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'22"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Chu Chu Chu 僕らの未来",
+              "duration": "04:27",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'22"
+              }
+            },
+            {
+              "index": 4,
+              "title": "大・人生 Never Been Better!",
+              "duration": "04:50",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'22"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7676"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Chu Chu Chu 僕らの未来",
+              "duration": "04:54",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'22"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Chu Chu Chu 僕らの未来",
+              "duration": "04:34",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'22"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Chu Chu Chu 僕らの未来",
+              "duration": "16:03",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "モーニング娘。'22"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付(「Chu Chu Chu 僕らの未来」MV＋Dance Shot Ver.＋メイキング映像)"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/a523ed32aad0627ce05f65142760c65efd2c967c.webp",
+      "price": "￥2,090（税抜価格 ￥1,900）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Chu Chu Chu 僕らの未来",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'22"
+              }
+            },
+            {
+              "index": 2,
+              "title": "大・人生 Never Been Better!",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'22"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Chu Chu Chu 僕らの未来",
+              "duration": "04:27",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'22"
+              }
+            },
+            {
+              "index": 4,
+              "title": "大・人生 Never Been Better!",
+              "duration": "04:50",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'22"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7678"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "大・人生 Never Been Better!",
+              "duration": "05:17",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'22"
+              }
+            },
+            {
+              "index": 2,
+              "title": "大・人生 Never Been Better!",
+              "duration": "04:55",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'22"
+              }
+            },
+            {
+              "index": 3,
+              "title": "大・人生 Never Been Better!",
+              "duration": "14:13",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "モーニング娘。'22"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付(「大・人生 Never Been Better!」MV＋Dance Shot Ver.＋メイキング映像)"
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/upload/images/167629827d22250e259f6e44e8eebbe3260ed0df.webp",
+      "price": "￥2,200（税抜価格 ￥2,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Chu Chu Chu 僕らの未来",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'22"
+              }
+            },
+            {
+              "index": 2,
+              "title": "大・人生 Never Been Better!",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'22"
+              }
+            },
+            {
+              "index": 3,
+              "title": "I WISH",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "河野伸",
+                "歌": "モーニング娘。'22"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Chu Chu Chu 僕らの未来",
+              "duration": "04:27",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'22"
+              }
+            },
+            {
+              "index": 5,
+              "title": "大・人生 Never Been Better!",
+              "duration": "04:50",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'22"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7680"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "I WISH",
+              "duration": "06:03",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'22"
+              }
+            },
+            {
+              "index": 2,
+              "title": "I WISH",
+              "duration": "04:54",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'22"
+              }
+            },
+            {
+              "index": 3,
+              "title": "I WISH",
+              "duration": "15:12",
+              "suffix": "(メイキング映像)",
+              "credits": {
+                "出演": "モーニング娘。'22"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "BD付(「I WISH」MV＋Dance Shot Ver.＋メイキング映像)"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/80cde836ab6be1547062cc478379f16a6210d328.webp",
+      "price": "￥1,200（税抜価格 ￥1,091）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Chu Chu Chu 僕らの未来",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'22"
+              }
+            },
+            {
+              "index": 2,
+              "title": "大・人生 Never Been Better!",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'22"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Chu Chu Chu 僕らの未来",
+              "duration": "04:27",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'22"
+              }
+            },
+            {
+              "index": 4,
+              "title": "大・人生 Never Been Better!",
+              "duration": "04:50",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'22"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7682"
+        }
+      ],
+      "note": "トレーディングカードソロ13種＋キラ仕様集合1種よりランダムにて1枚封入(Chu Chu Chu 僕らの未来 Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/73bf729aa2a59cad1fffbd34d0b5c9118e3f800b.webp",
+      "price": "￥1,200（税抜価格 ￥1,091）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Chu Chu Chu 僕らの未来",
+              "duration": "04:26",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'22"
+              }
+            },
+            {
+              "index": 2,
+              "title": "大・人生 Never Been Better!",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'22"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Chu Chu Chu 僕らの未来",
+              "duration": "04:27",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'22"
+              }
+            },
+            {
+              "index": 4,
+              "title": "大・人生 Never Been Better!",
+              "duration": "04:50",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'22"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7683"
+        }
+      ],
+      "note": "トレーディングカードソロ13種＋キラ仕様集合1種よりランダムにて1枚封入(大・人生 Never Been Better! Ver.)※初回プレス分のみ"
+    }
+  ]
+}

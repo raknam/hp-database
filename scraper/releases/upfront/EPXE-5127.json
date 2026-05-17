@@ -1,0 +1,53 @@
+{
+  "code": "EPXE-5127",
+  "url": "/release/detail/EPXE-5127/",
+  "source": "upfront",
+  "title": "Sakura in Guam",
+  "category": "BD",
+  "artist": "小田さくら",
+  "releaseDate": "2017/12/27",
+  "label": "zetima",
+  "images": [
+    "/images/d72fabe526377060ec93af50674844420aa688cf.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d72fabe526377060ec93af50674844420aa688cf.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5127",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Working Day",
+              "duration": "07:52"
+            },
+            {
+              "index": 2,
+              "title": "Secret Beach",
+              "duration": "16:29"
+            },
+            {
+              "index": 3,
+              "title": "End of the day",
+              "duration": "18:24"
+            },
+            {
+              "index": 4,
+              "title": "Making of 「Sakura Breeze」",
+              "duration": "12:24"
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "01:16"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

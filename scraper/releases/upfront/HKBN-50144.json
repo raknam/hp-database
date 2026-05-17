@@ -1,0 +1,58 @@
+{
+  "code": "HKBN-50144",
+  "url": "/release/detail/HKBN-50144/",
+  "source": "upfront",
+  "title": "舞台 『安倍内閣』 DVD",
+  "category": "DVD",
+  "artist": "安倍なつみ",
+  "releaseDate": "2011/03/23",
+  "label": "hachama",
+  "images": [
+    "/images/9a84480993a943159535e72ad3e8c4a705845951.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/9a84480993a943159535e72ad3e8c4a705845951.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKBN-50144",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プロローグ〜ナツミ立候補の理由",
+              "duration": "05:51"
+            },
+            {
+              "index": 2,
+              "title": "裕次郎がやり残した事",
+              "duration": "20:26"
+            },
+            {
+              "index": 3,
+              "title": "ナツミ代表選へ",
+              "duration": "27:32"
+            },
+            {
+              "index": 4,
+              "title": "突然の嵐",
+              "duration": "12:54"
+            },
+            {
+              "index": 5,
+              "title": "初めてのケンカ",
+              "duration": "16:08"
+            },
+            {
+              "index": 6,
+              "title": "総理誕生〜カーテンコール",
+              "duration": "11:12"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

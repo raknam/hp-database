@@ -1,0 +1,128 @@
+{
+  "code": "EPCE-2020",
+  "url": "/release/detail/EPCE-2020/",
+  "source": "upfront",
+  "title": "ト・パソス ～情熱～",
+  "category": "CDアルバム",
+  "artist": "相田翔子",
+  "releaseDate": "2003/11/27",
+  "label": "地中海レーベル",
+  "images": [
+    "/images/4b00a1ac7d6b41606ae753da1ee50df2f18288c0.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/4b00a1ac7d6b41606ae753da1ee50df2f18288c0.jpg",
+      "price": "￥2,934 (税抜価格 ￥2,667)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-2020",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "デン・イメ・エドー ～わたしはもうここにいない～ Den ime edo",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "SpyrosYatras",
+                "作曲": "AlekosChrysovergis",
+                "編曲": "門倉聡"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ト・パソス ～情熱～ To pathos",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "YiannisK.loannou",
+                "作曲": "Madredeus",
+                "編曲": "前野知常"
+              }
+            },
+            {
+              "index": 3,
+              "title": "はかない愛だとしても Il me dit que je suis belle",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "S.Brewski,JeanJacquesGoldman",
+                "作曲": "S.BrewskiJeanJacquesGoldman",
+                "編曲": "門倉聡"
+              }
+            },
+            {
+              "index": 4,
+              "title": "哀しみの影 Yesterday Yes a day",
+              "duration": "03:12",
+              "credits": {
+                "作詞": "SergeGainsbourg",
+                "作曲": "SergeGainsbourg,Jean-PierreSabard",
+                "編曲": "前野知常"
+              }
+            },
+            {
+              "index": 5,
+              "title": "わたしたち20才 QUESTI VENT' ANNI MIEI",
+              "duration": "03:15",
+              "credits": {
+                "作詞": "GuidoCastaldo,FrancescoTorti",
+                "作曲": "EnnioMorricone",
+                "編曲": "前野知常"
+              }
+            },
+            {
+              "index": 6,
+              "title": "グリスビーのブルース Le Grisbi",
+              "duration": "03:17",
+              "credits": {
+                "作詞": "JeanAlcideMarieMarcland",
+                "作曲": "JeanAlbertHenriWiener",
+                "編曲": "前野知常"
+              }
+            },
+            {
+              "index": 7,
+              "title": "悲しみの兵士 LES HOMMES(QUI N'ONT PLUS RIEN A PERDRE)",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "GeraldFrank",
+                "作曲": "JeanGastonRenard",
+                "編曲": "前野知常"
+              }
+            },
+            {
+              "index": 8,
+              "title": "太陽のとびら ALLE PORTE DEL SOLE",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "DanielePace",
+                "作曲": "CorradoConti,MarioPanzeri&LorenzoPilat",
+                "編曲": "前野知常"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ジー・オ・ユーダス Zi o yudas",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "SpyrosYatras",
+                "作曲": "AlekosChrysovergis",
+                "編曲": "前野知常"
+              }
+            },
+            {
+              "index": 10,
+              "title": "ホリース・フテラー ～翼もないのに～ Choris ftera",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "GeorgosMoukidis",
+                "作曲": "GeorgosMoukidis",
+                "編曲": "門倉聡"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

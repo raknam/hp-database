@@ -1,0 +1,81 @@
+{
+  "code": "EPCE-5656",
+  "url": "/release/detail/EPCE-5656/",
+  "source": "upfront",
+  "title": "EVERYDAY 絶好調！！",
+  "category": "CDシングル",
+  "artist": "℃-ute",
+  "releaseDate": "2009/09/16",
+  "label": "zetima",
+  "images": [
+    "/images/fa1c7cf4e7e945f12598094f245e554bcee2b53b.jpg",
+    "/images/f0ae098f25b6780172651ec7bd81906764285f35.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/fa1c7cf4e7e945f12598094f245e554bcee2b53b.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5656",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "EVERYDAY 絶好調！！",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "甘い罠",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "EVERYDAY 絶好調！！(Instrumental)",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/f0ae098f25b6780172651ec7bd81906764285f35.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5658",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "EVERYDAY 絶好調！！(絶好調 Ver.)",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

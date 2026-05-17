@@ -1,0 +1,83 @@
+{
+  "id": 2056,
+  "url": "/release/2056/",
+  "title": "美女学 Vol.9",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2011.5.10",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/e1e97a81baa6527e0ab0ddab1a49131b687f40f7.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Lesson1 結婚式のマナーを学ぶ！！",
+              "duration": "14:28",
+              "credits": {
+                "出演": "高橋愛・新垣里沙(モーニング娘。)/矢島舞美・鈴木愛理(℃-ute)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Lesson2 披露宴に出席した時のマナーを学ぶ！！",
+              "duration": "16:53",
+              "credits": {
+                "出演": "高橋愛・新垣里沙(モーニング娘。)/矢島舞美・鈴木愛理(℃-ute)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Lesson3 結婚式のスピーチを学ぶ",
+              "duration": "10:50",
+              "credits": {
+                "出演": "高橋愛・新垣里沙(モーニング娘。)/矢島舞美・鈴木愛理(℃-ute)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Lesson1 女子ラーメン部を学ぶ！",
+              "duration": "14:40",
+              "credits": {
+                "出演": "道重さゆみ・光井愛佳(モーニング娘。)/清水佐紀・熊井友理奈(Berryz工房)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Lesson2 2011年に流行る女子ラーメン",
+              "duration": "08:32",
+              "credits": {
+                "出演": "道重さゆみ・光井愛佳(モーニング娘。)/清水佐紀・熊井友理奈(Berryz工房)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Lesson3 オリジナル女子ラーメンを作る！",
+              "duration": "12:18",
+              "credits": {
+                "出演": "道重さゆみ・光井愛佳(モーニング娘。)/清水佐紀・熊井友理奈(Berryz工房)"
+              }
+            },
+            {
+              "index": 7,
+              "title": "女子ラーメン部 未公開映像",
+              "duration": "05:08",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1079"
+        }
+      ]
+    }
+  ]
+}

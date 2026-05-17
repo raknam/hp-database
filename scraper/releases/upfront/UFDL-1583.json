@@ -1,0 +1,68 @@
+{
+  "code": "UFDL-1583",
+  "url": "/release/detail/UFDL-1583/",
+  "source": "upfront",
+  "title": "Misery ～愛の天秤～/なんとかなるでしょ(Special Edition)",
+  "category": "配信",
+  "artist": "ロージークロニクル",
+  "releaseDate": "2026/03/18",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/e0605cbb9e600421923149698590eb45c24d2653.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/e0605cbb9e600421923149698590eb45c24d2653.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1583",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Misery ～愛の天秤～",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "なんとかなるでしょ",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 3,
+              "title": "記念日未満",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "KOUGA",
+                "編曲": "馬瀬みさき"
+              }
+            },
+            {
+              "index": 4,
+              "title": "バラ色アンソロージー",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "馬瀬みさき",
+                "編曲": "馬瀬みさき"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

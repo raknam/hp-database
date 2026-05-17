@@ -1,0 +1,53 @@
+{
+  "code": "HKVN-10002",
+  "url": "/release/detail/HKVN-10002/",
+  "source": "upfront",
+  "title": "アイドルをさがせ！ヒストリーPart1 ～ハロプロメンバー総出演！～",
+  "category": "VHS",
+  "artist": "V.A.",
+  "releaseDate": "2002/01/17",
+  "label": "hachama",
+  "images": [
+    "/images/cbcd1e20953855206eabcc4bc1cf449a32ac2ecc.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/cbcd1e20953855206eabcc4bc1cf449a32ac2ecc.jpg",
+      "price": "￥2,750 (税抜価格 ￥2,500)",
+      "discs": [
+        {
+          "type": "VHS",
+          "catalogNo": "HKVN-10002",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "00:22"
+            },
+            {
+              "index": 2,
+              "title": "Hello! Project LIVE in 名古屋レインボーホールBACK STAGE 完全密着(1999年8月)",
+              "duration": "11:13"
+            },
+            {
+              "index": 3,
+              "title": "モーニング娘。主演映画「ピンチランナー」 撮影現場完全密着(2000年3月)",
+              "duration": "24:17"
+            },
+            {
+              "index": 4,
+              "title": "カントリー娘。りんね 緊張の初ステージ(1999年8月1日)",
+              "duration": "07:29"
+            },
+            {
+              "index": 5,
+              "title": "Hello! Project LIVE 2000 BACK STAGE 完全密着(2000年1月)",
+              "duration": "13:49"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

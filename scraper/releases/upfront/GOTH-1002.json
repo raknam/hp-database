@@ -1,0 +1,58 @@
+{
+  "code": "GOTH-1002",
+  "url": "/release/detail/GOTH-1002/",
+  "source": "upfront",
+  "title": "i-SCREAM MACHINE",
+  "category": "CDシングル",
+  "artist": "GaGaalinG",
+  "releaseDate": "2007/11/28",
+  "label": "GOTHUALL",
+  "images": [
+    "/images/bd8fbf642f9e6dbd6064a77f7376635d7b668132.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/bd8fbf642f9e6dbd6064a77f7376635d7b668132.jpg",
+      "price": "￥550 (税抜価格 ￥500)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "GOTH-1002",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "iーSCREAM MACHINE",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "GaGaalinG",
+                "作曲": "GaGaalinG",
+                "編曲": "GaGaalinG"
+              }
+            },
+            {
+              "index": 2,
+              "title": "FAVORITE GAME Yeah! Yeah!",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "GaGaalinG",
+                "作曲": "GaGaalinG",
+                "編曲": "GaGaalinG"
+              }
+            },
+            {
+              "index": 3,
+              "title": "iーSCREAM MACHINE (voiceless version)",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "GaGaalinG",
+                "作曲": "GaGaalinG",
+                "編曲": "GaGaalinG"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

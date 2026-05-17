@@ -1,0 +1,61 @@
+{
+  "id": 2794,
+  "url": "/release/2794/",
+  "title": "MI DA RA 摩天楼",
+  "category": "CDシングル",
+  "artist": "メロン記念日",
+  "releaseDate": "2003.9.10",
+  "label": "zetima",
+  "images": [
+    "/upload/images/bfb11241a2db5af44d8b5406c7498ba8eeeb7a43.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "MI DA RA 摩天楼",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "メロン記念日"
+              }
+            },
+            {
+              "index": 2,
+              "title": "二人のパラダイス",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "上杉洋史",
+                "歌": "メロン記念日"
+              }
+            },
+            {
+              "index": 3,
+              "title": "MI DA RA 摩天楼",
+              "duration": "03:59",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "メロン記念日"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5234"
+        }
+      ]
+    }
+  ]
+}

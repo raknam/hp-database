@@ -1,0 +1,38 @@
+{
+  "id": 5374,
+  "url": "/release/5374/",
+  "title": "誤爆〜We Can't Go Back〜",
+  "category": "配信",
+  "artist": "一岡伶奈、段原瑠々、川村文乃、高瀬くるみ、清野桃々姫",
+  "releaseDate": "2017.8.11",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/e7b705b15745c97b9416460b92c06013217bd22c.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "誤爆〜We Can't Go Back〜",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "AKIRA",
+                "歌": "一岡伶奈、段原瑠々、川村文乃、高瀬くるみ、清野桃々姫"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1357"
+        }
+      ]
+    }
+  ]
+}

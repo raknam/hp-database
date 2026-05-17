@@ -1,0 +1,103 @@
+{
+  "code": "UFBW-1544",
+  "url": "/release/detail/UFBW-1544/",
+  "source": "upfront",
+  "title": "Hello! Projectが行く！ナルチカ日帰り里山旅2017",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2017/06/24",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/e03e32538c1f983bc48c8f4db0db9b6be49ba6a7.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/e03e32538c1f983bc48c8f4db0db9b6be49ba6a7.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1544",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "日帰り里山旅2017 前編 PART①",
+              "duration": "07:25"
+            },
+            {
+              "index": 2,
+              "title": "未公開映像①",
+              "duration": "02:06"
+            },
+            {
+              "index": 3,
+              "title": "日帰り里山旅2017 前編 PART②",
+              "duration": "00:59"
+            },
+            {
+              "index": 4,
+              "title": "未公開映像②",
+              "duration": "03:16"
+            },
+            {
+              "index": 5,
+              "title": "日帰り里山旅2017 前編 PART③",
+              "duration": "05:34"
+            },
+            {
+              "index": 6,
+              "title": "日帰り里山旅2017 後編 PART①",
+              "duration": "10:58"
+            },
+            {
+              "index": 7,
+              "title": "未公開映像③",
+              "duration": "01:48"
+            },
+            {
+              "index": 8,
+              "title": "日帰り里山旅2017 後編 PART②",
+              "duration": "01:04"
+            },
+            {
+              "index": 9,
+              "title": "未公開映像④",
+              "duration": "02:47"
+            },
+            {
+              "index": 10,
+              "title": "日帰り里山旅2017 後編 PART③",
+              "duration": "01:50"
+            },
+            {
+              "index": 11,
+              "title": "未公開映像⑤",
+              "duration": "02:28"
+            },
+            {
+              "index": 12,
+              "title": "日帰り里山旅2017 後編 PART④",
+              "duration": "04:37"
+            },
+            {
+              "index": 13,
+              "title": "SATOYAMA女子会 〜ゲーム編〜",
+              "duration": "17:22"
+            },
+            {
+              "index": 14,
+              "title": "ご褒美TIME",
+              "duration": "01:01"
+            },
+            {
+              "index": 15,
+              "title": "SATOYAMA女子会 〜トーク編〜",
+              "duration": "16:43"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

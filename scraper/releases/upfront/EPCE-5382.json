@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5382",
+  "url": "/release/detail/EPCE-5382/",
+  "source": "upfront",
+  "title": "雪に願いを",
+  "category": "CDシングル",
+  "artist": "TAKUI",
+  "releaseDate": "2005/11/30",
+  "label": "zetima",
+  "images": [
+    "/images/97d0a5b890f53541d84283d3ab569c1b9962d4a4.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/97d0a5b890f53541d84283d3ab569c1b9962d4a4.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5382",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "雪に願いを",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "佐橋佳幸"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Cause I MISS YOU",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "佐橋佳幸"
+              }
+            },
+            {
+              "index": 3,
+              "title": "雪に願いを－vocal off version－",
+              "duration": "05:04",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "佐橋佳幸"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

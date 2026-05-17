@@ -1,0 +1,68 @@
+{
+  "code": "PKBP-5127",
+  "url": "/release/detail/PKBP-5127/",
+  "source": "upfront",
+  "title": "RIKA",
+  "category": "DVD",
+  "artist": "石川梨華",
+  "releaseDate": "2010/01/06",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/68718d9f3bd7b717271efb75250774726ab00da3.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/68718d9f3bd7b717271efb75250774726ab00da3.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5127",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Short Trip",
+              "duration": "04:10"
+            },
+            {
+              "index": 2,
+              "title": "With a book",
+              "duration": "03:11"
+            },
+            {
+              "index": 3,
+              "title": "At the Beach",
+              "duration": "03:15"
+            },
+            {
+              "index": 4,
+              "title": "Shopping",
+              "duration": "01:13"
+            },
+            {
+              "index": 5,
+              "title": "Lunch Time",
+              "duration": "02:58"
+            },
+            {
+              "index": 6,
+              "title": "Take a nap",
+              "duration": "00:57"
+            },
+            {
+              "index": 7,
+              "title": "Interview with RIKA",
+              "duration": "07:33"
+            },
+            {
+              "index": 8,
+              "title": "MAKING of 『24 Twenty Four』",
+              "duration": "30:59"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

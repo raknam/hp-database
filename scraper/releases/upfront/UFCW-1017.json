@@ -1,0 +1,48 @@
+{
+  "code": "UFCW-1017",
+  "url": "/release/detail/UFCW-1017/",
+  "source": "upfront",
+  "title": "負けるな わっしょい！",
+  "category": "CDシングル",
+  "artist": "ベキマス",
+  "releaseDate": "2011/08/06",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/9862d8e407c800493d30dcc17ceb58ccb4960fa6.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/9862d8e407c800493d30dcc17ceb58ccb4960fa6.jpg",
+      "price": "￥838 (税抜価格 ￥762)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "UFCW-1017",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "負けるな わっしょい！",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "負けるな わっしょい！(Instrumental)",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

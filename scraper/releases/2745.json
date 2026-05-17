@@ -1,0 +1,109 @@
+{
+  "id": 2745,
+  "url": "/release/2745/",
+  "title": "YOUR SONG ～青春宣誓～",
+  "category": "CDシングル",
+  "artist": "松浦亜弥",
+  "releaseDate": "2004.7.14",
+  "label": "zetima",
+  "images": [
+    "/upload/images/ee37b0a6c1476b445f771052362e1fc026b7f468.webp",
+    "/upload/images/2170ae06e4703dfe39f4c263894cc856c292d56a.webp"
+  ],
+  "editions": [
+    {
+      "name": "初回盤",
+      "image": "/upload/images/ee37b0a6c1476b445f771052362e1fc026b7f468.webp",
+      "price": "定価 ￥1,320（税抜価格 ￥1,200）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "YOUR SONG ～青春宣誓～",
+              "duration": "05:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一/鈴木俊介",
+                "歌": "松浦亜弥"
+              }
+            },
+            {
+              "index": 2,
+              "title": "シャイニング デイ",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一",
+                "歌": "松浦亜弥"
+              }
+            },
+            {
+              "index": 3,
+              "title": "YOUR SONG ～青春宣誓～",
+              "duration": "05:10",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一/鈴木俊介",
+                "歌": "松浦亜弥"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5292"
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/upload/images/2170ae06e4703dfe39f4c263894cc856c292d56a.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "YOUR SONG ～青春宣誓～",
+              "duration": "05:10",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一/鈴木俊介",
+                "歌": "松浦亜弥"
+              }
+            },
+            {
+              "index": 2,
+              "title": "シャイニング デイ",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一",
+                "歌": "松浦亜弥"
+              }
+            },
+            {
+              "index": 3,
+              "title": "YOUR SONG ～青春宣誓～",
+              "duration": "05:10",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一/鈴木俊介",
+                "歌": "松浦亜弥"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5293"
+        }
+      ]
+    }
+  ]
+}

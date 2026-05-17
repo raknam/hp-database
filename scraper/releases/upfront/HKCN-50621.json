@@ -1,0 +1,222 @@
+{
+  "code": "HKCN-50621",
+  "url": "/release/detail/HKCN-50621/",
+  "source": "upfront",
+  "title": "私を創るのは私/全然起き上がれないSUNDAY",
+  "category": "CDシングル",
+  "artist": "アンジュルム",
+  "releaseDate": "2019/11/20",
+  "label": "hachama",
+  "images": [
+    "/images/f9a7736be336c8c4760422c9f6bf45293d8771da.jpg",
+    "/images/348b6952ce6ee464cad25d9e8804009e159cab59.jpg",
+    "/images/7535870cf2b57aed1690ae1539b465476835e245.jpg",
+    "/images/163d0b0bd48dd545054f34d2c5cec1cd54c8194b.jpg",
+    "/images/888d68e44b38e98a1d67d894227e796668c26bb2.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/f9a7736be336c8c4760422c9f6bf45293d8771da.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50621",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "私を創るのは私",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "全然起き上がれないSUNDAY",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "私を創るのは私(Instrumental)",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "全然起き上がれないSUNDAY(Instrumental)",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/348b6952ce6ee464cad25d9e8804009e159cab59.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50623",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "私を創るのは私(Music Video)",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "KOUGA"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤SP】",
+      "image": "/images/7535870cf2b57aed1690ae1539b465476835e245.jpg",
+      "price": "￥1,870 (税抜価格 ￥1,700)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50625",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "私を創るのは私",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "全然起き上がれないSUNDAY",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "私を創るのは私(Instrumental)",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "全然起き上がれないSUNDAY(Instrumental)",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/163d0b0bd48dd545054f34d2c5cec1cd54c8194b.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50627",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "全然起き上がれないSUNDAY(Music Video)",
+              "duration": "05:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/888d68e44b38e98a1d67d894227e796668c26bb2.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50628",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "私を創るのは私",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "全然起き上がれないSUNDAY",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "私を創るのは私(Instrumental)",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "KOUGA",
+                "編曲": "KOUGA"
+              }
+            },
+            {
+              "index": 4,
+              "title": "全然起き上がれないSUNDAY(Instrumental)",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "江上浩太郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

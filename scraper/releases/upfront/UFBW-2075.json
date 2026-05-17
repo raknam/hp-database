@@ -1,0 +1,53 @@
+{
+  "code": "UFBW-2075",
+  "url": "/release/detail/UFBW-2075/",
+  "source": "upfront",
+  "title": "Greeting 〜小田さくら〜",
+  "category": "DVD",
+  "artist": "小田さくら",
+  "releaseDate": "2013/01/30",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/ff0dba1ef8a6d32fb348e9e249addaa51a18af8d.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/ff0dba1ef8a6d32fb348e9e249addaa51a18af8d.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2075",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Greeting",
+              "duration": "12:12"
+            },
+            {
+              "index": 2,
+              "title": "Casual",
+              "duration": "17:06"
+            },
+            {
+              "index": 3,
+              "title": "Natural",
+              "duration": "11:25"
+            },
+            {
+              "index": 4,
+              "title": "nterview",
+              "duration": "08:25"
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "01:10"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

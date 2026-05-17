@@ -1,0 +1,78 @@
+{
+  "code": "EPCE-5246",
+  "url": "/release/detail/EPCE-5246/",
+  "source": "upfront",
+  "title": "のすたるぢや",
+  "category": "CDシングル",
+  "artist": "布施明",
+  "releaseDate": "2003/10/22",
+  "label": "zetima",
+  "images": [
+    "/images/561a430f49eebb98997bb710ef21c1eadf85efd5.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/561a430f49eebb98997bb710ef21c1eadf85efd5.jpg",
+      "price": "￥1,210 (税抜価格 ￥1,100)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5246",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "のすたるぢや",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "田島貴男",
+                "作曲": "田島貴男",
+                "編曲": "船山基紀"
+              }
+            },
+            {
+              "index": 2,
+              "title": "I LOVE YOU",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "布施明",
+                "作曲": "布施明",
+                "編曲": "井川雅幸"
+              }
+            },
+            {
+              "index": 3,
+              "title": "これが青春だ",
+              "duration": "02:45",
+              "credits": {
+                "作詞": "岩谷時子",
+                "作曲": "いずみたく",
+                "編曲": "いずみたく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "のすたるぢや(オリジナル・カラオケ)",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "田島貴男",
+                "作曲": "田島貴男",
+                "編曲": "船山基紀"
+              }
+            },
+            {
+              "index": 5,
+              "title": "I LOVE YOU(オリジナル・カラオケ)",
+              "duration": "05:03",
+              "credits": {
+                "作詞": "布施明",
+                "作曲": "布施明",
+                "編曲": "井川雅幸"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

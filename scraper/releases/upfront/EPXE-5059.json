@@ -1,0 +1,73 @@
+{
+  "code": "EPXE-5059",
+  "url": "/release/detail/EPXE-5059/",
+  "source": "upfront",
+  "title": "アロハロ！7 モーニング娘。Blu-ray Disc",
+  "category": "BD",
+  "artist": "モーニング娘。'14",
+  "releaseDate": "2015/01/07",
+  "label": "zetima",
+  "images": [
+    "/images/cab4442024c69dd64e693b26e31fedbb4f8ac293.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/cab4442024c69dd64e693b26e31fedbb4f8ac293.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5059",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "03:29"
+            },
+            {
+              "index": 2,
+              "title": "BBQ Party",
+              "duration": "17:04"
+            },
+            {
+              "index": 3,
+              "title": "Images in the Garden",
+              "duration": "07:38"
+            },
+            {
+              "index": 4,
+              "title": "Beach Queen Battle",
+              "duration": "23:52"
+            },
+            {
+              "index": 5,
+              "title": "Images in the Beach",
+              "duration": "07:51"
+            },
+            {
+              "index": 6,
+              "title": "Pool Party",
+              "duration": "26:14"
+            },
+            {
+              "index": 7,
+              "title": "Campfire",
+              "duration": "12:11"
+            },
+            {
+              "index": 8,
+              "title": "Colorful Girls",
+              "duration": "04:37"
+            },
+            {
+              "index": 9,
+              "title": "Endroll",
+              "duration": "01:02"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

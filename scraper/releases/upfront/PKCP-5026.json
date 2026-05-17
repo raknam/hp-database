@@ -1,0 +1,102 @@
+{
+  "code": "PKCP-5026",
+  "url": "/release/detail/PKCP-5026/",
+  "source": "upfront",
+  "title": "抱いてよ！ PLEASE GO ON",
+  "category": "CDシングル",
+  "artist": "後藤真希",
+  "releaseDate": "2003/08/27",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/dd9f3b9acc38aa9ac5f7129899ac443e4f2b6d29.jpg",
+    "/images/f08d51e19bdbc015d540d2329a8ee8627608991a.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回盤】",
+      "image": "/images/dd9f3b9acc38aa9ac5f7129899ac443e4f2b6d29.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5026",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "抱いてよ！ PLEASE GO ON",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "おふざけKISS",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 3,
+              "title": "抱いてよ！ PLEASE GO ON(Instrumental)",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/f08d51e19bdbc015d540d2329a8ee8627608991a.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5027",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "抱いてよ！ PLEASE GO ON",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "おふざけKISS",
+              "duration": "03:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 3,
+              "title": "抱いてよ！ PLEASE GO ON(Instrumental)",
+              "duration": "03:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

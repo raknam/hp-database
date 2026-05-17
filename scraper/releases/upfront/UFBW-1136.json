@@ -1,0 +1,68 @@
+{
+  "code": "UFBW-1136",
+  "url": "/release/detail/UFBW-1136/",
+  "source": "upfront",
+  "title": "ハロプロ！TIME Vol.4",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012/01/06",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/a0217ba53adfb513a0a0d5effc7ceefb9f625462.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/a0217ba53adfb513a0a0d5effc7ceefb9f625462.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1136",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "空港到着〜ソウル市内へ！",
+              "duration": "11:01"
+            },
+            {
+              "index": 2,
+              "title": "立ち食いカルビ！！",
+              "duration": "05:49"
+            },
+            {
+              "index": 3,
+              "title": "ホテルにチェックイン〜明洞で買い物三昧！",
+              "duration": "08:00"
+            },
+            {
+              "index": 4,
+              "title": "韓国グルメ－激うまトッポギ鍋！！－",
+              "duration": "04:22"
+            },
+            {
+              "index": 5,
+              "title": "韓国グルメ＆同期ガールズトーク！",
+              "duration": "14:11"
+            },
+            {
+              "index": 6,
+              "title": "初日のラストは韓国エステ！",
+              "duration": "08:10"
+            },
+            {
+              "index": 7,
+              "title": "2日目ロッテワールドで大絶叫！",
+              "duration": "11:20"
+            },
+            {
+              "index": 8,
+              "title": "免税店で買い物三昧〜屋台市場で練り歩き！",
+              "duration": "09:35"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

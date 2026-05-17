@@ -1,0 +1,87 @@
+{
+  "code": "EPBE-5375",
+  "url": "/release/detail/EPBE-5375/",
+  "source": "upfront",
+  "title": "さゆ",
+  "category": "DVD",
+  "artist": "道重さゆみ",
+  "releaseDate": "2010/04/28",
+  "label": "zetima",
+  "images": [
+    "/images/3fe33674261c6c76ba0c8b6c671c8111e5100392.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/3fe33674261c6c76ba0c8b6c671c8111e5100392.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5375",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Mysterious island",
+              "duration": "02:56",
+              "credits": {
+                "作曲": "つんく",
+                "編曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Adventure in wild",
+              "duration": "02:10",
+              "credits": {
+                "作曲": "つんく",
+                "編曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Little fall",
+              "duration": "04:58",
+              "credits": {
+                "作曲": "つんく",
+                "編曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Great sunset",
+              "duration": "01:51"
+            },
+            {
+              "index": 5,
+              "title": "Hidden beach",
+              "duration": "04:17",
+              "credits": {
+                "作曲": "つんく",
+                "編曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "nterview",
+              "duration": "17:34",
+              "credits": {
+                "作曲": "つんく",
+                "編曲": "つんく"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Making of La",
+              "duration": "24:13",
+              "credits": {
+                "作曲": "つんく",
+                "編曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5142",
+  "url": "/release/detail/EPCE-5142/",
+  "source": "upfront",
+  "title": "さぁ！ 恋人になろう",
+  "category": "CDシングル",
+  "artist": "メロン記念日",
+  "releaseDate": "2002/02/14",
+  "label": "zetima",
+  "images": [
+    "/images/714b81ec631aa92fd5e319e925ed8c8ceffc5ec2.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/714b81ec631aa92fd5e319e925ed8c8ceffc5ec2.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5142",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "さぁ！ 恋人になろう",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "つんく＆新堂敦士",
+                "作曲": "新堂敦士",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ガールズパワー・愛するパワー",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "新堂敦士",
+                "作曲": "新堂敦士",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 3,
+              "title": "さぁ！ 恋人になろう(Instrumental)",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "つんく＆新堂敦士",
+                "作曲": "新堂敦士",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

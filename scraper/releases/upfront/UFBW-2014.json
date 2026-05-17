@@ -1,0 +1,48 @@
+{
+  "code": "UFBW-2014",
+  "url": "/release/detail/UFBW-2014/",
+  "source": "upfront",
+  "title": "熊井友理奈写真集「クマスポ！」”メイキングDVD〜特別編集版〜",
+  "category": "DVD",
+  "artist": "熊井友理奈",
+  "releaseDate": "2011/01/28",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/nowprinting.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/nowprinting.jpg",
+      "price": "￥2,750 (税抜価格 ￥2,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2014",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Day1",
+              "duration": "15:45"
+            },
+            {
+              "index": 2,
+              "title": "Day2",
+              "duration": "19:22"
+            },
+            {
+              "index": 3,
+              "title": "Day3",
+              "duration": "10:14"
+            },
+            {
+              "index": 4,
+              "title": "Bonus Talk",
+              "duration": "05:56"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

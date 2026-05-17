@@ -1,0 +1,91 @@
+{
+  "id": 383,
+  "url": "/release/383/",
+  "title": "アロハロ！2 モーニング娘。DVD",
+  "category": "DVD",
+  "artist": "モーニング娘。",
+  "releaseDate": "2007.7.11",
+  "label": "zetima",
+  "images": [
+    "/upload/images/3c16c95ebae4088186f5eb7a2352424c00bfbec5.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "00:25",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "プール&ビーチ",
+              "duration": "06:08",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "抽選",
+              "duration": "01:29",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 4,
+              "title": "アトラクション",
+              "duration": "08:57",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 5,
+              "title": "2日目スタート",
+              "duration": "06:44",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 6,
+              "title": "旅",
+              "duration": "15:06",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 7,
+              "title": "旅の思い出",
+              "duration": "09:22",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 8,
+              "title": "エンディング",
+              "duration": "05:02",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5250"
+        }
+      ]
+    }
+  ]
+}

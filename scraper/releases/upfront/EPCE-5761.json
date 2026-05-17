@@ -1,0 +1,78 @@
+{
+  "code": "EPCE-5761",
+  "url": "/release/detail/EPCE-5761/",
+  "source": "upfront",
+  "title": "ユラリユララ",
+  "category": "CDシングル",
+  "artist": "中島卓偉",
+  "releaseDate": "2011/03/02",
+  "label": "zetima",
+  "images": [
+    "/images/74a965b6871bb6a867d8ba05cfd1f061942b504d.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/74a965b6871bb6a867d8ba05cfd1f061942b504d.jpg",
+      "price": "￥1,572 (税抜価格 ￥1,429)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5761",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ユラリユララ",
+              "duration": "04:51",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉弦/編曲:菊谷知樹"
+              }
+            },
+            {
+              "index": 2,
+              "title": "BOOM BOOM BOOM",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 3,
+              "title": "お揃いFLAVOR",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 4,
+              "title": "テルミー東京",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ユラリユララ-vocal off version-",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉/弦編曲:菊谷知樹"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

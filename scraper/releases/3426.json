@@ -1,0 +1,109 @@
+{
+  "id": 3426,
+  "url": "/release/3426/",
+  "title": "パパンケーキ",
+  "category": "CDシングル",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "releaseDate": "2008.7.16",
+  "label": "zetima",
+  "images": [
+    "/upload/images/64e230ab72462fcd8ee46420e85c41e4ac8f3f9f.webp",
+    "/upload/images/7e266380883023c62092a5a5f541422605ed651f.webp"
+  ],
+  "editions": [
+    {
+      "name": "【完全生産限定盤】",
+      "image": "/upload/images/64e230ab72462fcd8ee46420e85c41e4ac8f3f9f.webp",
+      "price": "定価 ￥1,320（税抜価格 ￥1,200）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "パパンケーキ",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "FIREWORKS",
+                "編曲": "宮永治郎",
+                "歌": "月島きらり starring 久住小春"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Oh!トモダチ",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "BOUNCEBACK",
+                "編曲": "BOUNCEBACK",
+                "歌": "月島きらり starring 久住小春"
+              }
+            },
+            {
+              "index": 3,
+              "title": "パパンケーキ",
+              "duration": "04:06",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "FIREWORKS",
+                "編曲": "宮永治郎",
+                "歌": "月島きらり starring 久住小春"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5563"
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/7e266380883023c62092a5a5f541422605ed651f.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "パパンケーキ",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "FIREWORKS",
+                "編曲": "宮永治郎",
+                "歌": "月島きらり starring 久住小春"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Oh!トモダチ",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "BOUNCEBACK",
+                "編曲": "BOUNCEBACK",
+                "歌": "月島きらり starring 久住小春"
+              }
+            },
+            {
+              "index": 3,
+              "title": "パパンケーキ",
+              "duration": "04:06",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "2℃",
+                "作曲": "FIREWORKS",
+                "編曲": "宮永治郎",
+                "歌": "月島きらり starring 久住小春"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5564"
+        }
+      ]
+    }
+  ]
+}

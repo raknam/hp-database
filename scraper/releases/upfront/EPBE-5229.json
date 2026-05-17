@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5229",
+  "url": "/release/detail/EPBE-5229/",
+  "source": "upfront",
+  "title": "シングルV「僕らが生きる MY ASIA」",
+  "category": "DVDシングルV",
+  "artist": "モーニング娘｡誕生10年記念隊",
+  "releaseDate": "2007/02/21",
+  "label": "zetima",
+  "images": [
+    "/images/d1a30e85aced43b0f114e7c3dceb991f771af0d1.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d1a30e85aced43b0f114e7c3dceb991f771af0d1.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5229",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "僕らが生きる MY ASIA",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "僕らが生きる MY ASIA(Close-up Ver.)",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "14:45"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

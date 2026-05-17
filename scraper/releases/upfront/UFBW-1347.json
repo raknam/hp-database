@@ -1,0 +1,51 @@
+{
+  "code": "UFBW-1347",
+  "url": "/release/detail/UFBW-1347/",
+  "source": "upfront",
+  "title": "ハロー!SATOYAMAライフ Vol.27",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2014/05/28",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/f098b00e574d8713a330d1f2ce6358782168c193.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f098b00e574d8713a330d1f2ce6358782168c193.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1347",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "埼玉日帰り 里山巡り",
+              "duration": "30:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "埼玉日帰り 里山巡り 写真集作り",
+              "duration": "33:25"
+            },
+            {
+              "index": 3,
+              "title": "℃-ute「都会の一人暮らし」MV撮影に密着",
+              "duration": "18:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

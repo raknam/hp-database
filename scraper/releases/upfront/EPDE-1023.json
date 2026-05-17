@@ -1,0 +1,58 @@
+{
+  "code": "EPDE-1023",
+  "url": "/release/detail/EPDE-1023/",
+  "source": "upfront",
+  "title": "私のように",
+  "category": "CDシングル",
+  "artist": "森高千里",
+  "releaseDate": "1999/03/17",
+  "label": "zetima",
+  "images": [
+    "/images/7b3c595299becdfece02e493eb6bbcc3e10730e4.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7b3c595299becdfece02e493eb6bbcc3e10730e4.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1023",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "私のようにキリンビバレッジ｢ナチュラルズ｣CMソング",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "河野伸",
+                "編曲": "河野伸"
+              }
+            },
+            {
+              "index": 2,
+              "title": "SPACE",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "森高千里",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "私のように(orignal karaoke)",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "河野伸",
+                "編曲": "河野伸"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

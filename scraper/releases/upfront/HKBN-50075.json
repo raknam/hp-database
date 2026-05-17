@@ -1,0 +1,100 @@
+{
+  "code": "HKBN-50075",
+  "url": "/release/detail/HKBN-50075/",
+  "source": "upfront",
+  "title": "安倍なつみ シングルVクリップス①",
+  "category": "DVDシングルV",
+  "artist": "安倍なつみ",
+  "releaseDate": "2006/12/20",
+  "label": "hachama",
+  "images": [
+    "/images/1bb5c38b6ff9b1d3638a4c4c83d7c6cadefd3b61.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/1bb5c38b6ff9b1d3638a4c4c83d7c6cadefd3b61.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "HKBN-50075",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "22歳の私",
+              "duration": "05:08",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "だって 生きてかなくちゃ",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋のテレフォンGOAL",
+              "duration": "03:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "夢ならば",
+              "duration": "04:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "恋の花",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "BULGE",
+                "作曲": "BULGE"
+              }
+            },
+            {
+              "index": 6,
+              "title": "スイートホリック",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "BULGE",
+                "作曲": "BULGE"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ザ・ストレス",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "森高千里",
+                "作曲": "斉藤英夫"
+              }
+            },
+            {
+              "index": 8,
+              "title": "甘すぎた果実",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "BULGE/海老根祐子/古屋真",
+                "作曲": "迫茂樹"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

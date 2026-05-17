@@ -1,0 +1,68 @@
+{
+  "id": 6719,
+  "url": "/release/6719/",
+  "title": "シングルV「ビートの惑星」",
+  "category": "BDシングル",
+  "artist": "モーニング娘。'21",
+  "releaseDate": "2022.4.13",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/e11fbb27d0c6885e21b368e6728c19f0d9eb1d3f.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ビートの惑星",
+              "duration": "05:36",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "出演": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ビートの惑星",
+              "duration": "03:58",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "出演": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ビートの惑星",
+              "duration": "03:50",
+              "suffix": "(Dance Shot Ver.Ⅱ)",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom/miwaflower",
+                "出演": "モーニング娘。'21"
+              }
+            },
+            {
+              "index": 4,
+              "title": "メイキング映像",
+              "duration": "14:42",
+              "credits": {
+                "出演": "モーニング娘。'21"
+              }
+            }
+          ],
+          "catalogNo": "UFXW-1026"
+        }
+      ]
+    }
+  ]
+}

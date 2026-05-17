@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5500",
+  "url": "/release/detail/EPCE-5500/",
+  "source": "upfront",
+  "title": "だんな様",
+  "category": "CDシングル",
+  "artist": "中澤裕子",
+  "releaseDate": "2007/10/10",
+  "label": "zetima",
+  "images": [
+    "/images/cad8f104203875ff95f78611a83ac46d4bfa3429.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/cad8f104203875ff95f78611a83ac46d4bfa3429.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5500",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "だんな様",
+              "duration": "05:04",
+              "credits": {
+                "作詞": "久和カノン",
+                "作曲": "田村信二",
+                "編曲": "朝井泰生"
+              }
+            },
+            {
+              "index": 2,
+              "title": "グリーティングカード",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "稲葉エミ",
+                "作曲": "田村信二",
+                "編曲": "朝井泰生"
+              }
+            },
+            {
+              "index": 3,
+              "title": "だんな様(Instrumental)",
+              "duration": "05:04",
+              "credits": {
+                "作詞": "久和カノン",
+                "作曲": "田村信二",
+                "編曲": "朝井泰生"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

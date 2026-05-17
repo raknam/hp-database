@@ -1,0 +1,38 @@
+{
+  "id": 6222,
+  "url": "/release/6222/",
+  "title": "天使の涙",
+  "category": "配信",
+  "artist": "中西香菜",
+  "releaseDate": "2019.12.20",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/f16f4c00fe5fbe30097c1d7fd945b097f7985764.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "天使の涙",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "福田花音",
+                "作曲": "福田花音",
+                "編曲": "浜田ピエール裕介",
+                "歌": "中西香菜(アンジュルム)"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1447"
+        }
+      ]
+    }
+  ]
+}

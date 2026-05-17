@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-5119",
+  "url": "/release/detail/EPCE-5119/",
+  "source": "upfront",
+  "title": "ミニモニ。テレフォン！リンリンリン/ミニモニ。バスガイド",
+  "category": "CDシングル",
+  "artist": "ミニモニ｡",
+  "releaseDate": "2001/09/12",
+  "label": "zetima",
+  "images": [
+    "/images/2d873fec7418a96cf38597ef4dddd8c52c98d053.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/2d873fec7418a96cf38597ef4dddd8c52c98d053.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5119",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ミニモニ。テレフォン！リンリンリン",
+              "duration": "03:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ミニモニ。バスガイド",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ミニモニ。テレフォン！リンリンリン(オリジナル・カラオケ)",
+              "duration": "03:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ミニモニ。バスガイド(オリジナル・カラオケ)",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "code": "UFCW-1048",
+  "url": "/release/detail/UFCW-1048/",
+  "source": "upfront",
+  "title": "UPPER ROCK/イチバンガールズ！",
+  "category": "CDシングル",
+  "artist": "アップアップガールズ（仮）",
+  "releaseDate": "2012/10/28",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/69cc5abb4096a7a01c1b16cd1623f3479f1e94f7.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/69cc5abb4096a7a01c1b16cd1623f3479f1e94f7.jpg",
+      "price": "￥1,047 (税抜価格 ￥952)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "UFCW-1048",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "UPPER ROCK",
+              "duration": "04:59",
+              "credits": {
+                "作詞": "michitomo",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 2,
+              "title": "イチバンガールズ！",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "michitomo",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 3,
+              "title": "UPPER ROCK(Instrumental)",
+              "duration": "04:59",
+              "credits": {
+                "作詞": "michitomo",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 4,
+              "title": "イチバンガールズ！(Instrumental)",
+              "duration": "03:52",
+              "credits": {
+                "作詞": "michitomo",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

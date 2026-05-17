@@ -1,0 +1,125 @@
+{
+  "code": "HKCN-50113",
+  "url": "/release/detail/HKCN-50113/",
+  "source": "upfront",
+  "title": "夢見る 15歳(フィフティーン)",
+  "category": "CDシングル",
+  "artist": "スマイレージ",
+  "releaseDate": "2010/05/26",
+  "label": "hachama",
+  "images": [
+    "/images/ae361980a97befd3aa4b9da670364ddfe875f789.jpg",
+    "/images/b1f4dd69d6e5d8638985b6dc1010722d1c866d82.jpg",
+    "/images/bf29f99bdf654084d00bbf2bb2bb4079e8427e07.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/ae361980a97befd3aa4b9da670364ddfe875f789.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50113",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夢見る 15歳(フィフティーン)",
+              "duration": "03:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "サンキュ！ クレームブリュレの友情",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "亜伊林",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "夢見る 15歳(フィフティーン)(Instrumental)",
+              "duration": "03:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/b1f4dd69d6e5d8638985b6dc1010722d1c866d82.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50115",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夢見る 15歳(フィフティーン)(Dance Shot Ver.)",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/bf29f99bdf654084d00bbf2bb2bb4079e8427e07.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50117",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夢見る 15歳(フィフティーン)",
+              "duration": "03:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "サンキュ！クレームブリュレの友情",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "亜伊林",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "夢見る 15歳(フィフティーン)(Instrumental)",
+              "duration": "03:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

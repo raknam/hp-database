@@ -1,0 +1,111 @@
+{
+  "id": 2896,
+  "url": "/release/2896/",
+  "title": "僕らが生きる MY ASIA",
+  "category": "CDシングル",
+  "artist": "モーニング娘｡誕生10年記念隊",
+  "releaseDate": "2007.1.24",
+  "label": "zetima",
+  "images": [
+    "/upload/images/0245dd24f67ee2b03c9cabab9dfe2b14b323dfa4.webp",
+    "/upload/images/f3fbc426fdf90ed0fbee3b22bedea6fbe8cb820a.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/upload/images/0245dd24f67ee2b03c9cabab9dfe2b14b323dfa4.webp",
+      "price": "定価 ￥1,320（税抜価格 ￥1,200）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "僕らが生きる MY ASIA",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "十年愛",
+              "duration": "03:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "僕らが生きる MY ASIA",
+              "duration": "04:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5448"
+        }
+      ],
+      "note": "初回仕様 スペシャルパッケージ＋フォトカード4種"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/f3fbc426fdf90ed0fbee3b22bedea6fbe8cb820a.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "僕らが生きる MY ASIA",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "十年愛",
+              "duration": "03:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "僕らが生きる MY ASIA",
+              "duration": "04:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5449"
+        }
+      ],
+      "note": "初回仕様 フォトカード1種封入"
+    }
+  ]
+}

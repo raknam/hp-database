@@ -1,0 +1,56 @@
+{
+  "id": 431,
+  "url": "/release/431/",
+  "title": "シングルV「しょうがない 夢追い人」",
+  "category": "DVDシングルV",
+  "artist": "モーニング娘。",
+  "releaseDate": "2009.5.20",
+  "label": "zetima",
+  "images": [
+    "/upload/images/65cc3077cfd5dd2c3f348b479aa858c9f3985a7d.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "しょうがない 夢追い人",
+              "duration": "05:23",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "しょうがない 夢追い人",
+              "duration": "05:14",
+              "suffix": "(Drama Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "22:28",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5326"
+        }
+      ]
+    }
+  ]
+}

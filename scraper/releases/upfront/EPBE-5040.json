@@ -1,0 +1,43 @@
+{
+  "code": "EPBE-5040",
+  "url": "/release/detail/EPBE-5040/",
+  "source": "upfront",
+  "title": "シングルV「モーニング娘。シングルメドレー ～ハワイアン～」",
+  "category": "DVDシングルV",
+  "artist": "高木ブーとモ－ニング娘｡･ココナッツ娘｡･藤本美貴･石川リカ",
+  "releaseDate": "2002/07/24",
+  "label": "zetima",
+  "images": [
+    "/images/6b37c9316ef59b1e075962f92dab964e9acd3be4.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/6b37c9316ef59b1e075962f92dab964e9acd3be4.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5040",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "モーニング娘。シングルメドレー ～ハワイアン～",
+              "duration": "04:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "米光亮＆宮本賢二"
+              }
+            },
+            {
+              "index": 2,
+              "title": "おまけ",
+              "duration": "04:36"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

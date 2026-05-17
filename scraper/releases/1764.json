@@ -1,0 +1,56 @@
+{
+  "id": 1764,
+  "url": "/release/1764/",
+  "title": "シングルV「ファイティングポーズはダテじゃない！」",
+  "category": "DVDシングルV",
+  "artist": "Berryz工房",
+  "releaseDate": "2004.5.12",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/upload/images/1bf4072a59f0a62713bb9fa7c9eeb9f6803d9aee.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ファイティングポーズはダテじゃない！",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ファイティングポーズはダテじゃない！",
+              "duration": "03:39",
+              "suffix": "(プールサイドでDANCE！DANCE！DANCE！Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "04:06",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "PKBP-5017"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "code": "UFBW-1351",
+  "url": "/release/detail/UFBW-1351/",
+  "source": "upfront",
+  "title": "ハロー!SATOYAMAライフ Vol.31",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2014/08/06",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/0fa7b162facb15a7d1e56b65f2e909c19fe061d8.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/0fa7b162facb15a7d1e56b65f2e909c19fe061d8.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1351",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Forest For Rest〜里山・里海へ行こう〜 SATOYAMA＆SATOUMI with 勇気の翼 企画会議・準備",
+              "duration": "18:52"
+            },
+            {
+              "index": 2,
+              "title": "Forest For Rest〜里山・里海へ行こう〜SATOYAMA＆SATOUMI with 勇気の翼",
+              "duration": "22:56"
+            },
+            {
+              "index": 3,
+              "title": "モーニング娘。コンサートツアー2013秋〜CHANCE!〜in日本武道館",
+              "duration": "22:32"
+            },
+            {
+              "index": 4,
+              "title": "モーニング娘。コンサートツアー2013秋〜CHANCE!〜in日本武道館 未公開映像",
+              "duration": "05:31"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

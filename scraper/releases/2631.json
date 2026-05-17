@@ -1,0 +1,61 @@
+{
+  "id": 2631,
+  "url": "/release/2631/",
+  "title": "スクリーン",
+  "category": "CDシングル",
+  "artist": "安倍なつみ",
+  "releaseDate": "2008.12.3",
+  "label": "hachama",
+  "images": [
+    "/upload/images/ff98f38266b1c2237f6299d9c1fc403ff36308c7.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "スクリーン",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一",
+                "歌": "安倍なつみ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "さよならさえ言えぬまま",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "安倍なつみ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "スクリーン",
+              "duration": "04:49",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一",
+                "歌": "安倍なつみ"
+              }
+            }
+          ],
+          "catalogNo": "HKCN-50067"
+        }
+      ]
+    }
+  ]
+}

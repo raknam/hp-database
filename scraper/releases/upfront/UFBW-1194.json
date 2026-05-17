@@ -1,0 +1,53 @@
+{
+  "code": "UFBW-1194",
+  "url": "/release/detail/UFBW-1194/",
+  "source": "upfront",
+  "title": "ハロプロ！TIME Vol.20",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012/11/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/8715893a33f29c76cacaa31d0acd64cf0125d464.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/8715893a33f29c76cacaa31d0acd64cf0125d464.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1194",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "夏焼TIME東京下町デート①",
+              "duration": "21:24"
+            },
+            {
+              "index": 2,
+              "title": "夏焼TIME東京下町デート②",
+              "duration": "16:08"
+            },
+            {
+              "index": 3,
+              "title": "℃-uteTIME超ハイテンションのハワイファンクラブツアー",
+              "duration": "04:53"
+            },
+            {
+              "index": 4,
+              "title": "清水TIME物件巡りで憧れの一人暮らし実現！？①",
+              "duration": "16:08"
+            },
+            {
+              "index": 5,
+              "title": "清水TIME物件巡りで憧れの一人暮らし実現！？②",
+              "duration": "12:21"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

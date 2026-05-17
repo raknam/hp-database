@@ -1,0 +1,63 @@
+{
+  "code": "UFBW-2093",
+  "url": "/release/detail/UFBW-2093/",
+  "source": "upfront",
+  "title": "Smiling sky",
+  "category": "DVD",
+  "artist": "矢島舞美",
+  "releaseDate": "2013/12/16",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/c80cf918d5fe519ba146a02c8d3913da29788dbf.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/c80cf918d5fe519ba146a02c8d3913da29788dbf.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2093",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Sunrise",
+              "duration": "07:13"
+            },
+            {
+              "index": 2,
+              "title": "White",
+              "duration": "11:28"
+            },
+            {
+              "index": 3,
+              "title": "Blue&Green",
+              "duration": "06:45"
+            },
+            {
+              "index": 4,
+              "title": "Backlight",
+              "duration": "08:13"
+            },
+            {
+              "index": 5,
+              "title": "Sunset",
+              "duration": "06:43"
+            },
+            {
+              "index": 6,
+              "title": "Interviews",
+              "duration": "22:01"
+            },
+            {
+              "index": 7,
+              "title": "Ending",
+              "duration": "00:49"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "code": "UFCW-1140",
+  "url": "/release/detail/UFCW-1140/",
+  "source": "upfront",
+  "title": "演劇女子部「不思議の国のアリスたち」オリジナルサウンドトラック",
+  "category": "CDアルバム",
+  "artist": "BEYOOOOONDS",
+  "releaseDate": "2019/05/29",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/efa705addaad668676ade556bd008a83306fade1.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/efa705addaad668676ade556bd008a83306fade1.jpg",
+      "price": "￥1,528 (税抜価格 ￥1,389)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "UFCW-1140",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "不思議の国のアリスたち",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "太田善也",
+                "作曲": "和田俊輔",
+                "編曲": "岩永真奈"
+              }
+            },
+            {
+              "index": 2,
+              "title": "みんなライバル",
+              "duration": "02:28",
+              "credits": {
+                "作詞": "太田善也",
+                "作曲": "和田俊輔",
+                "編曲": "岩永真奈"
+              }
+            },
+            {
+              "index": 3,
+              "title": "私のフィロソフィー",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "太田善也",
+                "作曲": "和田俊輔",
+                "編曲": "岩永真奈"
+              }
+            },
+            {
+              "index": 4,
+              "title": "続いてる",
+              "duration": "03:02",
+              "credits": {
+                "作詞": "太田善也",
+                "作曲": "和田俊輔",
+                "編曲": "岩永真奈"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

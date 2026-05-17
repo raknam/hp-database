@@ -1,0 +1,44 @@
+{
+  "id": 381,
+  "url": "/release/381/",
+  "title": "ハロプロアワー Vol.9",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2007.3.21",
+  "label": "zetima",
+  "images": [
+    "/upload/images/04784d3a34b105382220761411648551ab5b7648.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "♯19",
+              "duration": "28:58",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "♯20",
+              "duration": "27:01",
+              "suffix": "(最終回)",
+              "credits": {
+                "出演": "V.A."
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5237"
+        }
+      ]
+    }
+  ]
+}

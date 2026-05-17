@@ -1,0 +1,58 @@
+{
+  "code": "UFBW-2050",
+  "url": "/release/detail/UFBW-2050/",
+  "source": "upfront",
+  "title": "Lily",
+  "category": "DVD",
+  "artist": "熊井友理奈",
+  "releaseDate": "2012/04/18",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/1420164140b772bd01b1d2d713756cbfdf9e191d.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/1420164140b772bd01b1d2d713756cbfdf9e191d.jpg",
+      "price": "￥3,122 (税抜価格 ￥2,838)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2050",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Black Lily",
+              "duration": "05:35"
+            },
+            {
+              "index": 2,
+              "title": "Beauty Lily",
+              "duration": "07:13"
+            },
+            {
+              "index": 3,
+              "title": "Clear Eyes",
+              "duration": "04:15"
+            },
+            {
+              "index": 4,
+              "title": "Interview",
+              "duration": "21:54"
+            },
+            {
+              "index": 5,
+              "title": "City Blue",
+              "duration": "10:20"
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "02:18"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

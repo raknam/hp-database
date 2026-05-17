@@ -1,0 +1,102 @@
+{
+  "code": "EPCE-5469",
+  "url": "/release/detail/EPCE-5469/",
+  "source": "upfront",
+  "title": "ハッピー☆彡",
+  "category": "CDシングル",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "releaseDate": "2007/05/02",
+  "label": "zetima",
+  "images": [
+    "/images/fb68500a3b2edabcf29a9eb87c3631f3c5b05ceb.jpg",
+    "/images/34a9de71f9a50a9f256468586806db4edae02bad.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【完全生産限定盤】",
+      "image": "/images/fb68500a3b2edabcf29a9eb87c3631f3c5b05ceb.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5469",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ハッピー☆彡",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "BOUNCEBACK",
+                "作曲": "BOUNCEBACK",
+                "編曲": "BOUNCEBACK"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋の魔法はハビビのビ！",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "すやまちえこ+吉田勝弥",
+                "作曲": "吉田勝弥",
+                "編曲": "吉田勝弥"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ハッピー☆彡(Instrumental)",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "BOUNCEBACK",
+                "作曲": "BOUNCEBACK",
+                "編曲": "BOUNCEBACK"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/34a9de71f9a50a9f256468586806db4edae02bad.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5470",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ハッピー☆彡",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "BOUNCEBACK",
+                "作曲": "BOUNCEBACK",
+                "編曲": "BOUNCEBACK"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋の魔法はハビビのビ！",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "すやまちえこ+吉田勝弥",
+                "作曲": "吉田勝弥",
+                "編曲": "吉田勝弥"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ハッピー☆彡(Instrumental)",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "BOUNCEBACK",
+                "作曲": "BOUNCEBACK",
+                "編曲": "BOUNCEBACK"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

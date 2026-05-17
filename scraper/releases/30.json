@@ -1,0 +1,115 @@
+{
+  "id": 30,
+  "url": "/release/30/",
+  "title": "“中島早貴 写真集「N20」”メイキングDVD〜特別編集版〜",
+  "category": "DVD",
+  "artist": "中島早貴",
+  "releaseDate": "2014.3.5",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/b9ba5e4bc54de790bdd3845e2d2cb361dbf6b0dc.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Chapter1",
+              "duration": "03:29",
+              "credits": {
+                "出演": "中島早貴"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Chapter2",
+              "duration": "05:27",
+              "credits": {
+                "出演": "中島早貴"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Chapter3",
+              "duration": "05:59",
+              "credits": {
+                "出演": "中島早貴"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Chapter4",
+              "duration": "02:38",
+              "credits": {
+                "出演": "中島早貴"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Chapter5",
+              "duration": "05:57",
+              "credits": {
+                "出演": "中島早貴"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Chapter1",
+              "duration": "08:36",
+              "credits": {
+                "出演": "中島早貴"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Chapter2",
+              "duration": "05:07",
+              "credits": {
+                "出演": "中島早貴"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Chapter3",
+              "duration": "04:40",
+              "credits": {
+                "出演": "中島早貴"
+              }
+            },
+            {
+              "index": 9,
+              "title": "Chapter4",
+              "duration": "03:40",
+              "credits": {
+                "出演": "中島早貴"
+              }
+            },
+            {
+              "index": 10,
+              "title": "Chapter5",
+              "duration": "03:32",
+              "credits": {
+                "出演": "中島早貴"
+              }
+            },
+            {
+              "index": 11,
+              "title": "Chapter6",
+              "duration": "02:39",
+              "credits": {
+                "出演": "中島早貴"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-2097"
+        }
+      ]
+    }
+  ]
+}

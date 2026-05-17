@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-5352",
+  "url": "/release/detail/EPCE-5352/",
+  "source": "upfront",
+  "title": "ひとりになることが怖かった",
+  "category": "CDシングル",
+  "artist": "TAKUI",
+  "releaseDate": "2005/02/23",
+  "label": "zetima",
+  "images": [
+    "/images/6a0bfa8a2abdba2e1f323b0ddd929bc92c1e3c8c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/6a0bfa8a2abdba2e1f323b0ddd929bc92c1e3c8c.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5352",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ひとりになることが怖かった",
+              "duration": "05:26",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 2,
+              "title": "BE MY BABE？(ROCK OF THE LIFE)",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 3,
+              "title": "イノヴェイター(LIVE AT SHIBUYA O-EAST)",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "CJdeVillar/中島卓偉"
+              }
+            },
+            {
+              "index": 4,
+              "title": "LOVE IS BLIND(LIVE AT SHIBUYA O-EAST)",
+              "duration": "04:06",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉",
+                "編曲": "中島卓偉"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "code": "EPVE-5007",
+  "url": "/release/detail/EPVE-5007/",
+  "source": "upfront",
+  "title": "ザ・ビデオ恋のダンスサイト",
+  "category": "VHS",
+  "artist": "モーニング娘。",
+  "releaseDate": "2000/02/23",
+  "label": "zetima",
+  "images": [
+    "/images/6b2c23fbcf4fca267b23cb98eea2fa8df45b4b56.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/6b2c23fbcf4fca267b23cb98eea2fa8df45b4b56.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "VHS",
+          "catalogNo": "EPVE-5007",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋のダンスサイト",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

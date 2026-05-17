@@ -1,0 +1,157 @@
+{
+  "id": 1734,
+  "url": "/release/1734/",
+  "title": "School Days",
+  "category": "CDシングル",
+  "artist": "ガーディアンズ４",
+  "releaseDate": "2009.9.2",
+  "label": "ポニーキャニオン",
+  "images": [
+    "/upload/images/cef598523f7c0f22ce8f4f8878499aed58151c0a.webp",
+    "/upload/images/107b43b55bb707ec1905c82f40da6f7ead7a4789.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回限定盤】",
+      "image": "/upload/images/cef598523f7c0f22ce8f4f8878499aed58151c0a.webp",
+      "price": "定価 ￥1,650（税抜価格 ￥1,500）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "School Days",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "BOUNCEBACK",
+                "編曲": "日比野裕史",
+                "歌": "ガーディアンズ4"
+              }
+            },
+            {
+              "index": 2,
+              "title": "School Days",
+              "duration": "00:00",
+              "suffix": "(しゅごキャラエッグ！Version)",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "BOUNCEBACK",
+                "編曲": "日比野裕史",
+                "歌": "ガーディアンズ4"
+              }
+            },
+            {
+              "index": 3,
+              "title": "いつかどこかで。",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "すみだしんや",
+                "編曲": "田辺恵二",
+                "歌": "ガーディアンズ4"
+              }
+            },
+            {
+              "index": 4,
+              "title": "School Days",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "BOUNCEBACK",
+                "編曲": "日比野裕史",
+                "歌": "ガーディアンズ4"
+              }
+            },
+            {
+              "index": 5,
+              "title": "いつかどこかで。",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "すみだしんや",
+                "編曲": "田辺恵二",
+                "歌": "ガーディアンズ4"
+              }
+            }
+          ],
+          "catalogNo": "PCCA-03000"
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/107b43b55bb707ec1905c82f40da6f7ead7a4789.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "School Days",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "BOUNCEBACK",
+                "編曲": "日比野裕史",
+                "歌": "ガーディアンズ4"
+              }
+            },
+            {
+              "index": 2,
+              "title": "School Days",
+              "duration": "00:00",
+              "suffix": "(しゅごキャラエッグ！Version)",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "BOUNCEBACK",
+                "編曲": "日比野裕史",
+                "歌": "ガーディアンズ4"
+              }
+            },
+            {
+              "index": 3,
+              "title": "いつかどこかで。",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "すみだしんや",
+                "編曲": "田辺恵二",
+                "歌": "ガーディアンズ4"
+              }
+            },
+            {
+              "index": 4,
+              "title": "School Days",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "BOUNCEBACK",
+                "編曲": "日比野裕史",
+                "歌": "ガーディアンズ4"
+              }
+            },
+            {
+              "index": 5,
+              "title": "いつかどこかで。",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "すみだしんや",
+                "編曲": "田辺恵二",
+                "歌": "ガーディアンズ4"
+              }
+            }
+          ],
+          "catalogNo": "PCCA-03001"
+        }
+      ]
+    }
+  ]
+}

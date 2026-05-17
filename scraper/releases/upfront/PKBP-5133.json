@@ -1,0 +1,58 @@
+{
+  "code": "PKBP-5133",
+  "url": "/release/detail/PKBP-5133/",
+  "source": "upfront",
+  "title": "ももち DVD図鑑",
+  "category": "DVD",
+  "artist": "嗣永桃子",
+  "releaseDate": "2010/10/27",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/6aa9c1fd37a81e267635495aa81e45fd66629ea5.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/6aa9c1fd37a81e267635495aa81e45fd66629ea5.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5133",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "08:14"
+            },
+            {
+              "index": 2,
+              "title": "Beach",
+              "duration": "08:45"
+            },
+            {
+              "index": 3,
+              "title": "Sunset",
+              "duration": "05:36"
+            },
+            {
+              "index": 4,
+              "title": "Momo Talks",
+              "duration": "03:46"
+            },
+            {
+              "index": 5,
+              "title": "Making of 『ももち図鑑』",
+              "duration": "30:50"
+            },
+            {
+              "index": 6,
+              "title": "Endroll",
+              "duration": "04:13"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

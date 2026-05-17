@@ -1,0 +1,93 @@
+{
+  "code": "EPBE-5278",
+  "url": "/release/detail/EPBE-5278/",
+  "source": "upfront",
+  "title": "平成レボリューション〜バックトゥザ・白虎隊〜",
+  "category": "DVD",
+  "artist": "吉澤ひとみ",
+  "releaseDate": "2007/12/26",
+  "label": "zetima",
+  "images": [
+    "/images/1afd7b5337cf8c6ae8ab537be9fbe50bcfecac57.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/1afd7b5337cf8c6ae8ab537be9fbe50bcfecac57.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5278",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プロローグ 電車の中",
+              "duration": "05:22"
+            },
+            {
+              "index": 2,
+              "title": "白虎隊 剣舞",
+              "duration": "03:41"
+            },
+            {
+              "index": 3,
+              "title": "カントリーニュース 今日のトップニュースから",
+              "duration": "06:54"
+            },
+            {
+              "index": 4,
+              "title": "保科家居間 美咲と保科家の人たち",
+              "duration": "09:35"
+            },
+            {
+              "index": 5,
+              "title": "カントリーニュース 特集を見るさやか",
+              "duration": "16:27"
+            },
+            {
+              "index": 6,
+              "title": "日新館 美咲からの手紙",
+              "duration": "04:25"
+            },
+            {
+              "index": 7,
+              "title": "保科家居間 裕也の帰りを待つ家族",
+              "duration": "10:58"
+            },
+            {
+              "index": 8,
+              "title": "夜道 裕也を追う美咲とさやか",
+              "duration": "12:42"
+            },
+            {
+              "index": 9,
+              "title": "燃える保科家 りかを助けに行く美咲",
+              "duration": "06:45"
+            },
+            {
+              "index": 10,
+              "title": "燃える保科家 バケツリレー",
+              "duration": "03:38"
+            },
+            {
+              "index": 11,
+              "title": "燃える保科家 迷子のあき",
+              "duration": "04:43"
+            },
+            {
+              "index": 12,
+              "title": "日新館 訪れる保科家の人たち",
+              "duration": "10:18"
+            },
+            {
+              "index": 13,
+              "title": "カーテンコール",
+              "duration": "05:06"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

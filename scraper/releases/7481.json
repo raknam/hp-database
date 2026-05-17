@@ -1,0 +1,71 @@
+{
+  "id": 7481,
+  "url": "/release/7481/",
+  "title": "My Days for You/悲しみがとまらない(Special Edition)",
+  "category": "配信",
+  "artist": "つばきファクトリー",
+  "releaseDate": "2025.6.4",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/807c689c76e20516a4ef2b8d9be436a8ff60028f.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "My Days for You",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "中島卓偉",
+                "編曲": "鈴木俊介",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "悲しみがとまらない",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "康珍化",
+                "作曲": "林哲司",
+                "編曲": "炭竃智弘",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 3,
+              "title": "大好きなのに、大好きだから",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "中島卓偉",
+                "編曲": "炭竃智弘",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "月夜のパ・ド・ドゥ",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "西野蒟蒻",
+                "作曲": "Shusui/Albin Hillborg",
+                "編曲": "Albin Hillborg",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1555"
+        }
+      ]
+    }
+  ]
+}

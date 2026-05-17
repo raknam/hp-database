@@ -1,0 +1,71 @@
+{
+  "id": 1699,
+  "url": "/release/1699/",
+  "title": "シングルV「Kiss! Kiss! Kiss!」",
+  "category": "DVDシングルV",
+  "artist": "Buono!",
+  "releaseDate": "2008.6.18",
+  "label": "ポニーキャニオン",
+  "images": [
+    "/upload/images/10cbbaa2fb2a1cd771f61797721abbf8fa40d3ad.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Kiss!Kiss!Kiss!",
+              "duration": "00:00",
+              "suffix": "(Music Clip)",
+              "credits": {
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Kiss!Kiss!Kiss!",
+              "duration": "00:00",
+              "suffix": "(Close Up Version)",
+              "credits": {
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Kiss!Kiss!Kiss!",
+              "duration": "00:00",
+              "suffix": "(Dance Shot Version)",
+              "credits": {
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Kiss!Kiss!Kiss!",
+              "duration": "00:00",
+              "suffix": "(Band Version)",
+              "credits": {
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 5,
+              "title": "PV・ジャケット撮影メイキング Part.2",
+              "duration": "00:00",
+              "credits": {
+                "出演": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "PCBP-51918"
+        }
+      ]
+    }
+  ]
+}

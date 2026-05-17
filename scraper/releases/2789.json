@@ -1,0 +1,61 @@
+{
+  "id": 2789,
+  "url": "/release/2789/",
+  "title": "香水",
+  "category": "CDシングル",
+  "artist": "メロン記念日",
+  "releaseDate": "2002.10.23",
+  "label": "zetima",
+  "images": [
+    "/upload/images/1913f2d88566cde4bf138d106b3c7ed2f00c8287.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "香水",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "メロン記念日"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋愛レストラン",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "メロン記念日"
+              }
+            },
+            {
+              "index": 3,
+              "title": "香水",
+              "duration": "04:35",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "メロン記念日"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5180"
+        }
+      ]
+    }
+  ]
+}

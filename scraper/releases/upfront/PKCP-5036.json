@@ -1,0 +1,58 @@
+{
+  "code": "PKCP-5036",
+  "url": "/release/detail/PKCP-5036/",
+  "source": "upfront",
+  "title": "あなたなしでは生きてゆけない",
+  "category": "CDシングル",
+  "artist": "Berryz工房",
+  "releaseDate": "2004/03/03",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/d4808f5ecd3639d1cda02ab89d9d07c1551bfc95.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d4808f5ecd3639d1cda02ab89d9d07c1551bfc95.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5036",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "あなたなしでは生きてゆけない",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 2,
+              "title": "BERRY FIELDS",
+              "duration": "03:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "寺尾崇"
+              }
+            },
+            {
+              "index": 3,
+              "title": "あなたなしでは生きてゆけない(Instrumental)",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

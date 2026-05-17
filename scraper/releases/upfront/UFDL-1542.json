@@ -1,0 +1,68 @@
+{
+  "code": "UFDL-1542",
+  "url": "/release/detail/UFDL-1542/",
+  "source": "upfront",
+  "title": "ちはやぶる/友達天体図 (Special Edition)",
+  "category": "配信",
+  "artist": "OCHA NORMA",
+  "releaseDate": "2024/09/11",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/1cbc33927b27c902bb28a6a6899cee8c6f0c1396.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/1cbc33927b27c902bb28a6a6899cee8c6f0c1396.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1542",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ちはやぶる",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "大森祥子",
+                "作曲": "星部ショウ",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "友達天体図",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "山崎あおい",
+                "編曲": "炭竃智弘"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Super Duper Sugar Power",
+              "duration": "03:09",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "Erik Lidbom",
+                "編曲": "Erik Lidbom"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ウットーシー！",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

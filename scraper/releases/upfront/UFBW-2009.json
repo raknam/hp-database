@@ -1,0 +1,88 @@
+{
+  "code": "UFBW-2009",
+  "url": "/release/detail/UFBW-2009/",
+  "source": "upfront",
+  "title": "“須藤茉麻写真集「maasa」” メイキングDVD 〜特別編集版〜",
+  "category": "DVD",
+  "artist": "須藤茉麻",
+  "releaseDate": "2009/04/15",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/nowprinting.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/nowprinting.jpg",
+      "price": "￥2,750 (税抜価格 ￥2,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2009",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "どうも〜、須藤茉麻で〜す！",
+              "duration": "04:47"
+            },
+            {
+              "index": 2,
+              "title": "キモチイ〜海?",
+              "duration": "04:42"
+            },
+            {
+              "index": 3,
+              "title": "カーウォッシュ！！",
+              "duration": "05:22"
+            },
+            {
+              "index": 4,
+              "title": "バーベキューで〜す。",
+              "duration": "03:31"
+            },
+            {
+              "index": 5,
+              "title": "ブランコ",
+              "duration": "06:22"
+            },
+            {
+              "index": 6,
+              "title": "2日目は、白の水着からで〜す。",
+              "duration": "07:23"
+            },
+            {
+              "index": 7,
+              "title": "三つ編み、お下げで〜す。",
+              "duration": "03:50"
+            },
+            {
+              "index": 8,
+              "title": "ビーチ",
+              "duration": "03:21"
+            },
+            {
+              "index": 9,
+              "title": "ハンモック",
+              "duration": "01:35"
+            },
+            {
+              "index": 10,
+              "title": "バナナボート",
+              "duration": "02:40"
+            },
+            {
+              "index": 11,
+              "title": "バスケットボール",
+              "duration": "02:15"
+            },
+            {
+              "index": 12,
+              "title": "夕日、、、おつかれさまでした〜！",
+              "duration": "04:05"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

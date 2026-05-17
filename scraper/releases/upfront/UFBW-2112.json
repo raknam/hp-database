@@ -1,0 +1,78 @@
+{
+  "code": "UFBW-2112",
+  "url": "/release/detail/UFBW-2112/",
+  "source": "upfront",
+  "title": "BS-TBS 開局15周年特別企画 クールジャパン 〜道〜 「居合道＆朗読道(℃-ute)」",
+  "category": "DVD",
+  "artist": "℃-ute",
+  "releaseDate": "2016/03/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/869115c60e1d43a30dd8678dc70564c13151350a.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/869115c60e1d43a30dd8678dc70564c13151350a.jpg",
+      "price": "￥4,074 (税抜価格 ￥3,704)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2112",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "居合道",
+              "duration": "57:23"
+            },
+            {
+              "index": 2,
+              "title": "オープニング(朗読道)",
+              "duration": "03:15"
+            },
+            {
+              "index": 3,
+              "title": "第一話「タクシーで尾行せよ」(朗読道)",
+              "duration": "06:36"
+            },
+            {
+              "index": 4,
+              "title": "第二話「ただいま聞き込み中」(朗読道)",
+              "duration": "09:18"
+            },
+            {
+              "index": 5,
+              "title": "第三話「怪盗を待ちながら」(朗読道)",
+              "duration": "10:35"
+            },
+            {
+              "index": 6,
+              "title": "第四話「かつ丼食うか？」(朗読道)",
+              "duration": "08:48"
+            },
+            {
+              "index": 7,
+              "title": "第五話「身代金誘拐」(朗読道)",
+              "duration": "12:42"
+            },
+            {
+              "index": 8,
+              "title": "クイズコーナー(朗読道)",
+              "duration": "09:05"
+            },
+            {
+              "index": 9,
+              "title": "最終話「キュートな刑事たち」(朗読道)",
+              "duration": "15:21"
+            },
+            {
+              "index": 10,
+              "title": "エンディング(朗読道)",
+              "duration": "03:18"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

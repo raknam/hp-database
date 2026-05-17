@@ -1,0 +1,565 @@
+{
+  "id": 4400,
+  "url": "/release/4400/",
+  "title": "Oh my wish!/スカッとMy Heart/今すぐ飛び込む勇気",
+  "category": "CDシングル",
+  "artist": "モーニング娘。'15",
+  "releaseDate": "2015.8.19",
+  "label": "zetima",
+  "images": [
+    "/upload/images/0bf41c6591c56fb571bfd055d7d5010c55382fdd.webp",
+    "/upload/images/63122762207fe13ff7b862ff7beb6e142f263e3e.webp",
+    "/upload/images/d57d84bd2074b9e89c3e89a9e87c19344aab6800.webp",
+    "/upload/images/2b92485dac1c61edc09e55cd8a558c1ea74264d0.webp",
+    "/upload/images/6f918b570b91a2819ac4c99241fa38592e799dd5.webp",
+    "/upload/images/ca68089364c144c8f26fb669204aad78f7e56300.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/0bf41c6591c56fb571bfd055d7d5010c55382fdd.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Oh my wish!",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 2,
+              "title": "スカッとMy Heart",
+              "duration": "04:05",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 3,
+              "title": "今すぐ飛び込む勇気",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "児玉雨子/三浦徳子",
+                "作曲": "泰誠",
+                "編曲": "浜田ピエール裕介",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Oh my wish!",
+              "duration": "04:27",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 5,
+              "title": "スカッとMy Heart",
+              "duration": "04:05",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 6,
+              "title": "今すぐ飛び込む勇気",
+              "duration": "04:36",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子/三浦徳子",
+                "作曲": "泰誠",
+                "編曲": "浜田ピエール裕介",
+                "歌": "モーニング娘。'15"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7129"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Oh my wish!",
+              "duration": "05:52",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'15"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/63122762207fe13ff7b862ff7beb6e142f263e3e.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "スカッとMy Heart",
+              "duration": "04:05",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 2,
+              "title": "今すぐ飛び込む勇気",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "児玉雨子/三浦徳子",
+                "作曲": "泰誠",
+                "編曲": "浜田ピエール裕介",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Oh my wish!",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 4,
+              "title": "スカッとMy Heart",
+              "duration": "04:05",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 5,
+              "title": "今すぐ飛び込む勇気",
+              "duration": "04:34",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子/三浦徳子",
+                "作曲": "泰誠",
+                "編曲": "浜田ピエール裕介",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Oh my wish!",
+              "duration": "04:28",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'15"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7131"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "スカッとMy Heart",
+              "duration": "05:16",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'15"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/d57d84bd2074b9e89c3e89a9e87c19344aab6800.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "今すぐ飛び込む勇気",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "児玉雨子/三浦徳子",
+                "作曲": "泰誠",
+                "編曲": "浜田ピエール裕介",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Oh my wish!",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 3,
+              "title": "スカッとMy Heart",
+              "duration": "04:05",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 4,
+              "title": "今すぐ飛び込む勇気",
+              "duration": "04:34",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子/三浦徳子",
+                "作曲": "泰誠",
+                "編曲": "浜田ピエール裕介",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Oh my wish!",
+              "duration": "04:27",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 6,
+              "title": "スカッとMy Heart",
+              "duration": "04:07",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'15"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7133"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "今すぐ飛び込む勇気",
+              "duration": "06:06",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "児玉雨子/三浦徳子",
+                "作曲": "泰誠",
+                "出演": "モーニング娘。'15"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/2b92485dac1c61edc09e55cd8a558c1ea74264d0.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Oh my wish!",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 2,
+              "title": "スカッとMy Heart",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 3,
+              "title": "今すぐ飛び込む勇気",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "児玉雨子/三浦徳子",
+                "作曲": "泰誠",
+                "編曲": "浜田ピエール裕介",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Oh my wish!",
+              "duration": "04:27",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 5,
+              "title": "スカッとMy Heart",
+              "duration": "04:05",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 6,
+              "title": "今すぐ飛び込む勇気",
+              "duration": "04:36",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子/三浦徳子",
+                "作曲": "泰誠",
+                "編曲": "浜田ピエール裕介",
+                "歌": "モーニング娘。'15"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7135"
+        }
+      ],
+      "note": "トレーディングカード ソロ13種+集合1種よりランダムにて1枚封入(Oh my wish! Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/6f918b570b91a2819ac4c99241fa38592e799dd5.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "スカッとMy Heart",
+              "duration": "04:05",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 2,
+              "title": "今すぐ飛び込む勇気",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "児玉雨子/三浦徳子",
+                "作曲": "泰誠",
+                "編曲": "浜田ピエール裕介",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Oh my wish!",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 4,
+              "title": "スカッとMy Heart",
+              "duration": "04:05",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 5,
+              "title": "今すぐ飛び込む勇気",
+              "duration": "04:34",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子/三浦徳子",
+                "作曲": "泰誠",
+                "編曲": "浜田ピエール裕介",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Oh my wish!",
+              "duration": "04:28",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'15"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7136"
+        }
+      ],
+      "note": "トレーディングカード ソロ13種+集合1種よりランダムにて1枚封入(スカッとMy Heart Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/upload/images/ca68089364c144c8f26fb669204aad78f7e56300.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "今すぐ飛び込む勇気",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "児玉雨子/三浦徳子",
+                "作曲": "泰誠",
+                "編曲": "浜田ピエール裕介",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Oh my wish!",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 3,
+              "title": "スカッとMy Heart",
+              "duration": "04:05",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 4,
+              "title": "今すぐ飛び込む勇気",
+              "duration": "04:34",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子/三浦徳子",
+                "作曲": "泰誠",
+                "編曲": "浜田ピエール裕介",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Oh my wish!",
+              "duration": "04:27",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "モーニング娘。'15"
+              }
+            },
+            {
+              "index": 6,
+              "title": "スカッとMy Heart",
+              "duration": "04:07",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "モーニング娘。'15"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7137"
+        }
+      ],
+      "note": "トレーディングカード ソロ13種+集合1種よりランダムにて1枚封入(今すぐ飛び込む勇気Ver.)※初回プレス分のみ"
+    }
+  ]
+}

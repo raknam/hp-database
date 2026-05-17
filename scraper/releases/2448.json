@@ -1,0 +1,56 @@
+{
+  "id": 2448,
+  "url": "/release/2448/",
+  "title": "シングルV「世界は サマー・パーティ」",
+  "category": "DVDシングルV",
+  "artist": "真野恵里菜",
+  "releaseDate": "2009.8.5",
+  "label": "hachama",
+  "images": [
+    "/upload/images/9ea682199b080a5f58c1f78b16d5a3cd0cfa5c60.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "世界は サマー・パーティ",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "世界は サマー・パーティ",
+              "duration": "04:19",
+              "suffix": "(Dance Shot Ver.)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "KAN",
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "16:02",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKBN-50115"
+        }
+      ]
+    }
+  ]
+}

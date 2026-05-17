@@ -1,0 +1,58 @@
+{
+  "code": "SPRE-004",
+  "url": "/release/detail/SPRE-004/",
+  "source": "upfront",
+  "title": "北海道シャララ",
+  "category": "CDシングル",
+  "artist": "カントリー娘。",
+  "releaseDate": "2000/04/27",
+  "label": "SPREE RECORD",
+  "images": [
+    "/images/00abe744c3f7d9cb9cbac5607d199242756b9dba.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/00abe744c3f7d9cb9cbac5607d199242756b9dba.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "SPRE-004",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "北海道シャララ",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "まこと＆つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "北海道シャララ(カップリング・バージョン)",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "まこと＆つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "北海道シャララ(オリジナル・カラオケ)",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "まこと＆つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

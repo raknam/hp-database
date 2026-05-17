@@ -1,0 +1,68 @@
+{
+  "code": "PKCP-5320",
+  "url": "/release/detail/PKCP-5320/",
+  "source": "upfront",
+  "title": "だけど会いたい",
+  "category": "CDシングル",
+  "artist": "Bitter ＆ Sweet",
+  "releaseDate": "2020/11/11",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/2cb1002d4ca559c9d0cd76235a002a064e58c006.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/2cb1002d4ca559c9d0cd76235a002a064e58c006.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-5320",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "だけど会いたい",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "玉城千春",
+                "作曲": "玉城千春",
+                "編曲": "岩田雅之"
+              }
+            },
+            {
+              "index": 2,
+              "title": "新芽",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "miwaflower",
+                "作曲": "miwaflower/Toshiya Hosokawa",
+                "編曲": "Toshiya Hosokawa"
+              }
+            },
+            {
+              "index": 3,
+              "title": "だけど会いたい(Instrumental)",
+              "duration": "04:46",
+              "credits": {
+                "作詞": "玉城千春",
+                "作曲": "玉城千春",
+                "編曲": "岩田雅之"
+              }
+            },
+            {
+              "index": 4,
+              "title": "新芽(Instrumental)",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "miwaflower",
+                "作曲": "miwaflower/Toshiya Hosokawa",
+                "編曲": "Toshiya Hosokawa"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

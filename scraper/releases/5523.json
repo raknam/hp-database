@@ -1,0 +1,83 @@
+{
+  "id": 5523,
+  "url": "/release/5523/",
+  "title": "Blanc",
+  "category": "BD",
+  "artist": "牧野真莉愛",
+  "releaseDate": "2018.3.7",
+  "label": "zetima",
+  "images": [
+    "/upload/images/f3d997e0f5c13ee7ef50136f96f6ab9342cb59fb.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Foggy Forest",
+              "duration": "04:29",
+              "credits": {
+                "出演": "牧野真莉愛(モーニング娘。'18)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Hidden Cave",
+              "duration": "04:15",
+              "credits": {
+                "出演": "牧野真莉愛(モーニング娘。'18)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "The Beach",
+              "duration": "17:16",
+              "credits": {
+                "出演": "牧野真莉愛(モーニング娘。'18)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Walking in the Sunset",
+              "duration": "05:21",
+              "credits": {
+                "出演": "牧野真莉愛(モーニング娘。'18)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "The Woods",
+              "duration": "01:56",
+              "credits": {
+                "出演": "牧野真莉愛(モーニング娘。'18)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "The Making of 『マリア17歳』",
+              "duration": "22:28",
+              "credits": {
+                "出演": "牧野真莉愛(モーニング娘。'18)"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Ending",
+              "duration": "01:24",
+              "credits": {
+                "出演": "牧野真莉愛(モーニング娘。'18)"
+              }
+            }
+          ],
+          "catalogNo": "EPXE-5128"
+        }
+      ]
+    }
+  ]
+}

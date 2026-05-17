@@ -1,0 +1,68 @@
+{
+  "code": "PKCP-2051",
+  "url": "/release/detail/PKCP-2051/",
+  "source": "upfront",
+  "title": "愛しき日々",
+  "category": "CDシングル",
+  "artist": "堀内孝雄",
+  "releaseDate": "2009/10/28",
+  "label": "ライスミュージック",
+  "images": [
+    "/images/d2a6bdf71a0154a9c798898021df5262a0620b5b.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d2a6bdf71a0154a9c798898021df5262a0620b5b.jpg",
+      "price": "￥1,257 (税抜価格 ￥1,143)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-2051",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛しき日々",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "小椋佳",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 2,
+              "title": "坂道",
+              "duration": "04:54",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 3,
+              "title": "愛しき日々(オリジナル・カラオケ)",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "小椋佳",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 4,
+              "title": "坂道(オリジナル・カラオケ)",
+              "duration": "04:54",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

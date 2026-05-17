@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-5275",
+  "url": "/release/detail/EPCE-5275/",
+  "source": "upfront",
+  "title": "根！性！",
+  "category": "CDシングル",
+  "artist": "スパーク",
+  "releaseDate": "2004/04/14",
+  "label": "zetima",
+  "images": [
+    "/images/453e66fa950232970b5602b4ba4fc10d5c02e22b.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/453e66fa950232970b5602b4ba4fc10d5c02e22b.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5275",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "根！性！",
+              "duration": "03:17",
+              "credits": {
+                "作詞": "牧穂エミ",
+                "作曲": "はたけ",
+                "編曲": "はたけ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "一生一度のロマンス",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "カモ",
+                "作曲": "はたけ",
+                "編曲": "はたけ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "根！性！(Instrumental)",
+              "duration": "03:17",
+              "credits": {
+                "作詞": "牧穂エミ",
+                "作曲": "はたけ",
+                "編曲": "はたけ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "一生一度のロマンス(Instrumental)",
+              "duration": "03:41",
+              "credits": {
+                "作詞": "カモ",
+                "作曲": "はたけ",
+                "編曲": "はたけ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

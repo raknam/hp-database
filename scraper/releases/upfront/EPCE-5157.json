@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5157",
+  "url": "/release/detail/EPCE-5157/",
+  "source": "upfront",
+  "title": "強くなんて・・・",
+  "category": "CDシングル",
+  "artist": "Nyle",
+  "releaseDate": "2002/04/24",
+  "label": "zetima",
+  "images": [
+    "/images/2e9a99464b296839e10f65a8255f5d4a440d5e89.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/2e9a99464b296839e10f65a8255f5d4a440d5e89.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5157",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "強くなんて…",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "ナイル",
+                "作曲": "ナイル",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ただそれだけ",
+              "duration": "05:07",
+              "credits": {
+                "作詞": "ナイル",
+                "作曲": "ナイル",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "強くなんて…(Instrumental)",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "ナイル",
+                "作曲": "ナイル",
+                "編曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

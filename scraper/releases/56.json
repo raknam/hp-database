@@ -1,0 +1,218 @@
+{
+  "id": 56,
+  "url": "/release/56/",
+  "title": "モーニング娘。誕生16周年記念イベント 「私たちが、今のモーニング娘。です。17年目も、さあ、いこうか。」",
+  "category": "DVD",
+  "artist": "モーニング娘。",
+  "releaseDate": "2014.1.9",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/3575c328668974957cbfc96603a5253df3c7e687.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPEING",
+              "duration": "02:04",
+              "suffix": "BGM※",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 2,
+              "title": "One・Two・Three",
+              "duration": "02:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 3,
+              "title": "MC",
+              "duration": "01:39",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ブレインストーミンク",
+              "duration": "03:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 5,
+              "title": "MC",
+              "duration": "09:05",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 6,
+              "title": "恋愛レボリューション21(updated)",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 7,
+              "title": "MC",
+              "duration": "02:46",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 8,
+              "title": "愛の軍団",
+              "duration": "04:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 9,
+              "title": "わがまま 気のまま 愛のジョーク",
+              "duration": "05:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 10,
+              "title": "8/19全国握手会ダイジェスト映像",
+              "duration": "17:30",
+              "suffix": "特典映像",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 11,
+              "title": "発売記念イベントダイジェスト映像",
+              "duration": "07:06",
+              "suffix": "特典映像",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 12,
+              "title": "道重さゆみ",
+              "duration": "01:30",
+              "suffix": "メンバーコメント",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 13,
+              "title": "譜久村聖",
+              "duration": "01:59",
+              "suffix": "メンバーコメント",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 14,
+              "title": "生田衣梨奈",
+              "duration": "02:20",
+              "suffix": "メンバーコメント",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 15,
+              "title": "鞘師里保",
+              "duration": "03:06",
+              "suffix": "メンバーコメント",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 16,
+              "title": "鈴木香音",
+              "duration": "01:18",
+              "suffix": "メンバーコメント",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 17,
+              "title": "飯窪春菜",
+              "duration": "01:57",
+              "suffix": "メンバーコメント",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 18,
+              "title": "石田亜佑美",
+              "duration": "02:10",
+              "suffix": "メンバーコメント",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 19,
+              "title": "佐藤優樹",
+              "duration": "01:56",
+              "suffix": "メンバーコメント",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 20,
+              "title": "工藤遥",
+              "duration": "03:30",
+              "suffix": "メンバーコメント",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            },
+            {
+              "index": 21,
+              "title": "小田さくら",
+              "duration": "01:42",
+              "suffix": "メンバーコメント",
+              "credits": {
+                "出演": "モーニング娘。"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1327"
+        }
+      ]
+    }
+  ]
+}

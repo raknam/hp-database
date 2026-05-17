@@ -1,0 +1,58 @@
+{
+  "code": "EPXE-5125",
+  "url": "/release/detail/EPXE-5125/",
+  "source": "upfront",
+  "title": "Do The Vacation",
+  "category": "BD",
+  "artist": "工藤遥",
+  "releaseDate": "2017/11/22",
+  "label": "zetima",
+  "images": [
+    "/images/d4a3fc7e3bcd3f4e30d6e0490e04eda5af47377f.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d4a3fc7e3bcd3f4e30d6e0490e04eda5af47377f.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5125",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Do The Guam",
+              "duration": "11:39"
+            },
+            {
+              "index": 2,
+              "title": "Do The Beach",
+              "duration": "12:42"
+            },
+            {
+              "index": 3,
+              "title": "Do The Sunset",
+              "duration": "13:55"
+            },
+            {
+              "index": 4,
+              "title": "Day with Haruka",
+              "duration": "01:04"
+            },
+            {
+              "index": 5,
+              "title": "The Making of 「Kudo Haruka」",
+              "duration": "09:53"
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "00:39"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

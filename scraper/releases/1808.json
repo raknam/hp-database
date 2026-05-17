@@ -1,0 +1,76 @@
+{
+  "id": 1808,
+  "url": "/release/1808/",
+  "title": "ベリキュー！Vol.8 〜ウラベリキュー！〜",
+  "category": "DVD",
+  "artist": "Berryz工房×℃-ute",
+  "releaseDate": "2009.8.26",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/upload/images/51dc620fa93017ec63a3ff9cfa4af0ce919d0f82.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ランキングdeベリQ！",
+              "duration": "18:33",
+              "credits": {
+                "出演": "Berryz工房×℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "イライラハーモニーdeベリQ！",
+              "duration": "16:55",
+              "credits": {
+                "出演": "Berryz工房×℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "玉入れdeベリQ！",
+              "duration": "09:54",
+              "credits": {
+                "出演": "Berryz工房×℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "マッスルトレインdeベリQ！",
+              "duration": "09:34",
+              "credits": {
+                "出演": "Berryz工房×℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "マニュアルdeベリQ！",
+              "duration": "12:16",
+              "credits": {
+                "出演": "Berryz工房×℃-ute"
+              }
+            },
+            {
+              "index": 1,
+              "title": "ベリキュー！版「歌ドキッ！」メイキング映像",
+              "duration": "07:54",
+              "suffix": "(℃-ute編)",
+              "credits": {
+                "出演": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "PKBP-5121"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "code": "PKBP-5103",
+  "url": "/release/detail/PKBP-5103/",
+  "source": "upfront",
+  "title": "シングルV「MADAYADE」",
+  "category": "DVDシングルV",
+  "artist": "Berryz工房",
+  "releaseDate": "2008/11/19",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/d3734b43f77e1811603d4e96e6b2765e72b560f4.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/d3734b43f77e1811603d4e96e6b2765e72b560f4.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "PKBP-5103",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "MADAYADE",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "MADAYADE(Dance Shot Ver.)",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "16:11"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

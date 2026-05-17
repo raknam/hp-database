@@ -1,0 +1,48 @@
+{
+  "code": "UFDL-1503",
+  "url": "/release/detail/UFDL-1503/",
+  "source": "upfront",
+  "title": "Hello! 生まれた意味がきっとある/ザ☆ピ～ス！",
+  "category": "配信",
+  "artist": "HELLO KITTY",
+  "releaseDate": "2022/06/12",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/8c01ec832d9b9b2365e3409891d0e153fbda97f2.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/8c01ec832d9b9b2365e3409891d0e153fbda97f2.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1503",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Hello! 生まれた意味がきっとある",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ザ☆ピ～ス！",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン/horn arrangement by川松久芳"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

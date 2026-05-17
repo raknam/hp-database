@@ -1,0 +1,67 @@
+{
+  "code": "EPCE-5247",
+  "url": "/release/detail/EPCE-5247/",
+  "source": "upfront",
+  "title": "月の向こう側",
+  "category": "CDシングル",
+  "artist": "Nyle",
+  "releaseDate": "2003/11/19",
+  "label": "zetima",
+  "images": [
+    "/images/df7fb97936731d56c8a14503ca926c0be468392b.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/df7fb97936731d56c8a14503ca926c0be468392b.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5247",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "月の向こう側",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "Nyle/H.U.B.",
+                "作曲": "Nyle",
+                "編曲": "高橋圭一/小西貴雄"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Time goes on",
+              "duration": "04:51",
+              "credits": {
+                "作詞": "Nyle/H.U.B.",
+                "作曲": "杉浦篤",
+                "編曲": "高橋圭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "月の向こう側(Acoustic Version)",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "Nyle/H.U.B.",
+                "作曲": "Nyle",
+                "編曲": "高橋圭一/小西貴雄"
+              }
+            },
+            {
+              "index": 4,
+              "title": "月の向こう側(Instrumental)",
+              "duration": "04:58",
+              "credits": {
+                "作曲": "Nyle",
+                "編曲": "高橋圭一/小西貴雄"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

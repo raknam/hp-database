@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-8005",
+  "url": "/release/detail/EPCE-8005/",
+  "source": "upfront",
+  "title": "テキトーLOVER",
+  "category": "CDシングル",
+  "artist": "Emyli feat. VERBAL (m-flo)",
+  "releaseDate": "2007/07/18",
+  "label": "Seventh Code",
+  "images": [
+    "/images/31ada3e4e50288f8ff3a2cc628305aa06a88d1b0.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/31ada3e4e50288f8ff3a2cc628305aa06a88d1b0.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-8005",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "テキトーLOVER",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "Emyli&VERBAL(m-flo)",
+                "作曲": "Emyli",
+                "編曲": "Deckstream"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Look At Me Now",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "Emyli&KOMU",
+                "作曲": "Emyli",
+                "編曲": "Yu"
+              }
+            },
+            {
+              "index": 3,
+              "title": "テキトーLOVER (English Ver.)",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "Emyli&VERBAL(m-flo)",
+                "作曲": "Emyli",
+                "編曲": "Deckstream"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Look At Me Now (Spanish Ver.)",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "Emyli&KOMU",
+                "作曲": "Emyli",
+                "編曲": "Yu"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

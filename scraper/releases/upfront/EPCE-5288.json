@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-5288",
+  "url": "/release/detail/EPCE-5288/",
+  "source": "upfront",
+  "title": "恋のバカンス",
+  "category": "CDシングル",
+  "artist": "W",
+  "releaseDate": "2004/05/19",
+  "label": "zetima",
+  "images": [
+    "/images/7340ddf3ad0fd920d104f288704f3d0069d44b9b.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7340ddf3ad0fd920d104f288704f3d0069d44b9b.jpg",
+      "price": "￥1,430 (税抜価格 ￥1,300)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5288",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋のバカンス",
+              "duration": "02:53",
+              "credits": {
+                "作詞": "岩谷時子",
+                "作曲": "宮川泰",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "月影のナポリ(TINTARELLA DI LUNA)",
+              "duration": "02:58",
+              "credits": {
+                "作詞": "FrancoMigliacci/訳詞:千家春",
+                "作曲": "BrunoDefilippi",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 3,
+              "title": "悲しき16才(HEARTACHES AT SWEET SIXTEEN)",
+              "duration": "01:58",
+              "credits": {
+                "作詞": "IraKosloff,IrvingReid,TonySpringer/訳詞:音羽たかし",
+                "作曲": "IraKosloff,IrvingReid,TonySpringer",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 4,
+              "title": "恋のバカンス(Instrumental)",
+              "duration": "02:53",
+              "credits": {
+                "作詞": "岩谷時子",
+                "作曲": "宮川泰",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

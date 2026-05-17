@@ -1,0 +1,188 @@
+{
+  "code": "EPCE-5762",
+  "url": "/release/detail/EPCE-5762/",
+  "source": "upfront",
+  "title": "超WONDERFUL！⑥",
+  "category": "CDアルバム",
+  "artist": "℃-ute",
+  "releaseDate": "2011/04/06",
+  "label": "zetima",
+  "images": [
+    "/images/8bca7041f6def07474da57e1ea5dcd6dc3ab2cb4.jpg",
+    "/images/b06a093739d755927cc8e0ffe210621f698177f4.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/8bca7041f6def07474da57e1ea5dcd6dc3ab2cb4.jpg",
+      "price": "￥3,960 (税抜価格 ￥3,600)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5762",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "超WONDERFUL!",
+              "duration": "05:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Midnight Temptation",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Kiss me 愛してる",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 4,
+              "title": "いざ、進め！ Steady go!",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ルルルルル",
+              "duration": "05:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 6,
+              "title": "別れたくない…",
+              "duration": "05:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 7,
+              "title": "会いたいロンリークリスマス",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            },
+            {
+              "index": 8,
+              "title": "サークル",
+              "duration": "04:40",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介"
+              }
+            },
+            {
+              "index": 9,
+              "title": "Danceでバコーン！",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 10,
+              "title": "3番ホーム 3両目",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 11,
+              "title": "キャンパスライフ〜生まれて来てよかった〜",
+              "duration": "03:39",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/b06a093739d755927cc8e0ffe210621f698177f4.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5764",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "会いたいロンリークリスマス(White Christmas Ver.)",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Kiss me 愛してる(Dance Shot Ver.)",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ジャケット撮影メイキング",
+              "duration": "13:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Kiss me 愛してる(ダンスレッスンメイキング)",
+              "duration": "07:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "code": "UFCW-1095",
+  "url": "/release/detail/UFCW-1095/",
+  "source": "upfront",
+  "title": "恋愛WARS/恋心",
+  "category": "CDシングル",
+  "artist": "Bitter ＆ Sweet",
+  "releaseDate": "2015/02/11",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/dcce6c8ed433c10ef3636ea906ff73c360934a41.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/dcce6c8ed433c10ef3636ea906ff73c360934a41.jpg",
+      "price": "￥1,466 (税抜価格 ￥1,333)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "UFCW-1095",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "恋愛WARS",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋心",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "山崎寛子",
+                "作曲": "山崎寛子",
+                "編曲": "山崎寛子・菊谷知樹・泰誠"
+              }
+            },
+            {
+              "index": 3,
+              "title": "恋愛WARS(Instrumental)",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo",
+                "編曲": "michitomo"
+              }
+            },
+            {
+              "index": 4,
+              "title": "恋心(Instrumental)",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "山崎寛子",
+                "作曲": "山崎寛子",
+                "編曲": "山崎寛子・菊谷知樹・泰誠"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

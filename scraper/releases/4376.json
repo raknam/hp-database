@@ -1,0 +1,75 @@
+{
+  "id": 4376,
+  "url": "/release/4376/",
+  "title": "Greeting〜尾形春水〜",
+  "category": "BD",
+  "artist": "尾形春水",
+  "releaseDate": "2015.6.12",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/31d8f1503939cb3de331694cfd57a2969fa9635f.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Morning Library",
+              "duration": "07:57",
+              "credits": {
+                "出演": "尾形春水"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Greeting to you",
+              "duration": "19:28",
+              "credits": {
+                "出演": "尾形春水"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Skate link",
+              "duration": "07:10",
+              "credits": {
+                "出演": "尾形春水"
+              }
+            },
+            {
+              "index": 4,
+              "title": "「時空を超え 宇宙を超え」skate performance",
+              "duration": "03:36",
+              "credits": {
+                "出演": "尾形春水"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Behind the shots",
+              "duration": "03:53",
+              "credits": {
+                "出演": "尾形春水"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "08:12",
+              "credits": {
+                "出演": "尾形春水"
+              }
+            }
+          ],
+          "catalogNo": "UFXW-2005"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "code": "HKCN-50002",
+  "url": "/release/detail/HKCN-50002/",
+  "source": "upfront",
+  "title": "そっと口づけて ギュッと抱きしめて",
+  "category": "CDシングル",
+  "artist": "藤本美貴",
+  "releaseDate": "2002/06/12",
+  "label": "hachama",
+  "images": [
+    "/images/651d4a27c404231aa84c86e7ce1263a7ceb851cc.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/651d4a27c404231aa84c86e7ce1263a7ceb851cc.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50002",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "そっと口づけて ギュッと抱きしめて",
+              "duration": "03:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "渡部チェル"
+              }
+            },
+            {
+              "index": 2,
+              "title": "恋よ！美しく",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "そっと口づけて ギュッと抱きしめて(Instrumental)",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "渡部チェル"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

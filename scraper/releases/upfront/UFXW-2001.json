@@ -1,0 +1,68 @@
+{
+  "code": "UFXW-2001",
+  "url": "/release/detail/UFXW-2001/",
+  "source": "upfront",
+  "title": "Ways",
+  "category": "BD",
+  "artist": "矢島舞美",
+  "releaseDate": "2014/12/23",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/f44a801e611e881afbc6962cb5a58ad64fdf4d7e.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/f44a801e611e881afbc6962cb5a58ad64fdf4d7e.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "UFXW-2001",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "opening",
+              "duration": "00:28"
+            },
+            {
+              "index": 2,
+              "title": "break of day",
+              "duration": "13:33"
+            },
+            {
+              "index": 3,
+              "title": "the beach in nago",
+              "duration": "09:50"
+            },
+            {
+              "index": 4,
+              "title": "daytime",
+              "duration": "12:30"
+            },
+            {
+              "index": 5,
+              "title": "the beach in uza",
+              "duration": "16:34"
+            },
+            {
+              "index": 6,
+              "title": "before sunset",
+              "duration": "11:09"
+            },
+            {
+              "index": 7,
+              "title": "twilight",
+              "duration": "11:23"
+            },
+            {
+              "index": 8,
+              "title": "ending",
+              "duration": "02:17"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

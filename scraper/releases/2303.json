@@ -1,0 +1,701 @@
+{
+  "id": 2303,
+  "url": "/release/2303/",
+  "title": "Hello! Project ひなフェス 2014 〜Full コース〜＜メインディッシュはモーニング娘。’14です。＞",
+  "category": "BD",
+  "artist": "V.A.",
+  "releaseDate": "2014.7.30",
+  "label": "zetima",
+  "images": [
+    "/upload/images/7c4fd121fd1ad176a7983635c228b60eb6170e53.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING 〜 MC",
+              "duration": "01:55",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "【℃-ute】アタック映像",
+              "duration": "00:22",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 3,
+              "title": "心の叫びを歌にしてみた",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "MC",
+              "duration": "00:54",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 5,
+              "title": "愛ってもっと斬新",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 6,
+              "title": "【Berryz工房】アタック映像",
+              "duration": "00:19",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 7,
+              "title": "1億3千万総ダイエット王国",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 8,
+              "title": "MC",
+              "duration": "00:33",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 9,
+              "title": "コイセヨ！",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 10,
+              "title": "【Juice=Juice】アタック映像",
+              "duration": "00:21",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 11,
+              "title": "裸の裸の裸のKISS",
+              "duration": "03:59",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 12,
+              "title": "MC",
+              "duration": "00:10",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 13,
+              "title": "イジワルしないで 抱きしめてよ",
+              "duration": "04:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 14,
+              "title": "【スマイレージ】アタック映像",
+              "duration": "00:18",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 15,
+              "title": "ミステリーナイト！",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 16,
+              "title": "MC",
+              "duration": "00:19",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 17,
+              "title": "「良い奴」",
+              "duration": "04:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 18,
+              "title": "【モーニング娘。'14】アタック映像",
+              "duration": "00:18",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 19,
+              "title": "Password is 0",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 20,
+              "title": "MC",
+              "duration": "00:27",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 21,
+              "title": "君の代わりは居やしない",
+              "duration": "04:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 22,
+              "title": "コーナーMC",
+              "duration": "10:25",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 23,
+              "title": "MC",
+              "duration": "00:36",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 24,
+              "title": "Bitter & Sweet",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "佐藤舞花",
+                "作曲": "平川達也",
+                "出演": "Bitter & Sweet"
+              }
+            },
+            {
+              "index": 25,
+              "title": "MC 〜 新ユニットメドレー",
+              "duration": "01:01",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 26,
+              "title": "木立を抜ける風のように",
+              "duration": "01:48",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "山口寛雄",
+                "出演": "ODATOMO"
+              }
+            },
+            {
+              "index": 27,
+              "title": "Dream Last Train",
+              "duration": "02:07",
+              "credits": {
+                "作詞": "アベショー",
+                "作曲": "大西克巳",
+                "出演": "トリプレット"
+              }
+            },
+            {
+              "index": 28,
+              "title": "嗚呼、素晴らしき日々よ",
+              "duration": "02:51",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "角田崇徳",
+                "出演": "さとのあかり"
+              }
+            },
+            {
+              "index": 29,
+              "title": "不器用",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "飯田茉椰",
+                "作曲": "石井健太郎",
+                "出演": "LoVendoЯ"
+              }
+            },
+            {
+              "index": 30,
+              "title": "BINGO",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "唐沢美帆",
+                "作曲": "原一博",
+                "出演": "LoVendoЯ"
+              }
+            },
+            {
+              "index": 31,
+              "title": "MC",
+              "duration": "00:45",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 32,
+              "title": "彼女になりたいっ！！！",
+              "duration": "04:13",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "ハロプロ研修生"
+              }
+            },
+            {
+              "index": 33,
+              "title": "MC",
+              "duration": "00:23",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 34,
+              "title": "原色GAL 派手に行くべ！",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "竹内朱莉〈スマイレージ〉"
+              }
+            },
+            {
+              "index": 35,
+              "title": "オシャレ！",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "田村芽実〈スマイレージ〉"
+              }
+            }
+          ],
+          "catalogNo": "EPXE-5049"
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "MC",
+              "duration": "00:19",
+              "suffix": "(モーニング娘。'14 メインディッシュ)",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "君さえ居れば何も要らない",
+              "duration": "04:28",
+              "suffix": "(updated)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 3,
+              "title": "The 摩天楼ショー",
+              "duration": "05:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 4,
+              "title": "MC",
+              "duration": "00:32",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 5,
+              "title": "みかん",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ラヴ＆ピィ〜ス！HEROがやって来たっ。",
+              "duration": "03:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 7,
+              "title": "MC",
+              "duration": "00:07",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 8,
+              "title": "One･Two･Three",
+              "duration": "04:29",
+              "suffix": "(updated)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 9,
+              "title": "MC",
+              "duration": "00:38",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 10,
+              "title": "アレコレしたい",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 11,
+              "title": "ええか！？",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 12,
+              "title": "Love take it all",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            },
+            {
+              "index": 13,
+              "title": "大人なのよ！",
+              "duration": "04:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 14,
+              "title": "Help me!!",
+              "duration": "04:35",
+              "suffix": "(updated)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "モーニング娘。'14"
+              }
+            },
+            {
+              "index": 15,
+              "title": "MC",
+              "duration": "00:45",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 16,
+              "title": "友情 純情 oh 青春",
+              "duration": "07:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "オールキャスト"
+              }
+            }
+          ]
+        },
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "【Juice=Juice】アタック映像",
+              "duration": "00:20",
+              "suffix": "(メインディッシュ)",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 2,
+              "title": "裸の裸の裸のKISS",
+              "duration": "03:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 3,
+              "title": "MC",
+              "duration": "00:53",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 4,
+              "title": "五月雨美女がさ乱れる",
+              "duration": "03:52",
+              "suffix": "(MEMORIAL EDIT)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ロマンスの途中",
+              "duration": "04:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 6,
+              "title": "私が言う前に抱きしめなきゃね",
+              "duration": "04:03",
+              "suffix": "(MEMORIAL EDIT)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Juice=Juice"
+              }
+            },
+            {
+              "index": 7,
+              "title": "【スマイレージ】アタック映像",
+              "duration": "00:19",
+              "suffix": "(メインディッシュ)",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 8,
+              "title": "ミステリーナイト！",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 9,
+              "title": "MC",
+              "duration": "13:18",
+              "suffix": "(サプライズ)",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 10,
+              "title": "プリーズ ミニスカ ポストウーマン！",
+              "duration": "04:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 11,
+              "title": "恋にBooing ブー！",
+              "duration": "04:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 12,
+              "title": "タチアガール",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 13,
+              "title": "有頂天LOVE",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "スマイレージ"
+              }
+            },
+            {
+              "index": 14,
+              "title": "MC",
+              "duration": "00:42",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 15,
+              "title": "おへその国からこんにちは",
+              "duration": "04:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "ハロプロ研修生"
+              }
+            },
+            {
+              "index": 16,
+              "title": "MC",
+              "duration": "00:23",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 17,
+              "title": "もしも…",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "工藤遥〈モーニング娘。'14〉"
+              }
+            },
+            {
+              "index": 18,
+              "title": "My alright sky",
+              "duration": "05:54",
+              "credits": {
+                "作詞": "林よしみ",
+                "作曲": "林よしみ",
+                "出演": "鈴木愛理〈℃-ute〉"
+              }
+            },
+            {
+              "index": 19,
+              "title": "MC",
+              "duration": "00:22",
+              "credits": {
+                "出演": "V.A."
+              }
+            },
+            {
+              "index": 20,
+              "title": "JUMP",
+              "duration": "04:34",
+              "suffix": "(2012神聖なるVer.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "オールキャスト"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

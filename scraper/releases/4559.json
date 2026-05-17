@@ -1,0 +1,50 @@
+{
+  "id": 4559,
+  "url": "/release/4559/",
+  "title": "気高く咲き誇れ！",
+  "category": "CDシングル",
+  "artist": "つばきファクトリー",
+  "releaseDate": "2015.12.31",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/44fe47c8ba3f19d92fcf4bc5dfe09580dc0da0d0.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "気高く咲き誇れ！",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "児玉雨子/Rap詞:角田崇徳",
+                "作曲": "Jean Luc Ponpon",
+                "編曲": "Jean Luc Ponpon",
+                "歌": "つばきファクトリー"
+              }
+            },
+            {
+              "index": 2,
+              "title": "気高く咲き誇れ！",
+              "duration": "04:08",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "児玉雨子/Rap詞:角田崇徳",
+                "作曲": "Jean Luc Ponpon",
+                "編曲": "Jean Luc Ponpon",
+                "歌": "つばきファクトリー"
+              }
+            }
+          ],
+          "catalogNo": "UFCW-1111"
+        }
+      ]
+    }
+  ]
+}

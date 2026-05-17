@@ -1,0 +1,38 @@
+{
+  "id": 5527,
+  "url": "/release/5527/",
+  "title": "書いては消しての “I Love You”",
+  "category": "配信シングル",
+  "artist": "カントリー・ガールズ",
+  "releaseDate": "2017.12.24",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/f379508b99c8bc44670bb3a635dfdeeab4a9ec57.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "STREAMING",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "書いては消しての “I Love You”",
+              "duration": "03:34",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "鈴木智貴",
+                "歌": "カントリー・ガールズ"
+              }
+            }
+          ],
+          "catalogNo": "UFDL-1386"
+        }
+      ]
+    }
+  ]
+}

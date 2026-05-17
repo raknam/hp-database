@@ -1,0 +1,284 @@
+{
+  "id": 2696,
+  "url": "/release/2696/",
+  "title": "ミュージカル 草原の人",
+  "category": "DVD",
+  "artist": "松浦亜弥",
+  "releaseDate": "2003.5.21",
+  "label": "zetima",
+  "images": [
+    "/upload/images/184fa21e2a7a592a06be70c8e2d3c8b9333fcfcf.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Scene1 横浜市界隈 1952年(昭和27年)初夏",
+              "duration": "00:26",
+              "credits": {
+                "出演": "松浦亜弥"
+              }
+            },
+            {
+              "index": 2,
+              "title": "YOKOHAMA SING A SONG",
+              "duration": "05:12",
+              "suffix": "(Opening Version)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "松浦亜弥・アンサンブル"
+              }
+            },
+            {
+              "index": 3,
+              "title": "映画館があるからさ！",
+              "duration": "02:45",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "松浦亜弥・柴田あゆみ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Scene2 洋食屋「キラク」",
+              "duration": "05:54",
+              "credits": {
+                "出演": "松浦亜弥"
+              }
+            },
+            {
+              "index": 5,
+              "title": "新港埠頭の港唄",
+              "duration": "07:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "松浦亜弥・加藤紀子・アンサンブル"
+              }
+            },
+            {
+              "index": 6,
+              "title": "御機嫌斜めブギウギ",
+              "duration": "01:36",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "柴田あゆみ・大谷雅恵"
+              }
+            },
+            {
+              "index": 7,
+              "title": "Scene3 「キラク」店内",
+              "duration": "06:08",
+              "credits": {
+                "出演": "松浦亜弥"
+              }
+            },
+            {
+              "index": 8,
+              "title": "YOKOHAMA SING A SONG",
+              "duration": "02:36",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "松浦亜弥"
+              }
+            },
+            {
+              "index": 9,
+              "title": "Scene4 山下公園",
+              "duration": "02:21",
+              "credits": {
+                "出演": "松浦亜弥"
+              }
+            },
+            {
+              "index": 10,
+              "title": "僕らの野原は焼け野原",
+              "duration": "02:18",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "松浦亜弥・加藤紀子"
+              }
+            },
+            {
+              "index": 11,
+              "title": "紫の月",
+              "duration": "02:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "松浦亜弥"
+              }
+            },
+            {
+              "index": 12,
+              "title": "Scene5 横浜市界隈",
+              "duration": "00:08",
+              "credits": {
+                "出演": "松浦亜弥"
+              }
+            },
+            {
+              "index": 13,
+              "title": "お出かけスカーレット",
+              "duration": "04:44",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "斉藤瞳・りんね・大谷雅恵・村田めぐみ・優花えり・アンサンブル"
+              }
+            },
+            {
+              "index": 14,
+              "title": "Scene6 横浜市界隈から「キラク」",
+              "duration": "07:18",
+              "credits": {
+                "出演": "松浦亜弥"
+              }
+            },
+            {
+              "index": 15,
+              "title": "さようなら",
+              "duration": "01:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "松浦亜弥"
+              }
+            },
+            {
+              "index": 16,
+              "title": "Scene7 「ミナト座」の中",
+              "duration": "03:12",
+              "credits": {
+                "出演": "松浦亜弥"
+              }
+            },
+            {
+              "index": 17,
+              "title": "Scene8 山下公園",
+              "duration": "05:50",
+              "credits": {
+                "出演": "松浦亜弥"
+              }
+            },
+            {
+              "index": 18,
+              "title": "決心",
+              "duration": "03:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "加藤紀子"
+              }
+            },
+            {
+              "index": 19,
+              "title": "愛子とのぼるのバラード",
+              "duration": "01:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "松浦亜弥・柴田あゆみ"
+              }
+            },
+            {
+              "index": 20,
+              "title": "Scene9 「キラク」一年後",
+              "duration": "09:45",
+              "credits": {
+                "出演": "松浦亜弥"
+              }
+            },
+            {
+              "index": 21,
+              "title": "草原の人",
+              "duration": "08:20",
+              "credits": {
+                "作詞": "加藤和枝",
+                "作曲": "つんく",
+                "出演": "松浦亜弥"
+              }
+            },
+            {
+              "index": 22,
+              "title": "ライブ「Yeah! HOT LIVE」",
+              "duration": "04:59",
+              "credits": {
+                "出演": "松浦亜弥"
+              }
+            },
+            {
+              "index": 23,
+              "title": "♡桃色片想い♡",
+              "duration": "04:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "松浦亜弥"
+              }
+            },
+            {
+              "index": 24,
+              "title": "100回のKISS",
+              "duration": "04:38",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "松浦亜弥"
+              }
+            },
+            {
+              "index": 25,
+              "title": "MC",
+              "duration": "06:06",
+              "credits": {
+                "出演": "松浦亜弥"
+              }
+            },
+            {
+              "index": 26,
+              "title": "LOVE涙色",
+              "duration": "04:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "松浦亜弥"
+              }
+            },
+            {
+              "index": 27,
+              "title": "Yeah!めっちゃホリディ",
+              "duration": "06:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "松浦亜弥(withメロン記念日)"
+              }
+            },
+            {
+              "index": 28,
+              "title": "メイキング",
+              "duration": "04:33",
+              "credits": {
+                "出演": "松浦亜弥"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5069"
+        }
+      ]
+    }
+  ]
+}

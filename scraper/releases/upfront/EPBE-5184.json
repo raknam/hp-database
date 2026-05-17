@@ -1,0 +1,68 @@
+{
+  "code": "EPBE-5184",
+  "url": "/release/detail/EPBE-5184/",
+  "source": "upfront",
+  "title": "モーニング娘。DVD in 香港",
+  "category": "DVD",
+  "artist": "モーニング娘。",
+  "releaseDate": "2005/12/07",
+  "label": "zetima",
+  "images": [
+    "/images/0dfe493b69892f7a53790a82cf9773e519b0401b.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/0dfe493b69892f7a53790a82cf9773e519b0401b.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5184",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "(オープニングイメージシーン)",
+              "duration": "00:29"
+            },
+            {
+              "index": 2,
+              "title": "OPENING",
+              "duration": "06:21"
+            },
+            {
+              "index": 3,
+              "title": "先鋒戦:早買い！安買い！対決！ 道重VS高橋",
+              "duration": "18:15"
+            },
+            {
+              "index": 4,
+              "title": "次鋒戦:お茶作り対決！ 久住VS新垣",
+              "duration": "12:17"
+            },
+            {
+              "index": 5,
+              "title": "中堅戦:チャイナドレス対決！ 紺野VS田中",
+              "duration": "13:56"
+            },
+            {
+              "index": 6,
+              "title": "副将戦:安くておいしい店を捜せ対決！ 小川VS亀井",
+              "duration": "13:46"
+            },
+            {
+              "index": 7,
+              "title": "大将戦:足ツボ我慢対決！ 吉澤VS藤本",
+              "duration": "05:11"
+            },
+            {
+              "index": 8,
+              "title": "ENDING",
+              "duration": "10:14"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

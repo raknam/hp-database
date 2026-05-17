@@ -1,0 +1,51 @@
+{
+  "code": "EPBE-5119",
+  "url": "/release/detail/EPBE-5119/",
+  "source": "upfront",
+  "title": "シングルV「浪漫 〜MY DEAR BOY〜」",
+  "category": "DVDシングルV",
+  "artist": "モーニング娘。",
+  "releaseDate": "2004/05/12",
+  "label": "zetima",
+  "images": [
+    "/images/25f0c2c1b6ae06c05b36edc3554b0c97e1846a40.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/25f0c2c1b6ae06c05b36edc3554b0c97e1846a40.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "EPBE-5119",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "浪漫 〜MY DEAR BOY〜",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "浪漫 〜MY DEAR BOY〜(Close-up version)",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "08:48"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

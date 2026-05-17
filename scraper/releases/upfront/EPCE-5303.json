@@ -1,0 +1,102 @@
+{
+  "code": "EPCE-5303",
+  "url": "/release/detail/EPCE-5303/",
+  "source": "upfront",
+  "title": "女子かしまし物語",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2004/07/22",
+  "label": "zetima",
+  "images": [
+    "/images/4b51ec5baa16dbb5fb5d42c68b71645d72dd1231.jpg",
+    "/images/187032d2d87e983055cc2b9fa059ba07c684b382.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回盤】",
+      "image": "/images/4b51ec5baa16dbb5fb5d42c68b71645d72dd1231.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5303",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "女子かしまし物語",
+              "duration": "05:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "がんばれ 日本 サッカー ファイト！",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 3,
+              "title": "女子かしまし物語(Instrumental)",
+              "duration": "05:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/187032d2d87e983055cc2b9fa059ba07c684b382.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5304",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "女子かしまし物語",
+              "duration": "05:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 2,
+              "title": "がんばれ 日本 サッカー ファイト！",
+              "duration": "04:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 3,
+              "title": "女子かしまし物語(Instrumental)",
+              "duration": "05:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

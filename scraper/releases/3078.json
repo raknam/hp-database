@@ -1,0 +1,101 @@
+{
+  "id": 3078,
+  "url": "/release/3078/",
+  "title": "ハロー！プロジェクト ラジオドラマ vol.3",
+  "category": "CDアルバム",
+  "artist": "V.A.",
+  "releaseDate": "2004.3.31",
+  "label": "zetima",
+  "images": [
+    "/upload/images/9e549c64f7c531b97ad106384aa33e43c51ac2d1.webp",
+    "/resources/images/foundation/release-placeholder.jpg"
+  ],
+  "editions": [
+    {
+      "name": "初回盤",
+      "image": "/upload/images/9e549c64f7c531b97ad106384aa33e43c51ac2d1.webp",
+      "price": "定価 ￥3,080（税抜価格 ￥2,800）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "温泉行きのバスに揺られて",
+              "duration": "20:23",
+              "credits": {
+                "作詞": "原作:大江丈晴",
+                "作曲": "脚本:楠野一郎",
+                "歌": "安倍なつみ・稲葉貴子・加護亜依・辻希美"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ああサクラバシ",
+              "duration": "23:13",
+              "credits": {
+                "作詞": "原作:澤下大樹",
+                "作曲": "脚本:楠野一郎",
+                "歌": "石川梨華・紺野あさ美"
+              }
+            },
+            {
+              "index": 3,
+              "title": "クレープのいる街",
+              "duration": "22:24",
+              "credits": {
+                "作詞": "原作:掛川浩司",
+                "作曲": "脚本:楠野一郎",
+                "歌": "藤本美貴・高橋愛・新垣里沙"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5271"
+        }
+      ]
+    },
+    {
+      "name": "通常盤",
+      "image": "/resources/images/foundation/release-placeholder.jpg",
+      "price": "定価 ￥1,980（税抜価格 ￥1,800）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "温泉行きのバスに揺られて",
+              "duration": "20:23",
+              "credits": {
+                "作詞": "原作:大江丈晴",
+                "作曲": "脚本:楠野一郎",
+                "歌": "安倍なつみ・稲葉貴子・加護亜依・辻希美"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ああサクラバシ",
+              "duration": "23:13",
+              "credits": {
+                "作詞": "原作:澤下大樹",
+                "作曲": "脚本:楠野一郎",
+                "歌": "石川梨華・紺野あさ美"
+              }
+            },
+            {
+              "index": 3,
+              "title": "クレープのいる街",
+              "duration": "22:24",
+              "credits": {
+                "作詞": "原作:掛川浩司",
+                "作曲": "脚本:楠野一郎",
+                "歌": "藤本美貴・高橋愛・新垣里沙"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5272"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "code": "EPXE-5205",
+  "url": "/release/detail/EPXE-5205/",
+  "source": "upfront",
+  "title": "つばきファクトリー メジャーデビュー5周年記念ライブ ～君ならで誰にか見せむ椿の花色をも香をも知る人ぞ知る～",
+  "category": "BD",
+  "artist": "つばきファクトリー",
+  "releaseDate": "2022/07/20",
+  "label": "zetima",
+  "images": [
+    "/images/808245ead6c974cef3469aaf652f09eedb577102.jpg"
+  ],
+  "editions": [
+    {
+      "name": "＜Disc1＞",
+      "image": "/images/808245ead6c974cef3469aaf652f09eedb577102.jpg",
+      "price": "￥8,800 (税抜価格 ￥8,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5205",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "02:03"
+            },
+            {
+              "index": 2,
+              "title": "低温火傷",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大橋莉子"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ガラクタDIAMOND",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "森由里子",
+                "作曲": "馬飼野康二/鎌田俊哉"
+              }
+            },
+            {
+              "index": 4,
+              "title": "約束・連絡・記念日",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "MC",
+              "duration": "19:13"
+            },
+            {
+              "index": 6,
+              "title": "涙のヒロイン降板劇",
+              "duration": "04:20",
+              "credits": {
+                "作詞": "山崎あおい",
+                "作曲": "Shusui/Josef Melin"
+              }
+            },
+            {
+              "index": 7,
+              "title": "I Need You ～夜空の観覧車～",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "星部ショウ",
+                "作曲": "星部ショウ"
+              }
+            },
+            {
+              "index": 8,
+              "title": "恋のUFOキャッチャー",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "ジンツチハシ",
+                "作曲": "ジンツチハシ"
+              }
+            },
+            {
+              "index": 9,
+              "title": "抱きしめられてみたい",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "大橋莉子"
+              }
+            },
+            {
+              "index": 10,
+              "title": "断捨ISM",
+              "duration": "04:02",
+              "credits": {
+                "作詞": "SHOCK EYE",
+                "作曲": "SHOCK EYE"
+              }
+            },
+            {
+              "index": 11,
+              "title": "初恋サンライズ",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "山田祐輔"
+              }
+            },
+            {
+              "index": 12,
+              "title": "今夜だけ浮かれたかった",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 13,
+              "title": "MC",
+              "duration": "12:14"
+            },
+            {
+              "index": 14,
+              "title": "帰ろう レッツゴー！",
+              "duration": "09:10",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "星部ショウ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "＜Disc2＞スカパー特番「行くぜ！つばきファクトリー メジャーデビュー5周年スッペシャル」",
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "特典映像",
+          "catalogNo": "EPXE-5206",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "My Darling ～Do you love me?～",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "中島卓偉",
+                "作曲": "中島卓偉"
+              }
+            },
+            {
+              "index": 2,
+              "title": "雪のプラネタリウム",
+              "duration": "03:43",
+              "credits": {
+                "作詞": "井筒日美",
+                "作曲": "KOUGA"
+              }
+            },
+            {
+              "index": 3,
+              "title": "三回目のデート神話",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "児玉雨子",
+                "作曲": "中島卓偉"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

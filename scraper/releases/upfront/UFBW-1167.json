@@ -1,0 +1,48 @@
+{
+  "code": "UFBW-1167",
+  "url": "/release/detail/UFBW-1167/",
+  "source": "upfront",
+  "title": "ハロプロ！TIME Vol.13",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012/07/09",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/54427b21ed587b4d43d936ca5baa7d9affa840af.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/54427b21ed587b4d43d936ca5baa7d9affa840af.jpg",
+      "price": "￥3,353 (税抜価格 ￥3,048)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1167",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "鈴木TIME鈴木愛理画伯 4コマ漫画に挑戦",
+              "duration": "04:27"
+            },
+            {
+              "index": 2,
+              "title": "鈴木TIME世界の「おいしい」をどれだけ覚えられるのか？ベリキュー暗記対決！",
+              "duration": "20:44"
+            },
+            {
+              "index": 3,
+              "title": "真野TIME後輩と真剣勝負！！大好きな食品サンプル作りに挑戦",
+              "duration": "36:40"
+            },
+            {
+              "index": 4,
+              "title": "徳永TIME足つぼ初体験で疲れを癒す",
+              "duration": "08:39"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

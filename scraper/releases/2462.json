@@ -1,0 +1,75 @@
+{
+  "id": 2462,
+  "url": "/release/2462/",
+  "title": "UP TO DATE",
+  "category": "DVD",
+  "artist": "真野恵里菜",
+  "releaseDate": "2012.6.6",
+  "label": "hachama",
+  "images": [
+    "/upload/images/5ce0bc3bcc310e1793d0e9bdf4435118a7db15a4.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Opening",
+              "duration": "00:20",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Beautiful Date",
+              "duration": "05:03",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Another date with Erina",
+              "duration": "17:29",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Date under the sky",
+              "duration": "17:54",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Making of 「MANO DATE」",
+              "duration": "12:19",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "01:54",
+              "credits": {
+                "出演": "真野恵里菜"
+              }
+            }
+          ],
+          "catalogNo": "HKBN-50166"
+        }
+      ]
+    }
+  ]
+}

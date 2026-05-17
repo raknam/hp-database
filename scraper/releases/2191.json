@@ -1,0 +1,123 @@
+{
+  "id": 2191,
+  "url": "/release/2191/",
+  "title": "マイミュージアム スペシャルDVD",
+  "category": "DVD",
+  "artist": "矢島舞美",
+  "releaseDate": "2013.6.6",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/3485eb4280703941f862c19185b4914a7ab3d7d6.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "00:13",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "テーマ「絵本」",
+              "duration": "08:20",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "テーマ「ショーガール」",
+              "duration": "04:04",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "テーマ「和装」",
+              "duration": "05:09",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "テーマ「砂漠」",
+              "duration": "04:12",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "テーマ「シャボン玉」",
+              "duration": "02:42",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 7,
+              "title": "テーマ「天使」",
+              "duration": "04:09",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 8,
+              "title": "テーマ「スイーツ」",
+              "duration": "04:58",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 9,
+              "title": "テーマ「沼」",
+              "duration": "05:50",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 10,
+              "title": "買い物",
+              "duration": "08:51",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 11,
+              "title": "デコレーション作業",
+              "duration": "37:29",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 12,
+              "title": "エンドロール",
+              "duration": "01:11",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-2084"
+        }
+      ]
+    }
+  ]
+}

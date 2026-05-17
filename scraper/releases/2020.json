@@ -1,0 +1,50 @@
+{
+  "id": 2020,
+  "url": "/release/2020/",
+  "title": "越えろ！楽天イーグルス",
+  "category": "CDシングル",
+  "artist": "℃-ute",
+  "releaseDate": "2008.3.18",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/9af49e718e481934d3abdc4995a2dbbbe091c41f.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "越えろ！楽天イーグルス",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "越えろ！楽天イーグルス",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "TGCS-4850"
+        }
+      ]
+    }
+  ]
+}

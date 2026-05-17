@@ -1,0 +1,91 @@
+{
+  "code": "UFBW-1135",
+  "url": "/release/detail/UFBW-1135/",
+  "source": "upfront",
+  "title": "リボーン〜命のオーディション〜 DVD",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012/02/01",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/870eefb1ca2535cf2d6c4e784cfc61ad39985364.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/870eefb1ca2535cf2d6c4e784cfc61ad39985364.jpg",
+      "price": "￥4,400 (税抜価格 ￥4,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1135",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "プロローグ",
+              "duration": "02:37",
+              "credits": {
+                "作詞": "太田善也",
+                "作曲": "はたけ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "一場",
+              "duration": "12:45",
+              "credits": {
+                "作詞": "太田善也",
+                "作曲": "はたけ"
+              }
+            },
+            {
+              "index": 3,
+              "title": "二場",
+              "duration": "40:40",
+              "credits": {
+                "作詞": "太田善也",
+                "作曲": "はたけ"
+              }
+            },
+            {
+              "index": 4,
+              "title": "三場",
+              "duration": "29:18",
+              "credits": {
+                "作詞": "太田善也",
+                "作曲": "はたけ"
+              }
+            },
+            {
+              "index": 5,
+              "title": "四場",
+              "duration": "14:04",
+              "credits": {
+                "作詞": "太田善也",
+                "作曲": "はたけ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "エピローグ",
+              "duration": "12:07",
+              "credits": {
+                "作詞": "太田善也",
+                "作曲": "はたけ"
+              }
+            },
+            {
+              "index": 7,
+              "title": "特典映像",
+              "duration": "21:31",
+              "credits": {
+                "作詞": "太田善也",
+                "作曲": "はたけ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

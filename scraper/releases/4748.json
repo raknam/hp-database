@@ -1,0 +1,565 @@
+{
+  "id": 4748,
+  "url": "/release/4748/",
+  "title": "何故 人は争うんだろう？/Summer Wind/人生はSTEP！",
+  "category": "CDシングル",
+  "artist": "℃-ute",
+  "releaseDate": "2016.4.20",
+  "label": "zetima",
+  "images": [
+    "/upload/images/80303864d4d45aa9202717b266eee2ef49f4920a.webp",
+    "/upload/images/90595fa59a93e545fad9f5a915e4b70ec068cc03.webp",
+    "/upload/images/58fbb28e61b895c72da3f2345bd194c1c844c464.webp",
+    "/upload/images/0b166160f55a8ff95a85c415fa14f0f9e68c35fe.webp",
+    "/upload/images/98119956f92cc7aa63374061925125b28f47fc55.webp",
+    "/upload/images/fd5f523a9992de9450153b3076ffc404e8c797d5.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/upload/images/80303864d4d45aa9202717b266eee2ef49f4920a.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "何故 人は争うんだろう？",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Summer Wind",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "人生はSTEP!",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "石井浩平",
+                "編曲": "石井浩平",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "何故 人は争うんだろう？",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Summer Wind",
+              "duration": "04:33",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 6,
+              "title": "人生はSTEP!",
+              "duration": "04:08",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "石井浩平",
+                "編曲": "石井浩平",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7208"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "何故 人は争うんだろう？",
+              "duration": "05:56",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "出演": "℃-ute"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/upload/images/90595fa59a93e545fad9f5a915e4b70ec068cc03.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "何故 人は争うんだろう？",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Summer Wind",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "人生はSTEP!",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "石井浩平",
+                "編曲": "石井浩平",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "何故 人は争うんだろう？",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Summer Wind",
+              "duration": "04:33",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 6,
+              "title": "人生はSTEP!",
+              "duration": "04:08",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "石井浩平",
+                "編曲": "石井浩平",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7210"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Summer Wind",
+              "duration": "05:08",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "℃-ute"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【初回生産限定盤C】",
+      "image": "/upload/images/58fbb28e61b895c72da3f2345bd194c1c844c464.webp",
+      "price": "￥1,760（税抜価格 ￥1,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "何故 人は争うんだろう？",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Summer Wind",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "人生はSTEP!",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "石井浩平",
+                "編曲": "石井浩平",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "何故 人は争うんだろう？",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Summer Wind",
+              "duration": "04:33",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 6,
+              "title": "人生はSTEP!",
+              "duration": "04:08",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "石井浩平",
+                "編曲": "石井浩平",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7212"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "人生はSTEP！",
+              "duration": "06:16",
+              "suffix": "(Music Video)",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "石井浩平",
+                "出演": "℃-ute"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付+イベント抽選シリアルナンバーカード"
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/upload/images/0b166160f55a8ff95a85c415fa14f0f9e68c35fe.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "何故 人は争うんだろう？",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Summer Wind",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "人生はSTEP!",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "石井浩平",
+                "編曲": "石井浩平",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "何故 人は争うんだろう？",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Summer Wind",
+              "duration": "04:33",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 6,
+              "title": "人生はSTEP！",
+              "duration": "04:08",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "石井浩平",
+                "編曲": "石井浩平",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7214"
+        }
+      ],
+      "note": "トレーディングカード ソロ5種+集合1種よりランダムにて1枚封入(何故 人は争うんだろう？ Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/upload/images/98119956f92cc7aa63374061925125b28f47fc55.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "何故 人は争うんだろう？",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Summer Wind",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "人生はSTEP！",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "石井浩平",
+                "編曲": "石井浩平",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "何故 人は争うんだろう？",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Summer Wind",
+              "duration": "04:33",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 6,
+              "title": "人生はSTEP！",
+              "duration": "04:08",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "石井浩平",
+                "編曲": "石井浩平",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7215"
+        }
+      ],
+      "note": "トレーディングカード ソロ5種+集合1種よりランダムにて1枚封入(Summer Wind Ver.)※初回プレス分のみ"
+    },
+    {
+      "name": "【通常盤C】",
+      "image": "/upload/images/fd5f523a9992de9450153b3076ffc404e8c797d5.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "何故 人は争うんだろう？",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Summer Wind",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 3,
+              "title": "人生はSTEP！",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "石井浩平",
+                "編曲": "石井浩平",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 4,
+              "title": "何故 人は争うんだろう？",
+              "duration": "04:21",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "星部ショウ",
+                "編曲": "平田祥一郎",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Summer Wind",
+              "duration": "04:33",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA",
+                "歌": "℃-ute"
+              }
+            },
+            {
+              "index": 6,
+              "title": "人生はSTEP！",
+              "duration": "04:08",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "角田崇徳",
+                "作曲": "石井浩平",
+                "編曲": "石井浩平",
+                "歌": "℃-ute"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-7216"
+        }
+      ],
+      "note": "トレーディングカード ソロ5種+集合1種よりランダムにて1枚封入(人生はSTEP！ Ver.)※初回プレス分のみ"
+    }
+  ]
+}

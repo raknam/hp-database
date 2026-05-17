@@ -1,0 +1,53 @@
+{
+  "code": "EPXE-5073",
+  "url": "/release/detail/EPXE-5073/",
+  "source": "upfront",
+  "title": "Flowing",
+  "category": "BD",
+  "artist": "矢島舞美",
+  "releaseDate": "2015/10/21",
+  "label": "zetima",
+  "images": [
+    "/images/1b91b0b2727d20cc70bb59f2088f4fb218e76a59.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/1b91b0b2727d20cc70bb59f2088f4fb218e76a59.jpg",
+      "price": "￥5,500 (税抜価格 ￥5,000)",
+      "discs": [
+        {
+          "type": "BD",
+          "catalogNo": "EPXE-5073",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Passion",
+              "duration": "10:09"
+            },
+            {
+              "index": 2,
+              "title": "Calm",
+              "duration": "10:25"
+            },
+            {
+              "index": 3,
+              "title": "Open",
+              "duration": "10:28"
+            },
+            {
+              "index": 4,
+              "title": "Reaf",
+              "duration": "07:02"
+            },
+            {
+              "index": 5,
+              "title": "Making of 「Nobody knows23」",
+              "duration": "12:09"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-7577",
+  "url": "/release/detail/EPCE-7577/",
+  "source": "upfront",
+  "title": "ポップミュージック",
+  "category": "CDシングル",
+  "artist": "KAN",
+  "releaseDate": "2020/02/26",
+  "label": "zetima",
+  "images": [
+    "/images/fb93c993a328dba58b2a62236fa7ea7feaae04f3.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/fb93c993a328dba58b2a62236fa7ea7feaae04f3.jpg",
+      "price": "￥1,980 (税抜価格 ￥1,800)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7577",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ポップミュージック",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 2,
+              "title": "KANのChristmas Song(弦楽四重奏とともに)",
+              "duration": "02:12",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ポップミュージック(カラオケ)",
+              "duration": "04:53",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            },
+            {
+              "index": 4,
+              "title": "KANのChristmas Song(弦楽四重奏カラオケ)",
+              "duration": "02:12",
+              "credits": {
+                "作詞": "KAN",
+                "作曲": "KAN",
+                "編曲": "KAN"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

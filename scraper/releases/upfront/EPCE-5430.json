@@ -1,0 +1,159 @@
+{
+  "code": "EPCE-5430",
+  "url": "/release/detail/EPCE-5430/",
+  "source": "upfront",
+  "title": "キューティークイーン VOL.1",
+  "category": "CDアルバム",
+  "artist": "℃-ute",
+  "releaseDate": "2006/10/25",
+  "label": "zetima",
+  "images": [
+    "/images/cdd6f2053200aa78bc7706c21c0c644d00cb24c7.jpg",
+    "/images/b6834d21cb356b9cd7bba4b60196d92f66928799.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/cdd6f2053200aa78bc7706c21c0c644d00cb24c7.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5430",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "まっさらブルージーンズ",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "わっきゃない(Z)",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "即 抱きしめて",
+              "duration": "03:15",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 4,
+              "title": "大きな愛でもてなして",
+              "duration": "03:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 5,
+              "title": "タイムカプセル",
+              "duration": "03:51",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 6,
+              "title": "EVERYDAY YEAH!片想い",
+              "duration": "03:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            },
+            {
+              "index": 7,
+              "title": "As ONE",
+              "duration": "03:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 8,
+              "title": "YES!しあわせ",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "田中直"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ENDLESS LOVE〜I Love You More〜",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/b6834d21cb356b9cd7bba4b60196d92f66928799.jpg",
+      "price": "￥2,619 (税抜価格 ￥2,381)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5432",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "EVERYDAY YEAH!片想い 2006.9.10 Cutie Circuit 2006 Final in YOMIURILAND EAST LIVE",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Cutie Circuit 2006 Final in YOMIURILAND EAST LIVE(15sec. SPOT)",
+              "duration": "00:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "わっきゃない(Z)(SPECIAL EDITION)",
+              "duration": "02:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

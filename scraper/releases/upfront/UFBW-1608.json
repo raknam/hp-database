@@ -1,0 +1,93 @@
+{
+  "code": "UFBW-1608",
+  "url": "/release/detail/UFBW-1608/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.49",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2018/11/14",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/6bb33a2f5164ebb2dbf0ecb5c0e1be267202ede9.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/6bb33a2f5164ebb2dbf0ecb5c0e1be267202ede9.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1608",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「Hello! Project Documentary」工藤遥(モーニング娘。’17) /♪若いんだし！",
+              "duration": "16:52"
+            },
+            {
+              "index": 2,
+              "title": "「Hello! Project Documentary」室田瑞希(アンジュルム) /♪次々続々",
+              "duration": "17:15"
+            },
+            {
+              "index": 3,
+              "title": "「Hello! Project Documentary」宮本佳林(Juice=Juice) /♪Fiesta! Fiesta!",
+              "duration": "17:34"
+            },
+            {
+              "index": 4,
+              "title": "Way of Our Life【スタジオライブ集】",
+              "duration": "04:05",
+              "credits": {
+                "作詞": "fu_mou",
+                "作曲": "fu_mou"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Going my ↑【スタジオライブ集】",
+              "duration": "05:10",
+              "credits": {
+                "作詞": "大華奈央香",
+                "作曲": "michitomo"
+              }
+            },
+            {
+              "index": 6,
+              "title": "GAME【スタジオライブ集】",
+              "duration": "03:27",
+              "credits": {
+                "作詞": "田中れいな",
+                "作曲": "千聖"
+              }
+            },
+            {
+              "index": 7,
+              "title": "CARRY ON【スタジオライブ集】",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "Kohei by SIMONSAYZ",
+                "作曲": "Kohei by SIMONSAYZ"
+              }
+            },
+            {
+              "index": 8,
+              "title": "アカネディスコ【スタジオライブ集】",
+              "duration": "05:15",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "michitomo"
+              }
+            },
+            {
+              "index": 9,
+              "title": "Hello! Project Documentaryより「工藤遥 未公開インタビュー」【未公開映像】",
+              "duration": "02:59"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": 2085,
+  "url": "/release/2085/",
+  "title": "ハロプロ！TIME Vol.21",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2012.11.9",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/92c8a227836e3d2c73c6be3f6f8e95b3a9ef4f7d.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "矢島TIME",
+              "duration": "16:12",
+              "suffix": "「君は自転車 私は電車で帰宅」ヒット祈願！2泊3日の自転車旅",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "1日目①",
+              "duration": "18:31",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "1日目②",
+              "duration": "19:57",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "2日目①",
+              "duration": "15:30",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "2日目②",
+              "duration": "14:52",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            },
+            {
+              "index": 6,
+              "title": "3日目",
+              "duration": "21:26",
+              "credits": {
+                "出演": "矢島舞美(℃-ute)"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-1195"
+        }
+      ]
+    }
+  ]
+}

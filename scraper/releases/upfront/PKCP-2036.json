@@ -1,0 +1,142 @@
+{
+  "code": "PKCP-2036",
+  "url": "/release/detail/PKCP-2036/",
+  "source": "upfront",
+  "title": "置き手紙",
+  "category": "CDシングル",
+  "artist": "藤本美貴",
+  "releaseDate": "2008/04/23",
+  "label": "ライスミュージック",
+  "images": [
+    "/images/4ae807ab05ee203b484da76dcc1a08625249a5e6.jpg",
+    "/images/24620176b39ab1db38a8612928e60761ef266cd5.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/4ae807ab05ee203b484da76dcc1a08625249a5e6.jpg",
+      "price": "￥1,257 (税抜価格 ￥1,143)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-2036",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "置き手紙",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "いではく",
+                "作曲": "杉本眞人",
+                "編曲": "YooHaeJoon"
+              }
+            },
+            {
+              "index": 2,
+              "title": "遠い恋人",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "YooHaeJoon",
+                "編曲": "YooHaeJoon"
+              }
+            },
+            {
+              "index": 3,
+              "title": "置き手紙(オリジナル・カラオケ)",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "いではく",
+                "作曲": "杉本眞人",
+                "編曲": "YooHaeJoon"
+              }
+            },
+            {
+              "index": 4,
+              "title": "置き手紙(男性キー・カラオケ)",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "いではく",
+                "作曲": "杉本眞人",
+                "編曲": "YooHaeJoon"
+              }
+            },
+            {
+              "index": 5,
+              "title": "遠い恋人(オリジナル・カラオケ)",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "YooHaeJoon",
+                "編曲": "YooHaeJoon"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": null,
+      "image": "/images/24620176b39ab1db38a8612928e60761ef266cd5.jpg",
+      "price": "￥1,257 (税抜価格 ￥1,143)",
+      "discs": [
+        {
+          "type": "カセットテープシングル",
+          "catalogNo": "PKSP-2036",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "置き手紙",
+              "duration": "04:36",
+              "credits": {
+                "作詞": "いではく",
+                "作曲": "杉本眞人",
+                "編曲": "YooHaeJoon"
+              }
+            },
+            {
+              "index": 2,
+              "title": "遠い恋人",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "もりちよこ",
+                "作曲": "YooHaeJoon",
+                "編曲": "YooHaeJoon"
+              }
+            },
+            {
+              "index": 3,
+              "title": "置き手紙(オリジナル・カラオケ)",
+              "duration": "04:35",
+              "credits": {
+                "作詞": "いではく",
+                "作曲": "杉本眞人",
+                "編曲": "YooHaeJoon"
+              }
+            },
+            {
+              "index": 4,
+              "title": "置き手紙(男性キー・カラオケ",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "いではく",
+                "作曲": "杉本眞人",
+                "編曲": "YooHaeJoon"
+              }
+            },
+            {
+              "index": 5,
+              "title": "遠い恋人(オリジナル・カラオケ)",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "いではく",
+                "作曲": "YooHaeJoon",
+                "編曲": "YooHaeJoon"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

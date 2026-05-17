@@ -1,0 +1,68 @@
+{
+  "code": "PKCP-2054",
+  "url": "/release/detail/PKCP-2054/",
+  "source": "upfront",
+  "title": "影法師",
+  "category": "CDシングル",
+  "artist": "堀内孝雄",
+  "releaseDate": "2009/10/28",
+  "label": "ライスミュージック",
+  "images": [
+    "/images/e380900d637daeb63d3902533a632a4d69bfb07c.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/e380900d637daeb63d3902533a632a4d69bfb07c.jpg",
+      "price": "￥1,257 (税抜価格 ￥1,143)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "PKCP-2054",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "影法師",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 2,
+              "title": "カラスの女房(ニューバージョン)",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 3,
+              "title": "影法師(オリジナル・カラオケ)",
+              "duration": "04:39",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            },
+            {
+              "index": 4,
+              "title": "カラスの女房(ニューバージョン)〜オリジナル・カラオケ〜",
+              "duration": "03:49",
+              "credits": {
+                "作詞": "荒木とよひさ",
+                "作曲": "堀内孝雄",
+                "編曲": "川村栄二"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

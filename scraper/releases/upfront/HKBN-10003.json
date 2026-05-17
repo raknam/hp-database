@@ -1,0 +1,73 @@
+{
+  "code": "HKBN-10003",
+  "url": "/release/detail/HKBN-10003/",
+  "source": "upfront",
+  "title": "デタラメオンザビーチ",
+  "category": "DVD",
+  "artist": "エレキコミック",
+  "releaseDate": "2005/12/07",
+  "label": "hachama",
+  "images": [
+    "/images/22e2c75cad81558722d75a2c5e26951041a867d9.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/22e2c75cad81558722d75a2c5e26951041a867d9.jpg",
+      "price": "￥3,143 (税抜価格 ￥2,857)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKBN-10003",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "03:48"
+            },
+            {
+              "index": 2,
+              "title": "やっつんだっつんオンザビーチ",
+              "duration": "11:31"
+            },
+            {
+              "index": 3,
+              "title": "きづかれないのか、イマダチ",
+              "duration": "06:19"
+            },
+            {
+              "index": 4,
+              "title": "ユーモア教室",
+              "duration": "10:14"
+            },
+            {
+              "index": 5,
+              "title": "エレキコミック検定試験",
+              "duration": "04:40"
+            },
+            {
+              "index": 6,
+              "title": "親権裁判",
+              "duration": "08:39"
+            },
+            {
+              "index": 7,
+              "title": "やつい故郷で錦を飾る",
+              "duration": "05:26"
+            },
+            {
+              "index": 8,
+              "title": "万引き忍者",
+              "duration": "07:43"
+            },
+            {
+              "index": 9,
+              "title": "エンディング",
+              "duration": "03:40"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

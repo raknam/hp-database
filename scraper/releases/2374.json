@@ -1,0 +1,59 @@
+{
+  "id": 2374,
+  "url": "/release/2374/",
+  "title": "The Season",
+  "category": "DVD",
+  "artist": "和田彩花",
+  "releaseDate": "2014.8.1",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/upload/images/0d707cb8073c813d689334c77723b33bf543c99b.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Season of Flowers",
+              "duration": "18:21",
+              "credits": {
+                "出演": "和田彩花(スマイレージ)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Season of Woods",
+              "duration": "13:47",
+              "credits": {
+                "出演": "和田彩花(スマイレージ)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Season of Field",
+              "duration": "14:27",
+              "credits": {
+                "出演": "和田彩花(スマイレージ)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Ending",
+              "duration": "03:26",
+              "credits": {
+                "出演": "和田彩花(スマイレージ)"
+              }
+            }
+          ],
+          "catalogNo": "UFBW-2105"
+        }
+      ]
+    }
+  ]
+}

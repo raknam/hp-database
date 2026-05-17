@@ -1,0 +1,157 @@
+{
+  "id": 1731,
+  "url": "/release/1731/",
+  "title": "おまかせ♪ガーディアン",
+  "category": "CDシングル",
+  "artist": "ガーディアンズ４",
+  "releaseDate": "2009.5.27",
+  "label": "ポニーキャニオン",
+  "images": [
+    "/upload/images/8f033c77035190e442a55e89f1a876af1c7473cd.webp",
+    "/upload/images/4ecc791a6f52d22716e222a20ea0f84c2770f90d.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回限定盤】",
+      "image": "/upload/images/8f033c77035190e442a55e89f1a876af1c7473cd.webp",
+      "price": "定価 ￥1,650（税抜価格 ￥1,500）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "おまかせ♪ガーディアン",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "斎藤悠弥",
+                "編曲": "斎藤悠弥",
+                "歌": "ガーディアンズ4"
+              }
+            },
+            {
+              "index": 2,
+              "title": "おまかせ♪ガーディアン",
+              "duration": "00:00",
+              "suffix": "(しゅごキャラエッグ！Version)",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "斎藤悠弥",
+                "編曲": "斎藤悠弥",
+                "歌": "ガーディアンズ4"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Summer Has Come!",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "木之下慶行",
+                "編曲": "木之下慶行",
+                "歌": "ガーディアンズ4"
+              }
+            },
+            {
+              "index": 4,
+              "title": "おまかせ♪ガーディアン",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "斎藤悠弥",
+                "編曲": "斎藤悠弥",
+                "歌": "ガーディアンズ4"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Summer Has Come!",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "木之下慶行",
+                "編曲": "木之下慶行",
+                "歌": "ガーディアンズ4"
+              }
+            }
+          ],
+          "catalogNo": "PCCA-02911"
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/4ecc791a6f52d22716e222a20ea0f84c2770f90d.webp",
+      "price": "定価 ￥1,100（税抜価格 ￥1,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "おまかせ♪ガーディアン",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "斎藤悠弥",
+                "編曲": "斎藤悠弥",
+                "歌": "ガーディアンズ4"
+              }
+            },
+            {
+              "index": 2,
+              "title": "おまかせ♪ガーディアン",
+              "duration": "00:00",
+              "suffix": "(しゅごキャラエッグ！Version)",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "斎藤悠弥",
+                "編曲": "斎藤悠弥",
+                "歌": "ガーディアンズ4"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Summer Has Come!",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "木之下慶行",
+                "編曲": "木之下慶行",
+                "歌": "ガーディアンズ4"
+              }
+            },
+            {
+              "index": 4,
+              "title": "おまかせ♪ガーディアン",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "斎藤悠弥",
+                "編曲": "斎藤悠弥",
+                "歌": "ガーディアンズ4"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Summer Has Come!",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "川上夏季",
+                "作曲": "木之下慶行",
+                "編曲": "木之下慶行",
+                "歌": "ガーディアンズ4"
+              }
+            }
+          ],
+          "catalogNo": "PCCA-70244"
+        }
+      ]
+    }
+  ]
+}

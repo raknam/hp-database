@@ -1,0 +1,67 @@
+{
+  "id": 4503,
+  "url": "/release/4503/",
+  "title": "あかり",
+  "category": "BD",
+  "artist": "植村あかり",
+  "releaseDate": "2015.12.16",
+  "label": "hachama",
+  "images": [
+    "/upload/images/07893ff374171851d60e013293295c22e2f2e72f.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "BD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Early blue summer",
+              "duration": "09:08",
+              "credits": {
+                "出演": "植村あかり"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Southern wind",
+              "duration": "09:48",
+              "credits": {
+                "出演": "植村あかり"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Bus stop",
+              "duration": "09:36",
+              "credits": {
+                "出演": "植村あかり"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Making of 「AKARI」",
+              "duration": "19:48",
+              "credits": {
+                "出演": "植村あかり"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "02:44",
+              "credits": {
+                "出演": "植村あかり"
+              }
+            }
+          ],
+          "catalogNo": "HKXN-50041"
+        }
+      ]
+    }
+  ]
+}

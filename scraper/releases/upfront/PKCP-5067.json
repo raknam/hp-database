@@ -1,0 +1,162 @@
+{
+  "code": "PKCP-5067",
+  "url": "/release/detail/PKCP-5067/",
+  "source": "upfront",
+  "title": "③夏夏ミニベリーズ",
+  "category": "CDアルバム",
+  "artist": "Berryz工房",
+  "releaseDate": "2006/07/05",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/5d3cb7de80e3f86a993e4efccb0107356f2589e4.jpg",
+    "/images/682dafd7dc6ebdcebfa12b4f548a2d433c6fab88.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/5d3cb7de80e3f86a993e4efccb0107356f2589e4.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "PKCP-5067",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ジリリ キテル",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく/CHOPIN FREDERIC FRANCOIS",
+                "編曲": "湯浅公一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "マジ夏すぎる",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "橋本由香利"
+              }
+            },
+            {
+              "index": 3,
+              "title": "夏 Remember you",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "橋本由香利"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Yeah！めっちゃホリディ",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 5,
+              "title": "チュッ！夏パ〜ティ",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ハレーション サマー",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/682dafd7dc6ebdcebfa12b4f548a2d433c6fab88.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "PKCP-5068",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ジリリ キテル",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく/CHOPIN FREDERIC FRANCOIS",
+                "編曲": "湯浅公一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "マジ夏すぎる",
+              "duration": "05:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "橋本由香利"
+              }
+            },
+            {
+              "index": 3,
+              "title": "夏 Remember you",
+              "duration": "04:03",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "橋本由香利"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Yeah！めっちゃホリディ",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 5,
+              "title": "チュッ！夏パ〜ティ",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ハレーション サマー",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

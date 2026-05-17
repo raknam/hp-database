@@ -1,0 +1,258 @@
+{
+  "code": "HKBN-50010",
+  "url": "/release/detail/HKBN-50010/",
+  "source": "upfront",
+  "title": "Hello！ Project 2002 ～今年もすごいぞ！～",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2002/03/20",
+  "label": "hachama",
+  "images": [
+    "/images/9566bb8c8b10f9c324727a0d9a7a18500a3c2783.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/9566bb8c8b10f9c324727a0d9a7a18500a3c2783.jpg",
+      "price": "￥4,620 (税抜価格 ￥4,200)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKBN-50010",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "04:12"
+            },
+            {
+              "index": 2,
+              "title": "ダンシング！夏祭り",
+              "duration": "02:42",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 3,
+              "title": "サマーれげぇ！レインボー",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "hasie"
+              }
+            },
+            {
+              "index": 4,
+              "title": "チュッ！夏パ～ティ",
+              "duration": "02:53",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 5,
+              "title": "MC",
+              "duration": "03:04"
+            },
+            {
+              "index": 6,
+              "title": "花",
+              "duration": "01:59",
+              "credits": {
+                "作詞": "武島羽衣",
+                "作曲": "滝廉太郎",
+                "編曲": "前嶋康明"
+              }
+            },
+            {
+              "index": 7,
+              "title": "プロポーズ",
+              "duration": "02:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 8,
+              "title": "契り",
+              "duration": "02:43",
+              "credits": {
+                "作詞": "阿久悠",
+                "作曲": "五木ひろし",
+                "編曲": "今泉敏郎"
+              }
+            },
+            {
+              "index": 9,
+              "title": "恋人は心の応援団",
+              "duration": "03:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 10,
+              "title": "溢れちゃう．．．BE IN LOVE",
+              "duration": "02:43",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "AKIRA"
+              }
+            },
+            {
+              "index": 11,
+              "title": "ミニモニ。ひなまつり！",
+              "duration": "03:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小西貴雄"
+              }
+            },
+            {
+              "index": 12,
+              "title": "MC",
+              "duration": "00:54"
+            },
+            {
+              "index": 13,
+              "title": "みかんの花咲く丘",
+              "duration": "01:22",
+              "credits": {
+                "作詞": "加藤省吾",
+                "作曲": "海沼実",
+                "編曲": "山尾正人"
+              }
+            },
+            {
+              "index": 14,
+              "title": "MC",
+              "duration": "02:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 15,
+              "title": "Let's Do 大発見！",
+              "duration": "02:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 16,
+              "title": "二人暮し",
+              "duration": "03:02",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "明石昌夫"
+              }
+            },
+            {
+              "index": 17,
+              "title": "情熱行き 未来船",
+              "duration": "02:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木Daichi秀行"
+              }
+            },
+            {
+              "index": 18,
+              "title": "ぴったりしたいX'mas!",
+              "duration": "02:55",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "酒井ミキオ"
+              }
+            },
+            {
+              "index": 19,
+              "title": "王子様と雪の夜",
+              "duration": "03:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "永井ルイ"
+              }
+            },
+            {
+              "index": 20,
+              "title": "MC～ATSUKOのどうなの？コーナー～",
+              "duration": "05:43"
+            },
+            {
+              "index": 21,
+              "title": "This is 運命",
+              "duration": "02:59"
+            },
+            {
+              "index": 22,
+              "title": "メドレー",
+              "duration": "06:17"
+            },
+            {
+              "index": 23,
+              "title": "ザ☆ピ～ス！",
+              "duration": "08:48",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン(hornarrangementby川松久芳)"
+              }
+            },
+            {
+              "index": 24,
+              "title": "メドレー",
+              "duration": "09:07"
+            },
+            {
+              "index": 25,
+              "title": "恋愛レボリューション21",
+              "duration": "05:31",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ダンス☆マン"
+              }
+            },
+            {
+              "index": 26,
+              "title": "Mr.Moonlight～愛のビッグバンド～",
+              "duration": "08:21",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介/ブラスアレンジ:小林正弘"
+              }
+            },
+            {
+              "index": 27,
+              "title": "おまけ/ハロプロ懺悔BOX未公開映像",
+              "duration": "09:34"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

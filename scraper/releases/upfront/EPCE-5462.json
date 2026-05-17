@@ -1,0 +1,106 @@
+{
+  "code": "EPCE-5462",
+  "url": "/release/detail/EPCE-5462/",
+  "source": "upfront",
+  "title": "②mini〜生きるという力〜",
+  "category": "CDアルバム",
+  "artist": "℃-ute",
+  "releaseDate": "2007/04/18",
+  "label": "zetima",
+  "images": [
+    "/images/3b30cea17c8bfa787add98cdac87577a23b8e4a8.jpg",
+    "/images/4c80193e6dd2ad940dfab8740d7cf16af7fba57c.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/3b30cea17c8bfa787add98cdac87577a23b8e4a8.jpg",
+      "price": "￥2,934 (税抜価格 ￥2,667)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5462",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "That's the POWER",
+              "duration": "04:41",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "僕らの輝き",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "小倉健二"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ディスコ クイーン",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "田中直"
+              }
+            },
+            {
+              "index": 4,
+              "title": "通学ベクトル☂",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "夏DOKI リップスティック",
+              "duration": "03:06",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "山崎淳"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/4c80193e6dd2ad940dfab8740d7cf16af7fba57c.jpg",
+      "price": "￥2,200 (税抜価格 ￥2,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5464",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "JUMP[Close-up Live Ver. at Nihon Seinenkan]",
+              "duration": "04:22",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ジャケット撮影メイキング",
+              "duration": "13:13"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

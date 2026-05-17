@@ -1,0 +1,58 @@
+{
+  "code": "EPBE-5485",
+  "url": "/release/detail/EPBE-5485/",
+  "source": "upfront",
+  "title": "新嘉坡",
+  "category": "DVD",
+  "artist": "鈴木愛理",
+  "releaseDate": "2014/06/25",
+  "label": "zetima",
+  "images": [
+    "/images/ca5dba6bdd113dbd3ace2e13a6ab0b4b013d94ba.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/ca5dba6bdd113dbd3ace2e13a6ab0b4b013d94ba.jpg",
+      "price": "￥4,400 (税抜価格 ￥4,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5485",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Bay area",
+              "duration": "05:49"
+            },
+            {
+              "index": 2,
+              "title": "Little India",
+              "duration": "07:53"
+            },
+            {
+              "index": 3,
+              "title": "Beach",
+              "duration": "07:05"
+            },
+            {
+              "index": 4,
+              "title": "Chinatown",
+              "duration": "10:24"
+            },
+            {
+              "index": 5,
+              "title": "Making of 「共鳴」",
+              "duration": "18:30"
+            },
+            {
+              "index": 6,
+              "title": "Ending",
+              "duration": "02:04"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

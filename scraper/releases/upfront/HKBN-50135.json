@@ -1,0 +1,55 @@
+{
+  "code": "HKBN-50135",
+  "url": "/release/detail/HKBN-50135/",
+  "source": "upfront",
+  "title": "シングルV「同じ時給で働く友達の美人ママ」",
+  "category": "DVDシングルV",
+  "artist": "スマイレージ",
+  "releaseDate": "2010/10/06",
+  "label": "hachama",
+  "images": [
+    "/images/951a239c96f8dd2cfad1198de06594487ef838d8.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/951a239c96f8dd2cfad1198de06594487ef838d8.jpg",
+      "price": "￥1,650 (税抜価格 ￥1,500)",
+      "discs": [
+        {
+          "type": "DVDシングルV",
+          "catalogNo": "HKBN-50135",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "同じ時給で働く友達の美人ママ(MUSIC VIDEO)",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "同じ時給で働く友達の美人ママ(アルバイトVer.)",
+              "duration": "04:24",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "メイキング映像",
+              "duration": "16:19",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "id": 1928,
+  "url": "/release/1928/",
+  "title": "⑦ Berryz タイムス",
+  "category": "CDアルバム",
+  "artist": "Berryz工房",
+  "releaseDate": "2011.3.30",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/upload/images/e19798c90a82fbe89bf7f1ae36958f3368a46538.webp",
+    "/upload/images/bdf21bc7ce898272be69a48ed6daea93c2ab3e94.webp"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/upload/images/e19798c90a82fbe89bf7f1ae36958f3368a46538.webp",
+      "price": "￥3,960（税抜価格 ￥3,600）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "一丁目ロック！",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "朝井泰生",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ヒロインになろうか！",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "BOMB BOMB JUMP",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 4,
+              "title": "真っ白いあの雲",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 5,
+              "title": "本気ボンバー！！",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 6,
+              "title": "女子会 The Night",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ガールズタイムス",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "藤澤慶昌",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 8,
+              "title": "女のプライド",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 9,
+              "title": "シャイニング パワー",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 10,
+              "title": "マジカルフューチャー！",
+              "duration": "03:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5180"
+        },
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ヒロインになろうか！",
+              "duration": "04:41",
+              "suffix": "(清水佐紀 SoloDance Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "清水佐紀"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ヒロインになろうか！",
+              "duration": "04:41",
+              "suffix": "(嗣永桃子 SoloDance Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "嗣永桃子"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ヒロインになろうか！",
+              "duration": "04:41",
+              "suffix": "(徳永千奈美 SoloDance Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "徳永千奈美"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ヒロインになろうか！",
+              "duration": "04:41",
+              "suffix": "(須藤茉麻 SoloDance Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "須藤茉麻"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ヒロインになろうか！",
+              "duration": "04:41",
+              "suffix": "(夏焼雅 SoloDance Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "夏焼雅"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ヒロインになろうか！",
+              "duration": "04:41",
+              "suffix": "(熊井友理奈 SoloDance Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "熊井友理奈"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ヒロインになろうか！",
+              "duration": "04:41",
+              "suffix": "(菅谷梨沙子 SoloDance Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "菅谷梨沙子"
+              }
+            },
+            {
+              "index": 8,
+              "title": "ヒロインになろうか！",
+              "duration": "04:42",
+              "suffix": "(Dance Mix Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ヒロインになろうか！",
+              "duration": "04:43",
+              "suffix": "(Hello! Project 2011 WINTER 〜歓迎新鮮まつり〜 Aがなライブ Ver.)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "出演": "Berryz工房"
+              }
+            },
+            {
+              "index": 10,
+              "title": "アルバムジャケット撮影メイキング",
+              "duration": "03:17",
+              "credits": {
+                "出演": "Berryz工房"
+              }
+            }
+          ]
+        }
+      ],
+      "note": "DVD付"
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/upload/images/bdf21bc7ce898272be69a48ed6daea93c2ab3e94.webp",
+      "price": "定価 ￥3,300（税抜価格 ￥3,000）",
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "一丁目ロック！",
+              "duration": "04:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "朝井泰生",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 2,
+              "title": "ヒロインになろうか！",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 3,
+              "title": "BOMB BOMB JUMP",
+              "duration": "03:54",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 4,
+              "title": "真っ白いあの雲",
+              "duration": "04:49",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 5,
+              "title": "本気ボンバー！！",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 6,
+              "title": "女子会 The Night",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 7,
+              "title": "ガールズタイムス",
+              "duration": "04:14",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "藤澤慶昌",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 8,
+              "title": "女のプライド",
+              "duration": "04:52",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 9,
+              "title": "シャイニング パワー",
+              "duration": "04:04",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "鈴木俊介",
+                "歌": "Berryz工房"
+              }
+            },
+            {
+              "index": 10,
+              "title": "マジカルフューチャー！",
+              "duration": "03:09",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎",
+                "歌": "Berryz工房"
+              }
+            }
+          ],
+          "catalogNo": "PKCP-5182"
+        }
+      ],
+      "note": "フォトカード1種封入"
+    }
+  ]
+}

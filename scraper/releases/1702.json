@@ -1,0 +1,62 @@
+{
+  "id": 1702,
+  "url": "/release/1702/",
+  "title": "シングルV「co・no・mi・chi」",
+  "category": "DVDシングルV",
+  "artist": "Buono!",
+  "releaseDate": "2009.2.4",
+  "label": "ポニーキャニオン",
+  "images": [
+    "/upload/images/f1f6866e12ed46ff5b19afe38cda038b9bf2ee22.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "co・no・mi・chi",
+              "duration": "00:00",
+              "suffix": "(Music Clip)",
+              "credits": {
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 2,
+              "title": "co・no・mi・chi",
+              "duration": "00:00",
+              "suffix": "(Close Up Version)",
+              "credits": {
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 3,
+              "title": "co・no・mi・chi",
+              "duration": "00:00",
+              "suffix": "(Dance Shot Version)",
+              "credits": {
+                "出演": "Buono!"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Pv撮影メイキング",
+              "duration": "00:00",
+              "credits": {
+                "出演": "Buono!"
+              }
+            }
+          ],
+          "catalogNo": "PCBP-51924"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,660 @@
+{
+  "code": "EPCE-7429",
+  "url": "/release/detail/EPCE-7429/",
+  "source": "upfront",
+  "title": "YEAH YEAH YEAH/憧れのStress-free/花、闌の時",
+  "category": "CDシングル",
+  "artist": "ハロプロ・オールスターズ",
+  "releaseDate": "2018/09/26",
+  "label": "zetima",
+  "images": [
+    "/images/221b210d3e735a6297d7972b6083565f301b83cd.jpg",
+    "/images/8a9ffbd3cf1ee11b581ca6dccb4db64c3db553d8.jpg",
+    "/images/b97f579e5379eca9440af2c5568484e37edd8fad.jpg",
+    "/images/5ff6157968ddc1e96658d1f7339cdecb7e6bccf1.jpg",
+    "/images/502a82add7b24ca9152d7efedc47e38362358f00.jpg",
+    "/images/0c3fefabd67ead58dbe474d25f12dabb399c0cba.jpg",
+    "/images/d9be3e288677f0d351638ab80a9ab1bd28517ee4.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/221b210d3e735a6297d7972b6083565f301b83cd.jpg",
+      "price": "￥1,870 (税抜価格 ￥1,700)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7429",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "YEAH YEAH YEAH",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "憧れのStress-free",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "花、闌の時",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "小椋佳",
+                "作曲": "小椋佳",
+                "編曲": "上杉洋史"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ハロー！ヒストリー【Additional Track】",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "YEAH YEAH YEAH(Instrumental)",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 6,
+              "title": "憧れのStress-free(Instrumental)",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 7,
+              "title": "花、闌の時(Instrumental)",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "小椋佳",
+                "作曲": "小椋佳",
+                "編曲": "上杉洋史"
+              }
+            },
+            {
+              "index": 8,
+              "title": "ハロー！ヒストリー(Instrumental)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A モーニング娘。'18盤】",
+      "image": "/images/8a9ffbd3cf1ee11b581ca6dccb4db64c3db553d8.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7431",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "YEAH YEAH YEAH(Music Video)",
+              "duration": "06:47",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 2,
+              "title": "憧れのStress-free(Music Video)",
+              "duration": "04:08",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B アンジュルム盤】",
+      "image": "/images/b97f579e5379eca9440af2c5568484e37edd8fad.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7432",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "YEAH YEAH YEAH",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "憧れのStress-free",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "花、闌の時",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "小椋佳",
+                "作曲": "小椋佳",
+                "編曲": "上杉洋史"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ハロー！ヒストリー【Additional Track】",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "YEAH YEAH YEAH(モーニング娘。'18 Ver.)【Additional Track】",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 6,
+              "title": "YEAH YEAH YEAH(Instrumental)",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 7,
+              "title": "憧れのStress-free(Instrumental)",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 8,
+              "title": "花、闌の時(Instrumental)",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "小椋佳",
+                "作曲": "小椋佳",
+                "編曲": "上杉洋史"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ハロー！ヒストリー(Instrumental)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤C Juice=Juice盤】",
+      "image": "/images/5ff6157968ddc1e96658d1f7339cdecb7e6bccf1.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7433",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "YEAH YEAH YEAH",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "憧れのStress-free",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "花、闌の時",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "小椋佳",
+                "作曲": "小椋佳",
+                "編曲": "上杉洋史"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ハロー！ヒストリー【Additional Track】",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "YEAH YEAH YEAH(アンジュルム Ver.)【Additional Track】",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 6,
+              "title": "YEAH YEAH YEAH(Instrumental)",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 7,
+              "title": "憧れのStress-free(Instrumental)",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 8,
+              "title": "花、闌の時(Instrumental)",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "小椋佳",
+                "作曲": "小椋佳",
+                "編曲": "上杉洋史"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ハロー！ヒストリー(Instrumental)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤D カントリー・ガールズ盤】",
+      "image": "/images/502a82add7b24ca9152d7efedc47e38362358f00.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7434",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "YEAH YEAH YEAH",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "憧れのStress-free",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "花、闌の時",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "小椋佳",
+                "作曲": "小椋佳",
+                "編曲": "上杉洋史"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ハロー！ヒストリー【Additional Track】",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "YEAH YEAH YEAH(Juice=Juice Ver.)【Additional Track】",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 6,
+              "title": "YEAH YEAH YEAH(Instrumental)",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 7,
+              "title": "憧れのStress-free(Instrumental)",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 8,
+              "title": "花、闌の時(Instrumental)",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "小椋佳",
+                "作曲": "小椋佳",
+                "編曲": "上杉洋史"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ハロー！ヒストリー(Instrumental)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤E こぶしファクトリー盤】",
+      "image": "/images/0c3fefabd67ead58dbe474d25f12dabb399c0cba.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7435",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "YEAH YEAH YEAH",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "憧れのStress-free",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "花、闌の時",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "小椋佳",
+                "作曲": "小椋佳",
+                "編曲": "上杉洋史"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ハロー！ヒストリー【Additional Track】",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "YEAH YEAH YEAH(カントリー・ガールズ Ver.)【Additional Track】",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 6,
+              "title": "YEAH YEAH YEAH(Instrumental)",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 7,
+              "title": "憧れのStress-free(Instrumental)",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 8,
+              "title": "花、闌の時(Instrumental)",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "小椋佳",
+                "作曲": "小椋佳",
+                "編曲": "上杉洋史"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ハロー！ヒストリー(Instrumental)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤F つばきファクトリー盤】",
+      "image": "/images/d9be3e288677f0d351638ab80a9ab1bd28517ee4.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7436",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "YEAH YEAH YEAH",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 2,
+              "title": "憧れのStress-free",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "花、闌の時",
+              "duration": "04:32",
+              "credits": {
+                "作詞": "小椋佳",
+                "作曲": "小椋佳",
+                "編曲": "上杉洋史"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ハロー！ヒストリー【Additional Track】",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "YEAH YEAH YEAH(こぶしファクトリー Ver.)【Additional Track】",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 6,
+              "title": "YEAH YEAH YEAH(Instrumental)",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 7,
+              "title": "憧れのStress-free(Instrumental)",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 8,
+              "title": "花、闌の時(Instrumental)",
+              "duration": "04:31",
+              "credits": {
+                "作詞": "小椋佳",
+                "作曲": "小椋佳",
+                "編曲": "上杉洋史"
+              }
+            },
+            {
+              "index": 9,
+              "title": "ハロー！ヒストリー(Instrumental)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "前山田健一",
+                "作曲": "前山田健一",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "code": "EPCE-5294",
+  "url": "/release/detail/EPCE-5294/",
+  "source": "upfront",
+  "title": "ハロー！プロジェクト ラジオドラマ大阪編 Vol.1",
+  "category": "CDアルバム",
+  "artist": "V.A.",
+  "releaseDate": "2004/07/14",
+  "label": "zetima",
+  "images": [
+    "/images/8467608351c0613dd0f0126dcf27fae8b5c2dfcb.jpg",
+    "/images/643f83b218551ecc30ef1a21e7c2b5f9cca5d98b.jpg"
+  ],
+  "editions": [
+    {
+      "name": "初回盤、2枚組＜DISC1＞",
+      "image": "/images/8467608351c0613dd0f0126dcf27fae8b5c2dfcb.jpg",
+      "price": "￥3,190 (税抜価格 ￥2,900)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5294",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "【さよなら、あした】",
+              "duration": "30:53",
+              "credits": {
+                "作詞": "原作:亀井弘明",
+                "作曲": "脚色:十河鈴"
+              }
+            },
+            {
+              "index": 2,
+              "title": "【ザ・ミス通天閣】",
+              "duration": "31:03",
+              "credits": {
+                "作詞": "原作:阿草成実",
+                "作曲": "脚色:十河鈴"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "初回盤、2枚組＜DISC2＞",
+      "image": "/images/643f83b218551ecc30ef1a21e7c2b5f9cca5d98b.jpg",
+      "price": "￥3,190 (税抜価格 ￥2,900)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5295",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "【おじいちゃんの昔話】",
+              "duration": "34:17",
+              "credits": {
+                "作詞": "原作:宮本道代",
+                "作曲": "脚本:平塚文子"
+              }
+            },
+            {
+              "index": 2,
+              "title": "【特 典】NG集・コメント",
+              "duration": "07:45"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "通常盤、2枚組＜DISC1＞",
+      "image": null,
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5296",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "【さよなら、あした】",
+              "duration": "30:53",
+              "credits": {
+                "作詞": "原作:亀井弘明",
+                "作曲": "脚色:十河鈴"
+              }
+            },
+            {
+              "index": 2,
+              "title": "【ザ・ミス通天閣】",
+              "duration": "31:03",
+              "credits": {
+                "作詞": "原作:阿草成実",
+                "作曲": "脚色:十河鈴"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "通常盤、2枚組＜DISC2＞",
+      "image": null,
+      "price": "￥2,090 (税抜価格 ￥1,900)",
+      "discs": [
+        {
+          "type": "CDアルバム",
+          "catalogNo": "EPCE-5297",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "【おじいちゃんの昔話】",
+              "duration": "34:17",
+              "credits": {
+                "作詞": "原作:宮本道代",
+                "作曲": "脚本:平塚文子"
+              }
+            },
+            {
+              "index": 2,
+              "title": "【特 典】NG集・コメント",
+              "duration": "07:45"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

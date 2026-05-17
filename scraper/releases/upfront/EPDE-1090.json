@@ -1,0 +1,68 @@
+{
+  "code": "EPDE-1090",
+  "url": "/release/detail/EPDE-1090/",
+  "source": "upfront",
+  "title": "めぐみ(MEGUMI)",
+  "category": "CDシングル",
+  "artist": "因幡晃",
+  "releaseDate": "2001/04/25",
+  "label": "地中海レーベル",
+  "images": [
+    "/images/1d156ed67e454de3cb4ceb019c184d5ff8139925.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/1d156ed67e454de3cb4ceb019c184d5ff8139925.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPDE-1090",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "めぐみ(MEGUMI)",
+              "duration": "04:47",
+              "credits": {
+                "作詞": "喜多浩志",
+                "作曲": "いしいゆきお",
+                "編曲": "喜納政明"
+              }
+            },
+            {
+              "index": 2,
+              "title": "銀河(THE MILKY WAY)",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "喜多浩志",
+                "作曲": "いしいゆきお",
+                "編曲": "喜納政明"
+              }
+            },
+            {
+              "index": 3,
+              "title": "めぐみ(MEGUMI)(オリジナル・カラオケ)",
+              "duration": "04:48",
+              "credits": {
+                "作詞": "喜多浩志",
+                "作曲": "いしいゆきお",
+                "編曲": "喜納政明"
+              }
+            },
+            {
+              "index": 4,
+              "title": "銀河(THE MILKY WAY)(オリジナル・カラオケ)",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "喜多浩志",
+                "作曲": "いしいゆきお",
+                "編曲": "喜納政明"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

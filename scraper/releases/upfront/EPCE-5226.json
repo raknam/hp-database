@@ -1,0 +1,68 @@
+{
+  "code": "EPCE-5226",
+  "url": "/release/detail/EPCE-5226/",
+  "source": "upfront",
+  "title": "amefrica",
+  "category": "CDシングル",
+  "artist": "flex life",
+  "releaseDate": "2003/08/06",
+  "label": "zetima",
+  "images": [
+    "/images/16cebf78ce720c4d484aaa3d2a32dced98ccdda9.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/16cebf78ce720c4d484aaa3d2a32dced98ccdda9.jpg",
+      "price": "￥1,430 (税抜価格 ￥1,300)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5226",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "amefrica",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "青木里枝",
+                "作曲": "大倉健",
+                "編曲": "flexlife"
+              }
+            },
+            {
+              "index": 2,
+              "title": "shine your light 〜裏庭の唄〜",
+              "duration": "04:23",
+              "credits": {
+                "作詞": "青木里枝",
+                "作曲": "大倉健",
+                "編曲": "flexlife"
+              }
+            },
+            {
+              "index": 3,
+              "title": "漂泊",
+              "duration": "03:26",
+              "credits": {
+                "作詞": "青木里枝",
+                "作曲": "大倉健",
+                "編曲": "flexlife"
+              }
+            },
+            {
+              "index": 4,
+              "title": "amefrica (雨のバルセロナリミックス)",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "青木里枝",
+                "作曲": "大倉健",
+                "編曲": "澤井妙治"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

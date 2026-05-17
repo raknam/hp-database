@@ -1,0 +1,87 @@
+{
+  "code": "PKBP-5092",
+  "url": "/release/detail/PKBP-5092/",
+  "source": "upfront",
+  "title": "Berryz工房シングルVクリップス③",
+  "category": "DVD",
+  "artist": "Berryz工房",
+  "releaseDate": "2007/12/12",
+  "label": "PICCOLO TOWN",
+  "images": [
+    "/images/76fdbc8c7056196ba183b80cbd841f0964c91419.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/76fdbc8c7056196ba183b80cbd841f0964c91419.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "PKBP-5092",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "00:08"
+            },
+            {
+              "index": 2,
+              "title": "ジリリ キテル",
+              "duration": "03:56",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 3,
+              "title": "笑っちゃおうよ BOYFRIEND",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 4,
+              "title": "胸さわぎスカーレット",
+              "duration": "04:28",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "VERY BEAUTY",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 6,
+              "title": "告白の噴水広場",
+              "duration": "04:17",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 7,
+              "title": "付き合ってるのに片思い",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

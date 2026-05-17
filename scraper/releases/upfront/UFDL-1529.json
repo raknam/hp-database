@@ -1,0 +1,38 @@
+{
+  "code": "UFDL-1529",
+  "url": "/release/detail/UFDL-1529/",
+  "source": "upfront",
+  "title": "笑顔がゴール！Short Size",
+  "category": "配信",
+  "artist": "T-Pistonz",
+  "releaseDate": "2024/03/08",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/ecf412b9881cdf90039f9ce0addbb0bae085894a.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/ecf412b9881cdf90039f9ce0addbb0bae085894a.jpg",
+      "price": null,
+      "discs": [
+        {
+          "type": "配信",
+          "catalogNo": "UFDL-1529",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "笑顔がゴール！Short Size",
+              "duration": "01:56",
+              "credits": {
+                "作詞": "山崎徹/高木貴司",
+                "作曲": "山崎徹/S.KAWAI",
+                "編曲": "S.KAWAI"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

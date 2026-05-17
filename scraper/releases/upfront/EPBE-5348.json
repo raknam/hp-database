@@ -1,0 +1,80 @@
+{
+  "code": "EPBE-5348",
+  "url": "/release/detail/EPBE-5348/",
+  "source": "upfront",
+  "title": "舞台「おじぎでシェイプアップ！」DVD",
+  "category": "DVD",
+  "artist": "高橋愛、道重さゆみ、亀井絵里、田中れいな、竹内朱莉、宮本佳林",
+  "releaseDate": "2009/09/02",
+  "label": "zetima",
+  "images": [
+    "/images/8aace0520be98e53d1c8d07b2f606e04e97c3113.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/8aace0520be98e53d1c8d07b2f606e04e97c3113.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5348",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "「プロローグ」",
+              "duration": "13:19",
+              "credits": {
+                "作詞": "太田善也",
+                "作曲": "はたけ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "「スポーツクラブの日常」",
+              "duration": "30:04"
+            },
+            {
+              "index": 3,
+              "title": "「彼女たちの事情」",
+              "duration": "09:18"
+            },
+            {
+              "index": 4,
+              "title": "「がんばりすぎないよう、がんばろう」",
+              "duration": "31:10"
+            },
+            {
+              "index": 5,
+              "title": "「エピローグ」",
+              "duration": "13:20",
+              "credits": {
+                "作詞": "太田善也",
+                "作曲": "はたけ"
+              }
+            },
+            {
+              "index": 6,
+              "title": "アフタートークショー",
+              "duration": "16:55"
+            },
+            {
+              "index": 7,
+              "title": "稽古風景",
+              "duration": "05:21"
+            },
+            {
+              "index": 8,
+              "title": "千秋楽バックステージ映像",
+              "duration": "09:18",
+              "credits": {
+                "作詞": "太田善也",
+                "作曲": "はたけ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

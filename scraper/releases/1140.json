@@ -1,0 +1,50 @@
+{
+  "id": 1140,
+  "url": "/release/1140/",
+  "title": "スキちゃん",
+  "category": "CDシングル",
+  "artist": "スマイレージ",
+  "releaseDate": "2009.11.23",
+  "label": "Good Factory Records",
+  "images": [
+    "/upload/images/74fcc5f0d1e3b8e27410808e1ed4f2d4ff7e70c9.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "スキちゃん",
+              "duration": "00:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "スマイレージ"
+              }
+            },
+            {
+              "index": 2,
+              "title": "スキちゃん",
+              "duration": "00:00",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "板垣祐介",
+                "歌": "スマイレージ"
+              }
+            }
+          ],
+          "catalogNo": "GFCG-11603"
+        }
+      ]
+    }
+  ]
+}

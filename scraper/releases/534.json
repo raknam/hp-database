@@ -1,0 +1,67 @@
+{
+  "id": 534,
+  "url": "/release/534/",
+  "title": "MIZUKI in Guam",
+  "category": "DVD",
+  "artist": "譜久村聖",
+  "releaseDate": "2013.5.22",
+  "label": "zetima",
+  "images": [
+    "/upload/images/45f3c245f204faaeb88da861cf086c033c372e8e.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "DVD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Arrival",
+              "duration": "08:05",
+              "credits": {
+                "出演": "譜久村聖(モーニング娘。)"
+              }
+            },
+            {
+              "index": 2,
+              "title": "Blue Sky Blue Water",
+              "duration": "17:01",
+              "credits": {
+                "出演": "譜久村聖(モーニング娘。)"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Sunset Hill",
+              "duration": "10:27",
+              "credits": {
+                "出演": "譜久村聖(モーニング娘。)"
+              }
+            },
+            {
+              "index": 4,
+              "title": "Making of 「MIZUKI」",
+              "duration": "17:11",
+              "credits": {
+                "出演": "譜久村聖(モーニング娘。)"
+              }
+            },
+            {
+              "index": 5,
+              "title": "Ending",
+              "duration": "01:13",
+              "credits": {
+                "出演": "譜久村聖(モーニング娘。)"
+              }
+            }
+          ],
+          "catalogNo": "EPBE-5466"
+        }
+      ]
+    }
+  ]
+}

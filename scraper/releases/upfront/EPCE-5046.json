@@ -1,0 +1,88 @@
+{
+  "code": "EPCE-5046",
+  "url": "/release/detail/EPCE-5046/",
+  "source": "upfront",
+  "title": "ガレージ・オープニングソング集 Vol.3",
+  "category": "CDシングル",
+  "artist": "THE GARAGE",
+  "releaseDate": "2000/01/26",
+  "label": "zetima",
+  "images": [
+    "/images/a544534af2ed17a784a868cf9b09fab078aa6c07.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/a544534af2ed17a784a868cf9b09fab078aa6c07.jpg",
+      "price": "￥1,282 (税抜価格 ￥1,165)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5046",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ダンシング・セブンティーン",
+              "duration": "03:40",
+              "credits": {
+                "作詞": "橋本淳",
+                "作曲": "筒美京平",
+                "編曲": "川本盛文"
+              }
+            },
+            {
+              "index": 2,
+              "title": "朝まで待てない",
+              "duration": "03:17",
+              "credits": {
+                "作詞": "阿久悠",
+                "作曲": "村井邦彦",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 3,
+              "title": "亜麻色の髪の乙女",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "橋本淳",
+                "作曲": "すぎやまこういち",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 4,
+              "title": "ダンシング・セブンティーン(Instrumental)",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "橋本淳",
+                "作曲": "筒美京平",
+                "編曲": "川本盛文"
+              }
+            },
+            {
+              "index": 5,
+              "title": "朝まで待てない(Instrumental)",
+              "duration": "03:17",
+              "credits": {
+                "作詞": "阿久悠",
+                "作曲": "村井邦彦",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 6,
+              "title": "亜麻色の髪の乙女(Instrumental)",
+              "duration": "03:20",
+              "credits": {
+                "作詞": "橋本淳",
+                "作曲": "すぎやまこういち",
+                "編曲": "高橋諭一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

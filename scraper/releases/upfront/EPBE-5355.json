@@ -1,0 +1,83 @@
+{
+  "code": "EPBE-5355",
+  "url": "/release/detail/EPBE-5355/",
+  "source": "upfront",
+  "title": "Jump!!",
+  "category": "DVD",
+  "artist": "久住小春",
+  "releaseDate": "2009/09/30",
+  "label": "zetima",
+  "images": [
+    "/images/10ee0552ebddd5b195309e8a2f899162736fde31.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/10ee0552ebddd5b195309e8a2f899162736fde31.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5355",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "オープニング",
+              "duration": "02:13"
+            },
+            {
+              "index": 2,
+              "title": "自転車",
+              "duration": "03:55"
+            },
+            {
+              "index": 3,
+              "title": "プール",
+              "duration": "07:19"
+            },
+            {
+              "index": 4,
+              "title": "ヤキソバ",
+              "duration": "04:58"
+            },
+            {
+              "index": 5,
+              "title": "ビーチ①",
+              "duration": "03:33"
+            },
+            {
+              "index": 6,
+              "title": "写真集メイキング",
+              "duration": "14:07"
+            },
+            {
+              "index": 7,
+              "title": "ビーチ②",
+              "duration": "08:13"
+            },
+            {
+              "index": 8,
+              "title": "お手伝い",
+              "duration": "01:51"
+            },
+            {
+              "index": 9,
+              "title": "ビーチ③",
+              "duration": "04:00"
+            },
+            {
+              "index": 10,
+              "title": "挑戦！",
+              "duration": "07:56"
+            },
+            {
+              "index": 11,
+              "title": "エンディング",
+              "duration": "04:24"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

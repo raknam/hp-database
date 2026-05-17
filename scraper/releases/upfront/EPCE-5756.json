@@ -1,0 +1,125 @@
+{
+  "code": "EPCE-5756",
+  "url": "/release/detail/EPCE-5756/",
+  "source": "upfront",
+  "title": "Kiss me 愛してる",
+  "category": "CDシングル",
+  "artist": "℃-ute",
+  "releaseDate": "2011/02/23",
+  "label": "zetima",
+  "images": [
+    "/images/1340756f71c1e9053a32d6bdb26642c43c41bf61.jpg",
+    "/images/6d7cb4ed0fc73964b8dd4b919d5c7f16912b1fa2.jpg",
+    "/images/1583d26937626cb7d22299360ae12a3046dd4aec.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/1340756f71c1e9053a32d6bdb26642c43c41bf61.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5756",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Kiss me 愛してる",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "二十歳前の女の子",
+              "duration": "03:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Kiss me 愛してる(Instrumental)",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/6d7cb4ed0fc73964b8dd4b919d5c7f16912b1fa2.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-5758",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Kiss me 愛してる(Ball Chair Ver.)",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/1583d26937626cb7d22299360ae12a3046dd4aec.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5760",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Kiss me 愛してる",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "二十歳前の女の子",
+              "duration": "03:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Kiss me 愛してる(Instrumental)",
+              "duration": "04:33",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "code": "EPCE-7438",
+  "url": "/release/detail/EPCE-7438/",
+  "source": "upfront",
+  "title": "フラリ銀座/自由な国だから",
+  "category": "CDシングル",
+  "artist": "モーニング娘。'18",
+  "releaseDate": "2018/10/24",
+  "label": "zetima",
+  "images": [
+    "/images/3fce63a1540e253378f734336a677c9b17cdd0b7.jpg",
+    "/images/e05ddf6fac664e97340c8128496d9b8db197b679.jpg",
+    "/images/64d62e71c227d8e196ef7536d9b0e9267749bba1.jpg",
+    "/images/e4804569ff340da6f418214f4b915133e4156aa2.jpg",
+    "/images/c54e322ceba5b1bf318caec675dee0a87e7bbfc6.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回限定盤A】",
+      "image": "/images/3fce63a1540e253378f734336a677c9b17cdd0b7.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7438",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "フラリ銀座",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "自由な国だから",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Y字路の途中【Additional Track】",
+              "duration": "05:13",
+              "credits": {
+                "作詞": "大橋莉子",
+                "作曲": "大橋莉子",
+                "編曲": "高橋修平"
+              }
+            },
+            {
+              "index": 4,
+              "title": "フラリ銀座(Instrumental)",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "自由な国だから(Instrumental)",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Y字路の途中(Instrumental)",
+              "duration": "05:14",
+              "credits": {
+                "作詞": "大橋莉子",
+                "作曲": "大橋莉子",
+                "編曲": "高橋修平"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回限定盤B】",
+      "image": "/images/e05ddf6fac664e97340c8128496d9b8db197b679.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7440",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "フラリ銀座(Music Video)",
+              "duration": "04:25",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回限定盤SP】",
+      "image": "/images/64d62e71c227d8e196ef7536d9b0e9267749bba1.jpg",
+      "price": "￥1,870 (税抜価格 ￥1,700)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7442",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "フラリ銀座",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "自由な国だから",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Y字路の途中【Additional Track】",
+              "duration": "05:13",
+              "credits": {
+                "作詞": "大橋莉子",
+                "作曲": "大橋莉子",
+                "編曲": "高橋修平"
+              }
+            },
+            {
+              "index": 4,
+              "title": "フラリ銀座(Instrumental)",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "自由な国だから(Instrumental)",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Y字路の途中(Instrumental)",
+              "duration": "05:14",
+              "credits": {
+                "作詞": "大橋莉子",
+                "作曲": "大橋莉子",
+                "編曲": "高橋修平"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤A】",
+      "image": "/images/e4804569ff340da6f418214f4b915133e4156aa2.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPCE-7444",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "自由な国だから(Music Video)",
+              "duration": "05:37",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤B】",
+      "image": "/images/c54e322ceba5b1bf318caec675dee0a87e7bbfc6.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-7445",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "フラリ銀座",
+              "duration": "03:58",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 2,
+              "title": "自由な国だから",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Y字路の途中【Additional Track】",
+              "duration": "05:13",
+              "credits": {
+                "作詞": "大橋莉子",
+                "作曲": "大橋莉子",
+                "編曲": "高橋修平"
+              }
+            },
+            {
+              "index": 4,
+              "title": "フラリ銀座(Instrumental)",
+              "duration": "03:57",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "平田祥一郎"
+              }
+            },
+            {
+              "index": 5,
+              "title": "自由な国だから(Instrumental)",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "大久保薫"
+              }
+            },
+            {
+              "index": 6,
+              "title": "Y字路の途中(Instrumental)",
+              "duration": "05:14",
+              "credits": {
+                "作詞": "大橋莉子",
+                "作曲": "大橋莉子",
+                "編曲": "高橋修平"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

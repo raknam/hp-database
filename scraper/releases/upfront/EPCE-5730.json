@@ -1,0 +1,122 @@
+{
+  "code": "EPCE-5730",
+  "url": "/release/detail/EPCE-5730/",
+  "source": "upfront",
+  "title": "あっぱれ回転ずし！",
+  "category": "CDシングル",
+  "artist": "モーニング娘。",
+  "releaseDate": "2010/10/27",
+  "label": "zetima",
+  "images": [
+    "/images/c6bb46a51f26674afc2cb8a6eba5f7ff501ef3ee.jpg",
+    "/images/75ee164514a8c175cc0ac3f160bc2dbd18d9a78a.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤】",
+      "image": "/images/c6bb46a51f26674afc2cb8a6eba5f7ff501ef3ee.jpg",
+      "price": "￥1,320 (税抜価格 ￥1,200)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5730",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "あっぱれ回転ずし！",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "くら寿司 ビッくらポン！",
+              "duration": "02:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "あっぱれ回転ずし！(Instrumental)",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 4,
+              "title": "くら寿司 ビッくらポン！(Instrumental)",
+              "duration": "02:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/75ee164514a8c175cc0ac3f160bc2dbd18d9a78a.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5731",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "あっぱれ回転ずし！",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 2,
+              "title": "くら寿司 ビッくらポン！",
+              "duration": "02:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            },
+            {
+              "index": 3,
+              "title": "あっぱれ回転ずし！(Instrumental)",
+              "duration": "03:50",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一"
+              }
+            },
+            {
+              "index": 4,
+              "title": "くら寿司 ビッくらポン！(Instrumental)",
+              "duration": "02:12",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "湯浅公一"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

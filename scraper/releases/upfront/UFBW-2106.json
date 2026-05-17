@@ -1,0 +1,53 @@
+{
+  "code": "UFBW-2106",
+  "url": "/release/detail/UFBW-2106/",
+  "source": "upfront",
+  "title": "again",
+  "category": "DVD",
+  "artist": "萩原舞",
+  "releaseDate": "2014/09/06",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/af76ca3723391187a6a6d8e1dc9d7053869c5775.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/af76ca3723391187a6a6d8e1dc9d7053869c5775.jpg",
+      "price": "￥3,300 (税抜価格 ￥3,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-2106",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Once..",
+              "duration": "10:40"
+            },
+            {
+              "index": 2,
+              "title": "Smile..",
+              "duration": "09:10"
+            },
+            {
+              "index": 3,
+              "title": "Secret..",
+              "duration": "15:55"
+            },
+            {
+              "index": 4,
+              "title": "Summer..",
+              "duration": "13:04"
+            },
+            {
+              "index": 5,
+              "title": "See you..",
+              "duration": "01:11"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

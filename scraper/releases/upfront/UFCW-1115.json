@@ -1,0 +1,58 @@
+{
+  "code": "UFCW-1115",
+  "url": "/release/detail/UFCW-1115/",
+  "source": "upfront",
+  "title": "演劇女子部「続・11人いる！東の地平・西の永遠」オリジナルサウンドトラック",
+  "category": "CDシングル",
+  "artist": "モーニング娘。'16",
+  "releaseDate": "2016/07/13",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/0f470be824afe0817e3b709a1bfea7d854c39ef1.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/0f470be824afe0817e3b709a1bfea7d854c39ef1.jpg",
+      "price": "￥1,019 (税抜価格 ￥926)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "UFCW-1115",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "愛の言葉",
+              "duration": "02:51",
+              "credits": {
+                "作詞": "坪田文",
+                "作曲": "和田俊輔",
+                "編曲": "和田俊輔"
+              }
+            },
+            {
+              "index": 2,
+              "title": "東の地平・西の永遠",
+              "duration": "02:46",
+              "credits": {
+                "作詞": "坪田文",
+                "作曲": "和田俊輔",
+                "編曲": "和田俊輔"
+              }
+            },
+            {
+              "index": 3,
+              "title": "好きだから‥",
+              "duration": "03:35",
+              "credits": {
+                "作詞": "坪田文",
+                "作曲": "和田俊輔",
+                "編曲": "和田俊輔"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

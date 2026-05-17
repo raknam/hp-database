@@ -1,0 +1,93 @@
+{
+  "code": "UFBW-1592",
+  "url": "/release/detail/UFBW-1592/",
+  "source": "upfront",
+  "title": "The Girls Live Vol.42",
+  "category": "DVD",
+  "artist": "V.A.",
+  "releaseDate": "2018/04/18",
+  "label": "UP-FRONT WORKS",
+  "images": [
+    "/images/2911a306ba8fd7b3f52430e1ec1badc8eb682cd6.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/2911a306ba8fd7b3f52430e1ec1badc8eb682cd6.jpg",
+      "price": "￥3,850 (税抜価格 ￥3,500)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "UFBW-1592",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "THINK BACK TO THE MUSIC「ピアノ」",
+              "duration": "11:13"
+            },
+            {
+              "index": 2,
+              "title": "The Girls Live Film in 高尾山 チャオ ベッラ チンクエッティ「愛のエナジー」",
+              "duration": "09:49"
+            },
+            {
+              "index": 3,
+              "title": "PICK UP MUSIC「パワースポット紹介」アンジュルム/♪ドンデンガエシ",
+              "duration": "16:42"
+            },
+            {
+              "index": 4,
+              "title": "伊達じゃないよ うちの人生は【スタジオライブ集】",
+              "duration": "04:11",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく"
+              }
+            },
+            {
+              "index": 5,
+              "title": "ギミバニラ！【スタジオライブ集】",
+              "duration": "04:45",
+              "credits": {
+                "作詞": "Mt.3",
+                "作曲": "Mt.3"
+              }
+            },
+            {
+              "index": 6,
+              "title": "ウワノソラ【スタジオライブ集】",
+              "duration": "04:37",
+              "credits": {
+                "作詞": "emon",
+                "作曲": "emon"
+              }
+            },
+            {
+              "index": 7,
+              "title": "FLASH【スタジオライブ集】",
+              "duration": "04:27",
+              "credits": {
+                "作詞": "山本メーコ",
+                "作曲": "y0c1e"
+              }
+            },
+            {
+              "index": 8,
+              "title": "Bitter & Sweet【スタジオライブ集】",
+              "duration": "04:16",
+              "credits": {
+                "作詞": "佐藤舞花",
+                "作曲": "平川達也"
+              }
+            },
+            {
+              "index": 9,
+              "title": "モーニング娘。'17「ジェラシー ジェラシー」MV撮影密着【未公開映像】",
+              "duration": "02:21"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

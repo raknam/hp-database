@@ -1,0 +1,68 @@
+{
+  "code": "HKCN-50030",
+  "url": "/release/detail/HKCN-50030/",
+  "source": "upfront",
+  "title": "たからもの",
+  "category": "CDシングル",
+  "artist": "千",
+  "releaseDate": "2005/11/30",
+  "label": "hachama",
+  "images": [
+    "/images/fcbb64fbc1f20c42c0b7e4bd88c476d9dcccd330.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/fcbb64fbc1f20c42c0b7e4bd88c476d9dcccd330.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50030",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "たからもの",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "浅田直",
+                "作曲": "浅田直",
+                "編曲": "上杉洋史"
+              }
+            },
+            {
+              "index": 2,
+              "title": "青空",
+              "duration": "03:37",
+              "credits": {
+                "作詞": "浅田直",
+                "作曲": "浅田直",
+                "編曲": "宮永治郎"
+              }
+            },
+            {
+              "index": 3,
+              "title": "たからもの(another side)",
+              "duration": "05:00",
+              "credits": {
+                "作詞": "浅田直",
+                "作曲": "浅田直",
+                "編曲": "たいせー"
+              }
+            },
+            {
+              "index": 4,
+              "title": "たからもの(Instrumental)",
+              "duration": "05:01",
+              "credits": {
+                "作詞": "浅田直",
+                "作曲": "浅田直",
+                "編曲": "上杉洋史"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

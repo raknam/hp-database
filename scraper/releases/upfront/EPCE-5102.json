@@ -1,0 +1,58 @@
+{
+  "code": "EPCE-5102",
+  "url": "/release/detail/EPCE-5102/",
+  "source": "upfront",
+  "title": "ドラマティックに恋をして",
+  "category": "CDシングル",
+  "artist": "釈由美子",
+  "releaseDate": "2001/05/23",
+  "label": "zetima",
+  "images": [
+    "/images/7b7d385cc575055805099a74c0b8f261baed89ba.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/7b7d385cc575055805099a74c0b8f261baed89ba.jpg",
+      "price": "￥1,068 (税抜価格 ￥971)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "EPCE-5102",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "ドラマティックに恋をして",
+              "duration": "04:30",
+              "credits": {
+                "作詞": "小林ケンジ",
+                "作曲": "吉田とおる",
+                "編曲": "吉田とおる"
+              }
+            },
+            {
+              "index": 2,
+              "title": "2人の温度",
+              "duration": "03:25",
+              "credits": {
+                "作詞": "釈由美子",
+                "作曲": "吉田とおる",
+                "編曲": "吉田とおる"
+              }
+            },
+            {
+              "index": 3,
+              "title": "ドラマティックに恋をして(Instrumental)",
+              "duration": "04:29",
+              "credits": {
+                "作詞": "小林ケンジ",
+                "作曲": "吉田とおる",
+                "編曲": "吉田とおる"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": 2729,
+  "url": "/release/2729/",
+  "title": "Yeah！めっちゃホリディ",
+  "category": "CDシングル",
+  "artist": "松浦亜弥",
+  "releaseDate": "2002.5.29",
+  "label": "zetima",
+  "images": [
+    "/upload/images/b882309431778b6c32f74cd30e15fc2af0d6f46a.webp"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": null,
+      "price": null,
+      "discs": [
+        {
+          "type": "CD",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "Yeah!めっちゃホリディ",
+              "duration": "03:46",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一/ストリングスアレンジ:村山達哉",
+                "歌": "松浦亜弥"
+              }
+            },
+            {
+              "index": 2,
+              "title": "つまんないよ…",
+              "duration": "04:34",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "ReijiMatsumoto",
+                "歌": "松浦亜弥"
+              }
+            },
+            {
+              "index": 3,
+              "title": "Yeah!めっちゃホリディ",
+              "duration": "03:46",
+              "suffix": "(Instrumental)",
+              "credits": {
+                "作詞": "つんく",
+                "作曲": "つんく",
+                "編曲": "高橋諭一",
+                "歌": "松浦亜弥"
+              }
+            }
+          ],
+          "catalogNo": "EPCE-5158"
+        }
+      ]
+    }
+  ]
+}

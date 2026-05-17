@@ -1,0 +1,121 @@
+{
+  "code": "HKCN-50174",
+  "url": "/release/detail/HKCN-50174/",
+  "source": "upfront",
+  "title": "My Days for You",
+  "category": "CDシングル",
+  "artist": "真野恵里菜",
+  "releaseDate": "2011/06/29",
+  "label": "hachama",
+  "images": [
+    "/images/91157a523ab144bb4387c36532300510525a7c86.jpg",
+    "/images/f74efc4e336e0f9f5a0ea24059e20005ca1a0c27.jpg",
+    "/images/0784c0f6d504a08f3081ef0ffdfbb9761f9ab04d.jpg"
+  ],
+  "editions": [
+    {
+      "name": "【初回生産限定盤A】",
+      "image": "/images/91157a523ab144bb4387c36532300510525a7c86.jpg",
+      "price": "￥1,760 (税抜価格 ￥1,600)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50174",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "My Days for You",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "中島卓偉",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "10カラットの煌めき。",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "中島卓偉",
+                "編曲": "泰誠"
+              }
+            },
+            {
+              "index": 3,
+              "title": "My Days for You(Instrumental)",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "中島卓偉",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【初回生産限定盤B】",
+      "image": "/images/f74efc4e336e0f9f5a0ea24059e20005ca1a0c27.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "HKCN-50176",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "My Days for You(MUSIC VIDEO)",
+              "duration": "04:37"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "【通常盤】",
+      "image": "/images/0784c0f6d504a08f3081ef0ffdfbb9761f9ab04d.jpg",
+      "price": "￥1,100 (税抜価格 ￥1,000)",
+      "discs": [
+        {
+          "type": "CDシングル",
+          "catalogNo": "HKCN-50177",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "My Days for You",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "中島卓偉",
+                "編曲": "鈴木俊介"
+              }
+            },
+            {
+              "index": 2,
+              "title": "10カラットの煌めき。",
+              "duration": "04:07",
+              "credits": {
+                "作詞": "三浦徳子",
+                "作曲": "中島卓偉",
+                "編曲": "泰誠"
+              }
+            },
+            {
+              "index": 3,
+              "title": "My Days for You(Instrumental)",
+              "duration": "04:21",
+              "credits": {
+                "作詞": "NOBE",
+                "作曲": "中島卓偉",
+                "編曲": "鈴木俊介"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

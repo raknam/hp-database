@@ -1,0 +1,63 @@
+{
+  "code": "EPBE-5379",
+  "url": "/release/detail/EPBE-5379/",
+  "source": "upfront",
+  "title": "アロハロ！4 モーニング娘。DVD",
+  "category": "DVD",
+  "artist": "モーニング娘。",
+  "releaseDate": "2010/06/16",
+  "label": "zetima",
+  "images": [
+    "/images/ab5741d9400f909d41921e728ebec82ac401b833.jpg"
+  ],
+  "editions": [
+    {
+      "name": null,
+      "image": "/images/ab5741d9400f909d41921e728ebec82ac401b833.jpg",
+      "price": "￥4,180 (税抜価格 ￥3,800)",
+      "discs": [
+        {
+          "type": "DVD",
+          "catalogNo": "EPBE-5379",
+          "tracks": [
+            {
+              "index": 1,
+              "title": "OPENING",
+              "duration": "02:01"
+            },
+            {
+              "index": 2,
+              "title": "PV MEETING",
+              "duration": "02:12"
+            },
+            {
+              "index": 3,
+              "title": "ORIGINAL ACCESSORY",
+              "duration": "16:41"
+            },
+            {
+              "index": 4,
+              "title": "元気ピカッピカッ！〜Original PV in Hawaii〜",
+              "duration": "04:27"
+            },
+            {
+              "index": 5,
+              "title": "8 IMAGES",
+              "duration": "15:49"
+            },
+            {
+              "index": 6,
+              "title": "MAKING",
+              "duration": "18:37"
+            },
+            {
+              "index": 7,
+              "title": "ENDING",
+              "duration": "04:44"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
