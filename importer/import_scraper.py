@@ -287,11 +287,14 @@ def import_members(session: Session) -> None:
             select(Artist).where(Artist.source == "hp_official", Artist.external_id == ext_id)
         ).scalar_one_or_none()
 
+        enrichment_only = False
         if not artist and is_synthetic and data.get("slug"):
-            # Avoid duplicating a member already imported via import_artists with official ID
+            # Match a member already imported with an official ID — enrich only, don't downgrade
             artist = session.execute(
                 select(Artist).where(Artist.slug == data["slug"])
             ).scalar_one_or_none()
+            if artist:
+                enrichment_only = True
 
         if not artist:
             artist = Artist(source="hp_official", external_id=ext_id, kind="member")
@@ -299,20 +302,24 @@ def import_members(session: Session) -> None:
 
         if data.get("nameJa"):
             artist.name_ja = data["nameJa"]
-        if data.get("nameEn"):
+        if data.get("nameEn") and not artist.name_en:
             artist.name_en = data["nameEn"]
-        if data.get("nameKana"):
+        if data.get("nameKana") and not artist.name_kana:
             artist.name_kana = data["nameKana"]
         if not artist.slug and data.get("slug"):
             artist.slug = data["slug"]
         artist.updated_at = datetime.now(timezone.utc)
 
-        extra: dict = {}
+        extra: dict = dict(artist.extra or {})
         for key in ("color", "details", "images", "url", "group", "role",
                     "has_grad", "sources", "archivedUrl"):
-            if data.get(key):
-                extra[key] = data[key]
-        if extra.get("images"):
+            val = data.get(key)
+            if not val:
+                continue
+            if enrichment_only and key in extra:
+                continue  # don't overwrite official data with archival data
+            extra[key] = val
+        if not enrichment_only and extra.get("images"):
             extra["images"] = list(reversed(extra["images"]))
         artist.extra = extra or None
 
