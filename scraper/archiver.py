@@ -25,6 +25,8 @@ from pathlib import Path
 import requests
 from bs4 import BeautifulSoup, NavigableString
 
+from image_path import image_subpath
+
 # ---------------------------------------------------------------------------
 # Constants
 # ---------------------------------------------------------------------------
@@ -72,9 +74,9 @@ UFW_PAGE_SIZE  = 20
 UFW_YEAR_FROM  = 1998
 UFW_YEAR_TO    = 2026
 
-# HTML v1 era: Apr 24 2014 → Jan 1 2025
+# HTML v1 era: Apr 24 2014 → Mar 2026
 ERA_V1_FROM = "20140424"
-ERA_V1_TO   = "20250101"
+ERA_V1_TO   = "20260401"
 
 # Pre-html era: Jan 2012 → Apr 2014 (Shift-JIS)
 ERA_PRE_FROM = "20120101"
@@ -227,10 +229,10 @@ def download_image(wb_url: str) -> str | None:
     filename = Path(original.split("?")[0]).name
     if not filename or "." not in filename:
         return None
-    IMAGES_DIR.mkdir(exist_ok=True)
-    dest = IMAGES_DIR / filename
+    dest = IMAGES_DIR / image_subpath(filename)
     if dest.exists():
         return filename
+    dest.parent.mkdir(parents=True, exist_ok=True)
     try:
         raw = wayback_fetch(original.replace("http://", "https://", 1)
                             if original.startswith("http://") else original,
@@ -417,6 +419,38 @@ def cmd_enrich_images(args):
     if args.slug:
         targets = [t for t in targets if t["slug"] == args.slug]
 
+    if getattr(args, "prefetch", False):
+        groups = sorted({t["group"] for t in targets})
+        print(f"Prefetching CDX index for {len(groups)} group(s)…")
+        for group in groups:
+            url = f"{HP_URL}/{group}/profile/"
+            print(f"  CDX prefix {group}…", end=" ", flush=True)
+            try:
+                captures = cdx_search(
+                    url,
+                    matchType="prefix",
+                    fl="original,timestamp,digest",
+                    collapse="digest",
+                    **{"from": ERA_V1_FROM, "to": ERA_V1_TO},
+                )
+            except RuntimeError as e:
+                print(f"CDX unavailable, skipping ({e})")
+                continue
+            by_slug: dict[str, list[dict]] = {}
+            for cap in captures:
+                m = re.search(r'/profile/([^/?#]+)/?$', cap.get("original", ""))
+                if not m:
+                    continue
+                slug = m.group(1)
+                by_slug.setdefault(slug, []).append(
+                    {"timestamp": cap["timestamp"], "digest": cap["digest"]}
+                )
+            cdx_idx.update(by_slug)
+            print(f"{len(by_slug)} slugs, {len(captures)} captures")
+        CDX_INDEX_FILE.parent.mkdir(parents=True, exist_ok=True)
+        CDX_INDEX_FILE.write_text(json.dumps(cdx_idx, ensure_ascii=False), encoding="utf-8")
+        print("CDX index updated.")
+
     print(f"Enriching images for {len(targets)} current member(s)…")
     for t in targets:
         slug  = t["slug"]
@@ -459,10 +493,29 @@ def cmd_enrich_images(args):
         for img_obj in all_images:
             download_image(img_obj["url"])
 
+        _wb_ts_re = re.compile(r"/web/(\d{14})if_/")
+
+        def _enrich_ts(obj: dict) -> dict:
+            if not obj.get("ts"):
+                m = _wb_ts_re.search(obj.get("url", ""))
+                if m:
+                    return {**obj, "ts": m.group(1)}
+            return obj
+
         existing_imgs = data.get("images", [])
-        existing_objs = [{"url": i} if isinstance(i, str) else i for i in existing_imgs]
+        existing_objs = [_enrich_ts({"url": i} if isinstance(i, str) else i) for i in existing_imgs]
         existing_names = {Path(o["url"]).name for o in existing_objs}
-        new_objs = [o for o in all_images if Path(o["url"]).name not in existing_names]
+        webp_by_stem = {Path(o["url"]).stem: o for o in existing_objs if o["url"].endswith(".webp")}
+        for o in all_images:
+            if o["url"].endswith(".jpg"):
+                stem = Path(o["url"]).stem
+                if stem in webp_by_stem and not webp_by_stem[stem].get("ts") and o.get("ts"):
+                    webp_by_stem[stem]["ts"] = o["ts"]
+        new_objs = [
+            o for o in all_images
+            if Path(o["url"]).name not in existing_names
+            and not (o["url"].endswith(".jpg") and Path(o["url"]).stem in webp_by_stem)
+        ]
         new_objs.sort(key=lambda x: x["ts"], reverse=True)
         if new_objs or existing_objs != existing_imgs:
             data["images"] = existing_objs + new_objs
@@ -594,10 +647,10 @@ def download_image_live(url: str) -> str | None:
     filename = Path(url.split("?")[0]).name
     if not filename or "." not in filename:
         return None
-    IMAGES_DIR.mkdir(exist_ok=True)
-    dest = IMAGES_DIR / filename
+    dest = IMAGES_DIR / image_subpath(filename)
     if dest.exists():
         return filename
+    dest.parent.mkdir(parents=True, exist_ok=True)
     try:
         resp = requests.get(url, headers=HEADERS, timeout=(8, 30))
         resp.raise_for_status()
@@ -1827,8 +1880,15 @@ def cmd_consolidate(args):
         def _img_name(i) -> str:
             return Path(i["url"] if isinstance(i, dict) else i).name
 
+        _wb_ts_re = re.compile(r"/web/(\d{14})if_/")
+
         def _img_obj(i) -> dict:
-            return i if isinstance(i, dict) else {"url": i}
+            obj = i if isinstance(i, dict) else {"url": i}
+            if not obj.get("ts"):
+                m = _wb_ts_re.search(obj.get("url", ""))
+                if m:
+                    obj = {**obj, "ts": m.group(1)}
+            return obj
 
         seen_imgs: set[str] = {_img_name(i) for i in result["images"]}
         result["images"] = [_img_obj(i) for i in result["images"]]
@@ -2027,10 +2087,11 @@ def main():
     p_enrich = sub.add_parser("enrich", help="Enrich data from external sources")
     p_enrich.add_argument("--source",  default="cdjapan", help="Barcode source (default: cdjapan)")
     p_enrich.add_argument("--catalog", help="(barcodes) Enrich a single catalog code")
-    p_enrich.add_argument("--images",  action="store_true", help="Merge Wayback images into current member profiles")
-    p_enrich.add_argument("--slug",    help="(--images) Restrict to one member slug")
-    p_enrich.add_argument("--force",   action="store_true", help="Re-fetch even if cached")
-    p_enrich.add_argument("--missing", action="store_true", help="Download only images already listed in member JSONs but absent locally")
+    p_enrich.add_argument("--images",   action="store_true", help="Merge Wayback images into current member profiles")
+    p_enrich.add_argument("--slug",     help="(--images) Restrict to one member slug")
+    p_enrich.add_argument("--prefetch", action="store_true", help="(--images) Refresh CDX index for active member groups before enriching")
+    p_enrich.add_argument("--force",    action="store_true", help="Re-fetch even if cached")
+    p_enrich.add_argument("--missing",  action="store_true", help="Download only images already listed in member JSONs but absent locally")
 
     p_cdx = sub.add_parser("prefetch-cdx", help="Bulk-prefetch CDX index (one request per group, not per member)")
     p_cdx.add_argument("--group", help="Restrict to one group slug")

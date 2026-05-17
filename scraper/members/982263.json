@@ -7,20 +7,8 @@
   "nameKana": "タケムラミウ",
   "images": [
     {
-      "url": "https://web.archive.org/web/20160304113540if_/http://cdn.helloproject.com/img/rotation/cccb28b1d7fbe8a9bd76f85b43491cf78393455c.jpg",
-      "ts": "20160304113540"
-    },
-    {
-      "url": "https://web.archive.org/web/20160304113540if_/http://cdn.helloproject.com/img/rotation/f769bf9162c406ddf78c1d4c3dfa422b15929df2.jpg",
-      "ts": "20160304113540"
-    },
-    {
-      "url": "https://web.archive.org/web/20150706231952if_/http://cdn.helloproject.com/img/rotation/b1e86a8860c62d0bc44205c7c82d78cdbf80b534.jpg",
-      "ts": "20150706231952"
-    },
-    {
-      "url": "https://web.archive.org/web/20150706231952if_/http://cdn.helloproject.com/img/rotation/5aa4ce8851aeb5ea96db205d1f4826e02a4261c2.jpg",
-      "ts": "20150706231952"
+      "url": "https://web.archive.org/web/20141007183620if_/http://cdn.helloproject.com/img/rotation/5d33afe6457508774d27bbef4bd53274d6a59a85.jpg",
+      "ts": "20141007183620"
     },
     {
       "url": "https://web.archive.org/web/20150316065108if_/http://cdn.helloproject.com/img/rotation/fbdaa37cc5a28a7823a284b499ba4940c1885871.jpg",
@@ -31,8 +19,20 @@
       "ts": "20150316065108"
     },
     {
-      "url": "https://web.archive.org/web/20141007183620if_/http://cdn.helloproject.com/img/rotation/5d33afe6457508774d27bbef4bd53274d6a59a85.jpg",
-      "ts": "20141007183620"
+      "url": "https://web.archive.org/web/20150706231952if_/http://cdn.helloproject.com/img/rotation/b1e86a8860c62d0bc44205c7c82d78cdbf80b534.jpg",
+      "ts": "20150706231952"
+    },
+    {
+      "url": "https://web.archive.org/web/20150706231952if_/http://cdn.helloproject.com/img/rotation/5aa4ce8851aeb5ea96db205d1f4826e02a4261c2.jpg",
+      "ts": "20150706231952"
+    },
+    {
+      "url": "https://web.archive.org/web/20160304113540if_/http://cdn.helloproject.com/img/rotation/cccb28b1d7fbe8a9bd76f85b43491cf78393455c.jpg",
+      "ts": "20160304113540"
+    },
+    {
+      "url": "https://web.archive.org/web/20160304113540if_/http://cdn.helloproject.com/img/rotation/f769bf9162c406ddf78c1d4c3dfa422b15929df2.jpg",
+      "ts": "20160304113540"
     }
   ],
   "has_grad": true,

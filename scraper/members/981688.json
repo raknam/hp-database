@@ -7,20 +7,12 @@
   "nameKana": "ハマウラ アヤノ",
   "images": [
     {
-      "url": "https://web.archive.org/web/20160402212836if_/http://cdn.helloproject.com/img/rotation/265531187247c0e69c26207ea64f8a106a2b75e1.jpg",
-      "ts": "20160402212836"
+      "url": "https://web.archive.org/web/20140424015952if_/http://cdn.helloproject.com/img/rotation/3fc2bf9ad903062f63aa35dac5ae95527c7a946b.jpg",
+      "ts": "20140424015952"
     },
     {
-      "url": "https://web.archive.org/web/20160402212836if_/http://cdn.helloproject.com/img/rotation/aae1992d1385c175bef47cefebdfb90aa653eac5.jpg",
-      "ts": "20160402212836"
-    },
-    {
-      "url": "https://web.archive.org/web/20150926070022if_/http://cdn.helloproject.com/img/rotation/6c8daabbd9705ec099aa2f339968f9e92b5ee13b.jpg",
-      "ts": "20150926070022"
-    },
-    {
-      "url": "https://web.archive.org/web/20150926070022if_/http://cdn.helloproject.com/img/rotation/f69af25e28bf056a5a12c7b7136c51dc55eb34a4.jpg",
-      "ts": "20150926070022"
+      "url": "https://web.archive.org/web/20140424015952if_/http://cdn.helloproject.com/img/rotation/496a2bfca44602433b0137eeed98b1f7a3900274.jpg",
+      "ts": "20140424015952"
     },
     {
       "url": "https://web.archive.org/web/20150322154327if_/http://cdn.helloproject.com/img/rotation/a451deaab87fa5d9506f4d1b069271a2db510517.jpg",
@@ -31,12 +23,20 @@
       "ts": "20150322154327"
     },
     {
-      "url": "https://web.archive.org/web/20140424015952if_/http://cdn.helloproject.com/img/rotation/3fc2bf9ad903062f63aa35dac5ae95527c7a946b.jpg",
-      "ts": "20140424015952"
+      "url": "https://web.archive.org/web/20150926070022if_/http://cdn.helloproject.com/img/rotation/6c8daabbd9705ec099aa2f339968f9e92b5ee13b.jpg",
+      "ts": "20150926070022"
     },
     {
-      "url": "https://web.archive.org/web/20140424015952if_/http://cdn.helloproject.com/img/rotation/496a2bfca44602433b0137eeed98b1f7a3900274.jpg",
-      "ts": "20140424015952"
+      "url": "https://web.archive.org/web/20150926070022if_/http://cdn.helloproject.com/img/rotation/f69af25e28bf056a5a12c7b7136c51dc55eb34a4.jpg",
+      "ts": "20150926070022"
+    },
+    {
+      "url": "https://web.archive.org/web/20160402212836if_/http://cdn.helloproject.com/img/rotation/265531187247c0e69c26207ea64f8a106a2b75e1.jpg",
+      "ts": "20160402212836"
+    },
+    {
+      "url": "https://web.archive.org/web/20160402212836if_/http://cdn.helloproject.com/img/rotation/aae1992d1385c175bef47cefebdfb90aa653eac5.jpg",
+      "ts": "20160402212836"
     }
   ],
   "has_grad": true,

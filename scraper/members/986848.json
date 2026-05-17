@@ -7,20 +7,12 @@
   "nameKana": "カワノ ソアラ",
   "images": [
     {
-      "url": "https://web.archive.org/web/20240903052247if_/http://cdn.helloproject.com/img/rotation/388e435f2343d0dec8676ba3abff3c0c943733c2.jpg",
-      "ts": "20240903052247"
+      "url": "https://web.archive.org/web/20230328095905if_/http://cdn.helloproject.com/img/rotation/63eba16e9a5bda402964d2023396e327770f2ebd.jpg",
+      "ts": "20230328095905"
     },
     {
-      "url": "https://web.archive.org/web/20240903052247if_/http://cdn.helloproject.com/img/rotation/b32ebec40689338ad4e1a38c2fd124bdcd79eb3b.jpg",
-      "ts": "20240903052247"
-    },
-    {
-      "url": "https://web.archive.org/web/20240207131303if_/http://cdn.helloproject.com/img/rotation/e992ee456b44f278ee066c518400af6c3360aa35.jpg",
-      "ts": "20240207131303"
-    },
-    {
-      "url": "https://web.archive.org/web/20240207131303if_/http://cdn.helloproject.com/img/rotation/0bb761a8f8b0b44095fc506993890b3d36c68720.jpg",
-      "ts": "20240207131303"
+      "url": "https://web.archive.org/web/20230328095905if_/http://cdn.helloproject.com/img/rotation/00039760fc8f95bf9515a37faeabcde61f71ed97.jpg",
+      "ts": "20230328095905"
     },
     {
       "url": "https://web.archive.org/web/20230919030021if_/http://cdn.helloproject.com/img/rotation/5e22630c6e5736850164d2fa704b1bf24f0400a6.jpg",
@@ -31,12 +23,20 @@
       "ts": "20230919030021"
     },
     {
-      "url": "https://web.archive.org/web/20230328095905if_/http://cdn.helloproject.com/img/rotation/63eba16e9a5bda402964d2023396e327770f2ebd.jpg",
-      "ts": "20230328095905"
+      "url": "https://web.archive.org/web/20240207131303if_/http://cdn.helloproject.com/img/rotation/e992ee456b44f278ee066c518400af6c3360aa35.jpg",
+      "ts": "20240207131303"
     },
     {
-      "url": "https://web.archive.org/web/20230328095905if_/http://cdn.helloproject.com/img/rotation/00039760fc8f95bf9515a37faeabcde61f71ed97.jpg",
-      "ts": "20230328095905"
+      "url": "https://web.archive.org/web/20240207131303if_/http://cdn.helloproject.com/img/rotation/0bb761a8f8b0b44095fc506993890b3d36c68720.jpg",
+      "ts": "20240207131303"
+    },
+    {
+      "url": "https://web.archive.org/web/20240903052247if_/http://cdn.helloproject.com/img/rotation/388e435f2343d0dec8676ba3abff3c0c943733c2.jpg",
+      "ts": "20240903052247"
+    },
+    {
+      "url": "https://web.archive.org/web/20240903052247if_/http://cdn.helloproject.com/img/rotation/b32ebec40689338ad4e1a38c2fd124bdcd79eb3b.jpg",
+      "ts": "20240903052247"
     }
   ],
   "has_grad": true,

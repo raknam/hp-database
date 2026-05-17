@@ -1,0 +1,187 @@
+{% extends "base.html" %}
+{% block title %}Photoboard – H!P Database{% endblock %}
+{% block content %}
+<style>
+.pb-header { display: flex; align-items: baseline; gap: 12px; margin-bottom: 16px; }
+.pb-count { font-size: 0.9rem; color: #555; }
+.photo-wall {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 3px;
+}
+.pb-tile {
+  position: relative;
+  display: block;
+  overflow: hidden;
+  background: #111;
+  cursor: pointer;
+  border-radius: 6px;
+}
+.pb-tile img {
+  width: 100%;
+  aspect-ratio: 3/4;
+  object-fit: cover;
+  object-position: top;
+  display: block;
+  transition: transform .2s;
+}
+.pb-tile:hover img { transform: scale(1.06); }
+.pb-name {
+  position: absolute;
+  bottom: 0; left: 0; right: 0;
+  padding: 20px 6px 6px;
+  background: linear-gradient(transparent, rgba(0,0,0,.8));
+  color: #fff;
+  font-size: 0.7rem;
+  font-weight: 600;
+  opacity: 0;
+  transition: opacity .15s;
+  pointer-events: none;
+}
+.pb-tile:hover .pb-name { opacity: 1; }
+.pb-sentinel { grid-column: 1 / -1; height: 1px; }
+
+/* Lightbox */
+#pb-lb {
+  display: none;
+  position: fixed; inset: 0; z-index: 1000;
+  align-items: center; justify-content: center;
+}
+#pb-lb.open { display: flex; }
+#pb-lb-backdrop {
+  position: absolute; inset: 0;
+  background: rgba(0,0,0,.88);
+  backdrop-filter: blur(4px);
+}
+#pb-lb-box {
+  position: relative; z-index: 1;
+  display: flex; flex-direction: column;
+  align-items: center;
+  max-width: min(90vw, 600px);
+  max-height: 95vh;
+}
+#pb-lb-img {
+  max-width: 100%;
+  max-height: calc(95vh - 56px);
+  object-fit: contain;
+  border-radius: 6px;
+  display: block;
+}
+#pb-lb-footer {
+  width: 100%;
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 10px 4px 0;
+  gap: 12px;
+}
+#pb-lb-name { font-size: 0.95rem; font-weight: 600; color: #eee; }
+#pb-lb-link {
+  font-size: 0.82rem; color: #c8a0ff; white-space: nowrap;
+  flex-shrink: 0;
+}
+#pb-lb-close {
+  position: absolute; top: -36px; right: 0;
+  background: none; border: none; color: #aaa;
+  font-size: 1.4rem; cursor: pointer; line-height: 1;
+  padding: 4px 8px;
+}
+#pb-lb-close:hover { color: #fff; }
+#pb-lb-prev, #pb-lb-next {
+  position: fixed; top: 50%; transform: translateY(-50%);
+  background: rgba(0,0,0,.5); border: none; color: #ccc;
+  font-size: 1.8rem; cursor: pointer; padding: 12px 16px;
+  border-radius: 4px; z-index: 2; line-height: 1;
+  transition: background .15s, color .15s;
+}
+#pb-lb-prev:hover, #pb-lb-next:hover { background: rgba(90,47,160,.7); color: #fff; }
+#pb-lb-prev { left: 16px; }
+#pb-lb-next { right: 16px; }
+</style>
+
+<div class="pb-header">
+  <h1>Photoboard</h1>
+  <span class="pb-count">{{ total }} photos</span>
+</div>
+
+<div class="photo-wall" id="photo-wall">
+  {% for p in photos %}
+  <div class="pb-tile" data-src="/images/{{ p.filename }}" data-name="{{ p.name }}" data-href="/artists/{{ p.slug }}">
+    <img src="/images/{{ p.filename }}" loading="lazy" alt="{{ p.name }}">
+    <span class="pb-name">{{ p.name }}</span>
+  </div>
+  {% endfor %}
+
+  {% if has_more %}
+  <div class="pb-sentinel"
+       hx-get="/photoboard/more?offset={{ offset }}&seed={{ seed }}"
+       hx-trigger="revealed"
+       hx-swap="outerHTML"></div>
+  {% endif %}
+</div>
+
+<!-- Lightbox -->
+<div id="pb-lb">
+  <div id="pb-lb-backdrop"></div>
+  <button id="pb-lb-prev">&#8249;</button>
+  <div id="pb-lb-box">
+    <button id="pb-lb-close">✕</button>
+    <img id="pb-lb-img" src="" alt="" style="cursor:pointer" title="Voir l'artiste">
+    <div id="pb-lb-footer">
+      <span id="pb-lb-name"></span>
+      <a id="pb-lb-link" href="">Voir l'artiste →</a>
+    </div>
+  </div>
+  <button id="pb-lb-next">&#8250;</button>
+</div>
+
+<script>
+(function () {
+  const lb = document.getElementById('pb-lb');
+  const lbImg = document.getElementById('pb-lb-img');
+  const lbName = document.getElementById('pb-lb-name');
+  const lbLink = document.getElementById('pb-lb-link');
+  let current = -1;
+
+  function tiles() {
+    return Array.from(document.querySelectorAll('.pb-tile'));
+  }
+
+  function open(idx) {
+    const all = tiles();
+    if (idx < 0 || idx >= all.length) return;
+    current = idx;
+    const t = all[idx];
+    lbImg.src = t.dataset.src;
+    lbImg.alt = t.dataset.name;
+    lbName.textContent = t.dataset.name;
+    lbLink.href = t.dataset.href;
+    lb.classList.add('open');
+    document.body.style.overflow = 'hidden';
+  }
+
+  function close() {
+    lb.classList.remove('open');
+    document.body.style.overflow = '';
+    lbImg.src = '';
+  }
+
+  document.getElementById('photo-wall').addEventListener('click', function (e) {
+    const tile = e.target.closest('.pb-tile');
+    if (!tile) return;
+    open(tiles().indexOf(tile));
+  });
+
+  document.getElementById('pb-lb-backdrop').addEventListener('click', close);
+  lbImg.addEventListener('click', function () { window.location.href = lbLink.href; });
+  document.getElementById('pb-lb-close').addEventListener('click', close);
+  document.getElementById('pb-lb-prev').addEventListener('click', function () { open(current - 1); });
+  document.getElementById('pb-lb-next').addEventListener('click', function () { open(current + 1); });
+
+  document.addEventListener('keydown', function (e) {
+    if (!lb.classList.contains('open')) return;
+    if (e.key === 'Escape') close();
+    if (e.key === 'ArrowLeft') open(current - 1);
+    if (e.key === 'ArrowRight') open(current + 1);
+  });
+})();
+</script>
+{% endblock %}

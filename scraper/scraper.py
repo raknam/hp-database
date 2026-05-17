@@ -3,10 +3,13 @@ import argparse
 import json
 import os
 import re
+from datetime import date
 from pathlib import Path
 
 import requests
 from bs4 import BeautifulSoup
+
+from image_path import image_subpath
 
 SITE_URL = "https://helloproject.com"
 JSON_BASE = f"{SITE_URL}/json"
@@ -45,12 +48,12 @@ def save_json(data: dict, path: Path):
 
 def download_image(path: str):
     filename = Path(path).name
-    dest = IMAGES_DIR / filename
+    dest = IMAGES_DIR / image_subpath(filename)
     if dest.exists():
         if DEBUG:
             print(f"  SKIP  {filename}")
         return
-    IMAGES_DIR.mkdir(exist_ok=True)
+    dest.parent.mkdir(parents=True, exist_ok=True)
     resp = fetch(f"{SITE_URL}{path}")
     dest.write_bytes(resp.content)
     if not DEBUG:
@@ -68,6 +71,9 @@ def cmd_update(args):
 
     version = version_data["version"]
     release_years = version_data["releaseYears"]
+    if not args.all_years:
+        current = date.today().year
+        release_years = [y for y in release_years if y in (current, current + 1)]
     print(f"Version: {version}")
     print(f"Release years: {' '.join(str(y) for y in release_years)}")
 
@@ -432,6 +438,31 @@ def scrape_member_one(member: dict, force: bool):
         if extra:
             data["images"] = new_imgs + extra
 
+    # Drop Wayback JPGs superseded by a live WebP with the same stem; transplant ts
+    def _img_url(i): return i if isinstance(i, str) else i["url"]
+    jpg_ts: dict[str, str] = {}
+    for i in data.get("images", []):
+        url = _img_url(i)
+        if url.endswith(".jpg"):
+            ts = i.get("ts") if isinstance(i, dict) else None
+            stem = Path(url).stem
+            if ts and (stem not in jpg_ts or ts < jpg_ts[stem]):
+                jpg_ts[stem] = ts
+    webp_stems = {Path(_img_url(i)).stem for i in data.get("images", []) if _img_url(i).endswith(".webp")}
+    if webp_stems & jpg_ts.keys():
+        result = []
+        for i in data["images"]:
+            url = _img_url(i)
+            stem = Path(url).stem
+            if url.endswith(".jpg") and stem in webp_stems:
+                continue
+            if url.endswith(".webp") and stem in jpg_ts:
+                obj = i if isinstance(i, dict) else {"url": i}
+                result.append(obj if obj.get("ts") else {**obj, "ts": jpg_ts[stem]})
+            else:
+                result.append(i)
+        data["images"] = result
+
     MEMBERS_DIR.mkdir(exist_ok=True)
     save_json(data, out_file)
     print(f"  {member_slug}: written to {out_file}")
@@ -472,7 +503,9 @@ def main():
     parser.add_argument("--debug", action="store_true", help="Print each URL fetched")
     sub = parser.add_subparsers(dest="command", required=True)
 
-    sub.add_parser("update", help="Download catalogue JSONs and images")
+    p_update = sub.add_parser("update", help="Download catalogue JSONs and images")
+    p_update.add_argument("--all-years", action="store_true", dest="all_years",
+                          help="Fetch all years (default: current + next only)")
 
     p_scrape = sub.add_parser("scrape", help="Scrape release detail pages")
     p_scrape.add_argument("--id", type=int, help="Scrape a single release ID")

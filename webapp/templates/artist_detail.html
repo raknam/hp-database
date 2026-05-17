@@ -48,7 +48,7 @@
       {% for g in parent_groups %}
       {% set gex = g.extra or {} %}
       {% set gimg = gex.get('images', [None])[0] %}
-      <a href="/artists/{{ g.slug or g.id }}" class="member-chip">
+      <a href="{% if g.slug %}/artists/{{ g.slug }}{% else %}#{% endif %}" class="member-chip">
         {% if gimg %}
         {% set gimg_url = gimg.url if gimg is mapping else gimg %}
         <img src="/images/{{ gimg_url.split('/')[-1] }}" alt="{{ g.name_ja or g.name_en }}" loading="lazy">
@@ -66,24 +66,48 @@
 
     {% if members %}
     <h2>Members</h2>
-    <div class="member-grid">
-      {% for m in members %}
-      {% set mex = m.extra or {} %}
-      {% set mimg = mex.get('images', [None])[0] %}
-      <a href="/artists/{{ m.slug or m.id }}" class="member-card">
-        {% if mimg %}
-        {% set mimg_url = mimg.url if mimg is mapping else mimg %}
-        <img src="/images/{{ mimg_url.split('/')[-1] }}" alt="{{ m.name_ja }}" loading="lazy">
-        {% else %}
-        <div class="no-img">👤</div>
-        {% endif %}
-        <div class="member-card-body">
-          <div class="name">{{ m.name_ja or m.name_en }}</div>
-          {% if m.name_en %}<div class="sub">{{ m.name_en }}</div>{% endif %}
+
+    {% macro member_card(m, graded=false) %}
+    {% set mex = m.extra or {} %}
+    {% set mimg = mex.get('images', [None])[0] %}
+    <a href="/artists/{{ m.slug or m.id }}" class="member-card{% if graded %} member-card--grad{% endif %}">
+      {% if mimg %}
+      {% set mimg_url = mimg.url if mimg is mapping else mimg %}
+      <img src="/images/{{ mimg_url.split('/')[-1] }}" alt="{{ m.name_ja }}" loading="lazy">
+      {% else %}
+      <div class="no-img">👤</div>
+      {% endif %}
+      <div class="member-card-body">
+        <div class="name">{{ m.name_ja or m.name_en }}</div>
+        {% if m.name_en %}<div class="sub">{{ m.name_en }}</div>{% endif %}
+      </div>
+    </a>
+    {% endmacro %}
+
+    {% if units %}
+      {% for u in units %}
+      {% if u.members %}
+      <div class="subunit-block">
+        <div class="subunit-label">{{ u.unit.name_ja or u.unit.name_en or u.unit.slug }}</div>
+        <div class="member-grid">
+          {% for m in u.members %}{{ member_card(m) }}{% endfor %}
         </div>
-      </a>
+      </div>
+      {% endif %}
       {% endfor %}
+    {% else %}
+    <div class="member-grid">
+      {% for m in direct_members %}{{ member_card(m) }}{% endfor %}
     </div>
+    {% endif %}
+
+    {% if graduated %}
+    <h2>卒業生</h2>
+    <div class="member-grid">
+      {% for m in graduated %}{{ member_card(m, graded=true) }}{% endfor %}
+    </div>
+    {% endif %}
+
     {% endif %}
   </div>
 </div>

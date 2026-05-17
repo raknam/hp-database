@@ -7,12 +7,12 @@
   "nameKana": "サトウ マサキ",
   "images": [
     {
-      "url": "/images/bab6242b87a853f97dec754d9e2ace25c1d611c1.jpg",
-      "ts": "20260517191000"
-    },
-    {
       "url": "https://web.archive.org/web/20211025235402if_/http://cdn.helloproject.com/img/rotation/9717edc93c0a0b94e384e33cc3579c072ce20cf6.jpg",
       "ts": "20211025235402"
+    },
+    {
+      "url": "/images/bab6242b87a853f97dec754d9e2ace25c1d611c1.jpg",
+      "ts": "20260517191000"
     }
   ],
   "has_grad": true,

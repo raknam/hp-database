@@ -3,6 +3,26 @@
 {% block content %}
 <h1>Artists</h1>
 
+{% macro member_chip(m, show_en=true, graded=false) %}
+{% set mex = m.extra or {} %}
+{% set mimg = mex.get('images', [None])[0] %}
+{% set mcolor = mex.get('color', {}) %}
+{% set colored = mcolor.get('hex') and not graded %}
+<a href="/artists/{{ m.slug or m.id }}" class="member-chip{% if colored %} member-chip--colored{% endif %}{% if graded %} member-chip--grad{% endif %}"{% if colored %} style="--chip-color: {{ mcolor['hex'] }}"{% endif %}>
+  {% if mimg %}
+  {% set mimg_url = mimg.url if mimg is mapping else mimg %}
+  <img src="/images/{{ mimg_url.split('/')[-1] }}" alt="{{ m.name_ja or m.name_en }}" loading="lazy">
+  {% else %}
+  <span class="chip-ph">👤</span>
+  {% endif %}
+  <span class="chip-name">
+    {%- if show_en and m.name_en %}<span class="chip-en">{{ m.name_en }}</span>{% endif %}
+    {%- if m.name_ja %}<span class="chip-ja">{{ m.name_ja }}</span>{% endif %}
+    {%- if not m.name_en and not m.name_ja %}{{ m.slug }}{% endif %}
+  </span>
+</a>
+{% endmacro %}
+
 {% if groups %}
 <div class="group-grid">
   {% for g in groups %}
@@ -19,26 +39,28 @@
       <span class="group-card-name">{{ artist.name_ja or artist.name_en or artist.slug }}</span>
     </a>
     <div class="group-card-body">
-      <div class="group-card-members">
-        {% for m in g.members %}
-        {% set mex = m.extra or {} %}
-        {% set mimg = mex.get('images', [None])[0] %}
-        {% set mcolor = mex.get('color', {}) %}
-        <a href="/artists/{{ m.slug or m.id }}" class="member-chip{% if mcolor.get('hex') %} member-chip--colored{% endif %}"{% if mcolor.get('hex') %} style="--chip-color: {{ mcolor['hex'] }}"{% endif %}>
-          {% if mimg %}
-          {% set mimg_url = mimg.url if mimg is mapping else mimg %}
-          <img src="/images/{{ mimg_url.split('/')[-1] }}" alt="{{ m.name_ja or m.name_en }}" loading="lazy">
-          {% else %}
-          <span class="chip-ph">👤</span>
-          {% endif %}
-          <span class="chip-name">
-            {%- if m.name_en %}<span class="chip-en">{{ m.name_en }}</span>{% endif %}
-            {%- if m.name_ja %}<span class="chip-ja">{{ m.name_ja }}</span>{% endif %}
-            {%- if not m.name_en and not m.name_ja %}{{ m.slug }}{% endif %}
-          </span>
-        </a>
+      {% if g.units %}
+        {% for u in g.units %}
+        <div class="subunit-block">
+          <div class="subunit-label">{{ u.unit.name_ja or u.unit.name_en or u.unit.slug }}</div>
+          <div class="group-card-members">
+            {% for m in u.members %}{{ member_chip(m, show_en=false) }}{% endfor %}
+          </div>
+        </div>
         {% endfor %}
+      {% else %}
+      <div class="group-card-members">
+        {% for m in g.direct_members %}{{ member_chip(m) }}{% endfor %}
       </div>
+      {% endif %}
+      {% if g.graduated %}
+      <div class="subunit-block">
+        <div class="subunit-label">卒業生</div>
+        <div class="group-card-members">
+          {% for m in g.graduated %}{{ member_chip(m, graded=true) }}{% endfor %}
+        </div>
+      </div>
+      {% endif %}
     </div>
   </div>
   {% endfor %}

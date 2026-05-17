@@ -42,8 +42,30 @@ def artists_list(request: Request, db: Session = Depends(get_db)):
 
     group_data = []
     for g in groups:
+        active_ext_ids = set((g.extra or {}).get("active_member_ids", []))
+
+        unit_rels = db.execute(
+            select(ArtistRelation)
+            .where(ArtistRelation.parent_id == g.id, ArtistRelation.kind == "unit")
+            .options(selectinload(ArtistRelation.child))
+        ).scalars().all()
+
+        graduated: list[Artist] = []
+        units = []
+        for rel in unit_rels:
+            all_unit_members = _resolve_members(db, rel.child_id)
+            active = [m for m in all_unit_members if m.external_id in active_ext_ids]
+            grad = [m for m in all_unit_members if m.external_id not in active_ext_ids]
+            units.append({"unit": rel.child, "members": active})
+            graduated.extend(grad)
+
         members = _resolve_members(db, g.id)
-        group_data.append({"artist": g, "members": members})
+        unit_member_ids = {m.id for u in units for m in u["members"]} | {m.id for m in graduated}
+        non_unit = [m for m in members if m.id not in unit_member_ids]
+        direct_members = [m for m in non_unit if m.external_id in active_ext_ids]
+        graduated.extend(m for m in non_unit if m.external_id not in active_ext_ids)
+
+        group_data.append({"artist": g, "members": members, "units": units, "direct_members": direct_members, "graduated": graduated})
 
     return templates.TemplateResponse(request, "artists.html", {
         "groups": group_data,
@@ -66,18 +88,68 @@ def artist_detail(request: Request, slug: str, db: Session = Depends(get_db)):
         .options(selectinload(Release.images))
     ).scalars().all()
 
-    members = _resolve_members(db, artist.id) if artist.kind in ("group", "unit") else []
+    members: list[Artist] = []
+    units: list[dict] = []
+    direct_members: list[Artist] = []
+    graduated: list[Artist] = []
 
-    parent_groups = db.execute(
+    if artist.kind in ("group", "unit"):
+        members = _resolve_members(db, artist.id)
+        active_ext_ids = set((artist.extra or {}).get("active_member_ids", []))
+
+        if active_ext_ids:
+            unit_rels = db.execute(
+                select(ArtistRelation)
+                .where(ArtistRelation.parent_id == artist.id, ArtistRelation.kind == "unit")
+                .options(selectinload(ArtistRelation.child))
+            ).scalars().all()
+
+            for rel in unit_rels:
+                all_unit_members = _resolve_members(db, rel.child_id)
+                active = [m for m in all_unit_members if m.external_id in active_ext_ids]
+                grad = [m for m in all_unit_members if m.external_id not in active_ext_ids]
+                units.append({"unit": rel.child, "members": active})
+                graduated.extend(grad)
+
+            unit_member_ids = {m.id for u in units for m in u["members"]} | {m.id for m in graduated}
+            non_unit = [m for m in members if m.id not in unit_member_ids]
+            direct_members = [m for m in non_unit if m.external_id in active_ext_ids]
+            graduated.extend(m for m in non_unit if m.external_id not in active_ext_ids)
+        else:
+            direct_members = members
+
+    # Direct parents (member → unit or group)
+    direct_parents = db.execute(
         select(Artist)
         .join(ArtistRelation, ArtistRelation.parent_id == Artist.id)
         .where(ArtistRelation.child_id == artist.id, ArtistRelation.kind == "member")
         .order_by(Artist.id)
     ).scalars().all()
 
+    # Also resolve grandparent groups (unit → group), so sub-unit members show the main group
+    unit_ids = [p.id for p in direct_parents if p.kind == "unit"]
+    grandparent_groups: list[Artist] = []
+    if unit_ids:
+        grandparent_groups = db.execute(
+            select(Artist)
+            .join(ArtistRelation, ArtistRelation.parent_id == Artist.id)
+            .where(ArtistRelation.child_id.in_(unit_ids), ArtistRelation.kind == "unit")
+            .order_by(Artist.id)
+        ).scalars().all()
+
+    seen_ids: set[int] = set()
+    parent_groups: list[Artist] = []
+    for g in grandparent_groups + direct_parents:
+        if g.id not in seen_ids:
+            seen_ids.add(g.id)
+            parent_groups.append(g)
+
     return templates.TemplateResponse(request, "artist_detail.html", {
         "artist": artist,
         "releases": releases,
         "members": members,
+        "units": units,
+        "direct_members": direct_members,
+        "graduated": graduated,
         "parent_groups": parent_groups,
     })

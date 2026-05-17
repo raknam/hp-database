@@ -17,13 +17,13 @@ def main():
     parser.add_argument("--delete", action="store_true", help="Actually delete (default: dry run)")
     args = parser.parse_args()
 
-    webp_stems = {p.stem for p in IMAGES_DIR.glob("*.webp")}
+    webp_by_stem = {p.stem: p for p in IMAGES_DIR.rglob("*.webp")}
 
-    to_delete = [
-        IMAGES_DIR / f"{stem}.jpg"
-        for stem in webp_stems
-        if (IMAGES_DIR / f"{stem}.jpg").exists()
-    ]
+    to_delete = []
+    for stem, webp_path in webp_by_stem.items():
+        jpg = webp_path.with_suffix(".jpg")
+        if jpg.exists():
+            to_delete.append(jpg)
 
     if not to_delete:
         print("Nothing to delete.")

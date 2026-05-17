@@ -84,14 +84,18 @@ h2 { font-size: 1.2rem; margin: 24px 0 12px; color: #ccc; }
 .group-card-banner { position: relative; height: 140px; overflow: hidden; background: #1a1a2e; display: block; }
 .group-card-banner img { width: 100%; height: 100%; object-fit: cover; object-position: top; filter: brightness(0.7); }
 .group-card-name { position: absolute; bottom: 10px; left: 14px; font-size: 1.1rem; font-weight: 700; color: #fff; text-shadow: 0 1px 4px #000; }
-.group-card-body { padding: 12px 14px; }
+.group-card-body { padding: 12px 14px; display: flex; flex-direction: column; gap: 10px; }
 .group-card-members { display: flex; flex-wrap: wrap; gap: 6px; }
+.subunit-block { display: flex; flex-direction: column; gap: 5px; }
+.subunit-label { font-size: 0.68rem; font-weight: 600; color: #888; text-transform: uppercase; letter-spacing: 0.06em; padding-left: 2px; }
 .member-chip { display: flex; align-items: center; gap: 5px; background: #1e1e1e; border-radius: 20px; padding: 3px 10px 3px 3px; font-size: 0.75rem; text-decoration: none; color: #ccc; transition: background .12s; }
 .member-chip:hover { background: #2a2a4a; color: #fff; text-decoration: none; }
 .member-chip img { width: 22px; height: 22px; border-radius: 50%; object-fit: cover; object-position: top; }
 .member-chip .chip-ph { width: 22px; height: 22px; border-radius: 50%; background: #333; display: flex; align-items: center; justify-content: center; font-size: 0.7rem; flex-shrink: 0; }
 .member-chip--colored { background: var(--chip-color); color: oklch(from var(--chip-color) clamp(0, calc((0.5 - l) * 999), 1) 0 0); }
 .member-chip--colored:hover { background: color-mix(in oklch, var(--chip-color) 80%, white); color: oklch(from var(--chip-color) clamp(0, calc((0.5 - l) * 999), 1) 0 0); }
+.member-chip--grad { opacity: 0.5; }
+.member-chip--grad:hover { opacity: 0.8; }
 .chip-name { display: flex; flex-direction: column; line-height: 1.25; }
 .chip-en { font-size: 0.72rem; font-weight: 600; }
 .chip-ja { font-size: 0.65rem; opacity: 0.78; }
@@ -105,6 +109,8 @@ h2 { font-size: 1.2rem; margin: 24px 0 12px; color: #ccc; }
 .member-card-body { padding: 8px 6px; }
 .member-card-body .name { font-size: 0.82rem; font-weight: 600; }
 .member-card-body .sub { font-size: 0.72rem; color: #888; margin-top: 2px; }
+.member-card--grad { opacity: 0.5; }
+.member-card--grad:hover { opacity: 0.8; }
 .color-swatch { display: inline-block; width: 12px; height: 12px; border-radius: 50%; vertical-align: middle; margin-right: 5px; border: 1px solid #333; }
 /* Search */
 .result-item { padding: 12px 0; border-bottom: 1px solid #1f1f1f; display: flex; gap: 12px; align-items: flex-start; }
@@ -126,6 +132,7 @@ h2 { font-size: 1.2rem; margin: 24px 0 12px; color: #ccc; }
   <span class="logo"><a href="/">H!P Database</a></span>
   <nav>
     <a href="/artists">Artists</a>
+    <a href="/photoboard">Photoboard</a>
     <a href="/releases">Releases</a>
     <a href="/stats">Stats</a>
     <a href="/collection">Collection</a>

@@ -133,6 +133,25 @@ def import_artists(session: Session, artist_list: dict) -> dict[str, int]:
     )
     print(f"  Site version timestamp: {import_ts}")
 
+    def _extract_profile_detail(profile: dict) -> tuple[dict, dict]:
+        """Parse profile['detail'] → (color_dict, details_dict) for extra storage."""
+        color: dict = {}
+        details: dict = {}
+        for entry in profile.get("detail", []):
+            if not isinstance(entry, dict):
+                continue
+            label = entry.get("label", "")
+            if "color" in entry:
+                c = entry["color"]
+                color = {"name": c.get("name", ""), "hex": c.get("code", c.get("hex", ""))}
+            elif "value" in entry:
+                v = entry["value"]
+                if isinstance(v, dict):
+                    details[label] = v.get("content", "")
+                elif isinstance(v, str):
+                    details[label] = v
+        return color, details
+
     def _extract_image_urls(profile: dict) -> list[dict]:
         """Normalize profilesById image dict → flat list of {"url": ..., "ts": ...} dicts."""
         imgs = profile.get("images", {})
@@ -173,9 +192,14 @@ def import_artists(session: Session, artist_list: dict) -> dict[str, int]:
         artist.updated_at = datetime.now(timezone.utc)
 
         image_urls = _extract_image_urls(profile)
-        extra = artist.extra or {}
+        color, details = _extract_profile_detail(profile)
+        extra = dict(artist.extra or {})
         extra["images"] = image_urls
         extra["sort_order"] = sort_order
+        if color:
+            extra["color"] = color
+        if details:
+            extra["details"] = details
         artist.extra = extra
 
     # Also import profiles not in artistsById (sub-units, etc.)
@@ -200,17 +224,24 @@ def import_artists(session: Session, artist_list: dict) -> dict[str, int]:
             session.add(artist)
 
         artist.kind = kind
-        artist.slug = profile.get("slug")
+        artist.slug = profile.get("slug") or None
         artist.name_ja = profile.get("nameJa")
         artist.name_en = profile.get("nameEn")
         artist.name_kana = profile.get("nameKana")
         artist.updated_at = datetime.now(timezone.utc)
 
         image_urls = _extract_image_urls(profile)
+        color, details = _extract_profile_detail(profile)
+        extra = dict(artist.extra or {})
         if image_urls:
-            extra = artist.extra or {}
             extra["images"] = image_urls
-            artist.extra = extra
+        if color:
+            extra["color"] = color
+        if details:
+            extra["details"] = details
+        if kind == "member":
+            extra["has_grad"] = False
+        artist.extra = extra or None
 
     session.flush()
 
@@ -244,6 +275,31 @@ def import_artists(session: Session, artist_list: dict) -> dict[str, int]:
                 session.add(rel)
             else:
                 rel.kind = kind
+
+    # Store active member external_ids per group (resolved recursively through sub-units)
+    def _active_member_ids(group_ext_id: str, depth: int = 0) -> list[str]:
+        if depth > 2:
+            return []
+        ids: list[str] = []
+        for entry in relations.get(group_ext_id, []):
+            eid = str(entry.get("id"))
+            if entry.get("kind") == "member":
+                ids.append(eid)
+            elif entry.get("kind") == "unit":
+                ids.extend(_active_member_ids(eid, depth + 1))
+        return ids
+
+    for group_ext_id in relations:
+        group_ext_id = str(group_ext_id)
+        group_artist = session.execute(
+            select(Artist).where(Artist.source == "hp_official", Artist.external_id == group_ext_id)
+        ).scalar_one_or_none()
+        if not group_artist or group_artist.kind != "group":
+            continue
+        active_ids = _active_member_ids(group_ext_id)
+        extra = dict(group_artist.extra or {})
+        extra["active_member_ids"] = active_ids
+        group_artist.extra = extra
 
     session.commit()
     print(f"  Artists committed.")
@@ -338,7 +394,22 @@ def import_members(session: Session) -> None:
             if enrichment_only and key in extra:
                 continue  # don't overwrite official data with archival data
             if key == "images":
-                val = [{"url": i} if isinstance(i, str) else i for i in val]
+                seen: dict[str, dict] = {}  # basename -> best obj
+                for i in val:
+                    obj = {"url": i} if isinstance(i, str) else dict(i)
+                    if not obj.get("ts"):
+                        m = re.search(r"/web/(\d{14})if_/", obj["url"])
+                        obj["ts"] = m.group(1) if m else import_ts
+                    name = Path(obj["url"]).name
+                    prev = seen.get(name)
+                    if prev is None or obj["ts"] < prev["ts"]:
+                        seen[name] = obj
+                webp_stems = {Path(o["url"]).stem for o in seen.values() if o["url"].endswith(".webp")}
+                val = sorted(
+                    (o for o in seen.values()
+                     if not (o["url"].endswith(".jpg") and Path(o["url"]).stem in webp_stems)),
+                    key=lambda o: o["ts"], reverse=True,
+                )
             extra[key] = val
         artist.extra = extra or None
 
