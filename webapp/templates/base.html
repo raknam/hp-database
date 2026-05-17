@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>{% block title %}HP Database{% endblock %}</title>
+<title>{% block title %}H!P Database{% endblock %}</title>
 <script src="https://unpkg.com/htmx.org@1.9.12"></script>
 <style>
 * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -87,9 +87,14 @@ h2 { font-size: 1.2rem; margin: 24px 0 12px; color: #ccc; }
 .group-card-body { padding: 12px 14px; }
 .group-card-members { display: flex; flex-wrap: wrap; gap: 6px; }
 .member-chip { display: flex; align-items: center; gap: 5px; background: #1e1e1e; border-radius: 20px; padding: 3px 10px 3px 3px; font-size: 0.75rem; text-decoration: none; color: #ccc; transition: background .12s; }
-.member-chip:hover { background: #2a2a4a; color: #fff; }
+.member-chip:hover { background: #2a2a4a; color: #fff; text-decoration: none; }
 .member-chip img { width: 22px; height: 22px; border-radius: 50%; object-fit: cover; object-position: top; }
 .member-chip .chip-ph { width: 22px; height: 22px; border-radius: 50%; background: #333; display: flex; align-items: center; justify-content: center; font-size: 0.7rem; flex-shrink: 0; }
+.member-chip--colored { background: var(--chip-color); color: oklch(from var(--chip-color) clamp(0, calc((0.5 - l) * 999), 1) 0 0); }
+.member-chip--colored:hover { background: color-mix(in oklch, var(--chip-color) 80%, white); color: oklch(from var(--chip-color) clamp(0, calc((0.5 - l) * 999), 1) 0 0); }
+.chip-name { display: flex; flex-direction: column; line-height: 1.25; }
+.chip-en { font-size: 0.72rem; font-weight: 600; }
+.chip-ja { font-size: 0.65rem; opacity: 0.78; }
 /* Member */
 .member-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 14px; }
 .member-card { background: #1a1a1a; border-radius: 8px; overflow: hidden; text-align: center; display: block; }
@@ -117,7 +122,7 @@ h2 { font-size: 1.2rem; margin: 24px 0 12px; color: #ccc; }
 </head>
 <body>
 <header>
-  <span class="logo"><a href="/">HP Database</a></span>
+  <span class="logo"><a href="/">H!P Database</a></span>
   <nav>
     <a href="/artists">Artists</a>
     <a href="/releases">Releases</a>

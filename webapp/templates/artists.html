@@ -23,13 +23,17 @@
         {% set mex = m.extra or {} %}
         {% set mimg = mex.get('images', [None])[0] %}
         {% set mcolor = mex.get('color', {}) %}
-        <a href="/artists/{{ m.slug or m.id }}" class="member-chip">
+        <a href="/artists/{{ m.slug or m.id }}" class="member-chip{% if mcolor.get('hex') %} member-chip--colored{% endif %}"{% if mcolor.get('hex') %} style="--chip-color: {{ mcolor['hex'] }}"{% endif %}>
           {% if mimg %}
           <img src="/images/{{ mimg.split('/')[-1] }}" alt="{{ m.name_ja or m.name_en }}" loading="lazy">
           {% else %}
           <span class="chip-ph">👤</span>
           {% endif %}
-          {{ m.name_ja or m.name_en or m.slug }}
+          <span class="chip-name">
+            {%- if m.name_en %}<span class="chip-en">{{ m.name_en }}</span>{% endif %}
+            {%- if m.name_ja %}<span class="chip-ja">{{ m.name_ja }}</span>{% endif %}
+            {%- if not m.name_en and not m.name_ja %}{{ m.slug }}{% endif %}
+          </span>
         </a>
         {% endfor %}
       </div>

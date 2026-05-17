@@ -5,7 +5,7 @@ Base de données personnelle Hello! Project — artistes, releases, collection p
 ## Prérequis
 
 - Python 3.11+
-- Le répertoire `scraper/` peuplé (voir `scraper/README.md` pour lancer le scraper)
+- Le répertoire `scraper/` peuplé (voir `scraper/SCRAPER.md` pour lancer le scraper)
 
 ## Installation
 
@@ -64,16 +64,10 @@ Cela exécute dans l'ordre : artistes → membres → catalogue → détails →
 ## Lancer le serveur web
 
 ```powershell
-uvicorn webapp.main:app --reload
+run-debug.bat   # uvicorn --reload sur le port 8001
 ```
 
-Ouvre ensuite [http://127.0.0.1:8000](http://127.0.0.1:8000).
-
-Pour changer le port :
-
-```powershell
-uvicorn webapp.main:app --reload --port 8001
-```
+Ouvre ensuite [http://127.0.0.1:8001](http://127.0.0.1:8001).
 
 ## Scanner les ISOs du NAS
 

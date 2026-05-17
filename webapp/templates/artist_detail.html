@@ -7,12 +7,23 @@
 {% set details = extra.get('details', {}) %}
 {% set color = extra.get('color', {}) %}
 
-<h1>{{ artist.name_ja or artist.name_en or artist.slug }}</h1>
+<h1>{% if artist.name_en and artist.name_ja %}{{ artist.name_en }} <span style="font-weight:400;color:#aaa">{{ artist.name_ja }}</span>{% else %}{{ artist.name_ja or artist.name_en or artist.slug }}{% endif %}</h1>
 
 <div class="release-detail">
   <div class="cover">
     {% if images %}
-    <img src="/images/{{ images[0].split('/')[-1] }}" alt="{{ artist.name_ja }}" style="border-radius:8px">
+    {% set cover_src = '/images/' ~ images[0].split('/')[-1] %}
+    <a href="{{ cover_src }}" target="_blank">
+      <img src="{{ cover_src }}" alt="{{ artist.name_ja }}" style="border-radius:8px">
+    </a>
+    {% if images|length > 1 %}
+    <div class="gallery" style="margin-top:12px">
+      {% for img in images[1:5] %}
+      {% set src = '/images/' ~ img.split('/')[-1] %}
+      <a href="{{ src }}" target="_blank"><img src="{{ src }}" alt="" loading="lazy"></a>
+      {% endfor %}
+    </div>
+    {% endif %}
     {% endif %}
   </div>
   <div class="info">
@@ -74,6 +85,18 @@
 </div>
 {% else %}
 <p style="color:#555;margin-top:24px">No releases linked to this artist.</p>
+{% endif %}
+
+{% if images|length > 1 %}
+<h2>Photos ({{ images|length }})</h2>
+<div class="grid">
+  {% for img in images %}
+  {% set src = '/images/' ~ img.split('/')[-1] %}
+  <a href="{{ src }}" target="_blank" class="card" style="padding:0;overflow:hidden">
+    <img src="{{ src }}" alt="" loading="lazy" style="width:100%;height:100%;object-fit:cover;display:block">
+  </a>
+  {% endfor %}
+</div>
 {% endif %}
 
 {% endblock %}
