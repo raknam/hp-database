@@ -1850,10 +1850,11 @@ def cmd_consolidate(args):
                 if DEBUG:
                     print(f"  {slug}: absorbed images from alias '{alias}'")
 
-        # Apply manual overrides (highest priority)
+        # Apply manual overrides (highest priority, skip internal _ keys)
         if slug in manual:
             for k, v in manual[slug].items():
-                result[k] = v
+                if not k.startswith("_"):
+                    result[k] = v
             if DEBUG:
                 print(f"  {slug}: manual overrides applied ({list(manual[slug].keys())})")
 
@@ -1869,6 +1870,81 @@ def cmd_consolidate(args):
         merged_count += 1
         if DEBUG:
             print(f"  {slug} -> {out_file} (sources: {result['sources']})")
+
+    # Second pass: UFW-only soloists listed in manual.json with _ufw_solo: true
+    ufw_soloists = [
+        slug for slug, v in manual.items()
+        if v.get("_ufw_solo") and not v.get("_merge_into")
+    ]
+    for slug in sorted(ufw_soloists):
+        if slug_filter and slug != slug_filter:
+            continue
+
+        # Already handled by html pass above
+        html_path = STAGING_HTML_DIR / f"{slug}.json" if STAGING_HTML_DIR.exists() else None
+        if html_path and html_path.exists():
+            continue
+
+        ufw_path = STAGING_UFW_DIR / f"{slug}.json" if STAGING_UFW_DIR.exists() else None
+        if not ufw_path or not ufw_path.exists():
+            print(f"  {slug}: _ufw_solo=true but staging/upfront/{slug}.json not found, skipping")
+            continue
+
+        ufw_data = json.loads(ufw_path.read_text(encoding="utf-8"))
+        member_id = ufw_data.get("id") or slug_to_id("ufw:" + slug)
+        out_file = MEMBERS_DIR / f"{member_id}.json"
+
+        if out_file.exists():
+            existing = json.loads(out_file.read_text(encoding="utf-8"))
+            if not existing.get("has_grad") and not args.force:
+                if DEBUG:
+                    print(f"  {slug}: current member file exists, skipping")
+                continue
+
+        result: dict = {
+            "id":      member_id,
+            "url":     ufw_data.get("url", f"/artist/{slug}/"),
+            "slug":    slug,
+            "nameJa":  ufw_data.get("nameJa") or "",
+            "has_grad": True,
+            "sources": ["upfront"],
+        }
+        if ufw_data.get("bio"):
+            result["bio"] = ufw_data["bio"]
+
+        seen_imgs: set[str] = set()
+        for img in ufw_data.get("images", []):
+            name = Path(img).name
+            if name not in seen_imgs:
+                seen_imgs.add(name)
+                result.setdefault("images", []).append(img)
+
+        # Also absorb pre-html if present
+        pre_path = STAGING_PRE_DIR / f"{slug}.json" if STAGING_PRE_DIR.exists() else None
+        if pre_path and pre_path.exists():
+            pre_data = json.loads(pre_path.read_text(encoding="utf-8"))
+            result["sources"].append("pre-html")
+            if not result["nameJa"] and pre_data.get("nameJa"):
+                result["nameJa"] = pre_data["nameJa"]
+            if not result.get("nameKana") and pre_data.get("nameKana"):
+                result["nameKana"] = pre_data["nameKana"]
+            details: dict = dict(pre_data.get("details", {}))
+            for img in pre_data.get("images", []):
+                name = Path(img).name
+                if name not in seen_imgs:
+                    seen_imgs.add(name)
+                    result.setdefault("images", []).append(img)
+            if details:
+                result["details"] = details
+
+        # Apply manual overrides (skip internal _ keys)
+        for k, v in manual.get(slug, {}).items():
+            if not k.startswith("_"):
+                result[k] = v
+
+        out_file.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
+        merged_count += 1
+        print(f"  {slug}: written to {out_file} (UFW solo, sources: {result['sources']})")
 
     print(f"Consolidated {merged_count} member(s)")
 

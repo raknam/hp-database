@@ -10,7 +10,8 @@
   },
   "airi_suzuki": {
     "_nameJa": "鈴木愛理",
-    "nameEn": "Airi Suzuki"
+    "nameEn": "Airi Suzuki",
+    "_ufw_solo": true
   },
   "akane_haga": {
     "_nameJa": "羽賀朱音",
@@ -22,7 +23,8 @@
   },
   "akari_takeuchi": {
     "_nameJa": "竹内朱莉",
-    "nameEn": "Akari Takeuchi"
+    "nameEn": "Akari Takeuchi",
+    "_ufw_solo": true
   },
   "akari_uemura": {
     "_nameJa": "植村あかり",
@@ -226,11 +228,17 @@
   },
   "karinn_miyamoto": {
     "_nameJa": "宮本佳林",
-    "nameEn": "Karin Miyamoto"
+    "nameEn": "Karin Miyamoto",
+    "_ufw_solo": true
   },
   "kiki_asakura": {
     "_nameJa": "浅倉樹々",
     "nameEn": "Kiki Asakura"
+  },
+  "you_kikkawa": {
+    "_nameJa": "吉川友",
+    "nameEn": "Kikkawa You",
+    "_ufw_solo": true
   },
   "kirara_yonemura": {
     "_nameJa": "米村姫良々",
@@ -276,9 +284,6 @@
     "_nameJa": "伊勢鈴蘭",
     "nameEn": "Layla Ise"
   },
-  "rayla_ise": {
-    "_merge_into": "layla_ise"
-  },
   "maasa_sudou": {
     "_nameJa": "須藤茉麻",
     "nameEn": "Maasa Sudo"
@@ -300,14 +305,17 @@
   },
   "mai_ozeki": {
     "_nameJa": "小関舞",
-    "nameEn": "Mai Ozeki"
+    "nameEn": "Mai Ozeki",
+    "_ufw_solo": true
   },
   "maimi_yajima": {
     "_nameJa": "矢島舞美",
-    "nameEn": "Maimi Yajima"
+    "nameEn": "Maimi Yajima",
+    "_ufw_solo": true
   },
   "manaka_inaba": {
     "_nameJa": "稲場愛香",
+    "_ufw_solo": true,
     "nameEn": "Manaka Inaba"
   },
   "mano_otsubo": {
@@ -336,7 +344,8 @@
   },
   "masaki_satou": {
     "_nameJa": "佐藤優樹",
-    "nameEn": "Masaki Sato"
+    "nameEn": "Masaki Sato",
+    "_ufw_solo": true
   },
   "mei_kusunoki": {
     "_nameJa": "楠萌生",
@@ -396,7 +405,8 @@
   },
   "mizuki_fukumura": {
     "_nameJa": "譜久村聖",
-    "nameEn": "Mizuki Fukumura"
+    "nameEn": "Mizuki Fukumura",
+    "_ufw_solo": true
   },
   "mizuki_kanatu": {
     "_nameJa": "金津美月",
@@ -429,6 +439,10 @@
   "momoka_kishida": {
     "_nameJa": "岸田桃果",
     "nameEn": "Momoka Kishida"
+  },
+  "momoko_shimano": {
+    "_nameJa": "島野萌々子",
+    "nameEn": "Momoko Shimano"
   },
   "momoko_tsugunaga": {
     "_nameJa": "嗣永桃子",
@@ -476,6 +490,9 @@
   },
   "onoda_saori": {
     "_merge_into": "saori_onoda"
+  },
+  "rayla_ise": {
+    "_merge_into": "layla_ise"
   },
   "rei_inoue": {
     "_nameJa": "井上玲音",
@@ -608,7 +625,8 @@
   },
   "saki_nakajima": {
     "_nameJa": "中島早貴",
-    "nameEn": "Saki Nakajima"
+    "nameEn": "Saki Nakajima",
+    "_ufw_solo": true
   },
   "saki_shimizu": {
     "_nameJa": "清水佐紀",
@@ -657,10 +675,6 @@
   "shiharu_saeki": {
     "_nameJa": "佐伯詩春",
     "nameEn": "Shiharu Saeki"
-  },
-  "momoko_shimano": {
-    "_nameJa": "島野萌々子",
-    "nameEn": "Momoko Shimano"
   },
   "shimano_momoko": {
     "_merge_into": "momoko_shimano"
