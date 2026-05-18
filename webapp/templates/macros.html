@@ -1,0 +1,7 @@
+{% macro fmt_format(f) %}{% if f == 'cd_8cm' %}CD 8cm{% elif f %}{{ f | upper }}{% endif %}{% endmacro %}
+
+{% macro release_type_badge(r) %}
+{% if r.release_type %}
+<span class="badge badge-{{ r.release_type }}">{{ r.release_type | replace('_', ' ') | title }}{% if r.release_format %}/{{ fmt_format(r.release_format) }}{% endif %}</span>
+{% endif %}
+{% endmacro %}

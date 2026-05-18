@@ -31,6 +31,42 @@ from db.session import engine
 
 
 # ---------------------------------------------------------------------------
+# Release category → (type, format) mapping
+# ---------------------------------------------------------------------------
+
+_CATEGORY_MAP: dict[str, tuple[str, str | None]] = {
+    "CDシングル":             ("single",    "cd"),
+    "DVDシングルV":           ("single_v",  "dvd"),
+    "VHSシングルV":           ("single_v",  "vhs"),
+    "アナログシングル":       ("single",    "analog"),
+    "配信シングル":           ("single",    "digital"),
+    "BDシングル":             ("single",    "bd"),
+    "カセットテープシングル": ("single",    "tape"),
+    "CDアルバム":             ("album",     "cd"),
+    "CDミニアルバム":         ("mini_album","cd"),
+    "アルバム":               ("album",     "cd"),
+    "ミニアルバム":           ("mini_album","cd"),
+    "アナログアルバム":       ("album",     "analog"),
+    "カセットテープアルバム": ("album",     "tape"),
+    "MDアルバム":             ("album",     "md"),
+    "CDMD":                   ("album",     "md"),
+    "DVD":                    ("video",     "dvd"),
+    "BD":                     ("video",     "bd"),
+    "VHS":                    ("video",     "vhs"),
+    "写真集":                 ("photobook", None),
+    "書籍":                   ("book",      None),
+    "配信":                   ("download",  None),
+}
+
+
+def category_to_type_format(category: str | None) -> tuple[str | None, str | None]:
+    if not category:
+        return None, None
+    t, f = _CATEGORY_MAP.get(category, (None, None))
+    return t, f
+
+
+# ---------------------------------------------------------------------------
 # Helpers
 # ---------------------------------------------------------------------------
 
@@ -465,6 +501,7 @@ def _upsert_release_from_catalogue(session: Session, item: dict, name_map: dict[
     artist_name = _coerce_str(item.get("artist") or item.get("artistName"))
     release.title = _coerce_str(item.get("title")) or ""
     release.category = _coerce_str(item.get("category"))
+    release.release_type, release.release_format = category_to_type_format(release.category)
     release.artist_label_raw = artist_name
     release.artist_id = _lookup_artist(artist_name, name_map)
     release.release_date = parse_date(_coerce_str(item.get("releaseDate")))
@@ -502,6 +539,7 @@ def _upsert_release_detail(session: Session, data: dict, name_map: dict[str, int
     artist_name = _coerce_str(data.get("artist"))
     release.title = _coerce_str(data.get("title")) or ""
     release.category = _coerce_str(data.get("category"))
+    release.release_type, release.release_format = category_to_type_format(release.category)
     release.artist_label_raw = artist_name
     release.artist_id = _lookup_artist(artist_name, name_map)
     release.release_date = parse_date(_coerce_str(data.get("releaseDate")))
@@ -540,6 +578,10 @@ def _upsert_release_detail(session: Session, data: dict, name_map: dict[str, int
 
         session.flush()
         _upsert_discs(session, ed, ed_data.get("discs", []))
+
+    # Refine release_format: use cd_8cm if scraper detected an 8cm single
+    if release.release_format == "cd" and data.get("cd_size") == "8cm":
+        release.release_format = "cd_8cm"
 
     # Delete editions beyond what's in source (preserves collection_items for kept editions)
     for idx, ed in existing_editions.items():

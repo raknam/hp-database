@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% from "macros.html" import release_type_badge %}
 {% block title %}HP Database{% endblock %}
 {% block content %}
 <h1>Hello! Project Database</h1>
@@ -36,7 +37,7 @@
     <div class="card-body">
       <div class="title">{{ r.title }}</div>
       <div class="sub">{{ r.artist_label_raw or '' }}</div>
-      {% if r.category %}<span class="badge">{{ r.category }}</span>{% endif %}
+      {{ release_type_badge(r) }}
     </div>
   </a>
   {% endfor %}

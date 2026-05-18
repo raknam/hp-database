@@ -5,7 +5,44 @@
   "group": "helloprokenshusei",
   "nameJa": "窪田七海",
   "nameKana": "クボタ ナナミ",
-  "images": [],
+  "images": [
+    {
+      "url": "https://web.archive.org/web/20250713155816if_/https://cdn.helloproject.com/img/rotation/38bffa6559c1d5af23ec4d1cbd5603b51b6b12dd.jpg",
+      "ts": "20250713155816"
+    },
+    {
+      "url": "https://web.archive.org/web/20241130163909if_/https://cdn.helloproject.com/img/rotation/be0c1712b47ad61d8f715cf945c13d96e6d244e2.jpg",
+      "ts": "20241130163909"
+    },
+    {
+      "url": "https://web.archive.org/web/20240713192815if_/http://cdn.helloproject.com/img/rotation/be0c1712b47ad61d8f715cf945c13d96e6d244e2.jpg",
+      "ts": "20240713192815"
+    },
+    {
+      "url": "https://web.archive.org/web/20231106031157if_/http://cdn.helloproject.com/img/rotation/be3bf9c885d528e4f65397940ea5f8a5721dbd7c.jpg",
+      "ts": "20231106031157"
+    },
+    {
+      "url": "https://web.archive.org/web/20230612170209if_/http://cdn.helloproject.com/img/rotation/20513a6fa87109a9ccef78a7db80ce3647ba4d19.jpg",
+      "ts": "20230612170209"
+    },
+    {
+      "url": "https://web.archive.org/web/20221003135127if_/http://cdn.helloproject.com/img/rotation/6138d4c072765077a62664078c45db5b9db22664.jpg",
+      "ts": "20221003135127"
+    },
+    {
+      "url": "https://web.archive.org/web/20220622082628if_/http://cdn.helloproject.com/img/rotation/bf7938f1086b2a3ccf7ff2f438399abc8df0d9ee.jpg",
+      "ts": "20220622082628"
+    },
+    {
+      "url": "https://web.archive.org/web/20211224041351if_/http://cdn.helloproject.com/img/rotation/c319884634d34af4119f65b9bbd681f8887b8ca3.jpg",
+      "ts": "20211224041351"
+    },
+    {
+      "url": "https://web.archive.org/web/20211224041351if_/http://cdn.helloproject.com/img/rotation/88bbb3ec33c784ed142b69ec756f89b4f9e1cc12.jpg",
+      "ts": "20211224041351"
+    }
+  ],
   "has_grad": true,
   "sources": [
     "html"

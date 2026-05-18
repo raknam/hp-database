@@ -5,7 +5,16 @@
   "group": "helloprokenshusei",
   "nameJa": "梁川奈々美",
   "nameKana": "ヤナガワ ナナミ",
-  "images": [],
+  "images": [
+    {
+      "url": "https://web.archive.org/web/20150518002901if_/http://cdn.helloproject.com/img/rotation/95ad1c3b04db0a65f052fe9a6238c4eef2274994.jpg",
+      "ts": "20150518002901"
+    },
+    {
+      "url": "https://web.archive.org/web/20150518002901if_/http://cdn.helloproject.com/img/rotation/14aca5dd390440b63c40028c7a991d82b5765e5f.jpg",
+      "ts": "20150518002901"
+    }
+  ],
   "has_grad": true,
   "sources": [
     "html"

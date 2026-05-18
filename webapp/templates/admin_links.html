@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% from "macros.html" import release_type_badge %}
 {% block title %}Release Links – Admin{% endblock %}
 {% block content %}
 <h1>Release Links</h1>
@@ -6,6 +7,7 @@
 <div style="display:flex;gap:24px;flex-wrap:wrap;margin-bottom:24px;align-items:center">
   <form method="get" action="/admin/links">
     <label style="font-size:0.85rem;color:#aaa;display:flex;align-items:center;gap:6px;cursor:pointer">
+      <input type="hidden" name="same_date" value="0">
       <input type="checkbox" name="same_date" value="1" {% if same_date %}checked{% endif %}
              onchange="this.form.submit()">
       Same release date
@@ -13,6 +15,7 @@
   </form>
 
   <form method="post" action="/admin/links/manual" style="display:flex;gap:8px;align-items:center">
+    <input type="hidden" name="same_date" value="{{ '1' if same_date else '0' }}">
     <label style="font-size:0.85rem;color:#aaa;white-space:nowrap">Link manually:</label>
     <input type="text" name="release_ids_raw" placeholder="e.g. 2924 2925"
            style="background:#111;border:1px solid #333;color:#eee;padding:5px 10px;border-radius:4px;font-size:0.85rem;width:180px">
@@ -28,9 +31,12 @@
 
 {% if proposals %}
 <h2>Proposals <span style="color:#555;font-size:0.9rem">({{ proposals|length }})</span></h2>
+{% set _fmt_rank = {'bd': 1, 'dvd': 2, 'cd': 3, 'digital': 4} %}
 {% for cluster in proposals %}
 {% set ids = cluster|map(attribute='id')|list %}
 {% set ids_str = ids|join(',') %}
+{% set ns = namespace(best_id=cluster[0].id, best_rank=99) %}
+{% for r in cluster %}{% set rank = _fmt_rank.get(r.release_format, 99) %}{% if rank < ns.best_rank %}{% set ns.best_rank = rank %}{% set ns.best_id = r.id %}{% endif %}{% endfor %}
 <div class="admin-section" style="margin-bottom:12px">
   <div style="display:flex;gap:20px;flex-wrap:wrap;margin-bottom:12px">
     {% for r in cluster %}
@@ -43,7 +49,7 @@
       {% endif %}
       <div>
         <div style="font-size:0.85rem;font-weight:600"><a href="/release/{{ r.id }}">{{ r.title }}</a></div>
-        <div style="font-size:0.75rem;color:#888">{{ r.category }} — {{ r.release_date }}</div>
+        <div style="font-size:0.75rem;color:#888">{{ r.release_type | replace('_', ' ') | title }}{% if r.release_format %}/{{ 'CD 8cm' if r.release_format == 'cd_8cm' else r.release_format | upper }}{% endif %} — {{ r.release_date }}</div>
       </div>
     </div>
     {% endfor %}
@@ -51,29 +57,21 @@
 
   <form method="post" action="/admin/links/confirm" style="display:flex;gap:10px;flex-wrap:wrap;align-items:center">
     <input type="hidden" name="release_ids" value="{{ ids_str }}">
-    {% for r in cluster %}
-    <label style="font-size:0.82rem;color:#aaa">
-      {{ r.category }}
-      <input type="text" name="format_labels_{{ r.id }}" value="{{ r.category or '' }}"
-             style="width:70px;margin-left:4px">
-    </label>
-    {% endfor %}
-    <input type="hidden" name="format_labels" id="fl_{{ ids_str }}">
+    <input type="hidden" name="format_labels" value="{% for r in cluster %}{% if not loop.first %},{% endif %}{{ r.release_type | replace('_', ' ') | title }}{% if r.release_format %}/{{ 'CD 8cm' if r.release_format == 'cd_8cm' else r.release_format | upper }}{% endif %}{% endfor %}">
+    <input type="hidden" name="same_date" value="{{ '1' if same_date else '0' }}">
     <label style="font-size:0.82rem;color:#aaa">Primary:
       <select name="primary_id" style="margin-left:4px">
         {% for r in cluster %}
-        <option value="{{ r.id }}">{{ r.category }}</option>
+        <option value="{{ r.id }}"{% if r.id == ns.best_id %} selected{% endif %}>{{ r.release_type | replace('_', ' ') | title }}{% if r.release_format %}/{{ 'CD 8cm' if r.release_format == 'cd_8cm' else r.release_format | upper }}{% endif %}</option>
         {% endfor %}
       </select>
     </label>
-    <button type="submit" class="btn-primary"
-            onclick="document.getElementById('fl_{{ ids_str }}').value=[...this.form.querySelectorAll('[name^=format_labels_]')].map(i=>i.value).join(',')">
-      Confirm
-    </button>
+    <button type="submit" class="btn-primary">Confirm</button>
   </form>
 
   <form method="post" action="/admin/links/dismiss" style="margin-top:8px">
     <input type="hidden" name="release_ids" value="{{ ids_str }}">
+    <input type="hidden" name="same_date" value="{{ '1' if same_date else '0' }}">
     <button type="submit" style="background:none;border:none;color:#555;font-size:0.8rem;cursor:pointer">✕ Dismiss</button>
   </form>
 </div>
@@ -97,7 +95,7 @@
           <div style="font-size:0.82rem{% if m.is_primary %};font-weight:700{% endif %}">
             <a href="/release/{{ m.release.id }}">{{ m.release.title }}</a>
           </div>
-          <div style="font-size:0.75rem;color:#888">{{ m.format_label or m.release.category }}</div>
+          <div style="font-size:0.75rem;color:#888">{% set rt = m.release %}{{ m.format_label or (rt.release_type | replace('_', ' ') | title ~ ('/' ~ ('CD 8cm' if rt.release_format == 'cd_8cm' else rt.release_format | upper) if rt.release_format else '')) }}</div>
         </div>
       </div>
       {% endfor %}
@@ -124,7 +122,7 @@
     {% for r in item.releases %}
     <span style="font-size:0.82rem;color:#666">
       <a href="/release/{{ r.id }}" style="color:#666">{{ r.title }}</a>
-      <span style="color:#444">({{ r.category }})</span>
+      <span style="color:#444">({{ r.release_type | replace('_', ' ') | title }}{% if r.release_format %}/{{ 'CD 8cm' if r.release_format == 'cd_8cm' else r.release_format | upper }}{% endif %})</span>
     </span>
     {% endfor %}
   </div>

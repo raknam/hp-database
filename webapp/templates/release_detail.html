@@ -29,8 +29,8 @@
       {% elif release.artist_label_raw %}
       <tr><td>Artist</td><td>{{ release.artist_label_raw }}</td></tr>
       {% endif %}
-      {% if release.category %}
-      <tr><td>Category</td><td>{{ release.category }}</td></tr>
+      {% if release.release_type %}
+      <tr><td>Type</td><td>{{ release.release_type | replace('_', ' ') | title }}{% if release.release_format %}/{{ 'CD 8cm' if release.release_format == 'cd_8cm' else release.release_format | upper }}{% endif %}</td></tr>
       {% endif %}
       {% if release.release_date %}
       <tr><td>Release date</td><td>{{ release.release_date }}</td></tr>

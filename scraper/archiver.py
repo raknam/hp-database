@@ -400,7 +400,7 @@ def save_barcodes(data: dict[str, dict]):
 
 
 def cmd_enrich_images(args):
-    """Merge Wayback historical images into current member profiles (no has_grad)."""
+    """Merge Wayback historical images into member profiles (current and graduated)."""
     cdx_idx = load_cdx_index()
 
     targets = []
@@ -408,7 +408,7 @@ def cmd_enrich_images(args):
         if not re.fullmatch(r"\d+", p.stem):
             continue
         d = json.loads(p.read_text(encoding="utf-8"))
-        if not isinstance(d, dict) or d.get("has_grad") or d.get("source") == "upfront":
+        if not isinstance(d, dict) or d.get("source") == "upfront":
             continue
         slug_url = d.get("url", "")
         m = re.match(r'^/([^/]+)/(?:profile/)?([^/]+)/?$', slug_url)
@@ -744,6 +744,7 @@ def parse_member_profile_v1(html: str) -> dict:
         ]
 
     return result
+
 
 
 # ---------------------------------------------------------------------------
@@ -2055,6 +2056,7 @@ def cmd_consolidate(args):
     print(f"Updated {ARTIST_REGISTRY_FILE}")
 
 
+
 # ---------------------------------------------------------------------------
 # Entry point
 # ---------------------------------------------------------------------------
@@ -2078,8 +2080,9 @@ def main():
     p_fetch = sub.add_parser("fetch", help="Phase 2: scrape profiles or release pages")
     p_fetch.add_argument("--source",  help="Source site: helloproject, upfront")
     p_fetch.add_argument("--era",     help="(helloproject) Filter by era: html, pre-html")
-    p_fetch.add_argument("--slug",    help="Fetch a single artist/member by slug")
+    p_fetch.add_argument("--slug",    help="Fetch a single artist/member/group by slug")
     p_fetch.add_argument("--group",   help="(helloproject) Fetch all former members of a group")
+    p_fetch.add_argument("--groups",  action="store_true", help="Fetch group pages from Wayback instead of member profiles")
     p_fetch.add_argument("--catalog", help="(upfront) Fetch a single release by catalog code")
     p_fetch.add_argument("--artists", action="store_true", help="(upfront) Fetch artists instead of releases")
     p_fetch.add_argument("--force",   action="store_true", help="Re-fetch even if cached")
@@ -2097,9 +2100,10 @@ def main():
     p_cdx.add_argument("--group", help="Restrict to one group slug")
     p_cdx.add_argument("--force", action="store_true", help="Rebuild index even if already present")
 
-    p_con = sub.add_parser("consolidate", help="Merge staging data into members/<id>.json")
-    p_con.add_argument("--slug",  help="Consolidate a single member by slug")
-    p_con.add_argument("--force", action="store_true", help="Overwrite even if target exists")
+    p_con = sub.add_parser("consolidate", help="Merge staging data into members/<id>.json or groups/<id>.json")
+    p_con.add_argument("--slug",   help="Consolidate a single member/group by slug")
+    p_con.add_argument("--groups", action="store_true", help="Consolidate groups instead of members")
+    p_con.add_argument("--force",  action="store_true", help="Overwrite even if target exists")
 
     args = parser.parse_args()
     global DEBUG

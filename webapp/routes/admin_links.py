@@ -65,7 +65,7 @@ def _proposals(db: Session, same_date: bool = True) -> list[list[Release]]:
     result = []
     for releases in clusters.values():
         key = ",".join(str(r.id) for r in sorted(releases, key=lambda x: x.id))
-        if key not in dismissed_keys:
+        if key not in dismissed_keys and len(releases) > 1:
             result.append(releases)
     result.sort(key=lambda rs: max(r.release_date for r in rs if r.release_date) if any(r.release_date for r in rs) else "0", reverse=True)
     return result
@@ -118,37 +118,40 @@ def confirm_proposal(
     release_ids: str = Form(...),
     format_labels: str = Form(...),
     primary_id: int = Form(...),
+    same_date: int = Form(0),
     db: Session = Depends(get_db),
 ):
     ids = [int(i) for i in release_ids.split(",")]
     labels = dict(zip([str(i) for i in ids], format_labels.split(",")))
     _create_link(db, ids, labels, primary_id)
-    return RedirectResponse("/admin/links", status_code=303)
+    return RedirectResponse(f"/admin/links?same_date={same_date}", status_code=303)
 
 
 @router.post("/manual")
 def manual_link(
     release_ids_raw: str = Form(...),
+    same_date: int = Form(0),
     db: Session = Depends(get_db),
 ):
     ids = [int(i) for i in re.split(r"[\s,]+", release_ids_raw.strip()) if i.isdigit()]
     if len(ids) < 2:
-        return RedirectResponse("/admin/links?error=need_2", status_code=303)
+        return RedirectResponse(f"/admin/links?same_date={same_date}&error=need_2", status_code=303)
     releases = db.execute(
         select(Release).where(Release.id.in_(ids))
         .options(selectinload(Release.group_member))
     ).scalars().all()
     ids = [r.id for r in releases if not r.group_member]
     if len(ids) < 2:
-        return RedirectResponse("/admin/links?error=already_linked", status_code=303)
-    labels = {str(r.id): (r.category or "") for r in releases}
+        return RedirectResponse(f"/admin/links?same_date={same_date}&error=already_linked", status_code=303)
+    labels = {str(r.id): (r.release_type or "") for r in releases}
     _create_link(db, ids, labels, ids[0])
-    return RedirectResponse("/admin/links", status_code=303)
+    return RedirectResponse(f"/admin/links?same_date={same_date}", status_code=303)
 
 
 @router.post("/dismiss")
 def dismiss_proposal(
     release_ids: str = Form(...),
+    same_date: int = Form(0),
     db: Session = Depends(get_db),
 ):
     key = ",".join(str(i) for i in sorted(int(i) for i in release_ids.split(",")))
@@ -157,22 +160,24 @@ def dismiss_proposal(
     ).scalar_one_or_none():
         db.add(ReleaseGroupDismissal(release_ids_key=key))
         db.commit()
-    return RedirectResponse("/admin/links", status_code=303)
+    return RedirectResponse(f"/admin/links?same_date={same_date}", status_code=303)
 
 
 @router.post("/dismissal/{dismissal_id}/restore")
-def restore_dismissal(dismissal_id: int, db: Session = Depends(get_db)):
+def restore_dismissal(dismissal_id: int, request: Request, db: Session = Depends(get_db)):
     d = db.get(ReleaseGroupDismissal, dismissal_id)
     if d:
         db.delete(d)
         db.commit()
-    return RedirectResponse("/admin/links", status_code=303)
+    same_date = request.query_params.get("same_date", "0")
+    return RedirectResponse(f"/admin/links?same_date={same_date}", status_code=303)
 
 
 @router.post("/{link_id}/delete")
-def delete_link(link_id: int, db: Session = Depends(get_db)):
+def delete_link(link_id: int, request: Request, db: Session = Depends(get_db)):
     link = db.get(ReleaseGroup, link_id)
     if link:
         db.delete(link)
         db.commit()
-    return RedirectResponse("/admin/links", status_code=303)
+    same_date = request.query_params.get("same_date", "0")
+    return RedirectResponse(f"/admin/links?same_date={same_date}", status_code=303)

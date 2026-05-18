@@ -3,28 +3,29 @@
 {% block content %}
 <h1>Releases <span style="color:#555;font-size:1rem">({{ total }})</span></h1>
 
-<form class="filter-bar" method="get" action="/releases">
-  <select name="year">
+<form class="filter-bar" method="get" action="/releases" id="releases-filter">
+  <select name="year" onchange="this.form.submit()">
     <option value="">All years</option>
     {% for y in years %}
     <option value="{{ y }}" {% if filter_year == y|int %}selected{% endif %}>{{ y }}</option>
     {% endfor %}
   </select>
-  <select name="category">
-    <option value="">All categories</option>
+  <select name="category" onchange="this.form.submit()">
+    <option value="">All types</option>
     {% for c in categories %}
-    <option value="{{ c }}" {% if filter_category == c %}selected{% endif %}>{{ c }}</option>
+    <option value="{{ c }}" {% if filter_category == c %}selected{% endif %}>{{ c | replace('_', ' ') | title }}</option>
     {% endfor %}
   </select>
   <label>
-    <input type="checkbox" name="owned" value="true" {% if filter_owned %}checked{% endif %}>
+    <input type="hidden" name="owned" value="">
+    <input type="checkbox" name="owned" value="true" {% if filter_owned %}checked{% endif %} onchange="this.form.submit()">
     Owned only
   </label>
   <label>
-    <input type="checkbox" name="expand_links" value="true" {% if filter_expand_links %}checked{% endif %}>
+    <input type="hidden" name="expand_links" value="">
+    <input type="checkbox" name="expand_links" value="true" {% if filter_expand_links %}checked{% endif %} onchange="this.form.submit()">
     Show all formats
   </label>
-  <button type="submit">Filter</button>
   {% if filter_year or filter_category or filter_artist or filter_owned or filter_expand_links %}
   <a href="/releases" style="color:#888;font-size:0.85rem">✕ Clear</a>
   {% endif %}

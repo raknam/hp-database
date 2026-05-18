@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% from "macros.html" import release_type_badge %}
 {% block title %}{% if q %}Search: {{ q }}{% else %}Search{% endif %} – HP Database{% endblock %}
 {% block content %}
 <h1>{% if q %}Search: "{{ q }}"{% else %}Search{% endif %}</h1>
@@ -33,7 +34,7 @@
     </a>
     <div>
       <div><a href="/release/{{ r.id }}">{{ r.title }}</a>
-        {% if r.category %}<span class="tag">{{ r.category }}</span>{% endif %}
+        {{ release_type_badge(r) }}
       </div>
       <div style="color:#888;font-size:0.82rem">
         {{ r.artist_label_raw or (r.artist.name_ja if r.artist else '') }}

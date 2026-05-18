@@ -61,6 +61,8 @@ class Release(Base):
     external_id: Mapped[Optional[str]] = mapped_column(String(50), nullable=True)
     title: Mapped[str] = mapped_column(String(500))
     category: Mapped[Optional[str]] = mapped_column(String(100), nullable=True)
+    release_type: Mapped[Optional[str]] = mapped_column(String(50), nullable=True, index=True)
+    release_format: Mapped[Optional[str]] = mapped_column(String(50), nullable=True)
     artist_id: Mapped[Optional[int]] = mapped_column(Integer, ForeignKey("artists.id"), nullable=True)
     artist_label_raw: Mapped[Optional[str]] = mapped_column(String(300), nullable=True)
     release_date: Mapped[Optional[date]] = mapped_column(Date, nullable=True)

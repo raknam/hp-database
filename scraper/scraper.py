@@ -223,6 +223,14 @@ def parse_release_html(release_id: int, html: str) -> dict:
 
     editions = [parse_edition(div) for div in soup.select(".ReleaseEdition")]
 
+    _8CM_PREFIXES = ("EPDE-", "EPDA-")
+    cd_size = "8cm" if any(
+        disc.get("catalogNo", "").startswith(_8CM_PREFIXES)
+        for ed in editions
+        for disc in ed.get("discs", [])
+        if disc.get("type") == "CD"
+    ) else None
+
     result = {
         "id": release_id,
         "url": f"/release/{release_id}/",
@@ -234,6 +242,8 @@ def parse_release_html(release_id: int, html: str) -> dict:
         "images": gallery,
         "editions": editions,
     }
+    if cd_size:
+        result["cd_size"] = cd_size
     if header_catalog_no:
         result["catalogNo"] = header_catalog_no
     if isbn:

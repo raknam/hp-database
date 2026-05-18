@@ -5,7 +5,16 @@
   "group": "helloprokenshusei",
   "nameJa": "山木梨沙",
   "nameKana": "ヤマキ リサ",
-  "images": [],
+  "images": [
+    {
+      "url": "https://web.archive.org/web/20140424020245if_/http://cdn.helloproject.com/img/rotation/3aae2a923f661a4d15db230235def91ced34551d.jpg",
+      "ts": "20140424020245"
+    },
+    {
+      "url": "https://web.archive.org/web/20140424020245if_/http://cdn.helloproject.com/img/rotation/73dcb129cb069e6efe6dead683544a8d36a9774b.jpg",
+      "ts": "20140424020245"
+    }
+  ],
   "has_grad": true,
   "sources": [
     "html"

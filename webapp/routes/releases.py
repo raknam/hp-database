@@ -32,7 +32,7 @@ def releases_list(
         from sqlalchemy import extract
         q = q.where(extract("year", Release.release_date) == year_int)
     if category:
-        q = q.where(Release.category == category)
+        q = q.where(Release.release_type == category)
     if artist:
         q = q.join(Artist, Release.artist_id == Artist.id).where(
             (Artist.name_ja == artist) | (Artist.name_en == artist)
@@ -83,14 +83,16 @@ def releases_list(
             selectinload(Release.artist),
             selectinload(Release.group_member)
                 .selectinload(ReleaseGroupMember.group)
-                .selectinload(ReleaseGroup.members),
+                .selectinload(ReleaseGroup.members)
+                .selectinload(ReleaseGroupMember.release)
+                .selectinload(Release.images),
         )
     ).scalars().all()
 
     # Available filter values
     categories = [
         r[0] for r in db.execute(
-            select(Release.category).distinct().where(Release.category.isnot(None)).order_by(Release.category)
+            select(Release.release_type).distinct().where(Release.release_type.isnot(None)).order_by(Release.release_type)
         ).all()
     ]
     years = [

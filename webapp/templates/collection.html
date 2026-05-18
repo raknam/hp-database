@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% from "macros.html" import release_type_badge %}
 {% block title %}Collection – HP Database{% endblock %}
 {% block content %}
 <h1>My Collection <span style="color:#555;font-size:1rem">({{ items|length }} editions)</span></h1>
@@ -19,7 +20,7 @@
       <div class="title">{{ r.title }}</div>
       <div class="sub">{{ r.artist_label_raw or (r.artist.name_ja if r.artist else '') }}</div>
       {% if ed.name %}<span class="badge">{{ ed.name }}</span>{% endif %}
-      {% if r.category %}<span class="badge">{{ r.category }}</span>{% endif %}
+      {{ release_type_badge(r) }}
       <div style="margin-top:6px"><span class="owned-badge">✓ Owned</span></div>
     </div>
   </a>
