@@ -194,11 +194,13 @@ def import_artists(session: Session, artist_list: dict) -> dict[str, int]:
         if isinstance(imgs, list):
             return [{"url": u, "ts": import_ts} for u in imgs if isinstance(u, str)]
         urls: list[str] = []
+        seen: set[str] = set()
         for item in imgs.get("profile", []):
-            if isinstance(item, dict) and item.get("url"):
+            if isinstance(item, dict) and item.get("url") and item["url"] not in seen:
+                seen.add(item["url"])
                 urls.append(item["url"])
         thumb = imgs.get("thumbnail", {})
-        if isinstance(thumb, dict) and thumb.get("url"):
+        if isinstance(thumb, dict) and thumb.get("url") and thumb["url"] not in seen:
             urls.append(thumb["url"])
         return [{"url": u, "ts": import_ts} for u in urls]
 
