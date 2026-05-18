@@ -94,11 +94,11 @@
 
       {% for disc in ed.discs %}
       <div class="disc-label">
-        <span>{{ disc.disc_type or 'DISC' }}{% if disc.catalog_no %} · {{ disc.catalog_no }}{% endif %}</span>
+        <span>{{ disc.disc_type or 'DISC' }}{% if disc.catalog_no %} · {{ disc.catalog_no }}{% endif %}{% if disc.jan %} · <span style="color:#666;font-size:0.72rem;letter-spacing:0.03em">{{ disc.jan }}</span>{% endif %}</span>
         {% if disc.iso_files %}
         <span>
           {% for iso in disc.iso_files %}
-          <a href="{{ iso.nas_path | vlc_href }}" class="iso-link">📀 {{ iso.format|upper }} ↗</a>
+          <a href="{{ iso.nas_path | vlc_href(disc.disc_type) }}" class="iso-link">📀 {{ iso.format|upper }} ↗</a>
           {% endfor %}
         </span>
         {% endif %}

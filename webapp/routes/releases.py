@@ -18,12 +18,14 @@ def releases_list(
     year: str | None = None,
     category: str | None = None,
     artist: str | None = None,
-    owned: bool = False,
-    expand_links: bool = False,
+    owned: str | None = None,
+    expand_links: str | None = None,
     page: int = 1,
     hx_request: str | None = None,
 ):
     PAGE_SIZE = 60
+    owned_bool = owned not in (None, "", "false", "0")
+    expand_links_bool = expand_links not in (None, "", "false", "0")
 
     q = select(Release).order_by(Release.release_date.desc().nullslast(), Release.id.desc())
 
@@ -37,7 +39,7 @@ def releases_list(
         q = q.join(Artist, Release.artist_id == Artist.id).where(
             (Artist.name_ja == artist) | (Artist.name_en == artist)
         )
-    if owned:
+    if owned_bool:
         q = (
             q.join(Edition, Edition.release_id == Release.id)
             .join(CollectionItem, CollectionItem.edition_id == Edition.id)
@@ -45,7 +47,7 @@ def releases_list(
             .distinct()
         )
 
-    if not expand_links:
+    if not expand_links_bool:
         RGM1 = aliased(ReleaseGroupMember, name="rgm1")
         RGM2 = aliased(ReleaseGroupMember, name="rgm2")
         has_primary = exists(
@@ -114,8 +116,8 @@ def releases_list(
         "filter_year": year_int,
         "filter_category": category,
         "filter_artist": artist,
-        "filter_owned": owned,
-        "filter_expand_links": expand_links,
+        "filter_owned": owned_bool,
+        "filter_expand_links": expand_links_bool,
         "categories": categories,
         "years": years,
     }

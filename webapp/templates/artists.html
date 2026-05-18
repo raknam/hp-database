@@ -24,16 +24,55 @@
 {% endmacro %}
 
 {% if groups %}
+<div class="filter-bar" style="margin-bottom:16px;">
+  <label style="font-size:0.85rem;color:#aaa;display:flex;align-items:center;gap:6px;cursor:pointer;">
+    <input type="checkbox" id="toggle-grad"> Afficher les diplômés
+  </label>
+</div>
 <div class="group-grid">
   {% for g in groups %}
   {% set artist = g.artist %}
   {% set extra = artist.extra or {} %}
   {% set images = extra.get('images', []) %}
-  {% set thumb = images[0] if images else none %}
-  <div class="group-card">
+  {% set thumb_raw = images[0] if images else none %}
+  {% set img_override = g.image_override %}
+
+  {% if g.display_hint == 'agency' %}
+  {# Agency / label — full-width section, artist mini-cards #}
+  <div class="agency-section">
+    <a href="/artists/{{ artist.slug or artist.id }}" class="agency-section-title">
+      {{ artist.name_ja or artist.name_en or artist.slug }}
+    </a>
+    <div class="agency-artist-grid">
+      {% for m in g.direct_members + g.graduated %}
+      {% set mex = m.extra or {} %}
+      {% set mimg = mex.get('images', [None])[0] %}
+      <a href="/artists/{{ m.slug or m.id }}" class="agency-artist-card">
+        {% if mimg %}
+        {% set mimg_url = mimg.url if mimg is mapping else mimg %}
+        <img src="/images/{{ mimg_url.split('/')[-1] }}" alt="{{ m.name_ja or m.name_en }}" loading="lazy">
+        {% else %}
+        <div class="no-img">👤</div>
+        {% endif %}
+        <div class="aac-name">
+          {%- if m.name_ja %}<span class="aac-ja">{{ m.name_ja }}</span>{% endif %}
+          {%- if m.name_en %}<span class="aac-en">{{ m.name_en }}</span>{% endif %}
+          {%- if not m.name_ja and not m.name_en %}{{ m.slug }}{% endif %}
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+
+  {% else %}
+  {# Normal group card #}
+  {% set has_active = g.direct_members or g.units | selectattr('members') | list %}
+  <div class="group-card{% if not has_active %} group-card--grad-only{% endif %}">
     <a href="/artists/{{ artist.slug or artist.id }}" class="group-card-banner">
-      {% if thumb %}
-      {% set thumb_url = thumb.url if thumb is mapping else thumb %}
+      {% if img_override %}
+      <img src="/images/{{ img_override }}" alt="{{ artist.name_ja or artist.name_en }}" loading="lazy">
+      {% elif thumb_raw %}
+      {% set thumb_url = thumb_raw.url if thumb_raw is mapping else thumb_raw %}
       <img src="/images/{{ thumb_url.split('/')[-1] }}" alt="{{ artist.name_ja or artist.name_en }}" loading="lazy">
       {% endif %}
       <span class="group-card-name">{{ artist.name_ja or artist.name_en or artist.slug }}</span>
@@ -54,7 +93,7 @@
       </div>
       {% endif %}
       {% if g.graduated %}
-      <div class="subunit-block">
+      <div class="subunit-block subunit-block--grad">
         <div class="subunit-label">卒業生</div>
         <div class="group-card-members">
           {% for m in g.graduated %}{{ member_chip(m, graded=true) }}{% endfor %}
@@ -63,9 +102,23 @@
       {% endif %}
     </div>
   </div>
+  {% endif %}
   {% endfor %}
 </div>
 {% else %}
 <p class="no-data">No artist data — run <code>py -m importer.import_scraper --artists --members</code></p>
 {% endif %}
+<script>
+(function () {
+  var cb = document.getElementById('toggle-grad');
+  if (!cb) return;
+  var show = localStorage.getItem('show-grad') === 'true';
+  cb.checked = show;
+  document.body.classList.toggle('hide-grad', !show);
+  cb.addEventListener('change', function () {
+    localStorage.setItem('show-grad', cb.checked);
+    document.body.classList.toggle('hide-grad', !cb.checked);
+  });
+})();
+</script>
 {% endblock %}

@@ -103,6 +103,22 @@ h2 { font-size: 1.2rem; margin: 24px 0 12px; color: #ccc; }
 .member-chip--colored { background: var(--chip-color); color: oklch(from var(--chip-color) clamp(0, calc((0.5 - l) * 999), 1) 0 0); }
 .member-chip--colored:hover { background: color-mix(in oklch, var(--chip-color) 80%, white); color: oklch(from var(--chip-color) clamp(0, calc((0.5 - l) * 999), 1) 0 0); }
 .member-chip--grad { opacity: 0.5; }
+/* Agency section (label/agency display — full width, artist mini-cards) */
+.agency-section { grid-column: 1 / -1; background: #141414; border: 1px solid #222; border-radius: 10px; padding: 16px 20px; }
+.agency-section-title { font-size: 1.1rem; font-weight: 700; color: #e8e8e8; margin-bottom: 14px; text-decoration: none; display: inline-block; }
+.agency-section-title:hover { color: #fff; text-decoration: none; }
+.agency-artist-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(90px, 1fr)); gap: 10px; }
+.agency-artist-card { background: #1a1a1a; border-radius: 8px; overflow: hidden; text-align: center; text-decoration: none; display: block; transition: transform .12s; }
+.agency-artist-card:hover { transform: translateY(-2px); text-decoration: none; }
+.agency-artist-card img { width: 100%; aspect-ratio: 1; object-fit: cover; object-position: top; display: block; background: #222; }
+.agency-artist-card .no-img { width: 100%; aspect-ratio: 1; background: #1f1f1f; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; color: #444; }
+.agency-artist-card .aac-name { font-size: 0.7rem; padding: 5px 4px 6px; color: #ccc; line-height: 1.3; display: flex; flex-direction: column; gap: 1px; }
+.agency-artist-card .aac-ja { font-size: 0.7rem; }
+.agency-artist-card .aac-en { font-size: 0.62rem; opacity: 0.6; }
+.agency-artist-card--grad { opacity: 0.45; }
+body.hide-grad .subunit-block--grad { display: none; }
+body.hide-grad .group-card--grad-only { display: none; }
+.agency-artist-card--grad:hover { opacity: 0.75; }
 .member-chip--grad:hover { opacity: 0.8; }
 .chip-name { display: flex; flex-direction: column; line-height: 1.25; }
 .chip-en { font-size: 0.72rem; font-weight: 600; }
@@ -125,6 +141,14 @@ h2 { font-size: 1.2rem; margin: 24px 0 12px; color: #ccc; }
 .result-item img { width: 56px; height: 56px; object-fit: cover; border-radius: 4px; flex-shrink: 0; }
 .result-item .no-img { width: 56px; height: 56px; background: #1f1f1f; border-radius: 4px; display: flex; align-items: center; justify-content: center; font-size: 1.4rem; color: #444; flex-shrink: 0; }
 .tag { display: inline-block; font-size: 0.7rem; padding: 1px 6px; border-radius: 3px; background: #222; color: #888; margin-left: 6px; }
+/* Admin nav dropdown */
+.nav-group { position: relative; }
+.nav-group > a { display: flex; align-items: center; gap: 3px; }
+.nav-dropdown { display: none; position: absolute; top: 100%; left: 0; padding-top: 8px; min-width: 140px; z-index: 100; flex-direction: column; }
+.nav-dropdown-inner { background: #1a1a2e; border: 1px solid #2a2a4a; border-radius: 6px; padding: 4px 0; display: flex; flex-direction: column; }
+.nav-group:hover .nav-dropdown { display: flex; }
+.nav-dropdown-inner a { padding: 7px 14px; font-size: 0.88rem; color: #aaa; white-space: nowrap; display: block; }
+.nav-dropdown-inner a:hover { color: #fff; background: #2a2a4a; text-decoration: none; }
 /* Admin */
 .admin-section { background: #141414; border: 1px solid #222; border-radius: 8px; padding: 20px; margin-bottom: 16px; }
 .btn-primary { background: #5a2fa0; border: none; color: #fff; padding: 8px 18px; border-radius: 6px; cursor: pointer; font-size: 0.9rem; }
@@ -142,11 +166,26 @@ h2 { font-size: 1.2rem; margin: 24px 0 12px; color: #ccc; }
     <a href="/artists">Artists</a>
     <a href="/photoboard">Photoboard</a>
     <a href="/releases">Releases</a>
-    <a href="/stats">Stats</a>
-    <a href="/collection">Collection</a>
-    <a href="/iso">ISOs</a>
-    <a href="/admin">Admin</a>
-    <a href="/admin/links">Links</a>
+    <div class="nav-group">
+      <a href="/collection">Collection ▾</a>
+      <div class="nav-dropdown">
+        <div class="nav-dropdown-inner">
+          <a href="/collection">Collection</a>
+          <a href="/iso">ISOs</a>
+        </div>
+      </div>
+    </div>
+    <div class="nav-group">
+      <a href="/admin">Admin ▾</a>
+      <div class="nav-dropdown">
+        <div class="nav-dropdown-inner">
+          <a href="/admin">Overview</a>
+          <a href="/admin/artists">Artists</a>
+          <a href="/stats">Stats</a>
+          <a href="/admin/links">Links</a>
+        </div>
+      </div>
+    </div>
   </nav>
   <form class="search-bar" action="/search" method="get">
     <input name="q" placeholder="Search…" value="{{ request.query_params.get('q', '') }}">

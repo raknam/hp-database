@@ -25,9 +25,10 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 from config import SCRAPER_DIR
 from db.models import (
     Artist, ArtistRelation, Base, CollectionItem, Disc, Edition,
-    Release, ReleaseImage, Song, Track, TrackCredit,
+    IsoFile, Release, ReleaseImage, Song, Track, TrackCredit,
 )
 from db.session import engine
+from nas.scan_iso import autolink_disc
 
 
 # ---------------------------------------------------------------------------
@@ -894,6 +895,16 @@ def main() -> None:
         if args.all or args.songs:
             print("[songs]")
             resolve_songs(session)
+
+        if args.all or args.releases or args.year or args.release:
+            orphans = session.execute(
+                select(IsoFile).where(IsoFile.disc_id.is_(None), IsoFile.present == True)  # noqa: E712
+            ).scalars().all()
+            if orphans:
+                print(f"[autolink] {len(orphans)} orphan ISO(s)…")
+                linked = sum(1 for iso in orphans if (autolink_disc(session, iso), iso.disc_id)[1])
+                session.commit()
+                print(f"[autolink] {linked} linked.")
 
     elapsed = time.monotonic() - t0
     if elapsed >= 60:

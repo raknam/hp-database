@@ -73,7 +73,7 @@ def autolink_disc(session: Session, iso: IsoFile, debug: bool = False) -> None:
         print(f"    [catalog#] {filename} → {catalog_no}{suffix}")
 
     if disc_index is not None:
-        # Find any disc with this catalog_no to get the edition, then pick by sort_order
+        # Find any disc with this catalog_no to get the edition, then pick the Nth disc by position
         anchor = session.execute(
             select(Disc).where(Disc.catalog_no == catalog_no)
         ).scalar_one_or_none()
@@ -82,14 +82,15 @@ def autolink_disc(session: Session, iso: IsoFile, debug: bool = False) -> None:
                 print(f"    [no match] {catalog_no} not found in DB")
             return
         disc = session.execute(
-            select(Disc).where(
-                Disc.edition_id == anchor.edition_id,
-                Disc.sort_order == disc_index,
-            )
+            select(Disc)
+            .where(Disc.edition_id == anchor.edition_id)
+            .order_by(Disc.sort_order)
+            .offset(disc_index)
+            .limit(1)
         ).scalar_one_or_none()
         if not disc:
             if debug:
-                print(f"    [no match] edition {anchor.edition_id} has no disc at index {disc_index}")
+                print(f"    [no match] edition {anchor.edition_id} has no disc at position {disc_index}")
             return
     else:
         disc = session.execute(

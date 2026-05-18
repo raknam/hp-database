@@ -8,7 +8,9 @@ from sqlalchemy import func, select
 from sqlalchemy.orm import Session, selectinload
 
 from db.models import Disc, Edition, IsoFile, Release
+from sqlalchemy import delete
 from db.session import get_db
+from nas.scan_iso import autolink_disc
 from webapp.deps import templates
 
 router = APIRouter()
@@ -27,7 +29,9 @@ def iso_list(
     iso_files = db.execute(
         q.options(
             selectinload(IsoFile.disc).selectinload(Disc.edition)
-            .selectinload(Edition.release).selectinload(Release.artist)
+            .selectinload(Edition.release).selectinload(Release.artist),
+            selectinload(IsoFile.disc).selectinload(Disc.edition)
+            .selectinload(Edition.release).selectinload(Release.images),
         )
     ).scalars().all()
 
@@ -40,6 +44,27 @@ def iso_list(
         "orphans_only": orphans_only,
         "stats": {"total": total, "linked": linked, "orphan": total - linked, "absent": absent},
     })
+
+
+@router.post("/iso/purge-absent")
+def iso_purge_absent(db: Session = Depends(get_db)):
+    result = db.execute(delete(IsoFile).where(IsoFile.present == False))  # noqa: E712
+    db.commit()
+    return RedirectResponse(f"/iso?msg=purged&count={result.rowcount}", status_code=303)
+
+
+@router.post("/iso/autolink")
+def iso_autolink(db: Session = Depends(get_db)):
+    orphans = db.execute(
+        select(IsoFile).where(IsoFile.disc_id.is_(None), IsoFile.present == True)  # noqa: E712
+    ).scalars().all()
+    linked = 0
+    for iso in orphans:
+        autolink_disc(db, iso)
+        if iso.disc_id:
+            linked += 1
+    db.commit()
+    return RedirectResponse(f"/iso?msg=autolink&linked={linked}&checked={len(orphans)}", status_code=303)
 
 
 @router.get("/iso/{iso_id}/open")
